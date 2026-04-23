@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "_itemTitle": "Super Mario Bros. (World) · NES",
+  "title": "Super Mario Bros. (World)",
+  "noIntroId": [
+    "game:2147",
+    "cloneofgame:2146"
+  ],
+  "platform": "NES",
+  "formats": [
+    {
+      "filename": "Super Mario Bros. (World).nes",
+      "filesize": 40976,
+      "format": "Headered",
+      "ext": "nes",
+      "header": "4E 45 53 1A 02 01 01 08 00 00 00 00 02 00 00 01",
+      "checksums": {
+        "md5": "f94bb9bb55f325d9af8a0fff80b9376d",
+        "sha1": "33d23c2f2cfa4c9efec87f7bc1321ce3ce6c89bd",
+        "sha256": "0b3d9e1f01ed1668205bab34d6c82b0e281456e137352e4f36a9b2cfa3b66dea",
+        "crc32": "393a432f"
+      }
+    },
+    {
+      "filename": "Super Mario Bros. (World).unh",
+      "filesize": 40960,
+      "format": "Headerless",
+      "ext": "unh",
+      "checksums": {
+        "md5": "8e3630186e35d477231bf8fd50e54cdd",
+        "sha1": "facee9c577a5262dbe33ac4930bb0b58c8c037f7",
+        "sha256": "fcb6a0ef3a20c19b356005fbb21dc8009563b1cb5a9aaebc8e9386b4a8c5912e",
+        "crc32": "d445f698"
+      }
+    }
+  ]
+}

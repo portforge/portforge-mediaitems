@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameVersion",
+  "_itemTitle": "Super Mario Bros. Remastered · 2025",
+  "title": "Super Mario Bros. Remastered",
+  "releaseYear": 2025,
+  "versionType": "FanRemake",
+  "platforms": ["Windows", "Linux"],
+  "mods": [],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "Super Mario Bros. · 1985",
+    "releaseYear": 1985,
+    "title": "Super Mario Bros",
+    "sortTitle": "Super Mario Bros 1"
+  },
+  "romDependencies": [{
+    "_itemType": "VideoGameRom",
+    "title": "Super Mario Bros. (Europe)",
+    "formats": [{
+      "filename": "Super Mario Bros. (Europe).nes",
+      "filesize": 40976,
+      "format": "Headered",
+      "ext": "nes",
+      "checksums": {
+        "md5": "a07660b710245d0a1dea0b8e44148598",
+        "sha1": "b4140688f9a5b3434276c5a7394b56022436e57a",
+        "sha256": "ff69421b584ce898b3d4b3ab57202900c079c45cdface84d654d0368ad796ffe",
+        "crc32": "4675571d"
+      }
+    }]
+  }],
+  "artwork": [{
+    "artworkType": "Cover",
+    "fileExtension": "png",
+    "fileName": "Cover · en · 1.png"
+  }]
+}

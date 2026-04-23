@@ -1,0 +1,41 @@
+{
+  "_itemType": "VideoGame",
+  "_schemaVersion": "1.0",
+  "_parentItemType": {
+    "title": "Anything",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Super Mario Bros. · 1985",
+  "releaseYear": 1985,
+  "title": "Super Mario Bros",
+  "sortTitle": "Super Mario Bros 1",
+  "alternateTitles": ["", ""],
+  "versions": [{
+    "_itemType": "VideoGameVersion",
+    "_itemTitle": "Super Mario Bros. · 1985",
+    "releaseYear": 1985,
+    "versionType": "Original",
+    "platforms": ["NES"]
+  }],
+  "artwork": [{
+    "artworkType": "Cover",
+    "fileExtension": "png",
+    "fileName": "Cover · en · 1.png"
+  }],
+  "_itemLanguage": "en",
+  "description": "_Super Mario Bros._ is a single-player and multiplayer side-scrolling platform game.\n\nThe story follows the heroic brothers Mario and Luigi, who set out to rescue Princess Toadstool after she is kidnapped by Bowser, king of the Koopas. Bowser has invaded the Mushroom Kingdom, transforming its citizens into blocks, plants, and enemies using his dark magic. To restore peace, the brothers must travel across eight worlds filled with dangerous terrain and hostile creatures, ultimately facing Bowser himself in his fortified castles.\n\nGameplay is presented from a side-scrolling perspective, with each world divided into multiple stages. The player must guide Mario or Luigi to the end of each stage by running, jumping across gaps, and avoiding or defeating enemies. Levels conclude with a flagpole, and the height at which the flag is touched awards additional points. Stages include ground-based courses, underground areas, underwater sections, and fortress levels guarded by Bowser or his decoys.",
+  "tags": ["Nintendo Entertainment System", "NES", "Super Mario"],
+  "_createdAt": "2026-03-11T21:26:47.247Z",
+  "lastUpdatedAt": "2026-04-03T14:41:42.648Z",
+  "_dataSources": [
+    {
+      "sourceId": "mobygames",
+      "lastUpdatedAt": "2026-04-03T14:41:42.648Z",
+      "fields": [
+        "title",
+        "description",
+        "releaseYear"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+[{
+  "version": "1.0.2",
+  "targetPlatforms": ["Linux"],
+  "dependencies": ["unzip"],
+  "args": {
+    "romVersion": {
+      "type": "choice",
+      "label": "ROM region",
+      "options": [
+        {
+          "value": "eu",
+          "label": "Europe",
+          "romTitle": "Super Mario Bros. (Europe)"
+        },
+        {
+          "value": "world",
+          "label": "World",
+          "romTitle": "Super Mario Bros. (World)"
+        }
+      ]
+    }
+  },
+  "steps": [
+    {
+      "step": "createDir",
+      "path": ".build"
+    },
+    {
+      "step": "fetch",
+      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.0.2/Linux.zip",
+      "dest": ".build/Linux.zip"
+    },
+    {
+      "step": "extract",
+      "src": ".build/Linux.zip",
+      "dest": ".build"
+    },
+    {
+      "step": "deletePath",
+      "path": ".build/Linux.zip"
+    },
+    {
+      "step": "copy",
+      "from": "rom",
+      "dest": ".build/config/baserom.nes"
+    },
+    {
+      "step": "touch",
+      "path": ".build/portable.txt"
+    },
+    {
+      "step": "move",
+      "src": ".build",
+      "dest": "install"
+    },
+    {
+      "step": "defineExecutable",
+      "executable": "install/SMB1R.x86_64",
+      "title": "Play"
+    }
+  ]
+}, {
+  "version": "1.0.2",
+  "targetPlatforms": ["Windows"],
+  "dependencies": ["unzip"],
+  "args": {
+    "romVersion": {
+      "type": "choice",
+      "label": "ROM region",
+      "options": [
+        {
+          "value": "eu",
+          "label": "Europe",
+          "romTitle": "Super Mario Bros. (Europe)"
+        }
+      ]
+    }
+  },
+  "steps": [
+    {
+      "step": "createDir",
+      "path": ".build"
+    },
+    {
+      "step": "cd",
+      "path": ".build"
+    },
+    {
+      "step": "fetch",
+      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.0.2/Windows.zip",
+      "dest": "./Windows.zip"
+    },
+    {
+      "step": "extract",
+      "src": "./Windows.zip",
+      "dest": "."
+    },
+    {
+      "step": "deletePath",
+      "path": "./Windows.zip"
+    },
+    {
+      "step": "copy",
+      "from": "rom",
+      "dest": "config/baserom.nes"
+    },
+    {
+      "step": "touch",
+      "path": "config/portable.txt"
+    },
+    {
+      "step": "cd",
+      "path": ".."
+    },
+    {
+      "step": "move",
+      "src": ".build",
+      "dest": "install"
+    },
+    {
+      "step": "defineExecutable",
+      "executable": "install/SMB1R.exe",
+      "title": "Play"
+    }
+  ]
+}]

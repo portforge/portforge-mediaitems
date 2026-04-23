@@ -1,0 +1,126 @@
+[{
+  "targetPlatforms": ["Linux"],
+  "dependencies": ["make", "gcc", "python3", "sdl2-config", "pkg-config", "unzip", "7z"],
+  "args": {
+    "romVersion": {
+      "type": "choice",
+      "label": "ROM region",
+      "options": [
+        {
+          "value": "eu",
+          "label": "European (PAL)",
+          "romTitle": "Super Mario 64 (Europe) (En,Fr,De)"
+        },
+        {
+          "value": "us",
+          "label": "US (NTSC)",
+          "romTitle": "Super Mario 64 (USA)"
+        }
+      ]
+    },
+    "textureMod": {
+      "type": "choice",
+      "label": "Texture mod",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "hd",
+          "label": "HD"
+        },
+        {
+          "value": "4k",
+          "label": "4K"
+        }
+      ]
+    }
+  },
+  "steps": [
+    {
+      "step": "createDir",
+      "path": ".build"
+    },
+    {
+      "step": "fetch",
+      "url": "https://github.com/Render96/Render96ex/archive/12f70c2201cf95b3e3ee90d18ff973e0b47da012.zip",
+      "dest": ".build/source.zip"
+    },
+    {
+      "step": "extract",
+      "src": ".build/source.zip",
+      "dest": ".build"
+    },
+    {
+      "step": "deletePath",
+      "path": ".build/source.zip"
+    },
+    {
+      "step": "copy",
+      "from": "rom",
+      "dest": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/baserom.${romVersion}.z64"
+    },
+    {
+      "step": "make",
+      "args": [
+        "--directory=./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012",
+        "VERSION=$romVersion",
+        "TEXTURE_FIX=1",
+        "DISCORDRPC=0",
+        "EXTERNAL_DATA=1"
+      ]
+    },
+    {
+      "step": "fetch",
+      "if": "${textureMod} != none",
+      "url": "https://github.com/GhostlyDark/SM64-Reloaded/releases/download/v2.6.0/sm64-reloaded-v2.6.0-sm64ex-${textureMod}.zip",
+      "dest": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/textures.zip"
+    },
+    {
+      "step": "extract",
+      "if": "${textureMod} != none",
+      "src": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/textures.zip",
+      "dest": ".build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/res"
+    },
+    {
+      "step": "deletePath",
+      "if": "${textureMod} != none",
+      "path": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/textures.zip"
+    },
+    {
+      "step": "fetch",
+      "url": "https://github.com/Render96/ModelPack/releases/download/3.25/Render96_DynOs_v3.25.7z",
+      "dest": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/dynos/packs/Render96_DynOs_v3.25.7z"
+    },
+    {
+      "step": "extract",
+      "src": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/dynos/packs/Render96_DynOs_v3.25.7z",
+      "dest": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/dynos/packs/"
+    },
+    {
+      "step": "deletePath",
+      "path": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc/dynos/packs/Render96_DynOs_v3.25.7z"
+    },
+    {
+      "step": "move",
+      "src": "./.build/Render96ex-12f70c2201cf95b3e3ee90d18ff973e0b47da012/build/${romVersion}_pc",
+      "dest": "./install"
+    },
+    {
+      "step": "deletePath",
+      "path": "./.build"
+    },
+    {
+      "step": "defineExecutable",
+      "executable": "install/sm64.${romVersion}.f3dex2e",
+      "title": "Play"
+    }
+  ],
+  "uninstallSteps": [
+    {
+      "step": "deletePath",
+      "path": "install"
+    }
+  ]
+}]

@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "_itemTitle": "Super Mario 64 (Europe) (En,Fr,De) · N64",
+  "title": "Super Mario 64 (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0714"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Mario 64 (Europe) (En,Fr,De).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSMP",
+      "checksums": {
+        "md5": "45676429ef6b90e65b517129b700308e",
+        "sha1": "4ac5721683d0e0b6bbb561b58a71740845dceea9",
+        "sha256": "c792e5ebcba34c8d98c0c44cf29747c8ee67e7b907fcc77887f9ff2523f80572",
+        "crc32": "03048de6"
+      }
+    },
+    {
+      "filename": "Super Mario 64 (Europe) (En,Fr,De).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSMP",
+      "checksums": {
+        "md5": "c9e143571eef343b7ba731d15308a39d",
+        "sha1": "d80ee9eeb6454d53a96ceb6ed0aca3ffde045091",
+        "sha256": "8ca0178cb5c7c95bdc5dc9674665996a2d7210f94fb014e7f8b68910c77c3ecb",
+        "crc32": "11fb579b"
+      }
+    }
+  ]
+}

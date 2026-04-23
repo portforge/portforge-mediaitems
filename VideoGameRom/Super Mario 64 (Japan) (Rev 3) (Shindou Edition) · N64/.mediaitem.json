@@ -1,0 +1,38 @@
+{
+  "_itemType": "VideoGameRom",
+  "_itemTitle": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition) · N64",
+  "title": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)",
+  "noIntroId": [
+    "game:0716",
+    "cloneofgame:0714"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSMJ",
+      "checksums": {
+        "md5": "2d727c3278aa232d94f2fb45aec4d303",
+        "sha1": "3f319ae697533a255a1003d09202379d78d5a2e0",
+        "sha256": "f8807b5e28f1b1a31c5d3675d23ece73f949ccb553dcbb07972666a1e76adfa2",
+        "crc32": "a1e15117"
+      }
+    },
+    {
+      "filename": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSMJ",
+      "checksums": {
+        "md5": "f3a6e533de52fb84d4e2dfae6167c8b1",
+        "sha1": "2a2b85e94581545ca3c05b8f864b488b141a8a1f",
+        "sha256": "0802e9ec61a031dde2975dae94e78c035b73a1cfcc810bf4935016dc2cc033fe",
+        "crc32": "bc9ff5f2"
+      }
+    }
+  ]
+}

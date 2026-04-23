@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "_itemTitle": "Super Mario 64 (USA) · N64",
+  "title": "Super Mario 64 (Japan)",
+  "noIntroId": [
+    "game:0715",
+    "cloneofgame:0714"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Mario 64 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSMJ",
+      "checksums": {
+        "md5": "85d61f5525af708c9f1e84dce6dc10e9",
+        "sha1": "8a20a5c83d6ceb0f0506cfc9fa20d8f438cafe51",
+        "sha256": "9cf7a80db321b07a8d461fe536c02c87b7412433953891cdec9191bfad2db317",
+        "crc32": "dd801954"
+      }
+    },
+    {
+      "filename": "Super Mario 64 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSMJ",
+      "checksums": {
+        "md5": "73c72657b1320faf2a6aea0e0a3de45a",
+        "sha1": "1d2579dd5fb1d8263a4bcc063a651a64acc88921",
+        "crc32": "5cf7952a"
+      }
+    }
+  ]
+}

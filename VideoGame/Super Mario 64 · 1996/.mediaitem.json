@@ -1,0 +1,78 @@
+{
+  "_itemType": "VideoGame",
+  "_schemaVersion": "1.0",
+  "_parentItemType": {
+    "title": "Anything",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Super Mario 64 · 1996",
+  "releaseYear": 1996,
+  "title": "Super Mario 64",
+  "sortTitle": "Super Mario 64",
+  "versions": [{
+    "_itemType": "VideoGameVersion",
+    "_itemTitle": "Super Mario 64 · 1996",
+    "releaseYear": 1996,
+    "versionType": "Original",
+    "platforms": [{
+      "_itemType": "VideoGameConsole",
+      "_itemTitle": "Nintendo 64 · 1996",
+      "title": "Nintendo 64",
+      "releaseYear": 1996
+    }]
+  }, {
+    "_itemType": "VideoGameVersion",
+    "_itemTitle": "Super Mario 64 DS · 2004",
+    "title": "Super Mario 64 DS",
+    "releaseYear": 2004,
+    "versionType": "Remake",
+    "platforms": [{
+      "_itemType": "VideoGameConsole",
+      "_itemTitle": "Nintendo DS · 2005",
+      "title": "Nintendo DS",
+      "releaseYear": 2005
+    }]
+  }],
+  "connections": [{
+    "refersTo": {
+      "_itemType": "VideoGame",
+      "_itemTitle": "Super Mario 64 DS · 2004",
+      "title": "Super Mario 64 DS"
+    },
+    "connection": "Remade into",
+    "description": ""
+  }],
+  "artwork": [{
+    "artworkType": "N64BoxFront",
+    "fileExtension": "jpg",
+    "fileName": "N64BoxFront · en · 1.jpg"
+  }, {
+    "artworkType": "N64BoxFront",
+    "fileExtension": "png",
+    "fileName": "N64BoxFront · en · 2.png"
+  }, {
+    "artworkType": "Banner",
+    "fileExtension": "png",
+    "fileName": "Banner · 1.png"
+  }, {
+    "artworkType": "Cover",
+    "fileExtention": "png",
+    "fileName": "Cover · en · 1.png"
+  }],
+  "_itemLanguage": "en",
+  "description": "_Super Mario 64_ is a single-player 3D platform game in which players guide Mario through Princess Peach’s castle and its magical worlds in an attempt to rescue her from Bowser. When Mario arrives at the castle after receiving Peach’s invitation, he finds her missing, the castle overtaken by Bowser, and the Toads trapped by his spell. To break Bowser’s control and free Peach, Mario must explore the castle’s many paintings, which act as portals to different worlds, and collect Power Stars hidden within them.\n\nUnlike earlier side-scrolling Mario games, this installment is set in fully three-dimensional environments. Each course is built around objectives tied to Power Stars, such as defeating bosses, completing timed challenges, or solving environmental puzzles. Levels can be revisited multiple times, often with new areas opening once Mario gains new abilities or items. Progression through the castle requires collecting enough Stars to unlock doors and access new wings of the castle, with three major encounters against Bowser determining Mario’s advancement to the final showdown.\n\nMario’s movement set is greatly expanded compared to earlier games. In addition to running and standard jumping, he can crouch, crawl, climb, and punch or kick enemies. Advanced maneuvers such as double jumps, triple jumps, long jumps, wall kicks, and backflips are essential to reach hidden areas or complete challenges. Swimming requires careful management of Mario’s air supply, and some levels feature puzzles that involve carrying items or interacting with switches to advance.\n\nSeveral power-ups appear in special hidden blocks throughout the game. The Wing Cap allows Mario to soar through the air when launched from a cannon, the Metal Cap makes him invulnerable and able to walk underwater, and the Vanish Cap lets him phase through certain barriers. These power-ups are temporary but often required to access Stars in specific courses.",
+  "tags": ["Nintendo 64", "N64", "Super Mario"],
+  "_createdAt": "2026-03-11T21:26:47.247Z",
+  "lastUpdatedAt": "2026-04-03T14:41:42.648Z",
+  "_dataSources": [
+    {
+      "sourceId": "mobygames",
+      "lastUpdatedAt": "2026-04-03T14:41:42.648Z",
+      "fields": [
+        "title",
+        "description",
+        "releaseYear"
+      ]
+    }
+  ]
+}
