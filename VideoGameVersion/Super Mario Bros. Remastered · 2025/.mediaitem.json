@@ -21,11 +21,39 @@
       "filesize": 40976,
       "format": "Headered",
       "ext": "nes",
+      "header": "4E 45 53 1A 02 01 01 08 00 00 00 00 01 00 00 01",
       "checksums": {
         "md5": "a07660b710245d0a1dea0b8e44148598",
         "sha1": "b4140688f9a5b3434276c5a7394b56022436e57a",
         "sha256": "ff69421b584ce898b3d4b3ab57202900c079c45cdface84d654d0368ad796ffe",
         "crc32": "4675571d"
+      }
+    }, {
+      "filename": "Super Mario Bros. (Europe).unh",
+      "filesize": 40960,
+      "format": "Headerless",
+      "ext": "unh",
+      "checksums": {
+        "md5": "ba39dde63ab209b1bc751e0535e72b18",
+        "sha1": "0c4992fc08d2278697339d3b48066e7b5f943598",
+        "sha256": "6b3189414053f975bcac33eb51a1e9991e0d06f42abead7919969417cc26e2ad",
+        "crc32": "9a2db086"
+      }
+    }]
+  }, {
+    "_itemType": "VideoGameRom",
+    "title": "Super Mario Bros. (World)",
+    "formats": [{
+      "filename": "Super Mario Bros. (World).nes",
+      "filesize": 40976,
+      "format": "Headered",
+      "ext": "nes",
+      "header": "4E 45 53 1A 02 01 01 08 00 00 00 00 02 00 00 01",
+      "checksums": {
+        "md5": "f94bb9bb55f325d9af8a0fff80b9376d",
+        "sha1": "33d23c2f2cfa4c9efec87f7bc1321ce3ce6c89bd",
+        "sha256": "0b3d9e1f01ed1668205bab34d6c82b0e281456e137352e4f36a9b2cfa3b66dea",
+        "crc32": "393a432f"
       }
     }]
   }],

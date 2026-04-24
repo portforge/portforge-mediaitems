@@ -15,17 +15,41 @@
   },
   "romDependencies": [{
     "_itemType": "VideoGameRom",
+    "_itemTitle": "Super Mario 64 (Europe) (En,Fr,De) · N64",
     "title": "Super Mario 64 (Europe) (En,Fr,De)",
     "formats": [{
-      "filename": "Super Mario 64 (Europe) (En,Fr,De).z64",
+      "filename": "Super Mario 64 (USA).z64",
       "filesize": 8388608,
       "format": "BigEndian",
       "ext": "z64",
+      "serial": "NSME",
       "checksums": {
-        "md5": "45676429ef6b90e65b517129b700308e",
-        "sha1": "4ac5721683d0e0b6bbb561b58a71740845dceea9",
-        "sha256": "c792e5ebcba34c8d98c0c44cf29747c8ee67e7b907fcc77887f9ff2523f80572",
-        "crc32": "03048de6"
+        "md5": "20b854b239203baf6c961b850a4a51a2",
+        "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce",
+        "sha256": "17ce077343c6133f8c9f2d6d6d9a4ab62c8cd2aa57c40aea1f490b4c8bb21d91",
+        "crc32": "3ce60709"
+      }
+    }]
+  }, {
+    "_itemType": "VideoGameRom",
+    "_itemTitle": "Super Mario 64 (USA) · N64",
+    "title": "Super Mario 64 (USA)",
+    "noIntroId": [
+      "game:0717",
+      "cloneofgame:0714"
+    ],
+    "platform": "N64",
+    "formats": [{
+      "filename": "Super Mario 64 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSME",
+      "checksums": {
+        "md5": "20b854b239203baf6c961b850a4a51a2",
+        "sha1": "9bef1128717f958171a4afac3ed78ee2bb4e86ce",
+        "sha256": "17ce077343c6133f8c9f2d6d6d9a4ab62c8cd2aa57c40aea1f490b4c8bb21d91",
+        "crc32": "3ce60709"
       }
     }]
   }],
