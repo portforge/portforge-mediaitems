@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "TG Rally 2 (Europe)",
+  "noIntroId": [
+    "game:0738",
+    "cloneofgame:0764"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "TG Rally 2 (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NL2X",
+      "checksums": {
+        "md5": "acd0118ac4709db3943b3d35112c2001",
+        "sha1": "46907a7bd1ceb65f48c39d9d60b56dbc75a7a2c3",
+        "crc32": "135c8eb0"
+      }
+    },
+    {
+      "filename": "TG Rally 2 (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NL2X",
+      "checksums": {
+        "md5": "a2c3ec262b1db91463369cbdcaa1c4ab",
+        "sha1": "77baf3dd7b20c2c7faae4944d1f9d30476a25aac",
+        "crc32": "b5e8a1df"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "City-Tour GP - Zen-Nihon GT Senshuken (Japan)",
+  "noIntroId": [
+    "game:0133",
+    "cloneofgame:0270"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "City-Tour GP - Zen-Nihon GT Senshuken (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGTJ",
+      "checksums": {
+        "md5": "2a0bf5a9a136d57af01d199b16899634",
+        "sha1": "2b543707f5bdba52a49d71755615d6cf38e23e76",
+        "sha256": "8229117b9a8f1d9bfb96e9cc05e5dcd3ad4432d63b5f418c621f953ba554026a",
+        "crc32": "e272bdf6"
+      }
+    },
+    {
+      "filename": "City-Tour GP - Zen-Nihon GT Senshuken (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGTJ",
+      "checksums": {
+        "md5": "e55be3d631ad7b76acf8ad4832a1cb8b",
+        "sha1": "fcad11bcdd2ad20e1c49cea89f1ed4697ddebd91",
+        "crc32": "7a59354b"
+      }
+    }
+  ]
+}

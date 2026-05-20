@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "War Gods (USA)",
+  "noIntroId": [
+    "game:0819",
+    "cloneofgame:0818"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "War Gods (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWAE",
+      "checksums": {
+        "md5": "9ff2ba3c8408de9f0edb6d764a97c197",
+        "sha1": "829c4f0f1caa72a2fbabaee5651e2acc695d3921",
+        "sha256": "7247b79c49474c468e448b5ba58a28f8d1556139bfd08fb19770fad3db8b25f6",
+        "crc32": "ffacf993"
+      }
+    },
+    {
+      "filename": "War Gods (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWAE",
+      "checksums": {
+        "md5": "804e38e2ff638ef8b2e02e231ad2f8a2",
+        "sha1": "3ff5c88420221f95eb27a65519c6fe558618bfc7",
+        "sha256": "efcdab9d0609e3c20572a3e1c21efe063beda31a01ff92b37577e5399fb06d45",
+        "crc32": "10635b27"
+      }
+    }
+  ]
+}

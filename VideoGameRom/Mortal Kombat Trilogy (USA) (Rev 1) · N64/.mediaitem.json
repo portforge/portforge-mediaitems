@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mortal Kombat Trilogy (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0888",
+    "cloneofgame:0458"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mortal Kombat Trilogy (USA) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMKE",
+      "checksums": {
+        "md5": "26129419799db01bfe79f279ec43b334",
+        "sha1": "2a10cb20332beaa067d61e5923cd18bedd6436d7",
+        "crc32": "ba64f824"
+      }
+    },
+    {
+      "filename": "Mortal Kombat Trilogy (USA) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMKE",
+      "checksums": {
+        "md5": "dde1d2eaff5e00db9c87f9ccedfbd45d",
+        "sha1": "0166caacee40b5caa7762036468ec86fbf46f247",
+        "crc32": "b1c6df97"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Donsol (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1117"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Donsol (World) (Aftermarket) (Unl).z64",
+      "filesize": 1052672,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "3f345578242eb8c7f8f9710df6432abb",
+        "sha1": "bac0791b68292e40c3971f84d7e23841eb8fac32",
+        "sha256": "f2a7eba26bd3bcaa025365025df5e73741c802b2d0734f591c9e7f4e405a4401",
+        "crc32": "a0e96c02"
+      }
+    },
+    {
+      "filename": "Donsol (World) (Aftermarket) (Unl).v64",
+      "filesize": 1052672,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "67c0dd8a4d6d77c164a279b6e0eb273c",
+        "sha1": "42a0854bd0c0f8aeea97b37401c792250bbbc482",
+        "sha256": "45fdbf4f1df85e782032af9a5d952a6de33dfc40c68ac449452db9279648318a",
+        "crc32": "99e5b970"
+      }
+    }
+  ]
+}

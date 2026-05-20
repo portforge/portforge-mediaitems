@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Doom 64 (USA)",
+  "noIntroId": [
+    "game:0179",
+    "cloneofgame:0177"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Doom 64 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDME",
+      "checksums": {
+        "md5": "b67748b64a2cc7efd2f3ad4504561e0e",
+        "sha1": "799a588d73da3fcce8031026a8187da92b91c817",
+        "sha256": "d3404a7e8ca9d20ba034651932e67aa90c6c475c5f4738f222cd1e3056df935f",
+        "crc32": "5cc1ade6"
+      }
+    },
+    {
+      "filename": "Doom 64 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDME",
+      "checksums": {
+        "md5": "5a8684bc098428dd2a401f4cdaee78df",
+        "sha1": "b30f2b1b1cf70dc4b398bff26f75eedff858540d",
+        "crc32": "4dfb7cb6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "2048 (World) (En,Fr,Es) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1172"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "2048 (World) (En,Fr,Es) (Aftermarket) (Unl).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "0c7b165cf3553ef550067d0c46681097",
+        "sha1": "b855c12d25c4df358df7c98810857e1e5c7fd5a4",
+        "sha256": "84e26880c801547a071cdcd5b5fb21ae1354686a4e521aace715cc25fda1e346",
+        "crc32": "2ea39d5c"
+      }
+    },
+    {
+      "filename": "2048 (World) (En,Fr,Es) (Aftermarket) (Unl).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "8a4b29033e86789b10b4ad987d5f3f5b",
+        "sha1": "77c14c54a6b899dc40b4ea59697637579002cd35",
+        "sha256": "f69624f996409d2f035c0655f63ed97a2a5dd193f22239f6cd2370908bbf5478",
+        "crc32": "1f41e918"
+      }
+    }
+  ]
+}

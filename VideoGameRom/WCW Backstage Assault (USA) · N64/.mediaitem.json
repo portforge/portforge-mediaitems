@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "WCW Backstage Assault (USA)",
+  "noIntroId": [
+    "game:0831"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WCW Backstage Assault (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWVE",
+      "checksums": {
+        "md5": "02aed169eb579494ace75d22e10d789b",
+        "sha1": "34f793d55770d5eb112cff0e28cb0a35e0ec7385",
+        "crc32": "5dcc2e4e"
+      }
+    },
+    {
+      "filename": "WCW Backstage Assault (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWVE",
+      "checksums": {
+        "md5": "a08b158b8eebb9fe2cbf5c5bec86266e",
+        "sha1": "f31e03752c7502e99a201bf86ffb453ac260d426",
+        "crc32": "d3a9f234"
+      }
+    }
+  ]
+}

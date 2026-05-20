@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Dolphin Controller Test (Japan) (Test Program)",
+  "noIntroId": [
+    "game:1290"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Dolphin Controller Test (Japan) (Test Program).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "fd196bfef883f205670aec9fe4e3b1fc",
+        "sha1": "39833526fe2c2437644c47c0a2b0ddd11f8728a4",
+        "sha256": "33affc199e629b2037303d36c0fa64a0ce386a14016286f02ab56f45bff6859f",
+        "crc32": "675eb439"
+      }
+    },
+    {
+      "filename": "Dolphin Controller Test (Japan) (Test Program).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "91e7945fee2ea4c820cb43e31e929244",
+        "sha1": "b1d514c8b50aa05c688b20121783dff6069087bf",
+        "sha256": "825cdc8fb455dcc3c5191dbbe1851fffb1c07b9f65ec861b3c5e3a38ea0cd002",
+        "crc32": "cba61bc8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Razor Freestyle Scooter (USA)",
+  "noIntroId": [
+    "game:0614"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Razor Freestyle Scooter (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFQE",
+      "checksums": {
+        "md5": "406b08987ab92d73d72b597ec6b11bd9",
+        "sha1": "d107e8d28a262a60ba50de4c227343ebc3587784",
+        "sha256": "bdb827e672625c795e1c8be7645c8a4ea3fd5c6ed41cdd16b16980d86481f5f4",
+        "crc32": "927ce621"
+      }
+    },
+    {
+      "filename": "Razor Freestyle Scooter (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFQE",
+      "checksums": {
+        "md5": "c5a6c5f3a8b1a59ac2064c83744310c3",
+        "sha1": "8af56990d73f7eae9212c44cd9f417b27ed78649",
+        "sha256": "c1fea1c3a9108e84495906a5e38f0e9541bf8abd384ea40440f2ded839a41025",
+        "crc32": "208350c5"
+      }
+    }
+  ]
+}

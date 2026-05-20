@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "F-1 World Grand Prix (Europe)",
+  "noIntroId": [
+    "game:0215"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "F-1 World Grand Prix (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFWP",
+      "checksums": {
+        "md5": "fac450eaff8fa46a1414db02e6eeab9f",
+        "sha1": "d812098662c4f8f73deb06d140e46a7754ce3b42",
+        "sha256": "bc965dee76361aed01d5d745ae1060e010d6d6f118421a6cd6959015767872a6",
+        "crc32": "1f4e651a"
+      }
+    },
+    {
+      "filename": "F-1 World Grand Prix (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFWP",
+      "checksums": {
+        "md5": "151bc850c8078a6dc78001d2e690d32a",
+        "sha1": "359e4b83246bca7f377ecfc97291f297012febcc",
+        "crc32": "8c08a7a8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Harvest Moon 64 (USA)",
+  "noIntroId": [
+    "game:0274"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Harvest Moon 64 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NYWE",
+      "checksums": {
+        "md5": "6da848a70d83ece130d274124760928e",
+        "sha1": "90631460f1876a14849df0541d534012b410a34c",
+        "sha256": "15c570120bfaa97b4580762f5ee5939a56ba054e696925ea81ccfa55a022d2a6",
+        "crc32": "decdc0ad"
+      }
+    },
+    {
+      "filename": "Harvest Moon 64 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NYWE",
+      "checksums": {
+        "md5": "0a5d1e13b410d209835b43f2a985ef64",
+        "sha1": "7fcab48a10a9b3b7ba5834347ff180c74d7b932c",
+        "sha256": "83faf274ec3d66f207988f805bb94edd0e76af147ba233f57aa3b6468b8f68cf",
+        "crc32": "d2ee315f"
+      }
+    }
+  ]
+}

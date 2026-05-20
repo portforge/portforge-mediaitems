@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Blues Brothers 2000 (USA)",
+  "noIntroId": [
+    "game:0083",
+    "cloneofgame:0082"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Blues Brothers 2000 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBPE",
+      "checksums": {
+        "md5": "997fd8f79cd6f3cd1c1c1fd21e358717",
+        "sha1": "ed0fe7c9a2e8015bdf8262d35065f53c6fcea60f",
+        "sha256": "3ca0ac99c1611125783d474825b9d912b7b2e491d17468b0db6fb29b941fc985",
+        "crc32": "c6f49764"
+      }
+    },
+    {
+      "filename": "Blues Brothers 2000 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBPE",
+      "checksums": {
+        "md5": "d7f17e918ab32f64a67409dc86d89c5c",
+        "sha1": "62655484f77091f31fb6a8142af90ae58489e0e2",
+        "crc32": "109907b5"
+      }
+    }
+  ]
+}

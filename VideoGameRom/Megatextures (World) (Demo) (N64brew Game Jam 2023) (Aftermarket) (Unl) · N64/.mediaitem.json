@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1249"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64",
+      "filesize": 48373160,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "dda13a5195451f84f472d1d7a6b5b8d4",
+        "sha1": "41777e31ecc150377d3ecc1a9990e868b02a6413",
+        "sha256": "1d620f7b151b885d1e778116dcce4f3e8f1eb99530d542122b1838061218c06a",
+        "crc32": "b3225f89"
+      }
+    },
+    {
+      "filename": "Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl).v64",
+      "filesize": 48373160,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "ceda3a74c641bb64fccf4edd6a747cdc",
+        "sha1": "46df233bf6dbaa83cec296384c960f6809c943c9",
+        "sha256": "c4d40424f50ce54e8074147c625a443c31931d939b1dafcd6e3f1d769e5811a8",
+        "crc32": "e7fe39d9"
+      }
+    }
+  ]
+}

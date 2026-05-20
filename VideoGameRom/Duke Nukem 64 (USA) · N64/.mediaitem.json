@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Duke Nukem 64 (USA)",
+  "noIntroId": [
+    "game:0196",
+    "cloneofgame:0194"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Duke Nukem 64 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDNE",
+      "checksums": {
+        "md5": "c7f1a43764a26da2e43f2a36a5f76e4c",
+        "sha1": "98d6778004becc672eba0a5e887f6e3f3d1b5c15",
+        "sha256": "5885913d626849190469a7e0e8ad90729b490d1715f70fe73ef047d24f20964b",
+        "crc32": "dbfd5a53"
+      }
+    },
+    {
+      "filename": "Duke Nukem 64 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDNE",
+      "checksums": {
+        "md5": "a18868c5d7bcf919a65999d91653b268",
+        "sha1": "72fcf260632323c2538a6d2feea7030b8da5bac8",
+        "crc32": "1bf948c3"
+      }
+    }
+  ]
+}

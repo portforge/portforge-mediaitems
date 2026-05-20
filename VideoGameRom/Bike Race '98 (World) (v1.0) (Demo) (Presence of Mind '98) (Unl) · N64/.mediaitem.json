@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Bike Race '98 (World) (v1.0) (Demo) (Presence of Mind '98) (Unl)",
+  "noIntroId": [
+    "game:1222",
+    "cloneofgame:1221"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bike Race '98 (World) (v1.0) (Demo) (Presence of Mind '98) (Unl).z64",
+      "filesize": 3145728,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "0059b65e1c813bc8bd1a61a1fe009ccd",
+        "sha1": "f049a1ebb96c8a18e716ed15494c38a6098d01bf",
+        "sha256": "1200d318e844bcfd4102a4a54fd81fb9d3c82bcad7ace13589d90124658a5b98",
+        "crc32": "601c8801"
+      }
+    },
+    {
+      "filename": "Bike Race '98 (World) (v1.0) (Demo) (Presence of Mind '98) (Unl).v64",
+      "filesize": 3145728,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "b275fd982ca8ebee45d594b68f63cf26",
+        "sha1": "9f8729009b88c8ea01541225e9c1b4621acfd9d6",
+        "sha256": "32964f444ea679532f23801af872994aba38b95d24dd53732426616ee6911ad8",
+        "crc32": "168a3403"
+      }
+    }
+  ]
+}

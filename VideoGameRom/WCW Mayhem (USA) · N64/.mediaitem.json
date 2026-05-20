@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "WCW Mayhem (USA)",
+  "noIntroId": [
+    "game:0833",
+    "cloneofgame:0832"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WCW Mayhem (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWME",
+      "checksums": {
+        "md5": "87bf3784709cd09693cd7bcc08460c63",
+        "sha1": "83382ee31db3dccd598d8af55607e70db1bcbbb6",
+        "crc32": "f1f9b6eb"
+      }
+    },
+    {
+      "filename": "WCW Mayhem (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWME",
+      "checksums": {
+        "md5": "953870b29ec86fdb782136f334bcb05c",
+        "sha1": "0b848a7747c97286d42764f9237d9ef05b39becd",
+        "crc32": "a1911368"
+      }
+    }
+  ]
+}

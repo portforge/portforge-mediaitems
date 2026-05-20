@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Eikou no Saint Andrews (Japan)",
+  "noIntroId": [
+    "game:0201"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Eikou no Saint Andrews (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSTJ",
+      "checksums": {
+        "md5": "935dd85ad198bbde92161cdce47cbfb3",
+        "sha1": "5686b49ac9a60ebfc1d1abf6214f7bc06849abf4",
+        "sha256": "4d7292884c27dc329499dab22a116bbe0d07b62b4b169138c89d7493b09a2bfa",
+        "crc32": "1699d2d6"
+      }
+    },
+    {
+      "filename": "Eikou no Saint Andrews (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSTJ",
+      "checksums": {
+        "md5": "619d71f98b53696347c497fa5ac0c7b1",
+        "sha1": "1a313d3b4b11a16b8280b0139a15e47791c8080a",
+        "crc32": "ce55bb19"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Vigilante 8 - 2nd Offense (USA)",
+  "noIntroId": [
+    "game:0807",
+    "cloneofgame:0806"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Vigilante 8 - 2nd Offense (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NVGE",
+      "checksums": {
+        "md5": "60cdf7445fad2aba05c958f46691501b",
+        "sha1": "9634247ca456c82a65bb33f552db036ba6f33f79",
+        "crc32": "0293203f"
+      }
+    },
+    {
+      "filename": "Vigilante 8 - 2nd Offense (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NVGE",
+      "checksums": {
+        "md5": "f2c52f565bd370e6827ae8c6438e5a51",
+        "sha1": "2da6a5a3fa61077949582154597a4717bcf51e3a",
+        "crc32": "764abdb3"
+      }
+    }
+  ]
+}

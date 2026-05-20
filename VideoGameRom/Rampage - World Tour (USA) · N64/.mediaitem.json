@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Rampage - World Tour (USA)",
+  "noIntroId": [
+    "game:0606",
+    "cloneofgame:0605"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rampage - World Tour (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRPE",
+      "checksums": {
+        "md5": "4645672a0cf00ada9b5e37cfde8b024e",
+        "sha1": "7a6c8758e67fd3da99e3420983c0d6df83e41c6b",
+        "sha256": "a06da4bf6342670df551738c07ed2d1c91ee12c29df73c0c3f8eeae2ea1016ea",
+        "crc32": "211119dd"
+      }
+    },
+    {
+      "filename": "Rampage - World Tour (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRPE",
+      "checksums": {
+        "md5": "407698abb21efa78e7c91e1753c967a9",
+        "sha1": "5dd821436db22ce9b4168088189ee5788270d044",
+        "crc32": "6fe4da23"
+      }
+    }
+  ]
+}

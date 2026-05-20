@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Castlevania - Legacy of Darkness (USA)",
+  "noIntroId": [
+    "game:0116",
+    "cloneofgame:0115"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Castlevania - Legacy of Darkness (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "ND4E",
+      "checksums": {
+        "md5": "25258460f98f567497b24844abe3a05b",
+        "sha1": "879ead98f197fd05edda867655da5b1ce25aa5b8",
+        "sha256": "89e15df6042defddc48c61f7408f99d06fffdb845e2422cf8b5ba8e73d4d70fb",
+        "crc32": "ab13028c"
+      }
+    },
+    {
+      "filename": "Castlevania - Legacy of Darkness (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "ND4E",
+      "checksums": {
+        "md5": "8a1729b7ef9bf63375194109c07bc41f",
+        "sha1": "ab24feae782703886ee61069b930a2713b398c6d",
+        "sha256": "5b98b9562880823ca48a85ae3467302c204742c4c02ee285b8f2ecc3412b009a",
+        "crc32": "1f147376"
+      }
+    }
+  ]
+}

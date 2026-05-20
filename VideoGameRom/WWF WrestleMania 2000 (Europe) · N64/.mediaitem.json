@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "WWF WrestleMania 2000 (Europe)",
+  "noIntroId": [
+    "game:0865"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WWF WrestleMania 2000 (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWXP",
+      "checksums": {
+        "md5": "b75149f87cc5f3a508643ac377f2fcc9",
+        "sha1": "d37c4100d967cb8b71852993b947619467ffcaf7",
+        "sha256": "8f759c230e6c261eb77cff7906740173132c7051fcaed10dea71d78e375e45c7",
+        "crc32": "09d710c7"
+      }
+    },
+    {
+      "filename": "WWF WrestleMania 2000 (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWXP",
+      "checksums": {
+        "md5": "02bcb985bf7e169df502e2667bd64cab",
+        "sha1": "a5923994a65ffd425ed094fb9ff8ccafd5abc10a",
+        "crc32": "acb7ba1b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",
+  "noIntroId": [
+    "game:0611"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NY2P",
+      "checksums": {
+        "md5": "5dbbfd5ace8222fa8fe51be113453c13",
+        "sha1": "619ab27ea1645399439ad324566361d3e7ff020e",
+        "sha256": "c80b063de6afe80bb47281efe76406654070e942d5a733fee2668c8e11a2581b",
+        "crc32": "169a5037"
+      }
+    },
+    {
+      "filename": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NY2P",
+      "checksums": {
+        "md5": "8d0b9783b56e4d62d0462a80cb61947c",
+        "sha1": "a422b3be224814c7f01512d778becfa0bdffafc8",
+        "crc32": "b7e10177"
+      }
+    }
+  ]
+}

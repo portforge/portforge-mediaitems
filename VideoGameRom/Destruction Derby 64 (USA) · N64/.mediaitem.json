@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Destruction Derby 64 (USA)",
+  "noIntroId": [
+    "game:0164",
+    "cloneofgame:0163"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Destruction Derby 64 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDEE",
+      "checksums": {
+        "md5": "7fccb47498eec06e96ae9372247d1e90",
+        "sha1": "a2c0799e13566d1b723299592cfcac9387f25fa7",
+        "sha256": "91abc085eaf245fc3987442a18dfe00585af615fab61e2306b870e7ff4b9e19c",
+        "crc32": "38f1b5d9"
+      }
+    },
+    {
+      "filename": "Destruction Derby 64 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDEE",
+      "checksums": {
+        "md5": "5b9d74019ffcc91b8737ce09c0af5030",
+        "sha1": "31981b9b32814bbc3fe0c2a71c888858566352f9",
+        "crc32": "ef680f71"
+      }
+    }
+  ]
+}

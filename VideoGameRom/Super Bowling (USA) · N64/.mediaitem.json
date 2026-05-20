@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Super Bowling (USA)",
+  "noIntroId": [
+    "game:0713"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Bowling (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBWE",
+      "checksums": {
+        "md5": "fa3a043997a3acdf17337385b126bc04",
+        "sha1": "56937a9e9536af55ebed06480413265848c4a04a",
+        "crc32": "f6ccd04a"
+      }
+    },
+    {
+      "filename": "Super Bowling (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBWE",
+      "checksums": {
+        "md5": "61587d9a36d7e745bf53eb7a5c86dd65",
+        "sha1": "876973c2e83d4f915f65d7231cbf9051a2cf03aa",
+        "crc32": "e651cbaa"
+      }
+    }
+  ]
+}

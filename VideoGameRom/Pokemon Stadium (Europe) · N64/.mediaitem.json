@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Stadium (Europe)",
+  "noIntroId": [
+    "game:0570",
+    "cloneofgame:0571"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Stadium (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPOP",
+      "checksums": {
+        "md5": "2859090d78581e0925a3af8045e81e4b",
+        "sha1": "6f26e3c8b35c3232058375e30d19665facb23123",
+        "crc32": "dc57508d"
+      }
+    },
+    {
+      "filename": "Pokemon Stadium (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPOP",
+      "checksums": {
+        "md5": "3d01c1b902876b4f72c10b66ed99b693",
+        "sha1": "df6d958fdf04d598194ab5821dd77655da9d0c5d",
+        "crc32": "7a8bf040"
+      }
+    }
+  ]
+}

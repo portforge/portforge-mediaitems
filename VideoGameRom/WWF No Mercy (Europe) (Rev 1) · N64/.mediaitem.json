@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "WWF No Mercy (Europe) (Rev 1)",
+  "noIntroId": [
+    "game:0861"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WWF No Mercy (Europe) (Rev 1).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NW4P",
+      "checksums": {
+        "md5": "400a14f132d993f5544f8b008ec136fa",
+        "sha1": "cc8b9863c0e96d1b6a611d6ac2238e38b247ea5d",
+        "sha256": "381d46cfdf108122d8e41a3e0a45b2c8fb9d0429f130dde5d6d58e6d81da07c0",
+        "crc32": "43ba9e7e"
+      }
+    },
+    {
+      "filename": "WWF No Mercy (Europe) (Rev 1).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NW4P",
+      "checksums": {
+        "md5": "685ba168af8b7d4a9d31b17a1b432405",
+        "sha1": "f49217cb9039212d2d779acb00222fb73c454f56",
+        "crc32": "1a6f82e4"
+      }
+    }
+  ]
+}

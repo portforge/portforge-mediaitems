@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wizard of the Board (World) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1181",
+    "cloneofgame:1180"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wizard of the Board (World) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "9155a67aa77a568bf4612c7eea7c00f3",
+        "sha1": "2ab6bf1188714cfe9fabd3a51a655a9a33e75c36",
+        "sha256": "e64a9c6f047e2d5c7cfec2c1b81a2ff8b3df4acb0f82ba310b203ff80edcb084",
+        "crc32": "b51a283c"
+      }
+    },
+    {
+      "filename": "Wizard of the Board (World) (N64brew Game Jam 2021) (PAL) (Aftermarket) (Unl).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "0a67ca1477273d47d5456647b951ad4a",
+        "sha1": "1eb963c075f96408fdd3e90a9e638b5c251c29bb",
+        "sha256": "55a7bfa308ca034e90abffc550beb571e9d5dece61ebcdcda722abc24805ba56",
+        "crc32": "9888e750"
+      }
+    }
+  ]
+}

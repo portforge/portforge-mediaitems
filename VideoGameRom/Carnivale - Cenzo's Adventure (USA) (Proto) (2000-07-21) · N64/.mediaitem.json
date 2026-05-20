@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21)",
+  "noIntroId": [
+    "game:1086"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "62a20938ea563ba5e79fb3799993d17b",
+        "sha1": "2efd826bc0907e970ac90c77b3482fa6127addde",
+        "sha256": "bb85e7dc83d645755967e70ac3e557afc31217474805884f4a31d4f750060b0d",
+        "crc32": "cf3a966b"
+      }
+    },
+    {
+      "filename": "Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "5488cad5fe3972ed0fd2a92bc75d7b8b",
+        "sha1": "220ff8756b1188ef82fde5a046cf8707012475af",
+        "sha256": "b8f85034270295183d48949b3192272c4d210cf27824ada9b35045f612d4c62b",
+        "crc32": "1415bd1d"
+      }
+    }
+  ]
+}

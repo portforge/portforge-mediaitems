@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)",
+  "noIntroId": [
+    "game:0013"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "64 Trump Collection - Alice no Wakuwaku Trump World (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTCJ",
+      "checksums": {
+        "md5": "6b947f654775cf5dacd1e5d53d577da7",
+        "sha1": "b5cf2c98d60ad8e6fad450681f9cefd63f4e5939",
+        "sha256": "afc2eedcd4e7cfe6fd0e56259a45d58ed5647f7ce64fad6d2199312ea564de6f",
+        "crc32": "dca7f4eb"
+      }
+    },
+    {
+      "filename": "64 Trump Collection - Alice no Wakuwaku Trump World (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTCJ",
+      "checksums": {
+        "md5": "7f197499f8d11d2a1941f77ed3a427a2",
+        "sha1": "769cb7028262871611acb8cd5788d477e7f6c12f",
+        "crc32": "34bbb95d"
+      }
+    }
+  ]
+}

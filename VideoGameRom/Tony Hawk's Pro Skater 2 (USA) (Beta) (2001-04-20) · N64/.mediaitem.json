@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)",
+  "noIntroId": [
+    "game:1045",
+    "cloneofgame:0752"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "317a4e89618b8b7955632c5f70177690",
+        "sha1": "fab693f9da784837d10a3281d16ec5a1d3d733c9",
+        "sha256": "39df4d15ffdb081a29d399f0df935dad667080b9ffc255f44dcbf559871f2586",
+        "crc32": "98d0d335"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "30b67b60dd34b4cb73596776d38345e5",
+        "sha1": "0ffb085cf1f93dc859c4ee35fede8be0dde830ef",
+        "sha256": "156301aa0d5c3d9abe83fa72066531990c9c8e69d68518d6cb910fced6f307c1",
+        "crc32": "0b00f2a0"
+      }
+    }
+  ]
+}

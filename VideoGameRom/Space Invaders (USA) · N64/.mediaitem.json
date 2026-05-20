@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Space Invaders (USA)",
+  "noIntroId": [
+    "game:0680"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Space Invaders (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NIVE",
+      "checksums": {
+        "md5": "c72417e0f8f043f9f11851633c4b1a57",
+        "sha1": "6850205eace572ae1aa31100320ad8df1b8db37e",
+        "sha256": "c5075e54bd06fe05881f9ff0f590366afb1c917adb0dc24f3d573c51d6e26a2d",
+        "crc32": "60f7ff8e"
+      }
+    },
+    {
+      "filename": "Space Invaders (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NIVE",
+      "checksums": {
+        "md5": "fe0e7b9873fddb70bb5d1271903d9438",
+        "sha1": "1ed83dd9637d5b6e7323480e74bf151542665a1b",
+        "sha256": "aaac729231f43a2e8ca6323e0dac6ab106ba328721cc4e37aa6fdfe0fd75c7e4",
+        "crc32": "62e6deff"
+      }
+    }
+  ]
+}

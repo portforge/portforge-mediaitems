@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Nuclear Strike 64 (Europe) (En,Fr)",
+  "noIntroId": [
+    "game:0519"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nuclear Strike 64 (Europe) (En,Fr).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCEP",
+      "checksums": {
+        "md5": "710ba49ebd5c9a2b26653fae93bd667a",
+        "sha1": "34a23cfa247de4e8ecdb8d72431af93d35c69753",
+        "sha256": "5e2a6401cc36c760996aa0a49f4e76181a03f723cbe9bc3d555ce320f3a7cd09",
+        "crc32": "9afbfcaf"
+      }
+    },
+    {
+      "filename": "Nuclear Strike 64 (Europe) (En,Fr).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCEP",
+      "checksums": {
+        "md5": "6ae796d1d0befa2321a5ff055a48dd13",
+        "sha1": "c170b3a4032cfdf885068f6f3af9eb6cbf28484c",
+        "crc32": "575fbfe5"
+      }
+    }
+  ]
+}

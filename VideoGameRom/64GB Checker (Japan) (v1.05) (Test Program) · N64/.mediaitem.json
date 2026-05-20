@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "64GB Checker (Japan) (v1.05) (Test Program)",
+  "noIntroId": [
+    "game:1291"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "64GB Checker (Japan) (v1.05) (Test Program).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "5f427cd08888214293a7fc9d082d9207",
+        "sha1": "5c487f751dca2aac95f7c817d8bf38edb099e9e2",
+        "sha256": "2f191a5db418601d062eee90521ec571232e5ca4242edec5a6420a2c9d9efd05",
+        "crc32": "185de9c5"
+      }
+    },
+    {
+      "filename": "64GB Checker (Japan) (v1.05) (Test Program).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "6aa6efe3124e4fe04ee5ad95576f7a18",
+        "sha1": "caee91a7a1059ae7c6fd299138745f0cd284de3d",
+        "sha256": "f5ab75780b0ddfb9aed1f23cc245b20885a2b894b771961cab46602f0e8b79f0",
+        "crc32": "049924fd"
+      }
+    }
+  ]
+}

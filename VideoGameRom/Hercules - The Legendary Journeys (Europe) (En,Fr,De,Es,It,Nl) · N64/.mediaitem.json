@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",
+  "noIntroId": [
+    "game:0276"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHCP",
+      "checksums": {
+        "md5": "1546877fd85c00a83515005727e5fda5",
+        "sha1": "d2e26f4aecf488f87e1ab36395280385b060d229",
+        "crc32": "b1954b08"
+      }
+    },
+    {
+      "filename": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHCP",
+      "checksums": {
+        "md5": "ff64d07e5a429e7a434bc9a377f27360",
+        "sha1": "9fc6c63eb8641d957342aa5f31d35075bc5b9e8c",
+        "crc32": "65517307"
+      }
+    }
+  ]
+}

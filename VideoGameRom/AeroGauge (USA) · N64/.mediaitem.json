@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "AeroGauge (USA)",
+  "noIntroId": [
+    "game:0026",
+    "cloneofgame:0023"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "AeroGauge (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NAGE",
+      "checksums": {
+        "md5": "72c7ffcea6c1430616867616f5e9d51a",
+        "sha1": "77626171c35fb1a4dfebb0927280897f362225ed",
+        "sha256": "2cc529109b11b00289d87f693a40591ef260d1dc7c1129113966ba6ddb1be4a5",
+        "crc32": "198b9e0e"
+      }
+    },
+    {
+      "filename": "AeroGauge (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NAGE",
+      "checksums": {
+        "md5": "4766856942945eaa9cf521937be5fee3",
+        "sha1": "204df59cbd065e39cadccc23a68e08ae212546d0",
+        "crc32": "04038cb8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Simpson Kart 64 (World) (Aftermarket) (Pirate)",
+  "noIntroId": [
+    "game:1195",
+    "cloneofgame:0410"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Simpson Kart 64 (World) (Aftermarket) (Pirate).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "f1e6f4acb88c9e2950e173c1697f10f1",
+        "sha1": "fcbedaaf757d25923c5b1fa2d8f7e95437557800",
+        "sha256": "9f6db280997e3c0ac43960c5254c5ac2e7d48e18e8a6011c1a2e2f434dbe4f50",
+        "crc32": "b39d26a4"
+      }
+    },
+    {
+      "filename": "Simpson Kart 64 (World) (Aftermarket) (Pirate).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "6316d91bfb21e8992b37a1479c83c45b",
+        "sha1": "fc76a03e76180fc186699edb843880962ef822f9",
+        "sha256": "1cd568c735f751bbe7d1c9b7d3817fd9cc3f8e1245e3bc250bd1dce15449e81e",
+        "crc32": "5c2a089d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Nagano Winter Olympics '98 (Europe)",
+  "noIntroId": [
+    "game:0468"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nagano Winter Olympics '98 (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NH5P",
+      "checksums": {
+        "md5": "b935b87f3dcca8aeeb6a9365124846dc",
+        "sha1": "8faca645020857b87ed3842bd26cccbdf31bec39",
+        "sha256": "a84cc56686cce0a09f7c1a3a35db71a9015521d628e079099e8721669bebb324",
+        "crc32": "c44de11c"
+      }
+    },
+    {
+      "filename": "Nagano Winter Olympics '98 (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NH5P",
+      "checksums": {
+        "md5": "54e3aa4fcc7c0eec8f66feb0481b9c48",
+        "sha1": "cb3ee16b5e45fef723af43bcf3e6f5ae07bc570a",
+        "crc32": "36d43f29"
+      }
+    }
+  ]
+}

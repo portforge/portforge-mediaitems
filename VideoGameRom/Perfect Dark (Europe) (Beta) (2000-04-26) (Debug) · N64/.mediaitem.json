@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Perfect Dark (Europe) (Beta) (2000-04-26) (Debug)",
+  "noIntroId": [
+    "game:1016",
+    "cloneofgame:0544"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Perfect Dark (Europe) (Beta) (2000-04-26) (Debug).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPDP",
+      "checksums": {
+        "md5": "ad2de210a3455ba5ec541f0c78d91444",
+        "sha1": "79e3213bbac19b8e196e97e6348006c0506b27a9",
+        "crc32": "b33c4a54"
+      }
+    },
+    {
+      "filename": "Perfect Dark (Europe) (Beta) (2000-04-26) (Debug).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPDP",
+      "checksums": {
+        "md5": "6591a8d4a54df2edd351080dd37cb924",
+        "sha1": "278cec1806eb39690cd2a3ae4838cfa8b8e630d2",
+        "crc32": "5c6ac287"
+      }
+    }
+  ]
+}

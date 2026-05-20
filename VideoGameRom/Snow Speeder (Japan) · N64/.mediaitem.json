@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Snow Speeder (Japan)",
+  "noIntroId": [
+    "game:0666",
+    "cloneofgame:0074"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Snow Speeder (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSNJ",
+      "checksums": {
+        "md5": "f7e66da23c8bb8e59f641a636a9cae82",
+        "sha1": "0e7df6a6f053f37a168ec33af8ce5240cb18f0ee",
+        "crc32": "30ea3fd7"
+      }
+    },
+    {
+      "filename": "Snow Speeder (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSNJ",
+      "checksums": {
+        "md5": "af71e732ab17533638132b01bb19ec2f",
+        "sha1": "2ef8591e9750066e248075dc940ec4fc080ef905",
+        "crc32": "5c98f900"
+      }
+    }
+  ]
+}

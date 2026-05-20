@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "South Park - Chef's Luv Shack (USA)",
+  "noIntroId": [
+    "game:0676",
+    "cloneofgame:0675"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "South Park - Chef's Luv Shack (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCYE",
+      "checksums": {
+        "md5": "6af573eb055648a8542aa82d9524fb2f",
+        "sha1": "0344b569e8410a860cd54165bc33130e80760896",
+        "crc32": "6b6b1d09"
+      }
+    },
+    {
+      "filename": "South Park - Chef's Luv Shack (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCYE",
+      "checksums": {
+        "md5": "d9699e89a4e4cd0ac04b628d6007df0e",
+        "sha1": "54fb22142f3a02c9c15e412d7e900a963698bbda",
+        "crc32": "67d38382"
+      }
+    }
+  ]
+}

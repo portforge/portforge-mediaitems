@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "StarCraft 64 (Australia)",
+  "noIntroId": [
+    "game:0705",
+    "cloneofgame:0706"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "StarCraft 64 (Australia).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSQP",
+      "checksums": {
+        "md5": "72b60fac5ee257fa387b43c57632d50c",
+        "sha1": "bd8ab8994be02368c844234006e5c11509ce2894",
+        "sha256": "f2267c9325d608f283830a7d568dcd9a2fc126f93b1c7d3ea23a34082031c19a",
+        "crc32": "2639dae2"
+      }
+    },
+    {
+      "filename": "StarCraft 64 (Australia).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSQP",
+      "checksums": {
+        "md5": "6079eb12ca73f28a4579d249de09706f",
+        "sha1": "0e4ae4d13bc78cea021a1f7d1534e9b82bdb0cdd",
+        "crc32": "d42fcfe1"
+      }
+    }
+  ]
+}

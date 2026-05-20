@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "64 Oozumou (Japan)",
+  "noIntroId": [
+    "game:0011"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "64 Oozumou (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NOSJ",
+      "checksums": {
+        "md5": "2cf9edb51ada9de2ae7ad9fd5acc5580",
+        "sha1": "e77fe9f2c32870eb7acbcf6a13d26dd022bafe5d",
+        "sha256": "661420aa5a7b5c0f86aad0dad813a0c876b99267d9d92fed0f4507e8e2a37240",
+        "crc32": "742e31fb"
+      }
+    },
+    {
+      "filename": "64 Oozumou (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NOSJ",
+      "checksums": {
+        "md5": "73a97768b685b13e4f8449ab1d3b01ce",
+        "sha1": "da4c60c6054c374a251a7e5e718f199a37946423",
+        "sha256": "85e7ade39dd8938b87ca99b9e4d63795d9b96a02225072ca23d323ea25a85127",
+        "crc32": "a6dbf8ae"
+      }
+    }
+  ]
+}

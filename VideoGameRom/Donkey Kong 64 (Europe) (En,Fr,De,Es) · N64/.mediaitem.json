@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Donkey Kong 64 (Europe) (En,Fr,De,Es)",
+  "noIntroId": [
+    "game:0173"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Donkey Kong 64 (Europe) (En,Fr,De,Es).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDOP",
+      "checksums": {
+        "md5": "118e9ce360b97a6f8dab2c9f30660bf5",
+        "sha1": "f96af883845308106600d84e0618c1a066dc6676",
+        "sha256": "f704ddc06dda5bee065dd89adcf86aa58bd817684e190094cd0776c0cabba9df",
+        "crc32": "a28c71c6"
+      }
+    },
+    {
+      "filename": "Donkey Kong 64 (Europe) (En,Fr,De,Es).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDOP",
+      "checksums": {
+        "md5": "d31bb4edffdb35e5ec293a1154b2e844",
+        "sha1": "29fa421e7732ab990178033bc8c979aeb8fe78d5",
+        "crc32": "fc37b06a"
+      }
+    }
+  ]
+}

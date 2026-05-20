@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Tom Clancy's Rainbow Six (France)",
+  "noIntroId": [
+    "game:0744",
+    "cloneofgame:0743"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tom Clancy's Rainbow Six (France).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NR6F",
+      "checksums": {
+        "md5": "15e4c1b4f3f459d4caa7f7e2cf0c95da",
+        "sha1": "ec38196491aeee7ad2fb4a0a7f139c0839e864c6",
+        "sha256": "13783f667340351ddd75e08786191f42849601b4370b721d1f1c0cc84d0f3912",
+        "crc32": "bbf7b6a8"
+      }
+    },
+    {
+      "filename": "Tom Clancy's Rainbow Six (France).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NR6F",
+      "checksums": {
+        "md5": "edfddae2f418715999e5e418cbde5640",
+        "sha1": "ed7356fb54fb6f24eaf76bec971c5dad72252e74",
+        "crc32": "31bc7b49"
+      }
+    }
+  ]
+}

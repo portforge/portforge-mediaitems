@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mario Party (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0415"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Party (Europe) (En,Fr,De).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NLBP",
+      "checksums": {
+        "md5": "9773150709bd804b8e57e35f1d6b0eed",
+        "sha1": "d7ba071c220a71f5e4503e55c98c91ff8f027848",
+        "sha256": "48e6cbb83735ec4e4662866fa99cd6895da97a3b90814f5078bfabd132cbfb9a",
+        "crc32": "da98a5d3"
+      }
+    },
+    {
+      "filename": "Mario Party (Europe) (En,Fr,De).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NLBP",
+      "checksums": {
+        "md5": "9aae6d37096f2d543160710ecb691ac5",
+        "sha1": "2f8b0bf9861d10b4c1c5b9c0f0c47333c96dbe30",
+        "crc32": "6973373f"
+      }
+    }
+  ]
+}

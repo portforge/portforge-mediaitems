@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Rakugakids (Europe) (Beta 2) (1998-09-16)",
+  "noIntroId": [
+    "game:1297",
+    "cloneofgame:0601"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rakugakids (Europe) (Beta 2) (1998-09-16).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKRP",
+      "checksums": {
+        "md5": "d87e50ee2fb59e4b4a3368235a8e0bc8",
+        "sha1": "20f09e8f45a8e8a906a1ef3e31fa2dc6cd6cc37b",
+        "sha256": "4cf5376685bbd67ae0b2af73ff5c1b48a192dbd803eac0fdf77aa66cfb4b343d",
+        "crc32": "2cd99eae"
+      }
+    },
+    {
+      "filename": "Rakugakids (Europe) (Beta 2) (1998-09-16).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKRP",
+      "checksums": {
+        "md5": "9af6bdad177f3480196383d95be06b8c",
+        "sha1": "d7fec3bb522653f7f35a8bc5675675a7446a6158",
+        "sha256": "385f949d67ce472c699802a445a80b66f82c11c6bf651890d9e90bdf6b29376f",
+        "crc32": "d7816e6b"
+      }
+    }
+  ]
+}

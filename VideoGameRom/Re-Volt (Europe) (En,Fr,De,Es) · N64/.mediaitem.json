@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Re-Volt (Europe) (En,Fr,De,Es)",
+  "noIntroId": [
+    "game:0615"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Re-Volt (Europe) (En,Fr,De,Es).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRVP",
+      "checksums": {
+        "md5": "faa64abb0d222fcc0c6e2515d3805d9f",
+        "sha1": "5ed3cd3888fec080d44ffe345dd50d75e471ff8f",
+        "sha256": "ce619ae064bc608d9a139f95e6bbc9f17fe3898d242943bc92fd0d6fc74915b0",
+        "crc32": "81d13a11"
+      }
+    },
+    {
+      "filename": "Re-Volt (Europe) (En,Fr,De,Es).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRVP",
+      "checksums": {
+        "md5": "abd10fcd29119ef5e7f9915429042449",
+        "sha1": "31d1b888bda70d2d5b1c7ecd95f8f2d83ac35d36",
+        "crc32": "194bb8a1"
+      }
+    }
+  ]
+}

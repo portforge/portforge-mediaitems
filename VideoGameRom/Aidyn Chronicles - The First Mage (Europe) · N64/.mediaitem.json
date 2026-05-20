@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Aidyn Chronicles - The First Mage (Europe)",
+  "noIntroId": [
+    "game:0028"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Aidyn Chronicles - The First Mage (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NAYP",
+      "checksums": {
+        "md5": "54d0a39123c15f74aabb1ecc24d4d6a0",
+        "sha1": "e3a1e26f4c10a6767612d1a8462689e86d09dc0b",
+        "sha256": "19a7739f1a3c8db931eaffc0cbcaebc4f4a93da7d550a257258bcde6eab1a1a7",
+        "crc32": "be7e230d"
+      }
+    },
+    {
+      "filename": "Aidyn Chronicles - The First Mage (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NAYP",
+      "checksums": {
+        "md5": "13b3b8ac219f8a57783bc1779df02901",
+        "sha1": "dd8867a3b33c897fa9e7e1742c4bc0df1207cfa8",
+        "crc32": "9dc07fc0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Penny Racers (USA)",
+  "noIntroId": [
+    "game:0543",
+    "cloneofgame:0542"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Penny Racers (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCRE",
+      "checksums": {
+        "md5": "518b14054a667a3b9e0b72d3bf784e41",
+        "sha1": "1d4fce8ad6b1f0072d89aeb4c3187bc853b750a0",
+        "crc32": "c1e57337"
+      }
+    },
+    {
+      "filename": "Penny Racers (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCRE",
+      "checksums": {
+        "md5": "a9e6e459908009b979c4cb649609a208",
+        "sha1": "f8ca8a70653dbe488749fd3ea3e428fb9b1f72c8",
+        "crc32": "06beea3f"
+      }
+    }
+  ]
+}

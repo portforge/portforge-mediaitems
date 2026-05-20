@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)",
+  "noIntroId": [
+    "game:0822",
+    "cloneofgame:0820"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWRJ",
+      "checksums": {
+        "md5": "ff67df97476c210d158779ae6142f239",
+        "sha1": "445ecb4904cc0ab6b81fb415a35072e99f18b545",
+        "sha256": "c53b79a5e6014b5e03b016fadbd5c493270162c17c9624530fc726ea5e3f7b81",
+        "crc32": "90044c4b"
+      }
+    },
+    {
+      "filename": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWRJ",
+      "checksums": {
+        "md5": "f385d82e0e9372a812cbf98bc0d0ee48",
+        "sha1": "443e3c3476568de9c36582184104f2dd09b59407",
+        "sha256": "f3554bafa910fa05ae517d32c26ce98bac2be13bd13cecadf23eaa9c8bfa5f3a",
+        "crc32": "d3610a02"
+      }
+    }
+  ]
+}

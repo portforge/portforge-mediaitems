@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars Episode I - Racer (Japan)",
+  "noIntroId": [
+    "game:0703",
+    "cloneofgame:0702"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars Episode I - Racer (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NEPJ",
+      "checksums": {
+        "md5": "7579ab0e79b1011479b88f2bf39d48e0",
+        "sha1": "9577ccd2d069d0e7e306cf21ddb0e4765a308072",
+        "crc32": "97c155c5"
+      }
+    },
+    {
+      "filename": "Star Wars Episode I - Racer (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NEPJ",
+      "checksums": {
+        "md5": "4a44748dd673ba6f3f4c0ebe9637b9fb",
+        "sha1": "4760072bb254bb7abfbf19d7664238b2cf5a6bd3",
+        "crc32": "794412bf"
+      }
+    }
+  ]
+}

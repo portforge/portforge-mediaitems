@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mario Golf (Europe)",
+  "noIntroId": [
+    "game:0406"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Golf (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMFP",
+      "checksums": {
+        "md5": "55634ff90ee997790781f79a5b0097ee",
+        "sha1": "a3f057212e134c411258837271db8a08a6a7921e",
+        "sha256": "9df6ee0c9a3b463032726400de0e2879578ee55c0d03876bf9d7507e56aa99b9",
+        "crc32": "a5071a77"
+      }
+    },
+    {
+      "filename": "Mario Golf (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMFP",
+      "checksums": {
+        "md5": "d5033f389476733d5730b112f61c2d47",
+        "sha1": "b77c8a9f163feb9ae2f2253b6d9ec82d77b7088c",
+        "crc32": "1ca3e8b6"
+      }
+    }
+  ]
+}

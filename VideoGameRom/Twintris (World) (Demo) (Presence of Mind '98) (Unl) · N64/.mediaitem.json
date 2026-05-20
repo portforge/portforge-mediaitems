@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Twintris (World) (Demo) (Presence of Mind '98) (Unl)",
+  "noIntroId": [
+    "game:1220"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Twintris (World) (Demo) (Presence of Mind '98) (Unl).z64",
+      "filesize": 3145728,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "a74738d03aca4e51690408d203e86d49",
+        "sha1": "25e486e22c427a570e0dd452db09588ec63e92c8",
+        "sha256": "5988fee24123ed95fa19d634df966cd35bb4c08af2df5ba2283e08d4455c027a",
+        "crc32": "7fdff7e7"
+      }
+    },
+    {
+      "filename": "Twintris (World) (Demo) (Presence of Mind '98) (Unl).v64",
+      "filesize": 3145728,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "4a270baf3c78b04d76826fd0cac1e446",
+        "sha1": "09f9fc18873a33e5ddcecf2605bd436f30fdfe3f",
+        "sha256": "a396250490ece92657e8555d5c687a08eb0f5531a8b49a63e859ef81fd8a3634",
+        "crc32": "5acf535e"
+      }
+    }
+  ]
+}

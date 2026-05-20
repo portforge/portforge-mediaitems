@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "G.A.S.P!! Fighters' NEXTream (Europe)",
+  "noIntroId": [
+    "game:0251"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "G.A.S.P!! Fighters' NEXTream (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGAP",
+      "checksums": {
+        "md5": "316c59dae45c20250a0419a937e7d65b",
+        "sha1": "b069f2c0b6ab4fbd486861c4d3aaf8a149ab4529",
+        "sha256": "dcb4b7c2c53b1505e12db2136af1dea4877ba1be446d4524c2bca18dbe65acd3",
+        "crc32": "5aa63b04"
+      }
+    },
+    {
+      "filename": "G.A.S.P!! Fighters' NEXTream (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGAP",
+      "checksums": {
+        "md5": "139a72a1ebfd224924f72747695c2945",
+        "sha1": "ff187a9a1f357796528ca98e0b15ec227df8a659",
+        "crc32": "b0d256b8"
+      }
+    }
+  ]
+}

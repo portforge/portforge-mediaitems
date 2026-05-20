@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Bassmasters 2000 (USA)",
+  "noIntroId": [
+    "game:0064"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bassmasters 2000 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB4E",
+      "checksums": {
+        "md5": "930c7f6e5863471dde1816d28a10eb88",
+        "sha1": "946b3e08a1a4de4f917ad547bb24f533b737f712",
+        "sha256": "dece8932dfdcb7f42e4118c4f763b198098fee854c90cfe71e8d5bd2e6e02efe",
+        "crc32": "6b09092e"
+      }
+    },
+    {
+      "filename": "Bassmasters 2000 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB4E",
+      "checksums": {
+        "md5": "f4ac3af45a448b9f0d5d38af14a285b9",
+        "sha1": "747b3b6c49f27e3381d91e9df59d01dbee769a58",
+        "crc32": "8b7bd07e"
+      }
+    }
+  ]
+}

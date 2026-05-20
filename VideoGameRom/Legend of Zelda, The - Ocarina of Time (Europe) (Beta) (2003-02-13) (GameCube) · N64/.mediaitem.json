@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)",
+  "noIntroId": [
+    "game:1062",
+    "cloneofgame:0375"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).z64",
+      "filesize": 67108864,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "ab1ca59d0039e3b34d82db650b54d7b9",
+        "sha1": "da19ca4aac723c155d55ae371107b8462044e350",
+        "sha256": "f2ed79515542faecfdb054cc5228b3f755bfa6c5fd4df52811240cbaaaa979e1",
+        "crc32": "c188acda"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).v64",
+      "filesize": 67108864,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "8407d3c875ef1dc20daf3a415a54ec82",
+        "sha1": "26213bad0c70521d5061c93e2661e18dc45925ea",
+        "sha256": "4dde4fdd6c9b2434453906f406761fff452a6e246accf32fbee71426839399d6",
+        "crc32": "2796b9eb"
+      }
+    }
+  ]
+}

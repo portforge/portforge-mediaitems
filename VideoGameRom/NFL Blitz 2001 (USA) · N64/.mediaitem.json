@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NFL Blitz 2001 (USA)",
+  "noIntroId": [
+    "game:0500"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NFL Blitz 2001 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFBE",
+      "checksums": {
+        "md5": "e4edd73cb036c6b143cee9aeeed60341",
+        "sha1": "279bc9ed596663610265a618a1656dbb8ea4237a",
+        "sha256": "c2e8d6f62dc75dcb6f7fda50311b010385ec85d61c88280f1e6e973d0bb5228d",
+        "crc32": "18eeb41b"
+      }
+    },
+    {
+      "filename": "NFL Blitz 2001 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFBE",
+      "checksums": {
+        "md5": "86b10a10d32821f6972e14752ef0a56b",
+        "sha1": "1305ea64fa5eb62b36e029c5646299c080daede9",
+        "sha256": "6dad9722020c54ed37ea58dec54dc2b052a96eccffcb80695aab386d110a4e88",
+        "crc32": "e18211e5"
+      }
+    }
+  ]
+}

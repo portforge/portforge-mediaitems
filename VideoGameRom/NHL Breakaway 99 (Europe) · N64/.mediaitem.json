@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NHL Breakaway 99 (Europe)",
+  "noIntroId": [
+    "game:0513"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NHL Breakaway 99 (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NH9P",
+      "checksums": {
+        "md5": "4ba95aa97ecfee36051ebe0a9024eee8",
+        "sha1": "46147db00bd9d80f0d22e8eb1b00603106de2692",
+        "sha256": "d43243d318b79cb458ed34e04aa9923eadd6ce1f99df7bdd7d82e00497befb93",
+        "crc32": "572060e0"
+      }
+    },
+    {
+      "filename": "NHL Breakaway 99 (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NH9P",
+      "checksums": {
+        "md5": "51660fececc432fe2a6d5d3cbc8ad386",
+        "sha1": "59a291a5f9887f8d569670a868e44c53cfb84475",
+        "crc32": "b7e1618a"
+      }
+    }
+  ]
+}

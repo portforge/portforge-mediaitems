@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "40 Winks (USA) (Proto) (2000-01-10)",
+  "noIntroId": [
+    "game:1076",
+    "cloneofgame:1283"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "40 Winks (USA) (Proto) (2000-01-10).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N4WZ",
+      "checksums": {
+        "md5": "8c3e4fe5f6b2d37c66a71097e8b1c72a",
+        "sha1": "e671412580800013703be666e56e1b7e512aa55c",
+        "sha256": "9316ffbe863051a7464e33b9837d6deff11845389a6b275ce6541eded4caa7b0",
+        "crc32": "3a674026"
+      }
+    },
+    {
+      "filename": "40 Winks (USA) (Proto) (2000-01-10).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N4WZ",
+      "checksums": {
+        "md5": "2360ba4d8eabadefb5a6de3c8dd3bdc2",
+        "sha1": "f0f9edcba11182aa1d23adb34e5255c3923136d7",
+        "sha256": "1431819a5bc9b38ede53271f499a73bf1a8fdfddcec433d7f55102ceef12608e",
+        "crc32": "266a9e05"
+      }
+    }
+  ]
+}

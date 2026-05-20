@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mischief Makers (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0890",
+    "cloneofgame:0440"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mischief Makers (USA) (Rev 1).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTME",
+      "checksums": {
+        "md5": "2ee917366f64a06472d7622a2a05990e",
+        "sha1": "811709c6473f74cbf283aa61f056e1de3046ec73",
+        "crc32": "c3300cef"
+      }
+    },
+    {
+      "filename": "Mischief Makers (USA) (Rev 1).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTME",
+      "checksums": {
+        "md5": "a54eeb1a4fd3768553d9223e5a3a63c6",
+        "sha1": "3a66a71240b34df5607c8bb84c679c44472a6da2",
+        "crc32": "c454e245"
+      }
+    }
+  ]
+}

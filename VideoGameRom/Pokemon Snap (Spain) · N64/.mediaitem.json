@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Snap (Spain)",
+  "noIntroId": [
+    "game:0567",
+    "cloneofgame:0563"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Snap (Spain).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPFS",
+      "checksums": {
+        "md5": "a45d7115be5a06fd1567f9f913c3bdf8",
+        "sha1": "24da787140662d1fb40d8e17199ce6412d72dedc",
+        "crc32": "371b787f"
+      }
+    },
+    {
+      "filename": "Pokemon Snap (Spain).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPFS",
+      "checksums": {
+        "md5": "e845272b8a282ae4051676574405ec13",
+        "sha1": "e2276abf1cc2fe7bb5a8d05241214481b02580e1",
+        "crc32": "426a1919"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Beetle Adventure Racing! (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0071"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Beetle Adventure Racing! (Europe) (En,Fr,De).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NNSP",
+      "checksums": {
+        "md5": "a94135d163e6091c960adc918c1fb8a7",
+        "sha1": "85b3b95d587d2646f781b04cf5239804d105685a",
+        "sha256": "ef0c7bfa39712b841cc0d5b87ab6f8faf15a6877e587168a48ddff0c9c3bef87",
+        "crc32": "5b6c6e4c"
+      }
+    },
+    {
+      "filename": "Beetle Adventure Racing! (Europe) (En,Fr,De).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NNSP",
+      "checksums": {
+        "md5": "939bdaf220eddcefc8be78a5b3b98744",
+        "sha1": "b185ed71668f9bd4f6aeef5edb31e03c1a119ae0",
+        "crc32": "e6f43f48"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hexen (France)",
+  "noIntroId": [
+    "game:0279",
+    "cloneofgame:0278"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hexen (France).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHXF",
+      "checksums": {
+        "md5": "a5921c00111200257284ce0aba0904ca",
+        "sha1": "476d3b340ba2a1b1acc1d0cc97ac6e25a5136ca2",
+        "sha256": "d2dd8eacd6697d0ae9a5bea2d45ed6182eedc3bb7e4f71a9b8330d4fdd9304f7",
+        "crc32": "e373fa31"
+      }
+    },
+    {
+      "filename": "Hexen (France).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHXF",
+      "checksums": {
+        "md5": "b8b66454f3019ba433946a914b7ae4f1",
+        "sha1": "84da065c47e1d29155b9869970b9156428a1ae00",
+        "crc32": "4b3dc7fe"
+      }
+    }
+  ]
+}

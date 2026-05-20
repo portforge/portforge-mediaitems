@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Buck Bumble (USA)",
+  "noIntroId": [
+    "game:0098",
+    "cloneofgame:0096"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Buck Bumble (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBLE",
+      "checksums": {
+        "md5": "41417fce2b37eaae787c5a845a0015c4",
+        "sha1": "01d9497ea0e1f68ae285b8c7a57439b42b7d9a56",
+        "sha256": "d21e3d1c2ec4d7f025cfaa119553be9a5fa87a9fd6625ef1ef44dc1d4b0aa54b",
+        "crc32": "8ec937db"
+      }
+    },
+    {
+      "filename": "Buck Bumble (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBLE",
+      "checksums": {
+        "md5": "2bd134f866af753ab46767fac3144e2e",
+        "sha1": "9cf046e320e5437159a41c49694dc66d4d8e79bd",
+        "crc32": "da2acd5e"
+      }
+    }
+  ]
+}

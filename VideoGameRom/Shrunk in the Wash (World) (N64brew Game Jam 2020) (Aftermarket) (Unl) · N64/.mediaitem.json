@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Shrunk in the Wash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1212"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shrunk in the Wash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64",
+      "filesize": 2097152,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "bcc16f61792b6fc0acfac6471b2930b2",
+        "sha1": "a284fda00c361a1fbd817154778051cf9ef33a8e",
+        "sha256": "3015a75000de9f92a7259de4b72f5a98bd944c8b9badef1490257a4ca5209d3e",
+        "crc32": "18c975ed"
+      }
+    },
+    {
+      "filename": "Shrunk in the Wash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).v64",
+      "filesize": 2097152,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "581e6140bdbb487aec6b93d38a17cc95",
+        "sha1": "728684460125ddee49e0a06eaae3ad3ad56ef896",
+        "sha256": "44198ad2ceb74df94f9fce56c1666eeb8beb41dfea848d46f2bbc2fcd1b0d37b",
+        "crc32": "0dc2555a"
+      }
+    }
+  ]
+}

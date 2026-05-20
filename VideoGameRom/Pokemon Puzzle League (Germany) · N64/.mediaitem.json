@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Puzzle League (Germany)",
+  "noIntroId": [
+    "game:0560",
+    "cloneofgame:0558"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Puzzle League (Germany).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPND",
+      "checksums": {
+        "md5": "000364bac80e41d9060a31a5923874b7",
+        "sha1": "dbc9d0de131f3604a9115b58368e9050f1a6303f",
+        "crc32": "ac543150"
+      }
+    },
+    {
+      "filename": "Pokemon Puzzle League (Germany).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPND",
+      "checksums": {
+        "md5": "77a22697ba18ec59018f0c8b5f16c656",
+        "sha1": "656c86a50e4954e11c202ada31d2e2fd516b8f07",
+        "crc32": "7d4c9859"
+      }
+    }
+  ]
+}

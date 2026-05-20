@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "GoldenEye 007 (USA, Europe) (Switch Online)",
+  "noIntroId": [
+    "game:1127",
+    "cloneofgame:0001"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "GoldenEye 007 (USA, Europe) (Switch Online).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGEE",
+      "checksums": {
+        "md5": "ea0e3e6aefa58738a12906298373218b",
+        "sha1": "84accdc54ffaecee312ce6945bfe722ed97e654c",
+        "sha256": "57dc56aa4b8c66a85d6f83c3068960850dd81f8eaea309e1a7602cb969499fbc",
+        "crc32": "e3f2b41e"
+      }
+    },
+    {
+      "filename": "GoldenEye 007 (USA, Europe) (Switch Online).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGEE",
+      "checksums": {
+        "md5": "3956327e48e58b199cd2beb6b95acc36",
+        "sha1": "89dc0f50f22123521b9e71cd5bfee670fc07e9dd",
+        "sha256": "72c04ddca39d7e5b39e5a8a89e684ad268be624a13a5f54532bd7e5ef41fc10d",
+        "crc32": "fbb1b33b"
+      }
+    }
+  ]
+}

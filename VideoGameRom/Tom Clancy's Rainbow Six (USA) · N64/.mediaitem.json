@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Tom Clancy's Rainbow Six (USA)",
+  "noIntroId": [
+    "game:0746",
+    "cloneofgame:0743"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tom Clancy's Rainbow Six (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NR6E",
+      "checksums": {
+        "md5": "80f3b1abd9fb9ae73997489db185a74d",
+        "sha1": "f785674c670c01e31c77b3034525d43fd6703b9a",
+        "crc32": "53b0cc13"
+      }
+    },
+    {
+      "filename": "Tom Clancy's Rainbow Six (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NR6E",
+      "checksums": {
+        "md5": "445193c8c48c4ddda38412135fc59c09",
+        "sha1": "1effa41aeaf6ebf626ea8e26093e0609015e1007",
+        "crc32": "67f3d120"
+      }
+    }
+  ]
+}

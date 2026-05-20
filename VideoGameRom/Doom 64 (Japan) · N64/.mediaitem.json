@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Doom 64 (Japan)",
+  "noIntroId": [
+    "game:0178",
+    "cloneofgame:0177"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Doom 64 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDMJ",
+      "checksums": {
+        "md5": "06f15ef2228c1b1147c41dccaa07d9de",
+        "sha1": "6b0d65e62626a92aa59ee4bff3f02715f6247692",
+        "sha256": "19ad4130f8b259f24761d5c873e2ce468315cc5f7bce07e7f44db21241cef4a9",
+        "crc32": "c8f3af5b"
+      }
+    },
+    {
+      "filename": "Doom 64 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDMJ",
+      "checksums": {
+        "md5": "042e4ebf2db26b10ec8a22a3915c726a",
+        "sha1": "d7d8e5636839255fd1c324b9a27511917e3c454f",
+        "crc32": "95526f13"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NBA Courtside 2 featuring Kobe Bryant (USA)",
+  "noIntroId": [
+    "game:0474"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA Courtside 2 featuring Kobe Bryant (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCKE",
+      "checksums": {
+        "md5": "73bb54ffd3c0fc71f941d9a8cc57e2a1",
+        "sha1": "8c27333189fc19570bc494bc3ed9e3879d6e54be",
+        "sha256": "11967ed55a7369170d62910bc9b8df2a65ae6a9bd96983dee91cd5f005ca47d3",
+        "crc32": "a7cc4ce2"
+      }
+    },
+    {
+      "filename": "NBA Courtside 2 featuring Kobe Bryant (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCKE",
+      "checksums": {
+        "md5": "ff29db046c31adce1b5280558dbc3df8",
+        "sha1": "63711be92268098bc69bec3168c09d0088db8ce6",
+        "sha256": "971b0824627e196fceba652cf38b418c98394f394f997a0d8aabb6f47f9ad740",
+        "crc32": "7a8fd7d3"
+      }
+    }
+  ]
+}

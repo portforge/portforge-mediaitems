@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "GameShark Pro (USA) (v2.0) (Unl)",
+  "noIntroId": [
+    "game:0018",
+    "cloneofgame:0015"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "GameShark Pro (USA) (v2.0) (Unl).bin",
+      "filesize": 262144,
+      "format": "BigEndian",
+      "ext": "bin",
+      "checksums": {
+        "md5": "437efd7fd7f84f4c0f802d3bf1f8464e",
+        "sha1": "19148a009ef8e1013ab35c8141781184b141699f",
+        "crc32": "ef9edf87"
+      }
+    },
+    {
+      "filename": "GameShark Pro (USA) (v2.0) (Unl).bin",
+      "filesize": 262144,
+      "format": "ByteSwapped",
+      "ext": "bin",
+      "checksums": {
+        "md5": "437efd7fd7f84f4c0f802d3bf1f8464e",
+        "sha1": "19148a009ef8e1013ab35c8141781184b141699f",
+        "crc32": "ef9edf87"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars Episode I - Racer (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0702"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars Episode I - Racer (Europe) (En,Fr,De).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NEPP",
+      "checksums": {
+        "md5": "6ef9fed309f28bd59b605f128869aa00",
+        "sha1": "899a8245da017289c88e97327fdcd6694b770a25",
+        "sha256": "326b810b24cef38b04b74084bfd487fb6d40ea955dc2a54849de942bde076edc",
+        "crc32": "e0f46629"
+      }
+    },
+    {
+      "filename": "Star Wars Episode I - Racer (Europe) (En,Fr,De).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NEPP",
+      "checksums": {
+        "md5": "de98f1bceb2c317bb0a9743282ce2c2e",
+        "sha1": "d4968ce06b93705ed40ff4433279f587f62e3c26",
+        "crc32": "ede47e8a"
+      }
+    }
+  ]
+}

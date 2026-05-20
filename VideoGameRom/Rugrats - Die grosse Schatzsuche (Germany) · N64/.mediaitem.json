@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Rugrats - Die grosse Schatzsuche (Germany)",
+  "noIntroId": [
+    "game:0636",
+    "cloneofgame:0638"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rugrats - Die grosse Schatzsuche (Germany).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRGD",
+      "checksums": {
+        "md5": "dec4598a39728c28cd0ceba45a173ce1",
+        "sha1": "32caba1042cabbf366852d629d3fee1a5186bce3",
+        "crc32": "23aed3a2"
+      }
+    },
+    {
+      "filename": "Rugrats - Die grosse Schatzsuche (Germany).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRGD",
+      "checksums": {
+        "md5": "c17deeefbba8a96dee4c6756cb5bbb3b",
+        "sha1": "7840bdfe801fa2d8e34e120f66af59a140d3c1c3",
+        "crc32": "e1d7919f"
+      }
+    }
+  ]
+}

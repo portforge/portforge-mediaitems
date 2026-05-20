@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Ide Yosuke no Mahjong Juku (Japan)",
+  "noIntroId": [
+    "game:0303"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Ide Yosuke no Mahjong Juku (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NIMJ",
+      "checksums": {
+        "md5": "92a6ffa1c8d537c7a97c5c613cae05c6",
+        "sha1": "26e3210f45c78d72eae61cb066d08d6e00c0ea87",
+        "sha256": "ee36dc5adf5ccaa446e6148d8dc5f4519bdf1c225bf36cee30163a185caaa47c",
+        "crc32": "dbd96deb"
+      }
+    },
+    {
+      "filename": "Ide Yosuke no Mahjong Juku (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NIMJ",
+      "checksums": {
+        "md5": "20364f316726faf88490ce3fe1fb42f2",
+        "sha1": "278e45431689b52ce28955957b444ae4f8539199",
+        "sha256": "ffd69c48339f837de32330cb2e33da0942383146b0c645bd39f9cc583f5922fe",
+        "crc32": "32003c85"
+      }
+    }
+  ]
+}

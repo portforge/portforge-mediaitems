@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hydro Thunder (France)",
+  "noIntroId": [
+    "game:0300",
+    "cloneofgame:0299"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hydro Thunder (France).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHTF",
+      "checksums": {
+        "md5": "4b4c85d9dd2d460adafabae8db48b4fa",
+        "sha1": "03fa91aec0819654f1ad0d12bb81ce3f5d7d08ae",
+        "sha256": "ba0bd67caa0968b70f18ca0e62fc2c41efd484d906df29d5d296302fe12c6d6f",
+        "crc32": "010f6242"
+      }
+    },
+    {
+      "filename": "Hydro Thunder (France).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHTF",
+      "checksums": {
+        "md5": "b9759a54b3d69d410e9abf9d8541d2b6",
+        "sha1": "164c60c5966e4716f3a5aef6bf6eb023e4875d32",
+        "crc32": "c8cd9b5d"
+      }
+    }
+  ]
+}

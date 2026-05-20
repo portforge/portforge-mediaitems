@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hydro Thunder (Europe)",
+  "noIntroId": [
+    "game:0299"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hydro Thunder (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHTP",
+      "checksums": {
+        "md5": "434bb8de49011573ac38e893224c5623",
+        "sha1": "0661b1b0e47bc02d9b0d87d1688fd466793c074b",
+        "crc32": "863ab8f3"
+      }
+    },
+    {
+      "filename": "Hydro Thunder (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHTP",
+      "checksums": {
+        "md5": "18b80f3996956c282d7462b2d0cdb901",
+        "sha1": "6377afc193b7c8fa8ad3f8b3a41279d05702e43a",
+        "crc32": "b75696ae"
+      }
+    }
+  ]
+}

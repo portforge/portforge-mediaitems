@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Killer Instinct Gold (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0356",
+    "cloneofgame:0354"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Killer Instinct Gold (USA) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKIE",
+      "checksums": {
+        "md5": "4c9b419dc583c0df4ab908adf83bfc65",
+        "sha1": "bcc599ed0f0b8b75a8068269958a2230ec7cb34c",
+        "crc32": "49ef8f2b"
+      }
+    },
+    {
+      "filename": "Killer Instinct Gold (USA) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKIE",
+      "checksums": {
+        "md5": "bec96e5480969151888482631bd26626",
+        "sha1": "90b7d7e5a7372ca3abf059c0d24d499fad2e909d",
+        "crc32": "24ac459c"
+      }
+    }
+  ]
+}

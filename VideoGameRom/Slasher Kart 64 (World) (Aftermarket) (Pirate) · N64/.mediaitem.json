@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Slasher Kart 64 (World) (Aftermarket) (Pirate)",
+  "noIntroId": [
+    "game:1196",
+    "cloneofgame:0410"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Slasher Kart 64 (World) (Aftermarket) (Pirate).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "ef7e8f7c8060df356a482f96cf357c02",
+        "sha1": "521c4647dffd7996e92f6e3a5d7274ed21aa2e52",
+        "sha256": "ce1159dc6928d7b6961ddcd4a6df501d816d26e02b72f1b59e7f1cffa7e9c577",
+        "crc32": "c1d3ea7c"
+      }
+    },
+    {
+      "filename": "Slasher Kart 64 (World) (Aftermarket) (Pirate).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "e2cec48d18c104d056d30d343fe57f38",
+        "sha1": "b5e16ad13983045ab2b00fc7ef7fd3fd76e659a9",
+        "sha256": "cb0a555a5f3723ba14e2b760e258e4f5b97411fb76a9226405e251f4e61ad0bb",
+        "crc32": "c06310d7"
+      }
+    }
+  ]
+}

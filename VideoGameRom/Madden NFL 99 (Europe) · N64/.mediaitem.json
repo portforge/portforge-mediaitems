@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Madden NFL 99 (Europe)",
+  "noIntroId": [
+    "game:0395"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Madden NFL 99 (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N9MP",
+      "checksums": {
+        "md5": "e7bf80861a0ab2a788959463d953b5d5",
+        "sha1": "7c55ba6741dcf96208432507b8191b3c15f666df",
+        "sha256": "0614ccd5bbe6fa5b40f899ca000505390bf49eb6a13f6c1b053ba827c84309b6",
+        "crc32": "d0929942"
+      }
+    },
+    {
+      "filename": "Madden NFL 99 (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N9MP",
+      "checksums": {
+        "md5": "62ba00f622c9afa26e5c4d4e9f8b3d28",
+        "sha1": "c6d88bbf811e3973ef6b9fb8a565424abf2c15b6",
+        "crc32": "5dcad836"
+      }
+    }
+  ]
+}

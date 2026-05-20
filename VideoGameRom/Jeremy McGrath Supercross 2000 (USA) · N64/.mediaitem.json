@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Jeremy McGrath Supercross 2000 (USA)",
+  "noIntroId": [
+    "game:0329",
+    "cloneofgame:0328"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jeremy McGrath Supercross 2000 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCOE",
+      "checksums": {
+        "md5": "8046a4b8abd4353b2ab9696106ccf8d2",
+        "sha1": "278ad55333b7b75970812ecb9e691111ca3cfc46",
+        "crc32": "2a5c9a06"
+      }
+    },
+    {
+      "filename": "Jeremy McGrath Supercross 2000 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCOE",
+      "checksums": {
+        "md5": "bed43c3e682f5450cd35c346cb230532",
+        "sha1": "1c0352bad4f56f1cf5d892e85f2d04d956edb49e",
+        "crc32": "67bf293b"
+      }
+    }
+  ]
+}

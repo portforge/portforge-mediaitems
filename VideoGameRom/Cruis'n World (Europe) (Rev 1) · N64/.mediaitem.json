@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Cruis'n World (Europe) (Rev 1)",
+  "noIntroId": [
+    "game:1022"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Cruis'n World (Europe) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCWP",
+      "checksums": {
+        "md5": "20db5e4ddb0cd5b04c4bf09cdc95592f",
+        "sha1": "362078633d549d3270b3b3b6b0e0d0243321d9ae",
+        "sha256": "a73a35fac126d7058c84fbdd2566cc542bd875e9e31fd3cabf33a7ef6536efd6",
+        "crc32": "ebaed1f9"
+      }
+    },
+    {
+      "filename": "Cruis'n World (Europe) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCWP",
+      "checksums": {
+        "md5": "66cf8d0144c1e242d855adb9df5b685d",
+        "sha1": "48e4722765644ef98d46195d1abb1e79f99f7cfb",
+        "crc32": "e962672d"
+      }
+    }
+  ]
+}

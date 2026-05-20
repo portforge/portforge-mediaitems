@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mission Lost Control (World) (v1.1) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1264"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mission Lost Control (World) (v1.1) (Aftermarket) (Unl).z64",
+      "filesize": 10829776,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "12dadd58fe62185a7791bc4e67232e0d",
+        "sha1": "fc8dd48dba8ae7446e942cc3f3d01540c986fb2e",
+        "sha256": "43ceae73b641e050fe831bcf61c0591493e073e2189fa9559e4fd94bf32854b1",
+        "crc32": "05e4893a"
+      }
+    },
+    {
+      "filename": "Mission Lost Control (World) (v1.1) (Aftermarket) (Unl).v64",
+      "filesize": 10829776,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "6beb91f45aba7b5e46608eeaa6a18a7e",
+        "sha1": "d82f9d1e924efef866686bdd38d6001cfa30b204",
+        "sha256": "b89ee011aa125f85db502f2f649553f3a82441541b1d61c9899169c80ee55e48",
+        "crc32": "0254823f"
+      }
+    }
+  ]
+}

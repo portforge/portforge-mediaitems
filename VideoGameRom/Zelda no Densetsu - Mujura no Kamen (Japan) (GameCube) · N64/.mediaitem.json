@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)",
+  "noIntroId": [
+    "game:0934",
+    "cloneofgame:0371"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NZSJ",
+      "checksums": {
+        "md5": "d3929aadf7640f8c5b4ce8321ad4393a",
+        "sha1": "1438fd501e3e5b25461770af88c02ab1e41d3a7e",
+        "crc32": "b9bf76df"
+      }
+    },
+    {
+      "filename": "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NZSJ",
+      "checksums": {
+        "md5": "b92c08532a84b3d0e8d3d1260f326d26",
+        "sha1": "7beadea493f24f77b5be85bf2c1dbd813481549b",
+        "crc32": "766ebdeb"
+      }
+    }
+  ]
+}

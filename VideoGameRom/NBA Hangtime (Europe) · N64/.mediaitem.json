@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NBA Hangtime (Europe)",
+  "noIntroId": [
+    "game:0475"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA Hangtime (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NXGP",
+      "checksums": {
+        "md5": "62365463743857cfc823978e0e590d84",
+        "sha1": "2bcbdd92ccb4c72757739d32557098f4eec36312",
+        "sha256": "7d98514e3f3e5c3b64882bc3a8d3644c8b8383b41bd63aafc9834ce487eb61e7",
+        "crc32": "7e6d00ae"
+      }
+    },
+    {
+      "filename": "NBA Hangtime (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NXGP",
+      "checksums": {
+        "md5": "662386ee4fdf23f3423a4300f1dad651",
+        "sha1": "004afe25ee5b70b915797ae799bfbf1d92c969a5",
+        "crc32": "bf05fe53"
+      }
+    }
+  ]
+}

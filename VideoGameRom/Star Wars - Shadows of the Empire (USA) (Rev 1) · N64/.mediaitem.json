@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars - Shadows of the Empire (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0696",
+    "cloneofgame:0694"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars - Shadows of the Empire (USA) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSWE",
+      "checksums": {
+        "md5": "fa635e837275d28fd5a24d5675ba42c8",
+        "sha1": "ded8f972d1e1d662614b1ec79822d649a8ce5430",
+        "sha256": "895d3dbbdc4945b690ef80f6dff8e5c95b5e3ab9fb3d9b62b5a8e9c61110a0e9",
+        "crc32": "b0540688"
+      }
+    },
+    {
+      "filename": "Star Wars - Shadows of the Empire (USA) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSWE",
+      "checksums": {
+        "md5": "547321df653203ad7bcbc178d9c37bf6",
+        "sha1": "9ac4a13f7d73398e6b75feb3238f0ae84680f532",
+        "sha256": "d4fa56c1e9802f29f257d2249441a0bb85adf99b1e38b4437653f652f2443127",
+        "crc32": "b0dbb100"
+      }
+    }
+  ]
+}

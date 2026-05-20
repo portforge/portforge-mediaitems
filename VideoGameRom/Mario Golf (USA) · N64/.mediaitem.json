@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mario Golf (USA)",
+  "noIntroId": [
+    "game:0407",
+    "cloneofgame:0406"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Golf (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMFE",
+      "checksums": {
+        "md5": "903e6929666531d72d05d1e4c522e305",
+        "sha1": "e2c4e7a905b29529b49a1619a401fe699224829b",
+        "sha256": "871134c893d5d671ef90c88dfbe98fb20fa20853b3370936a1d09aee6de1beae",
+        "crc32": "2fc4c216"
+      }
+    },
+    {
+      "filename": "Mario Golf (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMFE",
+      "checksums": {
+        "md5": "846984c666c35407961c7c069066fc42",
+        "sha1": "03db12b8a018eb10a31d3edcf693d92ab8676f1b",
+        "crc32": "ceb5b977"
+      }
+    }
+  ]
+}

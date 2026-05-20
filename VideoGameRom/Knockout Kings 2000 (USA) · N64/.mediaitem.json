@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Knockout Kings 2000 (USA)",
+  "noIntroId": [
+    "game:0366",
+    "cloneofgame:0365"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Knockout Kings 2000 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKKE",
+      "checksums": {
+        "md5": "008b473841ce4d9ac050d55f99b4b5d4",
+        "sha1": "ae7229676da9acb39becb03246969693585b7728",
+        "sha256": "e34165bdcfcf6dff6322ec6faf23f59ce38d43417573e6eb41233ebf7309e293",
+        "crc32": "074690d6"
+      }
+    },
+    {
+      "filename": "Knockout Kings 2000 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKKE",
+      "checksums": {
+        "md5": "e10de38bc510ed100318bf313f666d1c",
+        "sha1": "2c8a091cb5ee9be6aaaf390d25642e12409330f8",
+        "sha256": "17af1d3c2e9aa19d5f1bf6428075cdf3f91e167470529aa8613e56abd50a3bca",
+        "crc32": "a26533fc"
+      }
+    }
+  ]
+}

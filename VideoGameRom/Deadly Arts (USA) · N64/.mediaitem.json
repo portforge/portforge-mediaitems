@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Deadly Arts (USA)",
+  "noIntroId": [
+    "game:0158",
+    "cloneofgame:0251"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Deadly Arts (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGAE",
+      "checksums": {
+        "md5": "a2a4a0318dab366a595336b6f80ff3ab",
+        "sha1": "aa8566669575e3fea05daf5688d4fe05df735cd9",
+        "sha256": "80ba81827277bc1f171a00c4669406a3ef51d419f3aa0d510b9b567b43531a2c",
+        "crc32": "3db8130e"
+      }
+    },
+    {
+      "filename": "Deadly Arts (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGAE",
+      "checksums": {
+        "md5": "72cc6bc6a40705e4d49bbacabc84e347",
+        "sha1": "f4c7b5f79cee09d263b8a75b683ffbdb453d88f4",
+        "crc32": "b4afbf51"
+      }
+    }
+  ]
+}

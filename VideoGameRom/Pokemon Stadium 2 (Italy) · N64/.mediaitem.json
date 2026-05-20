@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Stadium 2 (Italy)",
+  "noIntroId": [
+    "game:0581",
+    "cloneofgame:0578"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Stadium 2 (Italy).z64",
+      "filesize": 67108864,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NP3I",
+      "checksums": {
+        "md5": "5a04d7f1ab9c6b080176567aa7168d3a",
+        "sha1": "4926db649c76521f61ae51c13e452a2c8001354c",
+        "crc32": "9fa5c095"
+      }
+    },
+    {
+      "filename": "Pokemon Stadium 2 (Italy).v64",
+      "filesize": 67108864,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NP3I",
+      "checksums": {
+        "md5": "98e85f8307b004e0a44321d271b96343",
+        "sha1": "55e9c0186a5c846b84315b1780587d31e8a9eb44",
+        "crc32": "c849c481"
+      }
+    }
+  ]
+}

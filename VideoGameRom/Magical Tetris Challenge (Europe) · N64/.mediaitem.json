@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Magical Tetris Challenge (Europe)",
+  "noIntroId": [
+    "game:0397"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Magical Tetris Challenge (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMTP",
+      "checksums": {
+        "md5": "20e51b27e8098a9d101b44689014c281",
+        "sha1": "ecc73f8a0a530ee42a56b46611da6f74b728fe7d",
+        "crc32": "af3b099e"
+      }
+    },
+    {
+      "filename": "Magical Tetris Challenge (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMTP",
+      "checksums": {
+        "md5": "5b0931119d80f5edffcdbd0b9f612228",
+        "sha1": "4885e3951584032fb0254cbbdba9961c45c3d10f",
+        "crc32": "bf53bf3d"
+      }
+    }
+  ]
+}

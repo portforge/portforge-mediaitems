@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Nushi Zuri 64 - Shiokaze ni Notte (Japan)",
+  "noIntroId": [
+    "game:0523"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nushi Zuri 64 - Shiokaze ni Notte (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NUMJ",
+      "checksums": {
+        "md5": "eeb69597e42e2f5d2914070acf161b4f",
+        "sha1": "85d8b412e3045c7a06062d3e155fef9ea918e800",
+        "sha256": "2143c7b960f65171b2675a3c11249e342b30b0e7e0fa2394cff0863502b546b6",
+        "crc32": "f0bcd1ce"
+      }
+    },
+    {
+      "filename": "Nushi Zuri 64 - Shiokaze ni Notte (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NUMJ",
+      "checksums": {
+        "md5": "ea55037ad7bfa5e1ec5605a39d35ca04",
+        "sha1": "5306827ffbf9bd51f52723d87083d68db240c890",
+        "sha256": "a12b89b4f47157609f95bbf3734c892324f20398debb5d9dcedf6419180f75c3",
+        "crc32": "6a81744d"
+      }
+    }
+  ]
+}

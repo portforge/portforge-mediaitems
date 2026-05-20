@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Off Road Challenge (Europe)",
+  "noIntroId": [
+    "game:0526"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Off Road Challenge (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NOFP",
+      "checksums": {
+        "md5": "e96fecba52905db14addad7cfd61091f",
+        "sha1": "3476e0eb4048c76107bd2b404d19a136bfc15ad9",
+        "sha256": "fa8bcf7ca006714b7cd7fa7d91f10e3abadce17ac187c5e8d64699fd7ac9cbe3",
+        "crc32": "d9fe9ee7"
+      }
+    },
+    {
+      "filename": "Off Road Challenge (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NOFP",
+      "checksums": {
+        "md5": "4f6390a166f11f9d2920f15780df937c",
+        "sha1": "c15ebcdbe0532556e215cdb7ee35c4f25fe66884",
+        "crc32": "e1938232"
+      }
+    }
+  ]
+}

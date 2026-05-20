@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Bomberman Hero - Mirian Oujo o Sukue! (Japan)",
+  "noIntroId": [
+    "game:0093",
+    "cloneofgame:0091"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bomberman Hero - Mirian Oujo o Sukue! (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBDJ",
+      "checksums": {
+        "md5": "ee273763c7391458865ff26c7ea0c3f1",
+        "sha1": "ae3f4f7c31ddbd14843d9beb932fc5aa21746211",
+        "sha256": "ce37c2dd12c17f413d94f802760ebf669ceef964044beb44879b3f87e40881d7",
+        "crc32": "69ceabcc"
+      }
+    },
+    {
+      "filename": "Bomberman Hero - Mirian Oujo o Sukue! (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBDJ",
+      "checksums": {
+        "md5": "e44f4d5dadd25568c906cc51bfd4d5bf",
+        "sha1": "c143fca315277496e0558c93701494a225ba4a37",
+        "crc32": "f3a50116"
+      }
+    }
+  ]
+}

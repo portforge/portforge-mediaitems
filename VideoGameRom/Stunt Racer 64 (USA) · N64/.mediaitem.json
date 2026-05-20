@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Stunt Racer 64 (USA)",
+  "noIntroId": [
+    "game:0710"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Stunt Racer 64 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NR3E",
+      "checksums": {
+        "md5": "e8b666a429fedb2a1a1228cd450cd4fc",
+        "sha1": "8570fa1f3e4cf7e62dc49da181353e4f301503b7",
+        "crc32": "3438b1af"
+      }
+    },
+    {
+      "filename": "Stunt Racer 64 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NR3E",
+      "checksums": {
+        "md5": "b84f3c943e89f3743befb4092deed5cc",
+        "sha1": "69d2ccb020f710886e76f28288fea2846e341527",
+        "crc32": "f60613de"
+      }
+    }
+  ]
+}

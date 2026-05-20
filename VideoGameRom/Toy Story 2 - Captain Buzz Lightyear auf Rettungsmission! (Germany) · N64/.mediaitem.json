@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)",
+  "noIntroId": [
+    "game:0769",
+    "cloneofgame:0767"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTHD",
+      "checksums": {
+        "md5": "3f40f37b0464dd065067523fb21016dd",
+        "sha1": "f8fbb100227015be8629243f53d70f29a2a14315",
+        "crc32": "c5e4c89f"
+      }
+    },
+    {
+      "filename": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTHD",
+      "checksums": {
+        "md5": "85f6378fcac99ed25f807842b1729517",
+        "sha1": "24cb3c7f89640a9ab542aabc55bc32561fd9218a",
+        "crc32": "33fd1561"
+      }
+    }
+  ]
+}

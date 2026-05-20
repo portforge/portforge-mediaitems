@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1134",
+    "cloneofgame:0375"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "74072c944a82c34190f412ee96a51b13",
+        "sha1": "86ff85565e0e4f78d56f50e73df51ba29d36738a",
+        "crc32": "c4d2ac1d"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "f35c7c4eaf278bc286f13ef01c93c1ff",
+        "sha1": "0110cf359bcf4f1c510ca93e779800015c77ceb9",
+        "crc32": "e9146f9d"
+      }
+    }
+  ]
+}

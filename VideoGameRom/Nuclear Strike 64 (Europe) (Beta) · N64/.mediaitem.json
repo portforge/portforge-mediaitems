@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Nuclear Strike 64 (Europe) (Beta)",
+  "noIntroId": [
+    "game:1314",
+    "cloneofgame:0519"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nuclear Strike 64 (Europe) (Beta).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCEP",
+      "checksums": {
+        "md5": "3dc227fbe711ee89ed691cbf34ebf6c1",
+        "sha1": "0ab2ff639a41f5181d35aaaff4b570ef279616f0",
+        "sha256": "9a9bff553104628afd4a97e2cef44dce2d60c5c2f600941cbfdcd1ab28106343",
+        "crc32": "9049ad0d"
+      }
+    },
+    {
+      "filename": "Nuclear Strike 64 (Europe) (Beta).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCEP",
+      "checksums": {
+        "md5": "6b9dfad0210d1440139820a4aefd20ac",
+        "sha1": "b88e9855ae68e27dda6ee096085e1189f9cf5642",
+        "sha256": "391441beb206bee55c256a8387d740bd694f07ccbf8dff27969a8843d61b500e",
+        "crc32": "27a3836a"
+      }
+    }
+  ]
+}

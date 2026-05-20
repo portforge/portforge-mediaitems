@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Super Smash Bros. (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0721"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Smash Bros. (Europe) (En,Fr,De).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NALP",
+      "checksums": {
+        "md5": "5e54c6c563b09c107f86fb33e914ef81",
+        "sha1": "6ee8a41fef66280ce3e3f0984d00b96079442fb9",
+        "sha256": "ddc65284e78c301f764d2f5e1e01de9a017225867a0b9326b73057fb8bdb1daf",
+        "crc32": "45a91cb1"
+      }
+    },
+    {
+      "filename": "Super Smash Bros. (Europe) (En,Fr,De).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NALP",
+      "checksums": {
+        "md5": "1e201f4c469927828bcf3335f2f3c4a3",
+        "sha1": "a582522c0a09816bf904109e014a970625c06d3c",
+        "crc32": "7976248c"
+      }
+    }
+  ]
+}

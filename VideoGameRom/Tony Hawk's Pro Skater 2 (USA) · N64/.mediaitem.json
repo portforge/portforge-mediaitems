@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Tony Hawk's Pro Skater 2 (USA)",
+  "noIntroId": [
+    "game:0753",
+    "cloneofgame:0752"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTQE",
+      "checksums": {
+        "md5": "29974692808c112b306fbd259273dc96",
+        "sha1": "458ac754cd8e08c46f4c5c9204192ecde84a179d",
+        "sha256": "6ac38612aaae84f8bba22a33a165c17fba3072b16999edcc9a86ab726008d726",
+        "crc32": "80aa83f3"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTQE",
+      "checksums": {
+        "md5": "bc77a627ad496c0668fd14558f0e9ac2",
+        "sha1": "6c2d313aea3724f5638738923a58c0e765bddcfa",
+        "crc32": "6df2d58e"
+      }
+    }
+  ]
+}

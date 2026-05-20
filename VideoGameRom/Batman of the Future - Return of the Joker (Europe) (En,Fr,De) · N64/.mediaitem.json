@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0066"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Batman of the Future - Return of the Joker (Europe) (En,Fr,De).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJQP",
+      "checksums": {
+        "md5": "a5ee8a6c34863e3d0eb8c06ae8668b30",
+        "sha1": "3954131395f98e605072bea11cc85842da58f754",
+        "sha256": "f96affc5a89bff0843a2e35a6dee9ea1fe8ae65719519a742780877419f5ce60",
+        "crc32": "82a4bb8a"
+      }
+    },
+    {
+      "filename": "Batman of the Future - Return of the Joker (Europe) (En,Fr,De).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJQP",
+      "checksums": {
+        "md5": "7ad96be5f289276b6a9d7163b19d2bc4",
+        "sha1": "16977e84fda45bbde7882a73a9685426fd4b458c",
+        "crc32": "86aa921c"
+      }
+    }
+  ]
+}

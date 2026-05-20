@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "GameBooster 64 (USA) (v1.1) (Unl) [b]",
+  "noIntroId": [
+    "game:0017",
+    "cloneofgame:0016"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "GameBooster 64 (USA) (v1.1) (Unl) [b].bin",
+      "filesize": 262144,
+      "format": "BigEndian",
+      "ext": "bin",
+      "checksums": {
+        "md5": "60d0264b38e22ef0d6b9549e4c81c29f",
+        "sha1": "5d0f244584d6cc0b0ced714409412f61de181e57",
+        "crc32": "e0b8edae"
+      }
+    },
+    {
+      "filename": "GameBooster 64 (USA) (v1.1) (Unl) [b].bin",
+      "filesize": 262144,
+      "format": "ByteSwapped",
+      "ext": "bin",
+      "checksums": {
+        "md5": "60d0264b38e22ef0d6b9549e4c81c29f",
+        "sha1": "5d0f244584d6cc0b0ced714409412f61de181e57",
+        "crc32": "e0b8edae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NBA in the Zone '98 (USA)",
+  "noIntroId": [
+    "game:0478",
+    "cloneofgame:0491"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA in the Zone '98 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBAE",
+      "checksums": {
+        "md5": "bbb48be198089a26050c84fe5b7b8bd5",
+        "sha1": "a306d80f483f8bb5891a543919c53fac61d9348f",
+        "crc32": "a245d737"
+      }
+    },
+    {
+      "filename": "NBA in the Zone '98 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBAE",
+      "checksums": {
+        "md5": "73334f6adab3f19c314c9f9cb2006e97",
+        "sha1": "b0e5d3a7fc83ec86027f9e7efdd876b7639e727c",
+        "crc32": "2bb83c0e"
+      }
+    }
+  ]
+}

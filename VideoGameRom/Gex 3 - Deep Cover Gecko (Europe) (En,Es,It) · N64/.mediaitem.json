@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)",
+  "noIntroId": [
+    "game:0260"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NX3P",
+      "checksums": {
+        "md5": "9f0492a34d7a2d7c4e9f29dc1848a04a",
+        "sha1": "54653ba26a12521ccd886212fffdf2f6427c2fea",
+        "crc32": "6bc4a056"
+      }
+    },
+    {
+      "filename": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NX3P",
+      "checksums": {
+        "md5": "ec10d3d8a602bbb4d7db942b4b53cd10",
+        "sha1": "1071d9cde1dedd1f44aec60cab40703643094d33",
+        "crc32": "1110cc22"
+      }
+    }
+  ]
+}

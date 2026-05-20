@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Flappy Bird (World) (v1.4) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1269"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Flappy Bird (World) (v1.4) (Aftermarket) (Unl).z64",
+      "filesize": 1415168,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "4f72168ef462293168c936589f10bc22",
+        "sha1": "2cadbfb04722a5a873ac516c96536fd211ca66cc",
+        "sha256": "859a8bfa297abf99fddb24816a7362b9ae3e2ea0b30f7d952ea1c68f4745d54f",
+        "crc32": "9594b162"
+      }
+    },
+    {
+      "filename": "Flappy Bird (World) (v1.4) (Aftermarket) (Unl).v64",
+      "filesize": 1415168,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "85910c19b78447ed16b3ccfb85269664",
+        "sha1": "69013474e8e774282811d9298340d6e6bfd00261",
+        "sha256": "740642412cfe8015cdf9ee05d68267a242703a374eb6e280c064c090a9812f44",
+        "crc32": "9ed6fdc8"
+      }
+    }
+  ]
+}

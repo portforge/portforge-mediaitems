@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "South Park (Brazil)",
+  "noIntroId": [
+    "game:0913",
+    "cloneofgame:0672"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "South Park (Brazil).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDTB",
+      "checksums": {
+        "md5": "d313af5f8af4d19f732a1a2c4d4d66bb",
+        "sha1": "26623418f8c6f271ba36b68eaecb18db19563b2b",
+        "crc32": "235caec6"
+      }
+    },
+    {
+      "filename": "South Park (Brazil).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDTB",
+      "checksums": {
+        "md5": "ea5e83663f360f11f054a8b02f5ef7ae",
+        "sha1": "def6ce5c26bb8acf51cb57002bea707bcdf0ec15",
+        "crc32": "40ac4211"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hamster Monogatari 64 (Japan)",
+  "noIntroId": [
+    "game:0272"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hamster Monogatari 64 (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHSJ",
+      "checksums": {
+        "md5": "3d4c7b11076bafa4620bcc154c0eeef3",
+        "sha1": "436627174830fb9941bd4f25efa6fa1024498a97",
+        "crc32": "c1d98b78"
+      }
+    },
+    {
+      "filename": "Hamster Monogatari 64 (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHSJ",
+      "checksums": {
+        "md5": "b9b21d064bb9572f25efbdd03de7dfaf",
+        "sha1": "0460de6b25d40ca4f8d7c4af671c736f029812f6",
+        "crc32": "689191c6"
+      }
+    }
+  ]
+}

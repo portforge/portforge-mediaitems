@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Super Smash Bros. (USA)",
+  "noIntroId": [
+    "game:0722",
+    "cloneofgame:0721"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Smash Bros. (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NALE",
+      "checksums": {
+        "md5": "f7c52568a31aadf26e14dc2b6416b2ed",
+        "sha1": "e2929e10fccc0aa84e5776227e798abc07cedabf",
+        "sha256": "15592e79d3c5295cef4371d4992f0bd25bec2102fc29644c93e682f7ea99ef3d",
+        "crc32": "eb97929e"
+      }
+    },
+    {
+      "filename": "Super Smash Bros. (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NALE",
+      "checksums": {
+        "md5": "3c4e65d9b7bf55338496108f04da7f41",
+        "sha1": "0fd35ae9976b4fe68ece1c6f2d9156d913ccf076",
+        "crc32": "dd2df6d9"
+      }
+    }
+  ]
+}

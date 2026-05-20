@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Chou Kuukan Nighter Pro Yakyuu King (Japan)",
+  "noIntroId": [
+    "game:0130"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Chou Kuukan Nighter Pro Yakyuu King (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPKJ",
+      "checksums": {
+        "md5": "78838c202c4ff5a460586451ee9182aa",
+        "sha1": "a08dd769f3b885dc27f4cd14022613d1baa52b84",
+        "sha256": "a8267610ebf5832a222de6689a8364ce60b981bc327fbe83bf3871f9e6275255",
+        "crc32": "5f75634e"
+      }
+    },
+    {
+      "filename": "Chou Kuukan Nighter Pro Yakyuu King (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPKJ",
+      "checksums": {
+        "md5": "70a0306209e6141293349648e22b9705",
+        "sha1": "ea7e403a37ee386f6422f4b96d4450fcd5d816f0",
+        "sha256": "7877c3d96f5f348fd2c863f5a6ffe2137b6bdbcaa45e5cf4bb926d45d57e78a2",
+        "crc32": "c73e336c"
+      }
+    }
+  ]
+}

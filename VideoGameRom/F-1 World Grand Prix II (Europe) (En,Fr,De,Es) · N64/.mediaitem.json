@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
+  "noIntroId": [
+    "game:0220"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NF2P",
+      "checksums": {
+        "md5": "bc0fd2468ac7769a37c3c58cd5699585",
+        "sha1": "53ed343a757b8a14814732393d02b3d780bccab5",
+        "sha256": "84ad927e250a746b24ab6a9c35264a008d7c27c216da37e5ec1dd46c4c5f699f",
+        "crc32": "803d33df"
+      }
+    },
+    {
+      "filename": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NF2P",
+      "checksums": {
+        "md5": "664cc372586a1ad7d1b15c1008e41470",
+        "sha1": "e8e598ccd19011539e815c01131539649c3ea8da",
+        "sha256": "4f59a7b005f6fb6623aa2e01d303ec83c421d8ea0a076d28cd2fe608a5e255db",
+        "crc32": "484c801d"
+      }
+    }
+  ]
+}

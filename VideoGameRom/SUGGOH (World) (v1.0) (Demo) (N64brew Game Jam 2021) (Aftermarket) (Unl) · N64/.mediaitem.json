@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "SUGGOH (World) (v1.0) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1236",
+    "cloneofgame:1235"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "SUGGOH (World) (v1.0) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64",
+      "filesize": 1052672,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "0416c95e67f1f3a4a3c3fd063f31ad9e",
+        "sha1": "e768de351fbc8ea4034494a522f700526f4a57b1",
+        "sha256": "a4bdcf2d6e03634461ff36f0a5b90e33e8ca050e374d77c2b5a26c5aa125252a",
+        "crc32": "8c5908aa"
+      }
+    },
+    {
+      "filename": "SUGGOH (World) (v1.0) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl).v64",
+      "filesize": 1052672,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "98143c3281cadaec610e5916dd17a8b0",
+        "sha1": "95adb1a437da7d270b0e799118390687f38ca033",
+        "sha256": "e4d92cc4b5f5c58644228a0fe5f947256974ecddb1c6086b7b43052e0e41fecc",
+        "crc32": "fe89b8cf"
+      }
+    }
+  ]
+}

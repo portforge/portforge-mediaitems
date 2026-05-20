@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Retro Dash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1215"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Retro Dash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64",
+      "filesize": 2097152,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "989f407b99f9f979c3daf052422c07f4",
+        "sha1": "84ef1374bdb2aff153525efdbfe7ad8ce14846a5",
+        "sha256": "f8a95698293dc6f66d87cd4132d50925143d59d8954a0495242bd8bda9dd097d",
+        "crc32": "f853037f"
+      }
+    },
+    {
+      "filename": "Retro Dash (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).v64",
+      "filesize": 2097152,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "8d75b7824ddf59f08d3a86e89c0341a5",
+        "sha1": "e57a1a88ee63b1f3b08f9134cb087d75905e33f9",
+        "sha256": "5eddab3b1cd20ce507af0d19fff9901bf8d558822e7b7879de03d7f864fc52a0",
+        "crc32": "3445db6a"
+      }
+    }
+  ]
+}

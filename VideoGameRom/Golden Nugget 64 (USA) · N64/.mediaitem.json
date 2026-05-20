@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Golden Nugget 64 (USA)",
+  "noIntroId": [
+    "game:0269"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Golden Nugget 64 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGNE",
+      "checksums": {
+        "md5": "231bac1afb3de138072c2d697783059b",
+        "sha1": "1c0b0e11804585a17fe1f8776cf5744963d5e2d7",
+        "sha256": "85bda93bf603585340170183811856116dde707641e541e1ff2943c2bf2772ce",
+        "crc32": "70594d3c"
+      }
+    },
+    {
+      "filename": "Golden Nugget 64 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGNE",
+      "checksums": {
+        "md5": "f97ab8431c40f2a2e333c32ff6841bbe",
+        "sha1": "fe9d5a5ebd075b9030f23c0525cedda6fe790002",
+        "sha256": "bb89b1b749e4c66b1e78776809305e1a3b9129afca22b71abcaa51ce6b7eda05",
+        "crc32": "05a0db83"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)",
+  "noIntroId": [
+    "game:0375"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "d714580dd74c2c033f5e1b6dc0aeac77",
+        "sha1": "cfbb98d392e4a9d39da8285d10cbef3974c2f012",
+        "sha256": "74f9266fd7fa23cc700b5b46a21fbe99cdc6ea10438bc4b48eeb625763b8611c",
+        "crc32": "a108f6e3"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "ae0d5ce5c27d4eccbb6d206b854a7159",
+        "sha1": "663c34f1b2c05a09e5beffe4d0dcd440f7d49dc7",
+        "crc32": "ab0ffbae"
+      }
+    }
+  ]
+}

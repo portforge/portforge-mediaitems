@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars - Rogue Squadron (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1157",
+    "cloneofgame:0692"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars - Rogue Squadron (USA) (LodgeNet).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "9adbbb596860db244490eb77e53a8df6",
+        "sha1": "80cdebe735d21589b692157633aae4be0b98c08e",
+        "crc32": "b31c4197"
+      }
+    },
+    {
+      "filename": "Star Wars - Rogue Squadron (USA) (LodgeNet).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "31c5e9daa0215d8c9906358977b45765",
+        "sha1": "6e449746b2f7d795be1f702e7c8689ac8463b019",
+        "crc32": "43c42eff"
+      }
+    }
+  ]
+}

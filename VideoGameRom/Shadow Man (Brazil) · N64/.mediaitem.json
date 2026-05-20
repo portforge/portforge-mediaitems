@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Shadow Man (Brazil)",
+  "noIntroId": [
+    "game:0906",
+    "cloneofgame:0653"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shadow Man (Brazil).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSDB",
+      "checksums": {
+        "md5": "fe2605193736a128ad65db1c9835a130",
+        "sha1": "93b2f3423c0af3510e36785622a6dde425dd136c",
+        "crc32": "61e6642c"
+      }
+    },
+    {
+      "filename": "Shadow Man (Brazil).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSDB",
+      "checksums": {
+        "md5": "61de36474558ddcd175be905ee20ac8b",
+        "sha1": "e7b05eab4b8d78ca338499eb8af503669e4a18bc",
+        "crc32": "679487b0"
+      }
+    }
+  ]
+}

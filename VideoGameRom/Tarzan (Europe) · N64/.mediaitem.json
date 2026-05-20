@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Tarzan (Europe)",
+  "noIntroId": [
+    "game:0729"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tarzan (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTAP",
+      "checksums": {
+        "md5": "bd1de2fc1cf31096423563a40ecbf933",
+        "sha1": "7623aceecd244f4352a7d9346a607ac183b32cd6",
+        "crc32": "7737ed9e"
+      }
+    },
+    {
+      "filename": "Tarzan (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTAP",
+      "checksums": {
+        "md5": "735dc0f52d801d820ccda651058e43de",
+        "sha1": "a489e4e47de9b59083f7bebafd260c8dcbb56f5f",
+        "crc32": "5fa14035"
+      }
+    }
+  ]
+}

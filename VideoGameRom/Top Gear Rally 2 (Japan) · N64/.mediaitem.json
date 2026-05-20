@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Top Gear Rally 2 (Japan)",
+  "noIntroId": [
+    "game:0765",
+    "cloneofgame:0764"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Top Gear Rally 2 (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NL2J",
+      "checksums": {
+        "md5": "b10d781ec625ca45713fd34e5096c24a",
+        "sha1": "d78df79985bfdc7c77f7ed0338e86e852bb3f45a",
+        "crc32": "aa136e07"
+      }
+    },
+    {
+      "filename": "Top Gear Rally 2 (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NL2J",
+      "checksums": {
+        "md5": "d7b62f7b669a0285b4681bef150c4cf7",
+        "sha1": "6c342e8e47baa3b9ee8a0a35721ec3a123b94243",
+        "crc32": "ccd50a05"
+      }
+    }
+  ]
+}

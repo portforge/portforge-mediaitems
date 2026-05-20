@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Stadium (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0577",
+    "cloneofgame:0571"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Stadium (USA) (Rev 1).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPOE",
+      "checksums": {
+        "md5": "40e03eda831c01e0a12294287fd240e2",
+        "sha1": "488bb6d112427823d77fcecdd9297fd86875263d",
+        "sha256": "290ccf333af450af59487563c1050c831cc9316975d5e0c7bac2e56a74732c53",
+        "crc32": "4b1bc2ac"
+      }
+    },
+    {
+      "filename": "Pokemon Stadium (USA) (Rev 1).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPOE",
+      "checksums": {
+        "md5": "a029cf9b7d15e30fb88e472d965b2865",
+        "sha1": "d5b479461cd45db31e896143519c85b7136cfe2e",
+        "crc32": "7bb7489f"
+      }
+    }
+  ]
+}

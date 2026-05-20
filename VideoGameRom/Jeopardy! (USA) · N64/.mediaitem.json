@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Jeopardy! (USA)",
+  "noIntroId": [
+    "game:0327"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jeopardy! (USA).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJOE",
+      "checksums": {
+        "md5": "a45f7200537c0d928a88cbba2dfeb680",
+        "sha1": "c5bcf3eff6bcdd9e7846ce5fd5db3095db9c58ed",
+        "crc32": "e739947c"
+      }
+    },
+    {
+      "filename": "Jeopardy! (USA).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJOE",
+      "checksums": {
+        "md5": "bd65646119cf596491406e59ee60fed8",
+        "sha1": "6f22227ea9a64f16f4b8a5a8b84a30fac55fd84c",
+        "crc32": "82b2ab69"
+      }
+    }
+  ]
+}

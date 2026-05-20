@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Bug's Life, A (Germany)",
+  "noIntroId": [
+    "game:0101",
+    "cloneofgame:0099"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bug's Life, A (Germany).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBYD",
+      "checksums": {
+        "md5": "cbef54768670f4b5602ccbc90150007a",
+        "sha1": "daa7114a8d16c3e636b2808d4f256e07954f05dd",
+        "sha256": "296969309890de4f1b0b62ca6f8b0ad29742a26817794e33d6ee4846676b137b",
+        "crc32": "15a32836"
+      }
+    },
+    {
+      "filename": "Bug's Life, A (Germany).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBYD",
+      "checksums": {
+        "md5": "dc4896f284956bfe8a105f7c93e0472e",
+        "sha1": "9bdc6d273262f6d1362565215566f6166aec6a07",
+        "crc32": "de6ce3ef"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)",
+  "noIntroId": [
+    "game:0154"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDUP",
+      "checksums": {
+        "md5": "1408fcf68b60d845f090107ef355a7e5",
+        "sha1": "5499b5284c04cee98186e68198d6bfe73fee0cdb",
+        "sha256": "296938fb1192d721944e2036b988262af9c556cf432ff9353623495f7e297bb9",
+        "crc32": "c61f6bb9"
+      }
+    },
+    {
+      "filename": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDUP",
+      "checksums": {
+        "md5": "1979c1a7d449107f478eba716cd30266",
+        "sha1": "456706f0e7a55b40715585f4a66a250a5654c02c",
+        "crc32": "6cb4b600"
+      }
+    }
+  ]
+}

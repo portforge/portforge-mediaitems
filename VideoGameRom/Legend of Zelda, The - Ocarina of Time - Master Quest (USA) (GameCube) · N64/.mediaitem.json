@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)",
+  "noIntroId": [
+    "game:0927",
+    "cloneofgame:0931"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "CZLE",
+      "checksums": {
+        "md5": "da35577fe54579f6a266931cc75f512d",
+        "sha1": "8b5d13aac69bfbf989861cfdc50b1d840945fc1d",
+        "sha256": "2a8d9dff460757a0f506a43db9b929510777ef690df620fb4364069a653372a8",
+        "crc32": "c744c4db"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "CZLE",
+      "checksums": {
+        "md5": "5e4e20f344128d32df88cbbfb89c8e13",
+        "sha1": "e1d070ad7b017de9f992b362164dcd9d7f820f7e",
+        "crc32": "7b89b13f"
+      }
+    }
+  ]
+}

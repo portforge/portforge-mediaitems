@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe) (Rev 1) (Proto)",
+  "noIntroId": [
+    "game:1296",
+    "cloneofgame:0767"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe) (Rev 1) (Proto).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTHP",
+      "checksums": {
+        "md5": "e479135de052deebfbf321f935cd357a",
+        "sha1": "a23b2717677047cddf5b7464cb5db7b435173584",
+        "sha256": "d2ae66feb1e1b38d23eb083f337e7be3376c1ddfa195307173f830179d43bf16",
+        "crc32": "4a1097df"
+      }
+    },
+    {
+      "filename": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe) (Rev 1) (Proto).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTHP",
+      "checksums": {
+        "md5": "c802be180f0e0dbc3dc38abdb58a60d4",
+        "sha1": "49f1ff7e94bed3136e68a63971c270def924b8ac",
+        "sha256": "c721fbf4e531e9cbb6c1c293ae0fb035cd30c53d1d49c7b298abcdf0322a7843",
+        "crc32": "6c3f8b15"
+      }
+    }
+  ]
+}

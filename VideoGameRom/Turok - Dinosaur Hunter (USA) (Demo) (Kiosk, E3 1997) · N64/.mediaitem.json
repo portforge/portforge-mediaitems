@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997)",
+  "noIntroId": [
+    "game:1131",
+    "cloneofgame:0777"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997).z64",
+      "filesize": 10019568,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "3f348189bfebc8cd94dc15b8e35c5c42",
+        "sha1": "a57b0d475a7b11971b4c3dc66e593fc5a6412ae2",
+        "sha256": "6134251820b4ff94c62c1a83f9eca4dc27f72dfe2f3f71aaaa7c4b81dbd99cdf",
+        "crc32": "940f1d87"
+      }
+    },
+    {
+      "filename": "Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997).v64",
+      "filesize": 10019568,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "9e15c42ce98d8da9c863d59a647a4c7c",
+        "sha1": "a5e385c4479bc7e135f5eb0d9d579072cb749fb4",
+        "sha256": "fa60d2bf3e7619d32c37fb7712c0c81427f0b9ed9e8c2c23f5eb5455bc24cae3",
+        "crc32": "3a871fc0"
+      }
+    }
+  ]
+}

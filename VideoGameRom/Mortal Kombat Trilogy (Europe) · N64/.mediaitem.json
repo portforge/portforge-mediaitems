@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mortal Kombat Trilogy (Europe)",
+  "noIntroId": [
+    "game:0458"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mortal Kombat Trilogy (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMKP",
+      "checksums": {
+        "md5": "7a558bbad8ce8828414a9cf3b044a87d",
+        "sha1": "5796aaf21bfa0e8532ef225ba4be3b39eef1be63",
+        "sha256": "4159adfdaf27068353c899d785ebdefea2a58ad9708a723b3dabbdb2cc8fb810",
+        "crc32": "bc04c62f"
+      }
+    },
+    {
+      "filename": "Mortal Kombat Trilogy (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMKP",
+      "checksums": {
+        "md5": "287bbc37468c5e434289c649499b0394",
+        "sha1": "75298d06adaf9814430c9dfde87dca3a9c59dab1",
+        "crc32": "6a805380"
+      }
+    }
+  ]
+}

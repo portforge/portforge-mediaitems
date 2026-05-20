@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Spider-Man (USA)",
+  "noIntroId": [
+    "game:0684"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Spider-Man (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSLE",
+      "checksums": {
+        "md5": "7f1991b8861e7e532ec21ecf2af82191",
+        "sha1": "382c9c5d4e416444c4f6f9f4f6a5914d679fedf1",
+        "sha256": "feff90ed1201c91ff167d66958048e61c192c9d6a756ddb98f799017ac9cd25c",
+        "crc32": "696cc2a4"
+      }
+    },
+    {
+      "filename": "Spider-Man (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSLE",
+      "checksums": {
+        "md5": "ea9dd6280a01ab95984caa1cb82c621e",
+        "sha1": "2ae97b0581bec355c4a7a2dc7a12df46cf4c91ab",
+        "sha256": "07959761d12187a50de420fb9b5d3b5af9d621307b8da2bed09c88fc16a3c9e0",
+        "crc32": "a2866a6e"
+      }
+    }
+  ]
+}

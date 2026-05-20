@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Jikkyou J.League Perfect Striker (Japan)",
+  "noIntroId": [
+    "game:0335"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou J.League Perfect Striker (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJPJ",
+      "checksums": {
+        "md5": "58153ac5c4030d1bfd3c15cf57fb02e7",
+        "sha1": "e1185922648a6b9dec1c820f43a292e480e396cc",
+        "crc32": "8ed60dea"
+      }
+    },
+    {
+      "filename": "Jikkyou J.League Perfect Striker (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJPJ",
+      "checksums": {
+        "md5": "cb2ded2b4713172ce4d89f629190a19e",
+        "sha1": "260270b33f3add84c99b5f2e4aa6f7c3f2abe93b",
+        "crc32": "97e1bce2"
+      }
+    }
+  ]
+}

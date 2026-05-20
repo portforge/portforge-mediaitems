@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Shadow Man (Germany)",
+  "noIntroId": [
+    "game:0655",
+    "cloneofgame:0653"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shadow Man (Germany).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSDD",
+      "checksums": {
+        "md5": "af40ef12ce923ff1c26e76cc9d9b9ed9",
+        "sha1": "8768f0ec0b7a0b4f5ff0da6f4d790edef5e3fe9c",
+        "crc32": "eaf6add1"
+      }
+    },
+    {
+      "filename": "Shadow Man (Germany).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSDD",
+      "checksums": {
+        "md5": "12b26c386f02451e2d8e600020cb2567",
+        "sha1": "01d453d23e8e089c071f41a2bdcb78a3c695a72a",
+        "crc32": "1f171a3f"
+      }
+    }
+  ]
+}

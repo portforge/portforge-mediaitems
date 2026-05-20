@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Choro Q 64 (Japan)",
+  "noIntroId": [
+    "game:0128",
+    "cloneofgame:0542"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Choro Q 64 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCRJ",
+      "checksums": {
+        "md5": "8287a908e36e79b2d3af0bd22c43ecd9",
+        "sha1": "288cdbabe30349b70ddd68931e697af03e0d2ee8",
+        "sha256": "e54dd88e65c6a14b7d591118c18d1c69551de334dbebba43d70a96162d63ba32",
+        "crc32": "231f9284"
+      }
+    },
+    {
+      "filename": "Choro Q 64 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCRJ",
+      "checksums": {
+        "md5": "1e1c1407fb9dcddfa2a140a9c7597398",
+        "sha1": "c399149b3166ce310028184610aaf312af9ba75a",
+        "crc32": "c5722b49"
+      }
+    }
+  ]
+}

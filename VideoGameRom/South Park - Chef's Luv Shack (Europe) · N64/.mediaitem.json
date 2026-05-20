@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "South Park - Chef's Luv Shack (Europe)",
+  "noIntroId": [
+    "game:0675"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "South Park - Chef's Luv Shack (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCYP",
+      "checksums": {
+        "md5": "f1ae48b778c8431a50c37eb1ed96b120",
+        "sha1": "5aeec40c04ae9f7bc286f38e5250712c5fead191",
+        "sha256": "808c16c10a8c60998b743f7ed96ec82363172dfeccc1035d2cbd527bdc9df6d0",
+        "crc32": "ac1628eb"
+      }
+    },
+    {
+      "filename": "South Park - Chef's Luv Shack (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCYP",
+      "checksums": {
+        "md5": "06da3c068c3fc5d39684aaaa6c778bac",
+        "sha1": "1fcdc805db0b026db04730fb385b30721ce74a21",
+        "crc32": "ed36fa49"
+      }
+    }
+  ]
+}

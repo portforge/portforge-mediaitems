@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "WWF Attitude (Europe)",
+  "noIntroId": [
+    "game:0857"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WWF Attitude (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTIP",
+      "checksums": {
+        "md5": "3fdb2e5f9982fda2c2344a883b8ab6ef",
+        "sha1": "880d3aacae0b3792235404decd294afdad51a0a6",
+        "sha256": "403189fe4c003396404f12589e29ec9d6342d908ef87d9d3fc315aa3fa555c06",
+        "crc32": "804fe494"
+      }
+    },
+    {
+      "filename": "WWF Attitude (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTIP",
+      "checksums": {
+        "md5": "16479d2a012c09b64255f303ed5119ac",
+        "sha1": "4135d3346be4eb657c6779ce7b2ca89d5d94a0db",
+        "crc32": "69cf2fe6"
+      }
+    }
+  ]
+}

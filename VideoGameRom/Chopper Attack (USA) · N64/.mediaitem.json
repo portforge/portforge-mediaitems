@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Chopper Attack (USA)",
+  "noIntroId": [
+    "game:0127",
+    "cloneofgame:0126"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Chopper Attack (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCHE",
+      "checksums": {
+        "md5": "c37e8afb4f3ecc86d01ce7388ca59347",
+        "sha1": "1e3f1c94c806b2699c4e0e941190d468435b9f60",
+        "sha256": "669fd3b75a5fb3db077f76d1cc74fc3396698d208945511567823165e2515f4d",
+        "crc32": "aa5d76a9"
+      }
+    },
+    {
+      "filename": "Chopper Attack (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCHE",
+      "checksums": {
+        "md5": "2537f5b2c1c49c13e5f39421a376ee7a",
+        "sha1": "ce39f1afac5efc889cbe0ae03f0ccfa9a2e5b085",
+        "sha256": "9e9f0c38412b1e5a8690444ecb0ea29de1e3905ec2ffb9c60b415dc01c20c36f",
+        "crc32": "2c22147d"
+      }
+    }
+  ]
+}

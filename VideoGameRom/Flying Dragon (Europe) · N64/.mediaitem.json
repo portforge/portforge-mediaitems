@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Flying Dragon (Europe)",
+  "noIntroId": [
+    "game:0243"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Flying Dragon (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFDP",
+      "checksums": {
+        "md5": "add115aad0ab7d33bfd243936d809178",
+        "sha1": "3f4462d85d5b5ddc6edaeef45b682eeff7f4b144",
+        "sha256": "a67ca1d9a3297429524dfde1bc9cd27d7b9b727c4aa336510211b6d2ef070e0e",
+        "crc32": "c3066e59"
+      }
+    },
+    {
+      "filename": "Flying Dragon (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFDP",
+      "checksums": {
+        "md5": "73c88384b597b0cc667f353dfae12b79",
+        "sha1": "fa71bada5055fcda27899d8f165224b737dc8449",
+        "crc32": "00fff973"
+      }
+    }
+  ]
+}

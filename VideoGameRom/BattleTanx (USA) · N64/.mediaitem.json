@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "BattleTanx (USA)",
+  "noIntroId": [
+    "game:0067"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "BattleTanx (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBXE",
+      "checksums": {
+        "md5": "3406a505c22bac2f40d9bfc6ff08cf86",
+        "sha1": "535860d941738ac1210c20a9b80114fea0e0ff17",
+        "sha256": "c5b7cf3523de025e3f18e2c8df2deb0eced5613e7c46cb8c6c5a4f22644ead3f",
+        "crc32": "6c230765"
+      }
+    },
+    {
+      "filename": "BattleTanx (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBXE",
+      "checksums": {
+        "md5": "e4f24ef9b43259bad0a1bf235745d81e",
+        "sha1": "1daced29439e8f2605349e9f453e90155fea46f4",
+        "sha256": "a87d0c2a29b0c2672762e96bd4255e23722e17730647057231ff45de4b0f305c",
+        "crc32": "66123c8b"
+      }
+    }
+  ]
+}

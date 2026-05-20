@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)",
+  "noIntroId": [
+    "game:0250"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSIJ",
+      "checksums": {
+        "md5": "bbcde4966bee5602a80d9b8c1011dfa6",
+        "sha1": "f97b070a1fa6ab3d190b36d6b68a2ef182d35233",
+        "sha256": "4073a9f6516ef5d15cdd8b259a952a7d07633a2815f2a738fb5d98415d30a458",
+        "crc32": "2aa6d2a1"
+      }
+    },
+    {
+      "filename": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSIJ",
+      "checksums": {
+        "md5": "e520452c07479fa6a059346919340764",
+        "sha1": "a50ef01ec653ed48a2b857fe2834d815cbd8e972",
+        "sha256": "424518c722c2d2ec816b8323494332c05a49967e38b20c4df5c3dbd1ca952620",
+        "crc32": "af0a22ef"
+      }
+    }
+  ]
+}

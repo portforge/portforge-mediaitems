@@ -1,0 +1,32 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Robotech - Crystal Dreams (USA) (Proto 2)",
+  "noIntroId": [
+    "game:0627"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Robotech - Crystal Dreams (USA) (Proto 2).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "b39592c6c9a3121258bdb62485956880",
+        "sha1": "8051c03135447a92b21aface5b00111c3b4af773",
+        "crc32": "f9a7904e"
+      }
+    },
+    {
+      "filename": "Robotech - Crystal Dreams (USA) (Proto 2).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "4536b89363729545943f80f2ffae5241",
+        "sha1": "d11da9e79e170723903e88db92e80a4738345ae2",
+        "crc32": "8afc9639"
+      }
+    }
+  ]
+}

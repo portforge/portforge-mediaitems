@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "WCW Mayhem (Europe)",
+  "noIntroId": [
+    "game:0832"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WCW Mayhem (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWMP",
+      "checksums": {
+        "md5": "9e943752bcf4fba9ca3028e596f4eb4a",
+        "sha1": "594b273ee9d6e174cfd9b33d4fd6aa86cd3e2442",
+        "sha256": "d8c97d05f5050636a5756ddac73d1983ab636544f996a6a5d3dd5d15a14339b2",
+        "crc32": "864e066e"
+      }
+    },
+    {
+      "filename": "WCW Mayhem (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWMP",
+      "checksums": {
+        "md5": "ebe4d489c2d6ea05986f6fdb54747aa0",
+        "sha1": "e52d1e83bc9283a7ba7b99372a83d4d6ecf57347",
+        "crc32": "e56874ee"
+      }
+    }
+  ]
+}

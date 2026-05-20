@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wipeout 64 (Europe) (Beta)",
+  "noIntroId": [
+    "game:1019",
+    "cloneofgame:0848"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wipeout 64 (Europe) (Beta).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWPP",
+      "checksums": {
+        "md5": "7260da1cecd0d8844c5e29aa63476def",
+        "sha1": "a05a1f4c9f4ee67159db0cd15c37e05f255d35d0",
+        "crc32": "944b258f"
+      }
+    },
+    {
+      "filename": "Wipeout 64 (Europe) (Beta).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWPP",
+      "checksums": {
+        "md5": "fff9f2bce78490a7888536958396351f",
+        "sha1": "a1b29cac31d735f9ad5eb42c14bd40870afb3c2b",
+        "crc32": "5b0dbfee"
+      }
+    }
+  ]
+}

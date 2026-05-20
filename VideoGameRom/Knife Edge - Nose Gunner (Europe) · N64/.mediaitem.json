@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Knife Edge - Nose Gunner (Europe)",
+  "noIntroId": [
+    "game:0362"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Knife Edge - Nose Gunner (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKEP",
+      "checksums": {
+        "md5": "d31a94a5685a21a932cc886d64cc9b21",
+        "sha1": "5359c747e91c9119fde3a7920333a9d0c04d251d",
+        "sha256": "07578b1e624fce4ad366f1fc5c446e4516592da3a1f072730656ae0c5cdfd103",
+        "crc32": "b77783be"
+      }
+    },
+    {
+      "filename": "Knife Edge - Nose Gunner (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKEP",
+      "checksums": {
+        "md5": "7f5681a7c28870c568a92d3639ebe0e3",
+        "sha1": "feaf0b775e71dd35d5a1fef72e3cf4ce6e06d230",
+        "crc32": "35b61293"
+      }
+    }
+  ]
+}

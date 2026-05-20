@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "WCW vs. nWo - World Tour (USA)",
+  "noIntroId": [
+    "game:0837",
+    "cloneofgame:0836"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WCW vs. nWo - World Tour (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWNE",
+      "checksums": {
+        "md5": "203c3bbfdd10c5a0b7c5d0cdb085d853",
+        "sha1": "5ad2d8359058c8bb71f08e3d3433b7a50d3bb645",
+        "sha256": "852dc6478e55c13da60080c1ed468ecf6aa2f370c1bb8ba16720622fa931763a",
+        "crc32": "dfbfc61f"
+      }
+    },
+    {
+      "filename": "WCW vs. nWo - World Tour (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWNE",
+      "checksums": {
+        "md5": "b352f1cd684bb04530a454e8618e6582",
+        "sha1": "050a85a8fb5146d0a5dd0a67d1004695f83cea36",
+        "sha256": "43e66e5bdedd1181726037164d4fae76521622e94ef1c6dc5dfdf524bc6a809e",
+        "crc32": "ad6fe55f"
+      }
+    }
+  ]
+}

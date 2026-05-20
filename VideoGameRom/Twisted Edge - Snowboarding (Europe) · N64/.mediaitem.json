@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Twisted Edge - Snowboarding (Europe)",
+  "noIntroId": [
+    "game:0796"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Twisted Edge - Snowboarding (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSBP",
+      "checksums": {
+        "md5": "420c9fdbae15767c5e584070209ff253",
+        "sha1": "de12629f2538f80e25901decafc7ccc18c7d481c",
+        "sha256": "a00c0c81651f01a7c88e120c09028ae8419ef7627ad3f912ab3a036fe400e3ec",
+        "crc32": "bf0c1291"
+      }
+    },
+    {
+      "filename": "Twisted Edge - Snowboarding (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSBP",
+      "checksums": {
+        "md5": "935894c48c7ceb500299cbeb6acfa805",
+        "sha1": "e5bae263e692121a080308e6fdb2e42d20b1b347",
+        "crc32": "394bdd25"
+      }
+    }
+  ]
+}

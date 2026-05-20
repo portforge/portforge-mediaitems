@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Worms Armageddon (USA) (En,Fr,Es) (Limited Run Games)",
+  "noIntroId": [
+    "game:1183",
+    "cloneofgame:0855"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Worms Armageddon (USA) (En,Fr,Es) (Limited Run Games).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NADE",
+      "checksums": {
+        "md5": "096c6f823f32f931cc1319855578049d",
+        "sha1": "a07cd80155b0845b8f1d9c30a9e5af169a447897",
+        "sha256": "794945d2db742007d6ca98787827a31834db9684513a563c6b31e13612a8fcee",
+        "crc32": "85f1e911"
+      }
+    },
+    {
+      "filename": "Worms Armageddon (USA) (En,Fr,Es) (Limited Run Games).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NADE",
+      "checksums": {
+        "md5": "9b1ad3aa9cff6d11066851e4c0d15f90",
+        "sha1": "5272c8c2f1f597da460ef7827549b36d4ed29ff8",
+        "sha256": "acc064cf60da842307221299baff350d3deccea96acae696127352dade13d9ea",
+        "crc32": "d155b143"
+      }
+    }
+  ]
+}

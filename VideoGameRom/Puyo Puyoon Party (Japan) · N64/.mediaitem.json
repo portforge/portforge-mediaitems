@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Puyo Puyoon Party (Japan)",
+  "noIntroId": [
+    "game:0592"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Puyo Puyoon Party (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPTJ",
+      "checksums": {
+        "md5": "22b86ab3f320a607899a0516c90a24d0",
+        "sha1": "d5553182ecda2eba6076e7b04b900ef78b700fc5",
+        "crc32": "d59d2794"
+      }
+    },
+    {
+      "filename": "Puyo Puyoon Party (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPTJ",
+      "checksums": {
+        "md5": "53272289f493d802b7c562daab64219f",
+        "sha1": "e02d3a92256a43c8aeaa6dabd2f53cd3769ef1f6",
+        "crc32": "9c32adeb"
+      }
+    }
+  ]
+}

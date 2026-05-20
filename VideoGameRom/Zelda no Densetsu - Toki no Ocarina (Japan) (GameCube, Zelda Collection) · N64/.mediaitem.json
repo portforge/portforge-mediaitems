@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)",
+  "noIntroId": [
+    "game:1020",
+    "cloneofgame:0375"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "CZLJ",
+      "checksums": {
+        "md5": "0c13e0449a28ea5b925cdb8af8d29768",
+        "sha1": "2ce2d1a9f0534c9cd9fa04ea5317b80da21e5e73",
+        "crc32": "8c5b90c1"
+      }
+    },
+    {
+      "filename": "Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "CZLJ",
+      "checksums": {
+        "md5": "2e1768351e40d3577345e7d2a83e9aa0",
+        "sha1": "b6d33d6bf5d6700c64b6a873ab8b06ff039619bc",
+        "crc32": "683bf76e"
+      }
+    }
+  ]
+}

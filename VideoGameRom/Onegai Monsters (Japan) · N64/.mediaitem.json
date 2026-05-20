@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Onegai Monsters (Japan)",
+  "noIntroId": [
+    "game:0533"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Onegai Monsters (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NOMJ",
+      "checksums": {
+        "md5": "3796829f54958ce103dcf5e3e8eb80b4",
+        "sha1": "7592f4c16b8e040539b5dcc201fab2965a5e8c8d",
+        "sha256": "8de633b3c479269e8ba2df607c788b216277249a46d84583a3531393a7e1621d",
+        "crc32": "ac72a1c7"
+      }
+    },
+    {
+      "filename": "Onegai Monsters (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NOMJ",
+      "checksums": {
+        "md5": "94f9782a2d365c7a697119d728909257",
+        "sha1": "a352a6f95b414f7563503fa39e92c604f965a11e",
+        "crc32": "ff03ec8a"
+      }
+    }
+  ]
+}

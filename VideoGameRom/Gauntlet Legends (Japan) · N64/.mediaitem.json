@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Gauntlet Legends (Japan)",
+  "noIntroId": [
+    "game:0257",
+    "cloneofgame:0256"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Gauntlet Legends (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGDJ",
+      "checksums": {
+        "md5": "3b2615d754a61e45b1034d555d830a78",
+        "sha1": "8389b01e5872053f1f39bc586db9fa012d46c5fa",
+        "crc32": "8d133db0"
+      }
+    },
+    {
+      "filename": "Gauntlet Legends (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGDJ",
+      "checksums": {
+        "md5": "0b185f16670731a63eac6cf7bffe64aa",
+        "sha1": "c7938e334f9fa10004355f7163d5a7f3b80d981d",
+        "crc32": "1f3a1912"
+      }
+    }
+  ]
+}

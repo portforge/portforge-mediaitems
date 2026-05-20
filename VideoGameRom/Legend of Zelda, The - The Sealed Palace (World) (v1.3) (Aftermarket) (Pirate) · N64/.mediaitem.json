@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Legend of Zelda, The - The Sealed Palace (World) (v1.3) (Aftermarket) (Pirate)",
+  "noIntroId": [
+    "game:1176"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - The Sealed Palace (World) (v1.3) (Aftermarket) (Pirate).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "c65d67dd5b61ebc1f58d7202dde78bbe",
+        "sha1": "177a175bcea116ccc92f70fe2255ad3ae3294f13",
+        "sha256": "b382a5a121663afe0d98c4ab685bea047b7cc61d103c3394af65973b08f89b3e",
+        "crc32": "91c1b340"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - The Sealed Palace (World) (v1.3) (Aftermarket) (Pirate).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "2d22a86f6c38306aa1c77be0159af44d",
+        "sha1": "576f2dc947386c3e5d21b6605f32d01f7a1b2c43",
+        "sha256": "91e6e06327d23d21fc7c13aa96ac61f3001758500d13d9361f5faf26bdc4120a",
+        "crc32": "be550d02"
+      }
+    }
+  ]
+}

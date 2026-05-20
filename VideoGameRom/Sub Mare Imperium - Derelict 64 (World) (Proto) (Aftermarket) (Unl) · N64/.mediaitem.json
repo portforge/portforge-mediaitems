@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1275"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl).z64",
+      "filesize": 1064960,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "c496598a657b06ba752ccc43b0e7b555",
+        "sha1": "ee46984600d010243249365a5ab8314602d90bba",
+        "sha256": "1f26ca70921156f8ea3169f28c7f8ecfc337fe69e3c12359296d3fd5124d2c29",
+        "crc32": "adddbba9"
+      }
+    },
+    {
+      "filename": "Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl).v64",
+      "filesize": 1064960,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "096257c36e998b3997979a297480e02b",
+        "sha1": "4822e4552d969a396b528fe8f211d1f04bfc53d1",
+        "sha256": "1e7ad3d388c679ac63c4f7d99ac0940bf4136d28f2e119846990642b6080de62",
+        "crc32": "17bc7fa6"
+      }
+    }
+  ]
+}

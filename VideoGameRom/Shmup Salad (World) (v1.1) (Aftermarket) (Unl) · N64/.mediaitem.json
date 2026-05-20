@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Shmup Salad (World) (v1.1) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1325"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shmup Salad (World) (v1.1) (Aftermarket) (Unl).z64",
+      "filesize": 1052672,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "6a44c62a6cc060e99a5aa42e72f3a652",
+        "sha1": "c0e2a1bd433e1d33975d14cdf77951e8f5d0a99b",
+        "sha256": "c450961467fa283db09bb1fead7a492d15252110343f5813c9cd4d20d48757b5",
+        "crc32": "91ec8cef"
+      }
+    },
+    {
+      "filename": "Shmup Salad (World) (v1.1) (Aftermarket) (Unl).v64",
+      "filesize": 1052672,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "6b0144c0c2b4484f699bb54f5100aac5",
+        "sha1": "f185a99d29561c959c39b8697fd1e93b98a2d51b",
+        "sha256": "50b1abb6ef42925812985b695258a3d6c2062e2be2fde18ea802d8cfe7a37e34",
+        "crc32": "3e7e4744"
+      }
+    }
+  ]
+}

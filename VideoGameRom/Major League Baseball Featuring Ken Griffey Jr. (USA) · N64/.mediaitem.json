@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Major League Baseball Featuring Ken Griffey Jr. (USA)",
+  "noIntroId": [
+    "game:0405"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Major League Baseball Featuring Ken Griffey Jr. (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKGE",
+      "checksums": {
+        "md5": "764f22ad3d0f59667a7f083d2f789b31",
+        "sha1": "54b8c97523089d92754c2582a7b7a43246947122",
+        "crc32": "2ef1ea20"
+      }
+    },
+    {
+      "filename": "Major League Baseball Featuring Ken Griffey Jr. (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKGE",
+      "checksums": {
+        "md5": "3a99f4f24adee8c6e53bcc410fbd35fe",
+        "sha1": "ee0ab1e8af669712afbaf4b9bbcee62e8eb13a4a",
+        "crc32": "7542d45d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Dexanoid (World) (Unl)",
+  "noIntroId": [
+    "game:1260"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Dexanoid (World) (Unl).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "6d75719bfa6244c4591070d3f7356072",
+        "sha1": "7e754be0a0de1850754f798e5b38404d7f176cc4",
+        "sha256": "3c21cbdf795897df530e1faf801539f745671fe80e17e908c1a8d8430be85e19",
+        "crc32": "244e6d59"
+      }
+    },
+    {
+      "filename": "Dexanoid (World) (Unl).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "271ec2d7131b3f613f59974293417eaf",
+        "sha1": "042012aab05ef86ed6b8722ae2a5fc57b43150f5",
+        "sha256": "2fdb915ee7c34eb3ae60a70951ef76f55ad2f988f3640c7a3a41a130162ac061",
+        "crc32": "22fc2a40"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Shadow Man (France)",
+  "noIntroId": [
+    "game:0654",
+    "cloneofgame:0653"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shadow Man (France).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSDF",
+      "checksums": {
+        "md5": "235511bbdb21af5a767bdb7502a80f06",
+        "sha1": "1f0b03c80c6449de78ee8403cfa84fe8cf759341",
+        "sha256": "4b38312c467b825ee0472746fe572a13d5520e8db3638299ae33c98110bc72e0",
+        "crc32": "6812d3a7"
+      }
+    },
+    {
+      "filename": "Shadow Man (France).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSDF",
+      "checksums": {
+        "md5": "b536d55de81fffc8e4052399b1d99021",
+        "sha1": "9fd09639dbf2a9b11f7d1c2cccb40529febedb2a",
+        "crc32": "cb221562"
+      }
+    }
+  ]
+}

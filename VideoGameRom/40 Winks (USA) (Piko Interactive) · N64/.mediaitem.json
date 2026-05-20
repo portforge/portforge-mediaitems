@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "40 Winks (USA) (Piko Interactive)",
+  "noIntroId": [
+    "game:1066",
+    "cloneofgame:1283"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "40 Winks (USA) (Piko Interactive).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N4WE",
+      "checksums": {
+        "md5": "b88c172ed14f4acb43c4a352d71cc640",
+        "sha1": "420f0ed3b67f802b5f3ab4bd17167c266f8f36ce",
+        "sha256": "057232ef7618e25f5645df50d3cd45f08cb5a2cccb3e2fdf48faa8755c4ddb1a",
+        "crc32": "31c19633"
+      }
+    },
+    {
+      "filename": "40 Winks (USA) (Piko Interactive).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N4WE",
+      "checksums": {
+        "md5": "bc3c22ca31182ba8274b4cda793a1469",
+        "sha1": "83f02505f7383ba89cd03ca1aaa0e4019ac714ec",
+        "sha256": "23407b95d66db836640088da8a26493d90022d82b239185f51a92c29a4e793f7",
+        "crc32": "15a0118f"
+      }
+    }
+  ]
+}

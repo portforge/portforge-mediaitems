@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Virtual Chess 64 (USA) (En,Fr,Es)",
+  "noIntroId": [
+    "game:0810",
+    "cloneofgame:0809"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Virtual Chess 64 (USA) (En,Fr,Es).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NVCE",
+      "checksums": {
+        "md5": "f8a35270279b277586d7210fd15134ff",
+        "sha1": "b3f84937813eb76f94dfcf1dbea69b11bdbf7e4f",
+        "crc32": "620de0b7"
+      }
+    },
+    {
+      "filename": "Virtual Chess 64 (USA) (En,Fr,Es).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NVCE",
+      "checksums": {
+        "md5": "eec508e77327324b9cd88957c173079b",
+        "sha1": "9f57ec795e3c62d88ea823a5866a7b1012b731db",
+        "crc32": "3cd894c4"
+      }
+    }
+  ]
+}

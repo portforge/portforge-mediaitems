@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "StarCraft 64 (USA)",
+  "noIntroId": [
+    "game:0706"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "StarCraft 64 (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSQE",
+      "checksums": {
+        "md5": "559f71b861f639b6376d891e3023414b",
+        "sha1": "a36d91b5aac7bb95df0d7de5f9814f5270e25c2b",
+        "sha256": "e7d21880c13953b45b8f8db6b2b6cfa02daa29d35b23799a967e96f21001b020",
+        "crc32": "4e4c7ec9"
+      }
+    },
+    {
+      "filename": "StarCraft 64 (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSQE",
+      "checksums": {
+        "md5": "fcb1ede6d4f63dff012ce8c2e62e95cf",
+        "sha1": "3466ce39800b160ab8157ba1505ada238ed10d4a",
+        "sha256": "d04fd33c3aec1113ca3ae35f799cfeec5b6a37ed08f62a98bad9c8e1c02d0394",
+        "crc32": "14c77369"
+      }
+    }
+  ]
+}

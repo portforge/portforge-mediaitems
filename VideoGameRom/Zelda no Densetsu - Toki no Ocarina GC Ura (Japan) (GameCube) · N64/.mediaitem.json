@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)",
+  "noIntroId": [
+    "game:0932",
+    "cloneofgame:0931"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "CZLJ",
+      "checksums": {
+        "md5": "69895c5c78442260f6eafb2506dc482a",
+        "sha1": "dd14e143c4275861fe93ea79d0c02e36ae8c6c2f",
+        "crc32": "122ff261"
+      }
+    },
+    {
+      "filename": "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "CZLJ",
+      "checksums": {
+        "md5": "27628ed87a5cb76320fedde35235facc",
+        "sha1": "06c3c098f0e14ed61811dfaf0e8e4519d7d7a826",
+        "crc32": "d97c20ba"
+      }
+    }
+  ]
+}

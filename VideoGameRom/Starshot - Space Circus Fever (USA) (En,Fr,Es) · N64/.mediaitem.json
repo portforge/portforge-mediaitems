@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
+  "noIntroId": [
+    "game:0709",
+    "cloneofgame:0708"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Starshot - Space Circus Fever (USA) (En,Fr,Es).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSCE",
+      "checksums": {
+        "md5": "42af1992978229bbb5f560571708e25e",
+        "sha1": "7def46651f55745d5bbd633c9002bdbffc53a5e0",
+        "sha256": "0119becb46b84107ce9f67c89439474f43b08b77f0da2e3731ae4cc95f573d5f",
+        "crc32": "7720e5f3"
+      }
+    },
+    {
+      "filename": "Starshot - Space Circus Fever (USA) (En,Fr,Es).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSCE",
+      "checksums": {
+        "md5": "5255c9f757d88188ed3d90faeaff462e",
+        "sha1": "1a4b81c3bd09d24dbbfed6aae66cb6761429817b",
+        "sha256": "ac207a9e75bcbcdee629d9fd6987d0b003340c01abf9cdf0dc6ba8dd97f8e9f0",
+        "crc32": "64370749"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "International Superstar Soccer '98 (Europe) (Beta) (1998-03-02)",
+  "noIntroId": [
+    "game:1059",
+    "cloneofgame:0311"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "International Superstar Soccer '98 (Europe) (Beta) (1998-03-02).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "21ea0b80849b084ac3138fde780e5dbb",
+        "sha1": "2fb15e4517ebe84f4a354e555716105fe69dd993",
+        "sha256": "7540ee55ab721c657e86a73b4e98174e13d47880c35f003833cfe5b90a5124aa",
+        "crc32": "a63dcb66"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer '98 (Europe) (Beta) (1998-03-02).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none!",
+      "checksums": {
+        "md5": "44ca5531612c59b8262cccc636a58a1d",
+        "sha1": "8bdf4b5e4a233715dca98c9515e0907b7a53cbee",
+        "sha256": "e08bd4f7e3ae07290eb476265ff223fa9fd3511a7cf1355cc70ab46f1f48c7a3",
+        "crc32": "20e1cea3"
+      }
+    }
+  ]
+}

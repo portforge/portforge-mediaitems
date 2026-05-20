@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mahjong Hourouki Classic (Japan)",
+  "noIntroId": [
+    "game:0402"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mahjong Hourouki Classic (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMHJ",
+      "checksums": {
+        "md5": "e942a3eeb1eb572badd6f705eb12a22c",
+        "sha1": "405e6bcb6ad4a1452fe50aac1278a3f411c378c0",
+        "crc32": "990a8e54"
+      }
+    },
+    {
+      "filename": "Mahjong Hourouki Classic (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMHJ",
+      "checksums": {
+        "md5": "4fc66a872680b5ebe1a4402b85b33e21",
+        "sha1": "dbb8e86f53953abc97fa015f50523264689d3331",
+        "crc32": "fd9ea0d5"
+      }
+    }
+  ]
+}

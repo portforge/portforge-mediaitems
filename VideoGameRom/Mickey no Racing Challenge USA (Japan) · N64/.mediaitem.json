@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mickey no Racing Challenge USA (Japan)",
+  "noIntroId": [
+    "game:0431",
+    "cloneofgame:0432"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mickey no Racing Challenge USA (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMLJ",
+      "checksums": {
+        "md5": "288a514e98972bf9d329167aa29e66b6",
+        "sha1": "5b4f7bad6591de2199c095352a811a2eb7fc6f53",
+        "crc32": "1aecfc56"
+      }
+    },
+    {
+      "filename": "Mickey no Racing Challenge USA (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMLJ",
+      "checksums": {
+        "md5": "fb28bf7dde6db9846072d8f5f34d665f",
+        "sha1": "74b76cb5075663e568eebf9ac977e08cdba17ba9",
+        "crc32": "915a43ee"
+      }
+    }
+  ]
+}

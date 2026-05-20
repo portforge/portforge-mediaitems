@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1096",
+    "cloneofgame:1097"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl).z64",
+      "filesize": 2097152,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "BPYE",
+      "checksums": {
+        "md5": "2ac0f88bea02d67896ffeae9e8ec72e7",
+        "sha1": "3b867ce49f4c2805604adc94d0419cbc82ac07f4",
+        "sha256": "fc3539c45589f79fea2b30a7d5586b4f5d7c3dfbed4eef263bbecec1bfbefcd8",
+        "crc32": "b7ebddc6"
+      }
+    },
+    {
+      "filename": "Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl).v64",
+      "filesize": 2097152,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "e233ccfbc8185a0359bc7744b64acf95",
+        "sha1": "9255d25dfc301fb6833d0ea8b4294cbf5e3afa30",
+        "sha256": "0918fe941df989a8c96bbc4db019d984c8050fde0eeaac590b7524e2fa42be72",
+        "crc32": "6123e8d3"
+      }
+    }
+  ]
+}

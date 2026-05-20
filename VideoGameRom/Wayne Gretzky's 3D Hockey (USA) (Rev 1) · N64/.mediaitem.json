@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0830",
+    "cloneofgame:0827"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wayne Gretzky's 3D Hockey (USA) (Rev 1).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWGE",
+      "checksums": {
+        "md5": "04e650b7742a69dae98f125d1b492d78",
+        "sha1": "91f33097c5da2c3480e0a9f04f7463cea16b176b",
+        "crc32": "c2678971"
+      }
+    },
+    {
+      "filename": "Wayne Gretzky's 3D Hockey (USA) (Rev 1).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWGE",
+      "checksums": {
+        "md5": "5a54b97a4049e3987bc057535f95fb2b",
+        "sha1": "073b4e9cd8d93a58145625ffef9b1fc642eb31a8",
+        "crc32": "6e5a30ed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Road Rash 64 (Europe)",
+  "noIntroId": [
+    "game:0622"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Road Rash 64 (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NROP",
+      "checksums": {
+        "md5": "ad922dae446a301e1aafe1dfbad75a2e",
+        "sha1": "816824cb5dc62ee54dc52c0ebb9b2564ecb88133",
+        "sha256": "bfc3324c7689d6b76fbda6e4a431ae5eeb017da9707240d1d21109fda3a1e610",
+        "crc32": "3c664a7b"
+      }
+    },
+    {
+      "filename": "Road Rash 64 (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NROP",
+      "checksums": {
+        "md5": "c881e7cec084640afbbddc37f6efd179",
+        "sha1": "273c72f8c9f9d194b98375e3076972bfd7fdf64d",
+        "crc32": "e3bc7725"
+      }
+    }
+  ]
+}

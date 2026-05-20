@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "S.C.A.R.S. (USA)",
+  "noIntroId": [
+    "game:0644",
+    "cloneofgame:0643"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "S.C.A.R.S. (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCSE",
+      "checksums": {
+        "md5": "d0aa9d20a4b85fe514d2a3150d0133ea",
+        "sha1": "1e87e7bc5b7bc877abc790ebff122ed6e2be828e",
+        "crc32": "22916735"
+      }
+    },
+    {
+      "filename": "S.C.A.R.S. (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCSE",
+      "checksums": {
+        "md5": "efbd7401712765d36ce6a1b6685b6ce6",
+        "sha1": "8fef439b4649fe6c52f722f6158c67cade7841cd",
+        "crc32": "6594b593"
+      }
+    }
+  ]
+}

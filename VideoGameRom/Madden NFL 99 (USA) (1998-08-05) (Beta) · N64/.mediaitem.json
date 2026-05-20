@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Madden NFL 99 (USA) (1998-08-05) (Beta)",
+  "noIntroId": [
+    "game:1028",
+    "cloneofgame:0395"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Madden NFL 99 (USA) (1998-08-05) (Beta).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N9ME",
+      "checksums": {
+        "md5": "3f0bcc83a958668ad7a0df2a447008d8",
+        "sha1": "4f8eeffd64ad10057ad4ed20f5ecf541358c04f4",
+        "sha256": "fa7c556e623ff1072833c628094b6f4d0363a9d93f5040873e048970f60e6cb1",
+        "crc32": "f8167641"
+      }
+    },
+    {
+      "filename": "Madden NFL 99 (USA) (1998-08-05) (Beta).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N9ME",
+      "checksums": {
+        "md5": "4199f324b0fa7c8c1bb2bcdc904bf347",
+        "sha1": "2215a1bdef594b0bcd7684ba0744a86a98396e2b",
+        "sha256": "4ab1e2464731dd3ff7867ccf363389a1f8467ac023889effe756b13194e344a9",
+        "crc32": "e7be4d11"
+      }
+    }
+  ]
+}

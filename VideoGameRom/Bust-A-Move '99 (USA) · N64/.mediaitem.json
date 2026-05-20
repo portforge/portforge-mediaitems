@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Bust-A-Move '99 (USA)",
+  "noIntroId": [
+    "game:0104",
+    "cloneofgame:0107"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bust-A-Move '99 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB3E",
+      "checksums": {
+        "md5": "8567382d3cd5bc0406b7b4c780f621dc",
+        "sha1": "8d874677cfbfa88c5e52bc13327d518be3b756ba",
+        "sha256": "2932dae8bcce7cb86bbc15c5f1cca96ba5838c486398d445b248276f1203b501",
+        "crc32": "c285fc69"
+      }
+    },
+    {
+      "filename": "Bust-A-Move '99 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB3E",
+      "checksums": {
+        "md5": "f81f1fa671a2c861c484500150643360",
+        "sha1": "3561149ddff17a60210ec5752781c512b6f4e126",
+        "sha256": "10de2822067cb158139ef2fe1fe0469e5ee6108b43e98a46e22b25b7abd26979",
+        "crc32": "2a95290f"
+      }
+    }
+  ]
+}

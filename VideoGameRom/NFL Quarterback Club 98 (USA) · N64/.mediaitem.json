@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NFL Quarterback Club 98 (USA)",
+  "noIntroId": [
+    "game:0505",
+    "cloneofgame:0504"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NFL Quarterback Club 98 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NQ8E",
+      "checksums": {
+        "md5": "709f966c30ce6df1833e95740a5a2ab2",
+        "sha1": "8e53de9eb6dcecb3b0bb3e707ef01690de7efab2",
+        "sha256": "937c256ee962095dc57aff47e5196004f02b5e70bbc7fb430bad0ad4d8385a95",
+        "crc32": "abf0e8f2"
+      }
+    },
+    {
+      "filename": "NFL Quarterback Club 98 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NQ8E",
+      "checksums": {
+        "md5": "593678bcd8c2c98e0b72cb8b22771584",
+        "sha1": "afa0fa7b55931325426c46c3a04a1a5bec81f711",
+        "sha256": "0c0a023843079eb4f58d803e7d462362253471e0dc3d787ed26674bbad31ba9d",
+        "crc32": "94368db1"
+      }
+    }
+  ]
+}

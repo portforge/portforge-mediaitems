@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Styx (World) (N64brew Game Jam 2022) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1179"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Styx (World) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64",
+      "filesize": 6767408,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "542bed9c63d531a7b180ba31924da728",
+        "sha1": "6a934bb7583d5e2bda89ad8e42f2c5965917d446",
+        "sha256": "ab7b901d61a7b7b85e8b5ce212e36b61b187b73369c6661d3595a00951f55313",
+        "crc32": "7b5cfaea"
+      }
+    },
+    {
+      "filename": "Styx (World) (N64brew Game Jam 2022) (Aftermarket) (Unl).v64",
+      "filesize": 6767408,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "3d2691d1197acf3b32f76948ebf086ad",
+        "sha1": "4262c2224f54897960a981e545557bed906bd9ac",
+        "sha256": "b1de8b02741cbecccb87e498eae4cf02ea09ea2aa52c4ed0c9d1fbe4e5533438",
+        "crc32": "e3f835bc"
+      }
+    }
+  ]
+}

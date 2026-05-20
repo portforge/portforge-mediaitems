@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NBA in the Zone '98 (Japan)",
+  "noIntroId": [
+    "game:0477",
+    "cloneofgame:0491"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA in the Zone '98 (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBAJ",
+      "checksums": {
+        "md5": "4c7a2f4881eaca75dc2fc36673ae2a20",
+        "sha1": "c4dc9049094100d48a010d39f2901e1ab164a8fa",
+        "crc32": "aed2700a"
+      }
+    },
+    {
+      "filename": "NBA in the Zone '98 (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBAJ",
+      "checksums": {
+        "md5": "12373d4569a3498d13f9274b2395d9bc",
+        "sha1": "4fc0a8392ece34f8a8c524640dce2a1255c66bfc",
+        "crc32": "58b2150d"
+      }
+    }
+  ]
+}

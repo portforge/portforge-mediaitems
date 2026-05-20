@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000)",
+  "noIntroId": [
+    "game:0948",
+    "cloneofgame:0141"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000).z64",
+      "filesize": 67108864,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFUE",
+      "checksums": {
+        "md5": "13ecbaeef7111d5343d73a80e03e353a",
+        "sha1": "06597dc935651f8995bfacc30fde6e621d44c3e1",
+        "sha256": "dabfed4967a67709730f5e5b1bdc27c3d9d75480a9c89c464a6409deacf57acf",
+        "crc32": "e1cda95a"
+      }
+    },
+    {
+      "filename": "Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000).v64",
+      "filesize": 67108864,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFUE",
+      "checksums": {
+        "md5": "2b5335b041b161a73c0eba0d76b26ca0",
+        "sha1": "92575eed941324b9cd7d29df61e720b04d8b26cb",
+        "crc32": "af9c5972"
+      }
+    }
+  ]
+}

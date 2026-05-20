@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Twisted Edge - Extreme Snowboarding (USA)",
+  "noIntroId": [
+    "game:0797",
+    "cloneofgame:0796"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Twisted Edge - Extreme Snowboarding (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSBE",
+      "checksums": {
+        "md5": "9df6c2c97fa34a978ef3cb77631536fe",
+        "sha1": "8888228ad423df143c2c820130fb0658df64c930",
+        "sha256": "ae18c310cc6130ba7cb38068fc34ce3e2cd01b1311ee1112613cb5dd5048bf9a",
+        "crc32": "bfbcc038"
+      }
+    },
+    {
+      "filename": "Twisted Edge - Extreme Snowboarding (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSBE",
+      "checksums": {
+        "md5": "8e18804153d55b4cf614e2176f7c1fab",
+        "sha1": "0b737f0e48b4bfc80a78fe18e7e0530050f70fc0",
+        "sha256": "5ffb271928f838aba682a1f16333959c29ec5ed58d47861834d7054114df77c2",
+        "crc32": "3a572b23"
+      }
+    }
+  ]
+}

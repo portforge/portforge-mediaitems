@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars Episode I - Battle for Naboo (USA) (Beta)",
+  "noIntroId": [
+    "game:1124",
+    "cloneofgame:0700"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars Episode I - Battle for Naboo (USA) (Beta).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NNAE",
+      "checksums": {
+        "md5": "88776081f0f92eef355cd451b9c6a819",
+        "sha1": "8f82880cde3f11af23f580667ac133ccb5f6a0ca",
+        "sha256": "2dbba691279d4879b0e6edfa6f69113b79227b37afb5097108691870c8a8dbf4",
+        "crc32": "90759d7b"
+      }
+    },
+    {
+      "filename": "Star Wars Episode I - Battle for Naboo (USA) (Beta).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NNAE",
+      "checksums": {
+        "md5": "e902afb82d6a59221d8cc12bd12b046c",
+        "sha1": "f1e2d18740c2129975699710b0f2ff6bb85a3231",
+        "sha256": "898aebc4bdc0ca29ee9093d47f6169b2e5b659fedb4369029522445b4fb94c8e",
+        "crc32": "d73f9948"
+      }
+    }
+  ]
+}

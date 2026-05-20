@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+  "noIntroId": [
+    "game:0231"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N9FP",
+      "checksums": {
+        "md5": "6432c622c05ea9cd3217e280ac2ce37c",
+        "sha1": "07400c53aef501887f73ef6a45ce04fe2f170fb0",
+        "sha256": "9598ee62390f249f02bd595c8610e5f81a21f71b7d1162f7d1014012ce799db0",
+        "crc32": "6eae1e6e"
+      }
+    },
+    {
+      "filename": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N9FP",
+      "checksums": {
+        "md5": "ed490e6c55c665207562bd6defcf8973",
+        "sha1": "eab12cc33bd12923c022d2336c3b8a1001132137",
+        "crc32": "ce258860"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mario no Photopie (Japan)",
+  "noIntroId": [
+    "game:0414"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario no Photopie (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMPJ",
+      "checksums": {
+        "md5": "7f4ed2aaf94a2197b0ad63c6ece9dea9",
+        "sha1": "3d591ea869696f067913308886edea544b77ed3f",
+        "sha256": "616f74a23cd5730fed7059892cc87420e4f7da174b425ebe8eff088366a7d252",
+        "crc32": "176b3683"
+      }
+    },
+    {
+      "filename": "Mario no Photopie (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMPJ",
+      "checksums": {
+        "md5": "e3ad4bf0504d18ffe35b6d9c7a736cd3",
+        "sha1": "f8bba2635aade03fb700c1614f36aa5a605af85e",
+        "crc32": "49e24ae2"
+      }
+    }
+  ]
+}

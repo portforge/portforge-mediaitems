@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Puzzle League (Europe)",
+  "noIntroId": [
+    "game:0558"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Puzzle League (Europe).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPNP",
+      "checksums": {
+        "md5": "2ef9fa16de2a09ea15b6289447f40490",
+        "sha1": "184f0cac8fdfad47590c515fc637076d2ded58d7",
+        "crc32": "75839254"
+      }
+    },
+    {
+      "filename": "Pokemon Puzzle League (Europe).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPNP",
+      "checksums": {
+        "md5": "cccda8bdb4c64de28fa086de3f8c0bd1",
+        "sha1": "06eb1d4c92a7bab8267b6fa15be89f253dead96c",
+        "crc32": "443b309a"
+      }
+    }
+  ]
+}

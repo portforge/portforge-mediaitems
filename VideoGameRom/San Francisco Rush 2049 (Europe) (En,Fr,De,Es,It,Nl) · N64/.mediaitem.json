@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",
+  "noIntroId": [
+    "game:0648"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRUP",
+      "checksums": {
+        "md5": "02b16ac23998f78f09af6513f4acb664",
+        "sha1": "61373d4758eca3fa831beac27b4d4c250845f80c",
+        "crc32": "e63b86c5"
+      }
+    },
+    {
+      "filename": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRUP",
+      "checksums": {
+        "md5": "45bb91607c06103c3f545c648f0994a4",
+        "sha1": "c722fdc039489e1c0e604eed8b81e29da75cb0be",
+        "crc32": "df85fdc3"
+      }
+    }
+  ]
+}

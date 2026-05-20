@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Turok - Dinosaur Hunter (Germany) (Rev 2)",
+  "noIntroId": [
+    "game:0916",
+    "cloneofgame:0777"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Turok - Dinosaur Hunter (Germany) (Rev 2).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTUD",
+      "checksums": {
+        "md5": "f0f687b449a9f4b0bff08104c35ea08c",
+        "sha1": "0ad61791fb8fb1e0a3bd2a286f32e1967dc79309",
+        "sha256": "f608a67ab6c3262683da4d207c029ff8d2a08e5aa6375e583935c094503b10b7",
+        "crc32": "72ca307a"
+      }
+    },
+    {
+      "filename": "Turok - Dinosaur Hunter (Germany) (Rev 2).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTUD",
+      "checksums": {
+        "md5": "125e348e412539fd1d2092604d90a5b6",
+        "sha1": "90b11d34f7dd13aea195f98ecb40f869bcefbce4",
+        "sha256": "82e36e6519eab57e505ffe14879bd3eef2b4890eee6447dd29000935520fa9f4",
+        "crc32": "01f632f6"
+      }
+    }
+  ]
+}

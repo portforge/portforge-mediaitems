@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mortal Kombat Trilogy (USA) (1996-05-13) (Beta)",
+  "noIntroId": [
+    "game:1024",
+    "cloneofgame:0458"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mortal Kombat Trilogy (USA) (1996-05-13) (Beta).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "b6a7b85c123df4e0b9cc118578dbc9a2",
+        "sha1": "2f95ce7f8233f1df82e0ad39ad5ba6a5ebfb6db7",
+        "crc32": "eab22c06"
+      }
+    },
+    {
+      "filename": "Mortal Kombat Trilogy (USA) (1996-05-13) (Beta).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "39785fd2d0bf241cbff6a395c07c6fd1",
+        "sha1": "ba90ee2f01e6a4e8532e21a5578fd1ed8294016a",
+        "crc32": "d969f8ea"
+      }
+    }
+  ]
+}

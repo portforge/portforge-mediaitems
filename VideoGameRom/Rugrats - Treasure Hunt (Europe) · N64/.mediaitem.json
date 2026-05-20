@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Rugrats - Treasure Hunt (Europe)",
+  "noIntroId": [
+    "game:0638"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rugrats - Treasure Hunt (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRGP",
+      "checksums": {
+        "md5": "55185016031cdc73c0fd471527c35706",
+        "sha1": "5ff0b82077559dd4c206a7a7d13eabeabc82e9c4",
+        "crc32": "3338b7c8"
+      }
+    },
+    {
+      "filename": "Rugrats - Treasure Hunt (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRGP",
+      "checksums": {
+        "md5": "40950ecadefa371666dc6a2cb8305752",
+        "sha1": "a86b2faed29727496dd3f0b0367293e16b324568",
+        "crc32": "65ede901"
+      }
+    }
+  ]
+}

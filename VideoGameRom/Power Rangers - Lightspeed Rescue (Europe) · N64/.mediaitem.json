@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Power Rangers - Lightspeed Rescue (Europe)",
+  "noIntroId": [
+    "game:0586"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Power Rangers - Lightspeed Rescue (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPUP",
+      "checksums": {
+        "md5": "92bb1bc5e6466f1944943d34d25f2daf",
+        "sha1": "c7fec2a9d57f656b8d0b4404c8797c46136fd971",
+        "sha256": "2749a21383fd2b981e068abddf9d83a372a9b8b31fc5249a85c58fc52ffff69d",
+        "crc32": "36ee5ca8"
+      }
+    },
+    {
+      "filename": "Power Rangers - Lightspeed Rescue (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPUP",
+      "checksums": {
+        "md5": "6e2f4dbd273bcb6f881c359e7422d022",
+        "sha1": "c49ac782bc970a7ce1f76d7b60f7e741e915fbe2",
+        "crc32": "88250ab1"
+      }
+    }
+  ]
+}

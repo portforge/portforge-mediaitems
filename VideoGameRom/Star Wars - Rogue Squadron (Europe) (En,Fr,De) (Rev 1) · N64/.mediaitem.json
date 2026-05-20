@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)",
+  "noIntroId": [
+    "game:0692"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRSP",
+      "checksums": {
+        "md5": "a9dd498e6a28f55311ce4ef057e164b8",
+        "sha1": "66a70566d267532272b15abc0be20e2a1074ae45",
+        "sha256": "592b37eed2730ae25232b163dea6632cf6b9ed21dd3be35c0500a939b897627b",
+        "crc32": "c88e5638"
+      }
+    },
+    {
+      "filename": "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRSP",
+      "checksums": {
+        "md5": "fc21aa1cbf31e5dea71e804878c3b5f0",
+        "sha1": "d8b0aafc759f6bee328cc5d447250e3bc1d0905f",
+        "crc32": "a6e336ce"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)",
+  "noIntroId": [
+    "game:0741"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTJP",
+      "checksums": {
+        "md5": "46be5d00682fcc1f7fc0fba507e8e5c1",
+        "sha1": "96c874c4556b4872269e41339a1cbac53cc5b052",
+        "sha256": "389bc437af911d02f02dbf1f5996d34b895ff1d61335ea9b8fbbfd8f1e5f2fa9",
+        "crc32": "9ea8a3b8"
+      }
+    },
+    {
+      "filename": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTJP",
+      "checksums": {
+        "md5": "b49212cbc6e122d8db2747b03ba0cd24",
+        "sha1": "c4ff73733c284cc927f06be23551e73b14844984",
+        "crc32": "b030a574"
+      }
+    }
+  ]
+}

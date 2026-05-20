@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "NHL Breakaway 98 (USA)",
+  "noIntroId": [
+    "game:0512",
+    "cloneofgame:0511"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NHL Breakaway 98 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHLE",
+      "checksums": {
+        "md5": "b62076fa1421b8e7fdec2b4f8a910ea3",
+        "sha1": "2658334bf4091d0d3ed2de3327592d04fc0b6849",
+        "crc32": "49d86c00"
+      }
+    },
+    {
+      "filename": "NHL Breakaway 98 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHLE",
+      "checksums": {
+        "md5": "08fad70ef737b685ad030604f237c674",
+        "sha1": "4ce6fa90bc8a92a73eafebb677ea6ddb90e93ecc",
+        "crc32": "f59b082f"
+      }
+    }
+  ]
+}

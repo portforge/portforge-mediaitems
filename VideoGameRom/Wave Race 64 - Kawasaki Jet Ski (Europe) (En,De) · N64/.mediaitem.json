@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)",
+  "noIntroId": [
+    "game:0820"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWRP",
+      "checksums": {
+        "md5": "310659115e9939f219a783abdd456ce9",
+        "sha1": "c20aa97dc25aec7a9b9c6889286bbd216fc7caa4",
+        "sha256": "8897da0cb6e286659ac4d72c5737f6fe97a51bcdfc6e2328ae7dfc0715bf1761",
+        "crc32": "fb289893"
+      }
+    },
+    {
+      "filename": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWRP",
+      "checksums": {
+        "md5": "baff32ee50896e62dc713e23d1a589da",
+        "sha1": "7ffdd44890b1a00e0c13868a18b482fbf8c752f7",
+        "sha256": "4c07e69b289777a3ecc3719a1970ba4287737be03bb79536cccce52eb7049ea0",
+        "crc32": "d74117b0"
+      }
+    }
+  ]
+}

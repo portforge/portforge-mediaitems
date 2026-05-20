@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet)",
+  "noIntroId": [
+    "game:1136",
+    "cloneofgame:0006"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "c6061ad1b4446c4db57cdf094da7c534",
+        "sha1": "7266eef53af8f2c21f3e3288258121f97eddfa7e",
+        "crc32": "67e010d2"
+      }
+    },
+    {
+      "filename": "1080 Snowboarding (USA) (En,Ja,Fr,De) (LodgeNet).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "9ac2e60a1111c03c3dbed3845e55cd52",
+        "sha1": "d74e47810eaa94929406004e82eceabc3dc70fe5",
+        "crc32": "4f5e35d9"
+      }
+    }
+  ]
+}

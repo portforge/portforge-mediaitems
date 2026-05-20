@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hybrid Heaven (USA)",
+  "noIntroId": [
+    "game:0298",
+    "cloneofgame:0296"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hybrid Heaven (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHVE",
+      "checksums": {
+        "md5": "c47e95bb32ab132c41d67bd243f9e02a",
+        "sha1": "16dbc21620b52deab5c5abf8a309ac60adfbee85",
+        "crc32": "15b57ef8"
+      }
+    },
+    {
+      "filename": "Hybrid Heaven (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHVE",
+      "checksums": {
+        "md5": "ec6e73eca53e902e305168f773f67b11",
+        "sha1": "a0f6777dcecf8b956f12ff69ec5051a9be4c234f",
+        "crc32": "7ce3ea39"
+      }
+    }
+  ]
+}

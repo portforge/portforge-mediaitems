@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)",
+  "noIntroId": [
+    "game:0009"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTWJ",
+      "checksums": {
+        "md5": "ea6a92de5a221a00814f7448bf6f1b31",
+        "sha1": "35f7e37c62ae36eb29aad0d9da0ae83d57f6d8bd",
+        "sha256": "77f656a9e71c286d41a1e84c26bcdf126fd7598807c98b62e96491c76da403d6",
+        "crc32": "67a789e5"
+      }
+    },
+    {
+      "filename": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTWJ",
+      "checksums": {
+        "md5": "6463d5006439cd1bbfb2fbdbd062ccea",
+        "sha1": "538ae3f3354c3fb96926d759e81cf64b827f2782",
+        "sha256": "d91c7cf04102ff0b719a56968b92237ad49b2930fa946e9cf14b05d4a3cb82dc",
+        "crc32": "c6400938"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wide-Boy64 AGB (World) (v0.04c)",
+  "noIntroId": [
+    "game:1129"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wide-Boy64 AGB (World) (v0.04c).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "dddaecedbdea61182efb30adc217baf2",
+        "sha1": "f5d4908c141f55bf4aff6d21e8f4d514310dd26e",
+        "sha256": "41e9dec235448a9fd983930997ae229921ce779ef22f0a9cd75620ab6ea693f8",
+        "crc32": "2f681410"
+      }
+    },
+    {
+      "filename": "Wide-Boy64 AGB (World) (v0.04c).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "77c9376b7e9a4f3973e0a3d96fd20bc4",
+        "sha1": "f8dacb2f025f6cdfaab9b749d7b7178712ed6bdc",
+        "sha256": "4cce49a1602be1db2bb177a444c28bf7af1a15c7576003b2f3e4fc9e5ac2b6c9",
+        "crc32": "342c5656"
+      }
+    }
+  ]
+}

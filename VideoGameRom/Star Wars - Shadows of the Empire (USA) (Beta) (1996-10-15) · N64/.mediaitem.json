@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)",
+  "noIntroId": [
+    "game:0945",
+    "cloneofgame:0694"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSWE",
+      "checksums": {
+        "md5": "4076973cfda277fc876e9f066cc73deb",
+        "sha1": "0f642f17693adf1b97121a61bbeca37df59bb55a",
+        "crc32": "28368603"
+      }
+    },
+    {
+      "filename": "Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSWE",
+      "checksums": {
+        "md5": "944ac4d381a42197f259bd734fbe1095",
+        "sha1": "3509758f8920fcb653b7239580ea036d395a3c73",
+        "crc32": "448228ce"
+      }
+    }
+  ]
+}

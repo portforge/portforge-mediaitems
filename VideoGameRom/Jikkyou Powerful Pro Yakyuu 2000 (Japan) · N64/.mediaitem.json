@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Jikkyou Powerful Pro Yakyuu 2000 (Japan)",
+  "noIntroId": [
+    "game:0336",
+    "cloneofgame:0337"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 2000 (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPAJ",
+      "checksums": {
+        "md5": "23409668a6e6c4ece7b5fb0b7d0e8f2c",
+        "sha1": "365d6efa2665b816a5e0e2233c890ddcd524c05d",
+        "crc32": "351cde48"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 2000 (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPAJ",
+      "checksums": {
+        "md5": "7d09f9f9b087ed758a0337cb9aef25c6",
+        "sha1": "5705cbee7664f8eb184fd451e219f5954060b5a8",
+        "crc32": "45e04c78"
+      }
+    }
+  ]
+}

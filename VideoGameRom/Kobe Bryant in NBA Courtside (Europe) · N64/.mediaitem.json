@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Kobe Bryant in NBA Courtside (Europe)",
+  "noIntroId": [
+    "game:0367"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Kobe Bryant in NBA Courtside (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NNBP",
+      "checksums": {
+        "md5": "c6b01c020fdfd2e5c037c5a330b161ad",
+        "sha1": "6390dc1cd4600ca57069d92f39f108a4cc1b62f1",
+        "sha256": "260f1a046ba71e42555bdb8a698a437d4a42acce09c10f1c03731c383f890381",
+        "crc32": "1355a826"
+      }
+    },
+    {
+      "filename": "Kobe Bryant in NBA Courtside (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NNBP",
+      "checksums": {
+        "md5": "f388edbb69b82bc116b7efc020b7acad",
+        "sha1": "cab29e7b3d9c1993801e415b5823567b8fe2f682",
+        "crc32": "5adef1c7"
+      }
+    }
+  ]
+}

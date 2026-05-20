@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Rush 2 - Extreme Racing USA (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1158",
+    "cloneofgame:0641"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rush 2 - Extreme Racing USA (USA) (LodgeNet).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "50600a350427bf3e34f33c3b8a4c4470",
+        "sha1": "1556edd66c54bf6ec200915ac4265f078c1555a2",
+        "crc32": "c7e9d391"
+      }
+    },
+    {
+      "filename": "Rush 2 - Extreme Racing USA (USA) (LodgeNet).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "318536e02871644153411f8480599ee6",
+        "sha1": "7d4843d593e835666ad5a6070b40ccf604bb7057",
+        "crc32": "4ff00cde"
+      }
+    }
+  ]
+}

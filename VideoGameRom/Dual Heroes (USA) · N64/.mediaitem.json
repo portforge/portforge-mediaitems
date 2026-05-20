@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Dual Heroes (USA)",
+  "noIntroId": [
+    "game:0188",
+    "cloneofgame:0186"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Dual Heroes (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDHE",
+      "checksums": {
+        "md5": "923d65e69f51858c697e0e5759cd038b",
+        "sha1": "8fd879ce53e211d33a689015a78cff3fdd39db09",
+        "sha256": "5715846bd3bf7da5c296e10384b7ff4ff6e94ee315856c4ad275d5c2ed9bd712",
+        "crc32": "d09f4da8"
+      }
+    },
+    {
+      "filename": "Dual Heroes (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDHE",
+      "checksums": {
+        "md5": "4f154f3490d35c0a6d38cb94fd842d0b",
+        "sha1": "ac48d0a10a26de691976618d1d0caebf402f9123",
+        "crc32": "8968d989"
+      }
+    }
+  ]
+}

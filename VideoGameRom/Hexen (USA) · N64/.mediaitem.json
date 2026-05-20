@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hexen (USA)",
+  "noIntroId": [
+    "game:0282",
+    "cloneofgame:0278"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hexen (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHXE",
+      "checksums": {
+        "md5": "eb98f1b8c6898af7417f6882946da9b3",
+        "sha1": "a602839132f6cca71f175fb72039897705ba4661",
+        "crc32": "1d35e110"
+      }
+    },
+    {
+      "filename": "Hexen (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHXE",
+      "checksums": {
+        "md5": "a8531bfd6ffbad2059ef4f34aabc6282",
+        "sha1": "5b58cc647fb10178c89d4dacc97cd25f5fbff2d0",
+        "crc32": "d2b22343"
+      }
+    }
+  ]
+}

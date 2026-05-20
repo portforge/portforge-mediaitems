@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mission - Impossible (Spain)",
+  "noIntroId": [
+    "game:0446",
+    "cloneofgame:0442"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mission - Impossible (Spain).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMIS",
+      "checksums": {
+        "md5": "d1ba3b1899576a4b67908abb6544d75a",
+        "sha1": "d79c313b8581b558dbeca29f797d91a8b3122841",
+        "sha256": "b12cb258396a66a5881a364ba460e508573655f98490304f5b8a223c26943f60",
+        "crc32": "ebb060dc"
+      }
+    },
+    {
+      "filename": "Mission - Impossible (Spain).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMIS",
+      "checksums": {
+        "md5": "0405da489b59895412e60659411fbc49",
+        "sha1": "244711046f77e8059e677731c2d26d0c45996dda",
+        "crc32": "e33b52f0"
+      }
+    }
+  ]
+}

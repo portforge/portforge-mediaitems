@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Carmageddon 64 (Europe) (En,Fr,De,Es)",
+  "noIntroId": [
+    "game:0109",
+    "cloneofgame:0110"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Carmageddon 64 (Europe) (En,Fr,De,Es).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCDX",
+      "checksums": {
+        "md5": "ca21467bde6b355e7a15b8f1ada7b24d",
+        "sha1": "2ab7ea2a9bc05ecf3cac026e2aff7acc9d3202e5",
+        "sha256": "ac47515585ced9013e6a261d4da8216936f68119a1ea084fe5d6c395fa6abee7",
+        "crc32": "8569f1a0"
+      }
+    },
+    {
+      "filename": "Carmageddon 64 (Europe) (En,Fr,De,Es).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCDX",
+      "checksums": {
+        "md5": "74dcf49871606036cd70b42ae2b19b1c",
+        "sha1": "b8aa32d7d78e3119b05c19cd45aad102465ad254",
+        "crc32": "d8d87dca"
+      }
+    }
+  ]
+}

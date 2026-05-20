@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Robotron 64 (USA)",
+  "noIntroId": [
+    "game:0629",
+    "cloneofgame:0628"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Robotron 64 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRXE",
+      "checksums": {
+        "md5": "c4a9bbf989ddfaf5f389e4adc6195dbc",
+        "sha1": "285c720f642649790faaaa02c33636cf1b33d7db",
+        "sha256": "3ef7690f97d3957af7294eab4432fa1673a15bba0435664cc9fa2fd757168804",
+        "crc32": "3c95e84c"
+      }
+    },
+    {
+      "filename": "Robotron 64 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRXE",
+      "checksums": {
+        "md5": "bf966b20409c07671189714e89311197",
+        "sha1": "67040305e6936711632610335ef6bb042df5c506",
+        "sha256": "b5038833607d6f6a7ae424e5b9fb6571c53b06547f22dae47db462215fe7eb34",
+        "crc32": "18c2ad70"
+      }
+    }
+  ]
+}

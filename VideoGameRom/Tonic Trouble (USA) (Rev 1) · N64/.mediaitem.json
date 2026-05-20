@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Tonic Trouble (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0748",
+    "cloneofgame:0747"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tonic Trouble (USA) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTTE",
+      "checksums": {
+        "md5": "7d3e935156844de0002db875e1076a5c",
+        "sha1": "38f9837159d6aa69ca656d8005eccf099c129537",
+        "crc32": "1c04ba12"
+      }
+    },
+    {
+      "filename": "Tonic Trouble (USA) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTTE",
+      "checksums": {
+        "md5": "b0488cd676773d283fe4fdec55418f32",
+        "sha1": "88f9ace09f949a43253d37896e75472bc9ae6d12",
+        "crc32": "0ecd289a"
+      }
+    }
+  ]
+}

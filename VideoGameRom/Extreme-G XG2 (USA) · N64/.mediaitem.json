@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Extreme-G XG2 (USA)",
+  "noIntroId": [
+    "game:0214",
+    "cloneofgame:0212"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Extreme-G XG2 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NG2E",
+      "checksums": {
+        "md5": "44fe06ba3686c02a7988f27600a533da",
+        "sha1": "ed0a50086ef9a89f5b445c20ab6f365165959630",
+        "sha256": "0b5d9904cf45a92396396308506da0ae258afe44a902c96e50d0ff4969c67500",
+        "crc32": "81a4c28b"
+      }
+    },
+    {
+      "filename": "Extreme-G XG2 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NG2E",
+      "checksums": {
+        "md5": "335ce3973ae33c062c92825d8df083d7",
+        "sha1": "e27268a708b6d6a707b6e01af94d062ea9cbc26d",
+        "sha256": "7076bcd14bf4278de8cebe836c37ab48a3b74b21ec03af32d54bc55ba9900d53",
+        "crc32": "849c18ce"
+      }
+    }
+  ]
+}

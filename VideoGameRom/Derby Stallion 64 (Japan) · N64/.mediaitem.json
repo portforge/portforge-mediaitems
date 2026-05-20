@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Derby Stallion 64 (Japan)",
+  "noIntroId": [
+    "game:0161"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Derby Stallion 64 (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDAJ",
+      "checksums": {
+        "md5": "7f57463856540104b21a5289312b626f",
+        "sha1": "9a2b7dfa38fbf9cd07ff676c0e484d7b97db606b",
+        "sha256": "2649337accba282f74bf0ae62a5103d5c9ac09bd1a27da84179722c51b3ad576",
+        "crc32": "a9417994"
+      }
+    },
+    {
+      "filename": "Derby Stallion 64 (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDAJ",
+      "checksums": {
+        "md5": "cb80be23eedc36d6facb03d4c877e28b",
+        "sha1": "b404e2a26da5cf0ee2eecfd691ffb0385d08642a",
+        "crc32": "922506ad"
+      }
+    }
+  ]
+}

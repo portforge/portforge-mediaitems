@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Superman (USA) (Beta) (1998-09-06)",
+  "noIntroId": [
+    "game:0941",
+    "cloneofgame:0726"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Superman (USA) (Beta) (1998-09-06).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "1170033980adc1981505cf958f35f1eb",
+        "sha1": "2b12793230e8a3add22619f51075cb7ca9fc5e2e",
+        "sha256": "6fc819bcf528d1c526a081ab79d6a71360022a4457cee3a425f1884e684ab91b",
+        "crc32": "719171f1"
+      }
+    },
+    {
+      "filename": "Superman (USA) (Beta) (1998-09-06).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "9406f3c5fa78f8bb048dd111785a5415",
+        "sha1": "6074b608c1ac30f7ae85334256514f9ded455c5f",
+        "sha256": "9234f4699c144e9206911424f283959aa9d363bc6250f124bf4e7c502879f267",
+        "crc32": "8644cd9a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mario Story (Japan)",
+  "noIntroId": [
+    "game:0424",
+    "cloneofgame:0536"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Story (Japan).z64",
+      "filesize": 41943040,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMQJ",
+      "checksums": {
+        "md5": "df54f17fb84fb5b5bcf6aa9af65b0942",
+        "sha1": "b9cca3ff260b9ff427d981626b82f96de73586d3",
+        "sha256": "a62c669817f87fba067248962f6737d9a8d27e78a843798d739d9d2a39d73874",
+        "crc32": "bd60ca66"
+      }
+    },
+    {
+      "filename": "Mario Story (Japan).v64",
+      "filesize": 41943040,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMQJ",
+      "checksums": {
+        "md5": "b235f3a025ad5b62f330cf2d7c9f007f",
+        "sha1": "01c32f527383b4ec69ecc7805c485b7fb9a76ce0",
+        "crc32": "1fb7e59a"
+      }
+    }
+  ]
+}

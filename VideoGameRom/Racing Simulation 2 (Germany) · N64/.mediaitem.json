@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Racing Simulation 2 (Germany)",
+  "noIntroId": [
+    "game:0600",
+    "cloneofgame:0449"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Racing Simulation 2 (Germany).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMGD",
+      "checksums": {
+        "md5": "aa57d69867f53456f351a289eba08c3d",
+        "sha1": "08bc64cb8c64db9b048fc1522fd5e808ff63ce1a",
+        "sha256": "d06dcf5924f201a645988d624b4bc7beddb60d35ddc78f6b9a6b7e11d9f905cd",
+        "crc32": "ba73a7e4"
+      }
+    },
+    {
+      "filename": "Racing Simulation 2 (Germany).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMGD",
+      "checksums": {
+        "md5": "34adc5b0190b07afef58795727a26d0b",
+        "sha1": "2cd2004b2e349773f3457dc8ae2f174f0e6fa0c0",
+        "crc32": "d660a56f"
+      }
+    }
+  ]
+}

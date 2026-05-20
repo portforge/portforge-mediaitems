@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "International Superstar Soccer 64 (USA)",
+  "noIntroId": [
+    "game:0317",
+    "cloneofgame:0316"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "International Superstar Soccer 64 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJPE",
+      "checksums": {
+        "md5": "6a345402ae1db5ce1041365e36126bce",
+        "sha1": "d2c258ee3844be77049e4af5208f8f2bb073a86e",
+        "crc32": "0ea249b9"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer 64 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJPE",
+      "checksums": {
+        "md5": "da2174464a3bd5df10f8d891d8896e9d",
+        "sha1": "94d4969597596c9e990754aefdd506d3c75177ba",
+        "crc32": "91cb6803"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Charlie Blast's Territory (USA)",
+  "noIntroId": [
+    "game:0125",
+    "cloneofgame:0124"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Charlie Blast's Territory (USA).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCBE",
+      "checksums": {
+        "md5": "747e76d50dc3c06fd35e146129706a60",
+        "sha1": "30cd3d202ae7f79a1e775c701d84370e2aff498a",
+        "sha256": "7a201d5cc030a921425aa1583edcecdf4394a258819be46c3a0d557c8d1fd7e5",
+        "crc32": "531f98b5"
+      }
+    },
+    {
+      "filename": "Charlie Blast's Territory (USA).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCBE",
+      "checksums": {
+        "md5": "84c0b44c939b3c9a73fd7ef4a0b00132",
+        "sha1": "b85e977648f0f75a438d7281887d19a85e86680e",
+        "sha256": "c3205a9dace38d4beaf81e56bae431e77fc7963469e888fe3d7aebb888095a32",
+        "crc32": "28153f07"
+      }
+    }
+  ]
+}

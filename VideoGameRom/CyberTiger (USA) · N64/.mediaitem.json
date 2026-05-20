@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "CyberTiger (USA)",
+  "noIntroId": [
+    "game:0153",
+    "cloneofgame:0152"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "CyberTiger (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NT4E",
+      "checksums": {
+        "md5": "88072f30d4f9cf384b2b3a0300649218",
+        "sha1": "14e0635ccc2a80c77fd0a888a2e7977c55c6e129",
+        "sha256": "cb05fdd1aaed4b8db33094d065e87d6ef123db45516816e6f2565cf09e28f395",
+        "crc32": "10cc5f15"
+      }
+    },
+    {
+      "filename": "CyberTiger (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NT4E",
+      "checksums": {
+        "md5": "4f1540ca7e7dedbb2b3ee4bf6509975d",
+        "sha1": "afb3e9290730fd19106eca24cb305c1b55f2e864",
+        "crc32": "f0f89bb9"
+      }
+    }
+  ]
+}

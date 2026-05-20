@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Castlevania (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0943",
+    "cloneofgame:0112"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Castlevania (USA) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "ND3E",
+      "checksums": {
+        "md5": "ce71d1ce0a2b6d597f72cb4fc08f5844",
+        "sha1": "349a031320c1fe16a99801c1bab48a7aa8deac8e",
+        "sha256": "d7ac93315463b968eb0b628d9047c96b72666c93b72752ab729764a3aca59eee",
+        "crc32": "274d3493"
+      }
+    },
+    {
+      "filename": "Castlevania (USA) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "ND3E",
+      "checksums": {
+        "md5": "02c9b61a9b2ff8a33dd1941d2c50d0ee",
+        "sha1": "f542a9d2134a7066676422376a129b1970865f5d",
+        "crc32": "bf911b10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Puzzle League (USA)",
+  "noIntroId": [
+    "game:0561",
+    "cloneofgame:0558"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Puzzle League (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPNE",
+      "checksums": {
+        "md5": "e722576a15182cfed6782379ce4bc8be",
+        "sha1": "8173866fc8c7652abd44c48efcab85441c6806a1",
+        "sha256": "2987fb9d618305319809f4d5125eacc4ec8787a743712f526b022ec94a5d2bc4",
+        "crc32": "8b9c598f"
+      }
+    },
+    {
+      "filename": "Pokemon Puzzle League (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPNE",
+      "checksums": {
+        "md5": "afe4cc6f067852b96fec84cb739b4c99",
+        "sha1": "e52af5a60ea9bd2dae34e4252d71bedaf496cdb3",
+        "sha256": "8e35b21dd0edc7c31a9d24fa28aea5fd2ed4f9cf130dccff5b0288c57eb7ad4d",
+        "crc32": "281afb0d"
+      }
+    }
+  ]
+}

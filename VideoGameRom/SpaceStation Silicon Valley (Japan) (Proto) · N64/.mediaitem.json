@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "SpaceStation Silicon Valley (Japan) (Proto)",
+  "noIntroId": [
+    "game:0682",
+    "cloneofgame:0681"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "SpaceStation Silicon Valley (Japan) (Proto).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSVJ",
+      "checksums": {
+        "md5": "e66ed1cc4ab95d0872bb2ebc49b206c4",
+        "sha1": "7320f08474c011fc7781093bf1a6818c37ce51e2",
+        "crc32": "dcec9f8a"
+      }
+    },
+    {
+      "filename": "SpaceStation Silicon Valley (Japan) (Proto).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSVJ",
+      "checksums": {
+        "md5": "cc635e0ab1038e0cb8acb3f09c83d6d4",
+        "sha1": "f9b2a71ada850509e27225a41e6fe8e271051a99",
+        "crc32": "7abf7f2c"
+      }
+    }
+  ]
+}

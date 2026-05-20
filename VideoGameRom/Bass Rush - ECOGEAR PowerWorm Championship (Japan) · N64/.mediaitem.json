@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Bass Rush - ECOGEAR PowerWorm Championship (Japan)",
+  "noIntroId": [
+    "game:0063"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bass Rush - ECOGEAR PowerWorm Championship (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NVBJ",
+      "checksums": {
+        "md5": "2c618f6c69c3b4803f08762a03835139",
+        "sha1": "1718c9048cb7849a59d48138a058b20bf191ebf6",
+        "sha256": "e0ccd9ca6f27ac49d28d72eb7978be7eaf43ec0dd15c532be2312a0d6387f526",
+        "crc32": "383b86ef"
+      }
+    },
+    {
+      "filename": "Bass Rush - ECOGEAR PowerWorm Championship (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NVBJ",
+      "checksums": {
+        "md5": "b7939b2ea15c92edb33971fdbe236d6c",
+        "sha1": "06d9da5dfd1e16ed56fc2bd028fa3642b4905820",
+        "crc32": "0e388fae"
+      }
+    }
+  ]
+}

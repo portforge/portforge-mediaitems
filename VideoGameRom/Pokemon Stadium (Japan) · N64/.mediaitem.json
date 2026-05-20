@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Stadium (Japan)",
+  "noIntroId": [
+    "game:0555"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Stadium (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "CPSJ",
+      "checksums": {
+        "md5": "c46e087d966a35095df96799b0b4ffae",
+        "sha1": "8bc8d2ff7df25b26bd0c353d2adfe83e4e3a7a87",
+        "sha256": "ed9f7cd7da795467c1e2b08ed1f878ff5aed906eae9ffe252074aef7a6703d8b",
+        "crc32": "3139189c"
+      }
+    },
+    {
+      "filename": "Pokemon Stadium (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "CPSJ",
+      "checksums": {
+        "md5": "7159f1b35af48ec43236ddfcc2c73b5c",
+        "sha1": "d1796076f855bd2354ffc5019eaeb2c9d7676716",
+        "crc32": "3b2a3f7a"
+      }
+    }
+  ]
+}

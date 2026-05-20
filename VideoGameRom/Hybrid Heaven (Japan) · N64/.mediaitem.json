@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Hybrid Heaven (Japan)",
+  "noIntroId": [
+    "game:0297",
+    "cloneofgame:0296"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hybrid Heaven (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHYJ",
+      "checksums": {
+        "md5": "9946eff915fc947a226407ac1f7b35c4",
+        "sha1": "09f4d3200b0bd4b984a80248af07de3c40b5cc26",
+        "crc32": "e769de96"
+      }
+    },
+    {
+      "filename": "Hybrid Heaven (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHYJ",
+      "checksums": {
+        "md5": "2a5c6dfb0965c6c6db2cc8e6e27832db",
+        "sha1": "6b755fc59f35f0f25c46f062471699533ab99da4",
+        "crc32": "42e44701"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Snap (Germany)",
+  "noIntroId": [
+    "game:0565",
+    "cloneofgame:0563"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Snap (Germany).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPFD",
+      "checksums": {
+        "md5": "144b8906dc40534cfbef6d7b994a982b",
+        "sha1": "f1fe20e26c3803c0e4ea33711be5e0edf8e9c4be",
+        "crc32": "10c27b3c"
+      }
+    },
+    {
+      "filename": "Pokemon Snap (Germany).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPFD",
+      "checksums": {
+        "md5": "182eea9719f8c5ee6a29622b192caa2c",
+        "sha1": "d12d3ad66da97985f057d42dd7fbb9b9c1a0074e",
+        "crc32": "482a6d8d"
+      }
+    }
+  ]
+}

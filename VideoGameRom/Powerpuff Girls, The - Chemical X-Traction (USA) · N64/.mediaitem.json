@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+  "noIntroId": [
+    "game:0588"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Powerpuff Girls, The - Chemical X-Traction (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPQE",
+      "checksums": {
+        "md5": "2991bb68eca54813d6b834adbbbacc4c",
+        "sha1": "88e2032997cb884af31a7380fabac0d0a5360892",
+        "crc32": "9514da0a"
+      }
+    },
+    {
+      "filename": "Powerpuff Girls, The - Chemical X-Traction (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPQE",
+      "checksums": {
+        "md5": "ba39cf3e29e026030b9d2bd23908f721",
+        "sha1": "8f982bab4f1857d6562113d120bce82bd316f78d",
+        "crc32": "4ee7cd7e"
+      }
+    }
+  ]
+}

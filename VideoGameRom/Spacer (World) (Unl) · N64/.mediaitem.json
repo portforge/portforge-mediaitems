@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Spacer (World) (Unl)",
+  "noIntroId": [
+    "game:1267"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Spacer (World) (Unl).z64",
+      "filesize": 2683944,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "630e4122b0743a29c246da2c257f92da",
+        "sha1": "e0fa2b3cd4a56c2b4bac5686700a1cbf90ebd90c",
+        "sha256": "b3683a42b6f144a4caad9a3ebe640c4394a30e9d8af7a01f5c0baac1a1d0f09d",
+        "crc32": "dc0d3f8a"
+      }
+    },
+    {
+      "filename": "Spacer (World) (Unl).v64",
+      "filesize": 2683944,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "a7a2c4dda207442f6b94022da9f4339c",
+        "sha1": "4e2b3bbd35bf431cfb5f7eeb4cfa091bb8231391",
+        "sha256": "4126947b884a40f37385409aa822180312a73fa6e0e2cce8afd7bbca54ea9b9f",
+        "crc32": "02cfe8ab"
+      }
+    }
+  ]
+}

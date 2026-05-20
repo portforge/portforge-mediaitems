@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Banjo-Tooie (USA)",
+  "noIntroId": [
+    "game:0062",
+    "cloneofgame:0061"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Banjo-Tooie (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB7E",
+      "checksums": {
+        "md5": "40e98faa24ac3ebe1d25cb5e5ddf49e4",
+        "sha1": "af1a89e12b638b8d82cc4c085c8e01d4cba03fb3",
+        "sha256": "9ec37fba6890362eba86fb855697a9cff1519275531b172083a1a6a045483583",
+        "crc32": "bab803ef"
+      }
+    },
+    {
+      "filename": "Banjo-Tooie (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB7E",
+      "checksums": {
+        "md5": "ca0df738ae6a16bfb4b46d3860c159d9",
+        "sha1": "139051ab7312fd5e1314ba6baf7d424ea5987eac",
+        "crc32": "0e0dc5a5"
+      }
+    }
+  ]
+}

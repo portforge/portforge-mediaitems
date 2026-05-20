@@ -1,0 +1,32 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "GameBooster 64 (Europe) (v1.1) (Unl)",
+  "noIntroId": [
+    "game:0016"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "GameBooster 64 (Europe) (v1.1) (Unl).bin",
+      "filesize": 262144,
+      "format": "BigEndian",
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a56fe2b2fe339c7dd4ff8d37ec8654b",
+        "sha1": "d79ee0482443c046b9e865a78f3d4507b7478af4",
+        "crc32": "35b99bd9"
+      }
+    },
+    {
+      "filename": "GameBooster 64 (Europe) (v1.1) (Unl).bin",
+      "filesize": 262144,
+      "format": "ByteSwapped",
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a56fe2b2fe339c7dd4ff8d37ec8654b",
+        "sha1": "d79ee0482443c046b9e865a78f3d4507b7478af4",
+        "crc32": "35b99bd9"
+      }
+    }
+  ]
+}

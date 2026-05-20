@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Viewpoint 2064 (Japan) (Proto) (1999-12-17)",
+  "noIntroId": [
+    "game:1039",
+    "cloneofgame:1309"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Viewpoint 2064 (Japan) (Proto) (1999-12-17).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "b7425d12935662e480268b48055f2e6c",
+        "sha1": "defacaf6dbd22962ec0184849ed4a4c53a147454",
+        "sha256": "a909dc41517a07f22eabba5a8b3f68968cf608be1c81a41e5276bcde515ba7e3",
+        "crc32": "93a630cb"
+      }
+    },
+    {
+      "filename": "Viewpoint 2064 (Japan) (Proto) (1999-12-17).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "206bb582588c63bf2d5fed388bacbf34",
+        "sha1": "3e53a1f50d717e369142de6f2a401f4223b600b9",
+        "sha256": "b202202ae9210ce2d0cfc0248a31bd41765914c9ed81dad43ef273cc30025e33",
+        "crc32": "dc8415f5"
+      }
+    }
+  ]
+}

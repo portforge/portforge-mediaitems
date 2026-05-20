@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "V-Rally Edition 99 (Japan)",
+  "noIntroId": [
+    "game:0800",
+    "cloneofgame:0799"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "V-Rally Edition 99 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NVYJ",
+      "checksums": {
+        "md5": "8541d7a8737be09c52d4ec1274de2a91",
+        "sha1": "b23adb839ac7bb51cc080ff531e42ab0bc86dd13",
+        "crc32": "02475a01"
+      }
+    },
+    {
+      "filename": "V-Rally Edition 99 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NVYJ",
+      "checksums": {
+        "md5": "2017c8e61f2db918270b6b5458d02846",
+        "sha1": "04bac1690879d0178f646e04c935dac7ae72e16d",
+        "crc32": "7aab7e2a"
+      }
+    }
+  ]
+}

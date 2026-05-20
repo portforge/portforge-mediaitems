@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games)",
+  "noIntroId": [
+    "game:1074",
+    "cloneofgame:0702"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NEPE",
+      "checksums": {
+        "md5": "0b2b4d3c38426763059d68aa53b86fdf",
+        "sha1": "f71908f15a14ee124f9b471467432ade87e0951c",
+        "sha256": "314730e75239c074b896af47d53dc0a5746131bcfc8b925795e4933fee5de147",
+        "crc32": "fb401a2a"
+      }
+    },
+    {
+      "filename": "Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NEPE",
+      "checksums": {
+        "md5": "6a68c2e513ef132df7817117deb80a9d",
+        "sha1": "63e9b2747bb7e918a677b04d1f346bb07c4ee14c",
+        "sha256": "8a9e4ffe4269010f40b91bdadc2bcc5baaa0e8ea9c9ecc72dabdaa4196f541d4",
+        "crc32": "ee6a1f8f"
+      }
+    }
+  ]
+}

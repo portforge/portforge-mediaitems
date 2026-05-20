@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Snowboard Kids (Europe, Australia)",
+  "noIntroId": [
+    "game:0667"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Snowboard Kids (Europe, Australia).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSKP",
+      "checksums": {
+        "md5": "ab4382e583ae139eedbafce5fa87e4c8",
+        "sha1": "b26802748f4cc15f44492bcc6941a487e75bbca6",
+        "sha256": "9034eb5f375ccd8fa101e3638ddde8c1110437581db111a81c9c586fee11ebcf",
+        "crc32": "5619a70d"
+      }
+    },
+    {
+      "filename": "Snowboard Kids (Europe, Australia).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSKP",
+      "checksums": {
+        "md5": "127ab20ee41adb54c83dfb5bf5794d27",
+        "sha1": "fd4ca5dc092da70996af699c8a4591faef58ec0c",
+        "crc32": "4f2415f3"
+      }
+    }
+  ]
+}

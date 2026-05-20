@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Armorines - Project S.W.A.R.M. (USA)",
+  "noIntroId": [
+    "game:0043",
+    "cloneofgame:0041"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Armorines - Project S.W.A.R.M. (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NARE",
+      "checksums": {
+        "md5": "6e6e7a703c131adaddf4175e9037a2eb",
+        "sha1": "d9f55acf77a54eeb7f62577aa5711769ebeadde3",
+        "sha256": "6c999d00089e384a1d85bec52c3474d789f905a49726fc1d901cdc367ebf7524",
+        "crc32": "630a19e2"
+      }
+    },
+    {
+      "filename": "Armorines - Project S.W.A.R.M. (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NARE",
+      "checksums": {
+        "md5": "1655f81b5987234481ea96bb9e964d38",
+        "sha1": "a9c1319c582668b9afc7807dcd59f68d09b5317e",
+        "sha256": "c9abbad032541d5a19768d7be7755669873fe303cf7b4dd0610bffd2837aef14",
+        "crc32": "950985f6"
+      }
+    }
+  ]
+}

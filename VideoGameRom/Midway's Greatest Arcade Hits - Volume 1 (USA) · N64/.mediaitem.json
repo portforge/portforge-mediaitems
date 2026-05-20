@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+  "noIntroId": [
+    "game:0436"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Midway's Greatest Arcade Hits - Volume 1 (USA).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NAIE",
+      "checksums": {
+        "md5": "2b86775ea4d848202e4f4a39c33571ca",
+        "sha1": "e24c61aaa5cf15112258052ec78d24ad047ba5ae",
+        "crc32": "e5c1fedc"
+      }
+    },
+    {
+      "filename": "Midway's Greatest Arcade Hits - Volume 1 (USA).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NAIE",
+      "checksums": {
+        "md5": "68cf12426b11e75df95d64dc6b94d41d",
+        "sha1": "db7cae68d2a73018ada2e9587e997ec8557f8a8a",
+        "crc32": "202a2718"
+      }
+    }
+  ]
+}

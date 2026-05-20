@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Asteroid Shooter (World) (Demo) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1259"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Asteroid Shooter (World) (Demo) (Aftermarket) (Unl).z64",
+      "filesize": 2097152,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "786124acbcdf0802ae94fe5cd6f5c2b3",
+        "sha1": "a45870f01182052f4beb98647754b3c3e306ffb2",
+        "sha256": "6ee8290151d7b97c3fa58197e4088f0fb35d6e1f54b840f00d21e98d124f6768",
+        "crc32": "42092e9f"
+      }
+    },
+    {
+      "filename": "Asteroid Shooter (World) (Demo) (Aftermarket) (Unl).v64",
+      "filesize": 2097152,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "41841e75f6a9a758e52427a002a8829e",
+        "sha1": "d2e358f47a58522b418a566628930989df02a8b0",
+        "sha256": "b9662d87a298498e6c0caaa9ae1ebff484faf861e971d798f654ab07d515cace",
+        "crc32": "ca8255ff"
+      }
+    }
+  ]
+}

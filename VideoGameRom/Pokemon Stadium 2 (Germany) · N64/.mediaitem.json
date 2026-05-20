@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Stadium 2 (Germany)",
+  "noIntroId": [
+    "game:0580",
+    "cloneofgame:0578"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Stadium 2 (Germany).z64",
+      "filesize": 67108864,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NP3D",
+      "checksums": {
+        "md5": "484f3e696c94980acf3d7068f9acc98f",
+        "sha1": "6de05180d77e73dcf32d57af7c8c1529c7acda59",
+        "crc32": "1146a43a"
+      }
+    },
+    {
+      "filename": "Pokemon Stadium 2 (Germany).v64",
+      "filesize": 67108864,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NP3D",
+      "checksums": {
+        "md5": "2d84449aa09e7be0210d88eb95f44334",
+        "sha1": "bdb0db2ab6e2661bd32ff3cd1ded3bd5ad6073ef",
+        "crc32": "b0a291fc"
+      }
+    }
+  ]
+}

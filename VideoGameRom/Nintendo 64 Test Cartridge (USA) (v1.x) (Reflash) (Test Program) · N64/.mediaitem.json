@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Nintendo 64 Test Cartridge (USA) (v1.x) (Reflash) (Test Program)",
+  "noIntroId": [
+    "game:1306"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nintendo 64 Test Cartridge (USA) (v1.x) (Reflash) (Test Program).z64",
+      "filesize": 2097152,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "2e61a0218eb2407336104eac28431e44",
+        "sha1": "e3aa25d9e9a0a9ca5800dbdf9b0649bf156f554e",
+        "sha256": "3ba8b33a3a5e797380cb935ee77f3e38719dd1eb432bba36014e8897f6edb976",
+        "crc32": "4af3ab8d"
+      }
+    },
+    {
+      "filename": "Nintendo 64 Test Cartridge (USA) (v1.x) (Reflash) (Test Program).v64",
+      "filesize": 2097152,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "4354926cdb3cbf0404e7a080a15b6dd4",
+        "sha1": "fe5ce55a2500f5ba3b6b05c1cddb06024d7d08ca",
+        "sha256": "98e4e7496f5146e6f86a9e85f8f423f4d8b4d9ea597d5ca54796e042e80c7b4b",
+        "crc32": "6eb0a69f"
+      }
+    }
+  ]
+}

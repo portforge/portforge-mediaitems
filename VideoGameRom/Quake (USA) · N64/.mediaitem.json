@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Quake (USA)",
+  "noIntroId": [
+    "game:0596",
+    "cloneofgame:0595"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Quake (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NQKE",
+      "checksums": {
+        "md5": "097605021951024c3ecb2d502c0c2a9f",
+        "sha1": "25a7fe0342490d3c23328040bb34f8748995537a",
+        "sha256": "ce43bcb4c11975f0e1720d7617c05bf23f420b1f76ab115ff52ba7344594a4bc",
+        "crc32": "761f39d1"
+      }
+    },
+    {
+      "filename": "Quake (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NQKE",
+      "checksums": {
+        "md5": "056e41dd8205e701f630b8e19ae4f523",
+        "sha1": "4df581ebf44eb0e6060c331995febd39a04ccedd",
+        "crc32": "06d5cdbb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Star Soldier - Vanishing Earth (Japan) (En)",
+  "noIntroId": [
+    "game:0688",
+    "cloneofgame:0689"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Soldier - Vanishing Earth (Japan) (En).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NS6J",
+      "checksums": {
+        "md5": "14a21928be46c18ba04161305e89f5de",
+        "sha1": "0b34bddd00c49530e0ef47330a05dc70ebe5f8b7",
+        "sha256": "4f5f52e4d8e02f584059b7349400685e85835ce001c8aba7b24ad34f484fece8",
+        "crc32": "7ee5f51d"
+      }
+    },
+    {
+      "filename": "Star Soldier - Vanishing Earth (Japan) (En).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NS6J",
+      "checksums": {
+        "md5": "8a51a0ff79f26a06f70083b2d079dac1",
+        "sha1": "f075eeb6890065ce827a900df99e95f02f19098c",
+        "crc32": "f51d4c7c"
+      }
+    }
+  ]
+}

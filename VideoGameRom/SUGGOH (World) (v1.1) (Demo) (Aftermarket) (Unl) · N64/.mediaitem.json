@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1235"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl).z64",
+      "filesize": 1052672,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "eff45e94145cbd6001ab636c04340a91",
+        "sha1": "51efb63e34c576beff7f1934c33eec8815e10c59",
+        "sha256": "67955a72df1177440fd1f785736b6f2f03cdd3070b6b72c24c63b41f09e4f995",
+        "crc32": "cde7d5de"
+      }
+    },
+    {
+      "filename": "SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl).v64",
+      "filesize": 1052672,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "fbfcb5a25f2e3481c0980fa263f091a6",
+        "sha1": "c8808a22d64af46e97a9e5d98428f8b7d6b02ea2",
+        "sha256": "f00d98a7fed156fee530b7121b96ec23cad394146739a14bd2c89e81ef5691a4",
+        "crc32": "7a6bba60"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Sesame Street - Elmo's Letter Adventure (USA)",
+  "noIntroId": [
+    "game:0202"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Sesame Street - Elmo's Letter Adventure (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NELE",
+      "checksums": {
+        "md5": "15df97a59b2354b130dec3fb86bba513",
+        "sha1": "97777ca06f4e8aff8f1e95033cc8d3833be40f76",
+        "sha256": "eadfd24dd54f56343dd228cddfce67dd8af450a2e8d0040f6a1ed87ea81fdef5",
+        "crc32": "92c3ba6f"
+      }
+    },
+    {
+      "filename": "Sesame Street - Elmo's Letter Adventure (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NELE",
+      "checksums": {
+        "md5": "1fa1170f9d0c037de32d27d9d9f7afd7",
+        "sha1": "4c8e68cc1c5af546bc9ac26de423458141346e2c",
+        "sha256": "1162a8fefd5119e654e141eac7fa1098969dfe3b0a1ae2fcaec9851120ceebdd",
+        "crc32": "710011fb"
+      }
+    }
+  ]
+}

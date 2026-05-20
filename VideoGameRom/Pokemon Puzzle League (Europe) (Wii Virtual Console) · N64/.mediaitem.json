@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Pokemon Puzzle League (Europe) (Wii Virtual Console)",
+  "noIntroId": [
+    "game:1005",
+    "cloneofgame:0558"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Puzzle League (Europe) (Wii Virtual Console).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPNP",
+      "checksums": {
+        "md5": "fbf566693bca3145d86df34d18dcdd43",
+        "sha1": "7ecc46ee186118d49b174ad4bc1367d343130330",
+        "crc32": "13f996b2"
+      }
+    },
+    {
+      "filename": "Pokemon Puzzle League (Europe) (Wii Virtual Console).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPNP",
+      "checksums": {
+        "md5": "1870fef38310b42e5e15ddbdfd4941d9",
+        "sha1": "ff791e9e6f44ad0d373db2deb2fdd0f969d6df24",
+        "crc32": "745a4853"
+      }
+    }
+  ]
+}

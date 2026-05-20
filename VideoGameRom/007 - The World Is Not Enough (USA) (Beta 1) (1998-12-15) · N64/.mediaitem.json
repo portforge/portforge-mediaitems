@@ -1,0 +1,37 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "007 - The World Is Not Enough (USA) (Beta 1) (1998-12-15)",
+  "noIntroId": [
+    "game:1043",
+    "cloneofgame:0004"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "007 - The World Is Not Enough (USA) (Beta 1) (1998-12-15).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NM4E",
+      "checksums": {
+        "md5": "b20c4f04c4501817bf484e5344dc4deb",
+        "sha1": "6809dd15351f7ebd3acfa03389133c2c514a874b",
+        "sha256": "1ef09447e4da92df53b84d3d494022f53e8226455734c3c1d10d25d3aabc4a5a",
+        "crc32": "2f8ffe8f"
+      }
+    },
+    {
+      "filename": "007 - The World Is Not Enough (USA) (Beta 1) (1998-12-15).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NM4E",
+      "checksums": {
+        "md5": "a452429d799f2ce07207243109d265aa",
+        "sha1": "a9e82cd9104d97411e8a14b722f1c6ac7a803a8e",
+        "sha256": "bdc8f64667c59339103d02c2c07927f88e0c4a2e0d117b8d8dd593cf533a9c41",
+        "crc32": "24899739"
+      }
+    }
+  ]
+}

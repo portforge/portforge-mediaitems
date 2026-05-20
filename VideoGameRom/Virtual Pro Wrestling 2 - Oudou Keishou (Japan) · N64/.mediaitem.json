@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)",
+  "noIntroId": [
+    "game:0813"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NA2J",
+      "checksums": {
+        "md5": "90002501777e3237739f5ed9b0e349e2",
+        "sha1": "82dd25a044689eab57ab362fe10c0da6388c217a",
+        "crc32": "f620835d"
+      }
+    },
+    {
+      "filename": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NA2J",
+      "checksums": {
+        "md5": "f615d6d16fde2d86e67d8418c5f7fdf3",
+        "sha1": "d6e4980ee08519a0af60bed5c40a71e284b1e178",
+        "crc32": "8e33c3af"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Madden NFL 99 (USA) (Rev 1)",
+  "noIntroId": [
+    "game:1025",
+    "cloneofgame:0395"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Madden NFL 99 (USA) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N9ME",
+      "checksums": {
+        "md5": "5ad80a8ef44dee1fdc456d66104165b4",
+        "sha1": "68c0c53489b790568acb1d863b74b89975db4a62",
+        "crc32": "56769a44"
+      }
+    },
+    {
+      "filename": "Madden NFL 99 (USA) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N9ME",
+      "checksums": {
+        "md5": "c282adca809cfa43a3fe9ced77ba9571",
+        "sha1": "c686a44e43df6b4e5ecd816d113a402ae9e1570b",
+        "crc32": "e05b574d"
+      }
+    }
+  ]
+}

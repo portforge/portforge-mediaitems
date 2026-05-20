@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Buck Bumble (Japan)",
+  "noIntroId": [
+    "game:0097",
+    "cloneofgame:0096"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Buck Bumble (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBLJ",
+      "checksums": {
+        "md5": "aee981977d8f069003574cd10a268d47",
+        "sha1": "38007f846a454ad09d2090f0ef86e9762a46ccf7",
+        "sha256": "9b4be33fe5adbc911e69546bcb0149c380f00f02c669539411a8cf1d78714ff4",
+        "crc32": "2ed81a65"
+      }
+    },
+    {
+      "filename": "Buck Bumble (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBLJ",
+      "checksums": {
+        "md5": "5b2d83e1474a34190f748287982407be",
+        "sha1": "60afbcc6afde1f22aa8031f98f9ad84b1529f848",
+        "crc32": "24d1a591"
+      }
+    }
+  ]
+}

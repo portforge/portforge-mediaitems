@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Top Gear Hyper Bike (Europe)",
+  "noIntroId": [
+    "game:0755"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Top Gear Hyper Bike (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGBP",
+      "checksums": {
+        "md5": "0072538ef925645db310f8e23a480b89",
+        "sha1": "ff4eb866c48700fa978a5e663cda1499c8eac0b4",
+        "sha256": "37de2e8503c5306d40ab9488f0c74424a5f5dfe795990ba9bd839a0d991ef5b0",
+        "crc32": "bae57ea7"
+      }
+    },
+    {
+      "filename": "Top Gear Hyper Bike (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGBP",
+      "checksums": {
+        "md5": "25c594ed6e76c20bb731890e2319f9ea",
+        "sha1": "29573e3a4016adcdfd2ee318d7700ad423eb369f",
+        "crc32": "dc687ad1"
+      }
+    }
+  ]
+}

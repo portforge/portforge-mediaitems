@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mario Golf 64 (Japan)",
+  "noIntroId": [
+    "game:0408",
+    "cloneofgame:0406"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Golf 64 (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMFJ",
+      "checksums": {
+        "md5": "cd87ba2998d63c13b4366eb2c54e1eb6",
+        "sha1": "1e2c5b63298cd3e8ee5e5f1ebba93c3d6fcb27df",
+        "sha256": "7a8180e46e1761bae7add2a46cad472c9d328f16e8c574a46915adc1f658620e",
+        "crc32": "bb03a1a6"
+      }
+    },
+    {
+      "filename": "Mario Golf 64 (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMFJ",
+      "checksums": {
+        "md5": "d8196c554abd7a8c71f8ba225db3b1af",
+        "sha1": "137b9591194489cfc33d29fa0b054d9954db4e1e",
+        "crc32": "889091fd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1164",
+    "cloneofgame:0820"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "365ac892b951eed7b227f4a200b7ea53",
+        "sha1": "895c70d2280d5d6cc0bd7013a135c21b688f9f80",
+        "crc32": "6def22dc"
+      }
+    },
+    {
+      "filename": "Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "28e9002d937ea76bf36687c807f31210",
+        "sha1": "6ad481e037483e47429522ae966cc54055679f83",
+        "crc32": "49f1ed48"
+      }
+    }
+  ]
+}

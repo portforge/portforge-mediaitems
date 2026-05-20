@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Nushi Zuri 64 (Japan) (Rev 1)",
+  "noIntroId": [
+    "game:0885"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nushi Zuri 64 (Japan) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NUTJ",
+      "checksums": {
+        "md5": "d2af6993e4d657d00520c2cce741480e",
+        "sha1": "a33d47bf0007467c7380c9a37d9a0c30abc67df5",
+        "crc32": "16414ae4"
+      }
+    },
+    {
+      "filename": "Nushi Zuri 64 (Japan) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NUTJ",
+      "checksums": {
+        "md5": "642ca30d2af45477b4f8a88dd3b75f7c",
+        "sha1": "75caf0eda25d60a6e877573c3e16fb41e2d60209",
+        "crc32": "df59e5f2"
+      }
+    }
+  ]
+}

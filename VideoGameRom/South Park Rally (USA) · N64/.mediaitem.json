@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "South Park Rally (USA)",
+  "noIntroId": [
+    "game:0678",
+    "cloneofgame:0677"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "South Park Rally (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPRE",
+      "checksums": {
+        "md5": "1c494719032ff99382b167c43fb11762",
+        "sha1": "e0b9e2358b09d430a100a14a6cb19e30b55faea2",
+        "crc32": "ccdd322a"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPRE",
+      "checksums": {
+        "md5": "39d0960f29634e5bb6aa21f00c1044e7",
+        "sha1": "0309df340d098f014c6673ec7cad60eace1bf166",
+        "crc32": "2c1f0859"
+      }
+    }
+  ]
+}

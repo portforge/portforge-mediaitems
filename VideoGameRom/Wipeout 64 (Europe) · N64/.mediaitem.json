@@ -1,0 +1,34 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wipeout 64 (Europe)",
+  "noIntroId": [
+    "game:0848"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wipeout 64 (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWPP",
+      "checksums": {
+        "md5": "5783373634b11f81c86908c3d81ca988",
+        "sha1": "3eef8ec7d0009ee67d604aaca2bb61b7397ba862",
+        "crc32": "38111048"
+      }
+    },
+    {
+      "filename": "Wipeout 64 (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWPP",
+      "checksums": {
+        "md5": "58263168b3363ae6ad715eee2e2da4f0",
+        "sha1": "ccab769b06290671adbc81b09440049b487adbab",
+        "crc32": "0c3497e4"
+      }
+    }
+  ]
+}

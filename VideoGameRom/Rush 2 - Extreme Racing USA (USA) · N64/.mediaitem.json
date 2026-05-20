@@ -1,0 +1,36 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Rush 2 - Extreme Racing USA (USA)",
+  "noIntroId": [
+    "game:0642",
+    "cloneofgame:0641"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rush 2 - Extreme Racing USA (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NR2E",
+      "checksums": {
+        "md5": "6a925ab624ee3b343231d799733ba898",
+        "sha1": "01b0a31b1accc18061e8c85f6c5edf0dbd79f097",
+        "sha256": "a59e65822d46775ca91d98b1220bcdea9acb54e48e56a7b5c026a3a877c08eb5",
+        "crc32": "9eb14ea8"
+      }
+    },
+    {
+      "filename": "Rush 2 - Extreme Racing USA (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NR2E",
+      "checksums": {
+        "md5": "68c4766e0fd28e3bafe220d52bb5c841",
+        "sha1": "94685e4a27114175946cdf2084079c9bf2e69ef3",
+        "crc32": "5412916b"
+      }
+    }
+  ]
+}

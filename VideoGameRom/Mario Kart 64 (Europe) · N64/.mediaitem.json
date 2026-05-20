@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Mario Kart 64 (Europe)",
+  "noIntroId": [
+    "game:0409",
+    "cloneofgame:0410"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Kart 64 (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKTP",
+      "checksums": {
+        "md5": "8fad1e4fa7baf1443b7f21ad1947b429",
+        "sha1": "a729039453210b84f17019dda3f248d5888f7690",
+        "crc32": "faa6b083"
+      }
+    },
+    {
+      "filename": "Mario Kart 64 (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKTP",
+      "checksums": {
+        "md5": "02b214f4c1a288dd74e2870723c6fed3",
+        "sha1": "f1324f0a316ed895a92097b949e3aa74aefedda5",
+        "crc32": "6787e212"
+      }
+    }
+  ]
+}

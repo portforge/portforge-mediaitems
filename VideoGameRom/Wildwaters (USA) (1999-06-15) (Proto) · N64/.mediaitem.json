@@ -1,0 +1,32 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Wildwaters (USA) (1999-06-15) (Proto)",
+  "noIntroId": [
+    "game:0921"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wildwaters (USA) (1999-06-15) (Proto).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "b867880c96c9e8d3130dde5526c95439",
+        "sha1": "3ff76b30a9179f1ac116cc04d560ce333db443af",
+        "crc32": "40443c67"
+      }
+    },
+    {
+      "filename": "Wildwaters (USA) (1999-06-15) (Proto).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "0ff7f6ddfef8b7acee9619b529983c80",
+        "sha1": "ecb137225f46a8eec882aea0d52b213e9402581d",
+        "crc32": "ecb6780c"
+      }
+    }
+  ]
+}

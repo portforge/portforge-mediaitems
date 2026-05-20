@@ -1,0 +1,35 @@
+{
+  "_itemType": "VideoGameRom",
+  "title": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)",
+  "noIntroId": [
+    "game:0344",
+    "cloneofgame:0311"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWSJ",
+      "checksums": {
+        "md5": "538b54c2aaea73faa3a021d42a3225be",
+        "sha1": "e9ed8a0ed5b7b20b80f0e140cc4b7261a89143bb",
+        "crc32": "68dbcc04"
+      }
+    },
+    {
+      "filename": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWSJ",
+      "checksums": {
+        "md5": "05f8642b057570c23e30441e7a2955c4",
+        "sha1": "cfbdeb8a9218b147b2cff8d087b3d3fb07e9cd37",
+        "crc32": "7576897d"
+      }
+    }
+  ]
+}
