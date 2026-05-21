@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Manic Miner 64 (World) (Summer64) (Unl)",
+  "noIntroId": [
+    "game:1194"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Manic Miner 64 (World) (Summer64) (Unl).z64",
+      "filesize": 2097152,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMME",
+      "checksums": {
+        "md5": "b18bc60ea6b9c72048fd84a2b8f182d4",
+        "sha1": "52c8fc058bb372dc96965d291b75857c973e7586",
+        "sha256": "0eb4df311f9eb8bb9be6de6568a1cec931b64e9d618bf56cda0e5314ba4b20f6",
+        "crc32": "02aacc20"
+      }
+    },
+    {
+      "filename": "Manic Miner 64 (World) (Summer64) (Unl).v64",
+      "filesize": 2097152,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMME",
+      "checksums": {
+        "md5": "f80dce724903e75f856845225ac6bd7b",
+        "sha1": "b1a707ea126b50b8b738990bd68ba9c4ed5d261f",
+        "sha256": "6e0ecd16d6c82fc71ebb730bbadb47f11b24f5b31cc14b41d018b8a24a61644c",
+        "crc32": "b3121b94"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jet Force Gemini (USA) (Demo) (Kiosk)",
+  "noIntroId": [
+    "game:0332",
+    "cloneofgame:0330"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jet Force Gemini (USA) (Demo) (Kiosk).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJDE",
+      "checksums": {
+        "md5": "5bbe9ade7171f2e1daaa7c48fad38728",
+        "sha1": "f00f7c7fb085d0df57dcb649793aced5be4e8562",
+        "crc32": "fa061b96"
+      }
+    },
+    {
+      "filename": "Jet Force Gemini (USA) (Demo) (Kiosk).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJDE",
+      "checksums": {
+        "md5": "d9db99c392e85a82c551cf7808d742ed",
+        "sha1": "4c1eedfac94ea2041a765e60caac00abf77a678d",
+        "crc32": "6e75735b"
+      }
+    }
+  ]
+}

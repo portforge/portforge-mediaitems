@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jeremy McGrath Supercross 2000 (Europe)",
+  "noIntroId": [
+    "game:0328"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jeremy McGrath Supercross 2000 (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCOP",
+      "checksums": {
+        "md5": "4c5be1bfc1cccff501eba2a685226962",
+        "sha1": "7804a688c9f7ed39d9c1a33c0339f4317d3918dc",
+        "sha256": "0aae47e4a9ae696f7bbd6446fc3b620cb1add70ea9d79a2d26f9693c5df0dd88",
+        "crc32": "5bf42ec4"
+      }
+    },
+    {
+      "filename": "Jeremy McGrath Supercross 2000 (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCOP",
+      "checksums": {
+        "md5": "d4c85f5dacecf2787edd4a387be0ab01",
+        "sha1": "3e61ce15a20be752240c889c37be82270bdd423e",
+        "crc32": "efe0b465"
+      }
+    }
+  ]
+}

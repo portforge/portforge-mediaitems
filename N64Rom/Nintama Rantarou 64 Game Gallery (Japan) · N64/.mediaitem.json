@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Nintama Rantarou 64 Game Gallery (Japan)",
+  "noIntroId": [
+    "game:0517"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nintama Rantarou 64 Game Gallery (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHBJ",
+      "checksums": {
+        "md5": "b04957d052ef850c5edece69db7377b3",
+        "sha1": "1bf5217924c5fb00f8e8829e9ebf3fbceb89b9cd",
+        "crc32": "8c7c2dca"
+      }
+    },
+    {
+      "filename": "Nintama Rantarou 64 Game Gallery (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHBJ",
+      "checksums": {
+        "md5": "6672aa7772bf2280077b6b57a200aac0",
+        "sha1": "0c2ee2266c67b5afa507f5b8ece88ab565fed63a",
+        "sha256": "86d29e4821ad6798690b646dcc3051ecd2f061b7d27ccc10937cfc311a4e70ac",
+        "crc32": "2d96c091"
+      }
+    }
+  ]
+}

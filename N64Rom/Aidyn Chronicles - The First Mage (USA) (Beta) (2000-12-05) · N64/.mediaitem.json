@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05)",
+  "noIntroId": [
+    "game:1100",
+    "cloneofgame:0028"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "1ac9dec95ad700412a7295da39237155",
+        "sha1": "330cc37425909022baea9aae58ab49cdd903eed5",
+        "sha256": "468efe1af342f60b93461c50cbcc471f41f48f4e54c81ef622b69820a9d00c32",
+        "crc32": "2b39f8e3"
+      }
+    },
+    {
+      "filename": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "253839562c16df8a7954be3a261a7766",
+        "sha1": "93e66799347c697bd0078acc4dab1d8f44924aea",
+        "sha256": "37ea55aac4627998906b4576fd8856f1e120621d0459d6d5cd1515fcda81ebe9",
+        "crc32": "c04a8ac9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Duke Nukem 64 (France)",
+  "noIntroId": [
+    "game:0195",
+    "cloneofgame:0194"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Duke Nukem 64 (France).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDNF",
+      "checksums": {
+        "md5": "e2e79c7167bdb26e176d220904739c91",
+        "sha1": "2c48706c4280a51e52691331543606e4170a19a9",
+        "sha256": "f51460caf18b6457befb79a62e2930537dceaa409e1dc8a2407226af04671a92",
+        "crc32": "b9c9f07a"
+      }
+    },
+    {
+      "filename": "Duke Nukem 64 (France).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDNF",
+      "checksums": {
+        "md5": "521c4e8444786c1ff6cf9bbc6d6facb6",
+        "sha1": "bf05f8ec1a1bb936f8cc4d32f0deada7355b16b1",
+        "crc32": "cbe8c78a"
+      }
+    }
+  ]
+}

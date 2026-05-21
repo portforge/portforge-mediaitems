@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Snowboard Kids 2 (Australia)",
+  "noIntroId": [
+    "game:0669",
+    "cloneofgame:0670"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Snowboard Kids 2 (Australia).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NK2P",
+      "checksums": {
+        "md5": "47b5e3955d54f969941533f26691ab38",
+        "sha1": "e807f0fa1d6fde619a83f0926b2294123f34501c",
+        "crc32": "3a0b6214"
+      }
+    },
+    {
+      "filename": "Snowboard Kids 2 (Australia).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NK2P",
+      "checksums": {
+        "md5": "fdc8a439658cda5b34e673ee2ddc7e0d",
+        "sha1": "35c1a9af8ae9abe09b50b6529b73c53b80395b66",
+        "crc32": "43afb227"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Brunswick Circuit Pro Bowling (USA)",
+  "noIntroId": [
+    "game:0095"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Brunswick Circuit Pro Bowling (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NOWE",
+      "checksums": {
+        "md5": "62e92102d6fd1701a6e904da6ab58ae8",
+        "sha1": "91f6f7843a7413126a7b4026104526615f979134",
+        "sha256": "0820db5f76a45bbbe6323176b70d4a93256ccde925aee91a6bb500fd0fbd859a",
+        "crc32": "80d70173"
+      }
+    },
+    {
+      "filename": "Brunswick Circuit Pro Bowling (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NOWE",
+      "checksums": {
+        "md5": "db929d47127ea55bb919f8c7623e0256",
+        "sha1": "578bef71585b2cc956a6847c682b123599be830a",
+        "crc32": "3ac1bbae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Dragon Sword 64 (USA) (Proto) (1999-08-25)",
+  "noIntroId": [
+    "game:1009"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Dragon Sword 64 (USA) (Proto) (1999-08-25).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "942fc6737765ac718799a7f66202216c",
+        "sha1": "4478a6405f61014478bbc35cee3a00ee1515d8ce",
+        "sha256": "b833036594701d8973a436a876313cb661e373f2127280760735b3e3c10f832b",
+        "crc32": "2296b50d"
+      }
+    },
+    {
+      "filename": "Dragon Sword 64 (USA) (Proto) (1999-08-25).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "85d77c74a989e6cff1ef14d9f19313cc",
+        "sha1": "f5ac5eff3c6eaf7df9119c0f16504a90e70a59dc",
+        "crc32": "bc5a6081"
+      }
+    }
+  ]
+}

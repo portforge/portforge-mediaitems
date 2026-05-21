@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)",
+  "noIntroId": [
+    "game:0663"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NT3J",
+      "checksums": {
+        "md5": "113044b16b75f98792bf9c20c6b6282b",
+        "sha1": "bdfa3c47264196bd91d0487d3c9b3531bdace8ea",
+        "crc32": "deac787f"
+      }
+    },
+    {
+      "filename": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NT3J",
+      "checksums": {
+        "md5": "d013cd14d46001289d2e7bb58da94c26",
+        "sha1": "15b9c28584a26b60e5a2a231e5ba2897e831e8f8",
+        "crc32": "be0fc7e8"
+      }
+    }
+  ]
+}

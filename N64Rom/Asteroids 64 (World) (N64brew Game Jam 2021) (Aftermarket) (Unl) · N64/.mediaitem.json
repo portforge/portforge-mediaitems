@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Asteroids 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1227"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Asteroids 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64",
+      "filesize": 1052672,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "e01c594074002a0c7b947728ad373588",
+        "sha1": "0405381fd144072ddfb6babd4175f6d0329fd81f",
+        "sha256": "a021f26adfe7c024fa34a462ff66a6e37488ba7e316c1c5a54ebe2f3aa2ba0d3",
+        "crc32": "835bf07b"
+      }
+    },
+    {
+      "filename": "Asteroids 64 (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).v64",
+      "filesize": 1052672,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "3415b8539c81ef9aafe3bcc2deb7a7d5",
+        "sha1": "465566653650767833117b6db6a6f9eb2779df0c",
+        "sha256": "330e05dff597062d18f58ab752f710b612d7ce2c9705e82f341a32945caf93be",
+        "crc32": "3385381a"
+      }
+    }
+  ]
+}

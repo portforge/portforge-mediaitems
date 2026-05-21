@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Top Gear Rally (Japan)",
+  "noIntroId": [
+    "game:0762",
+    "cloneofgame:0761"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Top Gear Rally (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTRJ",
+      "checksums": {
+        "md5": "6e0af13dcefee6a11c4d7262206d6d2d",
+        "sha1": "e0415b87c5a5b69ac581e79137406bdaa79b354a",
+        "crc32": "c6707cd6"
+      }
+    },
+    {
+      "filename": "Top Gear Rally (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTRJ",
+      "checksums": {
+        "md5": "1b20ad52e630fea15304688d66e0fa89",
+        "sha1": "3c29783dd963b8594d2fd41e296b2c7d9dc318f2",
+        "crc32": "d8e793f5"
+      }
+    }
+  ]
+}

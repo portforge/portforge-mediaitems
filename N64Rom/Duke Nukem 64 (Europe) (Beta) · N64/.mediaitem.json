@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Duke Nukem 64 (Europe) (Beta)",
+  "noIntroId": [
+    "game:0947",
+    "cloneofgame:0194"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Duke Nukem 64 (Europe) (Beta).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMSE",
+      "checksums": {
+        "md5": "bb2472b3f8a41fbf3aec3ccef7ea8c78",
+        "sha1": "bd6ed4a342290eab3d99be392986e085e91315ac",
+        "sha256": "0609bc62b79f42132e56f439dcd1db6564a6ef07f294f5e6c67ffb0fe7cb3329",
+        "crc32": "4a82d036"
+      }
+    },
+    {
+      "filename": "Duke Nukem 64 (Europe) (Beta).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMSE",
+      "checksums": {
+        "md5": "2ff051d37f1efb8307c91d1e810edaee",
+        "sha1": "f4adffeb61eccf5715e3f61a9d24b87ce2ae08c9",
+        "crc32": "1ff97bad"
+      }
+    }
+  ]
+}

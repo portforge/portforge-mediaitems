@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Glamorous Zombie Flakes (World) (v1.2) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1174",
+    "cloneofgame:1323"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Glamorous Zombie Flakes (World) (v1.2) (Aftermarket) (Unl).z64",
+      "filesize": 3340016,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "de127aa55773643e1600fe2b4c69bdbe",
+        "sha1": "76779ae67a320c806d8745f60a98a399aaa8af8b",
+        "sha256": "15232963b5fd553cb81fd95f0ccfecbeec318575b9145dc3ecd88dfb9ad9b35f",
+        "crc32": "acd6288f"
+      }
+    },
+    {
+      "filename": "Glamorous Zombie Flakes (World) (v1.2) (Aftermarket) (Unl).v64",
+      "filesize": 3340016,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "79a1c0f9f668c7716dab0315bc69d631",
+        "sha1": "b5525f08ee1a17aa94c5904cb28aed443c79a75c",
+        "sha256": "1601110ad7e0476cf467d4aa0d9b521f9e7fac27d3956bf1032d31a0ceb044a0",
+        "crc32": "3e83df4f"
+      }
+    }
+  ]
+}

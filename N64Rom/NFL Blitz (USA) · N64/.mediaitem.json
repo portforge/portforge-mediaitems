@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NFL Blitz (USA)",
+  "noIntroId": [
+    "game:0497"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NFL Blitz (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBZE",
+      "checksums": {
+        "md5": "7f6c5e71711dec81e77ccf71060f67ca",
+        "sha1": "2853afd9e38d63d913c8484f546804708c8ad712",
+        "sha256": "1c37ed9d1d88122dd174b6258fa72b23b404b4c64a259592504392fa7e21e41e",
+        "crc32": "9bcd670f"
+      }
+    },
+    {
+      "filename": "NFL Blitz (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBZE",
+      "checksums": {
+        "md5": "4fe0df8523e907de4c7c85e836bfb637",
+        "sha1": "fa193a704b83f00cf3874d2f49275930168f0416",
+        "sha256": "72a9692da7c23be530bdb2971d537982897006239f0defad07d45772bedaa0b4",
+        "crc32": "5fa3455d"
+      }
+    }
+  ]
+}

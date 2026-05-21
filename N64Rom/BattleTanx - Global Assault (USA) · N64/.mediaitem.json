@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "BattleTanx - Global Assault (USA)",
+  "noIntroId": [
+    "game:0069",
+    "cloneofgame:0068"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "BattleTanx - Global Assault (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBQE",
+      "checksums": {
+        "md5": "654557c316f901a2ca6f7f4b43343147",
+        "sha1": "805248fb0a0ee694cad8d7dc927b631d860dd8cf",
+        "sha256": "88268ce770ff39f2ca839848b842c87866df6c5ddaf775f180b2522c18ff6221",
+        "crc32": "31beb053"
+      }
+    },
+    {
+      "filename": "BattleTanx - Global Assault (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBQE",
+      "checksums": {
+        "md5": "88da33ca04ef2d936f0c1b73248b71aa",
+        "sha1": "08a9037488c47d1e26ce6f709955639e9f0f0bb8",
+        "sha256": "54d1ea97a90cee3ee4cc5b564d5b5188449fc58611599dccab547c79ad2f353e",
+        "crc32": "5819d423"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Die Hard 64 (USA) (Proto) (Level 3)",
+  "noIntroId": [
+    "game:1013",
+    "cloneofgame:1011"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Die Hard 64 (USA) (Proto) (Level 3).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "1b28c4ca21648d318bc6dd3ef27bb1fa",
+        "sha1": "0971545144930f221a4350e98866c8cd1ee22af5",
+        "sha256": "d94310dd15e3c62c631ed12e56f539b9080de036f0ac3b901bb062a19f3433df",
+        "crc32": "70943925"
+      }
+    },
+    {
+      "filename": "Die Hard 64 (USA) (Proto) (Level 3).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "33d54b479baadfe588b55014c09f139e",
+        "sha1": "d0a7bcd9720422d44b127b7c3fa7d949c31cef92",
+        "crc32": "e5703251"
+      }
+    }
+  ]
+}

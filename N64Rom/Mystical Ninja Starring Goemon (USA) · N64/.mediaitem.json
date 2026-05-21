@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mystical Ninja Starring Goemon (USA)",
+  "noIntroId": [
+    "game:0467",
+    "cloneofgame:0466"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mystical Ninja Starring Goemon (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NG5E",
+      "checksums": {
+        "md5": "643cce1ab06f97e9590241d27e5c2363",
+        "sha1": "df8083a54296b8c151917c5333e1c85f014a2a66",
+        "sha256": "1603be37427a33548857fc3d2e8867ede71121c353fb631b79b44f1d94845d80",
+        "crc32": "4180c296"
+      }
+    },
+    {
+      "filename": "Mystical Ninja Starring Goemon (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NG5E",
+      "checksums": {
+        "md5": "f2162be647e4aa59254ec5ed7db1e94a",
+        "sha1": "7a7cc41a47f0edbc96efa29d3f0f0e1c0d1e65af",
+        "crc32": "81c10ad9"
+      }
+    }
+  ]
+}

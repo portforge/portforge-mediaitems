@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NASCAR 99 (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0472"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NASCAR 99 (Europe) (En,Fr,De).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N9CP",
+      "checksums": {
+        "md5": "15a87a6d01dba1a7c4375ffbc1214bb8",
+        "sha1": "cb43ee3d86a7b85befec8d068d72192fa8174eb0",
+        "sha256": "148a7acb816c844c99af9289237666b7a421d24c7722616ad38f401006864e55",
+        "crc32": "76e79cea"
+      }
+    },
+    {
+      "filename": "NASCAR 99 (Europe) (En,Fr,De).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N9CP",
+      "checksums": {
+        "md5": "96a36a9871b34839d6a2af57c5c4ef96",
+        "sha1": "84c515ab4ecf3cac306d1355b639d7e535845f42",
+        "crc32": "5351acb5"
+      }
+    }
+  ]
+}

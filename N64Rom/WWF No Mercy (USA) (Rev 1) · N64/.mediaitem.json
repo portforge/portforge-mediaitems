@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "WWF No Mercy (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0882",
+    "cloneofgame:0861"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WWF No Mercy (USA) (Rev 1).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NW4E",
+      "checksums": {
+        "md5": "66b8ec24557a50514a814f15429bd559",
+        "sha1": "91cee3d096f4a76644d8b35b9aead6448909abd1",
+        "crc32": "baceea13"
+      }
+    },
+    {
+      "filename": "WWF No Mercy (USA) (Rev 1).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NW4E",
+      "checksums": {
+        "md5": "761d5c8fb24caf5f44613acd5c9ad4b2",
+        "sha1": "159ecd53e5fd9b0f607cb39042057f55f07d18a6",
+        "crc32": "afbc514e"
+      }
+    }
+  ]
+}

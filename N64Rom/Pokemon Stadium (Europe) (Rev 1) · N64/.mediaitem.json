@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pokemon Stadium (Europe) (Rev 1)",
+  "noIntroId": [
+    "game:0571"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Stadium (Europe) (Rev 1).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPOP",
+      "checksums": {
+        "md5": "31ee2de8e65e30f5934c450dbaa924f0",
+        "sha1": "9470f899ad0107677b7dfd24e1dd567723a5f84f",
+        "crc32": "da889668"
+      }
+    },
+    {
+      "filename": "Pokemon Stadium (Europe) (Rev 1).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPOP",
+      "checksums": {
+        "md5": "b70451292a9f5c57f1526520adc7f340",
+        "sha1": "b34b5db300e0a7b9d283839b92a3a7040924130a",
+        "crc32": "60f6be65"
+      }
+    }
+  ]
+}

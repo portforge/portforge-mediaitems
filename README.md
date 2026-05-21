@@ -25,7 +25,7 @@ MediaItems/
 │       ├── .install.json       - install/build spec for PortForge
 │       └── .artwork/           - version-specific artwork (optional)
 │
-└── VideoGameRom/
+└── NESRom/N64Rom/
     └── <Title> · <Platform>/
         └── .mediaitem.json     - ROM metadata (checksums, file formats, No-Intro ID, …)
 ```
@@ -55,7 +55,7 @@ Key fields in `.mediaitem.json`:
 
 If a version requires compilation from source, an `.install.json` file defines the build process. See [Install specs](#install-specs) below.
 
-### `VideoGameRom`
+### `NESRom` and `N64Rom`
 
 Metadata for a specific ROM dump, including checksums for every supported file format. PortForge matches files in the user's ROM library against these checksums to determine which ROMs are available.
 
@@ -95,7 +95,7 @@ Contributions of new game entries, corrected checksums, improved descriptions, a
 3. If the game must be compiled, add `.install.json` following the build system spec.
 4. Add cover art to `.artwork/` (PNG preferred, named `Cover · en · 1.png`).
 5. If a parent `VideoGame` entry doesn't exist yet, create one under `VideoGame/`.
-6. If new ROMs are required, add entries under `VideoGameRom/` with full checksums for all known file variants.
+6. If new ROMs are required, add entries under `*Rom/` with full checksums for all known file variants.
 
 ### Checksums
 
@@ -113,6 +113,8 @@ ROM checksums must be sourced from the [No-Intro](https://no-intro.org) or the [
 
 - [No-Intro](https://no-intro.org/) and [Redump](http://redump.org/) for cataloging original game media
 - The contributors to [SteamGridDB](https://www.steamgriddb.com/) for game artwork
+- The contributors to [EmuMovies](https://emumovies.com/) for game artwork
+- The contributors to [LaunchBox Games Database](https://gamesdb.launchbox-app.com//) for game artwork
 
 ---
 

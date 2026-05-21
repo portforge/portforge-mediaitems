@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)",
+  "noIntroId": [
+    "game:0659",
+    "cloneofgame:0657"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSGX",
+      "checksums": {
+        "md5": "11169a32d449ec3a8903ca8a9d69a6aa",
+        "sha1": "31de2e29dce21341e1958b32a7d8b1b03fc56e3b",
+        "sha256": "d62ae6df6ef2d5d8bc91a5ab3e229bbfb7ef297c6b9364a736c0d60bafa4a675",
+        "crc32": "eedc0bea"
+      }
+    },
+    {
+      "filename": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSGX",
+      "checksums": {
+        "md5": "dc06a3739be0c9673c97bc29671eeed7",
+        "sha1": "b8ec5c7f833b7a4aabcd243804ecc824d51e506c",
+        "crc32": "dc3ed03e"
+      }
+    }
+  ]
+}

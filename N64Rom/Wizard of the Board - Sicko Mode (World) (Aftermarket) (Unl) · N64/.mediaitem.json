@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Wizard of the Board - Sicko Mode (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1256"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Wizard of the Board - Sicko Mode (World) (Aftermarket) (Unl).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "22ef313d62f47b366cc35ac43126a99c",
+        "sha1": "0231f77f8c8fc3fb7d820db8badd08b336e915df",
+        "sha256": "340011871959c89514fdf4513053f196afe16ec1c30d31061940af8bc7922f33",
+        "crc32": "08c8c8c3"
+      }
+    },
+    {
+      "filename": "Wizard of the Board - Sicko Mode (World) (Aftermarket) (Unl).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "22ef313d62f47b366cc35ac43126a99c",
+        "sha1": "0231f77f8c8fc3fb7d820db8badd08b336e915df",
+        "sha256": "340011871959c89514fdf4513053f196afe16ec1c30d31061940af8bc7922f33",
+        "crc32": "08c8c8c3"
+      }
+    }
+  ]
+}

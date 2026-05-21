@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Duke Nukem - Zero Hour (USA) (Beta)",
+  "noIntroId": [
+    "game:1104",
+    "cloneofgame:0191"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Duke Nukem - Zero Hour (USA) (Beta).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDZE",
+      "checksums": {
+        "md5": "73bbd95cd877d6c9c923547da1ba76bd",
+        "sha1": "0fe108c66384dcfebb395f767ac5fa6a842d07f0",
+        "sha256": "9a679928314ef211c9bf1f5e28e680133d73cd7d0cab0768122be4673cb3e66c",
+        "crc32": "21e4de3a"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Zero Hour (USA) (Beta).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDZE",
+      "checksums": {
+        "md5": "96f1f12be2849fafab451b8e0bd10d8e",
+        "sha1": "318a6f2098ce0b2c7a7929793bb252e7925496ee",
+        "sha256": "61dbcaad899735f4be02f86e68efecf1733816b5d61e8357857a456fd64506b1",
+        "crc32": "4887c039"
+      }
+    }
+  ]
+}

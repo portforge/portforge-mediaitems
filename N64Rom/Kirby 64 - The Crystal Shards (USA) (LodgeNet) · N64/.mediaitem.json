@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Kirby 64 - The Crystal Shards (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1143",
+    "cloneofgame:0360"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Kirby 64 - The Crystal Shards (USA) (LodgeNet).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "79748edc4fd32e263c5a18d73b519736",
+        "sha1": "f615c6e10d1044c944bd4965c5471bb3f1cf5c5b",
+        "crc32": "70ba28e4"
+      }
+    },
+    {
+      "filename": "Kirby 64 - The Crystal Shards (USA) (LodgeNet).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "34c37dbfe08a13434130bdf5e895cdd0",
+        "sha1": "fb1fa1d51615c9c65bc0537b2eda4ee87823d33e",
+        "crc32": "feaea8de"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mario Tennis (Europe)",
+  "noIntroId": [
+    "game:0425"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Tennis (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NM8P",
+      "checksums": {
+        "md5": "fff9b3e22abb9b60215dafb13ad5a4de",
+        "sha1": "b5e4aa1abf8fc8022fc47f30cd6d4ac6a6b21684",
+        "sha256": "1d9add31b3cf320657ada5295954de12061070cede84dfa6dd1245e9c6548838",
+        "crc32": "29aa5df4"
+      }
+    },
+    {
+      "filename": "Mario Tennis (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NM8P",
+      "checksums": {
+        "md5": "c4a2dfc5c9d5041b2d6575db191bf3f3",
+        "sha1": "f7c4535ce92ca794c4b26e09e74072125ae97dab",
+        "crc32": "0f03ca6e"
+      }
+    }
+  ]
+}

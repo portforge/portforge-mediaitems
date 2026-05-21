@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "J.League Eleven Beat 1997 (Japan)",
+  "noIntroId": [
+    "game:0322"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "J.League Eleven Beat 1997 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJEJ",
+      "checksums": {
+        "md5": "30e23d3de446e37e5e7fbef6794a6fc9",
+        "sha1": "0403902145ced0c42252981bc6c8fef2f76ccc08",
+        "crc32": "7d0eed6a"
+      }
+    },
+    {
+      "filename": "J.League Eleven Beat 1997 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJEJ",
+      "checksums": {
+        "md5": "ac6cbd30b676412c9e52330c82048ed0",
+        "sha1": "c5d159bddc89da2224e1d32c695248998c4560bd",
+        "crc32": "b2d77747"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Quest 64 (USA)",
+  "noIntroId": [
+    "game:0599",
+    "cloneofgame:0285"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Quest 64 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NETE",
+      "checksums": {
+        "md5": "ea552e33973468233a0712c251abdb6b",
+        "sha1": "91b96e938c6d91699057fad91d726ee5a23ce33a",
+        "sha256": "3292d99dd93c3054906887a84a00efdd747ee620cbea4601df2f7f82d5f74c74",
+        "crc32": "d75b45c6"
+      }
+    },
+    {
+      "filename": "Quest 64 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NETE",
+      "checksums": {
+        "md5": "949a7017e27d2ed402d2ad709498fd65",
+        "sha1": "738f11572a72bea06cc5c6d9c0a341a288f29457",
+        "crc32": "e90856e8"
+      }
+    }
+  ]
+}

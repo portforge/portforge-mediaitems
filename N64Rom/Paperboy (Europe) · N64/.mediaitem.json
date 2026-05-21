@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Paperboy (Europe)",
+  "noIntroId": [
+    "game:0538"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Paperboy (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NYPP",
+      "checksums": {
+        "md5": "b7f2eb7989c9c00096655d087d72ec51",
+        "sha1": "7db4808042b9651b47592e814ac4c125b51d4d2f",
+        "sha256": "d4fab7f0a04d4c7dfc21ec66d3ae83a65c857bb346549e4a41ee6f2008086efa",
+        "crc32": "f00c5053"
+      }
+    },
+    {
+      "filename": "Paperboy (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NYPP",
+      "checksums": {
+        "md5": "7d4366bbed26abd0c161501de1bbaebb",
+        "sha1": "da7da76570c4c5303475c30c18791ca83f8455c4",
+        "crc32": "d98c3f8b"
+      }
+    }
+  ]
+}

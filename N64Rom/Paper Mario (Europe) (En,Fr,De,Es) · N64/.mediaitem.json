@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Paper Mario (Europe) (En,Fr,De,Es)",
+  "noIntroId": [
+    "game:0536"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Paper Mario (Europe) (En,Fr,De,Es).z64",
+      "filesize": 50331648,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMQP",
+      "checksums": {
+        "md5": "3b5c99f5e7dba06bf8237e58f6d4196b",
+        "sha1": "1273275142b79f7443f55bd35679a19670adfe3a",
+        "sha256": "5540ccd817201a3f5174295dde7fce7e2a6f79f081209a4b6b7eec7d9c4b88e4",
+        "crc32": "9fc00ce3"
+      }
+    },
+    {
+      "filename": "Paper Mario (Europe) (En,Fr,De,Es).v64",
+      "filesize": 50331648,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMQP",
+      "checksums": {
+        "md5": "df409825299af218308475fc9fbf3b3f",
+        "sha1": "9ee4a0a75ead324a0b30d809091b25fb1673d3b5",
+        "crc32": "406ce874"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mission - Impossible (USA)",
+  "noIntroId": [
+    "game:0447",
+    "cloneofgame:0442"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mission - Impossible (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMIE",
+      "checksums": {
+        "md5": "eebdfbd7cb57202d70cfffcaaf55e93e",
+        "sha1": "7546d5df1fc93fed8205a066f1333fd7dd50c1e1",
+        "sha256": "3e82a0ca1dd758d4aa633fb06edb5314fad9b23d52156168ff4b8d1cc4569b16",
+        "crc32": "3677a8b8"
+      }
+    },
+    {
+      "filename": "Mission - Impossible (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMIE",
+      "checksums": {
+        "md5": "85e09c5b9c3a6c6e7b8fce029d5cd50d",
+        "sha1": "c17c89f1a8485cfd481426800870f860c2ceae24",
+        "crc32": "2dbd815d"
+      }
+    }
+  ]
+}

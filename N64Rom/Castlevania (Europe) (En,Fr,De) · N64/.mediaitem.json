@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Castlevania (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0112"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Castlevania (Europe) (En,Fr,De).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "ND3P",
+      "checksums": {
+        "md5": "57146b6cd8ee7d96b01a811f98a1ac61",
+        "sha1": "e0da571cddcb8d069b36c2df254334f7c532133e",
+        "sha256": "902f060c7787ffdf83f547203eb1182c737714a2bec5f42c409f05b26ecdb9dc",
+        "crc32": "d9d76235"
+      }
+    },
+    {
+      "filename": "Castlevania (Europe) (En,Fr,De).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "ND3P",
+      "checksums": {
+        "md5": "0bfebedf99c1e715ada7103664bfcc97",
+        "sha1": "72fec07cdb52645e48126a154c9f72e32c2b1931",
+        "crc32": "d1d4d306"
+      }
+    }
+  ]
+}

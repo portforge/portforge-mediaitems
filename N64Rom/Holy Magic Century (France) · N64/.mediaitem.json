@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Holy Magic Century (France)",
+  "noIntroId": [
+    "game:0286",
+    "cloneofgame:0285"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Holy Magic Century (France).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NETF",
+      "checksums": {
+        "md5": "988f5abd96259196343659e913666820",
+        "sha1": "610bf1f4a5cbeb2d6dc3ae1dafc5b3b818f69c26",
+        "sha256": "6e861b0b50149ba9ccb751d06002728cac0610fc3147f0060369c6691f84b3ca",
+        "crc32": "284170ed"
+      }
+    },
+    {
+      "filename": "Holy Magic Century (France).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NETF",
+      "checksums": {
+        "md5": "3110d0dc89caa7c04f993520723842b8",
+        "sha1": "31f28c9a0c6b0ca00a6015496b377936e196d498",
+        "crc32": "cefc98aa"
+      }
+    }
+  ]
+}

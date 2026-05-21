@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "F-Zero X (Europe)",
+  "noIntroId": [
+    "game:0221"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "F-Zero X (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFZP",
+      "checksums": {
+        "md5": "ee79a8fe287b5dcaea584439363342fc",
+        "sha1": "af9038bcb543a2b4faaab876dbdab4663859e092",
+        "sha256": "1fb61b96aba61ed061201d1267c2dca6532abb12420dc951648b4b06f1eeb181",
+        "crc32": "2d6f7e8b"
+      }
+    },
+    {
+      "filename": "F-Zero X (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFZP",
+      "checksums": {
+        "md5": "7b2d9e24e6535be213ba036efe618e31",
+        "sha1": "6108dd6d6d65e1440535aad43caff99c2e886340",
+        "crc32": "3d95df80"
+      }
+    }
+  ]
+}

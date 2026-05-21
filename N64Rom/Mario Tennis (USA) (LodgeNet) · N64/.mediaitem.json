@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mario Tennis (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1148",
+    "cloneofgame:0425"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Tennis (USA) (LodgeNet).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "dfb78505e91a874662618d8c1076a58b",
+        "sha1": "1f76e775c5f2e247d6550aecc2666149c6025989",
+        "crc32": "02af0a24"
+      }
+    },
+    {
+      "filename": "Mario Tennis (USA) (LodgeNet).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "1f94205d44ba24f771e41b66620439cd",
+        "sha1": "fe9c30cf151328aad1cc661499916be81fd8bbf0",
+        "crc32": "e0227318"
+      }
+    }
+  ]
+}

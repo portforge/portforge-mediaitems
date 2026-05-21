@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Featherlight (World) (v1.2) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1230",
+    "cloneofgame:1229"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Featherlight (World) (v1.2) (Aftermarket) (Unl).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "5cba7f7899fbd02e23bb2542dc3994a9",
+        "sha1": "56077febc7e273e570f28296e4143bf9ba0b02d5",
+        "sha256": "04475698289c8c34bfc19745f843e664d6b6b45aa2fb56bcf08713c63bcf47d5",
+        "crc32": "d67ebe8e"
+      }
+    },
+    {
+      "filename": "Featherlight (World) (v1.2) (Aftermarket) (Unl).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "3ff45801eb4cce77caa786ced0750676",
+        "sha1": "1f06519deb7b5349cb67a1772ca0bc3d924f0335",
+        "sha256": "bd17a4c5e262caec093172ff4e60af228bcd4591088a0b6ab13ae2967aba2764",
+        "crc32": "4872f7c3"
+      }
+    }
+  ]
+}

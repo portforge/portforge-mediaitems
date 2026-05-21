@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pilotwings 64 (Japan)",
+  "noIntroId": [
+    "game:0552",
+    "cloneofgame:0551"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pilotwings 64 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPWJ",
+      "checksums": {
+        "md5": "e8e6ec0692009009f5dca6827b21f59a",
+        "sha1": "892a5472d9a6811b881d093020de81f72baeeec9",
+        "crc32": "3d3a84a9"
+      }
+    },
+    {
+      "filename": "Pilotwings 64 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPWJ",
+      "checksums": {
+        "md5": "c7bd4ab71093d71d1313905f85292eaf",
+        "sha1": "e6e8a48e433dc7a4949756e70ab18d0165a1bc6f",
+        "crc32": "001ee45b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+  "noIntroId": [
+    "game:0529",
+    "cloneofgame:0904"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Ogre Battle 64 - Person of Lordly Caliber (USA).z64",
+      "filesize": 41943040,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NOBE",
+      "checksums": {
+        "md5": "f666e020218392e52662fddfa1ea4f21",
+        "sha1": "9cd0cfb50b883edb068e0c30d213193b9cf89895",
+        "sha256": "571e83396bc81e70da4c0a20313d82dbd7dfe685f2c37418c8e27f927e2cc67a",
+        "crc32": "a05aea85"
+      }
+    },
+    {
+      "filename": "Ogre Battle 64 - Person of Lordly Caliber (USA).v64",
+      "filesize": 41943040,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NOBE",
+      "checksums": {
+        "md5": "2b9c065a0be087c1ceba99ee246c9c54",
+        "sha1": "a9faadfdadcc0fd02aadcbecc28bfcc3d691a31c",
+        "crc32": "c650be3c"
+      }
+    }
+  ]
+}

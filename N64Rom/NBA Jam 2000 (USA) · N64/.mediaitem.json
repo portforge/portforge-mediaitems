@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NBA Jam 2000 (USA)",
+  "noIntroId": [
+    "game:0484",
+    "cloneofgame:0483"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA Jam 2000 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJAE",
+      "checksums": {
+        "md5": "afecc9a2df7b1a66a6b7ab3aa8b4bd2e",
+        "sha1": "94139439d6c234a560fc5d0e5d9c0aa4508fc7b6",
+        "crc32": "163dadf9"
+      }
+    },
+    {
+      "filename": "NBA Jam 2000 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJAE",
+      "checksums": {
+        "md5": "2bc421e0b95150299cad0d9ea37e289f",
+        "sha1": "58facec83666d3eba51986df97024229a087c78d",
+        "crc32": "65a3bd1c"
+      }
+    }
+  ]
+}

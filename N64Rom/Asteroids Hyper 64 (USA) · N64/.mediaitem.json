@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Asteroids Hyper 64 (USA)",
+  "noIntroId": [
+    "game:0048"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Asteroids Hyper 64 (USA).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NAHE",
+      "checksums": {
+        "md5": "874c7b7b365d2c20aaa1a0c90c93f9b8",
+        "sha1": "329f4d560b0ba7da622edd9b84523e86e265fffe",
+        "sha256": "db8871295af1083038d959f1a4c8ac43a8b7cafb84bcc9717ef0c9f4bd6b60b8",
+        "crc32": "f5ce3d91"
+      }
+    },
+    {
+      "filename": "Asteroids Hyper 64 (USA).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NAHE",
+      "checksums": {
+        "md5": "257601175e6c41604bd5b9ab93a3ec75",
+        "sha1": "6e1c4af8f765dee69b5308ec5a0b20bc7fb8d862",
+        "crc32": "fb982b44"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Glover (USA)",
+  "noIntroId": [
+    "game:0266",
+    "cloneofgame:0265"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Glover (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGVE",
+      "checksums": {
+        "md5": "87aa5740dff79291ee97832da1f86205",
+        "sha1": "270be17b3c8da9b88a7b99c2a545b0bce16837f4",
+        "sha256": "363c84be17c7c11e97df6069ee8f3b205cb190f60e0c02ca223892ff7f47367a",
+        "crc32": "f874571c"
+      }
+    },
+    {
+      "filename": "Glover (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGVE",
+      "checksums": {
+        "md5": "a43f68079c8fff2920137585b39fc73e",
+        "sha1": "ed756cae1582a4940ddb854b5376a0013f7f5634",
+        "sha256": "f19c9a5a3651a96ae82a6f6f4e6642e996a5ef7e53c1d1ece64792786ec884ec",
+        "crc32": "d024893a"
+      }
+    }
+  ]
+}

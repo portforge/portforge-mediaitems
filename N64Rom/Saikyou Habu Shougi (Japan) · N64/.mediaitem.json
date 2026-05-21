@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Saikyou Habu Shougi (Japan)",
+  "noIntroId": [
+    "game:0645"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Saikyou Habu Shougi (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSHJ",
+      "checksums": {
+        "md5": "c4e47228706bc724d7fbd811231d20c9",
+        "sha1": "b7c977fcd8224595e84714c3fa84221374e1838e",
+        "crc32": "01794d62"
+      }
+    },
+    {
+      "filename": "Saikyou Habu Shougi (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSHJ",
+      "checksums": {
+        "md5": "213192eb4ff4f7faa7df653d0feff142",
+        "sha1": "8a06e7a7d15e5586ff5ce5fed235e0357096c827",
+        "crc32": "e8d0810b"
+      }
+    }
+  ]
+}

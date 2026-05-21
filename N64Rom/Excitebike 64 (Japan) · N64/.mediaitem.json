@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Excitebike 64 (Japan)",
+  "noIntroId": [
+    "game:0206",
+    "cloneofgame:0205"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Excitebike 64 (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMXJ",
+      "checksums": {
+        "md5": "bf15a61aff71c93bf5e05243f57bca1d",
+        "sha1": "e2c8d01fc66c0a575e79cb338678f1fd065226d6",
+        "sha256": "a2227d626690256f6d1242d5fe7c9bbbf8fa5aec2d803a0a138e1e09dd26b635",
+        "crc32": "03bfd065"
+      }
+    },
+    {
+      "filename": "Excitebike 64 (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMXJ",
+      "checksums": {
+        "md5": "6b764c5de8abea1483fe52f6e1468274",
+        "sha1": "ad840fe563076bd600ad0ab3ad4433b3f1a72a4c",
+        "sha256": "104547f23e9b2f267117287d9307dde5f57e9255b431848f01ffdfc18f3fc9b9",
+        "crc32": "9dfeb099"
+      }
+    }
+  ]
+}

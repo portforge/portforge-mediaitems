@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)",
+  "noIntroId": [
+    "game:0370",
+    "cloneofgame:0371"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NZSP",
+      "checksums": {
+        "md5": "13fab67e603b002ceaf0eea84130e973",
+        "sha1": "c04599cdafee1c84a7af9a71df68f139179ada84",
+        "sha256": "d64d412d595ca32a248320da56772291b6bac7bcd942752f357c4bba367685e6",
+        "crc32": "9ead1608"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NZSP",
+      "checksums": {
+        "md5": "53990a4ae36382ae17d15e26edf89c92",
+        "sha1": "8bf74834c614f6ccb7c659b82dfdc68ba61301a4",
+        "crc32": "9267f4ba"
+      }
+    }
+  ]
+}

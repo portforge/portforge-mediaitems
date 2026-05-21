@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NFL QB Club 2001 (USA)",
+  "noIntroId": [
+    "game:0503"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NFL QB Club 2001 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NQCE",
+      "checksums": {
+        "md5": "fd2cbdea0992452b52e2803224232d12",
+        "sha1": "c81421bb204270ef5ddd8f60dda51cdf73482fe2",
+        "crc32": "6d849e17"
+      }
+    },
+    {
+      "filename": "NFL QB Club 2001 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NQCE",
+      "checksums": {
+        "md5": "0272b74693620913f7c5170d747a546e",
+        "sha1": "1b31a55a7c744f5de52f6198820c17bf25785ebf",
+        "crc32": "2c0d748b"
+      }
+    }
+  ]
+}

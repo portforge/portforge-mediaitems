@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Frogger 2 (USA) (Proto 3)",
+  "noIntroId": [
+    "game:1035",
+    "cloneofgame:1293"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Frogger 2 (USA) (Proto 3).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGVE",
+      "checksums": {
+        "md5": "e0dc294f86c9ea56f0a4818f7596343e",
+        "sha1": "d2bc7a66d95510c7f51934823ef5ba2de76b6d9c",
+        "sha256": "4db9b0829386b64b7b51c48a9b84a7ad12cd53f1193bdfe8d349787b8ba919da",
+        "crc32": "8273bfa5"
+      }
+    },
+    {
+      "filename": "Frogger 2 (USA) (Proto 3).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGVE",
+      "checksums": {
+        "md5": "bff4b5b4549964c5aa63700852af188e",
+        "sha1": "275bbbbd1cb11e1611449f37128054d7a4dac3f5",
+        "sha256": "fa292811c47c058c44a9bd428ebeffbafebf500023e4f273058766c778ec0d08",
+        "crc32": "5eb0c7d0"
+      }
+    }
+  ]
+}

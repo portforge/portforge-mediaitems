@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Forsaken (Germany)",
+  "noIntroId": [
+    "game:0246",
+    "cloneofgame:0245"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Forsaken (Germany).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFOD",
+      "checksums": {
+        "md5": "74650f7154e0b2dd7c364f511b0d6a77",
+        "sha1": "f1be08780d117c44fc10a0dba792d6c5be7d4093",
+        "crc32": "9793abc2"
+      }
+    },
+    {
+      "filename": "Forsaken (Germany).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFOD",
+      "checksums": {
+        "md5": "e39d59320cfe31f04ac575abfdf21840",
+        "sha1": "46e2a07b805f06e04fb4dc6934eaa0ebccc81f76",
+        "crc32": "c3fa1b8e"
+      }
+    }
+  ]
+}

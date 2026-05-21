@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tommy Thunder (USA) (Proto) (1997-10-01)",
+  "noIntroId": [
+    "game:0891"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tommy Thunder (USA) (Proto) (1997-10-01).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NNiE",
+      "checksums": {
+        "md5": "99f95ad4a3b0c78b6f58a0fc3ad22db6",
+        "sha1": "287fd68b5de520ade240889bc0133777fed5c671",
+        "crc32": "66734854"
+      }
+    },
+    {
+      "filename": "Tommy Thunder (USA) (Proto) (1997-10-01).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NNiE",
+      "checksums": {
+        "md5": "c545548c47bc8cf4f9907a610f4ec66d",
+        "sha1": "9ffb0084e560395e788dcc18d6fa3d238f0e9853",
+        "crc32": "e5bc76d8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "F-1 World Grand Prix (USA)",
+  "noIntroId": [
+    "game:0219",
+    "cloneofgame:0215"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "F-1 World Grand Prix (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFWE",
+      "checksums": {
+        "md5": "a81b1de864df3f4bb0903760be673f21",
+        "sha1": "dd17545adc8fe2af2a713ab48c5f71801222edaf",
+        "sha256": "b5470d259dfebcdf7910257479ff47792bcc83e82f6c70131d4363d7ecb6e7a0",
+        "crc32": "7dc9ef2c"
+      }
+    },
+    {
+      "filename": "F-1 World Grand Prix (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFWE",
+      "checksums": {
+        "md5": "82dcd2b311352ad9b571089aff6b6171",
+        "sha1": "ca05633242b31e3ec808945e9afeafc2fe4de652",
+        "sha256": "dc821d0105a164a6a345192d17632dbded02ba5b8b0a505f37849ba050689438",
+        "crc32": "4d203242"
+      }
+    }
+  ]
+}

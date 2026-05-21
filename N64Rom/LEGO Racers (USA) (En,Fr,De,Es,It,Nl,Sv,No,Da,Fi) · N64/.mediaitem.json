@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+  "noIntroId": [
+    "game:0381",
+    "cloneofgame:0380"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NLGE",
+      "checksums": {
+        "md5": "26b5eaa13dc5b5e35307fe8c0cf5b6ba",
+        "sha1": "8decc41869926e20da2eb3da526e6395aa33cece",
+        "sha256": "dbbfdfde4abf4b0bec60470fe8ed412f2b0a360b9237066b952ef8d53f74c0ce",
+        "crc32": "4d1e1897"
+      }
+    },
+    {
+      "filename": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NLGE",
+      "checksums": {
+        "md5": "30a227e03d4d07a4676d24d1da971470",
+        "sha1": "9c5b574680a18fc87c74e7c1feea19aae87cc059",
+        "sha256": "cbf477152fc07a1a9ad755d8f4ee1bf2830245d10c030f6c898526d50524ef36",
+        "crc32": "3339e557"
+      }
+    }
+  ]
+}

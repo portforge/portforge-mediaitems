@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Action Replay Pro 64 (Europe) (v3.0) (Unl)",
+  "noIntroId": [
+    "game:0014",
+    "cloneofgame:0015"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Action Replay Pro 64 (Europe) (v3.0) (Unl).bin",
+      "filesize": 262144,
+      "format": "BigEndian",
+      "ext": "bin",
+      "checksums": {
+        "md5": "35ba407ea9e4ef7c0ace8b4f58beec41",
+        "sha1": "d5e4e8c875d6bda0afafb1b2513b16b1cb88dfc1",
+        "sha256": "921cb11324fee888ea0277e55c2756bb1a201153b72881e1049eb262d025af24",
+        "crc32": "c992dfb4"
+      }
+    },
+    {
+      "filename": "Action Replay Pro 64 (Europe) (v3.0) (Unl).bin",
+      "filesize": 262144,
+      "format": "ByteSwapped",
+      "ext": "bin",
+      "checksums": {
+        "md5": "35ba407ea9e4ef7c0ace8b4f58beec41",
+        "sha1": "d5e4e8c875d6bda0afafb1b2513b16b1cb88dfc1",
+        "sha256": "921cb11324fee888ea0277e55c2756bb1a201153b72881e1049eb262d025af24",
+        "crc32": "c992dfb4"
+      }
+    }
+  ]
+}

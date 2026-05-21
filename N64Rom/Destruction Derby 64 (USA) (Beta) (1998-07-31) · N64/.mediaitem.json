@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Destruction Derby 64 (USA) (Beta) (1998-07-31)",
+  "noIntroId": [
+    "game:1103",
+    "cloneofgame:0163"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Destruction Derby 64 (USA) (Beta) (1998-07-31).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "749ac5bc4e7f2b17274f6966ddbf6872",
+        "sha1": "6c20de318bd6c96409858be3c09e14ce01b829a9",
+        "sha256": "eead2f3ed135e51794131ddef086264c337879458974a4bad223bdf4c037df0c",
+        "crc32": "a0ff0874"
+      }
+    },
+    {
+      "filename": "Destruction Derby 64 (USA) (Beta) (1998-07-31).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "38a007dabc9c19f055914f3279817d04",
+        "sha1": "368c64d15a08fdca786ea900e517202c9b0c8dea",
+        "sha256": "d9ddc736c5dc8e2b027eb1201842a07c94751c155d52eb22d92419c57146a15b",
+        "crc32": "5726c048"
+      }
+    }
+  ]
+}

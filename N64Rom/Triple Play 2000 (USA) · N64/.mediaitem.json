@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Triple Play 2000 (USA)",
+  "noIntroId": [
+    "game:0773"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Triple Play 2000 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N3PE",
+      "checksums": {
+        "md5": "6f2c37a20e6eccb657fbfc4ba36a34bb",
+        "sha1": "03619f14149d5a2716dffbe02e21c2a0f5ee24f5",
+        "crc32": "785dd0f8"
+      }
+    },
+    {
+      "filename": "Triple Play 2000 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N3PE",
+      "checksums": {
+        "md5": "e13208ce9412c9db3fb62fff93cd2b0d",
+        "sha1": "e604aa2d812dfc73d20e3fc8c81cbb73439db88a",
+        "crc32": "bfb124fc"
+      }
+    }
+  ]
+}

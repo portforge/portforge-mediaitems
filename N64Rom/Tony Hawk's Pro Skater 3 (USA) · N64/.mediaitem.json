@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tony Hawk's Pro Skater 3 (USA)",
+  "noIntroId": [
+    "game:0754"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N3TE",
+      "checksums": {
+        "md5": "9d4891bf26881c4541171b0235015fd4",
+        "sha1": "7b9438120c67214afaea09f4b106c54ef8f366c5",
+        "crc32": "62a8ce7d"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N3TE",
+      "checksums": {
+        "md5": "a1aa4fce55d79e6f2e76bc04393008f7",
+        "sha1": "63ecbb3d07b8ac20ed096af0735704ef715bd398",
+        "crc32": "ed73272e"
+      }
+    }
+  ]
+}

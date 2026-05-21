@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "007 - The World Is Not Enough (USA)",
+  "noIntroId": [
+    "game:0005",
+    "cloneofgame:0004"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "007 - The World Is Not Enough (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NO7E",
+      "checksums": {
+        "md5": "9d58996a8aa91263b5cd45c385f45fe4",
+        "sha1": "d347159808f0374a93cf44cfb6135d8f56279f7b",
+        "sha256": "72e3e7b4ff1615bc17336d3d10e18aa9342898db063ace68922a47f5e46c48b1",
+        "crc32": "26360987"
+      }
+    },
+    {
+      "filename": "007 - The World Is Not Enough (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NO7E",
+      "checksums": {
+        "md5": "2b1594e9b9f1ec0105c5adabe3c024ce",
+        "sha1": "e93005466ac84bc1d19b40673d0c50b604a8753c",
+        "crc32": "34f0ee5b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)",
+  "noIntroId": [
+    "game:0339"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NP4J",
+      "checksums": {
+        "md5": "b454490eb44f0978f009fa41de8c478e",
+        "sha1": "d11b2860925c3784cbd4ad163111414537c5378a",
+        "crc32": "40e3ac61"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NP4J",
+      "checksums": {
+        "md5": "12bc7271b915b0a8c7fe8dd5ea7bdcca",
+        "sha1": "44287562745c42662b61224ebfd9b483867eafee",
+        "crc32": "435126ae"
+      }
+    }
+  ]
+}

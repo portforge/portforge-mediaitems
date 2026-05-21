@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jinsei Game 64 (Japan)",
+  "noIntroId": [
+    "game:0348"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jinsei Game 64 (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJGJ",
+      "checksums": {
+        "md5": "68230d510015ff6817ef898c0b8b636c",
+        "sha1": "8759a3fc272c3f6259bbe2433eb34411705d8634",
+        "crc32": "67a1a22c"
+      }
+    },
+    {
+      "filename": "Jinsei Game 64 (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJGJ",
+      "checksums": {
+        "md5": "56fb8ac309038ef2f68a8b3b0456c915",
+        "sha1": "ce9931571e9d60cc3c92458f89fbdbed214ed833",
+        "crc32": "888b4265"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta)",
+  "noIntroId": [
+    "game:1294",
+    "cloneofgame:0004"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NO7E",
+      "checksums": {
+        "md5": "1b376e5b1679a24323bdedfd1aa3a512",
+        "sha1": "ce8c5941cf539a00b47517ee3e32d3b74bc67ea4",
+        "sha256": "d0c9d3b6d9399236b2cc048b919f70199d482bf37c4a9065c00f1f05b93d30ce",
+        "crc32": "8a91d343"
+      }
+    },
+    {
+      "filename": "007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NO7E",
+      "checksums": {
+        "md5": "e41e7844b0e801709ca29d3311da119f",
+        "sha1": "c5836d7072e15b105245e972ee250510a92d8a7e",
+        "sha256": "701ba48887e0f4507d34666d8a937a04d61f16c704dbf43fbcf5407b4faa247e",
+        "crc32": "049c0ef6"
+      }
+    }
+  ]
+}

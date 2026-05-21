@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "WWF Attitude (USA)",
+  "noIntroId": [
+    "game:0859",
+    "cloneofgame:0857"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WWF Attitude (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTIE",
+      "checksums": {
+        "md5": "9faf514cb3dbb742c129deb395dca342",
+        "sha1": "259973eb0ba1d01f1a5fbf3039ed511e6b705f26",
+        "sha256": "a6702c3a7a535b785ad4bd75cdca2e1f15fca59556824b7c54bdae56ecae34d3",
+        "crc32": "7a4b3686"
+      }
+    },
+    {
+      "filename": "WWF Attitude (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTIE",
+      "checksums": {
+        "md5": "71ee30c9bc45e33089226b02b23eee7a",
+        "sha1": "9519c9a7e9f370e565545fa5f5a21077f585310b",
+        "sha256": "2417c80a7a4625e0ed4004cf13b60df0cfe0ed816abe82035f5cf5d00a5f9c0d",
+        "crc32": "f694db1e"
+      }
+    }
+  ]
+}

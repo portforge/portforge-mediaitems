@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Bokujou Monogatari 2 (Japan) (Rev 2)",
+  "noIntroId": [
+    "game:0893",
+    "cloneofgame:0274"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bokujou Monogatari 2 (Japan) (Rev 2).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NYWJ",
+      "checksums": {
+        "md5": "24e3ee6a54278db65c463804f2bb6223",
+        "sha1": "74c5fd9647b702e889a5f2094d4bc4001bd6f68b",
+        "sha256": "fd0390c22834604f4c894d7507f6d6ba768fea60aa374d1382bde535c02cc265",
+        "crc32": "9181c1b7"
+      }
+    },
+    {
+      "filename": "Bokujou Monogatari 2 (Japan) (Rev 2).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NYWJ",
+      "checksums": {
+        "md5": "e7d9467ed78251c4b393fc9fca348e96",
+        "sha1": "756ef426dd81bec87c33dc981bc4a13c92ab0aab",
+        "crc32": "36a97d01"
+      }
+    }
+  ]
+}

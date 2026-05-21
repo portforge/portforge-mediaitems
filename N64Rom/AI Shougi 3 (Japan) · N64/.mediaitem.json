@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "AI Shougi 3 (Japan)",
+  "noIntroId": [
+    "game:0027"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "AI Shougi 3 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NS3J",
+      "checksums": {
+        "md5": "4a5c509a20db7a429dc1dd4e219ad4a2",
+        "sha1": "8d87d888e8916c4c148dad32ee0519dd297d1fa6",
+        "sha256": "05265ab26612612b5573971c217709a073b44640182333ea87269975c324c9b9",
+        "crc32": "86df90e6"
+      }
+    },
+    {
+      "filename": "AI Shougi 3 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NS3J",
+      "checksums": {
+        "md5": "9b469746eb02588f9a2273a6bdec33c9",
+        "sha1": "0acf1f83ba14dbe2edbae454eea04caf2cc0030a",
+        "crc32": "43022243"
+      }
+    }
+  ]
+}

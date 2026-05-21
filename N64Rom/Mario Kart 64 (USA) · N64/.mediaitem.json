@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mario Kart 64 (USA)",
+  "noIntroIds": [
+    "game:0413",
+    "cloneofgame:0410"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Kart 64 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKTE",
+      "checksums": {
+        "md5": "3a67d9986f54eb282924fca4cd5f6dff",
+        "sha1": "579c48e211ae952530ffc8738709f078d5dd215e",
+        "sha256": "d6b8538dd63f0132ecb2856e7d32816ed3c30e3e479aecd23cf83fb6ba17a5da",
+        "crc32": "434389c1"
+      }
+    },
+    {
+      "filename": "Mario Kart 64 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKTE",
+      "checksums": {
+        "md5": "e19398a0fd1cc12df64fca7fbcaa82cc",
+        "sha1": "e72fdcbb4edec32535a62b672c4559b04b07a081",
+        "crc32": "2bcee11c"
+      }
+    }
+  ]
+}

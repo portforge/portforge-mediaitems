@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Super Speed Race 64 (Japan)",
+  "noIntroId": [
+    "game:0723",
+    "cloneofgame:0049"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Speed Race 64 (Japan).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NLCJ",
+      "checksums": {
+        "md5": "6b5d93b3566e96147009d1ac4fb15c97",
+        "sha1": "e0a49ff953b882f9f135b583ef9e09a664d24288",
+        "crc32": "0f879a70"
+      }
+    },
+    {
+      "filename": "Super Speed Race 64 (Japan).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NLCJ",
+      "checksums": {
+        "md5": "ff6dd7e8b64aee8c80548f2fdb6f1f1a",
+        "sha1": "e2e885786198a0f44ae740ba8c5dd59eac14b207",
+        "crc32": "d96b76c3"
+      }
+    }
+  ]
+}

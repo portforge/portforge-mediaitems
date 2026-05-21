@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "All-Star Baseball 2000 (USA)",
+  "noIntroId": [
+    "game:0039",
+    "cloneofgame:0038"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "All-Star Baseball 2000 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBEE",
+      "checksums": {
+        "md5": "aada358ce97f06c4df5bf55987268844",
+        "sha1": "4256a23902e22e6e8291f1931f8de4b2716fe480",
+        "sha256": "f354489d79d6ca69a43f3bf95e0e112a6d3a20acdbf96ae847c4180aa0154791",
+        "crc32": "69e88471"
+      }
+    },
+    {
+      "filename": "All-Star Baseball 2000 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBEE",
+      "checksums": {
+        "md5": "984528194ca782d74a92cb8c0ea42358",
+        "sha1": "c0d574af5c3523a4a804182b4d6465212fd9ee29",
+        "sha256": "b2448dac9637b008b5fb969a1ff2565cd1c8c2a0cc8842558afdf9c632a794da",
+        "crc32": "15063eac"
+      }
+    }
+  ]
+}

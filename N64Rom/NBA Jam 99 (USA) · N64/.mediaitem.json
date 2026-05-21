@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NBA Jam 99 (USA)",
+  "noIntroId": [
+    "game:0486",
+    "cloneofgame:0485"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA Jam 99 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB9E",
+      "checksums": {
+        "md5": "adbe5ca10f659af2be712038e8522704",
+        "sha1": "2e306d2123ad4220e672d8a07874ca7b515d57e0",
+        "crc32": "559cd6b1"
+      }
+    },
+    {
+      "filename": "NBA Jam 99 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB9E",
+      "checksums": {
+        "md5": "6b1912a7269e4a2feea518653277b7b6",
+        "sha1": "5303a21d20bef75e6f77fbaedd120391cb4131d5",
+        "crc32": "f40c871a"
+      }
+    }
+  ]
+}

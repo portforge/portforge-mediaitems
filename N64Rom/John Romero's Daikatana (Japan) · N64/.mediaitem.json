@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "John Romero's Daikatana (Japan)",
+  "noIntroId": [
+    "game:0350",
+    "cloneofgame:0349"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "John Romero's Daikatana (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDWJ",
+      "checksums": {
+        "md5": "57d31ea7121dd5a05b547225efa5cfd7",
+        "sha1": "4ed2ec28997865e301c5693639c2ec717c79a5bc",
+        "sha256": "d733debf3a38c643127d58e84b086f44948bd630bf6449030db8cea1ca51abf8",
+        "crc32": "44b80fd7"
+      }
+    },
+    {
+      "filename": "John Romero's Daikatana (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDWJ",
+      "checksums": {
+        "md5": "45711f060d945982ce4dffb9f5e31306",
+        "sha1": "8bda39f1e1c39020ff259b1d4d1ccb2c87d1ee38",
+        "crc32": "befb1434"
+      }
+    }
+  ]
+}

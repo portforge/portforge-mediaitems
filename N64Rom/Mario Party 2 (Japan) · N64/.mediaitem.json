@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mario Party 2 (Japan)",
+  "noIntroId": [
+    "game:0419",
+    "cloneofgame:0418"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Party 2 (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMWJ",
+      "checksums": {
+        "md5": "f23e4cd437465f3e725262253cf3ea59",
+        "sha1": "26f4637167aaaa0e420bb4fdb26a965fd34f8d19",
+        "sha256": "bae1720d257791b58fc29189241553d64dece6ce241a6c2af275bf77d25bb96f",
+        "crc32": "7457b081"
+      }
+    },
+    {
+      "filename": "Mario Party 2 (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMWJ",
+      "checksums": {
+        "md5": "5af4cad99d4e3aabe119a705f5cc75c0",
+        "sha1": "fd523dff2f552a766993ebb5f056f15fcf52e17f",
+        "crc32": "e19bf21c"
+      }
+    }
+  ]
+}

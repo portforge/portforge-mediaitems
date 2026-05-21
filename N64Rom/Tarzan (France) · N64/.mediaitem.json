@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tarzan (France)",
+  "noIntroId": [
+    "game:0730",
+    "cloneofgame:0729"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tarzan (France).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTAF",
+      "checksums": {
+        "md5": "5d82e903f65341487ddc11af80ad607a",
+        "sha1": "1cf1f0f8217ba4e1691427f97ef62b15dc02a1c3",
+        "sha256": "4dba12006cfbb965de11f95cde4042afde4fb53a5c8dfed0393dfadc87e7394f",
+        "crc32": "99c7649d"
+      }
+    },
+    {
+      "filename": "Tarzan (France).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTAF",
+      "checksums": {
+        "md5": "491cb5649bf3957591edf9b1e5d765d4",
+        "sha1": "f3193b0eb2a2ddd2735d51c1adc4170bf2ed0252",
+        "crc32": "c1176831"
+      }
+    }
+  ]
+}

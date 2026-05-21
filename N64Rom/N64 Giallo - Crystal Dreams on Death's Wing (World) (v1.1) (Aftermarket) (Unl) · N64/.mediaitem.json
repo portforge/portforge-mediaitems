@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "N64 Giallo - Crystal Dreams on Death's Wing (World) (v1.1) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1321"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "N64 Giallo - Crystal Dreams on Death's Wing (World) (v1.1) (Aftermarket) (Unl).z64",
+      "filesize": 2129920,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "58633604f1e9d4bab3c377b90ec426b8",
+        "sha1": "d1e2407ca9e720a9f5804b37066f1b07d2c2cb4c",
+        "sha256": "2210c9199b027874c510e0cfbdc63f46dc009efe6415fadbbc1c03c27d6b988b",
+        "crc32": "dd96f5db"
+      }
+    },
+    {
+      "filename": "N64 Giallo - Crystal Dreams on Death's Wing (World) (v1.1) (Aftermarket) (Unl).v64",
+      "filesize": 2129920,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "487e463b5c6ebcaae514cf986fcedbcd",
+        "sha1": "3002fed2a331a02efda36a82464443825c077615",
+        "sha256": "d12d06c3026d1d6b09452a5012844c0d257f0584a8ae25e56108dd736e982d91",
+        "crc32": "7962b909"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Banjo-Tooie (Australia)",
+  "noIntroId": [
+    "game:0060",
+    "cloneofgame:0061"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Banjo-Tooie (Australia).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB7U",
+      "checksums": {
+        "md5": "61b5c5c3e5e1a81e5d37072c01b39b76",
+        "sha1": "4ca2d332f6e6b018777afc6a8b7880b38b6dfb79",
+        "sha256": "017495239c491c5f3575de171527732a80b597cbb6331bfa984efc677801df43",
+        "crc32": "2736266a"
+      }
+    },
+    {
+      "filename": "Banjo-Tooie (Australia).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB7U",
+      "checksums": {
+        "md5": "b943623a53f427b53c48316e722ed2e1",
+        "sha1": "f3c391f7d04f9cbcddac1cf03b7b6c78d844f7b0",
+        "crc32": "38ec4a6e"
+      }
+    }
+  ]
+}

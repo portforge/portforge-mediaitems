@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Turok 2 - Seeds of Evil (Germany)",
+  "noIntroId": [
+    "game:0789",
+    "cloneofgame:0786"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Turok 2 - Seeds of Evil (Germany).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NT2D",
+      "checksums": {
+        "md5": "b932116c967795076b5c112841ab4427",
+        "sha1": "d09353c551f5309f29b6ff964b583a54e3d63c5f",
+        "crc32": "c07877b6"
+      }
+    },
+    {
+      "filename": "Turok 2 - Seeds of Evil (Germany).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NT2D",
+      "checksums": {
+        "md5": "f00cbe882f8d2fac3a4fecc0d83fab9d",
+        "sha1": "1a46b9ca32625bd20c7c8e02ad62ae3273b8790a",
+        "crc32": "fbe927cc"
+      }
+    }
+  ]
+}

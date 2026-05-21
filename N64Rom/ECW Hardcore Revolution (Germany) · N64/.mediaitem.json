@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "ECW Hardcore Revolution (Germany)",
+  "noIntroId": [
+    "game:1023",
+    "cloneofgame:0199"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "ECW Hardcore Revolution (Germany).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWID",
+      "checksums": {
+        "md5": "5d1e41aa28169e71b4919fa08f1acd9b",
+        "sha1": "cdabb42be0755d186ad6cae6427fb7c0a12b2e7b",
+        "sha256": "7da42aca9cd1daa7310aab8221085de14779d6d38fefe3dd2b0e09e2f37bb852",
+        "crc32": "e9cf3d9f"
+      }
+    },
+    {
+      "filename": "ECW Hardcore Revolution (Germany).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWID",
+      "checksums": {
+        "md5": "973a42c76c0b8e8bf83cf19abd42723d",
+        "sha1": "5747161ac3666fb5a5c876013207568253a2d279",
+        "crc32": "61503331"
+      }
+    }
+  ]
+}

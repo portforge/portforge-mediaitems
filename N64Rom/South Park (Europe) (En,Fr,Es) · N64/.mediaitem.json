@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "South Park (Europe) (En,Fr,Es)",
+  "noIntroId": [
+    "game:0672"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "South Park (Europe) (En,Fr,Es).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDTP",
+      "checksums": {
+        "md5": "40cc2085a5c12456bef830b047068326",
+        "sha1": "c70c9fd6ebf1ae9f79155f9384ab1c4b29dc6882",
+        "sha256": "e0cdb6f2c756febffc10266a5bf93ee853a0393de2f18353174e569303d3252c",
+        "crc32": "b2c3e123"
+      }
+    },
+    {
+      "filename": "South Park (Europe) (En,Fr,Es).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDTP",
+      "checksums": {
+        "md5": "251b291dcce55f9c1b4e8ad4f785c326",
+        "sha1": "b1905fa89677f770a8b57876488d96bff4c4b278",
+        "crc32": "acd74f7f"
+      }
+    }
+  ]
+}

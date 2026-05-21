@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NBA in the Zone 2 (Japan)",
+  "noIntroId": [
+    "game:0480",
+    "cloneofgame:0492"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA in the Zone 2 (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB2J",
+      "checksums": {
+        "md5": "f8f87aeb2c537c9cb2e9913050bfc928",
+        "sha1": "a7685c8833256ecd1033862ea077e75147f9c49a",
+        "crc32": "41093b73"
+      }
+    },
+    {
+      "filename": "NBA in the Zone 2 (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB2J",
+      "checksums": {
+        "md5": "127671f54e44c68039dd29ec702aed21",
+        "sha1": "c81bce72a48686b3966815915a579f2f5de733ec",
+        "crc32": "f736d01a"
+      }
+    }
+  ]
+}

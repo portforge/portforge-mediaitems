@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Turok - Legenden des Verlorenen Landes (Germany)",
+  "noIntroId": [
+    "game:0782",
+    "cloneofgame:0783"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Turok - Legenden des Verlorenen Landes (Germany).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRWD",
+      "checksums": {
+        "md5": "72a6aa28608ee93a1cb6feb0a5f4c28c",
+        "sha1": "a6daacbd0e7f77c73208cf494aefc24703060b17",
+        "crc32": "b937874f"
+      }
+    },
+    {
+      "filename": "Turok - Legenden des Verlorenen Landes (Germany).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRWD",
+      "checksums": {
+        "md5": "c8e5ba393a985e771bfeb8df0182b011",
+        "sha1": "51792351f4fd61c11f4b3b755a5eb8b9ea725b72",
+        "crc32": "a2754ca4"
+      }
+    }
+  ]
+}

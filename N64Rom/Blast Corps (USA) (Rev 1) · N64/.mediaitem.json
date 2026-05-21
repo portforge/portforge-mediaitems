@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Blast Corps (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0080",
+    "cloneofgame:0078"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Blast Corps (USA) (Rev 1).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBCE",
+      "checksums": {
+        "md5": "5875fc73069077c93e214233b60f0bdc",
+        "sha1": "483f7161aea39de8b45c9fbc70a2c3883c4dea8c",
+        "sha256": "42e4d8cde3c106637a25bbfa62d74cc2e5c1eed1d64de5bbb0b1c4896b185927",
+        "crc32": "9cbbccf1"
+      }
+    },
+    {
+      "filename": "Blast Corps (USA) (Rev 1).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBCE",
+      "checksums": {
+        "md5": "fd169651b23b5424c2d4cb5d9af81fc3",
+        "sha1": "80e5365bd5ee8388e38a04b23bf3db9b5e4bf06b",
+        "crc32": "23d415f8"
+      }
+    }
+  ]
+}

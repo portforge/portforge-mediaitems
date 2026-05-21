@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1144",
+    "cloneofgame:0371"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "f6738180b95d46f6355855d1da8dbb0b",
+        "sha1": "ecabc86f0de743c02ba3fa0c83ab163538b00be9",
+        "crc32": "e4b47e08"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "454d3e30a73826d6f3a2f2c04806afdb",
+        "sha1": "f85e13f608a4f87d555cb572a32a4497b1848503",
+        "crc32": "168a3b0d"
+      }
+    }
+  ]
+}

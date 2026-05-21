@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Blast Corps (Europe) (En,De)",
+  "noIntroId": [
+    "game:0078"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Blast Corps (Europe) (En,De).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBCP",
+      "checksums": {
+        "md5": "889d4d337ad11ce94357511c725eab6a",
+        "sha1": "460212600f8b9f0da95219c4c7330f2e626d9a7e",
+        "sha256": "9a9246c1128ae4e1cfc6b9b0137894a9575202ce9cd62bf4b9405fb0cdfbd506",
+        "crc32": "4c820695"
+      }
+    },
+    {
+      "filename": "Blast Corps (Europe) (En,De).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBCP",
+      "checksums": {
+        "md5": "bd819802309e8e65ccc9f8eab8361223",
+        "sha1": "9d42be8a947e64d4862d8a7c1fae57e10c2257ee",
+        "crc32": "2ff810cf"
+      }
+    }
+  ]
+}

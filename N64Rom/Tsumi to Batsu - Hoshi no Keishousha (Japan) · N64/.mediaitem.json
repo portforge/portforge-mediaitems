@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tsumi to Batsu - Hoshi no Keishousha (Japan)",
+  "noIntroId": [
+    "game:0774"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tsumi to Batsu - Hoshi no Keishousha (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGUJ",
+      "checksums": {
+        "md5": "a0657bc99e169153fd46aeccfde748f3",
+        "sha1": "581297b9d5c3a4c33169ae0aae218c742cd9cbcf",
+        "sha256": "750c67c56762678d44260831dc15206f50b1a5589ffcd7f6aaad85beafa7d5ba",
+        "crc32": "ca2e5e49"
+      }
+    },
+    {
+      "filename": "Tsumi to Batsu - Hoshi no Keishousha (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGUJ",
+      "checksums": {
+        "md5": "3b8638452b46deba9edffbcd6cdb6966",
+        "sha1": "4c9ae28811f8688a9016d293c5f67681da53cad9",
+        "sha256": "270c1cbd1d6cfaea36f57673b0b3084d719853577cc3e2a6e3072007ab2fe3d4",
+        "crc32": "c0891399"
+      }
+    }
+  ]
+}

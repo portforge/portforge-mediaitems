@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "V-Rally Edition 99 (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0799"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "V-Rally Edition 99 (Europe) (En,Fr,De).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NVLP",
+      "checksums": {
+        "md5": "dcac12eb5832d4a489188330eb9ec387",
+        "sha1": "da3f262dfb86cff1376c9a1aa081212e5a7aad64",
+        "sha256": "d510b5ccf5a0513ce0a3776f045f7ef9a4983a07e0d00a31f0b1ae5d3eb2d4a7",
+        "crc32": "0735d7a2"
+      }
+    },
+    {
+      "filename": "V-Rally Edition 99 (Europe) (En,Fr,De).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NVLP",
+      "checksums": {
+        "md5": "2dc8fbc3f591c0e4c54710ab2b66df58",
+        "sha1": "d55b29cee570d6bd7e8b5a4f817d987a8c08b32e",
+        "crc32": "d200f779"
+      }
+    }
+  ]
+}

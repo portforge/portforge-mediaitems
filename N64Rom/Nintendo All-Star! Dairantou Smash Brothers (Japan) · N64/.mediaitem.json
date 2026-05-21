@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Nintendo All-Star! Dairantou Smash Brothers (Japan)",
+  "noIntroId": [
+    "game:0518",
+    "cloneofgame:0721"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nintendo All-Star! Dairantou Smash Brothers (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NALJ",
+      "checksums": {
+        "md5": "66db457b130d31a286a23d6e4dd9726e",
+        "sha1": "4b71f0e01878696733eefa9c80d11c147ecb4984",
+        "sha256": "527bdd5a36d6f1b90988523ac8d44276e32b44cf93f609ef6d76f399c9733f25",
+        "crc32": "04c9d3b1"
+      }
+    },
+    {
+      "filename": "Nintendo All-Star! Dairantou Smash Brothers (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NALJ",
+      "checksums": {
+        "md5": "69a4bbdabdf6806aa37044508d0775b4",
+        "sha1": "42e5bab5d8c3b3ca3582e142094b50ecc7fea5e6",
+        "crc32": "a2d1d0d1"
+      }
+    }
+  ]
+}

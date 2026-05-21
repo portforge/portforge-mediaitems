@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Cruis'n USA (USA) (Wii Virtual Console)",
+  "noIntroId": [
+    "game:0991",
+    "cloneofgame:0144"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Cruis'n USA (USA) (Wii Virtual Console).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCUE",
+      "checksums": {
+        "md5": "41ca21bd737e16ba81168982b74276f1",
+        "sha1": "273f1d6ddd48f92af49f37e88405f318a340c2cd",
+        "sha256": "0a0dac296e92ee45248598db422828bf52a2dcd81f1b379b707377b14290eedc",
+        "crc32": "8fc564f9"
+      }
+    },
+    {
+      "filename": "Cruis'n USA (USA) (Wii Virtual Console).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCUE",
+      "checksums": {
+        "md5": "e2f3ee40f103e51fdcf1c23b655f685f",
+        "sha1": "c5a0782d52b52d1d3600fa251a04d9333bf37fb0",
+        "crc32": "f9692e16"
+      }
+    }
+  ]
+}

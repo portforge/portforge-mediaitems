@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Shadow Man (Europe) (En,Es,It) (Beta)",
+  "noIntroId": [
+    "game:1311",
+    "cloneofgame:0653"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shadow Man (Europe) (En,Es,It) (Beta).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBCE",
+      "checksums": {
+        "md5": "9128a7df308bd54eb8c39dae035bffdf",
+        "sha1": "fcdbf5bd0f08f747294cc120ab558018c6f0eb2e",
+        "sha256": "725f88d57ed10c63c3f16eefcd7a6d007ad79857eefd4a790bbd2ff2b4017d46",
+        "crc32": "bccae03e"
+      }
+    },
+    {
+      "filename": "Shadow Man (Europe) (En,Es,It) (Beta).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBCE",
+      "checksums": {
+        "md5": "d8de4fe4658ff1a2ea93f217bc7f6263",
+        "sha1": "28a181c2244e97535d49930162f7d2771b809e1b",
+        "sha256": "873b3c090beefaa798eb9df9c85dd5f55c3e9a20469512ad38adf2482b899d73",
+        "crc32": "a0e5cea2"
+      }
+    }
+  ]
+}

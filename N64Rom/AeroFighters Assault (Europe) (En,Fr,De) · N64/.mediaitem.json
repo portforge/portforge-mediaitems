@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "AeroFighters Assault (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0021"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "AeroFighters Assault (Europe) (En,Fr,De).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSAP",
+      "checksums": {
+        "md5": "7558e3da7225712936d3ba3dce210c36",
+        "sha1": "f1057a278a06dcfbc7eb8b6b7679ab879255f977",
+        "sha256": "be4a5d9c32e79334ddbe1611136b6a7c31c1e41a2a1024bbc32eec6632855c4d",
+        "crc32": "6a2b08da"
+      }
+    },
+    {
+      "filename": "AeroFighters Assault (Europe) (En,Fr,De).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSAP",
+      "checksums": {
+        "md5": "35c77035bff9e20c3ee805ce5583e6b5",
+        "sha1": "7849993e61d690dece9c5524ce2831d7b2340f34",
+        "crc32": "e493e46c"
+      }
+    }
+  ]
+}

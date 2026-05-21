@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Magic & Legend - Time Knights (World) (Demo) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1266",
+    "cloneofgame:1289"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Magic & Legend - Time Knights (World) (Demo) (Aftermarket) (Unl).z64",
+      "filesize": 1250192,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "02ce2aa322a0047f5715519e06a95c55",
+        "sha1": "f18cabbfbfab013447c3941c1c9899136d235ebb",
+        "sha256": "bf7442ba61214bef5070c28dd7f4c4664272455049fd7f67a3f78cd530fcd8d6",
+        "crc32": "d8a884e4"
+      }
+    },
+    {
+      "filename": "Magic & Legend - Time Knights (World) (Demo) (Aftermarket) (Unl).v64",
+      "filesize": 1250192,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "b9d01644ba0cb6c8e3a2ef868c4917e2",
+        "sha1": "2701123e3687773d6184fcdc1a32c3b815c80449",
+        "sha256": "2b69e209a703c955cf9e982e655161bf35e49ca3b064bf1859a390e3b5130321",
+        "crc32": "112e67e6"
+      }
+    }
+  ]
+}

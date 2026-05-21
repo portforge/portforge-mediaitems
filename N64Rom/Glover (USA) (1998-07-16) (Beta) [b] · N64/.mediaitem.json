@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Glover (USA) (1998-07-16) (Beta) [b]",
+  "noIntroId": [
+    "game:0925",
+    "cloneofgame:0265"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Glover (USA) (1998-07-16) (Beta) [b].z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "d37694aa881db148ca1b9392a64cd17e",
+        "sha1": "c5a744595dcb5aaec2893147db30e9938739a02c",
+        "sha256": "8c7d05723fd3e15b6857ac3b597b78d442a02470cc7bdc2340ac340a060acc1a",
+        "crc32": "d0c97155"
+      }
+    },
+    {
+      "filename": "Glover (USA) (1998-07-16) (Beta) [b].v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "c6423a15633f40fbfb66fe12ea89f285",
+        "sha1": "11ec7d0657f47f8e2318680fddf4837b09503bd0",
+        "sha256": "579c29e56ec95c5830cffe3e19284dafb4edfad748d2c48f59403288563765c7",
+        "crc32": "3aa39724"
+      }
+    }
+  ]
+}

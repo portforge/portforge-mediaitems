@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Nuclear Strike 64 (USA) (1999-09-21) (Beta)",
+  "noIntroId": [
+    "game:1107",
+    "cloneofgame:0519"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nuclear Strike 64 (USA) (1999-09-21) (Beta).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "146e9b9f8ba71f202a89fa011fc7f2ce",
+        "sha1": "9e4867328ac65bedc3a4058d3f5a82a84898d432",
+        "sha256": "3a147d27bce3217a066c7b690a9d2c8ef7e12e226a61a72bd008d000568034ce",
+        "crc32": "a23c4e0c"
+      }
+    },
+    {
+      "filename": "Nuclear Strike 64 (USA) (1999-09-21) (Beta).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "3b2599457d7f8300e52ce5993950e8a3",
+        "sha1": "6fc403399702da65165023b6e17b2ee3314e366c",
+        "sha256": "267a949a06d2b8a1027902fe00591be690d58ef2293c59c98c76968ef7f28ca4",
+        "crc32": "176112ba"
+      }
+    }
+  ]
+}

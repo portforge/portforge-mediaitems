@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Nushi Zuri 64 (Japan)",
+  "noIntroId": [
+    "game:0522",
+    "cloneofgame:0885"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nushi Zuri 64 (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NUTJ",
+      "checksums": {
+        "md5": "50c10082d0c077fdb5658ef5a6e3f54f",
+        "sha1": "5f20d41669458e1c981292f17cd8b29032406287",
+        "sha256": "7f422da0e0b90eb7a518c73897ffd08fd8d6dfc0d50498de01d7f3fb4008b9a9",
+        "crc32": "a6800ec0"
+      }
+    },
+    {
+      "filename": "Nushi Zuri 64 (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NUTJ",
+      "checksums": {
+        "md5": "f9cde2dc7b498309879cb7ce3c10a2ea",
+        "sha1": "0c6561db721d440c1e29fabb79a53b0422ac1903",
+        "sha256": "94528d75d29bb579e934f9867bbce4d31688db40b3e89d0393ec92f8b7645ed5",
+        "crc32": "02ff4df5"
+      }
+    }
+  ]
+}

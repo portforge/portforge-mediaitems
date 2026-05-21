@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mahjong 64 (Japan)",
+  "noIntroId": [
+    "game:0401"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mahjong 64 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMJJ",
+      "checksums": {
+        "md5": "8ae2e8f0c356fee638c8d908dcbb3381",
+        "sha1": "41c73c372ff316322593b791d09934b37c461f9f",
+        "crc32": "dbe7d51a"
+      }
+    },
+    {
+      "filename": "Mahjong 64 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMJJ",
+      "checksums": {
+        "md5": "aec0d0cfd27c0771ff41870acfa83dc6",
+        "sha1": "3c9d98dfc27e9b5a8f085a2f189f42e2a77a970e",
+        "crc32": "0fb9138c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Quake II (Europe)",
+  "noIntroId": [
+    "game:0597"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Quake II (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NQ2P",
+      "checksums": {
+        "md5": "673d4ba4f41a0fe23650f06af53eec50",
+        "sha1": "f99cc966965e8fa0beb9fd768c646e6686e19916",
+        "sha256": "695ca7d96730543d3dac0fa40be7f2a1d365d48700093afd00a42cddff229445",
+        "crc32": "82beca21"
+      }
+    },
+    {
+      "filename": "Quake II (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NQ2P",
+      "checksums": {
+        "md5": "bb759ec808c3ad387b9d7c02b99decce",
+        "sha1": "03f9a512c37e1351cb701a4ee5504ba6ea7d47ab",
+        "crc32": "7098df97"
+      }
+    }
+  ]
+}

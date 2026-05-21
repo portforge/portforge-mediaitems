@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Road Rash 64 (Europe) (Beta) (1999-10-12)",
+  "noIntroId": [
+    "game:1055",
+    "cloneofgame:0622"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Road Rash 64 (Europe) (Beta) (1999-10-12).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NROP",
+      "checksums": {
+        "md5": "436f93c0d8b1650bc308ccf344c08c93",
+        "sha1": "615fed220a13096bb6fc4c5d7902c66fc5a044d7",
+        "sha256": "7d0047fe373a032756bb97468c4db59929468abf3a42b45544e31cc5cbfdbc80",
+        "crc32": "4fb98385"
+      }
+    },
+    {
+      "filename": "Road Rash 64 (Europe) (Beta) (1999-10-12).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NROP",
+      "checksums": {
+        "md5": "b2e36b8fab7f6f5abef41fbaee00d7df",
+        "sha1": "a6d6d853139a95b30bf968349e9814243796b922",
+        "sha256": "d7dfdc8a4d94b56ef8c79be54cf2ee39c0385b77afc254e8e3359297b2ca7b65",
+        "crc32": "5556e78f"
+      }
+    }
+  ]
+}

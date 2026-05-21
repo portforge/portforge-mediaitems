@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Gauntlet Legends (Europe)",
+  "noIntroId": [
+    "game:0256"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Gauntlet Legends (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGXP",
+      "checksums": {
+        "md5": "28c2108a375f7731e719333a09439d2f",
+        "sha1": "29f19e0405dca66c7383fb94104a22758a9d06dd",
+        "sha256": "344a04c993618acdbf01f8bc7283874d77ebcc78c534a49f3ac2e38ca61e38a9",
+        "crc32": "b7b3a489"
+      }
+    },
+    {
+      "filename": "Gauntlet Legends (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGXP",
+      "checksums": {
+        "md5": "fdbb62de0864236733fade8bf18f2ab8",
+        "sha1": "e659120ebde6fe00da6815d0e10360d7a0652557",
+        "crc32": "d9f765ad"
+      }
+    }
+  ]
+}

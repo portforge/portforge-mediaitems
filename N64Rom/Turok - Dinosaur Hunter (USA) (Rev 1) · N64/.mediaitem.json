@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Turok - Dinosaur Hunter (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0780",
+    "cloneofgame:0777"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Turok - Dinosaur Hunter (USA) (Rev 1).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTUE",
+      "checksums": {
+        "md5": "37260287d59fe4ec6049c1d22b5614e6",
+        "sha1": "6e67dcb49f700f01b18b7b4fd9aeb6bd911f1850",
+        "crc32": "7f2476f4"
+      }
+    },
+    {
+      "filename": "Turok - Dinosaur Hunter (USA) (Rev 1).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTUE",
+      "checksums": {
+        "md5": "331c149b6e1b6673b5369decc9a0e931",
+        "sha1": "9a2e1db319aec3eada430053fb79d150bade79ad",
+        "crc32": "f26ec081"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NBA Pro 99 (Europe)",
+  "noIntroId": [
+    "game:0492"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA Pro 99 (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB2P",
+      "checksums": {
+        "md5": "c5ebbdd41eaea8bd02cf520640ccccdf",
+        "sha1": "5decf930d859e8b834a5f897955880556ca6aadf",
+        "sha256": "765bb9b7b8f7a5660ac27459b92ef111e58ff710a88ff70599622492f0b2b96e",
+        "crc32": "588e60e8"
+      }
+    },
+    {
+      "filename": "NBA Pro 99 (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB2P",
+      "checksums": {
+        "md5": "408dd9e2ee93f8a8283a6e0c05eec781",
+        "sha1": "fb369e088766095bc6466ad09b8c94caaf9a1df5",
+        "crc32": "6ea32e08"
+      }
+    }
+  ]
+}

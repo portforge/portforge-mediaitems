@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Yoshi's Story (USA) (En,Ja)",
+  "noIntroId": [
+    "game:0873",
+    "cloneofgame:0872"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Yoshi's Story (USA) (En,Ja).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NYSE",
+      "checksums": {
+        "md5": "586a092e22604840973b82dfaceac77a",
+        "sha1": "b13072fef6c6df48c07d8822c01e5bc59036f6da",
+        "sha256": "e8a63388c38f8f0bea37e9b13a97f0898ac5496e08ca2028afb8db9a866e0ce9",
+        "crc32": "a1453e0d"
+      }
+    },
+    {
+      "filename": "Yoshi's Story (USA) (En,Ja).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NYSE",
+      "checksums": {
+        "md5": "d3436319d51df291ba71a2e512ddb7b5",
+        "sha1": "2263c34ff25cce79a51693ebba109c76f6246d01",
+        "sha256": "debc58056b30c4b59c4e079c9a06c52ccc468f8fd531cffde7dcc0123c4e7ec6",
+        "crc32": "01a4b1e9"
+      }
+    }
+  ]
+}

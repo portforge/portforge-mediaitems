@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "ShyGoy BreakOut 64 (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1320"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "ShyGoy BreakOut 64 (World) (Aftermarket) (Unl).z64",
+      "filesize": 2768896,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "b9103778f697f732950ee70f4ec87b79",
+        "sha1": "16e15012e28b3ca1b3f1130f75c7a75ed6f14557",
+        "sha256": "9a608b03345c3500adafa6040b0dc25944c2865a01acc8a9eddeb772044a4f6d",
+        "crc32": "98d53818"
+      }
+    },
+    {
+      "filename": "ShyGoy BreakOut 64 (World) (Aftermarket) (Unl).v64",
+      "filesize": 2768896,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "528734dbdfbf73b73eba35c1e1da7f8a",
+        "sha1": "b2a694808e23bc1f4ff47fae23b5302899af010d",
+        "sha256": "218c0b1ff4d6809918edab9b09bf557e69144ba534239865487f1a3158b12ce1",
+        "crc32": "e6785247"
+      }
+    }
+  ]
+}

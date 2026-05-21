@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mario Tennis (USA)",
+  "noIntroId": [
+    "game:0426",
+    "cloneofgame:0425"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Tennis (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NM8E",
+      "checksums": {
+        "md5": "759358fad1ed5ae31dcb2001a07f2fe5",
+        "sha1": "999047f07cec931ffbdcc7b33b8502ef602807ee",
+        "sha256": "6341ec31c937eddf6fab5c848470c9b7c27f43a42a494a7a1aae943eb91d90fb",
+        "crc32": "4e9560f6"
+      }
+    },
+    {
+      "filename": "Mario Tennis (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NM8E",
+      "checksums": {
+        "md5": "8dfb2fac888368660b54e390fe9042f4",
+        "sha1": "9bb2d4e8d1cc4e31bd75a588bd94eb085ff7d73e",
+        "crc32": "995c9f24"
+      }
+    }
+  ]
+}

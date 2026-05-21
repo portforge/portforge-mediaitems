@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pokemon Snap (USA)",
+  "noIntroId": [
+    "game:0568",
+    "cloneofgame:0563"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Snap (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPFE",
+      "checksums": {
+        "md5": "fc3c9329b7cdd67cf7650abf63b9a580",
+        "sha1": "edc7c49cc568c045fe48be0d18011c30f393cbaf",
+        "sha256": "a1d5d816db7f8557ee04c35a011326d058b2c1fbca76b57b352b1d705a1ec1cc",
+        "crc32": "86a69756"
+      }
+    },
+    {
+      "filename": "Pokemon Snap (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPFE",
+      "checksums": {
+        "md5": "9b10b9d70dac67ae40953148fbe9cb96",
+        "sha1": "cfa6c20848651b686761f3bd72d5d97c3b83cca9",
+        "crc32": "df387848"
+      }
+    }
+  ]
+}

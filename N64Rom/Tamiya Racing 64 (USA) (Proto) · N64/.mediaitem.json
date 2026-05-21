@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tamiya Racing 64 (USA) (Proto)",
+  "noIntroId": [
+    "game:0922",
+    "cloneofgame:0923"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tamiya Racing 64 (USA) (Proto).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "cecab8df02c02f38c9cf1bdd57b1da00",
+        "sha1": "be11aa2170fb3900379b127241161833400bf58c",
+        "crc32": "1b4c53fa"
+      }
+    },
+    {
+      "filename": "Tamiya Racing 64 (USA) (Proto).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "d5ea76923bc3c1f95cd9a6e3f7a35dee",
+        "sha1": "6d8551c846dec2a732732d988078731e047a82a5",
+        "crc32": "7ea56078"
+      }
+    }
+  ]
+}

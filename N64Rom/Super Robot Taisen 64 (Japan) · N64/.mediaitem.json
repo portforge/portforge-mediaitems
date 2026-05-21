@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Super Robot Taisen 64 (Japan)",
+  "noIntroId": [
+    "game:0719"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Robot Taisen 64 (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NS4J",
+      "checksums": {
+        "md5": "3f4b73963abc91cee59c416063efd4ae",
+        "sha1": "9883aef6e20a46e110560c505999f3e21a1897de",
+        "sha256": "ee5f4a21d8e5f7827d21199e27800edf250df9a8e4d10befb1a6992df597b13e",
+        "crc32": "85df2771"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen 64 (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NS4J",
+      "checksums": {
+        "md5": "5eea2f2cf76d8a4b397d5a01bb11c198",
+        "sha1": "5ba9e915c1494fa6d9e8b0d4d32f312469963777",
+        "sha256": "9ce831d0f0d4fbecfc43848147fc95ff07a982af226d99a0a168008ce25a8116",
+        "crc32": "70fbc3b8"
+      }
+    }
+  ]
+}

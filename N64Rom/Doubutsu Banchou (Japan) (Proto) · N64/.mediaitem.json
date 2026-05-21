@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Doubutsu Banchou (Japan) (Proto)",
+  "noIntroId": [
+    "game:1064"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Doubutsu Banchou (Japan) (Proto).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "6c329dc4cc2fc9a96475e8a30abfe735",
+        "sha1": "95a0f5f2545dd338ffee85705a360ad161c835c7",
+        "sha256": "62d3fb29147b3f7021a15f9810f4732e5e79e4ebe8a19242e6957fdf7edae38c",
+        "crc32": "6f8e3e71"
+      }
+    },
+    {
+      "filename": "Doubutsu Banchou (Japan) (Proto).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "!none",
+      "checksums": {
+        "md5": "10f29053cb1d396d4784b987ff5573ac",
+        "sha1": "15a22d0e2320d4aa3487ec57532110ea4390b849",
+        "sha256": "d4cc8c7b8a91ad37549030c5e6fea08dac1f96404444ee54bfedd03308ba044a",
+        "crc32": "7a2e1b99"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Yeti3D Pro (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1258"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Yeti3D Pro (World) (Aftermarket) (Unl).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "bd2b39dacdad7541148d3b26cdf60f1d",
+        "sha1": "424cf16381cfe814b78ab57fd54faaaf0b59b848",
+        "sha256": "33166d709bff344033aa4700f58f354912fc2ed88a295cbaa2bd409c647d271a",
+        "crc32": "5ac6e8fa"
+      }
+    },
+    {
+      "filename": "Yeti3D Pro (World) (Aftermarket) (Unl).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "2e6262f9178834b76cd4c2c362ce5dba",
+        "sha1": "df0194eb5c116c9a8815ef69b51a0248c28106c0",
+        "sha256": "6604350e5d49fced989baf873d3b472aee02fd3e0978689704dfdb4cf2207464",
+        "crc32": "9952f526"
+      }
+    }
+  ]
+}

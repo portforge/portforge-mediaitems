@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Airboarder 64 (Europe)",
+  "noIntroId": [
+    "game:0030"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Airboarder 64 (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NABP",
+      "checksums": {
+        "md5": "e8891f8f498a615a6cbaf75b7ddc9fa6",
+        "sha1": "2171fe2c0a9253cba56828f24a5e6153726c1516",
+        "sha256": "adc68241f2472aa5b4cd71f189f0b04f44d99e4d29776e831feb0ef86e6ceb79",
+        "crc32": "c14d45ac"
+      }
+    },
+    {
+      "filename": "Airboarder 64 (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NABP",
+      "checksums": {
+        "md5": "2b257f7989946666032df995273746fe",
+        "sha1": "e0a148ae2193e533947f52ba4ab029c2cd8b34d3",
+        "crc32": "92659837"
+      }
+    }
+  ]
+}

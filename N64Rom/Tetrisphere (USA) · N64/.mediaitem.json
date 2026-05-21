@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tetrisphere (USA)",
+  "noIntroId": [
+    "game:0737",
+    "cloneofgame:0736"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tetrisphere (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTPE",
+      "checksums": {
+        "md5": "3f88078e2d9dbf6c9372f6373cf9ae09",
+        "sha1": "32adaa274ceed246aeee9f53592d642a121f3bdb",
+        "sha256": "f7cbc93ac273488bfb89955ab6ae9b60c730907872107a67a56b945e8579ef87",
+        "crc32": "70a3a5ce"
+      }
+    },
+    {
+      "filename": "Tetrisphere (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTPE",
+      "checksums": {
+        "md5": "afedbba2ec96f65582229564b025bf4f",
+        "sha1": "81ffbb3912aae46bf358fe03a96a090a9997ddb0",
+        "crc32": "5db18578"
+      }
+    }
+  ]
+}

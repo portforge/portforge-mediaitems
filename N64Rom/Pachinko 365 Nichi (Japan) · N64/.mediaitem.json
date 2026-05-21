@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pachinko 365 Nichi (Japan)",
+  "noIntroId": [
+    "game:0535"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pachinko 365 Nichi (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPCJ",
+      "checksums": {
+        "md5": "d60046c23400bfebd5b051f89e7f2f07",
+        "sha1": "b8f29e8efcf51ee9a6a16e2a1e60442b4f304950",
+        "sha256": "f4af1b9a7a1612722302e7ee7c4b9bce48277c2cdaaedec56aa30b65c079311e",
+        "crc32": "42d06e32"
+      }
+    },
+    {
+      "filename": "Pachinko 365 Nichi (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPCJ",
+      "checksums": {
+        "md5": "31d86c32389108e5780e23380be13974",
+        "sha1": "a14f8b56f1f40d982e3636b328911ccc96b58bd5",
+        "sha256": "eb6c73b91649fc4b63247fa737d3acc3f222b0fcb2a9c4391e556fb992f4096f",
+        "crc32": "41363874"
+      }
+    }
+  ]
+}

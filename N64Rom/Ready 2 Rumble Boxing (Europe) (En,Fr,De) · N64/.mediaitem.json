@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0617"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Ready 2 Rumble Boxing (Europe) (En,Fr,De).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRDP",
+      "checksums": {
+        "md5": "adc95ae01855fa305b13f8b22427e597",
+        "sha1": "e18477d858c623a834f24dc2717d0ef340e63364",
+        "sha256": "2546b5f00c6f0188a31f9ba3782abe059c7dd83fcfee8ff738542eb06a4aafc3",
+        "crc32": "a69df7b3"
+      }
+    },
+    {
+      "filename": "Ready 2 Rumble Boxing (Europe) (En,Fr,De).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRDP",
+      "checksums": {
+        "md5": "f8a3d817db07d19f3c06207d2835803a",
+        "sha1": "8a2bd9ceb91bc753cbeebd4cb0d47819361e4bea",
+        "crc32": "f2fe85ad"
+      }
+    }
+  ]
+}

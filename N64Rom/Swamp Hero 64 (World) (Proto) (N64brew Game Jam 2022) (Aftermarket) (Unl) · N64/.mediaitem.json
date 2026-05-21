@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Swamp Hero 64 (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1245"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Swamp Hero 64 (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64",
+      "filesize": 1125001,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "29fa9a270a4b09eb78fc36e97ad4f9d3",
+        "sha1": "04dda1ac81bc34d6725654a3ba6c0fee7e46f883",
+        "sha256": "4e3030a9434cc441216bea60df92f2805ba04bb39b96f77c63e06427cb58f9df",
+        "crc32": "cc05b6e0"
+      }
+    },
+    {
+      "filename": "Swamp Hero 64 (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl).v64",
+      "filesize": 1125001,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "28c1c03edd6cf729e9e6f91e075bdefa",
+        "sha1": "0beded40c4a26664580c6bcb2cc2cf4f1974366d",
+        "sha256": "c53939a04a4f29e14c3b0f60ac71bc04bb640aeca66ef6f26e10ab6e3c0d378f",
+        "crc32": "9227413f"
+      }
+    }
+  ]
+}

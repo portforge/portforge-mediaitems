@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "F1 Racing Championship (USA) (Beta)",
+  "noIntroId": [
+    "game:1079",
+    "cloneofgame:0226"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "F1 Racing Championship (USA) (Beta).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMGE",
+      "checksums": {
+        "md5": "40246128052b0aa0fffc7a06a72930f2",
+        "sha1": "499dd70cb9d85f6e0c65af0e07c08fc1c0919638",
+        "sha256": "2fe66b2acd642d8557250df6c5c8b92d58e76997ea09acdca9ccba8387c305a2",
+        "crc32": "5a55b4c2"
+      }
+    },
+    {
+      "filename": "F1 Racing Championship (USA) (Beta).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMGE",
+      "checksums": {
+        "md5": "b8b8e65e68b93c4dae21e5fd7d488ffc",
+        "sha1": "1e299747b386c89827f711b91811a713d9eb1c3b",
+        "sha256": "80ec93bbf8eb50047ecfc52c67b1f2c9bff6be57f0f52a222bf1cb309446c1bc",
+        "crc32": "0fffb6bd"
+      }
+    }
+  ]
+}

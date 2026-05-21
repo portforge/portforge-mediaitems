@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Bomberman 64 (Europe)",
+  "noIntroId": [
+    "game:0087"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bomberman 64 (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBMP",
+      "checksums": {
+        "md5": "b68f49aa8f6f7499184ac6b7b8570f2b",
+        "sha1": "01e50f41733994bf229bee3b3d8aa9fd46441175",
+        "sha256": "412112a3a7dbd712c9d7420028144b47691768aa6a26846c897abae8c9a69157",
+        "crc32": "525339c5"
+      }
+    },
+    {
+      "filename": "Bomberman 64 (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBMP",
+      "checksums": {
+        "md5": "8ba9c0c53a390c55c10b76b61ecfa696",
+        "sha1": "2338fb84aa8c0a4a67e98c52da2fc7059c570509",
+        "crc32": "d3657c19"
+      }
+    }
+  ]
+}

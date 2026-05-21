@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Vigilante 8 (France)",
+  "noIntroId": [
+    "game:0803",
+    "cloneofgame:0802"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Vigilante 8 (France).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NV8F",
+      "checksums": {
+        "md5": "ff9f85c50982dbdba9853a8915321d31",
+        "sha1": "16688eac55153332d49a62696294f38d6c1afefa",
+        "sha256": "20c61c00a592b2084803fa1490af32b75bc225dd1bde3832dd2341116cf0b13e",
+        "crc32": "11d23ab3"
+      }
+    },
+    {
+      "filename": "Vigilante 8 (France).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NV8F",
+      "checksums": {
+        "md5": "acf053fbcda123346a446d5133628092",
+        "sha1": "53446583aee4c693c9a9b5ed50a4d9bae1d284b2",
+        "crc32": "c178ea87"
+      }
+    }
+  ]
+}

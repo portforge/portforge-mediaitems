@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",
+  "noIntroId": [
+    "game:0229",
+    "cloneofgame:0228"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N8IE",
+      "checksums": {
+        "md5": "2c6d146a8473511cfcfbbe8518f49d71",
+        "sha1": "148d6424d2135afefecde74092701c491027c23e",
+        "crc32": "28b1221c"
+      }
+    },
+    {
+      "filename": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N8IE",
+      "checksums": {
+        "md5": "73aedbd8ab7fe0ae842f3bd70f77adc2",
+        "sha1": "7deb782823b8d14496ce9843384281d07cc814fc",
+        "crc32": "9504b3df"
+      }
+    }
+  ]
+}

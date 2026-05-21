@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NBA Hangtime (USA)",
+  "noIntroId": [
+    "game:0476",
+    "cloneofgame:0475"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA Hangtime (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NXGE",
+      "checksums": {
+        "md5": "dc15fcbeae0f1fef7bee141d77bb25a0",
+        "sha1": "3c96741db636938f140e9592ad34e93ac25c7762",
+        "sha256": "6e1304d5bf8922a652f4063f9d26120ac8c3e9af2a5f8a4f4bc733cf003edf83",
+        "crc32": "714cf532"
+      }
+    },
+    {
+      "filename": "NBA Hangtime (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NXGE",
+      "checksums": {
+        "md5": "458170659e9f493099bc1d6fe50aa937",
+        "sha1": "2a1ef108f5345e6ca80d7f73f4ca4557e7843594",
+        "sha256": "7a9412a19c59a434328be4f3e5f731e8c8b567bc3015c892637c86e8f821edac",
+        "crc32": "72e2aca9"
+      }
+    }
+  ]
+}

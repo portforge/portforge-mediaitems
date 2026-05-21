@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Iggy's Reckin' Balls (USA)",
+  "noIntroId": [
+    "game:0305",
+    "cloneofgame:0304"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Iggy's Reckin' Balls (USA).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWBE",
+      "checksums": {
+        "md5": "464211abb602ee1005974d2d835a3bcf",
+        "sha1": "1a32230e0ef147b3c8c07ece5aec96458286b4af",
+        "crc32": "6a6fbd5d"
+      }
+    },
+    {
+      "filename": "Iggy's Reckin' Balls (USA).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWBE",
+      "checksums": {
+        "md5": "07e0d07122336dc0fc83ef1e0bcbeea0",
+        "sha1": "289a26f3a0d656ff522252caabc0e005c760faca",
+        "crc32": "5953567e"
+      }
+    }
+  ]
+}

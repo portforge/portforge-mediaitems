@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "007 - The World Is Not Enough (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0004"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "007 - The World Is Not Enough (Europe) (En,Fr,De).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NO7P",
+      "checksums": {
+        "md5": "34ab1dea3111a233a8b5c5679de22e83",
+        "sha1": "7fde668850a7e1a8402ab94bb09538a537a7e38b",
+        "sha256": "06c65f4f35c869468502f33bf7edd2d4995c9cccada6bff30fe4e8da0209c2ac",
+        "crc32": "002c3b2a"
+      }
+    },
+    {
+      "filename": "007 - The World Is Not Enough (Europe) (En,Fr,De).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NO7P",
+      "checksums": {
+        "md5": "7fdc9151f2bd8f6b6f3cba3bb93a06a2",
+        "sha1": "441bdf924566e6475aa49bab7a199dc06d32a6d5",
+        "crc32": "7f030d3a"
+      }
+    }
+  ]
+}

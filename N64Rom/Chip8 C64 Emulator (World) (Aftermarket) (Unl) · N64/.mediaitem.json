@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Chip8 C64 Emulator (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1263"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Chip8 C64 Emulator (World) (Aftermarket) (Unl).z64",
+      "filesize": 2097152,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "4975a1a8870e0f39f272e7fd20690c84",
+        "sha1": "e0f3f1654b567eebeeb4c9fa75e321db67f6388f",
+        "sha256": "eb64063042183b3b032aa24cf7b583aa0a21236389f85f5c6d9d0a467cef2e26",
+        "crc32": "dba71f11"
+      }
+    },
+    {
+      "filename": "Chip8 C64 Emulator (World) (Aftermarket) (Unl).v64",
+      "filesize": 2097152,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "d735606e6f8aca66080a4e6ec6949b73",
+        "sha1": "9784e37393dfcbcf8d43f1c3d6ac6914b3c9141b",
+        "sha256": "0fcd1f06e7b86b438dc703c9862ef27b0e3970fdcaa092205be08edb51330518",
+        "crc32": "1fc83e09"
+      }
+    }
+  ]
+}

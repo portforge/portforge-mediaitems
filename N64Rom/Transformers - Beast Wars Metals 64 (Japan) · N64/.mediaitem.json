@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Transformers - Beast Wars Metals 64 (Japan)",
+  "noIntroId": [
+    "game:0771",
+    "cloneofgame:0772"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Transformers - Beast Wars Metals 64 (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTBJ",
+      "checksums": {
+        "md5": "3d22d5bd7997293612ecdd3046beba13",
+        "sha1": "a292c7aab0092f39f1292434f3059782715863db",
+        "crc32": "338f1d45"
+      }
+    },
+    {
+      "filename": "Transformers - Beast Wars Metals 64 (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTBJ",
+      "checksums": {
+        "md5": "5a136a29c0948ed3c131728ca3bcd296",
+        "sha1": "da8e453dbbd57ac3b207b44b4621ea8897141bb6",
+        "crc32": "5e972b7d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Top Gear Overdrive (Japan)",
+  "noIntroId": [
+    "game:0759",
+    "cloneofgame:0758"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Top Gear Overdrive (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRCJ",
+      "checksums": {
+        "md5": "b5691794a851d8b603f0c741d44aa244",
+        "sha1": "be62d75c7ac1067111cd213365a9583550f897f3",
+        "crc32": "81aafc2b"
+      }
+    },
+    {
+      "filename": "Top Gear Overdrive (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRCJ",
+      "checksums": {
+        "md5": "9ac8633925efcb6ebd559a6a9b0cbd9b",
+        "sha1": "7a92260252f5e823f1b3b4adedc85908a0cadbb5",
+        "crc32": "e680b138"
+      }
+    }
+  ]
+}

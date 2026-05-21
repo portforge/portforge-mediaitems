@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0292"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHWP",
+      "checksums": {
+        "md5": "ef34da35ef8a0734843cb182c19feb26",
+        "sha1": "fbcfd6d466931e5cb71fe880c52ea692c3f84d75",
+        "sha256": "7beda0bb4ef2435aa097094c8622950d4bd34e786bdb6ae30ecd5f390875089f",
+        "crc32": "850633a7"
+      }
+    },
+    {
+      "filename": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHWP",
+      "checksums": {
+        "md5": "a42df6d45b181731707de3a01f5b9e4f",
+        "sha1": "1bf92987c5531ae213ed1d721980c61f580436fa",
+        "crc32": "ef63c780"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Milo's Astro Lanes (Europe)",
+  "noIntroId": [
+    "game:0438"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Milo's Astro Lanes (Europe).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBRP",
+      "checksums": {
+        "md5": "43b02af2789990a14f77ce020e6f135c",
+        "sha1": "77da41c16cd8989291a82159a15ce98d155916a6",
+        "sha256": "c66522df27baed11ac5caf126820bef22c92d6602b25acfc369a5bd1afe39c64",
+        "crc32": "c08ce624"
+      }
+    },
+    {
+      "filename": "Milo's Astro Lanes (Europe).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBRP",
+      "checksums": {
+        "md5": "e9092b278dfaaefd34716dc062cd9304",
+        "sha1": "5d5ab3e386b8970c3fd61e84187315c1e8297443",
+        "crc32": "165d7bc2"
+      }
+    }
+  ]
+}

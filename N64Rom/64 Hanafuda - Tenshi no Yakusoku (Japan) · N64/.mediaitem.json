@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "64 Hanafuda - Tenshi no Yakusoku (Japan)",
+  "noIntroId": [
+    "game:0010"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "64 Hanafuda - Tenshi no Yakusoku (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHFJ",
+      "checksums": {
+        "md5": "66335f4dc6ab27034398bc26f263b897",
+        "sha1": "36d1b4ef15cda8139face7e118cb34727c30bf29",
+        "sha256": "08e68047b4eed07de7a05bf50c2011b44a8de553440b99b3f4ef2c15ac94d518",
+        "crc32": "60a680e7"
+      }
+    },
+    {
+      "filename": "64 Hanafuda - Tenshi no Yakusoku (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHFJ",
+      "checksums": {
+        "md5": "f86be386603a97b805510c4d5c779e02",
+        "sha1": "17d93494401aeadad114d8db66b85e75b714473c",
+        "crc32": "2b43006c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Bio F.R.E.A.K.S. (Europe)",
+  "noIntroId": [
+    "game:0075"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bio F.R.E.A.K.S. (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBFP",
+      "checksums": {
+        "md5": "42672ba5e98cd21d7f3e3745e69038dd",
+        "sha1": "8a85ec7d68954a36569f28f6a26981d6f283fd6d",
+        "sha256": "66037309dc4d7619ff31548e3ed9bf3cd1e3d0f17e484aee87f748bf6e42ade6",
+        "crc32": "2c4eb906"
+      }
+    },
+    {
+      "filename": "Bio F.R.E.A.K.S. (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBFP",
+      "checksums": {
+        "md5": "58c15c1e507950273ae926f350c9292c",
+        "sha1": "ef5546f288b39ca628907c05f8cbaada9e895026",
+        "crc32": "3ec67ad8"
+      }
+    }
+  ]
+}

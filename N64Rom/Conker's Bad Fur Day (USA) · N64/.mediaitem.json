@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Conker's Bad Fur Day (USA)",
+  "noIntroId": [
+    "game:0142",
+    "cloneofgame:0141"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Conker's Bad Fur Day (USA).z64",
+      "filesize": 67108864,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFUE",
+      "checksums": {
+        "md5": "00e2920665f2329b95797a7eaabc2390",
+        "sha1": "4cbadd3c4e0729dec46af64ad018050eada4f47a",
+        "sha256": "32e6a8b970ec12ac5f782344945aa0c98a193832eefb687529d03bab6948714b",
+        "crc32": "ce8cc172"
+      }
+    },
+    {
+      "filename": "Conker's Bad Fur Day (USA).v64",
+      "filesize": 67108864,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFUE",
+      "checksums": {
+        "md5": "220543f489a9828021ea82a69e6305a3",
+        "sha1": "27d3123dd4a3d84cb1a7ecf2ced3bc44389f4607",
+        "crc32": "6acdb3fc"
+      }
+    }
+  ]
+}

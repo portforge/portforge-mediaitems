@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "FIFA Soccer 64 (USA) (En,Fr,De)",
+  "noIntroId": [
+    "game:0234",
+    "cloneofgame:0233"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "FIFA Soccer 64 (USA) (En,Fr,De).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "N7IE",
+      "checksums": {
+        "md5": "cc7c58a032aaba19e72ccbfa6b3eeff6",
+        "sha1": "603c5bf64497dca86c4eb802f97f1c32e75a68a8",
+        "crc32": "57de7cab"
+      }
+    },
+    {
+      "filename": "FIFA Soccer 64 (USA) (En,Fr,De).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "N7IE",
+      "checksums": {
+        "md5": "1f7ba149359b4c402e41c40fd68ec174",
+        "sha1": "a27a2ba02bb02eaac999e60e3cedd67fb937b580",
+        "crc32": "3b22f9f2"
+      }
+    }
+  ]
+}

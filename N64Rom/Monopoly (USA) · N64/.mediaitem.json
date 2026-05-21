@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Monopoly (USA)",
+  "noIntroId": [
+    "game:0450"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Monopoly (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMOE",
+      "checksums": {
+        "md5": "d51506edb0a941a00eb45850703b32cb",
+        "sha1": "fd724bdc323aa81d4873768acf789529cc1c08e5",
+        "crc32": "c8cad8f6"
+      }
+    },
+    {
+      "filename": "Monopoly (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMOE",
+      "checksums": {
+        "md5": "b0f1bc097c75f6ac50751a1f81e209d2",
+        "sha1": "99d176b45784ced5f469c64e065f6ea3e1176188",
+        "crc32": "416b1f8f"
+      }
+    }
+  ]
+}

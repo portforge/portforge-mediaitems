@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0944",
+    "cloneofgame:0767"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTHE",
+      "checksums": {
+        "md5": "cd61a7fdbd7297733b246204e8360d83",
+        "sha1": "486dbb2e6068065a7b354a21089e889de0970ec8",
+        "crc32": "c81f3321"
+      }
+    },
+    {
+      "filename": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTHE",
+      "checksums": {
+        "md5": "53bb784d56a81c59b2c0246c37f7035f",
+        "sha1": "e0cd3699fd9f5443d3dfa2333726eaea724d892d",
+        "crc32": "a11f0f8e"
+      }
+    }
+  ]
+}

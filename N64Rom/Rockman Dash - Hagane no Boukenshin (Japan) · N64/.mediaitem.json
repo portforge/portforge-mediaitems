@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Rockman Dash - Hagane no Boukenshin (Japan)",
+  "noIntroId": [
+    "game:0632",
+    "cloneofgame:0428"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Rockman Dash - Hagane no Boukenshin (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRHJ",
+      "checksums": {
+        "md5": "0c74b44680276ffe808cfa6045329819",
+        "sha1": "e807ed78db0b3440f76b445bf989a943bc05e0ad",
+        "crc32": "61eaee83"
+      }
+    },
+    {
+      "filename": "Rockman Dash - Hagane no Boukenshin (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRHJ",
+      "checksums": {
+        "md5": "530311472663f4885c387c90c8bb2fcf",
+        "sha1": "cd8c73a181a137dc8a4ac24e9f26ccc2518dc35f",
+        "crc32": "e1919c66"
+      }
+    }
+  ]
+}

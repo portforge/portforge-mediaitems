@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1207",
+    "cloneofgame:1204"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "d0da4da6aeaca000e26b86ff7b0f20cd",
+        "sha1": "95e109681f3edeea063dbe30ae6d7617f0655ae7",
+        "sha256": "55b3e2d01fc292f511281f44a063d33720775511841de041d856088733fcbf27",
+        "crc32": "75f4052f"
+      }
+    },
+    {
+      "filename": "Lunar Assault 64 (World) (v1.0) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "827833bb6ac1825a976ffcde23a6a039",
+        "sha1": "6edd977d8b0f178db3ef7c1edd8cccd6d5211e3a",
+        "sha256": "81951d365fc981b83d460a493f28a8e7c1d8361e73ee454cb84b93a5ac390eba",
+        "crc32": "fc68103f"
+      }
+    }
+  ]
+}

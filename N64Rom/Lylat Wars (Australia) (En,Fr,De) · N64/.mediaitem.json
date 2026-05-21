@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Lylat Wars (Australia) (En,Fr,De)",
+  "noIntroId": [
+    "game:0386",
+    "cloneofgame:0387"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Lylat Wars (Australia) (En,Fr,De).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFXU",
+      "checksums": {
+        "md5": "7a99628edf0a6602d0c408f31b701435",
+        "sha1": "47a8ccc11450f9044ca2292b9fc3c58949b9caac",
+        "crc32": "9a3425da"
+      }
+    },
+    {
+      "filename": "Lylat Wars (Australia) (En,Fr,De).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFXU",
+      "checksums": {
+        "md5": "a51f94ca0ce8bfe1bad0192957f0dce0",
+        "sha1": "9cbf5087d5684d3b5329630932eb2bfb29af8511",
+        "crc32": "ed1249a5"
+      }
+    }
+  ]
+}

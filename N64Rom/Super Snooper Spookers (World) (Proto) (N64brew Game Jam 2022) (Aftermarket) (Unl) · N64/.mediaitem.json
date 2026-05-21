@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Super Snooper Spookers (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1239"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Snooper Spookers (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64",
+      "filesize": 8060928,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "b52b2e09892579384f271dba78060555",
+        "sha1": "71986cd816cc075bf31766295b3edbc7aaaa9acc",
+        "sha256": "1c0e3b07f70a4a2fe24e162c8e985817b0283a8876672b3edfddf6129b1c14d4",
+        "crc32": "84d1f24f"
+      }
+    },
+    {
+      "filename": "Super Snooper Spookers (World) (Proto) (N64brew Game Jam 2022) (Aftermarket) (Unl).v64",
+      "filesize": 8060928,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "37da05f84e9402f2b336a90f58790cec",
+        "sha1": "633a6055dc7975360f387ed96502fd2e70285548",
+        "sha256": "56668a25916e75941c1cc8b16f1941d9e7955a1dbf043a5e9c90b5be75fdd007",
+        "crc32": "b85d2e66"
+      }
+    }
+  ]
+}

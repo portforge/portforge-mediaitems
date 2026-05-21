@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Scooby-Doo! - Classic Creep Capers (Europe)",
+  "noIntroId": [
+    "game:0650"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Scooby-Doo! - Classic Creep Capers (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSYP",
+      "checksums": {
+        "md5": "3b6dd7b60437234895500beff28df6d6",
+        "sha1": "fa2d39392750e160f2c41733777c64d8df1127af",
+        "sha256": "19e6b675083aa6b0c54d17f7d5b5a909e71f8d6e36eeff57f4dd143c038677f7",
+        "crc32": "0d737e6f"
+      }
+    },
+    {
+      "filename": "Scooby-Doo! - Classic Creep Capers (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSYP",
+      "checksums": {
+        "md5": "a773d245148ddc739375e3ae0d2b3852",
+        "sha1": "ad7148b91845113a10a297da25f7110eddeb8758",
+        "crc32": "81cdd595"
+      }
+    }
+  ]
+}

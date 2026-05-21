@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "SpaceStation Silicon Valley (USA)",
+  "noIntroId": [
+    "game:0683",
+    "cloneofgame:0681"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "SpaceStation Silicon Valley (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSVE",
+      "checksums": {
+        "md5": "868b37d1b66d1d994e2bad4e218bf129",
+        "sha1": "e5e09205aa743a9e5043a42df72adc379c746b0b",
+        "sha256": "b125bf0d761547ba878e44ef83f9e1ec3f400da7c46cf9a404b6caee6f9ba473",
+        "crc32": "a606e8ae"
+      }
+    },
+    {
+      "filename": "SpaceStation Silicon Valley (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSVE",
+      "checksums": {
+        "md5": "2745aaea6429880e19e605d4dce1de61",
+        "sha1": "8ae14d65342f5a1ff8d0f09251ef46e24c29ff2b",
+        "crc32": "76db1da1"
+      }
+    }
+  ]
+}

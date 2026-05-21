@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Paper Mario (USA)",
+  "noIntroId": [
+    "game:0537",
+    "cloneofgame:0536"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Paper Mario (USA).z64",
+      "filesize": 41943040,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMQE",
+      "checksums": {
+        "md5": "a722f8161ff489943191330bf8416496",
+        "sha1": "3837f44cda784b466c9a2d99df70d77c322b97a0",
+        "sha256": "9ec6d2a5c2fca81ab86312328779fd042b5f3b920bf65df9f6b87b376883cb5b",
+        "crc32": "a7f5cd7e"
+      }
+    },
+    {
+      "filename": "Paper Mario (USA).v64",
+      "filesize": 41943040,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMQE",
+      "checksums": {
+        "md5": "7de64234ee20788b9d74d2fdb3462aed",
+        "sha1": "77693a00418a9d8971b7a005f2001d997e359bff",
+        "crc32": "d56d1c89"
+      }
+    }
+  ]
+}

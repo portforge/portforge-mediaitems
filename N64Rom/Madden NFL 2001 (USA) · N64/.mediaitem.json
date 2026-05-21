@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Madden NFL 2001 (USA)",
+  "noIntroId": [
+    "game:0393"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Madden NFL 2001 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFLE",
+      "checksums": {
+        "md5": "441fa65faa5c12339f89a0bb7db43c8f",
+        "sha1": "93f5ba646098e1aa45ecec6312604a0932edd24b",
+        "crc32": "245eaee8"
+      }
+    },
+    {
+      "filename": "Madden NFL 2001 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFLE",
+      "checksums": {
+        "md5": "6b386503e10ca7494c20b6be4fc1eadf",
+        "sha1": "fba3c676a8acd733f16ddf7ef9bf95811974f9f1",
+        "crc32": "3b49ec33"
+      }
+    }
+  ]
+}

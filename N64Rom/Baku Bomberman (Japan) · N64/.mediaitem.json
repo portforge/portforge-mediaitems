@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Baku Bomberman (Japan)",
+  "noIntroId": [
+    "game:0051",
+    "cloneofgame:0087"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Baku Bomberman (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBMJ",
+      "checksums": {
+        "md5": "8183688a4b7d0a390496b5655bcd252e",
+        "sha1": "4813b147d552f72fdb0b306469bf9aa0f820fd5b",
+        "sha256": "7a36567a0a26dfdcb6f24eb454be9f9cd815cf96d6660867845e8a55434084cf",
+        "crc32": "22f54a52"
+      }
+    },
+    {
+      "filename": "Baku Bomberman (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBMJ",
+      "checksums": {
+        "md5": "59174c50bc837a9c2c4babc05193fc28",
+        "sha1": "57b5b49e61afb44a368820997706c752545c677f",
+        "crc32": "b9faa3e4"
+      }
+    }
+  ]
+}

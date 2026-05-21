@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Goemon's Great Adventure (USA)",
+  "noIntroId": [
+    "game:0268",
+    "cloneofgame:0465"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Goemon's Great Adventure (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGME",
+      "checksums": {
+        "md5": "29bc5c1a24d3979d376ad421000ac9cb",
+        "sha1": "9f9e860816f9e2a68bb5f4f56086e0c7450c64d7",
+        "crc32": "52d418e1"
+      }
+    },
+    {
+      "filename": "Goemon's Great Adventure (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGME",
+      "checksums": {
+        "md5": "b31debb9007459b0b20d7e73c189cffb",
+        "sha1": "fb5f82d315ec99e5cd1ed5edda0d2f289231851e",
+        "crc32": "e3c7a184"
+      }
+    }
+  ]
+}

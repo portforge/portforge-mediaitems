@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0920",
+    "cloneofgame:0650"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSYE",
+      "checksums": {
+        "md5": "01cd9938dae5dcdd4b264ae7f26c6d4d",
+        "sha1": "44dc4f2a148e56fe8088805cb5a860dbc3a638e2",
+        "crc32": "cdf86f5e"
+      }
+    },
+    {
+      "filename": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSYE",
+      "checksums": {
+        "md5": "9fbab8661de3a959e9a50a2395e5a310",
+        "sha1": "bbc12b280c38de870a89877809cfd5bda009aa98",
+        "crc32": "91cc1ed6"
+      }
+    }
+  ]
+}

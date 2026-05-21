@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Turok - Rage Wars (Europe)",
+  "noIntroId": [
+    "game:0783"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Turok - Rage Wars (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRWP",
+      "checksums": {
+        "md5": "dba166a42710f40dc78dc52eb37b0be6",
+        "sha1": "46b474fac79a4b21535bb6c78ce3039a2c202359",
+        "crc32": "82b1e116"
+      }
+    },
+    {
+      "filename": "Turok - Rage Wars (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRWP",
+      "checksums": {
+        "md5": "a7ae3121961623af5668e5d2671d814d",
+        "sha1": "1dcd7b6a18e395872392e8f718d8eb8ed6f5d29d",
+        "crc32": "6c391585"
+      }
+    }
+  ]
+}

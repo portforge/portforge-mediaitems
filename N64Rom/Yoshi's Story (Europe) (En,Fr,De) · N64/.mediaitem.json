@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Yoshi's Story (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0872"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Yoshi's Story (Europe) (En,Fr,De).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NYSP",
+      "checksums": {
+        "md5": "2524e5fb8ed4bb8c831c5ac057e8f344",
+        "sha1": "5b56ec1da78456f968129baddc1f233e1fb4f4f3",
+        "sha256": "19d5e75ab2ace98294b7d9c7a5e57955d5f8be8d8d188e288eb31a27555ec5dd",
+        "crc32": "f9ffc760"
+      }
+    },
+    {
+      "filename": "Yoshi's Story (Europe) (En,Fr,De).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NYSP",
+      "checksums": {
+        "md5": "6bf066bfac815fca8179280aba469554",
+        "sha1": "0a480425baecc4d4fd236275384d9ee67285e8fd",
+        "crc32": "21a5f264"
+      }
+    }
+  ]
+}

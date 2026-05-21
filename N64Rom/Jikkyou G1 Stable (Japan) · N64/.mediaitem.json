@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jikkyou G1 Stable (Japan)",
+  "noIntroId": [
+    "game:0333",
+    "cloneofgame:0894"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou G1 Stable (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGSJ",
+      "checksums": {
+        "md5": "878d8a26fd02fdb08200464cb6f566ef",
+        "sha1": "eb7b24bac29df362cab562662ae9a5de7d5fb0c3",
+        "crc32": "0a796c3e"
+      }
+    },
+    {
+      "filename": "Jikkyou G1 Stable (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGSJ",
+      "checksums": {
+        "md5": "3cfeda8e61349753835b37ef56514627",
+        "sha1": "076d1ef9af18a6456048a1699aad377aeab8772f",
+        "crc32": "97669431"
+      }
+    }
+  ]
+}

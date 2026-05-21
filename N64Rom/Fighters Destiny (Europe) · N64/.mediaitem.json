@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Fighters Destiny (Europe)",
+  "noIntroId": [
+    "game:0236"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Fighters Destiny (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKAP",
+      "checksums": {
+        "md5": "ef5cb24ce3fe4e0f850901205437b574",
+        "sha1": "2763731085a9d86d357d8fef775c2d21d3c9f2b4",
+        "crc32": "c9225511"
+      }
+    },
+    {
+      "filename": "Fighters Destiny (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKAP",
+      "checksums": {
+        "md5": "1031918eb48ce51d0ee0f457af9a4d41",
+        "sha1": "ad18a0144137ed61012363f7e810548e7ceaa934",
+        "crc32": "83f9299e"
+      }
+    }
+  ]
+}

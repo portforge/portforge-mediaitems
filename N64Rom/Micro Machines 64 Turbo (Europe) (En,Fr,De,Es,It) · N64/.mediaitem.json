@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)",
+  "noIntroId": [
+    "game:0434"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NV3P",
+      "checksums": {
+        "md5": "9a8465e302263d635557a14aa197fe3c",
+        "sha1": "e5e2d6169af2663e5519795b28bec018934e86ee",
+        "sha256": "591ace6eb8ab7c8328a16de545b3baa38230fe31f4c388c88acc94996785feb6",
+        "crc32": "10b9ff1f"
+      }
+    },
+    {
+      "filename": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NV3P",
+      "checksums": {
+        "md5": "fe6c48f7c14c518fcfc3301a135183af",
+        "sha1": "b8961f88210027ee0525623242f7ced6c139dedf",
+        "crc32": "14030ff5"
+      }
+    }
+  ]
+}

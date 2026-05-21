@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "F-Zero X (USA)",
+  "noIntroId": [
+    "game:0223",
+    "cloneofgame:0221"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "F-Zero X (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "CFZE",
+      "checksums": {
+        "md5": "753437d0d8ada1d12f3f9cf0f0a5171f",
+        "sha1": "5f658e88ffa9de23cba6986a8fd3d3a90d7b4340",
+        "sha256": "2be0f861c30752bbdfa727753a454108bc973c27ad814744f191b1278c1f482d",
+        "crc32": "0b561fba"
+      }
+    },
+    {
+      "filename": "F-Zero X (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "CFZE",
+      "checksums": {
+        "md5": "dee6ef2cbaac89846a59983e19a55348",
+        "sha1": "c322c80a676604cda4b605558b5bd8aa6f1a2060",
+        "crc32": "9408c2c1"
+      }
+    }
+  ]
+}

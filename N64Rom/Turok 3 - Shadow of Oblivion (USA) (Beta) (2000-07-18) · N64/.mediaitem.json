@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18)",
+  "noIntroId": [
+    "game:1042",
+    "cloneofgame:0793"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "ABCD",
+      "checksums": {
+        "md5": "9865a336b00e95601ed05a43a2422c23",
+        "sha1": "0bac8aa24d636f1b8e5a65a7fd95b9c282c3e495",
+        "sha256": "bd01280dd12dc579da8dbb080c79b97cedab0d535334c913b5206815eaf8d2dc",
+        "crc32": "667b553d"
+      }
+    },
+    {
+      "filename": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "ABCD",
+      "checksums": {
+        "md5": "003870de68ef6cc4f52780479e0ad0ff",
+        "sha1": "b3940cb5f2f10cb39c147f1fabf939c859d413c2",
+        "sha256": "1109d211809fa6bd70960eb6e717ec0549804a4e5ed432b3eea93e188fd7e060",
+        "crc32": "9577bc31"
+      }
+    }
+  ]
+}

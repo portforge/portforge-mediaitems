@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Space Dynamites (Japan)",
+  "noIntroId": [
+    "game:0679",
+    "cloneofgame:0156"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Space Dynamites (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDKJ",
+      "checksums": {
+        "md5": "7f9cdbbb1aaaaf0983c64988ef9c58be",
+        "sha1": "def172a1b2d17a6ebbbc0551172de4ae46b88e48",
+        "crc32": "8cb4b948"
+      }
+    },
+    {
+      "filename": "Space Dynamites (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDKJ",
+      "checksums": {
+        "md5": "2d4b1cdb5ac82e521f0aa39059b9233e",
+        "sha1": "9b0776e967cbc97f832799ca8b16535efabc1cdf",
+        "crc32": "803f78ac"
+      }
+    }
+  ]
+}

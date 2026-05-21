@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "RTL World League Soccer 2000 (Germany)",
+  "noIntroId": [
+    "game:0635",
+    "cloneofgame:0430"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "RTL World League Soccer 2000 (Germany).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWKD",
+      "checksums": {
+        "md5": "a1082a6676455c040843fd75e92de1a3",
+        "sha1": "a68294e47c82639c9bcdae1b7306ac2a2e2f47b5",
+        "sha256": "caac491eab833b97a5d1432e2670847e69d484eb3708275a59982116494956d1",
+        "crc32": "0a17da7b"
+      }
+    },
+    {
+      "filename": "RTL World League Soccer 2000 (Germany).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWKD",
+      "checksums": {
+        "md5": "bf0ad2fc5e13f2e1df15878ba82dd040",
+        "sha1": "ef2e9dbb16c798df3315a925231314e1660a2f03",
+        "crc32": "4e3c9433"
+      }
+    }
+  ]
+}

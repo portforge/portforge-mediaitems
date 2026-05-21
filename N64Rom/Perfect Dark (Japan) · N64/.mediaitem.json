@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Perfect Dark (Japan)",
+  "noIntroId": [
+    "game:0545",
+    "cloneofgame:0544"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Perfect Dark (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPDJ",
+      "checksums": {
+        "md5": "538d2b75945eae069b29c46193e74790",
+        "sha1": "99bcaaa4841b09c845e1094006df8f637862f02e",
+        "crc32": "639c0da9"
+      }
+    },
+    {
+      "filename": "Perfect Dark (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPDJ",
+      "checksums": {
+        "md5": "041b6a5025585e70ac658975f6dcbcd7",
+        "sha1": "e001af5a3069b374e0a08d1598b0833fe3128d82",
+        "crc32": "d76471db"
+      }
+    }
+  ]
+}

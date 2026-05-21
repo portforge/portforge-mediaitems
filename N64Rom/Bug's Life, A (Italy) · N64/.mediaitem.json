@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Bug's Life, A (Italy)",
+  "noIntroId": [
+    "game:0102",
+    "cloneofgame:0099"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bug's Life, A (Italy).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBYI",
+      "checksums": {
+        "md5": "e3609fd12369c464e832c6d2a4d20790",
+        "sha1": "46f9c5d7eb822b19be6910b992949def27e46887",
+        "sha256": "9e1fe3d012dbe9814e4ef36dab7c18c1a84edf9bdfb7df4d04cea2134e5f3853",
+        "crc32": "2d118764"
+      }
+    },
+    {
+      "filename": "Bug's Life, A (Italy).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBYI",
+      "checksums": {
+        "md5": "c7ffee53b085c5c8c184fc1aa0b374f7",
+        "sha1": "59564546478ae885a39b4ed77f8fb3a6e7e9bc40",
+        "crc32": "04244aac"
+      }
+    }
+  ]
+}

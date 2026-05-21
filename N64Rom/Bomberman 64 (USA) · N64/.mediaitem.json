@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Bomberman 64 (USA)",
+  "noIntroId": [
+    "game:0089",
+    "cloneofgame:0087"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bomberman 64 (USA).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBME",
+      "checksums": {
+        "md5": "093058ece14c8cc1a887b2087eb5cfe9",
+        "sha1": "8a7648d8105ac4fc1ad942291b2ef89aeca921c9",
+        "sha256": "e6da7c26127788cd894b88b71cc055ff9dec0d0f4f8e10d9b15b40153af2b52a",
+        "crc32": "3ed0e0dc"
+      }
+    },
+    {
+      "filename": "Bomberman 64 (USA).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBME",
+      "checksums": {
+        "md5": "e52ce4ab747ff37663e93e5c322be9d2",
+        "sha1": "df52caea78cc786f896cb14e532088ec9ca6bea6",
+        "crc32": "50a98bdf"
+      }
+    }
+  ]
+}

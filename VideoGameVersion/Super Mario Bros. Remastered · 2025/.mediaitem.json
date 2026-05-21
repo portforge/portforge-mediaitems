@@ -14,7 +14,7 @@
     "sortTitle": "Super Mario Bros 1"
   },
   "romDependencies": [{
-    "_itemType": "VideoGameRom",
+    "_itemType": "NESRom",
     "title": "Super Mario Bros. (Europe)",
     "formats": [{
       "filename": "Super Mario Bros. (Europe).nes",
@@ -41,7 +41,7 @@
       }
     }]
   }, {
-    "_itemType": "VideoGameRom",
+    "_itemType": "NESRom",
     "title": "Super Mario Bros. (World)",
     "formats": [{
       "filename": "Super Mario Bros. (World).nes",

@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NBA in the Zone 2000 (USA)",
+  "noIntroId": [
+    "game:0482",
+    "cloneofgame:0481"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA in the Zone 2000 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWZE",
+      "checksums": {
+        "md5": "1942833ac1a71be8bae74bbdfd6de278",
+        "sha1": "7e838c203f29336cbdaba77051ebe48d9eae798d",
+        "sha256": "20abe4f093131dd2c8ab7c694e01734faf4fd28c442a5cbb3054b0ddf42a1f3c",
+        "crc32": "cbb4b730"
+      }
+    },
+    {
+      "filename": "NBA in the Zone 2000 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWZE",
+      "checksums": {
+        "md5": "3e9f73902fd5c9af3decb26f0e045128",
+        "sha1": "681d09e327e4faaa3ea53977047be5434aba1468",
+        "sha256": "2523e89012828c8f869cfbaacea77ad7db131df9bf88f421be3b15e9d0fff6fa",
+        "crc32": "d850cfa3"
+      }
+    }
+  ]
+}

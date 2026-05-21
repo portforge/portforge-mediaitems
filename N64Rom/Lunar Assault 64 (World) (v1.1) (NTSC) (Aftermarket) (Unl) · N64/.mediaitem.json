@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1205",
+    "cloneofgame:1204"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "e8af667ec10dea3eaffa6de63a919a63",
+        "sha1": "eb9aa27dfad2a59bfa26a46ec040967db8afeb82",
+        "sha256": "77c1ad48e18688e436d66c81f8a47726b168b75a90790e579be01581e6f0e59d",
+        "crc32": "bf1de0e1"
+      }
+    },
+    {
+      "filename": "Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "25a679c611207510aecaa7239739a6bb",
+        "sha1": "92480f1023770b95bfebcfb88f344e6c8b9fc317",
+        "sha256": "793ba908fd3e5912a2ea16f625e90a108c5e1ecb97e489ebb07f9832349873ce",
+        "crc32": "16ce4e93"
+      }
+    }
+  ]
+}

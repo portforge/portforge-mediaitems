@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0461"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "MRC - Multi-Racing Championship (Europe) (En,Fr,De).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMRP",
+      "checksums": {
+        "md5": "0054b7fc0c2acbed650efe727cdba472",
+        "sha1": "6d8600a1326c39b4b80bb1d4a6500c3f0c6202a1",
+        "sha256": "7d9e4554abd1c360f9af32ff72c6be47d8f67ce3f08e1c8ffef0ea8aa70ad622",
+        "crc32": "bc966b10"
+      }
+    },
+    {
+      "filename": "MRC - Multi-Racing Championship (Europe) (En,Fr,De).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMRP",
+      "checksums": {
+        "md5": "53d95ceab72663184895663ac0c88c18",
+        "sha1": "6c00683512f99da0db25e22833b8369270a3a044",
+        "crc32": "9c7d29ec"
+      }
+    }
+  ]
+}

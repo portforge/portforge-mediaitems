@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "California Speed (Europe) (En,Fr,De,Es,It) (Proto)",
+  "noIntroId": [
+    "game:0910",
+    "cloneofgame:0108"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "California Speed (Europe) (En,Fr,De,Es,It) (Proto).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCLP",
+      "checksums": {
+        "md5": "29b79bf5812e5f9e5ecef073d59f8915",
+        "sha1": "b0ca8a5c8cbf2d18a91ac1b9df82907613bef479",
+        "sha256": "42461fe5caba754c5a669220cb8352a4907a32c0e1f93accdd1a23e2e44892ec",
+        "crc32": "d913b95f"
+      }
+    },
+    {
+      "filename": "California Speed (Europe) (En,Fr,De,Es,It) (Proto).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCLP",
+      "checksums": {
+        "md5": "a1cf997b136945e946c21b8dd1782da1",
+        "sha1": "b9244f898e302ca06c04caf5d595f3a70d65fce5",
+        "crc32": "8ef396fb"
+      }
+    }
+  ]
+}

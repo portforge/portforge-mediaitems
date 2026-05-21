@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mortal Kombat 4 (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1150",
+    "cloneofgame:0454"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mortal Kombat 4 (USA) (LodgeNet).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "08157e5657048aa90783d772d2940e1f",
+        "sha1": "535429836cfd4b6f533dd6dda540a19286613518",
+        "crc32": "ea494c11"
+      }
+    },
+    {
+      "filename": "Mortal Kombat 4 (USA) (LodgeNet).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "a282b6e6d19c2b239e2a436712bedb25",
+        "sha1": "76e5ef0945d8159acd858794948a13855903e024",
+        "crc32": "92f5fcc2"
+      }
+    }
+  ]
+}

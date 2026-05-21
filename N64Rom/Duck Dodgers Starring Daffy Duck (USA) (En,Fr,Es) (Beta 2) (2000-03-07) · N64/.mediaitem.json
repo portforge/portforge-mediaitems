@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07)",
+  "noIntroId": [
+    "game:1060",
+    "cloneofgame:0154"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "3539968f22ee1d04e64fd6697112501e",
+        "sha1": "8a8e3f304bf875a7e3651bf3a38ee50bc8d1db1a",
+        "sha256": "a7030fcc57f4fbc74ea688e292e24bba12be0b4070ec1effead1224c7e0de649",
+        "crc32": "0046b0ec"
+      }
+    },
+    {
+      "filename": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "6f032be9a4e0db9e3fdade313808ea2a",
+        "sha1": "7b0121d996679a53b084e004997785316da9bc30",
+        "sha256": "b848254fa4716ef441283a823af354319e126b69b737af1c76461e98d83fc917",
+        "crc32": "5b498529"
+      }
+    }
+  ]
+}

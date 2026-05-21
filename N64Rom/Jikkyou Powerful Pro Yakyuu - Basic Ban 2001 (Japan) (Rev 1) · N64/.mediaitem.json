@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)",
+  "noIntroId": [
+    "game:0899"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPEJ",
+      "checksums": {
+        "md5": "f13d0803885b73b4a6b35eddd40b9253",
+        "sha1": "8fc693bc19c362716cfbaa7d1ef513685bec99e0",
+        "crc32": "bc7ef5c1"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPEJ",
+      "checksums": {
+        "md5": "e3a0f97163fbdd8002e352740af78c51",
+        "sha1": "897d785332af3f7f055b23e7d848e60874003bd5",
+        "crc32": "68d57df2"
+      }
+    }
+  ]
+}

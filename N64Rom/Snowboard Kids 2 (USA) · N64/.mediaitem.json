@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Snowboard Kids 2 (USA)",
+  "noIntroId": [
+    "game:0670"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Snowboard Kids 2 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NK2E",
+      "checksums": {
+        "md5": "08e1152e9d9742e9bbf6c224b6958f2d",
+        "sha1": "5ce896fd64276948bc2b8cccd8cd51c25a9f32aa",
+        "crc32": "d0dc8a8e"
+      }
+    },
+    {
+      "filename": "Snowboard Kids 2 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NK2E",
+      "checksums": {
+        "md5": "ded8648106f16417c01b4cc68986e97b",
+        "sha1": "7a195b4d0d03ce1c7c4fd0d13b1be2e97d20000c",
+        "crc32": "ca84aace"
+      }
+    }
+  ]
+}

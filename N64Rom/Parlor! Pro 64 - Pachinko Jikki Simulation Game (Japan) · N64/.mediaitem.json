@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)",
+  "noIntroId": [
+    "game:0540"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPPJ",
+      "checksums": {
+        "md5": "0656bb43b3ec505cfa5ae5f93408db8d",
+        "sha1": "2e4e9d9087cee014cd9d3d048ae50fb22c6d50f1",
+        "sha256": "bd0a1843c934edadd92e62b7a44793b8c2ce156b6b5688ae7d644a45c2065dea",
+        "crc32": "c5dc4795"
+      }
+    },
+    {
+      "filename": "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPPJ",
+      "checksums": {
+        "md5": "0ec6d5f093e89cea5db50fc8dbfac008",
+        "sha1": "7966c3972c8782fd8344949ff5e2e7f1aec3d749",
+        "sha256": "cca0341acee4f6c0b817c36e2b753e9b4eb274b6145ffae1b8f9cf72ee16b45b",
+        "crc32": "4061bb82"
+      }
+    }
+  ]
+}

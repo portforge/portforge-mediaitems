@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pokemon Puzzle League (France) (Wii Virtual Console)",
+  "noIntroId": [
+    "game:1006",
+    "cloneofgame:0558"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Puzzle League (France) (Wii Virtual Console).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPNF",
+      "checksums": {
+        "md5": "866d401c51cc05a3188c9a2d4e7bfee5",
+        "sha1": "94742de682f1b52f3fe45c3a7235eb9bcbc4abbc",
+        "crc32": "8671137d"
+      }
+    },
+    {
+      "filename": "Pokemon Puzzle League (France) (Wii Virtual Console).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPNF",
+      "checksums": {
+        "md5": "d7183c564917ea3f3b0f25cdd9711bdb",
+        "sha1": "3799a3ba41e463ae7f7c3f7b158cd97767127bfa",
+        "crc32": "f2aed93c"
+      }
+    }
+  ]
+}

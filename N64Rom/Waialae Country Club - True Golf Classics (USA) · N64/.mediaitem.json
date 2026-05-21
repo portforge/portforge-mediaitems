@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Waialae Country Club - True Golf Classics (USA)",
+  "noIntroId": [
+    "game:0817",
+    "cloneofgame:0816"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Waialae Country Club - True Golf Classics (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWLE",
+      "checksums": {
+        "md5": "dd8154d507c88694afd69c7af16a8cd6",
+        "sha1": "f8609f518d60c87cb6a4e257633e8a1be957311c",
+        "sha256": "75532cf3a0931e848cfcf22677e2c4356fcd691d9ed5b2d0d0268777ee4aefb9",
+        "crc32": "ccab08d7"
+      }
+    },
+    {
+      "filename": "Waialae Country Club - True Golf Classics (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWLE",
+      "checksums": {
+        "md5": "ac8e0ba90cf88f77382ac450e3975343",
+        "sha1": "f0a57d923159f5940528ead63c1f34d129dca866",
+        "crc32": "cb760261"
+      }
+    }
+  ]
+}

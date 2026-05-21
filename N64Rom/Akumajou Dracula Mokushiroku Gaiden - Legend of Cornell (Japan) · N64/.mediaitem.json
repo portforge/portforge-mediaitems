@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)",
+  "noIntroId": [
+    "game:0033",
+    "cloneofgame:0115"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "ND4J",
+      "checksums": {
+        "md5": "47ea239717c4d225c9d0e9fd37b9fcb3",
+        "sha1": "50439acb5784bea3a4bbba5188c2aeaa1442099d",
+        "sha256": "51a0443883f3f94b20b6fb9a8688631c51bc7feafb143c51e48dc7198adfd1ca",
+        "crc32": "ff009c21"
+      }
+    },
+    {
+      "filename": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "ND4J",
+      "checksums": {
+        "md5": "7cb2782769f9b834b5948d316ef83cd6",
+        "sha1": "10b15a7ceb6d56720ddd7755dac6102832407110",
+        "crc32": "420ce37b"
+      }
+    }
+  ]
+}

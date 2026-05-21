@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mario Kart 64 (Japan) (Rev 1)",
+  "noIntroId": [
+    "game:0412",
+    "cloneofgame:0410"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Kart 64 (Japan) (Rev 1).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NKTJ",
+      "checksums": {
+        "md5": "60535265bae43ddfcbdb0d71594b1693",
+        "sha1": "9f439457585146a4e1da7e1dd9104f7f94381688",
+        "sha256": "ffe65c81d29a901cc6831eabf9a49aef31acbe6e55ec5b56b73d9238a00dfd8d",
+        "crc32": "6ced6472"
+      }
+    },
+    {
+      "filename": "Mario Kart 64 (Japan) (Rev 1).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NKTJ",
+      "checksums": {
+        "md5": "7c5002bf20b22caa2226a0c382974d62",
+        "sha1": "42769bc9467df9a517a88e28f9ce2b6956a7a15f",
+        "crc32": "26450aab"
+      }
+    }
+  ]
+}

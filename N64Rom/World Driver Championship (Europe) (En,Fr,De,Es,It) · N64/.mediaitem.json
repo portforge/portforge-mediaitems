@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "World Driver Championship (Europe) (En,Fr,De,Es,It)",
+  "noIntroId": [
+    "game:0853"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "World Driver Championship (Europe) (En,Fr,De,Es,It).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWOP",
+      "checksums": {
+        "md5": "431de8f6611a8131b536f0ede1f330d9",
+        "sha1": "7b054d1580cc263429eb6961ad6ed6e0140e1df0",
+        "sha256": "535c6b9430f74e36e1347f20e656eeb662af699c40a868e1d4a6bdd3c577f7d4",
+        "crc32": "76151df6"
+      }
+    },
+    {
+      "filename": "World Driver Championship (Europe) (En,Fr,De,Es,It).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWOP",
+      "checksums": {
+        "md5": "ea7663cc3bbf0ffba3671f8357515163",
+        "sha1": "dbe027955669e25e6cecafa6e07bed9890c8995c",
+        "crc32": "74fad5aa"
+      }
+    }
+  ]
+}

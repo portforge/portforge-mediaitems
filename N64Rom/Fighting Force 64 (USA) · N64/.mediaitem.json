@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Fighting Force 64 (USA)",
+  "noIntroId": [
+    "game:0242",
+    "cloneofgame:0241"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Fighting Force 64 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFFE",
+      "checksums": {
+        "md5": "e7008d17fd71d9c2bda1362c885388b2",
+        "sha1": "6b4e78201ad5c5d0bd932652f233d9732316cdc2",
+        "sha256": "951b6e3ae20fa5eed054f55e9c345b7eaa913930b330cd87e0ade373233bc417",
+        "crc32": "8456841e"
+      }
+    },
+    {
+      "filename": "Fighting Force 64 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFFE",
+      "checksums": {
+        "md5": "a47af0821704b001c3565c0c1d5afef1",
+        "sha1": "3ce2ddafaa5101d3b2f49210ab6e6976994e5fbe",
+        "sha256": "0c06fc115190842e678195f42278bbc2da4c06f21ca31b61c85796dcd7a7e610",
+        "crc32": "ade7dca4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jet Force Gemini (Europe) (En,Fr,De,Es)",
+  "noIntroId": [
+    "game:0330"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jet Force Gemini (Europe) (En,Fr,De,Es).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJFP",
+      "checksums": {
+        "md5": "baaf237e71aa7526c9b2f01c08b68a53",
+        "sha1": "50651c4e0c46332f7f0b45870263f0a8b9a49602",
+        "sha256": "0e8dce17d1df452787341e6f137d987048b6ba94459dfdfc1da815e332542d71",
+        "crc32": "cfbed88c"
+      }
+    },
+    {
+      "filename": "Jet Force Gemini (Europe) (En,Fr,De,Es).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJFP",
+      "checksums": {
+        "md5": "761a047404c6460a077ff858e0244a8f",
+        "sha1": "3085a20258f3a554839d0007cb231bc9b96875bc",
+        "crc32": "fec297ef"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1234"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64",
+      "filesize": 10485760,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "f392061d262f6aef3156d1f045c9fb18",
+        "sha1": "f3eeef0ffaa705faf092d8291e31a9469d963a5e",
+        "sha256": "d651fbf05ec8ac4cc88a28611bb4f1556acf0286575377b3e8ca89e70f1b940e",
+        "crc32": "e6a07215"
+      }
+    },
+    {
+      "filename": "Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).v64",
+      "filesize": 10485760,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "112371b52754703a4e74ac39b8d762ac",
+        "sha1": "706b2a35c1ca599bf2cf0944b701864e56e1d553",
+        "sha256": "09bfed894fcb7082112af5a3f18c6bc1b47f77ad286e81ff5424231e6f81e1fa",
+        "crc32": "9e95a2fe"
+      }
+    }
+  ]
+}

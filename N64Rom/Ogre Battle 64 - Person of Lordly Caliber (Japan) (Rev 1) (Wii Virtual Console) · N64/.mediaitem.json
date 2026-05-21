@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)",
+  "noIntroId": [
+    "game:1031",
+    "cloneofgame:0904"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).z64",
+      "filesize": 41943040,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NOBJ",
+      "checksums": {
+        "md5": "55cd360f12be8063c9e7b6f59f268170",
+        "sha1": "127b7a9fdca399494db8409a99874672ca200cb6",
+        "crc32": "991f569c"
+      }
+    },
+    {
+      "filename": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).v64",
+      "filesize": 41943040,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NOBJ",
+      "checksums": {
+        "md5": "b6ba03be49c84230a102349f65645444",
+        "sha1": "9e6b6bf1870fdea5719b7422d5f184e7f0767321",
+        "crc32": "f6b80668"
+      }
+    }
+  ]
+}

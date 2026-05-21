@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Kumi-Daiko Beatoff 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1203"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Kumi-Daiko Beatoff 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).z64",
+      "filesize": 3126896,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "8ccbdcdb66980f9d2eb9f603afec5528",
+        "sha1": "4931f1fe24080fcb2340a848d1c099b4c8e36c86",
+        "sha256": "52970a7a1cdfad5842e6cc5b845a863a4e5289a4fc106ba0ed8621eadb1ca1a3",
+        "crc32": "78e87443"
+      }
+    },
+    {
+      "filename": "Kumi-Daiko Beatoff 64 (World) (N64brew Game Jam 2020) (Aftermarket) (Unl).v64",
+      "filesize": 3126896,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "14c88beef9b1295b153b5bfbdb820002",
+        "sha1": "9bca1521124782134efa39fd8eac6de61dce4925",
+        "sha256": "012b38c1d04996bc6fc5d5ee37082d145a29740dbe6a9389ef49f00bb99240dc",
+        "crc32": "3b03797b"
+      }
+    }
+  ]
+}

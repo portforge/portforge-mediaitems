@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "WinBack (Japan)",
+  "noIntroId": [
+    "game:0846",
+    "cloneofgame:0534"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WinBack (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWDJ",
+      "checksums": {
+        "md5": "ee3d3550acc463ca57408bf14e541f68",
+        "sha1": "d6db9e2509b760403f5db330142055af842fb52c",
+        "sha256": "006b8b00d8a1bd683f4379a7331f35520680a9f4e883e30a21c8c349177a02b8",
+        "crc32": "d35360b0"
+      }
+    },
+    {
+      "filename": "WinBack (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWDJ",
+      "checksums": {
+        "md5": "6ab34e12639a776d5060b934afff2bbd",
+        "sha1": "e66e96813bb9a7d4e9c6b4ff39695adcc10b7ed5",
+        "sha256": "5b4b8e1b59ccea1f7fd0714d6268a5af0134b853adcefa84382e2498eea8e0fe",
+        "crc32": "a5364d80"
+      }
+    }
+  ]
+}

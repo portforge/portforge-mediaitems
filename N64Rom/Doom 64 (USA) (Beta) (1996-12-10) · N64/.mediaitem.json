@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Doom 64 (USA) (Beta) (1996-12-10)",
+  "noIntroId": [
+    "game:1123",
+    "cloneofgame:0177"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Doom 64 (USA) (Beta) (1996-12-10).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "31a8efffe1be68bb1186efa89d9c8896",
+        "sha1": "398c9c1fe34be41e47ab69c659fd093813692574",
+        "sha256": "4b3931c14d548fedf98fcd28681ec45695dec415d39fd4a6d58a877e1c6dd2a2",
+        "crc32": "68f7655e"
+      }
+    },
+    {
+      "filename": "Doom 64 (USA) (Beta) (1996-12-10).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "fbbfd9cd223b9b6461bba24b2734ec7e",
+        "sha1": "5c83f16272c14523626ada2721c522dbe124ddb7",
+        "sha256": "6e6ad7fa5396fbc8e36c3f6a3549a6d637c18913b83ce9f3d217d79af970a4ce",
+        "crc32": "521b7bdd"
+      }
+    }
+  ]
+}

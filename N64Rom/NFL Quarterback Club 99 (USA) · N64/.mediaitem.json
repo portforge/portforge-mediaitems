@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NFL Quarterback Club 99 (USA)",
+  "noIntroId": [
+    "game:0507",
+    "cloneofgame:0506"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NFL Quarterback Club 99 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NQ9E",
+      "checksums": {
+        "md5": "928869d1ce001b813ba908dfe18d7f94",
+        "sha1": "8dba75859d21219b3638e337991851db31b4d70e",
+        "sha256": "ddb39ce144e3aa308eae87763670aa8ae6546ca24fec5fde3e5c982c79409649",
+        "crc32": "44496b26"
+      }
+    },
+    {
+      "filename": "NFL Quarterback Club 99 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NQ9E",
+      "checksums": {
+        "md5": "86fd9dde3d248e1fa2fa0c31045ae3e2",
+        "sha1": "bb054fa24a084018995b68164560020de44c6c92",
+        "sha256": "3f4f3b4f9d21101f2cb91a670a872f3d3425071224abe7c87d83cd63cf83c2aa",
+        "crc32": "ce525bc5"
+      }
+    }
+  ]
+}

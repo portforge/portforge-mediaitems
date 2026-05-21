@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "J.League Tactics Soccer (Japan)",
+  "noIntroId": [
+    "game:0324",
+    "cloneofgame:0325"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "J.League Tactics Soccer (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSJJ",
+      "checksums": {
+        "md5": "800acc7d609ecdb3e09e68cbd05f5fa0",
+        "sha1": "853cecc41c00f1bbc9972dffb94b78bdb0dfa274",
+        "crc32": "976a2d12"
+      }
+    },
+    {
+      "filename": "J.League Tactics Soccer (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSJJ",
+      "checksums": {
+        "md5": "a6fd45acae3f889ac559a72f982643a1",
+        "sha1": "058e9ccd131199394e0d6e6f6ea04aeeb2946d59",
+        "crc32": "0b6c70ea"
+      }
+    }
+  ]
+}

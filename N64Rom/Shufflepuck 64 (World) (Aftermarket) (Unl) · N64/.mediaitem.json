@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Shufflepuck 64 (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1277"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Shufflepuck 64 (World) (Aftermarket) (Unl).z64",
+      "filesize": 3932160,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "37149c4064a1d120b9f4f5482a915262",
+        "sha1": "0cbb7d34864dadf74beb07eeee1e34761ec2d6fe",
+        "sha256": "9aa6b80298ecbd43ec902e65c777179b87b2ec5c282cd2ea85b43883bd361ea9",
+        "crc32": "dddda2c6"
+      }
+    },
+    {
+      "filename": "Shufflepuck 64 (World) (Aftermarket) (Unl).v64",
+      "filesize": 3932160,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "0683b5bd54f2d692ff4bad03c81604b6",
+        "sha1": "81df002fbaec67d4bcdc0d81d20f15bfc880c246",
+        "sha256": "8ea282f3a1997c6002f76c49471b5c84d79de0e068ecc98512c1225813e93043",
+        "crc32": "b400d2c1"
+      }
+    }
+  ]
+}

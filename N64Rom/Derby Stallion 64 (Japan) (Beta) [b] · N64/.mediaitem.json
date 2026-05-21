@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Derby Stallion 64 (Japan) (Beta) [b]",
+  "noIntroId": [
+    "game:0162",
+    "cloneofgame:0161"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Derby Stallion 64 (Japan) (Beta) [b].z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "1051e1402ee110f3c5e372c9e1c5b338",
+        "sha1": "bd03f18c456d5db90475dcf1aae2237c82d7446a",
+        "sha256": "57b9f9fc8b93f38ad222d5503d8f310f053b103f482016e344cc3cf9133c2448",
+        "crc32": "8ec950a9"
+      }
+    },
+    {
+      "filename": "Derby Stallion 64 (Japan) (Beta) [b].v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "836d85a3668e5fc577de63e411b0b8ea",
+        "sha1": "bca2db2b280261cd0e62b304ba3754a6c56351b5",
+        "crc32": "418fa479"
+      }
+    }
+  ]
+}

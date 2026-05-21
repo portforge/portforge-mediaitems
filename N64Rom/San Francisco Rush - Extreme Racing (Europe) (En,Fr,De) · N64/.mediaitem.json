@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0646"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSFP",
+      "checksums": {
+        "md5": "81b1122ee15f7b50a341ae62e9c5716b",
+        "sha1": "bc8d37e3a3b9edb4c8465ed7e477c6434c31b47d",
+        "sha256": "344a58277fd5f833b7c5dbae8c6f947fba391c2fd74e56c9604640fd68dc553b",
+        "crc32": "e064962a"
+      }
+    },
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSFP",
+      "checksums": {
+        "md5": "e35e6f54850bb6ecdbfe6e4971b419fa",
+        "sha1": "9339cce34d9eac2626ba14fa55f558bd7c827cc9",
+        "crc32": "78cd03c9"
+      }
+    }
+  ]
+}

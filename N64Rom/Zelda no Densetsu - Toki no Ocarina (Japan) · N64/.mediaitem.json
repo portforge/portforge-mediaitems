@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Zelda no Densetsu - Toki no Ocarina (Japan)",
+  "noIntroId": [
+    "game:0877",
+    "cloneofgame:0375"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Zelda no Densetsu - Toki no Ocarina (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "CZLJ",
+      "checksums": {
+        "md5": "9f04c8e68534b870f707c247fa4b50fc",
+        "sha1": "c892bbda3993e66bd0d56a10ecd30b1ee612210f",
+        "sha256": "d38fd6ff19daf05320b3c23f9adc119b017408686e12aaf32f313a7582b020af",
+        "crc32": "d423e8b0"
+      }
+    },
+    {
+      "filename": "Zelda no Densetsu - Toki no Ocarina (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "CZLJ",
+      "checksums": {
+        "md5": "7d44b555e0af3eec36319b5e76e31b0c",
+        "sha1": "f9e2b6840b9103e9707ea390089a7b6943592a98",
+        "crc32": "b58e98bb"
+      }
+    }
+  ]
+}

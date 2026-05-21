@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Dark Rift (Europe)",
+  "noIntroId": [
+    "game:0156"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Dark Rift (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDKP",
+      "checksums": {
+        "md5": "4242fde5b74f22aaf5746459e126121f",
+        "sha1": "18b02fc18411acd770bf3f25b2707669dac2ec5d",
+        "sha256": "3c528bd0671c72d1a65ae022617b481d1b7bdfad1109f5fa3c300290e3f7cd35",
+        "crc32": "d2a19c71"
+      }
+    },
+    {
+      "filename": "Dark Rift (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDKP",
+      "checksums": {
+        "md5": "b05ab4d2ceb5b9132afdb138e14b9a4c",
+        "sha1": "9c6701dd396a35649b0045c5be3dc0642c334c8c",
+        "crc32": "375d8ffe"
+      }
+    }
+  ]
+}

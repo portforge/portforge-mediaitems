@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pokemon Snap (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1154",
+    "cloneofgame:0563"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Snap (USA) (LodgeNet).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "031775e93a108f310c8242f3e7e1e8b0",
+        "sha1": "b624c57e4d9e7851b422475a200fe72a300e3b1c",
+        "crc32": "8347c9bc"
+      }
+    },
+    {
+      "filename": "Pokemon Snap (USA) (LodgeNet).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "0a6cc98d9b4d7f615009623fe79e79a6",
+        "sha1": "37819afe85f0308590d57585a986376534f8de4b",
+        "crc32": "bdbd96bd"
+      }
+    }
+  ]
+}

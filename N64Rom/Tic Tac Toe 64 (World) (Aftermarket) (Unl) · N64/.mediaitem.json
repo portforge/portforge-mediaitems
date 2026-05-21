@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tic Tac Toe 64 (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1253"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tic Tac Toe 64 (World) (Aftermarket) (Unl).z64",
+      "filesize": 1064960,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "273c65c52f38ce8ef3b9092350806fc7",
+        "sha1": "b91745ebd5bf21e4a0887e7cab702d3395605158",
+        "sha256": "232e7986e4d0268fc00fef34f869a3c8661c6d6201da9d77f8bd1748019c21ac",
+        "crc32": "af729b90"
+      }
+    },
+    {
+      "filename": "Tic Tac Toe 64 (World) (Aftermarket) (Unl).v64",
+      "filesize": 1064960,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "e011bb21546bcc29355071aa2882d6ca",
+        "sha1": "38116124d6187c76c03e7891ebc9ec88022feed9",
+        "sha256": "28121b2949159285d717c402fd8eb525e10e11c222b3b08d5c828eb9fc5f4d85",
+        "crc32": "c0b64102"
+      }
+    }
+  ]
+}

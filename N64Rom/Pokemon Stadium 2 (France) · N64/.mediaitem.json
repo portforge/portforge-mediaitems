@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pokemon Stadium 2 (France)",
+  "noIntroId": [
+    "game:0579",
+    "cloneofgame:0578"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Stadium 2 (France).z64",
+      "filesize": 67108864,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NP3F",
+      "checksums": {
+        "md5": "4748d96916ae2bcc5fc1630515ee2561",
+        "sha1": "d7e13535b671024a92822db01507e87bd42f68ec",
+        "sha256": "b661d92a94eb3c7a00cd27acc1e93d1e52299bf85a76397ee38e998a84af68ea",
+        "crc32": "e2a78066"
+      }
+    },
+    {
+      "filename": "Pokemon Stadium 2 (France).v64",
+      "filesize": 67108864,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NP3F",
+      "checksums": {
+        "md5": "e75ab876ad8cd202d0d97f0661088157",
+        "sha1": "8b7d84bfce6e1cce565e3da13d1b70ac49972b4b",
+        "crc32": "a72c55af"
+      }
+    }
+  ]
+}

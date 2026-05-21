@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Super Smash Bros. (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1159",
+    "cloneofgame:0721"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Super Smash Bros. (USA) (LodgeNet).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "bf751a6c92d113e3ebdcb2bea6a814d0",
+        "sha1": "a0aea7d219443209c6580a501601d3151c58d3ac",
+        "crc32": "1c001a5d"
+      }
+    },
+    {
+      "filename": "Super Smash Bros. (USA) (LodgeNet).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "bf33150364c52bab1e56240827602e11",
+        "sha1": "a17360a5c2d1bc9432438157475857d05854c401",
+        "crc32": "98408a90"
+      }
+    }
+  ]
+}

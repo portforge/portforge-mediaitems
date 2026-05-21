@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "All-Star Baseball 2001 (USA)",
+  "noIntroId": [
+    "game:0040"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "All-Star Baseball 2001 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NASE",
+      "checksums": {
+        "md5": "6e01b8d425ae74ef5a0f875c700a3b18",
+        "sha1": "4f1b8635322190bb3d0c6fc7d3ba844941f05574",
+        "sha256": "35313f399fd98072bd7dd22d98814bb2b5e49aadcc654b51d558b639c438f144",
+        "crc32": "4d659e85"
+      }
+    },
+    {
+      "filename": "All-Star Baseball 2001 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NASE",
+      "checksums": {
+        "md5": "d00d67475255a3043394c23b7cf978a3",
+        "sha1": "353ad679666287988a0e645851ee01eff2048449",
+        "crc32": "3e8be0e0"
+      }
+    }
+  ]
+}

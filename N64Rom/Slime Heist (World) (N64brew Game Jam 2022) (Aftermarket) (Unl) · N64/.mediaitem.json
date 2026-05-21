@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Slime Heist (World) (N64brew Game Jam 2022) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1244"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Slime Heist (World) (N64brew Game Jam 2022) (Aftermarket) (Unl).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "ad13b661bb17f357d52f7d95aff51bec",
+        "sha1": "5326cf8cecab42a61843860fedc3583612b76c40",
+        "sha256": "7cc2dbf82104cc8c3504c26dd8d290b9f7798a4666a57c414eb4e59c590ffb81",
+        "crc32": "828f1b4c"
+      }
+    },
+    {
+      "filename": "Slime Heist (World) (N64brew Game Jam 2022) (Aftermarket) (Unl).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "f89e8bc7d843685975aafd56f1822bb2",
+        "sha1": "69bf7f4b5a65a2dfc5c491799687f2fee8abe162",
+        "sha256": "6311b1c1ee70d42369006e8cbd71b100e735badcce1b539529aa3c173e10a224",
+        "crc32": "3a0bbd09"
+      }
+    }
+  ]
+}

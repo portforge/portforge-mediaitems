@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pilotwings 64 (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0551"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pilotwings 64 (Europe) (En,Fr,De).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPWP",
+      "checksums": {
+        "md5": "3fcd4969f9a080bd2bcb913ec5d7a3bd",
+        "sha1": "fa4e0a1941eea83e09ca00197569e2464d70ecb0",
+        "sha256": "afe1c8ea27446b6dcf98d8eed92338db0031edf95419bccf4c95be292166fd84",
+        "crc32": "c902e57c"
+      }
+    },
+    {
+      "filename": "Pilotwings 64 (Europe) (En,Fr,De).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPWP",
+      "checksums": {
+        "md5": "9e90e82cda1f83b2bd43b9b19f68e404",
+        "sha1": "7014b6ac0a6af8ab729e441ae9b5de08ef7b68dd",
+        "sha256": "37302ed5e4bbff05f250cf6a7d58fc3208cddfc5ba6b4c20062fc9ff99416371",
+        "crc32": "334e88bf"
+      }
+    }
+  ]
+}

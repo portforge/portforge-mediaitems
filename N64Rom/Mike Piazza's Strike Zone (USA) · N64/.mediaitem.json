@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mike Piazza's Strike Zone (USA)",
+  "noIntroId": [
+    "game:0437"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mike Piazza's Strike Zone (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMBE",
+      "checksums": {
+        "md5": "eb1908e51c8d10af8b9caf77797bfe00",
+        "sha1": "09c90701261e345c0023c55b61b37e6aaf809e57",
+        "sha256": "3ba45ed9af91bb99ac30d59bc278c872f482ed5a13a475c711c02315c187b0ca",
+        "crc32": "cc253cab"
+      }
+    },
+    {
+      "filename": "Mike Piazza's Strike Zone (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMBE",
+      "checksums": {
+        "md5": "0900c5e52c6b2196e38de6f5b8ddad9a",
+        "sha1": "d333e7c755451f244f24ac56352a0c6294406016",
+        "sha256": "f3af26cfc59f758344b5f499af7d7ca31125d571fb6837a62e06a8f827249d9d",
+        "crc32": "9042cb8e"
+      }
+    }
+  ]
+}

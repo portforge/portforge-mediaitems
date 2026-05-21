@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "NBA Showtime - NBA on NBC (USA)",
+  "noIntroId": [
+    "game:0493"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "NBA Showtime - NBA on NBC (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSOE",
+      "checksums": {
+        "md5": "881e98b47f32093c330a8b0dad6bb65d",
+        "sha1": "702d6d55fc23c56b8a57d7348d159098fff98650",
+        "crc32": "a4e378f4"
+      }
+    },
+    {
+      "filename": "NBA Showtime - NBA on NBC (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSOE",
+      "checksums": {
+        "md5": "9f62363594b50f8a2695c113e52d9485",
+        "sha1": "4857b02997b65aa86d2ada8e7364e62b5ff10356",
+        "crc32": "a9302dee"
+      }
+    }
+  ]
+}

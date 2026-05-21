@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Commander Keen in Goodbye, Galaxy (World) (2022-07-31) (Proto) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1257"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Commander Keen in Goodbye, Galaxy (World) (2022-07-31) (Proto) (Aftermarket) (Unl).z64",
+      "filesize": 1802240,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "633b7f7a984bc354782490148c597f69",
+        "sha1": "fd4da06cdce7c45ddd706defd5b8138faeabc1b3",
+        "sha256": "ab7dae2525e58d7a746f64ca2a19336a5fa7e66992981f70e1bbb3527f91a527",
+        "crc32": "d0e65a82"
+      }
+    },
+    {
+      "filename": "Commander Keen in Goodbye, Galaxy (World) (2022-07-31) (Proto) (Aftermarket) (Unl).v64",
+      "filesize": 1802240,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "deab0ce6b3e5c1ce5e1b88897de487b1",
+        "sha1": "cbc0138f94a3deabaefe860ed88dc499ef8b29f0",
+        "sha256": "5c95a1cb0f8401e5cb2907325bb33574df7bcdf5d5aaef51bf919eddecbf1cbf",
+        "crc32": "c6c486a1"
+      }
+    }
+  ]
+}

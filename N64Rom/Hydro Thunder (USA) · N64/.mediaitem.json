@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Hydro Thunder (USA)",
+  "noIntroId": [
+    "game:0301",
+    "cloneofgame:0299"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hydro Thunder (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHTE",
+      "checksums": {
+        "md5": "54f43e6b68782e98caabea5e7976b2be",
+        "sha1": "f5d5054f97da0d68857f9824130147ec38ee7a76",
+        "sha256": "41703c97b3045ab9bd414a3c36e97617c3309a7695233eddf3e5c252936bc20e",
+        "crc32": "e744456f"
+      }
+    },
+    {
+      "filename": "Hydro Thunder (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHTE",
+      "checksums": {
+        "md5": "801e1b409166f76228c3dd8dc9d286aa",
+        "sha1": "665e3d9773b0a6802814cd3e7b930cab62fc583d",
+        "sha256": "a6547e935eb5d0b6f20fd83681a8057e6680245cf2e1aae02fc396bbb02106e0",
+        "crc32": "6b78c2c8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)",
+  "noIntroId": [
+    "game:0898"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NP6J",
+      "checksums": {
+        "md5": "03bd8e5ca2b1b7d74398db4739979282",
+        "sha1": "2763b83846165221c8b80bc4430f5b55779622e3",
+        "crc32": "fcc10356"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NP6J",
+      "checksums": {
+        "md5": "a432d68fae4fde18a2e5e319faf2a2d2",
+        "sha1": "be9811a86db41f5b1f4844bc004aa34d1d4bc406",
+        "crc32": "e8d4a365"
+      }
+    }
+  ]
+}

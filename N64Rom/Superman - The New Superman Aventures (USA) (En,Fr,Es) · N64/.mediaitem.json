@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Superman - The New Superman Aventures (USA) (En,Fr,Es)",
+  "noIntroId": [
+    "game:0727",
+    "cloneofgame:0726"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Superman - The New Superman Aventures (USA) (En,Fr,Es).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSPE",
+      "checksums": {
+        "md5": "3f64b4f72e61225ef3ae93976c9bfc7c",
+        "sha1": "c271db752610c9581e1ba1e9125ea8ecdb56f74f",
+        "sha256": "37df2542bf24951e259990c4d76c13f96dd52cba867f492b3a99391d0978b178",
+        "crc32": "437e3677"
+      }
+    },
+    {
+      "filename": "Superman - The New Superman Aventures (USA) (En,Fr,Es).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSPE",
+      "checksums": {
+        "md5": "6574373d96fb836e5e0b79db0f7d10ec",
+        "sha1": "25fdc20ff0c55f6223c12058f7eab2df893ce9e4",
+        "sha256": "dd869186f8dc8ca929eaaf08234c89f1829d949499030ae9826efcecf59c8836",
+        "crc32": "f10d66f0"
+      }
+    }
+  ]
+}

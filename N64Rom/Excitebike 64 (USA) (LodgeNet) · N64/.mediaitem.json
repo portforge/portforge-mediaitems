@@ -1,0 +1,33 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Excitebike 64 (USA) (LodgeNet)",
+  "noIntroId": [
+    "game:1139",
+    "cloneofgame:0205"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Excitebike 64 (USA) (LodgeNet).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "bc34b1aabd1109593abf9cf017573201",
+        "sha1": "3a043dc4c8b1351ca56c3ab9bb061bd7fa99c312",
+        "crc32": "a1895884"
+      }
+    },
+    {
+      "filename": "Excitebike 64 (USA) (LodgeNet).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "2013daae54614c8bcdf25330dd4873f0",
+        "sha1": "28799b1c99c1298c4ea24d02f354f837860f605b",
+        "crc32": "5f860174"
+      }
+    }
+  ]
+}

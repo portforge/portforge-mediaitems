@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "GT 64 - Championship Edition (USA)",
+  "noIntroId": [
+    "game:0271",
+    "cloneofgame:0270"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "GT 64 - Championship Edition (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGCE",
+      "checksums": {
+        "md5": "fe81aa381719fada693d803bae7d5eb9",
+        "sha1": "b941246af78748f4e081f496dac0a9e2056d3d8d",
+        "crc32": "bc627da7"
+      }
+    },
+    {
+      "filename": "GT 64 - Championship Edition (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGCE",
+      "checksums": {
+        "md5": "15ae9e64114f87de8adabd5a24ca8a2f",
+        "sha1": "bbf4039865fdcf30e403a45478dc6c8450944512",
+        "crc32": "b6dc4cfd"
+      }
+    }
+  ]
+}

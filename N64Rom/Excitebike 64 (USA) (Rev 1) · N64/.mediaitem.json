@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Excitebike 64 (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0939",
+    "cloneofgame:0205"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Excitebike 64 (USA) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMXE",
+      "checksums": {
+        "md5": "21954e4e404d9e87dbdb87dd309f3e94",
+        "sha1": "c2fac422af135409c1b38569b309f9d452c81c35",
+        "sha256": "7f72526876c87423c757ffa2246eb689e4079de473c7a9f599699e6892dfe7ed",
+        "crc32": "143926ce"
+      }
+    },
+    {
+      "filename": "Excitebike 64 (USA) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMXE",
+      "checksums": {
+        "md5": "604f1e6f01aa6cf5215fa7c410f732de",
+        "sha1": "88214240204ab3c01f31c0a19d74a4eafe53c027",
+        "sha256": "f95c3109773987759f59d67d4b931d62d240c1048c499fabab6d17ad5dc902e1",
+        "crc32": "820a12db"
+      }
+    }
+  ]
+}

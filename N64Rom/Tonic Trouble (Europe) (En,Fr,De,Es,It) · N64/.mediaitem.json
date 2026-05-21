@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tonic Trouble (Europe) (En,Fr,De,Es,It)",
+  "noIntroId": [
+    "game:0747"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tonic Trouble (Europe) (En,Fr,De,Es,It).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTTP",
+      "checksums": {
+        "md5": "3d3573a855835a98de29d598c35590e0",
+        "sha1": "81909104362baeb7ae3793c08c3d138e96105bbf",
+        "sha256": "03ec2d3d3ba63bd394313589333b8d6781331bc3cca06321beddae76e747bcb6",
+        "crc32": "b4322403"
+      }
+    },
+    {
+      "filename": "Tonic Trouble (Europe) (En,Fr,De,Es,It).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTTP",
+      "checksums": {
+        "md5": "00cb176be188d983890451488755c25c",
+        "sha1": "84e6c54c9dd3f18eba2c741e5f1cfd1be04855cc",
+        "crc32": "a10b0009"
+      }
+    }
+  ]
+}

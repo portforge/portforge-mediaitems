@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Top Gear Rally (Europe)",
+  "noIntroId": [
+    "game:0761"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Top Gear Rally (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTRP",
+      "checksums": {
+        "md5": "1698508f521280d0a80e078ec981d4ac",
+        "sha1": "9fae5d98fe3464f00d59034690df90118646eb95",
+        "sha256": "a519d53ddc8481a0fcc8f92034257b86a363b9e75ae4438ac4fad6c3e018e8c3",
+        "crc32": "40b3bb21"
+      }
+    },
+    {
+      "filename": "Top Gear Rally (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTRP",
+      "checksums": {
+        "md5": "b50a5815e2fb20e90b834a571f8fd8c9",
+        "sha1": "42f8c45ace108ade7ffdcdf5d8475c2e1702954c",
+        "crc32": "83b04584"
+      }
+    }
+  ]
+}

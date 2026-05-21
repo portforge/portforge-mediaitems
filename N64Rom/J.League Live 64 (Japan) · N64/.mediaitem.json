@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "J.League Live 64 (Japan)",
+  "noIntroId": [
+    "game:0323"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "J.League Live 64 (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJLJ",
+      "checksums": {
+        "md5": "209db8333eeb526ae9a91209175348ce",
+        "sha1": "447e573eb019bf4acd48b926c89701e09198ee36",
+        "crc32": "4c536dd7"
+      }
+    },
+    {
+      "filename": "J.League Live 64 (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJLJ",
+      "checksums": {
+        "md5": "3372bcc3042d76130075c20f9f86030c",
+        "sha1": "563c4f5d0b7cbe2ec675153d52eefb2901e5b624",
+        "crc32": "8a48de94"
+      }
+    }
+  ]
+}

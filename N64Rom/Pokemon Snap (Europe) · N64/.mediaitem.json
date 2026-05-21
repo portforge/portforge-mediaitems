@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pokemon Snap (Europe)",
+  "noIntroId": [
+    "game:0563"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pokemon Snap (Europe).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPFP",
+      "checksums": {
+        "md5": "f2a8106403d2bf9350bfeab08689d54a",
+        "sha1": "d575b393812a0a59fbb52f3ce55ce4d7bc5f3225",
+        "sha256": "5fe996f65900f83376ff96cb54fcad2da40010700fe4e36cb006a59737f969f1",
+        "crc32": "f824a057"
+      }
+    },
+    {
+      "filename": "Pokemon Snap (Europe).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPFP",
+      "checksums": {
+        "md5": "d1858ecf414716fb86861862256d85ea",
+        "sha1": "85ec6f75567d5676ee7317b4f20c8ec6caca03bb",
+        "crc32": "e9100906"
+      }
+    }
+  ]
+}

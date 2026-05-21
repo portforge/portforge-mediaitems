@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Nagano Winter Olympics '98 (USA)",
+  "noIntroId": [
+    "game:0469",
+    "cloneofgame:0468"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Nagano Winter Olympics '98 (USA).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NH5E",
+      "checksums": {
+        "md5": "c17f78a103d99b21533f0c1566378ef6",
+        "sha1": "eaf543e195731031a84f4136b506449209e3a8f5",
+        "crc32": "ee8288d4"
+      }
+    },
+    {
+      "filename": "Nagano Winter Olympics '98 (USA).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NH5E",
+      "checksums": {
+        "md5": "89dbb22886a2973838b2d682a150295c",
+        "sha1": "090d652498885ccfa841c1465e4b721d090d7b39",
+        "crc32": "1f8d21fb"
+      }
+    }
+  ]
+}

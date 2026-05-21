@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "ShyGoy BreakOut 64 (World) (Demo 1) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1318",
+    "cloneofgame:1320"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "ShyGoy BreakOut 64 (World) (Demo 1) (Aftermarket) (Unl).z64",
+      "filesize": 2506752,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "c1b350ffae6d95ce16ef666ea139b454",
+        "sha1": "9e8a6493693d69fd423937b0c8bb433dc8dd5acf",
+        "sha256": "2003294629084e3092d828172376291cbc9f442966e7f4092bcd81c032112e17",
+        "crc32": "17b4dd71"
+      }
+    },
+    {
+      "filename": "ShyGoy BreakOut 64 (World) (Demo 1) (Aftermarket) (Unl).v64",
+      "filesize": 2506752,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "1a2f95d34d10beadfd86b0d51f77eba3",
+        "sha1": "694c11a68c92cb3dee61a1a83332496cfaba92eb",
+        "sha256": "5aa7f34d1a6ba1dd51bb522dfa46b6971d1fbb07bf192c82e65c3aaa75539f96",
+        "crc32": "4e3ed9d6"
+      }
+    }
+  ]
+}

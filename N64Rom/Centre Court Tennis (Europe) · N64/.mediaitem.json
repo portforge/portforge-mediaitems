@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Centre Court Tennis (Europe)",
+  "noIntroId": [
+    "game:0117"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Centre Court Tennis (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTSP",
+      "checksums": {
+        "md5": "31fb88048076ace4bd4205c5f40414ab",
+        "sha1": "c6f1251b4b7841220f670d8a0af844b34c5cfada",
+        "sha256": "872ada665b49641f97b3b6e7bb1ebbc09487d6b5fb6ab92a1e5802f5c3e669fb",
+        "crc32": "b1d26f39"
+      }
+    },
+    {
+      "filename": "Centre Court Tennis (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTSP",
+      "checksums": {
+        "md5": "fff4bf92143c5a043e25461c2baadec8",
+        "sha1": "18cc04521d0c7e9eba015b45cf7f3ab9930af28e",
+        "crc32": "2573171a"
+      }
+    }
+  ]
+}

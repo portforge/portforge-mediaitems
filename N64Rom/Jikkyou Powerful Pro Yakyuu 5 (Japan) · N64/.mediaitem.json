@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Jikkyou Powerful Pro Yakyuu 5 (Japan)",
+  "noIntroId": [
+    "game:0340",
+    "cloneofgame:0884"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 5 (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NJ5J",
+      "checksums": {
+        "md5": "e9f989e09e3f1519aefe619889a4f710",
+        "sha1": "f1bc8d2a6b03ffab7355c4e7b5fa1c393421e9f9",
+        "crc32": "feec34f6"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 5 (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NJ5J",
+      "checksums": {
+        "md5": "078319b0411390250349d4be269b9f1c",
+        "sha1": "7822e0015e716ae540e95f50c32558eaa7865174",
+        "crc32": "94fa55ff"
+      }
+    }
+  ]
+}

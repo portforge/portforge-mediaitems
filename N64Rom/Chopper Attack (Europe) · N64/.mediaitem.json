@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Chopper Attack (Europe)",
+  "noIntroId": [
+    "game:0126"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Chopper Attack (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NCHP",
+      "checksums": {
+        "md5": "8f6bed633be214cf039dbdac356231ce",
+        "sha1": "9688c388384edea0141fc66b20d6d0e5fe2d668f",
+        "sha256": "7f6f4b79dbc80843edc1f9ac67c5e936febcf2d70f93b7434d2698ad8e00b8e2",
+        "crc32": "c1dcd7ab"
+      }
+    },
+    {
+      "filename": "Chopper Attack (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NCHP",
+      "checksums": {
+        "md5": "f1cac35bc510733862a55b32642fff74",
+        "sha1": "9d0840380c468a8458a838c0ee06c4858dcd1c9a",
+        "crc32": "30ca7dbe"
+      }
+    }
+  ]
+}

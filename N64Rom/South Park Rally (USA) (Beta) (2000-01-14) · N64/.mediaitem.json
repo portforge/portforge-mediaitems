@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "South Park Rally (USA) (Beta) (2000-01-14)",
+  "noIntroId": [
+    "game:1092",
+    "cloneofgame:0677"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "South Park Rally (USA) (Beta) (2000-01-14).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSPE",
+      "checksums": {
+        "md5": "a5b3b1d07af3c0bb51091e68304cce18",
+        "sha1": "b2b1e520c69b9ade878e3f4e5863315540059a3d",
+        "sha256": "01e014810a06896be27db02f3896686e99a806a0c9da8693ea9256ab4e3a41d7",
+        "crc32": "3e3cd1e3"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Beta) (2000-01-14).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSPE",
+      "checksums": {
+        "md5": "70d9d7bdef7f42e3a4f464dbd79e3a3b",
+        "sha1": "a615c7c4269a6668999a05d3f576a5f5fc0c53bf",
+        "sha256": "cbcc8935aa183f36a04cdd7f8f0cd67eff2aa5d6ab306893a8d7a32703453c16",
+        "crc32": "a6cef958"
+      }
+    }
+  ]
+}

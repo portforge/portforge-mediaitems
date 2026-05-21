@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)",
+  "noIntroId": [
+    "game:0591"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NNRJ",
+      "checksums": {
+        "md5": "f1a2e4dd22adf4f90da4bddca37d5f18",
+        "sha1": "25bc862bfabdc972459e8ec2f4173bd5d638eff3",
+        "crc32": "35461699"
+      }
+    },
+    {
+      "filename": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NNRJ",
+      "checksums": {
+        "md5": "7b150366ec773fe9174d78d62c834b01",
+        "sha1": "7c5565519bb9041ebd25a78ca174143faf872809",
+        "crc32": "388da567"
+      }
+    }
+  ]
+}

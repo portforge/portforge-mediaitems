@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Perfect Dark (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0547",
+    "cloneofgame:0544"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Perfect Dark (USA) (Rev 1).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPDE",
+      "checksums": {
+        "md5": "e03b088b6ac9e0080440efed07c1e40f",
+        "sha1": "af8788ac4d1a57260eae9c53ffe851fcf2a3319b",
+        "sha256": "4e51142acac686d96861cecc58cf7cb7c3b06b21733b7f8ed609a709dc039a21",
+        "crc32": "4c1677f7"
+      }
+    },
+    {
+      "filename": "Perfect Dark (USA) (Rev 1).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPDE",
+      "checksums": {
+        "md5": "f267577a1faeca4c07f1bb188452ca80",
+        "sha1": "07e74d1b42aaadc6d95b171f6bd5f16e7c641284",
+        "sha256": "93a222a87b18dae8430f6a4f88885d10df86499548abe217136bde1c15227e82",
+        "crc32": "f85a16f1"
+      }
+    }
+  ]
+}

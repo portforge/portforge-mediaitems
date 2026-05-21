@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mortal Kombat 4 (USA)",
+  "noIntroId": [
+    "game:0455",
+    "cloneofgame:0454"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mortal Kombat 4 (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NM4E",
+      "checksums": {
+        "md5": "c70b91430866300ce38b49098019ef9d",
+        "sha1": "f47d05bbd1bcadddff2ec7a21bc2e795cbef9f9b",
+        "sha256": "ea908a1f790340dc34f1056c4799f7d0984048d90344607f2910d96abf036478",
+        "crc32": "b7f46516"
+      }
+    },
+    {
+      "filename": "Mortal Kombat 4 (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NM4E",
+      "checksums": {
+        "md5": "27445bfdedd5233ac56012f3331c4a41",
+        "sha1": "5fb558a40f06365a1f759b4df718623f1f3ac3df",
+        "crc32": "aa865b66"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Star Wars - Rogue Squadron (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0903",
+    "cloneofgame:0692"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Wars - Rogue Squadron (USA) (Rev 1).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRSE",
+      "checksums": {
+        "md5": "2e458d7cc355d7918493b0e0362c9a20",
+        "sha1": "c12e1c6fb47a67da463c50b705ec682ec24ae80d",
+        "crc32": "65a8fba0"
+      }
+    },
+    {
+      "filename": "Star Wars - Rogue Squadron (USA) (Rev 1).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRSE",
+      "checksums": {
+        "md5": "1822ef9f6da0ddf2b3ccc71f33d4a653",
+        "sha1": "95b9042bfe4cca5ba801fefb47ca2d7e79f4c76d",
+        "crc32": "4a479574"
+      }
+    }
+  ]
+}

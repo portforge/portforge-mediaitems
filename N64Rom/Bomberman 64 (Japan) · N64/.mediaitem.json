@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Bomberman 64 (Japan)",
+  "noIntroId": [
+    "game:0088"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bomberman 64 (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "d54fd7067bd774e32b57f9c2c0496899",
+        "sha1": "62f091b8b951238a7fb98459257ecc8a9095f6e9",
+        "sha256": "5c7fb711f3885f3d8682955e5c88e4bb47c9bfbb996d8423b6da8f1e8f8884a2",
+        "crc32": "cb9bd3f5"
+      }
+    },
+    {
+      "filename": "Bomberman 64 (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "131db6b2d06c68ab60f60000c68a16b5",
+        "sha1": "f5c9f3be1ebe19d0fa863d4a6c989c1a6cd770e6",
+        "sha256": "5ceb0b361c2384e8b6f0130975be3e2cf6dbac3b3b9bfe81619735b16400a486",
+        "crc32": "1457008a"
+      }
+    }
+  ]
+}

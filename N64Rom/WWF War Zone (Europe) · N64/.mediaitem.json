@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "WWF War Zone (Europe)",
+  "noIntroId": [
+    "game:0863"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "WWF War Zone (Europe).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NWWP",
+      "checksums": {
+        "md5": "ebc0cf55fc58845c6ee86cf8b2d87303",
+        "sha1": "808a8997aa8d717aac2a9a0c476b901338ac626e",
+        "sha256": "75539b5fa0bcb196d7dae076d9317ac21864f953b63dcb78c85e7f4fb4144501",
+        "crc32": "90a0b609"
+      }
+    },
+    {
+      "filename": "WWF War Zone (Europe).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NWWP",
+      "checksums": {
+        "md5": "2a89a8ed317f092687e4481d8a982185",
+        "sha1": "4685430fbc7bb719ea2a277c4eb8616011925546",
+        "crc32": "58062c02"
+      }
+    }
+  ]
+}

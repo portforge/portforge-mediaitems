@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "GT 64 - Championship Edition (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0270"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "GT 64 - Championship Edition (Europe) (En,Fr,De).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGCP",
+      "checksums": {
+        "md5": "628aa3cd492559b705488f634797e045",
+        "sha1": "a4d0d694f521cef69f64acaee3eb420a64f28e4d",
+        "sha256": "928e0763465ddce8109720e529d22cf34fc9567ac965ebe03917e83871e52f28",
+        "crc32": "6dfb4747"
+      }
+    },
+    {
+      "filename": "GT 64 - Championship Edition (Europe) (En,Fr,De).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGCP",
+      "checksums": {
+        "md5": "15166fa77d606d98e6ab6a238dcecd12",
+        "sha1": "a2016364dde65ec5746bab9710bd4fa72da25485",
+        "crc32": "b06d0d85"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Mario Tennis 64 (Japan) (Wii Virtual Console)",
+  "noIntroId": [
+    "game:0999",
+    "cloneofgame:0425"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Mario Tennis 64 (Japan) (Wii Virtual Console).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NM8J",
+      "checksums": {
+        "md5": "137a4e7dd0485edccb3bf598b1472d11",
+        "sha1": "c188e98c6c7f4aae5d7efa2d0d4720e08f96d9b9",
+        "crc32": "32c58af3"
+      }
+    },
+    {
+      "filename": "Mario Tennis 64 (Japan) (Wii Virtual Console).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NM8J",
+      "checksums": {
+        "md5": "744e8225e38d70cf48549b63b1deda21",
+        "sha1": "f1c4dc41c321f8e92cbd0f84e35676221892659c",
+        "crc32": "4c11fc09"
+      }
+    }
+  ]
+}

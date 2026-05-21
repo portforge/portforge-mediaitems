@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Taz Express (USA) (Proto) (2000-05-15)",
+  "noIntroId": [
+    "game:0909",
+    "cloneofgame:0733"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Taz Express (USA) (Proto) (2000-05-15).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTXE",
+      "checksums": {
+        "md5": "968815d5696961f672e253a34831bfa6",
+        "sha1": "5fbf677ce97e3dade5c030b13ebdf7dca60ac533",
+        "sha256": "1025bbcd7ea1ba795eb7a726a74c99ed38fdeed07b124d230d96ba6eca8140a6",
+        "crc32": "43fbf0b0"
+      }
+    },
+    {
+      "filename": "Taz Express (USA) (Proto) (2000-05-15).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTXE",
+      "checksums": {
+        "md5": "7c1b7239d612e5d86ba9c17f50d1be83",
+        "sha1": "af8321bba62fbb7264f5a92d641b94d10b43436d",
+        "sha256": "51af83f7866f5fdf3518c5e82a5e7fd6fef89688150f48ea7195ebf7dd99e606",
+        "crc32": "6e233cc4"
+      }
+    }
+  ]
+}

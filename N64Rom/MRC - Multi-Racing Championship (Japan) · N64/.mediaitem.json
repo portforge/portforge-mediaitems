@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "MRC - Multi-Racing Championship (Japan)",
+  "noIntroId": [
+    "game:0462",
+    "cloneofgame:0461"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "MRC - Multi-Racing Championship (Japan).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NMRJ",
+      "checksums": {
+        "md5": "8e18064a2c4b3ec15a20c3d676644b3a",
+        "sha1": "b0992a8029622df74d3165814aa40df19a14b4a4",
+        "crc32": "bea43300"
+      }
+    },
+    {
+      "filename": "MRC - Multi-Racing Championship (Japan).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NMRJ",
+      "checksums": {
+        "md5": "1b54b620b1997a21587eda8f2ff1a45e",
+        "sha1": "96b6966a12c0d3deb78a26e7273ecb5aed17d5e9",
+        "crc32": "4ca898e3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Gex 64 - Enter the Gecko (USA)",
+  "noIntroId": [
+    "game:0264",
+    "cloneofgame:0263"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Gex 64 - Enter the Gecko (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NX2E",
+      "checksums": {
+        "md5": "47f9d900c97ece154bb40a9c6dccd3fd",
+        "sha1": "16042cd0dfa5439ca436f1bf05ebfb7e9f730cda",
+        "crc32": "c545ce80"
+      }
+    },
+    {
+      "filename": "Gex 64 - Enter the Gecko (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NX2E",
+      "checksums": {
+        "md5": "a949166a1eb9592c8f46471e7aac290f",
+        "sha1": "8c10971d9052ef796973f4ce137858109a63a598",
+        "crc32": "3f90e7c2"
+      }
+    }
+  ]
+}

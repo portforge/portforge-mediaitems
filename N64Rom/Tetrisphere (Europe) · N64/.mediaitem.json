@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Tetrisphere (Europe)",
+  "noIntroId": [
+    "game:0736"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Tetrisphere (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NTPP",
+      "checksums": {
+        "md5": "765a330d5ce2dbe7120c6c8e18a1487d",
+        "sha1": "a730d8dd3b00c22f8fa4c6e74299e5cc2bbb8207",
+        "sha256": "1bb4ed1ef078560e283a4fe942972fb0297bd33d7f9e36cb673358c394176dd1",
+        "crc32": "7cb31b0f"
+      }
+    },
+    {
+      "filename": "Tetrisphere (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NTPP",
+      "checksums": {
+        "md5": "6924d91e4a544e973136d7bf65f86bc0",
+        "sha1": "4486f5bdb049f170f7525e72d14bcf61f159b0bb",
+        "crc32": "2e953131"
+      }
+    }
+  ]
+}

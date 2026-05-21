@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Voidblade (World) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1295"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Voidblade (World) (Aftermarket) (Unl).z64",
+      "filesize": 9364480,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "914434557ec1aae90281889478929571",
+        "sha1": "6639891fe5febe16b2bc2fbff50fdc8d23d4868c",
+        "sha256": "4fc116d61434a4115cd4b95d48eac72b94cc5f7f0c05d74bf763e97ac0c8d5c2",
+        "crc32": "99f29203"
+      }
+    },
+    {
+      "filename": "Voidblade (World) (Aftermarket) (Unl).v64",
+      "filesize": 9364480,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "a5baf5565911360ac2c5725686738304",
+        "sha1": "279dc750fcc5041b843a63aa11f0d2d222167c7a",
+        "sha256": "7caeaa56e26ed72173e901806f489f7d3ba0ef15a30e1b4ac6930c046e9c4f85",
+        "crc32": "3b1a6e34"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Roadsters (USA) (En,Fr,Es)",
+  "noIntroId": [
+    "game:0625",
+    "cloneofgame:0624"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Roadsters (USA) (En,Fr,Es).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NRRE",
+      "checksums": {
+        "md5": "d3644b398c090528e0ed9eb3c140366e",
+        "sha1": "d896ffcba44696bdb7e2048841f287ea5951ad2a",
+        "crc32": "e4337b92"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (En,Fr,Es).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NRRE",
+      "checksums": {
+        "md5": "49d0c8bc8ad23306b87456fb3055c5db",
+        "sha1": "e2827c55874a4883c5d969eb34944324d639af06",
+        "crc32": "f68d139e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Bust-A-Move 2 - Arcade Edition (Europe)",
+  "noIntroId": [
+    "game:0105"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Bust-A-Move 2 - Arcade Edition (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NBUP",
+      "checksums": {
+        "md5": "094f639a9ba63b2136d2887c8d72bca0",
+        "sha1": "f92a1b19c522ba6cf20a9d7883321e6e283da32f",
+        "sha256": "4536d1d05d0f8cfe84926d758e538ecbf5264debdea9dd87292141a2edbd32d0",
+        "crc32": "04731bab"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 2 - Arcade Edition (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NBUP",
+      "checksums": {
+        "md5": "066d3b1727225962db938d60642cd6bc",
+        "sha1": "275a39083567c0e4ecf334b666ee6543962fb899",
+        "crc32": "14f2cbe9"
+      }
+    }
+  ]
+}

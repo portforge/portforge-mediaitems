@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Pikachuu Genki de Chuu (Japan)",
+  "noIntroId": [
+    "game:0550",
+    "cloneofgame:0283"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Pikachuu Genki de Chuu (Japan).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NPGJ",
+      "checksums": {
+        "md5": "e0bcb2758edf0ac6ab7db36d98e1e57c",
+        "sha1": "a28c689e58f58b4a2a672d3d010436661d247476",
+        "sha256": "99eb713ed5cea0c86652f813b4e313e3080dd063722a1338bc453366bf46819b",
+        "crc32": "3f6245ae"
+      }
+    },
+    {
+      "filename": "Pikachuu Genki de Chuu (Japan).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NPGJ",
+      "checksums": {
+        "md5": "9433601ed8326f9c60a5f78050eada2e",
+        "sha1": "533ba7078e631bdcbf97776a151dbcab206fa991",
+        "crc32": "2ae884cd"
+      }
+    }
+  ]
+}

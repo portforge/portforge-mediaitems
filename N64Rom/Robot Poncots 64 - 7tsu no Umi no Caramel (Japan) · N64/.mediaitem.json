@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)",
+  "noIntroId": [
+    "game:0626"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NR7J",
+      "checksums": {
+        "md5": "444f70a655ac89ca900f6fafaf926b16",
+        "sha1": "9bc6130916d8a1d8bcec5f38fbbff066444838cd",
+        "crc32": "3b0f8061"
+      }
+    },
+    {
+      "filename": "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NR7J",
+      "checksums": {
+        "md5": "c36c2faf41e34ea2d10e178702101da3",
+        "sha1": "27bfaff7a8d2a3cef081af67a5e89290c6b59550",
+        "crc32": "49bb7dde"
+      }
+    }
+  ]
+}

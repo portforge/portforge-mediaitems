@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Donkey Kong 64 (USA)",
+  "noIntroId": [
+    "game:0175",
+    "cloneofgame:0173"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Donkey Kong 64 (USA).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NDOE",
+      "checksums": {
+        "md5": "9ec41abf2519fc386cadd0731f6e868c",
+        "sha1": "cf806ff2603640a748fca5026ded28802f1f4a50",
+        "sha256": "b6347d9f1f75d38a88d829b4f80b1acf0d93344170a5fbe9546c484dae416ce3",
+        "crc32": "d44b4fc6"
+      }
+    },
+    {
+      "filename": "Donkey Kong 64 (USA).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NDOE",
+      "checksums": {
+        "md5": "b71a88ba73e141fa2d355a6a72f46f6c",
+        "sha1": "3ead7798284c0593d8c91e09923cde03e87c6b09",
+        "sha256": "5778c9ef72ef269cdcc52333710a79961a343b1f01d12189d1dbe94df3cbabed",
+        "crc32": "96972d67"
+      }
+    }
+  ]
+}

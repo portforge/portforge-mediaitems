@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Vigilante 8 (Europe)",
+  "noIntroId": [
+    "game:0802"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Vigilante 8 (Europe).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NV8P",
+      "checksums": {
+        "md5": "df011e19f41b1b19c21f1e77e13780b7",
+        "sha1": "37603e7afba0d0ebebe64782efd135b096d4cadc",
+        "crc32": "0e9bb6d6"
+      }
+    },
+    {
+      "filename": "Vigilante 8 (Europe).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NV8P",
+      "checksums": {
+        "md5": "56fe17c8aebb21a2e625d74f66b7cbe3",
+        "sha1": "49f44e03dcc432784ed4251d4a52490f734a30a8",
+        "crc32": "959ecce7"
+      }
+    }
+  ]
+}

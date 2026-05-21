@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "PD Ultraman Battle Collection 64 (Japan)",
+  "noIntroId": [
+    "game:0541"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "PD Ultraman Battle Collection 64 (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NUBJ",
+      "checksums": {
+        "md5": "52f4f3320607f3e8dd1a16a2f1bfbdb0",
+        "sha1": "16783d9de1ff772e215f47441612d6805aa98c67",
+        "crc32": "86cc80b5"
+      }
+    },
+    {
+      "filename": "PD Ultraman Battle Collection 64 (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NUBJ",
+      "checksums": {
+        "md5": "5db16368f53664ce98024ac721b12e84",
+        "sha1": "15a646c8e612f50a767055c352a1bef59aef49e5",
+        "crc32": "ab901b83"
+      }
+    }
+  ]
+}

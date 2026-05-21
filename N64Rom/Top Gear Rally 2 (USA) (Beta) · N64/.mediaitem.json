@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Top Gear Rally 2 (USA) (Beta)",
+  "noIntroId": [
+    "game:1115",
+    "cloneofgame:0764"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Top Gear Rally 2 (USA) (Beta).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NL2E",
+      "checksums": {
+        "md5": "b468f0d00264950dd197f5f8fc7e3db7",
+        "sha1": "34c24c0cb789423c6b13da4d70832cf40f03979d",
+        "sha256": "c06049ac701f5c4d0035704b8df96b3f31e1e02e9cd084259b2166804e59a5a1",
+        "crc32": "1548e137"
+      }
+    },
+    {
+      "filename": "Top Gear Rally 2 (USA) (Beta).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NL2E",
+      "checksums": {
+        "md5": "a616435a47a9c991ab4e62493649d04d",
+        "sha1": "ce622feba9ec2b210cb9978d37c0b3504db744cc",
+        "sha256": "f701d32404aec43a157da055faf1b41e547c18d0e6d199b73979e834ed022281",
+        "crc32": "0c824eed"
+      }
+    }
+  ]
+}

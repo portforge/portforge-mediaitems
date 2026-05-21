@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)",
+  "noIntroId": [
+    "game:0993",
+    "cloneofgame:0387"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).z64",
+      "filesize": 12582912,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NFXJ",
+      "checksums": {
+        "md5": "91fc4c63ca613530df22c8bb810cb2c3",
+        "sha1": "a39f14f0d1224095717fabc021023203cb7561d5",
+        "crc32": "6508d4ad"
+      }
+    },
+    {
+      "filename": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).v64",
+      "filesize": 12582912,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NFXJ",
+      "checksums": {
+        "md5": "a6f0dedbe96d59b187cdfdf8c0585770",
+        "sha1": "eed0ce346ece0d8f6de4e1e8f4793cd8c3bd58c2",
+        "crc32": "58be093e"
+      }
+    }
+  ]
+}

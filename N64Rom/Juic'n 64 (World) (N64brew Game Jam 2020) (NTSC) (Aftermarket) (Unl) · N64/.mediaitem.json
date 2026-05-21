@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Juic'n 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1210"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Juic'n 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).z64",
+      "filesize": 4194304,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "2fd4db302515e520b13b5de7affa7a5a",
+        "sha1": "9f38df24db233567d6357f5dc1f72be3f3b524d1",
+        "sha256": "7823d7d64c790cab8129b1bfba41b555ab5efe7cddbc092884f2b1814027a5f1",
+        "crc32": "7adfe261"
+      }
+    },
+    {
+      "filename": "Juic'n 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl).v64",
+      "filesize": 4194304,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "0b92e65e67c8b3469218b468efc5091e",
+        "sha1": "59a99b9d8df6e3cccb478b2c1d75c563e36197bf",
+        "sha256": "7253185b663b44e4deb353954300fc06c4e18b482e957ed32ccd86b274aede98",
+        "crc32": "a12d7f61"
+      }
+    }
+  ]
+}

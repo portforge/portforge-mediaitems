@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Neon Genesis Evangelion (Japan)",
+  "noIntroId": [
+    "game:0494"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Neon Genesis Evangelion (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NEVJ",
+      "checksums": {
+        "md5": "5e1940ca1236a76e8f2d15de0414ae55",
+        "sha1": "a9ba0a4afeed48080f54aa237850f3676b3d9980",
+        "crc32": "a10a86af"
+      }
+    },
+    {
+      "filename": "Neon Genesis Evangelion (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NEVJ",
+      "checksums": {
+        "md5": "5e0cf74116f195913d543caed446d990",
+        "sha1": "bf10f76812ada36c304eb45ad5da794f02c560fe",
+        "crc32": "4b8b23dc"
+      }
+    }
+  ]
+}

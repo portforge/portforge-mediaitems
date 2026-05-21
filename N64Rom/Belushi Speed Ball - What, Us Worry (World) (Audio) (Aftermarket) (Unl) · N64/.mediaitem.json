@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Belushi Speed Ball - What, Us Worry (World) (Audio) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1287"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Belushi Speed Ball - What, Us Worry (World) (Audio) (Aftermarket) (Unl).z64",
+      "filesize": 53714352,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "bc912874226dac9539508180c36190d9",
+        "sha1": "96678af80f6abac0c0042a57089432b2945870b5",
+        "sha256": "16dd5302730e41ca2baf946c502ab164b0b223b3f7006720090cf6f1171124ad",
+        "crc32": "6b025e6a"
+      }
+    },
+    {
+      "filename": "Belushi Speed Ball - What, Us Worry (World) (Audio) (Aftermarket) (Unl).v64",
+      "filesize": 53714352,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "3efbd54d64d677a6a53351207b35e9e8",
+        "sha1": "a2db0cd489745c574c8fbc33e07aa404102fbcc5",
+        "sha256": "d211af9046c000e8a6edb0f8f321ee6c8c42ff780192ee39d004516eff013f18",
+        "crc32": "43606121"
+      }
+    }
+  ]
+}

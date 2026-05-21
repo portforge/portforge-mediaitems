@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Off Road Challenge (USA)",
+  "noIntroId": [
+    "game:0527",
+    "cloneofgame:0526"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Off Road Challenge (USA).z64",
+      "filesize": 16777216,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NOFE",
+      "checksums": {
+        "md5": "af7083fc0abcfd5a2c6a5e971453d831",
+        "sha1": "9e754ca37d69424e9f82a421d5e69d4ad73046c1",
+        "crc32": "1a45c5ab"
+      }
+    },
+    {
+      "filename": "Off Road Challenge (USA).v64",
+      "filesize": 16777216,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NOFE",
+      "checksums": {
+        "md5": "4ca359921b3a49dcd5bbd725656a255d",
+        "sha1": "914239aa8172c91c44280a09e34b6e7ce046ca1b",
+        "crc32": "129badcc"
+      }
+    }
+  ]
+}

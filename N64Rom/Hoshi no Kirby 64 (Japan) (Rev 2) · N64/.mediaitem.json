@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Hoshi no Kirby 64 (Japan) (Rev 2)",
+  "noIntroId": [
+    "game:0290",
+    "cloneofgame:0360"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Hoshi no Kirby 64 (Japan) (Rev 2).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NK4J",
+      "checksums": {
+        "md5": "3ec0471e2cbee17471ddbf80c56606d5",
+        "sha1": "c177f4e37eff98ef2d18fb1e94cd253fd366a218",
+        "crc32": "f4589aa8"
+      }
+    },
+    {
+      "filename": "Hoshi no Kirby 64 (Japan) (Rev 2).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NK4J",
+      "checksums": {
+        "md5": "2a710b570de57061b5afc05f7ff51069",
+        "sha1": "84e2597bc65a67e8c74e47b38614c89d42e3316f",
+        "crc32": "32d2d11e"
+      }
+    }
+  ]
+}

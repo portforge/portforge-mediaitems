@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+  "noIntroId": [
+    "game:0798"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NIRJ",
+      "checksums": {
+        "md5": "ffeb5c1a85babbbe60f2feba2b35c893",
+        "sha1": "557d2dadebea77fbc7342a881311fca5c5b35b39",
+        "sha256": "d702729e9702b3db6a6dbb5fd91767d07108d97c91b41a2dbc89cf75eba7515e",
+        "crc32": "50cbe8a6"
+      }
+    },
+    {
+      "filename": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NIRJ",
+      "checksums": {
+        "md5": "b10d16f9eed103635b8722441e8a3cf4",
+        "sha1": "9099c31fa07c8bfdd5dc94efebb9054144a1e34c",
+        "sha256": "797f4df528cc99b0b699a39577b184795d2ba304ce39c5dc8ebb6bf7c04b10f3",
+        "crc32": "cb8c642b"
+      }
+    }
+  ]
+}

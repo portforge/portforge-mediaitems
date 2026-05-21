@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+  "noIntroId": [
+    "game:0681"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NSVP",
+      "checksums": {
+        "md5": "fca7afcadcf5e5545a62919ba94dad18",
+        "sha1": "23710541bb3394072740b0f0236a7cb1a7d41531",
+        "sha256": "0b13e3a0d4c7eaeda6556fdcad9bf0e6aefad2696c827a820786bb123e9387b0",
+        "crc32": "63042e36"
+      }
+    },
+    {
+      "filename": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NSVP",
+      "checksums": {
+        "md5": "33908c5d01c0ddb1a07ffb307a81c2da",
+        "sha1": "065085d8e956e75980baed473754fe539ee843d9",
+        "crc32": "6148b598"
+      }
+    }
+  ]
+}

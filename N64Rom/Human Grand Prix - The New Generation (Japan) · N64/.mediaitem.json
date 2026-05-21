@@ -1,0 +1,35 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Human Grand Prix - The New Generation (Japan)",
+  "noIntroId": [
+    "game:0295",
+    "cloneofgame:0224"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Human Grand Prix - The New Generation (Japan).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NHGJ",
+      "checksums": {
+        "md5": "97e706ed9cc6f30708ffdc187c85d59f",
+        "sha1": "b8dfe78c7abf1e33edad0b5ecec1c9f1f3c8b576",
+        "crc32": "31e102e3"
+      }
+    },
+    {
+      "filename": "Human Grand Prix - The New Generation (Japan).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NHGJ",
+      "checksums": {
+        "md5": "b38d88b3f4c9ab2278306cf4c094c75d",
+        "sha1": "d7bc56c4ed710091bec56c3e1485adf1c533d1c5",
+        "crc32": "a3fc9aea"
+      }
+    }
+  ]
+}

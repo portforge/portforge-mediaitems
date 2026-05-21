@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Sporting Clays (World) (Demo) (Unl)",
+  "noIntroId": [
+    "game:1262"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Sporting Clays (World) (Demo) (Unl).z64",
+      "filesize": 1310720,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "515c86480a7fc1238bfe252bd2c53b36",
+        "sha1": "a6ce08e29002929cb1e14ee7d7a178d288a8b2a2",
+        "sha256": "b938e0d8b960542f3d06e857e66eab4c3999a832b52edc359be9b919f917f43f",
+        "crc32": "2471c621"
+      }
+    },
+    {
+      "filename": "Sporting Clays (World) (Demo) (Unl).v64",
+      "filesize": 1310720,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "d46aa7281f7a939019c031cf40bb8a33",
+        "sha1": "9f992a996cbced655169ba5882df97350e0a4875",
+        "sha256": "b00ffd727e3b9100f84dcaf74c0ef0eafd39a56ee721c1b7aa4c3d620e7a011d",
+        "crc32": "3284aecc"
+      }
+    }
+  ]
+}

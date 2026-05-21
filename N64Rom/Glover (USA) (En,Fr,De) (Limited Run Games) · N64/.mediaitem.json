@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Glover (USA) (En,Fr,De) (Limited Run Games)",
+  "noIntroId": [
+    "game:1182",
+    "cloneofgame:0265"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Glover (USA) (En,Fr,De) (Limited Run Games).z64",
+      "filesize": 8388608,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NGVE",
+      "checksums": {
+        "md5": "e2967f0a257f870d53af51e887c0d501",
+        "sha1": "ba11111caa12764ebb1bb83a93af4094d80018b5",
+        "sha256": "50ab53161132f657722c19e69852e69d03db0bc097732cbc245a05cd949bd822",
+        "crc32": "9fb6a52b"
+      }
+    },
+    {
+      "filename": "Glover (USA) (En,Fr,De) (Limited Run Games).v64",
+      "filesize": 8388608,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NGVE",
+      "checksums": {
+        "md5": "b020214496f802d6db53ebf96c621fc4",
+        "sha1": "7eb719a5a81c35c13a52e673a9df6e3e71c4fbb6",
+        "sha256": "5ec19947751454067b8aad5a59c48ba9b03735435c3eca4251b10339e5db1aaa",
+        "crc32": "89b2030e"
+      }
+    }
+  ]
+}

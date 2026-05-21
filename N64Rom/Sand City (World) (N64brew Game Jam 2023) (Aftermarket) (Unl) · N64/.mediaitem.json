@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Sand City (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)",
+  "noIntroId": [
+    "game:1251"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Sand City (World) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64",
+      "filesize": 56868864,
+      "format": "BigEndian",
+      "ext": "z64",
+      "checksums": {
+        "md5": "6fc90547cbfae1343ba2f91739ee3e25",
+        "sha1": "49fbe671b650129f108d105d4b5797d4ba6522f1",
+        "sha256": "7ac90c35487721ca98334d04cbc78f956b1b2c3501a5d5816c72bdba35cdce61",
+        "crc32": "6bfbd2f8"
+      }
+    },
+    {
+      "filename": "Sand City (World) (N64brew Game Jam 2023) (Aftermarket) (Unl).v64",
+      "filesize": 56868864,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "checksums": {
+        "md5": "e7e6ee38d61c123ac6f6c4b49e5dd3a5",
+        "sha1": "5b897c0742743e38a1bba03cdf6b7548b2793011",
+        "sha256": "32f840875edcb8c3fdd6612a23cb732400f4a3343f34028f9e50b77bdd19dca6",
+        "crc32": "f536f0b3"
+      }
+    }
+  ]
+}

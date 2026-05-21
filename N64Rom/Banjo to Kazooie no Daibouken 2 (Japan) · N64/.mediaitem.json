@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64Rom",
+  "title": "Banjo to Kazooie no Daibouken 2 (Japan)",
+  "noIntroId": [
+    "game:0056",
+    "cloneofgame:0061"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Banjo to Kazooie no Daibouken 2 (Japan).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NB7J",
+      "checksums": {
+        "md5": "715a8816f30fa24b8d174dc5cb6f25a9",
+        "sha1": "5a5172383037d171f121790959962703be1f373c",
+        "sha256": "0abe75ee302623440c6af4ab1f702f0874ce290865eddef09f816ed10216a54d",
+        "crc32": "258c58d0"
+      }
+    },
+    {
+      "filename": "Banjo to Kazooie no Daibouken 2 (Japan).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NB7J",
+      "checksums": {
+        "md5": "085405cfdf2cba66baf21ad07c73cdd6",
+        "sha1": "a6c8d06aa6462c1479639786eda455cd60ff6aa3",
+        "crc32": "8a3d8792"
+      }
+    }
+  ]
+}
