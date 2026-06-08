@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kid Mix Section - Character Collection (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kid Mix Section - Character Collection (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8338c9d02954904a57c722e51845d487",
+        "sha1": "548ba14b38f419cca4738c24363df64948a833ea",
+        "crc32": "5755a231"
+      }
+    },
+    {
+      "filename": "Kid Mix Section - Character Collection (Japan).bin",
+      "filesize": 317028432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38c8f90896a896c72204c311a7c2c4bc",
+        "sha1": "6a479c2c52fb61656c6f41f9ae86b53592ffa0e5",
+        "crc32": "a85bbdfd"
+      }
+    }
+  ]
+}

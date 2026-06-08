@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou (Japan) (Demo).cue",
+      "filesize": 154,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2ea74af1e4fa0829a87ad4e7fe69617a",
+        "sha1": "9c21e1f35a71a44925ee32f8be3393442e0ebf11",
+        "crc32": "90a1d9e5"
+      }
+    },
+    {
+      "filename": "Kenkaku Ibunroku - Yomigaerishi Souku no Yaiba - Samurai Spirits Shinshou (Japan) (Demo).bin",
+      "filesize": 85396416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2c65b933eced9f9f670c7a489f5c37a",
+        "sha1": "44f16ad31822ab6aeaf782219544e03e799dae74",
+        "crc32": "7c641e79"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Tokusatsu Taisen 2001 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Tokusatsu Taisen 2001 (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb9f913020b8a6868762effa2bb9bffb",
+        "sha1": "b5c6ff5683f77e2e380014965b140d819c5ee26f",
+        "crc32": "2cedf110"
+      }
+    },
+    {
+      "filename": "Super Tokusatsu Taisen 2001 (Japan).bin",
+      "filesize": 725316816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "608c98ba27d815ca3a962d9ed553ba10",
+        "sha1": "39c7c43df06328a604ee096bfa7457f2b53a0d3f",
+        "crc32": "9a05b2ac"
+      }
+    }
+  ]
+}

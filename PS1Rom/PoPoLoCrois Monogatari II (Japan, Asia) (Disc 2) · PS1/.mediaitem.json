@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "424b763995042787a91e1de169fcdc49",
+        "sha1": "ee490efddc31058a5718275dd941798958690a91",
+        "crc32": "4d3735b6"
+      }
+    },
+    {
+      "filename": "PoPoLoCrois Monogatari II (Japan, Asia) (Disc 2).bin",
+      "filesize": 732958464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fdff32b0d997d25e3fb6163f379081c",
+        "sha1": "178ed1522cca6164b13082758a2131536616baa2",
+        "crc32": "1a6795bc"
+      }
+    }
+  ]
+}

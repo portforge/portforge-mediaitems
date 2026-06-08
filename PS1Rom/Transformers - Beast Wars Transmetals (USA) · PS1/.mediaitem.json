@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Transformers - Beast Wars Transmetals (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Transformers - Beast Wars Transmetals (USA).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4876bd043f6decf5c00df95d0312ac03",
+        "sha1": "d9c99f2f2073fd3860607f203672ddf40385ff64",
+        "crc32": "0ddda03b"
+      }
+    },
+    {
+      "filename": "Transformers - Beast Wars Transmetals (USA).bin",
+      "filesize": 469830816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c231e49f0941c34b4ee5a1f3b5ce7c2f",
+        "sha1": "2cdbb0d5557be88249b7a88940874a43a213fdcd",
+        "crc32": "b767bc9f"
+      }
+    }
+  ]
+}

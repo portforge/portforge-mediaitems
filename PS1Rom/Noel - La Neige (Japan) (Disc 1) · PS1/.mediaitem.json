@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Noel - La Neige (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Noel - La Neige (Japan) (Disc 1).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c107f336f2e7e281e67138b6bb45d33",
+        "sha1": "742a3d775bde428449441df2f23021ceadbcaf22",
+        "crc32": "acda9039"
+      }
+    },
+    {
+      "filename": "Noel - La Neige (Japan) (Disc 1).bin",
+      "filesize": 490384944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03a87f2dc70431208465674d1810abd8",
+        "sha1": "73580140f927a4ea35d3636831595a2a97986157",
+        "crc32": "7c0cbe6c"
+      }
+    }
+  ]
+}

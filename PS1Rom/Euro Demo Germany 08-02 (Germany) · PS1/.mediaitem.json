@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo Germany 08-02 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo Germany 08-02 (Germany).cue",
+      "filesize": 744,
+      "ext": "cue",
+      "checksums": {
+        "md5": "26c1693f37a97b829effcd1b37ada364",
+        "sha1": "269a79dc5480ce4398a289983e12407810eefaaa",
+        "crc32": "22a45cf9"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 08-02 (Germany) (Track 1).bin",
+      "filesize": 628863648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b35ff61a950b63ee8988f00c5ce901a",
+        "sha1": "58213bc9698c8dc4bb2dc15678e74a0b67015bcd",
+        "crc32": "0d7c041c"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 08-02 (Germany) (Track 2).bin",
+      "filesize": 46341456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad24de8bbb40795d97b76a344962f58a",
+        "sha1": "7055d1042a2136e5bf7a8b93a2e9593af3ccb183",
+        "crc32": "9c5eef8e"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 08-02 (Germany) (Track 3).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13f9035c85075be444e135a05a511682",
+        "sha1": "0eb15c23dc7ae344823c73865ce9a75d5aa709e3",
+        "crc32": "0d4dae67"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 08-02 (Germany) (Track 4).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f63f0bda34cd8fd37b58e048b1e80327",
+        "sha1": "aba2f37bbf17638c8df90a9e8a51282f1a846c22",
+        "crc32": "9cd75aa3"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 08-02 (Germany) (Track 5).bin",
+      "filesize": 26619936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41bbc93e053ce06350023c13ab5b5aa8",
+        "sha1": "aeeb3dbb55c8f2102b3d0551aecfd7db71e8706e",
+        "crc32": "227a67cf"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 08-02 (Germany) (Track 6).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

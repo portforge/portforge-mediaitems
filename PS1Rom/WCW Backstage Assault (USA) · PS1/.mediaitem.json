@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WCW Backstage Assault (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WCW Backstage Assault (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "512fbb7b8509398f6d83638545bc66b4",
+        "sha1": "c1b795d7cabf3c75953f05d753793043266145bc",
+        "crc32": "ed46867e"
+      }
+    },
+    {
+      "filename": "WCW Backstage Assault (USA).bin",
+      "filesize": 702514176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00417169033f75f5d4db46a1507de218",
+        "sha1": "ee97fd8aa4c7b8c75dd9c373ef78de91a530792e",
+        "crc32": "f8b89537"
+      }
+    }
+  ]
+}

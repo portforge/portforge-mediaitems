@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shane Warne Cricket (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shane Warne Cricket (Australia).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "268ae968624ae4f1b32abb63f6734bd2",
+        "sha1": "8a265364ed9990a457830995e185d36197cc57ae",
+        "crc32": "95430f8e"
+      }
+    },
+    {
+      "filename": "Shane Warne Cricket (Australia) (Track 1).bin",
+      "filesize": 447348048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da014deaa8892c55bcf9a52d66cc95e3",
+        "sha1": "1bbf53a81c62572a7e909e003e7aacf83d1422d6",
+        "crc32": "ff0f0471"
+      }
+    },
+    {
+      "filename": "Shane Warne Cricket (Australia) (Track 2).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

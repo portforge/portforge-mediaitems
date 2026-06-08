@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Team Buddies (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Team Buddies (Europe) (En,Fr,De).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f4bea7e46f5c0e099b71a28aa0d6e099",
+        "sha1": "76bf24479ca8726c90cec539a8f86cd4a049ca30",
+        "crc32": "374b2c11"
+      }
+    },
+    {
+      "filename": "Team Buddies (Europe) (En,Fr,De).bin",
+      "filesize": 747952464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dafb8a2a9cd0f1558a57a13708c5474a",
+        "sha1": "6d41db41c1eeaf9aa65a733c2fbc0e5ad32ba5b6",
+        "crc32": "c6392f2f"
+      }
+    }
+  ]
+}

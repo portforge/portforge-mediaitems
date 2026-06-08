@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aqua Paradise (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aqua Paradise (Japan).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c953642e4e3fd19167f1b8bc1bf59df6",
+        "sha1": "bcefd3ca6aa34e7ea80e1efd5a112130fcc20146",
+        "crc32": "7ba79e0f"
+      }
+    },
+    {
+      "filename": "Aqua Paradise (Japan) (Track 1).bin",
+      "filesize": 37048704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a44313e76a4eb6d26c4d631603fecb80",
+        "sha1": "d42d7751c52027f14f2cb3223dea020a710ee308",
+        "crc32": "907bfc66"
+      }
+    },
+    {
+      "filename": "Aqua Paradise (Japan) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

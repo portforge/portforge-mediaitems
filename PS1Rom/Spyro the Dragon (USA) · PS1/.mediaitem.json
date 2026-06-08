@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro the Dragon (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro the Dragon (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d78ba7f6542ddf768ece027d32c79e3",
+        "sha1": "6abdbc5a00bcb521528825fb7cb6bfebd99a7a91",
+        "crc32": "639d58e5"
+      }
+    },
+    {
+      "filename": "Spyro the Dragon (USA).bin",
+      "filesize": 661547040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "387185f71cd0043fd75a19521dc75104",
+        "sha1": "cf3ce6bedeb89dfbc40990336180f3b9b0f40d9f",
+        "crc32": "d5e11056"
+      }
+    }
+  ]
+}

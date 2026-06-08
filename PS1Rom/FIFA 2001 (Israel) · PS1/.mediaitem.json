@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 2001 (Israel)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 2001 (Israel).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d51d2503691ef254cccb64e0f966f74",
+        "sha1": "144b66aa54720aeff996f9b8065db6abab3c1061",
+        "crc32": "17d2ec71"
+      }
+    },
+    {
+      "filename": "FIFA 2001 (Israel).bin",
+      "filesize": 608424768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e99eb0a44cc6be3a186bdf8d359fb51",
+        "sha1": "5b3c35547ff7ea0950daab80ad32667c36798f50",
+        "crc32": "d9ddce56"
+      }
+    }
+  ]
+}

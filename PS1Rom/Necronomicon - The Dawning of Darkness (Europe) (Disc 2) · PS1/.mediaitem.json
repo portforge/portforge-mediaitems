@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Necronomicon - The Dawning of Darkness (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Necronomicon - The Dawning of Darkness (Europe) (Disc 2).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f72a97f7201552b2478258b384d7f4d",
+        "sha1": "3567ba2ff335ba137045d61c64743a5e0556541a",
+        "crc32": "5e2f2ee0"
+      }
+    },
+    {
+      "filename": "Necronomicon - The Dawning of Darkness (Europe) (Disc 2).bin",
+      "filesize": 717987984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "150113023e0ab018bf4bda23654b2d21",
+        "sha1": "6acbbe8a57b501261a825d5f21b89353d1533af9",
+        "crc32": "08339fb3"
+      }
+    }
+  ]
+}

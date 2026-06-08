@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Magic Carpet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Magic Carpet (Japan).cue",
+      "filesize": 1008,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4681b6ff89f6423faa4eaf8657188b7d",
+        "sha1": "6c3f464a4993668338e2ade78f5b9c940afda790",
+        "crc32": "c0f3652e"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 1).bin",
+      "filesize": 219039408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61508430ed9f366a303bc130394a88ca",
+        "sha1": "0410ed7515440e37cc5a6fb60db9fd9a8d47b0f8",
+        "crc32": "aedd5d19"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 2).bin",
+      "filesize": 49312032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d9b194c3b57ddd052e690d9f74f8dbf",
+        "sha1": "d60379395f15edcae28f1577a741722f0d7a8557",
+        "crc32": "00da525f"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 3).bin",
+      "filesize": 49312032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f421133dbff36578d77262884566526",
+        "sha1": "783c2d8d4c2131a00e844823a17100aff42617bc",
+        "crc32": "9cd0a280"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 4).bin",
+      "filesize": 58691808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "541cd28995dca783afd1fad92fe4711d",
+        "sha1": "e0d0342d946cf3508f9ec9d67680ca2219446b46",
+        "crc32": "0d698cb4"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 5).bin",
+      "filesize": 56772576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51237050a16045b29c2f0704225cd8e4",
+        "sha1": "93a355e7e71ce055a7ba231d7899f0b4b79aa6fd",
+        "crc32": "0fad1790"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 6).bin",
+      "filesize": 39960480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12860e489096d3b62c3a2a5c8f1340a9",
+        "sha1": "c0dd929b2d52a1a0a884838ee139c2a8bab50419",
+        "crc32": "e7d4fa48"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 7).bin",
+      "filesize": 39960480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "324245222c0ee30efa824ed3b37d0d7d",
+        "sha1": "98188857c7a6c1a033987dc13d92ecb4c5e02c3b",
+        "crc32": "552b8080"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 8).bin",
+      "filesize": 47317536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "786d716717a43a105c9d437d66c31e27",
+        "sha1": "3f6e6b64b1abe6c3012f82afee163c4e89236e9b",
+        "crc32": "7c14fd5e"
+      }
+    },
+    {
+      "filename": "Magic Carpet (Japan) (Track 9).bin",
+      "filesize": 30893520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "593382f32153834f1b5313cc05ca61c3",
+        "sha1": "901550469fc647b1bcdc4026fb2ceae8d93e6db1",
+        "crc32": "3e83117a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomica Town o Tsukurou! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomica Town o Tsukurou! (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2b78525a9d66f8689d6510237e0dc98",
+        "sha1": "409d30e045131fa4dd9ba84907ba695c3bae9c45",
+        "crc32": "ed1cb0a6"
+      }
+    },
+    {
+      "filename": "Tomica Town o Tsukurou! (Japan).bin",
+      "filesize": 111722352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c65c3b2f65db0b5736eb7123a768fdef",
+        "sha1": "a0f9f073c1b6263023ce447b6b48fa55d6f4cb61",
+        "crc32": "fa52f5c7"
+      }
+    }
+  ]
+}

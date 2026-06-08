@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mars Moose Cosmic Quest 3 - Race Through France (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mars Moose Cosmic Quest 3 - Race Through France (USA).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4a07656dfedf6d8aff02b7a22653f8e",
+        "sha1": "787bebeca9ec5360b603f0d37b298d76507df206",
+        "crc32": "7d7e95f3"
+      }
+    },
+    {
+      "filename": "Mars Moose Cosmic Quest 3 - Race Through France (USA).bin",
+      "filesize": 464273040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6dbbf8f7629590b78ac2afde9ced5dd",
+        "sha1": "1f96e8fe5fff06fdf3c8700a0930933cda0ab078",
+        "crc32": "9f21a1f4"
+      }
+    }
+  ]
+}

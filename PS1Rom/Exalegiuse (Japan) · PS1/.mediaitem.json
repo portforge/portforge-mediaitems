@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Exalegiuse (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Exalegiuse (Japan).cue",
+      "filesize": 990,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c2896bf5fa1f9967d8be4af06e7f723e",
+        "sha1": "f95c4ef8319b9831ebd81c977e90f7c11a25430d",
+        "crc32": "6c017d8d"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 1).bin",
+      "filesize": 302707104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9b74452ff48c1a53b856ffad0cceed6",
+        "sha1": "2ce4258e296eea72d535435575276228ab488f7e",
+        "crc32": "a68a2fea"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 2).bin",
+      "filesize": 30286704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ebe117456d89d8b4d9404cc1249e609",
+        "sha1": "c1ba9f4a6f3f6407fdffbbf9fae6150a2a6dcb3f",
+        "crc32": "8869d057"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 3).bin",
+      "filesize": 27160896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5454133648e448dc65db6e28033e9132",
+        "sha1": "302e0e9f3b5dc851c3305503a629b53855c08a78",
+        "crc32": "26ece94a"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 4).bin",
+      "filesize": 29717520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4090b4f1e4d3bf725fb194c4d6d841aa",
+        "sha1": "77e56753fea475c7870c80bd9cd8229e0461e2a7",
+        "crc32": "7ea43977"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 5).bin",
+      "filesize": 19707408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "802122e2b74a3aaba99a768ccf5766e2",
+        "sha1": "b54a665b5c3f11a82cdfaec294dfc475aabdbe35",
+        "crc32": "ebaeb63f"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 6).bin",
+      "filesize": 19777968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80325088b82dd8de76e7589448694b91",
+        "sha1": "c69be506aa9a5ff23104e2d276dfebb5b5f208d0",
+        "crc32": "245b2946"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 7).bin",
+      "filesize": 21664272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f57bf51cb253bd10ecc21637a0f78e67",
+        "sha1": "ca4b5def3a891a504eaadd4867536847aa4d84c9",
+        "crc32": "8d999847"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 8).bin",
+      "filesize": 29461152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa69ea6d9364191203f48bf177d36785",
+        "sha1": "fe0db758dfab685d51d8735029c26c6f2ebe6d99",
+        "crc32": "840873d3"
+      }
+    },
+    {
+      "filename": "Exalegiuse (Japan) (Track 9).bin",
+      "filesize": 45906336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf8ec1f9405d4c0c324882d19ccf3541",
+        "sha1": "1302fff74e1907b357cd93c2aa25da017b7ebdbe",
+        "crc32": "2e80939d"
+      }
+    }
+  ]
+}

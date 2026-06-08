@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Streak Hoverboard Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Streak Hoverboard Racing (USA).cue",
+      "filesize": 1098,
+      "ext": "cue",
+      "checksums": {
+        "md5": "517a0ae7fcfd2c0f46663bd29d6cfbb3",
+        "sha1": "07f70a8edf736531b291ca20854cc1bf5c252904",
+        "crc32": "f0a38d9e"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 1).bin",
+      "filesize": 406482048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eed1cfbf94069d242923948b8a0e20aa",
+        "sha1": "fafc72dfafe251edfdb930d76e89453dee34eb7a",
+        "crc32": "0ee93f94"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 2).bin",
+      "filesize": 21309120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d765298616521d3df574d84bc4bfa5f1",
+        "sha1": "a02bfd3da21a59cfa6d246751dc59b4b5ba8ca65",
+        "crc32": "ac8f143a"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 3).bin",
+      "filesize": 22685040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8b5dd3eeb199f1a6634069a45cd2695",
+        "sha1": "13633f8fba22fb21ba35442e7667ede608f0c44b",
+        "crc32": "e5cb980d"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 4).bin",
+      "filesize": 21760704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "194d15ff82a976ddf86463778faf34fd",
+        "sha1": "b31f50fc460ea6c36cc39633d541ed687f3d6f28",
+        "crc32": "3a1b8ad7"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 5).bin",
+      "filesize": 21410256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61f49c8daaaf6c68ac41fc946684f47a",
+        "sha1": "524449fc2ced715b45e31ea11fc8678504f80a85",
+        "crc32": "6ed8d393"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 6).bin",
+      "filesize": 23576448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8faf8c168059edea92f32a54a32b266c",
+        "sha1": "28221c865f1a2903dc5844df8042628e1e5e0a37",
+        "crc32": "12b2b564"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 7).bin",
+      "filesize": 22652112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13612827f47c1002eaf29b1350c36d4a",
+        "sha1": "9c8e3e2f907d624f01f3e9b92bc6d27618cd06fb",
+        "crc32": "3b16d6b4"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 8).bin",
+      "filesize": 21631344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04e7edab2a50b746de9c1e7d5ac33246",
+        "sha1": "b9310f10078c0bebd76552fc929f62d8ee8c9cf0",
+        "crc32": "6119e2c0"
+      }
+    },
+    {
+      "filename": "Streak Hoverboard Racing (USA) (Track 9).bin",
+      "filesize": 32010720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f3b863445ca2478668d52811f5b106c",
+        "sha1": "81e730971edd4a3ff43039b0e1b91ecc5b346400",
+        "crc32": "bc743322"
+      }
+    }
+  ]
+}

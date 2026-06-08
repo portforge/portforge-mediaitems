@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Boucliers de Quetzalcoatl, Les - Les Chevaliers de Baphomet II (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Boucliers de Quetzalcoatl, Les - Les Chevaliers de Baphomet II (France).cue",
+      "filesize": 477,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fbe6cec9cd5dce92df5a2b9e9bd227f9",
+        "sha1": "a211a7e20c8e703fc85f22d19adfc698cb47b533",
+        "crc32": "0f31c39c"
+      }
+    },
+    {
+      "filename": "Boucliers de Quetzalcoatl, Les - Les Chevaliers de Baphomet II (France) (Track 1).bin",
+      "filesize": 590377872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c2ae92931c56b20dcad93d980629124",
+        "sha1": "0eb1fadca3e5ba0828cd9a68eaf8ddcde4efaf17",
+        "crc32": "4c694361"
+      }
+    },
+    {
+      "filename": "Boucliers de Quetzalcoatl, Les - Les Chevaliers de Baphomet II (France) (Track 2).bin",
+      "filesize": 28235760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b14b4e3169a1616585090a90188540a",
+        "sha1": "f1bcb23a04e6d28662ac476082a7a85bad6760aa",
+        "crc32": "031bea61"
+      }
+    },
+    {
+      "filename": "Boucliers de Quetzalcoatl, Les - Les Chevaliers de Baphomet II (France) (Track 3).bin",
+      "filesize": 35176512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b14b5201d01642b24c4e51cc42ae06eb",
+        "sha1": "7d33e0a4f1679b654c346c8fd583ef6fc436b9d5",
+        "crc32": "8c7357aa"
+      }
+    }
+  ]
+}

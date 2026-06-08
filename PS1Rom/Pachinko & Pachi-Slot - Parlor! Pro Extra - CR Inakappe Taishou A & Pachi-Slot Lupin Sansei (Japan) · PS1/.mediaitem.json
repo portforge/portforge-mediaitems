@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachinko & Pachi-Slot - Parlor! Pro Extra - CR Inakappe Taishou A & Pachi-Slot Lupin Sansei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachinko & Pachi-Slot - Parlor! Pro Extra - CR Inakappe Taishou A & Pachi-Slot Lupin Sansei (Japan).cue",
+      "filesize": 165,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6766b6e46a62ab8e826a794800a996a9",
+        "sha1": "43cdde9c402b14ef819ec4a05d5275371cc8d36d",
+        "crc32": "4170b7a7"
+      }
+    },
+    {
+      "filename": "Pachinko & Pachi-Slot - Parlor! Pro Extra - CR Inakappe Taishou A & Pachi-Slot Lupin Sansei (Japan).bin",
+      "filesize": 52943520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ffe0c168b7532ae8617cf13d9e350a5",
+        "sha1": "09fb43e225b9011b9e6e0e2927cf225de1d7a27c",
+        "crc32": "939049aa"
+      }
+    }
+  ]
+}

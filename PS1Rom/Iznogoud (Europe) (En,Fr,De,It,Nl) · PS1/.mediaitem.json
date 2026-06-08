@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Iznogoud (Europe) (En,Fr,De,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl).cue",
+      "filesize": 1006,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd2599499471116709665e28365addee",
+        "sha1": "45dcaaa781c46ec4dc60de36f96837fcf36e0942",
+        "crc32": "da803e03"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 1).bin",
+      "filesize": 135621024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a9d412b00d87461a2a68a29bdaaaf2b",
+        "sha1": "cb1aa64cbe0fcd51bf08c87f69ebb682c8ca388a",
+        "crc32": "a4c72d63"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 2).bin",
+      "filesize": 34590864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dccecce2840f506c24dcaccd8591f0c6",
+        "sha1": "0ea3d2070321c8a7eade64d68d897613d948a620",
+        "crc32": "167b9120"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 3).bin",
+      "filesize": 32890368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5d3b22ac329e2c836004844a3b8f755",
+        "sha1": "bb1c1f1524b447045fb684092890d090ba498f2a",
+        "crc32": "c107f438"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 4).bin",
+      "filesize": 33327840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce18d2f91128c5687316bdd4de52463d",
+        "sha1": "24bbc9748ba4f7b0d7768a1c475d0121d81bfbf4",
+        "crc32": "4dfc8bfe"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 5).bin",
+      "filesize": 32391744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a0daa2e0a1d78adf0aefad9ca49a384",
+        "sha1": "3a0ade2d87d40847f5e69902768a5e5ce79386ab",
+        "crc32": "d055e6c9"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 6).bin",
+      "filesize": 32690448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c849790a256fc48d0bed1918db208ca",
+        "sha1": "eb109e3f5e64b22ef61b01b3d52296839ec0f91f",
+        "crc32": "ee2b242f"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 7).bin",
+      "filesize": 32095392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51a712d27115be49302ef9467d201c13",
+        "sha1": "b0b7ead7187d25ec92584f64e074ad8df39700c2",
+        "crc32": "2d7cb76f"
+      }
+    },
+    {
+      "filename": "Iznogoud (Europe) (En,Fr,De,It,Nl) (Track 8).bin",
+      "filesize": 33189072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70d08cfed0a2daee909155075c3f3cba",
+        "sha1": "690f167e6a6c7a2314540668a750c2367fdd3e31",
+        "crc32": "7baf9413"
+      }
+    }
+  ]
+}

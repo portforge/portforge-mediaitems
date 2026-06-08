@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou 4 - Oicho Kaba X, Magical Pops, LequiO-30 (Japan) (Best of the Best)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou 4 - Oicho Kaba X, Magical Pops, LequiO-30 (Japan) (Best of the Best).cue",
+      "filesize": 151,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f441851ee732d33285fa62617ecccde",
+        "sha1": "f09d7500be93d7d9fb234b9ec0931e082d421d9b",
+        "crc32": "ed35688e"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou 4 - Oicho Kaba X, Magical Pops, LequiO-30 (Japan) (Best of the Best).bin",
+      "filesize": 39513600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13483b261351949838ca3e2e6435d448",
+        "sha1": "d973903be766fc56d556888bff0892b513134bd1",
+        "crc32": "33da47ea"
+      }
+    }
+  ]
+}

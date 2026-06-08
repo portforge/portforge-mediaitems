@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ten made Jack - Odoroki Mamenoki Daitoubou!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ten made Jack - Odoroki Mamenoki Daitoubou!! (Japan).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e80de23b3ba76e92d0b5b8195609bdcc",
+        "sha1": "7bda3b9a549b03b6ae98b48385faccf59cbd669b",
+        "crc32": "b2b73dd4"
+      }
+    },
+    {
+      "filename": "Ten made Jack - Odoroki Mamenoki Daitoubou!! (Japan) (Track 1).bin",
+      "filesize": 428278032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ddd6e496c19ab5fc7505913b35cb440",
+        "sha1": "fdaf9f5f0f936422e6fc8c1f9a1dbb9b836c8cd9",
+        "crc32": "ffd397f0"
+      }
+    },
+    {
+      "filename": "Ten made Jack - Odoroki Mamenoki Daitoubou!! (Japan) (Track 2).bin",
+      "filesize": 32610480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6bc4c7328c53e51011727d777a0e752",
+        "sha1": "6e91bda2a5cb4d99f1d6c65fa11f084869210872",
+        "crc32": "cf63ce67"
+      }
+    }
+  ]
+}

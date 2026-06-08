@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL FaceOff 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL FaceOff 98 (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "70990d07b9a956d179544fa16dc89af5",
+        "sha1": "cae8803fc1a4ac02857bc8407f9db4b7a96e7066",
+        "crc32": "c50c442a"
+      }
+    },
+    {
+      "filename": "NHL FaceOff 98 (USA).bin",
+      "filesize": 396100320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63932125abe942834e72e79f82c949fa",
+        "sha1": "3d8bf4fcc20a7896dc01d49510391932e3b1cc51",
+        "crc32": "15654ecb"
+      }
+    }
+  ]
+}

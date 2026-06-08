@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Milky Season (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Milky Season (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "433b0d5000a2e55af8a87072d47ba2ca",
+        "sha1": "1a44a3ba83ec789c58c005a25e8d6f9c9581f4f5",
+        "crc32": "60120efd"
+      }
+    },
+    {
+      "filename": "Milky Season (Japan).bin",
+      "filesize": 652983408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "732abaf4c34fd85e5f1c844f81d688aa",
+        "sha1": "8385009f5090030a5b912c97102fc064675a2bf0",
+        "crc32": "5def0c6c"
+      }
+    }
+  ]
+}

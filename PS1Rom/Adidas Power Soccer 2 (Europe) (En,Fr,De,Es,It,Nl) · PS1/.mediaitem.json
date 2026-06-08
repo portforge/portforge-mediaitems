@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8612a929d248593f9f91e62627ebbe80",
+        "sha1": "07cc6624737fde3dc6477f1a6797b585f223b1d2",
+        "crc32": "276a17c4"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl) (Track 1).bin",
+      "filesize": 580892256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e79ef23fc8ed0482207a90e00e60668",
+        "sha1": "812a954b2d5bf402b52b29fa27d138d3d1cd61af",
+        "crc32": "da1723d5"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer 2 (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

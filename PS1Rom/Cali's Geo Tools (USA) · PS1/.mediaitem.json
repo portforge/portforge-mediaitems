@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cali's Geo Tools (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cali's Geo Tools (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "96d5ac27ecd585dfcdf8b8d426aa8ddc",
+        "sha1": "146b377dd3d0ddcf02183b88fc130e82c29df9e1",
+        "crc32": "50a04bb0"
+      }
+    },
+    {
+      "filename": "Cali's Geo Tools (USA).bin",
+      "filesize": 37918944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74cc869f07d44dd7f31a7377dd96c3f6",
+        "sha1": "7e9d5b1293410ae9371db3ffcc3df6b7b278bc8c",
+        "crc32": "5175d9e7"
+      }
+    }
+  ]
+}

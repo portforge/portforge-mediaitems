@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Culdcept - Cepter's Guild Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Culdcept - Cepter's Guild Vol. 1 (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0bd4b655b2dd17d427a5a4265ee6034",
+        "sha1": "abb6f02e4d4ac96a93c59681e9d4fb09e6e56233",
+        "crc32": "bb4e342e"
+      }
+    },
+    {
+      "filename": "Culdcept - Cepter's Guild Vol. 1 (Japan).bin",
+      "filesize": 154686336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79e50768443d622650837e62ad96947a",
+        "sha1": "b9aa721d3606fae82cbe79ca923bb343d8eae52c",
+        "crc32": "aaf70faa"
+      }
+    }
+  ]
+}

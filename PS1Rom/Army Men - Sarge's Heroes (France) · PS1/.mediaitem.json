@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Sarge's Heroes (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Sarge's Heroes (France).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1752501613a858f82f6d49c3a2fdc1b2",
+        "sha1": "9c718762b7c3362bc74ce395df279eda82256fff",
+        "crc32": "74a7b704"
+      }
+    },
+    {
+      "filename": "Army Men - Sarge's Heroes (France).bin",
+      "filesize": 705889296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9f41392db6e081778173b2ec8dd2243",
+        "sha1": "528b7144ddbc5db207c426202f9682fee6805087",
+        "crc32": "59a9b1a4"
+      }
+    }
+  ]
+}

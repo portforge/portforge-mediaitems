@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jouki Kikansha Unten Simulation - SL de Ikou! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jouki Kikansha Unten Simulation - SL de Ikou! (Japan).cue",
+      "filesize": 423,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1feea052269a647ae20459c165b1ae7",
+        "sha1": "d150a102a642ff2f11de82ad833fe34d72926176",
+        "crc32": "108ac7a7"
+      }
+    },
+    {
+      "filename": "Jouki Kikansha Unten Simulation - SL de Ikou! (Japan) (Track 1).bin",
+      "filesize": 35232960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d3d5092bc73321a7275b5f012fb7c76",
+        "sha1": "44cdc068a4d577038e811832eaa23e009f6f58f5",
+        "crc32": "4fabb6be"
+      }
+    },
+    {
+      "filename": "Jouki Kikansha Unten Simulation - SL de Ikou! (Japan) (Track 2).bin",
+      "filesize": 13524000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75ae428166f3915672685bcd486ed6d1",
+        "sha1": "deb911081f96d5ef3fac3d895064bec2d2d65a70",
+        "crc32": "d235c24b"
+      }
+    },
+    {
+      "filename": "Jouki Kikansha Unten Simulation - SL de Ikou! (Japan) (Track 3).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

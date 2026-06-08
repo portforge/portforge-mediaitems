@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nemuru Mayu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nemuru Mayu (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "92a0b509ae44358d2df101c3ceb388c0",
+        "sha1": "d4bfed8cb528dcebfb87fd87e160c21056b3da32",
+        "crc32": "3e59d0a9"
+      }
+    },
+    {
+      "filename": "Nemuru Mayu (Japan).bin",
+      "filesize": 744523248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fdb8e3372eb6019ca6a6d094f4b854c",
+        "sha1": "b6f8973e3e8cb5e9ce616044ea5f2bd7238ebef6",
+        "crc32": "8b519c5f"
+      }
+    }
+  ]
+}

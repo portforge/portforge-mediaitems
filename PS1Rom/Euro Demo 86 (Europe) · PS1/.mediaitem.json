@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 86 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 86 (Europe).cue",
+      "filesize": 1017,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad49a1b553680fb31aa1374231fcba53",
+        "sha1": "e0c6eae09e04d973a80ec954afc208698e727fb8",
+        "crc32": "d649da0a"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 1).bin",
+      "filesize": 648093600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d2bd665b1f1cdfdb7cfb9aa93f98814",
+        "sha1": "fef4c202e02a075f11fc54643d88a11a48e7a2de",
+        "crc32": "c2ef5ccd"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 2).bin",
+      "filesize": 18510240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c35f0796c3c0040aeb2a32c91229ff8",
+        "sha1": "810fe92526d67d866dd679f4628706095aeba43b",
+        "crc32": "37dc136c"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 3).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82764f788b9550b84bf8bcf3013402f8",
+        "sha1": "6dd3ffc9a3afcaa55c23b0e06886dc897b38b534",
+        "crc32": "a033dd8d"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 4).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3e7ccfe78763edec3673796fc495ab3",
+        "sha1": "8e2d7cefd1b7b016d930f839dda85f01d7992bb2",
+        "crc32": "a762b443"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 5).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d88ba76187e9e3dfd5fed4f74a9fe902",
+        "sha1": "f300d92e81a7d4fcd16b328c4db863a28c9297bf",
+        "crc32": "3fb6881b"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 6).bin",
+      "filesize": 9469152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce270b30928bc29ab1bf1b1f30bfc8a9",
+        "sha1": "cd3ad299996bcec338f37a2fcc93c04eec52e3fc",
+        "crc32": "c80006d0"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 7).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c85169a3c7f06ec03bed55dc3626fd6",
+        "sha1": "ac5eb5146a8876f0d9056203ef9e3db5bbd7049e",
+        "crc32": "849ec52a"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 8).bin",
+      "filesize": 29745744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9188ecbd4221ef4f41cf1622880d2ce7",
+        "sha1": "545fb2e90524e9ab963fe463bdeb528b48d1dcc2",
+        "crc32": "0e7ec634"
+      }
+    },
+    {
+      "filename": "Euro Demo 86 (Europe) (Track 9).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

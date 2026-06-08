@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D10 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D10 (Japan).cue",
+      "filesize": 607,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de59d7a51ab5041e0488134121bc1a91",
+        "sha1": "d54f7d243b4a1263ab21d2e0fca28ae611563e73",
+        "crc32": "5b6bf5dc"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D10 (Japan) (Track 1).bin",
+      "filesize": 590989392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdf0b9bbee05960fe40e3976714633d9",
+        "sha1": "f4c79d7e345c60a25f66f81081fbe1f4dd80437d",
+        "crc32": "ca9d4928"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D10 (Japan) (Track 2).bin",
+      "filesize": 26991552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de39730ea224123078350ac4426118df",
+        "sha1": "982adb9d914603ff917db6e12081de815827e1d0",
+        "crc32": "d54ee49d"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D10 (Japan) (Track 3).bin",
+      "filesize": 9408000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4ee1e59ab4bb71f3a8aa9c41d714d61",
+        "sha1": "0c36c6476093a949b920eb36dd06f5bac11b3744",
+        "crc32": "1a421cf5"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D10 (Japan) (Track 4).bin",
+      "filesize": 26619936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41bbc93e053ce06350023c13ab5b5aa8",
+        "sha1": "aeeb3dbb55c8f2102b3d0551aecfd7db71e8706e",
+        "crc32": "227a67cf"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D10 (Japan) (Track 5).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

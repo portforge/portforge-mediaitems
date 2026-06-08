@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikuu Tantei DD 2 - Hangyaku no Apsalar (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikuu Tantei DD 2 - Hangyaku no Apsalar (Japan) (Disc 1).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "566921868b20f538a6a8e4f16c3db6e5",
+        "sha1": "666bc63ea4aea86334adbc7c5c8298ad2fbdb39e",
+        "crc32": "973370b1"
+      }
+    },
+    {
+      "filename": "Jikuu Tantei DD 2 - Hangyaku no Apsalar (Japan) (Disc 1).bin",
+      "filesize": 573325872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "603d64b183c45b5797d494833e2ed7e7",
+        "sha1": "d8d52f7e3eb4aabb597bdd5a325b969de30c1e5e",
+        "crc32": "d2e8865d"
+      }
+    }
+  ]
+}

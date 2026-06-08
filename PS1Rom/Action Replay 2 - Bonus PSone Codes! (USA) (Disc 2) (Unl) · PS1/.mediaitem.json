@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Replay 2 - Bonus PSone Codes! (USA) (Disc 2) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Replay 2 - Bonus PSone Codes! (USA) (Disc 2) (Unl).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e09a77cea79d388afa296600b8dc454",
+        "sha1": "08531b4f9964b106486583944e636d92693bf20f",
+        "crc32": "4db3e59d"
+      }
+    },
+    {
+      "filename": "Action Replay 2 - Bonus PSone Codes! (USA) (Disc 2) (Unl).bin",
+      "filesize": 66848544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba69c965395e17289382806afbd8f848",
+        "sha1": "11437db9f1a006778c0a47db4deb3cfee0188c4c",
+        "crc32": "290eef0f"
+      }
+    }
+  ]
+}

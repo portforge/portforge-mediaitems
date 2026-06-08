@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beat Mania (Japan) (Disc 1) (Arcade)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beat Mania (Japan) (Disc 1) (Arcade).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f9c4c4ba0733cc23776e7bd4866b676",
+        "sha1": "f87ee2058c4bc7947d2e5dfc6bcce620a47fd9ea",
+        "crc32": "bcc7eeb4"
+      }
+    },
+    {
+      "filename": "Beat Mania (Japan) (Disc 1) (Arcade).bin",
+      "filesize": 208166112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fa3ac6c1f71c57974b0db5a67ef3233",
+        "sha1": "3ac7f3f1d5e94cff1720e3fe7ac5df6b48084265",
+        "crc32": "cf6b0dbc"
+      }
+    }
+  ]
+}

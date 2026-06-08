@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "i-mode mo Issho - Doko Demo Issho Tsuika Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "i-mode mo Issho - Doko Demo Issho Tsuika Disc (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "041f14919181c353fe03857f20afd7ef",
+        "sha1": "07d82c8c4aae0df5cecce83ecf545f1355cb89a0",
+        "crc32": "9e035b89"
+      }
+    },
+    {
+      "filename": "i-mode mo Issho - Doko Demo Issho Tsuika Disc (Japan).bin",
+      "filesize": 481019280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57be8d661d84c871cbef064a1938b6ef",
+        "sha1": "e395d537f541ae3b1b8b8d5c83ecb6738d6dafb7",
+        "crc32": "60e2895a"
+      }
+    }
+  ]
+}

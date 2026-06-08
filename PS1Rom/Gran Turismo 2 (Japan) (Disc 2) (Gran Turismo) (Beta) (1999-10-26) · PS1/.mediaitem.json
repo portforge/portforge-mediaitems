@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo 2 (Japan) (Disc 2) (Gran Turismo) (Beta) (1999-10-26)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo 2 (Japan) (Disc 2) (Gran Turismo) (Beta) (1999-10-26).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c404ff384fa01a7ca2ba79c95f5083cc",
+        "sha1": "628c58bb582af4d92267c89895b881e4020b217b",
+        "crc32": "6451cc0b"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 (Japan) (Disc 2) (Gran Turismo) (Beta) (1999-10-26).bin",
+      "filesize": 711447072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1331fdeac0b2d02fe6542fc0506497b9",
+        "sha1": "a9a241235c7a6ef638b6909678b5b7f8127cc1b8",
+        "crc32": "cd4248e6"
+      }
+    }
+  ]
+}

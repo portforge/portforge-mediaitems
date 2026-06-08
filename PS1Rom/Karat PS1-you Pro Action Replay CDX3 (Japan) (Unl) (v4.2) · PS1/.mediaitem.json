@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Karat PS1-you Pro Action Replay CDX3 (Japan) (Unl) (v4.2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Karat PS1-you Pro Action Replay CDX3 (Japan) (Unl) (v4.2).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4454f0cff26818bbd90411b3159a211d",
+        "sha1": "9005f47a9865df76f3e623b715052765424a2183",
+        "crc32": "7d2adf60"
+      }
+    },
+    {
+      "filename": "Karat PS1-you Pro Action Replay CDX3 (Japan) (Unl) (v4.2).bin",
+      "filesize": 97767936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b27a9cda8f4bdfc270d2a52221c882a6",
+        "sha1": "3a2c3d4e13f7ec0ed17aa7e6d9bd7b9983569b9c",
+        "crc32": "27972ed3"
+      }
+    }
+  ]
+}

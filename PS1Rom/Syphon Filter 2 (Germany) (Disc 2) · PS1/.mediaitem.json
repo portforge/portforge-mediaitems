@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 2 (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 2 (Germany) (Disc 2).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b0bbae9bd18da6e6774b7bfdb2501fdb",
+        "sha1": "ec2c45619091d9d7e1686fcd36d142f81e8b853f",
+        "crc32": "09ec8c49"
+      }
+    },
+    {
+      "filename": "Syphon Filter 2 (Germany) (Disc 2).bin",
+      "filesize": 739870992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b95f555ddb57978a8b048c0541b61c2c",
+        "sha1": "ab61de8fee5e289ccae792f246118262baf345bc",
+        "crc32": "41f0aa1c"
+      }
+    }
+  ]
+}

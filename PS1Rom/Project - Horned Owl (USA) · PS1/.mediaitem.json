@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Project - Horned Owl (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Project - Horned Owl (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ca50afd6d806b4f44cfce57baa7bbd26",
+        "sha1": "dddcc25425ccadec3094322b2a718039bb4304ea",
+        "crc32": "5352a71a"
+      }
+    },
+    {
+      "filename": "Project - Horned Owl (USA).bin",
+      "filesize": 454705104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcbaa69de1e7dc9434f9bf52882e55a5",
+        "sha1": "42b3c86a9268eee7d377f9fcdefacfa3ce985b14",
+        "crc32": "132fa89d"
+      }
+    }
+  ]
+}

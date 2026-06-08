@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station SP3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station SP3 (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f1bbc968646151b0a3c7e7a15afc701",
+        "sha1": "df35248274096be7c19c18fcd8d059e49c36e1a0",
+        "crc32": "46611ecd"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station SP3 (Japan).bin",
+      "filesize": 79525824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99625f14d4b74507980ab91292a2861d",
+        "sha1": "649ee7b9b3a288dfe732b69d8a40c4d475b7bee7",
+        "crc32": "ce0fa1f1"
+      }
+    }
+  ]
+}

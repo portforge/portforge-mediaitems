@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Peter Pan - Eventyr pa Onskeoen (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Peter Pan - Eventyr pa Onskeoen (Denmark).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ccf9d074098b90ca891d88836d743aa",
+        "sha1": "03d6a6e579757dfe2297c9ab235f72d73bcfe509",
+        "crc32": "24cab026"
+      }
+    },
+    {
+      "filename": "Disneys Peter Pan - Eventyr pa Onskeoen (Denmark).bin",
+      "filesize": 582964368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41577efc6f29db7a90c845d2027f7f3a",
+        "sha1": "4b1e9cb3ba123c53fa8b45131eb4c36440c1d593",
+        "crc32": "84c9fd81"
+      }
+    }
+  ]
+}

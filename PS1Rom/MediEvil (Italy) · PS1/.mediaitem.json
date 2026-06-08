@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MediEvil (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MediEvil (Italy).cue",
+      "filesize": 202,
+      "ext": "cue",
+      "checksums": {
+        "md5": "798dd3122a5beb7b55eb5d295e586c7c",
+        "sha1": "8a3dfd6a6ef06ef0a100f5046414c582eb27cdb8",
+        "crc32": "a2802c30"
+      }
+    },
+    {
+      "filename": "MediEvil (Italy) (Track 1).bin",
+      "filesize": 528978912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be429f46f83dfb55d51d45385ea92eee",
+        "sha1": "f81fc1a477e9d1e914278a73cdc088bc690f3e00",
+        "crc32": "c0af7b2b"
+      }
+    },
+    {
+      "filename": "MediEvil (Italy) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

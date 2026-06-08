@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater (USA) (Beta) (1999-08-20)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater (USA) (Beta) (1999-08-20).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "05214f2ae91b2bde68710f7ddc4cb9da",
+        "sha1": "5015162f349acc8647f7aa2f0fb78d35149f4e3b",
+        "crc32": "ad665c2c"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater (USA) (Beta) (1999-08-20).bin",
+      "filesize": 660815568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e34a384ad6ab38de048966414eb925a5",
+        "sha1": "6bbfe335bc7be562f9f712f6a5ebfdf0e0b6d28b",
+        "crc32": "3f369bb6"
+      }
+    }
+  ]
+}

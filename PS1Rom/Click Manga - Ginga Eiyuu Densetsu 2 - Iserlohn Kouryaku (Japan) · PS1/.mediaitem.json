@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Click Manga - Ginga Eiyuu Densetsu 2 - Iserlohn Kouryaku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Click Manga - Ginga Eiyuu Densetsu 2 - Iserlohn Kouryaku (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "848c94c4ecf7f60e510188b34895fb27",
+        "sha1": "27f15fb08623104fc29c0930b9a4d63f6372c59f",
+        "crc32": "5a2b4984"
+      }
+    },
+    {
+      "filename": "Click Manga - Ginga Eiyuu Densetsu 2 - Iserlohn Kouryaku (Japan).bin",
+      "filesize": 294945504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63ef42b34c844712dae45646910f7175",
+        "sha1": "c5df2ab8f7f3060b973f5256cf10240c9b79e9a0",
+        "crc32": "ca936785"
+      }
+    }
+  ]
+}

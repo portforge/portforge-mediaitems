@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Our Graduation - Mahjong de Pon! Hanafuda de Koi! (Japan) (Disc 1) (Mahjong de Pon!)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Our Graduation - Mahjong de Pon! Hanafuda de Koi! (Japan) (Disc 1) (Mahjong de Pon!).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ddaf68953b334b67ec34636ade6bd61",
+        "sha1": "7a126662c0828651b09079afa19cea591fe16aef",
+        "crc32": "17406747"
+      }
+    },
+    {
+      "filename": "Our Graduation - Mahjong de Pon! Hanafuda de Koi! (Japan) (Disc 1) (Mahjong de Pon!).bin",
+      "filesize": 509925360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac1539ab0359625934b564701309a98f",
+        "sha1": "7a7d152425e1ab05e3f38e496cca09e4799d71e7",
+        "crc32": "efcfa1ec"
+      }
+    }
+  ]
+}

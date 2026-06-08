@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Capcom vs. SNK - Millennium Fight 2000 Pro (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Capcom vs. SNK - Millennium Fight 2000 Pro (Europe).cue",
+      "filesize": 272,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df1c34b8f9b8bb30e2ca35ef0161a3cf",
+        "sha1": "7912872a85b93c67845ff5274e3c05f0025f135d",
+        "crc32": "55e61a7a"
+      }
+    },
+    {
+      "filename": "Capcom vs. SNK - Millennium Fight 2000 Pro (Europe) (Track 1).bin",
+      "filesize": 580480656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5cde6ec6d3cb3382742b715b0a41186",
+        "sha1": "4ebc03caf94ea58328e027b31c282d261bde1c5a",
+        "crc32": "fd230a9a"
+      }
+    },
+    {
+      "filename": "Capcom vs. SNK - Millennium Fight 2000 Pro (Europe) (Track 2).bin",
+      "filesize": 31813152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c79e8b95f15e39fcdf521b6f1565848",
+        "sha1": "73481a853af449ce9ffdbe228d13a18129f2d8a9",
+        "crc32": "c65b6347"
+      }
+    }
+  ]
+}

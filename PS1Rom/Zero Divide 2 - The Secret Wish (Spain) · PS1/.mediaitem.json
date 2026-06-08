@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zero Divide 2 - The Secret Wish (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (Spain).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30c099961879ec31601ead1bee1ef21c",
+        "sha1": "62c8fb3fa4dfbf77409afc9460995c1b85bc848f",
+        "crc32": "23d7cb98"
+      }
+    },
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (Spain).bin",
+      "filesize": 503756064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7142f27728201c83a7c06002ac423611",
+        "sha1": "26dbe029f425d1329c6018bd569aea66d0590140",
+        "crc32": "d999a051"
+      }
+    }
+  ]
+}

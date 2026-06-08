@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WarCraft II - The Dark Saga (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WarCraft II - The Dark Saga (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0c9ed0a0b12afa284e76b7101fd3bd5",
+        "sha1": "e0144c35f1c36488e6351994b154fb8319cb4a9a",
+        "crc32": "09d37b84"
+      }
+    },
+    {
+      "filename": "WarCraft II - The Dark Saga (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 724554768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f60ab5de55f1ac61509d60a107529a8b",
+        "sha1": "562b1044a9949c525e68f6e1f1175ef5af5d6040",
+        "crc32": "96380a1b"
+      }
+    }
+  ]
+}

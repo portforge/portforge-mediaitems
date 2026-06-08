@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VII (USA) (Interactive Sampler CD)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VII (USA) (Interactive Sampler CD).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7c52ab69da0e9eed2301b4269c082ba",
+        "sha1": "4560dcc4a55f9c7feb2635e7e4ea446282fced1f",
+        "crc32": "2c834f36"
+      }
+    },
+    {
+      "filename": "Final Fantasy VII (USA) (Interactive Sampler CD).bin",
+      "filesize": 197951376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "790607948ef90b5300ff6318521c90d5",
+        "sha1": "516af1383fd41b883a96f57db18bc71a5569b2da",
+        "crc32": "d89c2193"
+      }
+    }
+  ]
+}

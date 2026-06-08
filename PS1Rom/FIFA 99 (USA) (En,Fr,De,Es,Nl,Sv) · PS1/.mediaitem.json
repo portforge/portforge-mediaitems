@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 99 (USA) (En,Fr,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 99 (USA) (En,Fr,De,Es,Nl,Sv).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cc269492ad1a810e65bcf408b3ebc6b",
+        "sha1": "8145016dbcc6b993efc2e484a00977ee76c1745a",
+        "crc32": "a8faebbd"
+      }
+    },
+    {
+      "filename": "FIFA 99 (USA) (En,Fr,De,Es,Nl,Sv).bin",
+      "filesize": 646110864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5361b089b82f81e928010047669c16d",
+        "sha1": "651ca6b97afb4a4d511740fcf3495461de412c74",
+        "crc32": "eee4bb39"
+      }
+    }
+  ]
+}

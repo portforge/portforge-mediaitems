@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bio F.R.E.A.K.S. (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bio F.R.E.A.K.S. (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7fafc38d4194abc3f00a5655ccb7c603",
+        "sha1": "ae168241b5c3006219f9fc79c656c7e33c6a633f",
+        "crc32": "9a69ca10"
+      }
+    },
+    {
+      "filename": "Bio F.R.E.A.K.S. (USA).bin",
+      "filesize": 308885808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af3b30c2abea8716a94648c61bcd28ef",
+        "sha1": "1fbc6965eb26963b6224d7a4a369fb86ddaf150c",
+        "crc32": "86fcc845"
+      }
+    }
+  ]
+}

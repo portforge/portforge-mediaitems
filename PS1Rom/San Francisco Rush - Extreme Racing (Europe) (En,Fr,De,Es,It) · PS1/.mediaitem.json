@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 757,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17af9ecf7735ab06c934af933ba19123",
+        "sha1": "90affd783817d8f0c3bcce8b4442237b2d871e46",
+        "crc32": "06344908"
+      }
+    },
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 86506560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5dd05e8d26ecb7d70c7e0ed26e61ad1b",
+        "sha1": "6f936dafa7c5af7e43c728f44597fdd23bfccdf7",
+        "crc32": "67b0690e"
+      }
+    },
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 42667632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfb702a29f379b091631be2e76a7e2fb",
+        "sha1": "0005012e0c9e233ecdcdeb017af48b50213b657c",
+        "crc32": "5b10e55b"
+      }
+    },
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 37006368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eaad2d4aa73ad1d31a21ea03734b3513",
+        "sha1": "29e34b912c81e524eb398fd73751053f6e1f2461",
+        "crc32": "2bd002a6"
+      }
+    },
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 43704864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c040747ef7e7c14dd6b0a4428dcd8d4",
+        "sha1": "2815337892bae4d2f038bb14c51cd807c5894c4d",
+        "crc32": "ed2e1d7e"
+      }
+    },
+    {
+      "filename": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 48926304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f4bf119a642af6ea53282c5327f8654",
+        "sha1": "4fd9cf03b72f74ceed8a97fcba8a60c58ca1a1ca",
+        "crc32": "347af600"
+      }
+    }
+  ]
+}

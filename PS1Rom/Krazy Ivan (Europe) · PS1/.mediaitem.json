@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Krazy Ivan (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Krazy Ivan (Europe).cue",
+      "filesize": 1350,
+      "ext": "cue",
+      "checksums": {
+        "md5": "06ac770b0cfcccb9572755d84c9f1f7c",
+        "sha1": "9b1dba8d0caf4f4037923c5cf4a43caf2f3e02a6",
+        "crc32": "c49b5422"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 01).bin",
+      "filesize": 362657232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3cda3d56d1107891e74bb789fa1caa5",
+        "sha1": "759de91a85ec0ff4d754f71f6f85e2ad11c2a052",
+        "crc32": "9439cf71"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 02).bin",
+      "filesize": 33466608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44e78f712425d9f0e4554fa0c3e156fc",
+        "sha1": "3f820761484505b205074230e181cc7db8663fba",
+        "crc32": "5e52512b"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 03).bin",
+      "filesize": 32330592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ac99835f594fc015768f94fe00ca44f",
+        "sha1": "33ef683142d367b2e30d9b87fd6276f3ecf855a4",
+        "crc32": "fde0b957"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 04).bin",
+      "filesize": 35689248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8b09dbacbcd23ffe3fe987cffea8d77",
+        "sha1": "9f453d42285ed0a61be2b3f4aea54d4ab13c8a85",
+        "crc32": "7b8b7f72"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 05).bin",
+      "filesize": 32095392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "269d2a8f1dfd3ae657bdc9e708994051",
+        "sha1": "59a906892b7b95f33426b795e9d5715610d5033e",
+        "crc32": "bd688a0d"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 06).bin",
+      "filesize": 32706912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70b53167f6556e2b0aeff7107f0e07ce",
+        "sha1": "99e8cc51e1c738d7d771dd6e9f61d8f9a120d918",
+        "crc32": "c537b8b6"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 07).bin",
+      "filesize": 18917136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe5edb3fb5e1ae8b74fcaf34e2279034",
+        "sha1": "51450fe33a40aeafea2a6b4a5f12f00ed0a4ab59",
+        "crc32": "d1f2a54b"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 08).bin",
+      "filesize": 34435632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47cbb11d18f32f7d6bcd94353777fa09",
+        "sha1": "4fe3f88cbc5a0d2902bb3d190bb46eb366bf9b6b",
+        "crc32": "02dd0072"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 09).bin",
+      "filesize": 32763360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a843b4c1690d1f497c7e4c84042fe2ac",
+        "sha1": "cdf530ca35f8658a05518edd808567a6dd0b61b2",
+        "crc32": "be277848"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 10).bin",
+      "filesize": 33901728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95cef4f9ba787a1f9be558dc1a78b0ea",
+        "sha1": "70349382ba70b4ebaf1e9d75f102b627d109a41c",
+        "crc32": "166cc4bb"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 11).bin",
+      "filesize": 33654768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bb682650ceaa0c604f3d405c12ab9de",
+        "sha1": "8c46a90f0f90bc21e45c855e9e560b3dcaa68074",
+        "crc32": "2fc6bcb5"
+      }
+    },
+    {
+      "filename": "Krazy Ivan (Europe) (Track 12).bin",
+      "filesize": 33795888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bfa540ba1fc1ce8b7afb590013f0736",
+        "sha1": "d3cd5cbbd6ef739d9f2a2c26d465451fb8c380d3",
+        "crc32": "d767e056"
+      }
+    }
+  ]
+}

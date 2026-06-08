@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atlantis - The Lost Tales (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atlantis - The Lost Tales (Europe) (Disc 2).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f84e0c6a6470ca2fb145b35300462286",
+        "sha1": "b2602758e772933d3abd25be24626f9c509a4569",
+        "crc32": "999cb646"
+      }
+    },
+    {
+      "filename": "Atlantis - The Lost Tales (Europe) (Disc 2).bin",
+      "filesize": 622466208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d5eaba81299e139b96bc158e8c94dc8",
+        "sha1": "1c7c6e2daa4b99b6605d806ffac187ee80a8ea64",
+        "crc32": "5cbd36e8"
+      }
+    }
+  ]
+}

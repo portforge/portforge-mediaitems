@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan) (Controller Set).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30e537e9bca5682193556a944ca474ac",
+        "sha1": "df4bca8186b51feedfe295d3e54b0bcb1b8de729",
+        "crc32": "69e608b4"
+      }
+    },
+    {
+      "filename": "Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan) (Controller Set).bin",
+      "filesize": 70084896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a7dbdf5eb045c3fa7e3fd249a32874a",
+        "sha1": "807580d1d2bc5820dafa8479339bafc102732253",
+        "crc32": "21d4bfae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "K9.5 2 - We Are the Dogs! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "K9.5 2 - We Are the Dogs! (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7775228e4390d2a15d07526686583ad6",
+        "sha1": "5902f9929b1bc57e6f251709a2d80f0d1577353d",
+        "crc32": "5ffe4fcb"
+      }
+    },
+    {
+      "filename": "K9.5 2 - We Are the Dogs! (USA).bin",
+      "filesize": 161097888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8119d65949b19e71e59ca945dadc5a61",
+        "sha1": "6a5b00e2a79f6df35036375b8f5be4c1a340c3df",
+        "crc32": "4a783c0c"
+      }
+    }
+  ]
+}

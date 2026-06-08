@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen! (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a8642195f7748c09dc55a4f3ccbc620",
+        "sha1": "093d2f909aceec2e39c4dd9a1d18a03828874d26",
+        "crc32": "6f3e7b9b"
+      }
+    },
+    {
+      "filename": "Kinniku Banzuke Vol. 2 - Arata naru Genkai e no Chousen! (Japan).bin",
+      "filesize": 619775520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0c000c740ba8f03df5e2d04017bc2b4",
+        "sha1": "5a4429b969184a8611b658a43ad7ee2f50f7bdb4",
+        "crc32": "e3923552"
+      }
+    }
+  ]
+}

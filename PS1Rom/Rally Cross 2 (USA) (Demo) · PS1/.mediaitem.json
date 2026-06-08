@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rally Cross 2 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rally Cross 2 (USA) (Demo).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b847529e39e4658f18d88f25ff04504a",
+        "sha1": "57c0a86bb3f38cbb78023a5c03cdb365ef4f24ed",
+        "crc32": "edd225d4"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (USA) (Demo) (Track 1).bin",
+      "filesize": 27163248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d762501076a70982794979f08ae28823",
+        "sha1": "8da14b69a103eb3745be77d6bc9dff87c18bace5",
+        "crc32": "81f847a2"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (USA) (Demo) (Track 2).bin",
+      "filesize": 49493136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "961a622c3fa944579fd8f5c81284474d",
+        "sha1": "8aa1fd3293a46f4bb586f4b2f84406b75eff516c",
+        "crc32": "4454e36f"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (USA) (Demo) (Track 3).bin",
+      "filesize": 51626400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bec1a3942eabd85a925cbd4d1edc7fa",
+        "sha1": "5de6493f72afa6f04a5887116bfdd0bb90f2a684",
+        "crc32": "a80175dd"
+      }
+    }
+  ]
+}

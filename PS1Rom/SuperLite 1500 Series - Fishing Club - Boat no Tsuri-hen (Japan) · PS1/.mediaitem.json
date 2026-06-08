@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Fishing Club - Boat no Tsuri-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Boat no Tsuri-hen (Japan).cue",
+      "filesize": 298,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04bb8b6fd4cf53f493dcba5cf2847f88",
+        "sha1": "1857530e45b4e91f244ab566a529e6b069da99eb",
+        "crc32": "4e1a99fe"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Boat no Tsuri-hen (Japan) (Track 1).bin",
+      "filesize": 200743200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5dd779d5e81192c7a039396e9f672de1",
+        "sha1": "6a2780bc98b15241ce3207e8ab83fa7a382832a9",
+        "crc32": "696924c8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Boat no Tsuri-hen (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e3952c9ba74cc486ee0a9dd66c1a84",
+        "sha1": "4a5ce8d624b04507f739bb8e647cbb0d8b81a768",
+        "crc32": "c699c622"
+      }
+    }
+  ]
+}

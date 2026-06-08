@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Carnage Heart (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Carnage Heart (Japan).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a514b4df1b42f52df5d825c768d8490f",
+        "sha1": "89e86df6d31df54856477e627f1a2ffe0999c9bc",
+        "crc32": "5a2fb682"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Carnage Heart (Japan) (Track 1).bin",
+      "filesize": 81668496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72c7d5afbe0e7de0bfb99430f6d4d041",
+        "sha1": "6b9cad926cc305eb64326990a36101c8b13359dd",
+        "crc32": "1b1a4fe8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Carnage Heart (Japan) (Track 2).bin",
+      "filesize": 71893584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d47a1bfebe8ec0018ff39186478f4500",
+        "sha1": "5016be38e795c1e1df495a58829018fb870e74ae",
+        "crc32": "48e048b3"
+      }
+    }
+  ]
+}

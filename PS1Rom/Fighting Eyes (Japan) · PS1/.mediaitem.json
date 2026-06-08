@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Eyes (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Eyes (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ed51c7aa51e0021fb8a54950125f61fe",
+        "sha1": "448b7d2e3b3cd18787d04707bd5262955b34c350",
+        "crc32": "621a5fb1"
+      }
+    },
+    {
+      "filename": "Fighting Eyes (Japan).bin",
+      "filesize": 220561152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e22b68797a1da9a47477a461886ff18e",
+        "sha1": "8a11baf9dbf08d4a0ae41ea20667da6ace119cd9",
+        "crc32": "98cc2c2d"
+      }
+    }
+  ]
+}

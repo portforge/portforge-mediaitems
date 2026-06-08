@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Tarzan (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Tarzan (Denmark).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "996f330cb1a6774f9d804fd21bb64ec2",
+        "sha1": "42c3c4a43acfa19d938da2bbc90679b128b464c1",
+        "crc32": "13537e12"
+      }
+    },
+    {
+      "filename": "Disneys Tarzan (Denmark) (Track 1).bin",
+      "filesize": 485850288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf49092c128665b296172a65dd2a39e6",
+        "sha1": "50289e0edb2dabd489de3f429f538968447940e8",
+        "crc32": "2e3bc7b3"
+      }
+    },
+    {
+      "filename": "Disneys Tarzan (Denmark) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

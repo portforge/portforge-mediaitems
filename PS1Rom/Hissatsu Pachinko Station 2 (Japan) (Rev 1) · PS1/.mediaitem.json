@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station 2 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1).cue",
+      "filesize": 1362,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a77e895736ae221f80c5d748857398fa",
+        "sha1": "98101e880137c2c00ea108ee3b244120cecf92bc",
+        "crc32": "cee78ffb"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 01).bin",
+      "filesize": 41811504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5eb8a5a43ecc7372d0f7c97fe04c15fc",
+        "sha1": "73ebe1da7559146a496c65272086eaf4620210f4",
+        "crc32": "0e31b4b6"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 02).bin",
+      "filesize": 8831760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b447402f4f645df46d01bfa2f75e70f",
+        "sha1": "813bb51f4e0b801044293452c41d9b72c120912c",
+        "crc32": "61422c0c"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 03).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a17dc1c22db847f605b1c300657dcf1",
+        "sha1": "ed60e43b14b0605ce2cac00cbd1f34c8181394c4",
+        "crc32": "f0b7c489"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 04).bin",
+      "filesize": 11042640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "801f915fd0d97356d5e418f4cf0e7ce0",
+        "sha1": "1a37aa57215ceeedcee341608bd28e014007e711",
+        "crc32": "1c9acf41"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 05).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6266393164cf071fa8c066e1e58fa73",
+        "sha1": "0ae978934368cac185f20dcdb64dc1a58e46a8c9",
+        "crc32": "48c62e5a"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 06).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b608e00b08f5862f6c21fa30db4316b3",
+        "sha1": "9d87ee9f8d0702373c86fabea73662b0c902426f",
+        "crc32": "41968c44"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 07).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65e6cabb6688f865463ea29ce5af7298",
+        "sha1": "b8d0b47385105fd2169c8daf8a2e1fdf0956b371",
+        "crc32": "761c2818"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 08).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "147c19efb7bf790399928d648dc0a7c5",
+        "sha1": "18296f4c8bd0d442de77d3d431d32315994f12e7",
+        "crc32": "250a64c1"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 09).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3317843eeecf8150da32e23be75b46c2",
+        "sha1": "70adc066530990b3e86c5d055124e5518377109b",
+        "crc32": "8904f915"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 2 (Japan) (Rev 1) (Track 10).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2534dbd5a003c4f7f9c5502a29a18b2d",
+        "sha1": "593b0c481791e6fe20766f62ceaea5840a32b768",
+        "crc32": "074efba9"
+      }
+    }
+  ]
+}

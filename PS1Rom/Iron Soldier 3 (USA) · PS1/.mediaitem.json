@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Iron Soldier 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Iron Soldier 3 (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f9680ffa4f2f70cd0339f9b1d22615e1",
+        "sha1": "acac2ceb5b5a35a952453b20eeafe37f66f6c5c2",
+        "crc32": "b72961dc"
+      }
+    },
+    {
+      "filename": "Iron Soldier 3 (USA).bin",
+      "filesize": 751231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "095ada0d73e1510470678f1310e7b41d",
+        "sha1": "06a72716516ad28c948b3f5ad13a0f9b2a0e8a23",
+        "crc32": "b8e856f0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Math on the Move! 2 - Multiplication-Division Intermediate (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Math on the Move! 2 - Multiplication-Division Intermediate (USA).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "abda48cd28b65fc7ce0f97d07a03a7dc",
+        "sha1": "8f5e7577e3d64f046bf4c00793ddc39ca18c1b24",
+        "crc32": "41c8867e"
+      }
+    },
+    {
+      "filename": "Math on the Move! 2 - Multiplication-Division Intermediate (USA).bin",
+      "filesize": 294823200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e27b338c9b360bf583acb4b5e81f67df",
+        "sha1": "12b3e888acb9f8a786c5282959e49712d5de6d40",
+        "crc32": "504eabfe"
+      }
+    }
+  ]
+}

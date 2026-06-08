@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PAQA (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PAQA (Japan).cue",
+      "filesize": 78,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03e9335309841d1273fbe57942353799",
+        "sha1": "32b101339257a51b79a62467618578660cc94556",
+        "crc32": "e412f496"
+      }
+    },
+    {
+      "filename": "PAQA (Japan).bin",
+      "filesize": 185751552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f6f0ac89ebba71de050659b8479dc79",
+        "sha1": "138056a52a1f92ccc77187c4a09be25e76d8763f",
+        "crc32": "0cf5ab44"
+      }
+    }
+  ]
+}

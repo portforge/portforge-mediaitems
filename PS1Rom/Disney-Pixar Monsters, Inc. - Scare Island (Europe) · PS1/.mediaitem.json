@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Monsters, Inc. - Scare Island (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Monsters, Inc. - Scare Island (Europe).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f03255e8a9e91be2e864e1ea00a1ac4",
+        "sha1": "3fcb6840c26f4d3902d06b0457874c2a92e4eea8",
+        "crc32": "653f38ea"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Monsters, Inc. - Scare Island (Europe).bin",
+      "filesize": 738062304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e933530649893b78994ccb38e2e6a17",
+        "sha1": "bdb91075c26bb48bfcf1d7332fcf5dde29f15918",
+        "crc32": "4518d176"
+      }
+    }
+  ]
+}

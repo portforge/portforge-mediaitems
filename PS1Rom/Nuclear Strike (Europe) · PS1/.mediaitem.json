@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nuclear Strike (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nuclear Strike (Europe).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "573b73370b96f868f87c7f62771f9f45",
+        "sha1": "5869b3ec4fea6fc7ceb70f056938a259e305c323",
+        "crc32": "89a4567a"
+      }
+    },
+    {
+      "filename": "Nuclear Strike (Europe) (Track 1).bin",
+      "filesize": 602460096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "295b58ca80660b8f78e698a4be7d38d4",
+        "sha1": "969ee39523395a2eb27c57acf31b6683e424d5f6",
+        "crc32": "f2ba5776"
+      }
+    },
+    {
+      "filename": "Nuclear Strike (Europe) (Track 2).bin",
+      "filesize": 41162352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba146ff999ec69f7cec866602a06ee44",
+        "sha1": "fe29ea6f7661514dd12c1202356e1d99ed1f9084",
+        "crc32": "1093cda6"
+      }
+    }
+  ]
+}

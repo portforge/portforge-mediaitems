@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IX (USA, Canada) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IX (USA, Canada) (Disc 4).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94139d0fcd9798cae886f8296a4256f2",
+        "sha1": "c721506a4a0155ac9ed275c8daf90e8babfca296",
+        "crc32": "93bd277f"
+      }
+    },
+    {
+      "filename": "Final Fantasy IX (USA, Canada) (Disc 4).bin",
+      "filesize": 688413936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f830c69d73ff29a0384d9205fec0c510",
+        "sha1": "3392de8f304bc05ed7c845c1eb6d91b4021ecd2b",
+        "crc32": "15a5e12b"
+      }
+    }
+  ]
+}

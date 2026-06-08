@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monopoly (USA) (Alt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monopoly (USA) (Alt).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "05b45eaba11a109bdbeb6f5bc507402e",
+        "sha1": "dda07adb588c06649946a7bfafbf2db0d47ed08d",
+        "crc32": "ca1cc446"
+      }
+    },
+    {
+      "filename": "Monopoly (USA) (Alt) (Track 1).bin",
+      "filesize": 365507856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "469cf6229dfe90185d9e727157c163da",
+        "sha1": "45a89424a5074506e1873491ecbc71b0b846533a",
+        "crc32": "00e71744"
+      }
+    },
+    {
+      "filename": "Monopoly (USA) (Alt) (Track 2).bin",
+      "filesize": 55370784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d53fd98d655afa2bf3415009778a0381",
+        "sha1": "db9665b8b20651e93c3f723b0e1c7c5af31a0977",
+        "crc32": "a36cda9d"
+      }
+    }
+  ]
+}

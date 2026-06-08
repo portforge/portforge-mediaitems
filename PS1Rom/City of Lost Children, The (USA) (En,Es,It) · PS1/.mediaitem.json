@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "City of Lost Children, The (USA) (En,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "City of Lost Children, The (USA) (En,Es,It).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bcca19c7e931ef59bf60ee2f6c411761",
+        "sha1": "018ab491193e860fd480ac0ddd544b3a5b82c90a",
+        "crc32": "ef47d5ae"
+      }
+    },
+    {
+      "filename": "City of Lost Children, The (USA) (En,Es,It).bin",
+      "filesize": 327273744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85f878cdfdede12b21e1c6012847cc14",
+        "sha1": "82a7fc44ef34af5fdc021db5f4e8af8580798edd",
+        "crc32": "704a7eed"
+      }
+    }
+  ]
+}

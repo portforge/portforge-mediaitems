@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ESPN Extreme Games (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ESPN Extreme Games (Europe).cue",
+      "filesize": 812,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bb6c62c4611d7fb5fec6a15676ff1fe",
+        "sha1": "e5efe320057cd81e6e34cd724c62701c8a7dd6d5",
+        "crc32": "a329cfcb"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 1).bin",
+      "filesize": 217026096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93f22e178ed3620708f28f40dd75931a",
+        "sha1": "93dab78ec4ca7ea8316484872423acdcd095ebb1",
+        "crc32": "5744af86"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 2).bin",
+      "filesize": 59858400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "821e7a7ac278c12dbfa52fc195a449ac",
+        "sha1": "5fe158fd3997a51023b3e6be1ee641b691474dfe",
+        "crc32": "8ef77390"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 3).bin",
+      "filesize": 48081936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "667c0050f015e42f16b23b58aa35338f",
+        "sha1": "11c04e5c3e064b3e8b0640bcbdb933872c9b9309",
+        "crc32": "a876e8c7"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 4).bin",
+      "filesize": 66015936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e58b547be0751fc4aa842243dddc8d53",
+        "sha1": "a34f92f902f3c7223364d74a01b0edc04d701d16",
+        "crc32": "23dc3e2d"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 5).bin",
+      "filesize": 54105408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f5e06314921173211bc33b0f9b0d99c",
+        "sha1": "af933f62e0657faa546e1ff03fc4b64091e74b9d",
+        "crc32": "feab0d08"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 6).bin",
+      "filesize": 66867360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "738e20bd87c3cbaeef060b179ad8f635",
+        "sha1": "f6ed7ee49d4453c2535ab5721f63b9224a49339e",
+        "crc32": "772744b9"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 7).bin",
+      "filesize": 63035952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed47177d6a6fa253479fa7e5a706ea5c",
+        "sha1": "6bc357433337a369d154d4456249a175ad36be65",
+        "crc32": "80b2fe72"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (Europe) (Track 8).bin",
+      "filesize": 63035952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed47177d6a6fa253479fa7e5a706ea5c",
+        "sha1": "6bc357433337a369d154d4456249a175ad36be65",
+        "crc32": "80b2fe72"
+      }
+    }
+  ]
+}

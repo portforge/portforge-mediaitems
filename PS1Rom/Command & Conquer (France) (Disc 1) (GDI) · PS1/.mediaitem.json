@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer (France) (Disc 1) (GDI)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer (France) (Disc 1) (GDI).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef7369eacfd02b30e375036ef6a7b387",
+        "sha1": "2b87ac4d32424930b70c689085dab66e442b3582",
+        "crc32": "4b1508b8"
+      }
+    },
+    {
+      "filename": "Command & Conquer (France) (Disc 1) (GDI).bin",
+      "filesize": 734195616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4beb4f4ace68299d802e4705e5b110e4",
+        "sha1": "22c5866e0efe889381d1e11606530899e7f61c60",
+        "crc32": "929d41a0"
+      }
+    }
+  ]
+}

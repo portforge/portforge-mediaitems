@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DigimonWorld (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DigimonWorld (Japan) (Rev 1).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "feae7d24f18a05c41204cb2e073c8a54",
+        "sha1": "4f0b12bfd10e1539c8912aac66c184e6132103b8",
+        "crc32": "c78f9292"
+      }
+    },
+    {
+      "filename": "DigimonWorld (Japan) (Rev 1).bin",
+      "filesize": 381162768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f6e1034e5fedc327026d248f9fea45b",
+        "sha1": "1d10389deee8c9849136623785c256071f2f9473",
+        "crc32": "8dcabdbf"
+      }
+    }
+  ]
+}

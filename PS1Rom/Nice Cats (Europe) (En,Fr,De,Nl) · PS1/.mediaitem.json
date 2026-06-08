@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nice Cats (Europe) (En,Fr,De,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nice Cats (Europe) (En,Fr,De,Nl).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4431f08c3301699f8291c13a0333904f",
+        "sha1": "d27fe72835e414a18ee88da11b9858c905558c1e",
+        "crc32": "73305679"
+      }
+    },
+    {
+      "filename": "Nice Cats (Europe) (En,Fr,De,Nl).bin",
+      "filesize": 440976480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ea5b7f69febf2e396d2d7e07e97ac32",
+        "sha1": "01ca54298abca64a76c35102b114a22d15390ac3",
+        "crc32": "49a3c139"
+      }
+    }
+  ]
+}

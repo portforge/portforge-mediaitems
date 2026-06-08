@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nazoou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nazoou (Japan).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30fd41783a5bd8d6f704832fc4e224d7",
+        "sha1": "fbd24ac927bce05d38af79863a59a089570b6e0a",
+        "crc32": "4ed0b7da"
+      }
+    },
+    {
+      "filename": "Nazoou (Japan).bin",
+      "filesize": 557656848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d045c651f707a48a520922fe47abab0",
+        "sha1": "885f6260d3ccd2864a40f3da8c1380f010055bd6",
+        "crc32": "fc2db918"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aztec - The Curse in the Heart of the City of Gold (Europe) (Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aztec - The Curse in the Heart of the City of Gold (Europe) (Es,It).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb85467b23f7a7294bc7cccc17a0964b",
+        "sha1": "0b21f4f52980f43cb37a369fd8baefec7f290a5a",
+        "crc32": "5a54df53"
+      }
+    },
+    {
+      "filename": "Aztec - The Curse in the Heart of the City of Gold (Europe) (Es,It).bin",
+      "filesize": 733659360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dc0afad41b4dbd2374a59926322eb72",
+        "sha1": "fb50c90b2f4778d3c345140c8d0a1ca9fce68856",
+        "crc32": "b8dae47a"
+      }
+    }
+  ]
+}

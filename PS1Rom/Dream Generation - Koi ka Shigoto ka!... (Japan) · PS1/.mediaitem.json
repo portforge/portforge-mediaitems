@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dream Generation - Koi ka Shigoto ka!... (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dream Generation - Koi ka Shigoto ka!... (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d496aacc738fc40731ab51fb13e4ac8",
+        "sha1": "60294fcfdf325d2f08c6c0fc98c2089875f3ce51",
+        "crc32": "1265ce58"
+      }
+    },
+    {
+      "filename": "Dream Generation - Koi ka Shigoto ka!... (Japan).bin",
+      "filesize": 400731408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d52f2d7b45b8e01b4a5daedd4643512d",
+        "sha1": "980b6a8fbae4c69cc0f6b96d6b89a89f8f76c841",
+        "crc32": "7d9bb74c"
+      }
+    }
+  ]
+}

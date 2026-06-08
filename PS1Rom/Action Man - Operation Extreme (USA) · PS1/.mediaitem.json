@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Man - Operation Extreme (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Man - Operation Extreme (USA).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f9ab1ff2968b54cf901a49971c68f27",
+        "sha1": "bd6fbb3575f9a2d3072f2a76de2cbb52f8f4e377",
+        "crc32": "cf924cc1"
+      }
+    },
+    {
+      "filename": "Action Man - Operation Extreme (USA).bin",
+      "filesize": 553089264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b0b65e5ea7c3431ab0bb7391c81118d",
+        "sha1": "d0e4834cb0ee6aca998223c8068872972da1c869",
+        "crc32": "9d4dbbcb"
+      }
+    }
+  ]
+}

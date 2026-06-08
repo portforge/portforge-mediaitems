@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "OverBlood 2 - The East Edge File (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "OverBlood 2 - The East Edge File (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0fc1afaee763a5250fcdf8f42523eac",
+        "sha1": "d57f3a3fbf908237fb73f37f04377de6c034ebf4",
+        "crc32": "28393022"
+      }
+    },
+    {
+      "filename": "OverBlood 2 - The East Edge File (Japan).bin",
+      "filesize": 87430896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edb0ef0d7a04f303c9993db08d2e0c4a",
+        "sha1": "36510ababe9e2252fa5fc426973aa703794a77b4",
+        "crc32": "e680b2f7"
+      }
+    }
+  ]
+}

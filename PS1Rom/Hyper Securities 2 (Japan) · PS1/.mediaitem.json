@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper Securities 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper Securities 2 (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ed06967fe9b6dfc9efd9e456fe3a416d",
+        "sha1": "1db2312cbab99914eb43f1b3b4900a19ac1e70d8",
+        "crc32": "e9e1cbb6"
+      }
+    },
+    {
+      "filename": "Hyper Securities 2 (Japan).bin",
+      "filesize": 355638864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cef5a27bed78b7fa31421e02686de34",
+        "sha1": "0974b87f6b9cf398b09699c39975941b62b98e8b",
+        "crc32": "00b39a3b"
+      }
+    }
+  ]
+}

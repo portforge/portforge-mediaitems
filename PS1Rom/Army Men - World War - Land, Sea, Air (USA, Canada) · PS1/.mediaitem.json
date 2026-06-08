@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - World War - Land, Sea, Air (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - World War - Land, Sea, Air (USA, Canada).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ca575b8c8c4f5dc4374fbeb5b22f286",
+        "sha1": "e91ec0c2e532f93c9dd5db640829a55b888952aa",
+        "crc32": "244b9306"
+      }
+    },
+    {
+      "filename": "Army Men - World War - Land, Sea, Air (USA, Canada).bin",
+      "filesize": 277853520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5332c4b156c4b41800594d44fe15838a",
+        "sha1": "fb39a29fd6b83e14193c31df62f478493cf2bb12",
+        "crc32": "a6445589"
+      }
+    }
+  ]
+}

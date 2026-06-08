@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikuu Tantei DD - Maboroshi no Lorelei (Japan) (Disc 2) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikuu Tantei DD - Maboroshi no Lorelei (Japan) (Disc 2) (Rev 1).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31028424d491a9cc7570e67fe2a0ed76",
+        "sha1": "0d65ae02efc032aaf2e6eb5050d22b3978c618ce",
+        "crc32": "45d2cacb"
+      }
+    },
+    {
+      "filename": "Jikuu Tantei DD - Maboroshi no Lorelei (Japan) (Disc 2) (Rev 1).bin",
+      "filesize": 731657808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cd150f8e04b50437867bb73184147c7",
+        "sha1": "862b8c9abfdcb159034190f356e3bb0fcf644ecc",
+        "crc32": "9496dd1f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digimon World (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digimon World (Spain).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a593f94daff32f5d0e142935187dd99f",
+        "sha1": "d9a70d9741c08e5136b2ef004644a156baf24d0f",
+        "crc32": "85294b96"
+      }
+    },
+    {
+      "filename": "Digimon World (Spain).bin",
+      "filesize": 392490000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38c63604a797d4063c2fad0adcc851fb",
+        "sha1": "b90a8efa596771ad84f678d64786fcc5fdd65889",
+        "crc32": "646fdc95"
+      }
+    }
+  ]
+}

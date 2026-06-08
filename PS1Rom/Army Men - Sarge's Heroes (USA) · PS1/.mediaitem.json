@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Sarge's Heroes (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Sarge's Heroes (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b681f4302bae8102b879ce537c5447e4",
+        "sha1": "921d41f5344596987b7ae3b7ff502a50445d14e3",
+        "crc32": "c682f538"
+      }
+    },
+    {
+      "filename": "Army Men - Sarge's Heroes (USA).bin",
+      "filesize": 700672560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9517a4292edbfa5b04412b3a88ee21d",
+        "sha1": "f75104de0eda3fd84a506049441f8789d80df449",
+        "crc32": "692defac"
+      }
+    }
+  ]
+}

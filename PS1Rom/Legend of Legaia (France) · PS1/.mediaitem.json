@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Legaia (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Legaia (France).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f552f90410f02974b2293c685ed30f7",
+        "sha1": "fa85654ea278b08780a865a0a9179852e18110ca",
+        "crc32": "9a0b61d3"
+      }
+    },
+    {
+      "filename": "Legend of Legaia (France).bin",
+      "filesize": 501460512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd4382f32922f57b10fbd8101b2a73af",
+        "sha1": "6be91ccb82299116e1452cb29b05188c27d13e09",
+        "crc32": "89b43942"
+      }
+    }
+  ]
+}

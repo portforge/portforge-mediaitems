@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oddworld - Abe's Oddysee (USA) (Rev 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oddworld - Abe's Oddysee (USA) (Rev 2).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6fff91e521214d61b07cb3e78e53d9f8",
+        "sha1": "01b8936933f8db86c15dab65c65086225085a411",
+        "crc32": "90365815"
+      }
+    },
+    {
+      "filename": "Oddworld - Abe's Oddysee (USA) (Rev 2).bin",
+      "filesize": 675489696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd0c2fd025a86f18ae8080cc81d2ebcc",
+        "sha1": "3507fb96d6c5d60f30b1d1b9e4b6dfc468f7cef0",
+        "crc32": "13cdee87"
+      }
+    }
+  ]
+}

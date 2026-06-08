@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Winning Post EX (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Winning Post EX (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a58dcb931b08486c23583d186048388a",
+        "sha1": "a8237a0d3d828ad618d291c8e5dabc8c30f03a43",
+        "crc32": "e3686845"
+      }
+    },
+    {
+      "filename": "Winning Post EX (Japan).bin",
+      "filesize": 195907488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df22d076f1ad24e615162f068fa7e555",
+        "sha1": "a4ce506f079a6e3f7fe55ad1aeb4477d45258913",
+        "crc32": "c3af95bd"
+      }
+    }
+  ]
+}

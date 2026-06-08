@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mr. Driller (Korea)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mr. Driller (Korea).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "701d2177a0cef57982ba344cb9efcfec",
+        "sha1": "200578c428a884089c8189aad999c60c875cac51",
+        "crc32": "a9f0f59e"
+      }
+    },
+    {
+      "filename": "Mr. Driller (Korea).bin",
+      "filesize": 371213808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7940935673b679a9adea35cbc804c066",
+        "sha1": "014b38bcaabb46513adf32ab2d80eae4c84e27c0",
+        "crc32": "8201ca6c"
+      }
+    }
+  ]
+}

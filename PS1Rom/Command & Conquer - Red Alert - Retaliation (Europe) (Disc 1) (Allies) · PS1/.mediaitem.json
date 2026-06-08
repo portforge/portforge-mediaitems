@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Red Alert - Retaliation (Europe) (Disc 1) (Allies)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Red Alert - Retaliation (Europe) (Disc 1) (Allies).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8548f8c66d6b3b8e5e8216b7951f7f75",
+        "sha1": "e8f42fb44ce9e4c276d85b4a8a7f6bd77a151d94",
+        "crc32": "a37ba5a6"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Red Alert - Retaliation (Europe) (Disc 1) (Allies).bin",
+      "filesize": 620645760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70d9806b71db26e60e6c4362d27db2c2",
+        "sha1": "ec604ed5c7afb14960698e19def0a36a41a32444",
+        "crc32": "d842b4d6"
+      }
+    }
+  ]
+}

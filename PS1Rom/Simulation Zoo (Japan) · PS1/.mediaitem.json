@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simulation Zoo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simulation Zoo (Japan).cue",
+      "filesize": 1026,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6fb744dfeb0adfd6f20bb3cd06061d33",
+        "sha1": "44b63a66c55e73b53e0ba909d4cc9eef4d2f3864",
+        "crc32": "cbf59b5a"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 1).bin",
+      "filesize": 43163904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b83e03f77c17613f8637569a4c8d71e",
+        "sha1": "352cca2376fa77a5d93fb1b735340d168b15d149",
+        "crc32": "8cc53b6b"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 2).bin",
+      "filesize": 7587552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ce2134086309c9be3fe4c2b1f25208e",
+        "sha1": "c82e3fda0ef8596d6e80ab4ae2b8c77faa8b50db",
+        "crc32": "3f3d3186"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 3).bin",
+      "filesize": 7695744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7002bc6d0d1473f7c97544b2f91876d",
+        "sha1": "1532e8b904aef01c1edcb3bec79f6366212ce08e",
+        "crc32": "1e2eebb0"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 4).bin",
+      "filesize": 8114400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e41a75c42d96458332042d3a8b62d28",
+        "sha1": "5aae089f0cb2936f721cc44ffff588c6de89b1e7",
+        "crc32": "e4e65866"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 5).bin",
+      "filesize": 7406448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "390646f43f80fe94ac360cff09164bbd",
+        "sha1": "5ac475b3696484ff5e42f990533aa4607e5d9831",
+        "crc32": "2a0b5cd7"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 6).bin",
+      "filesize": 7408800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a572b8e414520be6fa59ddf56a42bba",
+        "sha1": "53853d14375ad8b8f095245cefc071d9da8cc485",
+        "crc32": "87caaa44"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 7).bin",
+      "filesize": 7759248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60f2b8346aad3571e5b80df230ea48da",
+        "sha1": "8d96488db133d7b8ca803c12259e3c6a6dfa1990",
+        "crc32": "cb721775"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 8).bin",
+      "filesize": 7658112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7f21c358db1c505e1272933b0f9ef46",
+        "sha1": "f7c4428f2e003eada6744494a1b0accacc99ec5d",
+        "crc32": "ec214270"
+      }
+    },
+    {
+      "filename": "Simulation Zoo (Japan) (Track 9).bin",
+      "filesize": 32629296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81b69f8d86705c96102b8b27636daf40",
+        "sha1": "103215591ccf804239b781523882f62b8e0c81ad",
+        "crc32": "c34a9a7c"
+      }
+    }
+  ]
+}

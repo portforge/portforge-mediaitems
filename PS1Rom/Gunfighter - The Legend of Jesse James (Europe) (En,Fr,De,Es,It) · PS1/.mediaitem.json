@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gunfighter - The Legend of Jesse James (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gunfighter - The Legend of Jesse James (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "23e9765ad0a42f2ca23d6d8f1e2a95be",
+        "sha1": "434b483b67ed5a75fcf05f005c8e7a70904cd91f",
+        "crc32": "dfc197ba"
+      }
+    },
+    {
+      "filename": "Gunfighter - The Legend of Jesse James (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 190690752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0adfb88fb5784be689ced05b57e219d5",
+        "sha1": "84ec54912068ca3e15696387a3c150bd777eeb7e",
+        "crc32": "5b3398ba"
+      }
+    }
+  ]
+}

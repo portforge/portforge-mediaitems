@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil - Director's Cut (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil - Director's Cut (France).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e6c1e6a7efd9bc32f813f4bbe185fc1",
+        "sha1": "b9d37e052d443f650ffa1b452107b214db546121",
+        "crc32": "bb6f3443"
+      }
+    },
+    {
+      "filename": "Resident Evil - Director's Cut (France).bin",
+      "filesize": 720248256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f9f0c0a0e38a6e9e6527dba73b365f5",
+        "sha1": "5d9d1ea07595ae468ba4183a73331f0dace2384e",
+        "crc32": "f8adc16f"
+      }
+    }
+  ]
+}

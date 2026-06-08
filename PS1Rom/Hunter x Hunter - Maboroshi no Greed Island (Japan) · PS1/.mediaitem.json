@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hunter x Hunter - Maboroshi no Greed Island (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hunter x Hunter - Maboroshi no Greed Island (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc36417fd14be7f2ae0c2d1823276d7a",
+        "sha1": "1b619b5e84bcb28b1283e974cd661228eca2fb2f",
+        "crc32": "5ec43359"
+      }
+    },
+    {
+      "filename": "Hunter x Hunter - Maboroshi no Greed Island (Japan).bin",
+      "filesize": 129124800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e45f41d921a446d9eeed52c16bbe94e4",
+        "sha1": "af7f343cb4b2f3f5055cef78a5238d490c63c7da",
+        "crc32": "aa4f8a5e"
+      }
+    }
+  ]
+}

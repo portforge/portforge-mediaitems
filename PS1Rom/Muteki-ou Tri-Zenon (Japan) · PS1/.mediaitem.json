@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Muteki-ou Tri-Zenon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Muteki-ou Tri-Zenon (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "46279b4fc61aa04292412d0fafbbd646",
+        "sha1": "dff99bf08a83948dcc6f14bc749c1bedac76de44",
+        "crc32": "1ace4781"
+      }
+    },
+    {
+      "filename": "Muteki-ou Tri-Zenon (Japan).bin",
+      "filesize": 570992688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "240be50f674ee9b21019e97fcbcf41ca",
+        "sha1": "8d8787c8b7d2bf5b977f6ab514a16c27f249eecb",
+        "crc32": "4915b414"
+      }
+    }
+  ]
+}

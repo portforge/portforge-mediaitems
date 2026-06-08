@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Evergreen Avenue (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Evergreen Avenue (Japan).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4865da23cafa460229c70a4d5ca31f72",
+        "sha1": "3efbe0ab00b5c7d016bea82660cee778694b5c7f",
+        "crc32": "2d7d017d"
+      }
+    },
+    {
+      "filename": "Evergreen Avenue (Japan) (Track 1).bin",
+      "filesize": 448700448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea9282eb8c112ef6e14056d9e3631271",
+        "sha1": "7c16fdedb894d9d7e5d7b7b2185504d070b95191",
+        "crc32": "a00bea78"
+      }
+    },
+    {
+      "filename": "Evergreen Avenue (Japan) (Track 2).bin",
+      "filesize": 48719328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d9f61008909278c297325a971e0eabb",
+        "sha1": "79435ee88b38a2503213ee58fd16814ac497df07",
+        "crc32": "9e97fde8"
+      }
+    }
+  ]
+}

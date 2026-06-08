@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 13 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 13 (Germany).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a964de37352d49e20480ad7bb1cf6ff",
+        "sha1": "b9208fec23e56a190d3cf584b8bff67bedd336e4",
+        "crc32": "8d84ebb0"
+      }
+    },
+    {
+      "filename": "Euro Demo 13 (Germany) (Track 1).bin",
+      "filesize": 173960976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b03d5da0a1f611c4785ba2ed6ff33bfc",
+        "sha1": "40dc2997ee8862642fc3664362fa646c7897e2c8",
+        "crc32": "9b73939a"
+      }
+    },
+    {
+      "filename": "Euro Demo 13 (Germany) (Track 2).bin",
+      "filesize": 94087056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9977bef77cc7bf119800999d4abc70a2",
+        "sha1": "ff88b38557456b77f3d10bf052592ce45a49994f",
+        "crc32": "1ca9e4e8"
+      }
+    }
+  ]
+}

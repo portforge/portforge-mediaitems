@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula 2 - Die letzte Zufluchtsstaette (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula 2 - Die letzte Zufluchtsstaette (Germany) (Disc 1).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8948af2886da22cd55788e6cf82fdf14",
+        "sha1": "8af23f0d9e58b9bb85301de7aa9ee0cbb48b9a1b",
+        "crc32": "ea461bc0"
+      }
+    },
+    {
+      "filename": "Dracula 2 - Die letzte Zufluchtsstaette (Germany) (Disc 1).bin",
+      "filesize": 688987824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2e90e0b6cbe6d690cd430668021b3ad",
+        "sha1": "a45601734581f8ab5056e3f36592c9b4198bfb15",
+        "crc32": "5bcc6e00"
+      }
+    }
+  ]
+}

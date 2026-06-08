@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toushinden Subaru (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toushinden Subaru (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d47be419f6dbe26ee2ecb97d72e85b1b",
+        "sha1": "edc739f1afbc2d0f1c8b83de40ad39f986df6127",
+        "crc32": "1aa15576"
+      }
+    },
+    {
+      "filename": "Toushinden Subaru (Japan).bin",
+      "filesize": 650052816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1200dc77a48fbbb1af0e3337cd44054d",
+        "sha1": "72ca4e5528ae430e02cfc9bc931ac58f489ccd95",
+        "crc32": "4b34193b"
+      }
+    }
+  ]
+}

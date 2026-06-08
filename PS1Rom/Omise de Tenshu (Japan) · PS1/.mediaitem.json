@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Omise de Tenshu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Omise de Tenshu (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6b23ce81e39c04b198c48be2a08f717",
+        "sha1": "c7a8212bdab243e1ab786125b09ee779faf5b1fe",
+        "crc32": "07c18188"
+      }
+    },
+    {
+      "filename": "Omise de Tenshu (Japan).bin",
+      "filesize": 750466752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "797aa154abf23cdb7374388540e824f8",
+        "sha1": "f3a61f5c009bdc63bdb4b1fa69f3bc3d02630be9",
+        "crc32": "f60dd357"
+      }
+    }
+  ]
+}

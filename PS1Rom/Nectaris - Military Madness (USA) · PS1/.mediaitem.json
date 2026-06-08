@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nectaris - Military Madness (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nectaris - Military Madness (USA).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "853d381f44fba806a2d1725e9f9011da",
+        "sha1": "4770bb0cfe55b7260351847fc1bfb4c9039128f5",
+        "crc32": "cae76aaf"
+      }
+    },
+    {
+      "filename": "Nectaris - Military Madness (USA).bin",
+      "filesize": 485184672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c141e27b08123e34b42f326106aba2e7",
+        "sha1": "1cbb529c1f42761d8b78d18770cd09fb4d5f01d6",
+        "crc32": "40ec65af"
+      }
+    }
+  ]
+}

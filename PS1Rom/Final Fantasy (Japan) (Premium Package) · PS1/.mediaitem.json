@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy (Japan) (Premium Package)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy (Japan) (Premium Package).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "414dd8476080912272659f88f3ff6011",
+        "sha1": "705fffdce23cb4048fd449fd4fec5e38a1650e17",
+        "crc32": "6ce06b6a"
+      }
+    },
+    {
+      "filename": "Final Fantasy (Japan) (Premium Package).bin",
+      "filesize": 144958464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d04b2d03fdb7f5c0e5f64e867155e041",
+        "sha1": "7bb4537dfb37e4fd1cebba5f84591733c5224ff5",
+        "crc32": "461f2f93"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pandemonium 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pandemonium 2 (Europe).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18d51d6cfd4abce12aa8e7dbc91915d9",
+        "sha1": "5bca6bc64b1f94b9aa616a4d567391636acf6ee5",
+        "crc32": "dbf2e3f7"
+      }
+    },
+    {
+      "filename": "Pandemonium 2 (Europe).bin",
+      "filesize": 343269696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a5650da32b0aed735455846a82a23c3",
+        "sha1": "e5b87eac827626185ed0c5e4b77dd7abd97456f5",
+        "crc32": "af062349"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Prismaticallization (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Prismaticallization (Japan).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "294aea6af733a740bfaea23c624b6799",
+        "sha1": "517bf9a031e4415057559b3020299bd5e9dec2b0",
+        "crc32": "f829d156"
+      }
+    },
+    {
+      "filename": "Prismaticallization (Japan) (Track 1).bin",
+      "filesize": 127487808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "956df76b07dc9b9fd52fdbab5904718a",
+        "sha1": "cbd54275ae5e746acb40314984a1cd39c1df7adb",
+        "crc32": "d5a4ed04"
+      }
+    },
+    {
+      "filename": "Prismaticallization (Japan) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

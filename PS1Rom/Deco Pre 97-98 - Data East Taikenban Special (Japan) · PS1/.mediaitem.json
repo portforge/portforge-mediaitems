@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Deco Pre 97-98 - Data East Taikenban Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Deco Pre 97-98 - Data East Taikenban Special (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dce1f1e4756e135de47468ce4c3728f8",
+        "sha1": "b2b423f2eb309f010e2ca023e867dc0952d97147",
+        "crc32": "bdb1643b"
+      }
+    },
+    {
+      "filename": "Deco Pre 97-98 - Data East Taikenban Special (Japan).bin",
+      "filesize": 436754640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b21ebb1a1dab64365121aaa7c023076b",
+        "sha1": "131c7943d7f5c65fcf7ed28fc68f2395075edc97",
+        "crc32": "57fd05e3"
+      }
+    }
+  ]
+}

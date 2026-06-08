@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vampire Savior - EX Edition (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vampire Savior - EX Edition (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "edb354c1ef1ed3d0c718801ffa5aebaf",
+        "sha1": "1300afb6ffdb3cb7e736183ac8e7fdeb878ed3f4",
+        "crc32": "1d339627"
+      }
+    },
+    {
+      "filename": "Vampire Savior - EX Edition (Japan).bin",
+      "filesize": 750596112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "989e3eb1dd5f513dc1b081b41f6b48f8",
+        "sha1": "e7b436a4157071339c492f63d8221ca9270c5c4a",
+        "crc32": "f8be0799"
+      }
+    }
+  ]
+}

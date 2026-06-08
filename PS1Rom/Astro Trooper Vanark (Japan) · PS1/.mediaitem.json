@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Astro Trooper Vanark (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Astro Trooper Vanark (Japan).cue",
+      "filesize": 1458,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac24849af9bc9dc75562e1e416164d59",
+        "sha1": "6687f2ebc268db752d8b5cdf69cfa5fda5169ae2",
+        "crc32": "c63dcb52"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 01).bin",
+      "filesize": 408368352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "380d28db719b5866ebcc2ba456596e93",
+        "sha1": "9838c69b2a620ba5f46538fbd2c31f42e9b4b698",
+        "crc32": "d89f8153"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 02).bin",
+      "filesize": 31399200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50552e80c66f75b1cecd116f486d73de",
+        "sha1": "06856da967c1ad74f29983a2c9b75664833d6fda",
+        "crc32": "4ba79a99"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 03).bin",
+      "filesize": 24750096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "714c845feffa67059e371fc2b92e2dc7",
+        "sha1": "a729192aaa42f978d9f736e53e82197ab678ecc2",
+        "crc32": "3fcaa17a"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 04).bin",
+      "filesize": 32462304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5738b259d4286a889caf199208b6a0a0",
+        "sha1": "8e6dbbcb4e25888784f33dd8a5cb61ddc6e343ee",
+        "crc32": "fd1a2cbd"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 05).bin",
+      "filesize": 29282400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "819de018f2a3f2690867405e765b8f49",
+        "sha1": "1614340103a00ea1c820bfaabf54df2d0fc61ba4",
+        "crc32": "f8c68c89"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 06).bin",
+      "filesize": 31754352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ddb9250c5daef2146df5237507d1bfa",
+        "sha1": "a736a1efdb875d3f193c3dfd41894af179ba96ce",
+        "crc32": "3bf3ecf7"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 07).bin",
+      "filesize": 29919792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cb7c99434b42595651632f8cbf4592f",
+        "sha1": "87fcbbbfe1313d8f5d05afb43bf6ef93265907f0",
+        "crc32": "6ae5d4b7"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 08).bin",
+      "filesize": 4567584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3edb670cde83645f9bb94e16b460300f",
+        "sha1": "2e4623e7b2cc88df405b33dfa824bb48aa1d21d9",
+        "crc32": "6c11cc62"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 09).bin",
+      "filesize": 27694800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3eef7968522d863198d9393392a50e19",
+        "sha1": "d47afa50fbf69dbcbf70200fa560c43bb23f9254",
+        "crc32": "ab4d09b2"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 10).bin",
+      "filesize": 35028336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79526c5e660a421fe5374ea09292d853",
+        "sha1": "65944f01d85b3f1a62c21d12c7380a2eec9ccd63",
+        "crc32": "ba2dbd89"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 11).bin",
+      "filesize": 31928400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bc3831aaca43383972ffe6c7f0be88f",
+        "sha1": "6132c587e6169b2b672c3c11547de150afd4f717",
+        "crc32": "e2c50551"
+      }
+    },
+    {
+      "filename": "Astro Trooper Vanark (Japan) (Track 12).bin",
+      "filesize": 42161952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56fac9e994ae00894b1e3e8071d6969c",
+        "sha1": "712bbcd999795bc3df945c707fb24a017009e9bc",
+        "crc32": "e9d82f2c"
+      }
+    }
+  ]
+}

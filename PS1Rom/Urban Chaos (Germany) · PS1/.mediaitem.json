@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Urban Chaos (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Urban Chaos (Germany).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16f80e0032ed103570659a54981e0b6a",
+        "sha1": "fed91f983de87aea439c303b91c8c899aad597d1",
+        "crc32": "0b69e1b4"
+      }
+    },
+    {
+      "filename": "Urban Chaos (Germany).bin",
+      "filesize": 631897728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66aa53efceb095112ec9ce2ff5bd7f37",
+        "sha1": "21be089e370c6535a873f4a9baa31760730c7701",
+        "crc32": "b38ef72c"
+      }
+    }
+  ]
+}

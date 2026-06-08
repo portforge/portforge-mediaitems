@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monsters, Inc. - Monsters Academy (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monsters, Inc. - Monsters Academy (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61de14872a896810bf806d26361deb5b",
+        "sha1": "5b0626915d732ea5ac099d8bb347e4378308a576",
+        "crc32": "ee3fe4ae"
+      }
+    },
+    {
+      "filename": "Monsters, Inc. - Monsters Academy (Japan).bin",
+      "filesize": 734223840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d584ca520481f8705c3b109949be9b59",
+        "sha1": "a63777d5c53e205d88cb649fc22e4b8d4bf712e4",
+        "crc32": "f20b01f1"
+      }
+    }
+  ]
+}

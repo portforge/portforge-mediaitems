@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "OverBlood (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "OverBlood (Europe).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "868ca6b22d812c071715092f30e3ff15",
+        "sha1": "82e7926bda74c6603d18bfd2327beb3c9e4ac504",
+        "crc32": "aeba3b3e"
+      }
+    },
+    {
+      "filename": "OverBlood (Europe).bin",
+      "filesize": 700851312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "401601e8a64f9d629a95f3effa3a6043",
+        "sha1": "51c55332ca725cceb0d7205d219fb94bdcdeb12a",
+        "crc32": "f803366b"
+      }
+    }
+  ]
+}

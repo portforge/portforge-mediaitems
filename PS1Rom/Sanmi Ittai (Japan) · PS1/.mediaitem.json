@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sanmi Ittai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sanmi Ittai (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac6e4708a4fb45dd64708a4f655944d6",
+        "sha1": "a0a748bd030a660ff410c216d9c941dde198a475",
+        "crc32": "e10efca3"
+      }
+    },
+    {
+      "filename": "Sanmi Ittai (Japan).bin",
+      "filesize": 511788144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71f05c1b1fc01ce01282b86d2d4669b7",
+        "sha1": "bd67f1e0430b3390a1c4c4d2b50a689427e59b4c",
+        "crc32": "04d109c7"
+      }
+    }
+  ]
+}

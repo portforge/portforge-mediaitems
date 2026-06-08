@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dave Mirra Freestyle BMX - Maximum Remix (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dave Mirra Freestyle BMX - Maximum Remix (USA).cue",
+      "filesize": 262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3078f1673cafd137b964e6230b1e0c63",
+        "sha1": "eca13be8b812df8908365f1dff2c10b54288f7d3",
+        "crc32": "094cc709"
+      }
+    },
+    {
+      "filename": "Dave Mirra Freestyle BMX - Maximum Remix (USA) (Track 1).bin",
+      "filesize": 299734176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52249f8c4f7773116cf30a792eb25563",
+        "sha1": "767ea0cefb8e486ead9f277290dfc336574f9bfb",
+        "crc32": "c2e6c57c"
+      }
+    },
+    {
+      "filename": "Dave Mirra Freestyle BMX - Maximum Remix (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Exciting Pro Wres (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Exciting Pro Wres (Japan) (Demo).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2799629f4d9cfef17ab3a5fb784ff14f",
+        "sha1": "a1529d3aa2dea07d8e1b13229a2bdba37c930072",
+        "crc32": "3840d644"
+      }
+    },
+    {
+      "filename": "Exciting Pro Wres (Japan) (Demo).bin",
+      "filesize": 134647296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30ed8772133d7c6029502c6565a2b670",
+        "sha1": "7ef26e14b280441fbf1b29be426b3f7dac40c130",
+        "crc32": "9033596a"
+      }
+    }
+  ]
+}

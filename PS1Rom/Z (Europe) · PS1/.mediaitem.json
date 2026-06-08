@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Z (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Z (Europe).cue",
+      "filesize": 190,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa6c20fd8074134b1261a3aa7d5f3eda",
+        "sha1": "eb5e2b616f623a28cd6e16c9c33c2fe819a8a673",
+        "crc32": "ad69a56c"
+      }
+    },
+    {
+      "filename": "Z (Europe) (Track 1).bin",
+      "filesize": 665898240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdc3e639b35ac92ce7d6de8e038e9ec9",
+        "sha1": "7336280f5517a2fa9bd45bfcc340d3142631d207",
+        "crc32": "e39d2904"
+      }
+    },
+    {
+      "filename": "Z (Europe) (Track 2).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GunBullet (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GunBullet (Japan) (Rev 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5ab0e2a388e13388b962fb3b7ac271e1",
+        "sha1": "a7ad92c1d27ae6baeec0b1716f0bb9e8f0d27245",
+        "crc32": "cc28f370"
+      }
+    },
+    {
+      "filename": "GunBullet (Japan) (Rev 1).bin",
+      "filesize": 297918432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36da6b58008cc7a35ff2eed60dce6fca",
+        "sha1": "29af1699c4f9cd30ff16552d6cf7fc38b353536a",
+        "crc32": "85d41069"
+      }
+    }
+  ]
+}

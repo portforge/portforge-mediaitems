@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episode I - The Phantom Menace (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episode I - The Phantom Menace (Europe).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "84d22b4e0f56fb6dbac69500ebc57636",
+        "sha1": "67965dc5f7419d7fe2c358f07b2d7d585dea9ac0",
+        "crc32": "c3e0f7d1"
+      }
+    },
+    {
+      "filename": "Star Wars - Episode I - The Phantom Menace (Europe).bin",
+      "filesize": 675430896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42bee5c54967b84799674fdcb5b72294",
+        "sha1": "e811ef4d2d65fcaae4625c7721be1ae2ec813bf9",
+        "crc32": "7b7bbb11"
+      }
+    }
+  ]
+}

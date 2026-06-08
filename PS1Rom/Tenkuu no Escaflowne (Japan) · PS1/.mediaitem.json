@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenkuu no Escaflowne (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenkuu no Escaflowne (Japan).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3373a1d216b703b7cc8057218191279d",
+        "sha1": "cb68287d941625fb95c398f072424dcdb2532f56",
+        "crc32": "fb0cb887"
+      }
+    },
+    {
+      "filename": "Tenkuu no Escaflowne (Japan) (Track 1).bin",
+      "filesize": 515612496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28f82df7fedcf5bcd719d793b7679e64",
+        "sha1": "4083350077d56992c714d2ed90a23a5e57ac3b72",
+        "crc32": "a6736aa6"
+      }
+    },
+    {
+      "filename": "Tenkuu no Escaflowne (Japan) (Track 2).bin",
+      "filesize": 32986800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "140001a90c546f8c20b644dbbac32ae6",
+        "sha1": "5c876b512b0b57ca4ccc5fa2f8ee285788d56c7d",
+        "crc32": "1fe6a481"
+      }
+    }
+  ]
+}

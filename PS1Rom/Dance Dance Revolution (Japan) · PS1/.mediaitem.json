@@ -1,0 +1,417 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dance Dance Revolution (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dance Dance Revolution (Japan).cue",
+      "filesize": 5582,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3cc67c4e8dd5354a5978bac816666616",
+        "sha1": "d0f5cd9c1aa1ac973c5c9b4682b3e99af3929598",
+        "crc32": "2f0390c6"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 01).bin",
+      "filesize": 14935200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57d6ae6568a77409abfc94ba1d695b62",
+        "sha1": "03605ce9b3fea0f3455961577f815f2f47094a52",
+        "crc32": "74c201cf"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 02).bin",
+      "filesize": 10602816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9934fa23fc081ea14a58ce969ed17ea",
+        "sha1": "03969397ffbc2d76fb81b372be573f9e2639d5dd",
+        "crc32": "680a9f5c"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 03).bin",
+      "filesize": 12968928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e1794b64ce98ed3ff2d6443bed80673",
+        "sha1": "ebf168d26cd942b2df30fdf31e9f1d836b8ce62e",
+        "crc32": "28438c79"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 04).bin",
+      "filesize": 8582448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "002d1686888615cefddd0bb0b13b7e19",
+        "sha1": "8bbaa8922306bb23a8ae932f1667e421cce836e7",
+        "crc32": "b45a87e3"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 05).bin",
+      "filesize": 3970176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83594dc39e8885e8f0c428b43ba0be43",
+        "sha1": "58a190c4689ba1988d6190175e3355b89571a96b",
+        "crc32": "3694ebfd"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 06).bin",
+      "filesize": 3972528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56de6088f06a528cb1f178dc79cbc5ec",
+        "sha1": "b741e0da7b285d005e9ea554ddfb7dbd547a617b",
+        "crc32": "5320e9de"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 07).bin",
+      "filesize": 3970176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c868bac2dd9d10f6dd6b8e95a14b7592",
+        "sha1": "326771f567b93558ada003f5580e7bd15b8c374b",
+        "crc32": "4aedf43c"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 08).bin",
+      "filesize": 3974880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c507fda6eee62b34cf414e7250c84a36",
+        "sha1": "14189a0eeeb958f72be680d384eb1761296eec8b",
+        "crc32": "a671d419"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 09).bin",
+      "filesize": 3979584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60cf81c4f73b1cc124fda11844603a1c",
+        "sha1": "4a015c0450d9617f17019c1b05b2636281598ab6",
+        "crc32": "d877e186"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 10).bin",
+      "filesize": 3970176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96105b4dfb168a638ac715f788c5dcae",
+        "sha1": "c538a3428cc6590016a792aba9346c93f2872529",
+        "crc32": "62f58f61"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 11).bin",
+      "filesize": 3972528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f23ea418b09040ce0bf1bce1bbe96eaf",
+        "sha1": "e72ffdfa91fafbcb580f967ee58e12213263aaa1",
+        "crc32": "9f38a35d"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 12).bin",
+      "filesize": 3974880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "863f8eda57576cf609a3950c68bf7088",
+        "sha1": "45f3d0a93b1d20322097c85dcfcc4ff508fb41a5",
+        "crc32": "4a105710"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 13).bin",
+      "filesize": 3970176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fa82ff9371441fbb4a19c62766f1b34",
+        "sha1": "b52f027efe6b63c6a4ec06a1960c8c0edbce0708",
+        "crc32": "846a64d8"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 14).bin",
+      "filesize": 3970176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "579a4806cfb56875a49b5c81827671a9",
+        "sha1": "aed20865c0f113e6aaf2a2dd0a1b519603b2d3a9",
+        "crc32": "854f4202"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 15).bin",
+      "filesize": 3972528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f77c450c20ae31d61dd013a2bd2afb0",
+        "sha1": "8f3ecbc8962ef11ce4c7498cb5dacea88c632e85",
+        "crc32": "a59ab1a0"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 16).bin",
+      "filesize": 3883152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "547d3c3587b7261a90a0cfb32989fe50",
+        "sha1": "11079961e8fa720e9c5573dd11ac8c0534384b7d",
+        "crc32": "338f88d3"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 17).bin",
+      "filesize": 3883152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7530712ebf2535f1dca504fc15d72f1e",
+        "sha1": "4feb89e8aeb07fc873015cdb90b922b3d429c61d",
+        "crc32": "2e115950"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 18).bin",
+      "filesize": 3880800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1f1f191d0c5b95296ac56755d6ec821",
+        "sha1": "c8f08f50969d005c6f8ad2f691c20a9f003d60a6",
+        "crc32": "57bbe00d"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 19).bin",
+      "filesize": 3880800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "013d959506f317e3b8fe0db718dcd148",
+        "sha1": "c7196775f0ad68feee2833bb918370c26aff8d68",
+        "crc32": "c4105ede"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 20).bin",
+      "filesize": 3883152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "613e0114dffd5301ff9049ed69462b00",
+        "sha1": "bd9c6712298a6263a399c4ebd1e89c3da44bddca",
+        "crc32": "47d560bf"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 21).bin",
+      "filesize": 15417360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "138d78be9a5d0d059119bd5a97dfea5c",
+        "sha1": "0ab88a47ddd1179279a113c37bbc423f33809365",
+        "crc32": "a8eaa9e5"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 22).bin",
+      "filesize": 16962624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde9518eefb72515997986836d1bf645",
+        "sha1": "ac2dddcc844d599ce4971713d42a2017dda51729",
+        "crc32": "4a263920"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 23).bin",
+      "filesize": 17167248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e2f7997725b29afa28c471361a5596c",
+        "sha1": "7c4187a074cc82b839a60f87d09b6df6ad163225",
+        "crc32": "b688a02b"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 24).bin",
+      "filesize": 16348752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07743a283a5c885a957f32e44dde875d",
+        "sha1": "186ccd8165465f9ae0a5997870d8d72fc2e8d2cb",
+        "crc32": "ea3d400d"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 25).bin",
+      "filesize": 15676080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64c6eed69457ca9928b3c9a5df35d635",
+        "sha1": "41b89dec10e2f1ba72fb332af99ef0a74146ebfa",
+        "crc32": "c3f59a7e"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 26).bin",
+      "filesize": 16278192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0bb078bf8385a6995ac270066d699cdb",
+        "sha1": "390d6f5f440a52791d0f5f3000555efa3a4d17d1",
+        "crc32": "11372bf8"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 27).bin",
+      "filesize": 18251520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47dabdfbca814a33c7f5fec8e05cbb25",
+        "sha1": "03b17641dd2d71d4339f1f6aa89e7f03cfa51dd1",
+        "crc32": "b5dcfbc6"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 28).bin",
+      "filesize": 18223296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90649fe8dbe22abdbd02295547121215",
+        "sha1": "df3942f7912d2ab529b20e519ec6e461e6b55d00",
+        "crc32": "516270ed"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 29).bin",
+      "filesize": 15897168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30d70559d4ee8def74bb963fa4510699",
+        "sha1": "808e55c9afc57cfa4b0964b6e5e83921330481f3",
+        "crc32": "9f1510d0"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 30).bin",
+      "filesize": 15741936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "318c2a1dfdfb26d40790a793d248307a",
+        "sha1": "024475dbee1d27b38bc837d7daf9541ab49b3d84",
+        "crc32": "2376a4d4"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 31).bin",
+      "filesize": 17971632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24944231005553155d0e76f1e29f4a08",
+        "sha1": "61134229622b875c36221a77d4b4d4ee74538ed8",
+        "crc32": "4aa2f4a4"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 32).bin",
+      "filesize": 15617280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35f5b86928535bb2b717e0bd12ec3209",
+        "sha1": "980e599834cb98128e0d1239256aea185c92a64b",
+        "crc32": "17fa8a2b"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 33).bin",
+      "filesize": 16038288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "423dc88ca2f077f2828bc511c6788f60",
+        "sha1": "1b4ad0029949ce9bd135fde662c376b33d5fde4a",
+        "crc32": "15b3e509"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 34).bin",
+      "filesize": 18874800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b78bc089723dc0f155101b7e7450d66",
+        "sha1": "fc7b44e35907cfac315fe6d45bbd4c97ba12d95b",
+        "crc32": "a681a022"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 35).bin",
+      "filesize": 17992800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "349cc7bc687af3f6def579eabde219dc",
+        "sha1": "e109fb856d20b77bb36a1655683ba3709194e64f",
+        "crc32": "6161a92b"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 36).bin",
+      "filesize": 17059056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d72115f0c121ae7a9b215e47a1a37b6",
+        "sha1": "a0d95624da7be0d22ca659b04d8df853ddae0c50",
+        "crc32": "9c845b6c"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 37).bin",
+      "filesize": 14725872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4f8402a86baf3a6603364b536019b86",
+        "sha1": "1d6ca27b5ca8ed7c5bc7567eba1684096ed4661a",
+        "crc32": "661b31aa"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 38).bin",
+      "filesize": 8460144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6f53be4dc6075ee60f3f5107d410b73",
+        "sha1": "f927f785cc64ca1fb68433e624e387ae34e689da",
+        "crc32": "5aebdd83"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 39).bin",
+      "filesize": 14189616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a198dbec3b6b7138e1c5711f997f1864",
+        "sha1": "bfd30409be59f62fe87b3b2b09dc46c85d879ea6",
+        "crc32": "3da5f571"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution (Japan) (Track 40).bin",
+      "filesize": 32810400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b41983748aa0d53cb083711c2718fe99",
+        "sha1": "3cb2dfdb49c8996f864da64f728f60bb4d9b4569",
+        "crc32": "d62b7fe3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 2) (Yarudora Series Vol. 1 - Double Cast)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 2) (Yarudora Series Vol. 1 - Double Cast).cue",
+      "filesize": 157,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d903fed8b35291be7317ee3fbda2803",
+        "sha1": "3df328ba450bf7d46cfee89aa6501da6c9f0eef3",
+        "crc32": "d385206b"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 2) (Yarudora Series Vol. 1 - Double Cast).bin",
+      "filesize": 180080880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20e1cad06b885d36cb7a509dd66cba92",
+        "sha1": "f2721bb207edc681c63863458f634e6aaeb3cf36",
+        "crc32": "aa55b6af"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "From Software 1998 Summer Preview Movies (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "From Software 1998 Summer Preview Movies (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9c9707d42d2c7ffbbb1fe2267cc1fd6",
+        "sha1": "abac28d7b169e040e77369ca0a7a656a945b05a3",
+        "crc32": "07ace93d"
+      }
+    },
+    {
+      "filename": "From Software 1998 Summer Preview Movies (Japan).bin",
+      "filesize": 179723376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91114a79e743c60faeaea95f5d139ed5",
+        "sha1": "182d89002e5abaa2e355186dfb43acf86d1658e8",
+        "crc32": "4964a115"
+      }
+    }
+  ]
+}

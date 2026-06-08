@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "U.S. Navy Fighters (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "U.S. Navy Fighters (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16ec4bda5327f0c37925f4f4c65b5c2e",
+        "sha1": "abfdef1be15a07a34eacc0627574a80d81ed3f69",
+        "crc32": "3251b38e"
+      }
+    },
+    {
+      "filename": "U.S. Navy Fighters (Japan).bin",
+      "filesize": 741056400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "296a9bba7f05b394955a0ff2b39ec13f",
+        "sha1": "8f50326aede114fef51257ec67cdc47234211e5a",
+        "crc32": "790ce2d8"
+      }
+    }
+  ]
+}

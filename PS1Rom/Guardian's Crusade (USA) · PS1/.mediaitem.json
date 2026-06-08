@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guardian's Crusade (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guardian's Crusade (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "382069da5181ed209cc930144d1a7eb8",
+        "sha1": "461140b5354ecabff93bd41cdc96f244be0aaa89",
+        "crc32": "ed2e98a7"
+      }
+    },
+    {
+      "filename": "Guardian's Crusade (USA).bin",
+      "filesize": 437436720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b62c6abfd3ea70df6c97cccb81fdc4da",
+        "sha1": "d7eda1f08b91721842511348aff58818e12f486b",
+        "crc32": "cdc72c62"
+      }
+    }
+  ]
+}

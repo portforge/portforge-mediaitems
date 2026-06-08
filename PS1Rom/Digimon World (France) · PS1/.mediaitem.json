@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digimon World (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digimon World (France).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa436925557f86a9df2c79fb6b95316e",
+        "sha1": "79d0674994dbe23d896047742536e39437342b2f",
+        "crc32": "d67eab72"
+      }
+    },
+    {
+      "filename": "Digimon World (France).bin",
+      "filesize": 392482944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b98310870b2ab36f6e2ccb94d21243b5",
+        "sha1": "adfaa62f6756d1e363c50bd414d60a45f1f864b2",
+        "crc32": "a4e783fe"
+      }
+    }
+  ]
+}

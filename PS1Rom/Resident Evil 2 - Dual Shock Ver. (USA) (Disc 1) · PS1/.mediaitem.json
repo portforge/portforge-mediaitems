@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "781807bba71f5fed94b9b3f2762afd70",
+        "sha1": "1dd65940a5c2739196f078c3d9df9fed5ba4bae9",
+        "crc32": "93a8f1ce"
+      }
+    },
+    {
+      "filename": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Track 1).bin",
+      "filesize": 668960544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ca749ec7bc1604136718ca16fa55319",
+        "sha1": "62f53cd994d1e77dd8d7a67585623b03efb07da7",
+        "crc32": "6d23a781"
+      }
+    },
+    {
+      "filename": "Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

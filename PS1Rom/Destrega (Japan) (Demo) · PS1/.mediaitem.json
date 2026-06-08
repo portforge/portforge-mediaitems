@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Destrega (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Destrega (Japan) (Demo).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "961b5af01cfa1356f4a7ee243843b360",
+        "sha1": "31d26911519e4e23da4ffb0c401643242313155f",
+        "crc32": "69be20ce"
+      }
+    },
+    {
+      "filename": "Destrega (Japan) (Demo).bin",
+      "filesize": 566982528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a89617a615619efcc94bda6aa813857c",
+        "sha1": "0b8dddae5970bf07aedee40c61e665acd4f5386d",
+        "crc32": "1f048da0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MediEvil (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MediEvil (USA).cue",
+      "filesize": 198,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0088d69f42a50aec71be00b2658edf6",
+        "sha1": "7614f29a2e61008f822eeb4c1a817b48734280ce",
+        "crc32": "9de8722d"
+      }
+    },
+    {
+      "filename": "MediEvil (USA) (Track 1).bin",
+      "filesize": 528755472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53d908f5bd11d86f3deda75c2da3b750",
+        "sha1": "928257764f5107c9d27aa3e2d469c43aee591abd",
+        "crc32": "846f15a7"
+      }
+    },
+    {
+      "filename": "MediEvil (USA) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

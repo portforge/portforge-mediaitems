@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Moebius Link 3D (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Moebius Link 3D (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34560a31f962b049e17adadfbea90fdf",
+        "sha1": "2908e357ee01f8fcc89429bf79c01ed7a83a3aee",
+        "crc32": "f7ae5948"
+      }
+    },
+    {
+      "filename": "Moebius Link 3D (Japan).bin",
+      "filesize": 470715168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a7d45dae3890eda260cdc5df950368c",
+        "sha1": "eaaf89f68abbc75a705fab77a516025cbec74c7c",
+        "crc32": "32e28501"
+      }
+    }
+  ]
+}

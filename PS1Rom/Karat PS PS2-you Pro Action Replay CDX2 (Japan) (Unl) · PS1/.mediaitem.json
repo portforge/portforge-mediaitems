@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5c132a965e366d890d0ab2a573325bd",
+        "sha1": "bd71f27d72f5cd99e18296c63aab7abd15d2b238",
+        "crc32": "79b306e1"
+      }
+    },
+    {
+      "filename": "Karat PS PS2-you Pro Action Replay CDX2 (Japan) (Unl).bin",
+      "filesize": 158687088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dead382cdb7804e513c53826d46095a",
+        "sha1": "d3038dbf5a35610efd1ce9c53713c5ab932c68f6",
+        "crc32": "52c0a11a"
+      }
+    }
+  ]
+}

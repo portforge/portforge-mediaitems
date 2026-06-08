@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sister Princess - Pure Stories (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sister Princess - Pure Stories (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "daabb759a1390a180c79119916b0205b",
+        "sha1": "ab8707a388d8e4dcec06bcd47234bdb9e1e81f61",
+        "crc32": "9d810200"
+      }
+    },
+    {
+      "filename": "Sister Princess - Pure Stories (Japan).bin",
+      "filesize": 510746208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79ba285ee55815d9f1b0be49c2859f2c",
+        "sha1": "e14ac1ff1ea14bb897ce90532ac603c688dd4398",
+        "crc32": "434cccb8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 5 - The Igo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 5 - The Igo (Japan).cue",
+      "filesize": 804,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e30c371d626e98314016a0c4184621a7",
+        "sha1": "5788a18035c19b73ff897509c136eb11c3430339",
+        "crc32": "94f17068"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 5 - The Igo (Japan) (Track 1).bin",
+      "filesize": 61591824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "108b379382ec35bf7fc8ab6085b43044",
+        "sha1": "d8c0c5533d8dfeb148c85ef5f96d042617ca9288",
+        "crc32": "e8d40960"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 5 - The Igo (Japan) (Track 2).bin",
+      "filesize": 22033536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb9b877c55213da38e6ac26c3830c788",
+        "sha1": "297d8c74d393ba9d650f22bfd43316e829fa4fc5",
+        "crc32": "9a277590"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 5 - The Igo (Japan) (Track 3).bin",
+      "filesize": 34920144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b13d4c7d4b3643c02de718d84a361392",
+        "sha1": "300db02e1b8f5264703a38b18974ef3a0e423d78",
+        "crc32": "21c11d6a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 5 - The Igo (Japan) (Track 4).bin",
+      "filesize": 30733584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f4c288176d4c4ff8a0dd9047790b9d2",
+        "sha1": "3b02c05b004312ee070c3a9396a0a4dde3906c05",
+        "crc32": "22785581"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 5 - The Igo (Japan) (Track 5).bin",
+      "filesize": 28962528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee6756f7f275ab5b0915d69c2113edb9",
+        "sha1": "7c490c87df9d4fa0486177b7c796275fa2e5e631",
+        "crc32": "4f653be8"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 5 - The Igo (Japan) (Track 6).bin",
+      "filesize": 27565440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78e3489c57f6ccd79d6ad8959018f9a9",
+        "sha1": "47f2c1dae8ee07c89dfa4cd2cb8384dae0e46b59",
+        "crc32": "b4af00fc"
+      }
+    }
+  ]
+}

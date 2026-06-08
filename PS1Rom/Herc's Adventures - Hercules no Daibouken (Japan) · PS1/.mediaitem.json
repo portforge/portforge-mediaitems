@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Herc's Adventures - Hercules no Daibouken (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Herc's Adventures - Hercules no Daibouken (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3163145b8d24c4a894c790b87112a5f9",
+        "sha1": "3ab975b9ca2852f36f77c08b7b462ea3eb79017f",
+        "crc32": "22a94600"
+      }
+    },
+    {
+      "filename": "Herc's Adventures - Hercules no Daibouken (Japan).bin",
+      "filesize": 356713728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88ae9f9d589a1f37bee1e4172ee832c4",
+        "sha1": "e9679cf24ca00592713cda1a1e1ca350c19b5e24",
+        "crc32": "620a93d2"
+      }
+    }
+  ]
+}

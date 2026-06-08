@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Slug - Super Vehicle-001 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Slug - Super Vehicle-001 (Japan, Asia).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b5222b54b9a384759ac7597e9b1c9e0",
+        "sha1": "f887a048c4ffa5d4cfb69f2c629c2d6a736fd8cf",
+        "crc32": "e8bb9803"
+      }
+    },
+    {
+      "filename": "Metal Slug - Super Vehicle-001 (Japan, Asia).bin",
+      "filesize": 421675968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21e09195ddc88b7da756ae0163424c8f",
+        "sha1": "9b31d46b5d1ab9086e391545c8b309a99f3399ca",
+        "crc32": "ca543020"
+      }
+    }
+  ]
+}

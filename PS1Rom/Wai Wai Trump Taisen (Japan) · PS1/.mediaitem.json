@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wai Wai Trump Taisen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wai Wai Trump Taisen (Japan).cue",
+      "filesize": 714,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e39a6cc37c8409a7e9f92ac534527bdb",
+        "sha1": "234e9b51b8c74c4934c93bad5582020e3552fc1c",
+        "crc32": "fb511c70"
+      }
+    },
+    {
+      "filename": "Wai Wai Trump Taisen (Japan) (Track 1).bin",
+      "filesize": 8735328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b42bead492380feb4a030c8c76adfca",
+        "sha1": "f6fc8923f54b404bca9e0f5e82c333e918cf2122",
+        "crc32": "ab5c36b3"
+      }
+    },
+    {
+      "filename": "Wai Wai Trump Taisen (Japan) (Track 2).bin",
+      "filesize": 33882912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de38c12e03acc05f5358bb4c7740ac9f",
+        "sha1": "c6b0cd7ee8328342e6168e7f901a3bd8c439a944",
+        "crc32": "ecc9ecf3"
+      }
+    },
+    {
+      "filename": "Wai Wai Trump Taisen (Japan) (Track 3).bin",
+      "filesize": 36164352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2f824af6e3bb6914fe55c16f0da9f34",
+        "sha1": "865859498eaeb253bb91bb7b988aec1f2681625b",
+        "crc32": "c2c5754a"
+      }
+    },
+    {
+      "filename": "Wai Wai Trump Taisen (Japan) (Track 4).bin",
+      "filesize": 37646112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b365b15037c893d6a8243ad9b6952fb1",
+        "sha1": "7cb3fcbb529388c8e7409398a369716e8d4d6c77",
+        "crc32": "e520e222"
+      }
+    },
+    {
+      "filename": "Wai Wai Trump Taisen (Japan) (Track 5).bin",
+      "filesize": 57706320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db0db80dee92bb92c7f7e6a92d9e0d8",
+        "sha1": "91accea4d72ee11d24099b094d3d13c3de408275",
+        "crc32": "bd4f8846"
+      }
+    },
+    {
+      "filename": "Wai Wai Trump Taisen (Japan) (Track 6).bin",
+      "filesize": 37646112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b365b15037c893d6a8243ad9b6952fb1",
+        "sha1": "7cb3fcbb529388c8e7409398a369716e8d4d6c77",
+        "crc32": "e520e222"
+      }
+    }
+  ]
+}

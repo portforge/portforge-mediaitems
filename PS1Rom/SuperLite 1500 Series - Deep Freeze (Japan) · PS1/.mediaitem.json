@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Deep Freeze (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan).cue",
+      "filesize": 941,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21848447983e981b14a8eb9966f34bd7",
+        "sha1": "6c6c2295d847adf4c834d8e0cfd66be1a7de8e81",
+        "crc32": "a23c2eb7"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan) (Track 1).bin",
+      "filesize": 423341184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed6e91a5fa4c5cb0e353d36733d10e39",
+        "sha1": "d5f1cb215e72dd6b261414064cd7b8f54b581f44",
+        "crc32": "fe8e107e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan) (Track 2).bin",
+      "filesize": 2803584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d3e98e7704fffc396e831e5411cad21",
+        "sha1": "cf88ee95f80656a7dc0dac4087d136ffc8db6f80",
+        "crc32": "95a804f1"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan) (Track 3).bin",
+      "filesize": 5637744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d05f3372a809fd60970e9e82666e503",
+        "sha1": "8271c9ac3a908aef25a3068f17a3cc87bae64055",
+        "crc32": "b34d7d4d"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan) (Track 4).bin",
+      "filesize": 6098736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dcb89edb62cd775fca8cf16db81979e",
+        "sha1": "190545ab5073cd2c9d1286b9f892302863dda016",
+        "crc32": "5b1226e4"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan) (Track 5).bin",
+      "filesize": 19006512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a083eca6a9e29349abd0d362a6aec57e",
+        "sha1": "0389ee533debb9c02c86220baf09fcb139f69971",
+        "crc32": "3dfa2135"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan) (Track 6).bin",
+      "filesize": 19406352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7ec92235f013127ee5c824ea750d262",
+        "sha1": "9443f24cc3e7f41efd14ae9964f6c19a33345207",
+        "crc32": "57e17121"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Deep Freeze (Japan) (Track 7).bin",
+      "filesize": 19244064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd990f8d69889c83e0e92c2390e6f07c",
+        "sha1": "389c8f79753338fc512b52338e897f10465e6ada",
+        "crc32": "2ad7dcdb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pizza Hut Demo 01 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pizza Hut Demo 01 (France).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a1bce214d1a4d157db1bd8c317ef30a",
+        "sha1": "a84609ff14700e62ec4f52e3e4dfbb2dc4235f08",
+        "crc32": "1998b42f"
+      }
+    },
+    {
+      "filename": "Pizza Hut Demo 01 (France) (Track 1).bin",
+      "filesize": 104791008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "798c57dc4114a2b5ddc869a5923ef9dd",
+        "sha1": "0e518a3361ef1dd3d42aaf36925e76c628066fde",
+        "crc32": "5756ad2e"
+      }
+    },
+    {
+      "filename": "Pizza Hut Demo 01 (France) (Track 2).bin",
+      "filesize": 29844528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4867bfcd999c7c55b4057b4a4adc4dc5",
+        "sha1": "3298f7526566ea0d2c5b5c312fdffa727c272245",
+        "crc32": "0a6ae950"
+      }
+    },
+    {
+      "filename": "Pizza Hut Demo 01 (France) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

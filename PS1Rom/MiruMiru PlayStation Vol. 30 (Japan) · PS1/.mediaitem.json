@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MiruMiru PlayStation Vol. 30 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MiruMiru PlayStation Vol. 30 (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c255967b0f0a49a5b4f0d57b2c90f45e",
+        "sha1": "b40a2768d6272c9621eb82ca932719606654ef4a",
+        "crc32": "c5dd9bad"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 30 (Japan).bin",
+      "filesize": 619681440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2b7597aa7dad606360f028e42ed0035",
+        "sha1": "97e2e6edf2d9d15d3ee3743b35d5853cdf9c3b8e",
+        "crc32": "a74eaadb"
+      }
+    }
+  ]
+}

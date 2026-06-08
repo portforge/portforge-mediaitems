@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jang Jang Koi Shimashow Separate 2 - Koi Koi Shimashow (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jang Jang Koi Shimashow Separate 2 - Koi Koi Shimashow (Japan).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "79e8bb1e013c532db3789c123d22bfc9",
+        "sha1": "43927601626669677206c7cd6692157c37cba741",
+        "crc32": "7efc3f0d"
+      }
+    },
+    {
+      "filename": "Jang Jang Koi Shimashow Separate 2 - Koi Koi Shimashow (Japan).bin",
+      "filesize": 241451616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3542d2781c02ae06ef41c2e5bd44fc98",
+        "sha1": "78ee190bb36388a34519fd0954a2810d06a1c299",
+        "crc32": "7c61920e"
+      }
+    }
+  ]
+}

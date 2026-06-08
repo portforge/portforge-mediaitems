@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gourmet Action Game - Manpuku!! Nabe Kazoku (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gourmet Action Game - Manpuku!! Nabe Kazoku (Japan) (Demo).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3df37a8ea89366050da70d9e4708799f",
+        "sha1": "ad756ab24203b13ea895c743fced023afe8dbc16",
+        "crc32": "e5ef1e81"
+      }
+    },
+    {
+      "filename": "Gourmet Action Game - Manpuku!! Nabe Kazoku (Japan) (Demo).bin",
+      "filesize": 78662640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfaa5801590ed95224829089df1575b0",
+        "sha1": "daeea059369fc5427c99b547ccf8bcd2e5144707",
+        "crc32": "c365fced"
+      }
+    }
+  ]
+}

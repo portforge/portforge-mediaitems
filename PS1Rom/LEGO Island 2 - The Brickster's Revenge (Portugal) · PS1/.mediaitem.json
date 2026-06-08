@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LEGO Island 2 - The Brickster's Revenge (Portugal)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LEGO Island 2 - The Brickster's Revenge (Portugal).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bfe09f516d2057ae133a43b083dfb5c9",
+        "sha1": "26377d8f58e8e24e6a84adede1c1b7a71b60e35e",
+        "crc32": "456b787a"
+      }
+    },
+    {
+      "filename": "LEGO Island 2 - The Brickster's Revenge (Portugal).bin",
+      "filesize": 234600240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a18962e815e765acb44c6ba5b6f9731",
+        "sha1": "de55529320292c6b6eee5e487a66be077ceb738b",
+        "crc32": "cbc12a73"
+      }
+    }
+  ]
+}

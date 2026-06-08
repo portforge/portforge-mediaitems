@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Konami 80's Arcade Gallery (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Konami 80's Arcade Gallery (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c964894c0fd72b48af392932b4786ad6",
+        "sha1": "62df4ba3fffb785eccb245947ff96a42007494f0",
+        "crc32": "bfcf887d"
+      }
+    },
+    {
+      "filename": "Konami 80's Arcade Gallery (Japan).bin",
+      "filesize": 104106576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "481a7340807b427c8eea6ccf06b7e343",
+        "sha1": "fccebca939bca817509ae4bd9cd0bf01a523f188",
+        "crc32": "0882f7d8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cite des Enfants Perdus, La (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cite des Enfants Perdus, La (France).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f00659ce221a1bcec60b4caea4e783ba",
+        "sha1": "8791153103586bc6e3fca50a97a26f49ebe87ae6",
+        "crc32": "fc453cf4"
+      }
+    },
+    {
+      "filename": "Cite des Enfants Perdus, La (France) (Track 1).bin",
+      "filesize": 326403504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37daa75f8a50647170deaa17d142b2fa",
+        "sha1": "e52e5a58b01b5f009ca9e395d8b1872d67bd7632",
+        "crc32": "55e4a3dc"
+      }
+    },
+    {
+      "filename": "Cite des Enfants Perdus, La (France) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "XI [sai] (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "XI [sai] (Japan) (En,Ja).cue",
+      "filesize": 1410,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dfcb2501ccd3f8f7323b0b060018c7af",
+        "sha1": "b5c5f105fccf9966a6169af5d62c5886d3743a0f",
+        "crc32": "8c2eb716"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 01).bin",
+      "filesize": 111007344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a11b69f41dfcb8ed5bdd9eacf51b346",
+        "sha1": "4f40fed98d991a6dd7c27246dcc546e94801bdd1",
+        "crc32": "bd3d301f"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 02).bin",
+      "filesize": 35388192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00d7eab69d837db80a5edd863272fa58",
+        "sha1": "f1a07e0979fd60b8133a33d4d08225f54b08db3c",
+        "crc32": "35024124"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 03).bin",
+      "filesize": 35630448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d9d210c86c07dc53bdfb3adab074cba",
+        "sha1": "3d628940f4665f35037f26a0772e8d9bf5461d25",
+        "crc32": "deeb5fa8"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 04).bin",
+      "filesize": 32156544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a73ad1a4914020f844c3ef99ab24d331",
+        "sha1": "99ec52051cfc1fdf4d3cf13110586751eb07fc7d",
+        "crc32": "31ce5a0c"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 05).bin",
+      "filesize": 26815152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ac9915b4e2dbe9717e8866c397bda43",
+        "sha1": "734a213841f102a3eeb7ccb80b9c602bd5c192eb",
+        "crc32": "bb56936c"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 06).bin",
+      "filesize": 55478976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "482c55560a0bba74eaacb7018807ec3c",
+        "sha1": "70bf57776846bd58861040643fb9e17a32b2ce57",
+        "crc32": "32fb5501"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 07).bin",
+      "filesize": 11019120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a74d5853e3c2762c60cb91ae07c5c04c",
+        "sha1": "ba46360be9b08f4f2c642c339869edc94e084cf8",
+        "crc32": "e1e83550"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 08).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a478435f829fa679194acda9106f44d7",
+        "sha1": "11aec85440b81dff7f142e8cb1b803051fcf45d0",
+        "crc32": "596ed127"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 09).bin",
+      "filesize": 53987808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73adfea5157b39521c21f5274b70084b",
+        "sha1": "a4a33e6d1f8f7132b13ac638a2117959f49d33c7",
+        "crc32": "3d37b538"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 10).bin",
+      "filesize": 53769072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b993d12c9f7cab2e289b77166ef0c508",
+        "sha1": "dfaa7e08dd1bc747f5e8ddfe81081a14c4d99906",
+        "crc32": "5fb49c8a"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 11).bin",
+      "filesize": 23200128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f41858ad3b5fb6972f7681b42992684",
+        "sha1": "48b3726d3731c871f88a23c17133944db5396592",
+        "crc32": "5822a3e0"
+      }
+    },
+    {
+      "filename": "XI [sai] (Japan) (En,Ja) (Track 12).bin",
+      "filesize": 53517408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f251fa4d7f1f7c43578c2e963ff141a0",
+        "sha1": "077615993e111c45badf7d7182dec8c91d44a580",
+        "crc32": "bcc7309d"
+      }
+    }
+  ]
+}

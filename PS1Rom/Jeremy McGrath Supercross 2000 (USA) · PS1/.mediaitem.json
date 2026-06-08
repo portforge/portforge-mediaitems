@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jeremy McGrath Supercross 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jeremy McGrath Supercross 2000 (USA).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "170b61d9fae6525a14e4ebf6c17c58fa",
+        "sha1": "85cd8ad6021b499a6cdadc217fdead60417b5e5b",
+        "crc32": "152d875d"
+      }
+    },
+    {
+      "filename": "Jeremy McGrath Supercross 2000 (USA) (Track 1).bin",
+      "filesize": 253870176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0aee7bdc8ce40e517214c47fc62c0396",
+        "sha1": "e3304475a8fb7f4980dd0a76ea3ae31877d3172c",
+        "crc32": "10a17d71"
+      }
+    },
+    {
+      "filename": "Jeremy McGrath Supercross 2000 (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

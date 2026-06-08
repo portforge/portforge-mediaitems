@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alone in the Dark - The New Nightmare (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alone in the Dark - The New Nightmare (USA) (Disc 1).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a6a67eb489cb4b9c9bfca8b00950f66e",
+        "sha1": "3efdecfbbc1e5bda7644422cef8a80529d199db2",
+        "crc32": "fb7a5702"
+      }
+    },
+    {
+      "filename": "Alone in the Dark - The New Nightmare (USA) (Disc 1) (Track 1).bin",
+      "filesize": 605487120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46b0db812d12ec4e867ef2d54cf7fc5a",
+        "sha1": "920a9b59cc6f1bc24166885dea5e5c86d6473b93",
+        "crc32": "891b72c5"
+      }
+    },
+    {
+      "filename": "Alone in the Dark - The New Nightmare (USA) (Disc 1) (Track 2).bin",
+      "filesize": 39701760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58c3d11003689038fd5c7059442d0ce7",
+        "sha1": "16772899aa261f293cac0eb42dda924837f48a87",
+        "crc32": "5ccb351c"
+      }
+    }
+  ]
+}

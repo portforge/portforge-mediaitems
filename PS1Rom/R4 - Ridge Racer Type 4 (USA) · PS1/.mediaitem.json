@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R4 - Ridge Racer Type 4 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R4 - Ridge Racer Type 4 (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1da9034808dbb6de132b69429b051fb4",
+        "sha1": "7fb365c31e0a1f315479ac9eef1d6fde1a84bd1d",
+        "crc32": "bf1587ec"
+      }
+    },
+    {
+      "filename": "R4 - Ridge Racer Type 4 (USA).bin",
+      "filesize": 621421920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf1d92037b1b2be83b459c11f0b89eb6",
+        "sha1": "75f0dab5c1f71ba80f3d1e2fefd043f3f2b9ee2e",
+        "crc32": "1ffb6c27"
+      }
+    }
+  ]
+}

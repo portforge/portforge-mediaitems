@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Master (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Master (Japan).cue",
+      "filesize": 1142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1c6ddce60798ed6aed7a998950b24b3a",
+        "sha1": "7851ee73af60af60e1dd739c163b47bc409f6e4d",
+        "crc32": "e69a7967"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 01).bin",
+      "filesize": 234049872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d21f1d6b4f01a1cda0a0adf6eee8e034",
+        "sha1": "9d1a87c37b7ddeb974f292b408acf7e3ac6316df",
+        "crc32": "4a333cbe"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 02).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cf91cfd7e311916a3f87880392aa78d",
+        "sha1": "405c8ce2a002c4836f561181ad63e672e6848945",
+        "crc32": "d63237c6"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 03).bin",
+      "filesize": 16228800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a01a8db2877397895724ac17db625465",
+        "sha1": "14c3d61eabf741beaed20cc63430aaedf8f05802",
+        "crc32": "787f0fb3"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 04).bin",
+      "filesize": 16228800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd5adf8a75d603b448131f3643fea420",
+        "sha1": "da7f1f0cf33150ef2b3af51b2ac7b574177fd31a",
+        "crc32": "f2db7343"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 05).bin",
+      "filesize": 16228800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "969be14b3348d17017569811f7250953",
+        "sha1": "1a0def84ee9b502965afed21064a0b008d13db85",
+        "crc32": "de2bfdd1"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 06).bin",
+      "filesize": 16228800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "956a3bebc31d10a41af3bfd606b34595",
+        "sha1": "b1237a4bf01baa493a50591ca4d346e3ad56e8ae",
+        "crc32": "0431c851"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 07).bin",
+      "filesize": 16228800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e9fe619529cef7aa6750233df079b78",
+        "sha1": "3ef303ee0a099b35579741a084f2387ee11be996",
+        "crc32": "23517037"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 08).bin",
+      "filesize": 26815152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47b48a42d3ff23371563efa64b1a8f37",
+        "sha1": "655adf1a1716245694be801492213368439588a4",
+        "crc32": "6138aca2"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 09).bin",
+      "filesize": 21520800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9abfe6deb8c8eb990652841e38de64a",
+        "sha1": "ff3066967a03a9efc94ac92ebc50b0efd2d75586",
+        "crc32": "411f9678"
+      }
+    },
+    {
+      "filename": "Battle Master (Japan) (Track 10).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0580798280736865f5a3a0acf0070a3",
+        "sha1": "ebbc15d8445e79bcbfd4a229c32191c30ba9d2e0",
+        "crc32": "fd70a67f"
+      }
+    }
+  ]
+}

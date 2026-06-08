@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2003 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2003 (Italy).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a4fdbdbb6e773c920887e191d9b714ce",
+        "sha1": "b366f0a0e23d9f4fe232eb24bad807f6a9b530bf",
+        "crc32": "a6717018"
+      }
+    },
+    {
+      "filename": "NBA Live 2003 (Italy).bin",
+      "filesize": 382291728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80527e8b41b53e9f10da4d1fa2d59512",
+        "sha1": "1b62653d187893e6925568e6b46eff67fc0b2d2b",
+        "crc32": "be85b617"
+      }
+    }
+  ]
+}

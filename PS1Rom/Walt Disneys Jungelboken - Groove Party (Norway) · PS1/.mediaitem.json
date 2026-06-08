@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Walt Disneys Jungelboken - Groove Party (Norway)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Walt Disneys Jungelboken - Groove Party (Norway).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a23d27c9c4995030c0686c64258dbaf",
+        "sha1": "d2abc7bbc837a9a2d0c72869921a9bf4d80925fd",
+        "crc32": "ce9a5877"
+      }
+    },
+    {
+      "filename": "Walt Disneys Jungelboken - Groove Party (Norway).bin",
+      "filesize": 749398944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4355f6a0159663c8601ab3e95879f446",
+        "sha1": "7c4824ac3684ff9a09159bfd56fb527ffb4fde67",
+        "crc32": "b8d9d45d"
+      }
+    }
+  ]
+}

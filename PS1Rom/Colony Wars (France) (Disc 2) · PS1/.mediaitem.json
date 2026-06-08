@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars (France) (Disc 2).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0abb6ad7b5ddd3e9722da2ba7da55c29",
+        "sha1": "44d7b713bdcdd3f30fc3131e32d5edfb7fc1a436",
+        "crc32": "77119c8b"
+      }
+    },
+    {
+      "filename": "Colony Wars (France) (Disc 2) (Track 1).bin",
+      "filesize": 620709264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faee6bca6e1f3422d39f741b16a366d8",
+        "sha1": "f38253bdf22ac2161c257c48d3bc9a9e51be8f8c",
+        "crc32": "48b3e693"
+      }
+    },
+    {
+      "filename": "Colony Wars (France) (Disc 2) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

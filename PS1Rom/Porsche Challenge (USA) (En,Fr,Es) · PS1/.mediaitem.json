@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Porsche Challenge (USA) (En,Fr,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Porsche Challenge (USA) (En,Fr,Es).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7dfd1029e9a3245700e31322c3566ac2",
+        "sha1": "13d3366f226b13f43e19e74c0860f34f5d1800ba",
+        "crc32": "cd18bde8"
+      }
+    },
+    {
+      "filename": "Porsche Challenge (USA) (En,Fr,Es).bin",
+      "filesize": 557567472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cddb9470fc7f5f9ac43a3434a2e81dde",
+        "sha1": "ce14878c12993046cd788c55a258c5f844cf398c",
+        "crc32": "47c33149"
+      }
+    }
+  ]
+}

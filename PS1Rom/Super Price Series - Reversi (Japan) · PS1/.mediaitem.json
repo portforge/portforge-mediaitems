@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Price Series - Reversi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Price Series - Reversi (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "96030cb842d6db610e7cf47f316869fe",
+        "sha1": "bb0a1605c670a91b5ea746dfac40e80633dfd32f",
+        "crc32": "a150b225"
+      }
+    },
+    {
+      "filename": "Super Price Series - Reversi (Japan).bin",
+      "filesize": 34433280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ca206576b21f903f6cfc40cfd92058b",
+        "sha1": "d0a018e91c3b98aa417b36f0600547552051cea8",
+        "crc32": "f7420bd8"
+      }
+    }
+  ]
+}

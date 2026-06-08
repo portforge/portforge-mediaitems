@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blood Lines (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blood Lines (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b151f2a665635155d42922c35c2a272e",
+        "sha1": "1a58854a78a89a102a43ce2fbfd280850fcf99d5",
+        "crc32": "40b78308"
+      }
+    },
+    {
+      "filename": "Blood Lines (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 446179104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f34d4ec1ce3c317ae5d22f8707bde3c6",
+        "sha1": "9123c481e378971ba6ba5fe566a3431118dafe58",
+        "crc32": "6cf2f765"
+      }
+    },
+    {
+      "filename": "Blood Lines (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koukaku Kidoutai - Ghost in the Shell (Japan) (Demo 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koukaku Kidoutai - Ghost in the Shell (Japan) (Demo 1).cue",
+      "filesize": 278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67b56a99d66fb8c19eff23f6833873d0",
+        "sha1": "1a9ea8d5c00177e7bedeb58593721f72bd9055fe",
+        "crc32": "aa2d7c42"
+      }
+    },
+    {
+      "filename": "Koukaku Kidoutai - Ghost in the Shell (Japan) (Demo 1) (Track 1).bin",
+      "filesize": 54246528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "665ef140753fcba2d7f583cbed10dfd7",
+        "sha1": "0186affc4ea35aec66e7d60137b1f629d43badf6",
+        "crc32": "fe61b2e6"
+      }
+    },
+    {
+      "filename": "Koukaku Kidoutai - Ghost in the Shell (Japan) (Demo 1) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

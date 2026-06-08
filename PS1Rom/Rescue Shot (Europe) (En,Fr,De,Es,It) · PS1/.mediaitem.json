@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rescue Shot (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rescue Shot (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "995b31076dba509866ab4c2394255375",
+        "sha1": "ab6d2219fa2a84d1fb4025bd248970153d4418ce",
+        "crc32": "68cb2e19"
+      }
+    },
+    {
+      "filename": "Rescue Shot (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 578276832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "618503035eba943fe514575dccccbcca",
+        "sha1": "70ee5a3d719253a503613c050148fee4a2729612",
+        "crc32": "0a46ebac"
+      }
+    }
+  ]
+}

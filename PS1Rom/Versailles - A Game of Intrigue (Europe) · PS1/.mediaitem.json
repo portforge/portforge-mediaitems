@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Versailles - A Game of Intrigue (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Versailles - A Game of Intrigue (Europe).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2ee8eaef6bae56d96913105fae25e66",
+        "sha1": "1af883f6eb4b273ac1ec1fe0fb12460f88baf2c4",
+        "crc32": "c578fac6"
+      }
+    },
+    {
+      "filename": "Versailles - A Game of Intrigue (Europe).bin",
+      "filesize": 715257312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5517cde48c0ad8972a7ef03755c6443",
+        "sha1": "fdfcc6f8a9e8e28eabc3fc20bb5bc3273d8f9de6",
+        "crc32": "c902d183"
+      }
+    }
+  ]
+}

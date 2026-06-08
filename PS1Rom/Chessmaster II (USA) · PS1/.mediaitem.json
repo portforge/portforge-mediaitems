@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chessmaster II (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chessmaster II (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a65253f590d8204c4162d21e4b0332c",
+        "sha1": "c8a23957907f627e481aa710aace523bfb675a90",
+        "crc32": "f72432c5"
+      }
+    },
+    {
+      "filename": "Chessmaster II (USA).bin",
+      "filesize": 347512704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91179f4b9aba975c319b69a6ca19c58d",
+        "sha1": "062f91f2fc4a69d9f8b71039243e39cfcd15bbaf",
+        "crc32": "93e90bba"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LEGO Rock Raiders (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LEGO Rock Raiders (USA).cue",
+      "filesize": 1280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04264e388659a7ba1dcc96d47aba0f8d",
+        "sha1": "fb9b74c5beddc3d81fd8d521b68a693f277d7a24",
+        "crc32": "bf82b258"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 01).bin",
+      "filesize": 382371696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52585e57167913722b42a5535e08c073",
+        "sha1": "54da67bc0827b1fa4304f50f9d6a3e744bd4cd7c",
+        "crc32": "882d6f1d"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 02).bin",
+      "filesize": 24775968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97d74646b59fdefb04aedefbc26a81c4",
+        "sha1": "60e2d4cf2fc718b87fa74cc047aea2242d72310e",
+        "crc32": "7b715a33"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 03).bin",
+      "filesize": 33047952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3dc54bd6f7ca7bffd70d57e627c8b22a",
+        "sha1": "bfbce745d488b53b07e880b755cd7bb1719ab1e9",
+        "crc32": "f3b5f2ce"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 04).bin",
+      "filesize": 29131872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44943de414c9038a27a14b6f3da3141b",
+        "sha1": "a2a7e4bdf5e22afba8fa12eaf1ef2c66bd3f92cf",
+        "crc32": "8e700e6c"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 05).bin",
+      "filesize": 23392992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8025b3fa89e02b7c3f7ffeca865b3865",
+        "sha1": "03b454653cc9711d82e48375bdc9f675f5237ebc",
+        "crc32": "19210419"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 06).bin",
+      "filesize": 39167856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14a65eef8340fa044441cf818c1ee266",
+        "sha1": "ed23bbd7fbd3a32bf38d91bc31b24b0494bd171e",
+        "crc32": "45120c65"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 07).bin",
+      "filesize": 33551280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf2d2af3d2a4e9d372fe44253f1cfef7",
+        "sha1": "792bcb6b5089287f284caeaeb0e8be5db042658b",
+        "crc32": "71ddeecc"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 08).bin",
+      "filesize": 36599472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8eb5c3d366bec144a7360fcd56c2b7f6",
+        "sha1": "abb39d9d4558964537ff9911260f1aaa0a533553",
+        "crc32": "6a80a4be"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 09).bin",
+      "filesize": 26563488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af2a10c19a47532eeaae6a01ba08be5a",
+        "sha1": "269c67d5b835401941e82c1ec046ae6640413b2d",
+        "crc32": "bfd95b4a"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 10).bin",
+      "filesize": 28480368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6fca567568604267545b5f9f00bd2837",
+        "sha1": "84866c599b0fe15b216c22e918c454a466a1986f",
+        "crc32": "305cef8c"
+      }
+    },
+    {
+      "filename": "LEGO Rock Raiders (USA) (Track 11).bin",
+      "filesize": 34398000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d80267b2f93ec1e35e00cb1e28cbce71",
+        "sha1": "4f854df71612937fd698cad58df2f6fa1508f926",
+        "crc32": "50edc493"
+      }
+    }
+  ]
+}

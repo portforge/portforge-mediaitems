@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Japan) (Disc 3).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cd343c3bf8957e9674100bd59ae3ca8c",
+        "sha1": "a94d1b11f9d902110d1816068a9dd1089e5b144f",
+        "crc32": "e2e4e205"
+      }
+    },
+    {
+      "filename": "Cinema Eikaiwa Series Dai-5-dan - Zombie (Japan) (Disc 3).bin",
+      "filesize": 501996768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ccafba59b34314a80a1e2e671516e28",
+        "sha1": "c41ab54129f3f0afd30e774e2018a138d6a76568",
+        "crc32": "55f01a1c"
+      }
+    }
+  ]
+}

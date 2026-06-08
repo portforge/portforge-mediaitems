@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Registered Users Demo 03 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Registered Users Demo 03 (Europe).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69f4baa29eb2c040b583c63ca1f7b8fd",
+        "sha1": "167e6f8fb97b0b2f02e3a1240a6e2a397f324706",
+        "crc32": "b15b42c2"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 03 (Europe) (Track 1).bin",
+      "filesize": 327504240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be08cf899fb410985ffec168d6e61f53",
+        "sha1": "5fe11328c41fd187710ee47010e4240b7d1fca4a",
+        "crc32": "81a3eb76"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 03 (Europe) (Track 2).bin",
+      "filesize": 21207984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f9791b7f92a858312b2c4ddd0c059d4",
+        "sha1": "1d0e781a30d27a5b386be1b4e955863e133a62bd",
+        "crc32": "72f846e1"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 03 (Europe) (Track 3).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

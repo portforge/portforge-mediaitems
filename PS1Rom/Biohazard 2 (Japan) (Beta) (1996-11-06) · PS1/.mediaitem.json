@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Biohazard 2 (Japan) (Beta) (1996-11-06)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Biohazard 2 (Japan) (Beta) (1996-11-06).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a4579789fcf75e1776923e378503ad2",
+        "sha1": "b777b6188ea2f971d1b418e02868057b2e022004",
+        "crc32": "c9880865"
+      }
+    },
+    {
+      "filename": "Biohazard 2 (Japan) (Beta) (1996-11-06).bin",
+      "filesize": 124300848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db18fc310177704369c80ba28daec3c7",
+        "sha1": "20bb1e766e7bdd87e3959332bfda03def9965ea1",
+        "crc32": "2833fde9"
+      }
+    }
+  ]
+}

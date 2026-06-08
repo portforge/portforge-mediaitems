@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Graes-Rodderne (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Graes-Rodderne (Denmark).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "26fbd6ad17819ff1b6c973c6beaef037",
+        "sha1": "e6a37f4d9bd8d32c5e3cfd8d558659ac18a4135d",
+        "crc32": "3225d22a"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Graes-Rodderne (Denmark).bin",
+      "filesize": 739367664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9b536f3d8c43ca110d79a5443823051",
+        "sha1": "05769d331ba7ee7fb04405527266afabb55baf4f",
+        "crc32": "fdc61795"
+      }
+    }
+  ]
+}

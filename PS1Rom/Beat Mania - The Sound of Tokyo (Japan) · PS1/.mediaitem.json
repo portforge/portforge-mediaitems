@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beat Mania - The Sound of Tokyo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beat Mania - The Sound of Tokyo (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "993185cbe844bced0bbeaed03a70eea4",
+        "sha1": "a0f4861ddf7b251abef9e33c3fa6e7b92bb792b6",
+        "crc32": "4e5c2631"
+      }
+    },
+    {
+      "filename": "Beat Mania - The Sound of Tokyo (Japan).bin",
+      "filesize": 242472384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acf429be9a196550589130a3015391bd",
+        "sha1": "087aab84fc38b987043ea41f8eaa8b77af0a488d",
+        "crc32": "dbc28d20"
+      }
+    }
+  ]
+}

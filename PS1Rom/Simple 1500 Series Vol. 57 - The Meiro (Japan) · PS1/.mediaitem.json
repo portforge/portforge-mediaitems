@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 57 - The Meiro (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 57 - The Meiro (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "417b404d141d65dd160c179adb8a5228",
+        "sha1": "5697d688f2026348169c46e1a387ca4fee45a7ac",
+        "crc32": "9b29ff57"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 57 - The Meiro (Japan).bin",
+      "filesize": 97191696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8870985b9d923a4c0142c88e89b0b3c",
+        "sha1": "ffe68b3708b32d67e18a433b624a845ef137b55f",
+        "crc32": "9cb07ee3"
+      }
+    }
+  ]
+}

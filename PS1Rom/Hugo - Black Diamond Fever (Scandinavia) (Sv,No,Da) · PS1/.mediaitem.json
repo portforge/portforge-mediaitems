@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo - Black Diamond Fever (Scandinavia) (Sv,No,Da)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo - Black Diamond Fever (Scandinavia) (Sv,No,Da).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9778778a6cdac6f12383cd7375ee4a11",
+        "sha1": "3b7c582593b733ccc7b0c4f9f8a62d89564d1d2a",
+        "crc32": "f24bbd93"
+      }
+    },
+    {
+      "filename": "Hugo - Black Diamond Fever (Scandinavia) (Sv,No,Da).bin",
+      "filesize": 578422656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37a01f1e484ecf8d07fe72ba7dc23491",
+        "sha1": "b186ffcb53a952f0b187d68a91daaec4ba71396f",
+        "crc32": "cf93dd76"
+      }
+    }
+  ]
+}

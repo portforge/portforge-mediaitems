@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Open Golf, The - History of Turnberry (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Open Golf, The - History of Turnberry (Japan).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f744dac80d50bdb29b988e4f820c02f2",
+        "sha1": "f2b8b056ce3068663114ac8b04f51ec3dfbe1e42",
+        "crc32": "ba56ef67"
+      }
+    },
+    {
+      "filename": "Open Golf, The - History of Turnberry (Japan) (Track 1).bin",
+      "filesize": 192038448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b09e2aecb012a9dbd9fdf043458bb485",
+        "sha1": "f85b4cece660706f05235923e29832e15829d183",
+        "crc32": "7079ac5e"
+      }
+    },
+    {
+      "filename": "Open Golf, The - History of Turnberry (Japan) (Track 2).bin",
+      "filesize": 457532208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "074738a7b004473fdf8548adbcd938f9",
+        "sha1": "05bd4a5478f906dae90d10a75ebf1fc806825329",
+        "crc32": "240d8fac"
+      }
+    }
+  ]
+}

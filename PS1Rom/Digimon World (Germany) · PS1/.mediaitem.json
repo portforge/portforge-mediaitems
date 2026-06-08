@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digimon World (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digimon World (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b8bd2419c1104c3c6af4a7cbb6021f6",
+        "sha1": "6cc8f7392c020b6f801fe880e3ac2db80d776b95",
+        "crc32": "da224022"
+      }
+    },
+    {
+      "filename": "Digimon World (Germany).bin",
+      "filesize": 392485296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec7b612b6fd36f505d09e1b64d411eb7",
+        "sha1": "408fa08bf1b8a72f421d6caa02f146cf43513133",
+        "crc32": "e8abaab4"
+      }
+    }
+  ]
+}

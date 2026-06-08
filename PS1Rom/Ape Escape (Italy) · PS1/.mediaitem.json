@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ape Escape (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ape Escape (Italy).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73b5981ea9e0ae110ee76357bda76b65",
+        "sha1": "69acdd1956a53ae3204c91e4adec0c8358eecb4b",
+        "crc32": "2b3df219"
+      }
+    },
+    {
+      "filename": "Ape Escape (Italy).bin",
+      "filesize": 426791568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "963e34aba2a4aa6f327b567fe2dc93d0",
+        "sha1": "cf4b96b4e08afbf19876b071e4ebf2dcaba5adbd",
+        "crc32": "a22749eb"
+      }
+    }
+  ]
+}

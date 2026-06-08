@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wreckin Crew - Drive Dangerously (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wreckin Crew - Drive Dangerously (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5a83f2d82cc59074ea0b6a5887d2843",
+        "sha1": "d5aed851ad1b37ba925c67a945025591e98d7591",
+        "crc32": "0df49dfd"
+      }
+    },
+    {
+      "filename": "Wreckin Crew - Drive Dangerously (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 348665184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be2283f67fed29ebcf7df6d65bfcd62f",
+        "sha1": "154cfd2086ebc6f4cbf6d94cf39294db0872df53",
+        "crc32": "4f1680d3"
+      }
+    }
+  ]
+}

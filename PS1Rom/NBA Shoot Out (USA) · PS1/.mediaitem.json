@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Shoot Out (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Shoot Out (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c56b02baeb82852a745a6f99020d16b8",
+        "sha1": "185a9ceae82d4588240f4f4735499533bb7e495a",
+        "crc32": "59f450ac"
+      }
+    },
+    {
+      "filename": "NBA Shoot Out (USA).bin",
+      "filesize": 505974000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b221da99863d992c78683074fe7e0343",
+        "sha1": "c07d13ee220c6494abe3bdfeb52fff22279c7325",
+        "crc32": "b5f4fb54"
+      }
+    }
+  ]
+}

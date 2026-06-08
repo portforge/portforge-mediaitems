@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Elf o Karu Monotachi II (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Elf o Karu Monotachi II (Japan) (Disc 2).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae0f4882eb237a0f881aa0a563908aa0",
+        "sha1": "d66c6d0b6b72323e987f68a60e7f8a8a1a6d3c37",
+        "crc32": "9ebf8570"
+      }
+    },
+    {
+      "filename": "Elf o Karu Monotachi II (Japan) (Disc 2).bin",
+      "filesize": 735954912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09007d33a09e9fa9acd06c0b3c8af90a",
+        "sha1": "102fe71613a9ce521ff7a06815335f9a39dd147c",
+        "crc32": "20b057f4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marvel Super Heroes (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marvel Super Heroes (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7498ec0348529d74238c31257f8698da",
+        "sha1": "887aa73a6723925fac5b4c0825c93e2b2da9c30f",
+        "crc32": "ff162381"
+      }
+    },
+    {
+      "filename": "Marvel Super Heroes (Japan).bin",
+      "filesize": 483124320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c470143005c3cb28d4ccd5433c42dd3",
+        "sha1": "6d2dd311d99ddd4be55752997c2ee2f864041c02",
+        "crc32": "bffda39a"
+      }
+    }
+  ]
+}

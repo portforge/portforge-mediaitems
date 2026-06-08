@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MLB Pennant Race (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MLB Pennant Race (Japan) (Demo).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29b35cb05c2c1c610649e38a171614d2",
+        "sha1": "b90074ce1cbed0824c6679f1d8ef36fe35012bb0",
+        "crc32": "a5922736"
+      }
+    },
+    {
+      "filename": "MLB Pennant Race (Japan) (Demo) (Track 1).bin",
+      "filesize": 44586864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00bbc90431aa84451bd344d3278816ad",
+        "sha1": "4de2d68ad59ae8b5cea9f15701b6f30b2f5e3269",
+        "crc32": "f3c2adad"
+      }
+    },
+    {
+      "filename": "MLB Pennant Race (Japan) (Demo) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c52e5171076de8d1e71ad26beb149439",
+        "sha1": "516860c8c517b95bbbc6e38efef879814ce83476",
+        "crc32": "dcbc8577"
+      }
+    },
+    {
+      "filename": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).bin",
+      "filesize": 527760576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91be57e40523d74b7a7cc88ddd54871a",
+        "sha1": "89a20fe7cda67d5f82fc5546ed008694fb7459d9",
+        "crc32": "2d909f02"
+      }
+    }
+  ]
+}

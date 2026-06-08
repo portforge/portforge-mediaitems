@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2004 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2004 (Italy).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "463f2c9c9e12e93298553799683aaded",
+        "sha1": "c73e3a056422c685768440416975e113448496fb",
+        "crc32": "27879f4c"
+      }
+    },
+    {
+      "filename": "FIFA Football 2004 (Italy).bin",
+      "filesize": 682992576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06a0e6dc10e5ed901909a8efc89ec9fb",
+        "sha1": "af1fa1c43b79f6daa679e3c93863ef61125bec05",
+        "crc32": "d74158d5"
+      }
+    }
+  ]
+}

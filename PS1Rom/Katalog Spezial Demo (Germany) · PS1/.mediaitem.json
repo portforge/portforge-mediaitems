@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Katalog Spezial Demo (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Katalog Spezial Demo (Germany).cue",
+      "filesize": 602,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ed082ecdfdb06669538a4bef728355ea",
+        "sha1": "a12764a5322894bbf2f6e15153d6b822d21ad0f5",
+        "crc32": "8e4577d2"
+      }
+    },
+    {
+      "filename": "Katalog Spezial Demo (Germany) (Track 1).bin",
+      "filesize": 518658336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8aa9bb2049389e8a2ca4dac2a0d924c7",
+        "sha1": "6ac35c9914f54d1e2702989c296618dc87f49303",
+        "crc32": "f241d044"
+      }
+    },
+    {
+      "filename": "Katalog Spezial Demo (Germany) (Track 2).bin",
+      "filesize": 19189968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3543e2f246efe2880128e0079b62952f",
+        "sha1": "42ead3f2cddc386ea60f1778d75b18a6d0ca1b8c",
+        "crc32": "2ed908e7"
+      }
+    },
+    {
+      "filename": "Katalog Spezial Demo (Germany) (Track 3).bin",
+      "filesize": 14239008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19cdcad5259984354970fc6fd978064d",
+        "sha1": "d67aa5e994347b9cf2c3893bad0f76375d2b6d01",
+        "crc32": "0707e7c6"
+      }
+    },
+    {
+      "filename": "Katalog Spezial Demo (Germany) (Track 4).bin",
+      "filesize": 20794032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "437019bc22b56298aeae9230c73688ed",
+        "sha1": "e53df92d137f460fbedc2f26e91217ab5c122d59",
+        "crc32": "cac70485"
+      }
+    },
+    {
+      "filename": "Katalog Spezial Demo (Germany) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

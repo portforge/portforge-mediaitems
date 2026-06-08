@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Max Power Racing (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Max Power Racing (Europe).cue",
+      "filesize": 1053,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7892ece628d84860cdb6256ad0856e97",
+        "sha1": "64e55a281f37ef10ec6cad04381a981823779715",
+        "crc32": "22ca8fa3"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 1).bin",
+      "filesize": 117736416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30d14fde192ae98e654de1565c4a850b",
+        "sha1": "f880f8eab2548c4e12e456c912b23ebfe763a4f5",
+        "crc32": "fe98e15e"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 2).bin",
+      "filesize": 41832672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "919fd8ce0b3729016a9e85e91ae1c385",
+        "sha1": "d902c79170e1897d21f4d9f64ea679858a2442cb",
+        "crc32": "a05a06f8"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 3).bin",
+      "filesize": 68424384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3562c082dfaa6042b69cc909a2e52326",
+        "sha1": "3caa533ac708091a6416d8b1de378bf5bc992742",
+        "crc32": "1f12418f"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 4).bin",
+      "filesize": 81948384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62a0ae6487790a54567c156248c7c8f8",
+        "sha1": "d76708d4c9027b27a90f5a8f5ddf9c725415da95",
+        "crc32": "3150c907"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 5).bin",
+      "filesize": 41232912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9b6c57b4f9c31aed954f6e569788059",
+        "sha1": "8a7e9618077150b58f55d68993259a92b8f8252a",
+        "crc32": "bad24f9e"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 6).bin",
+      "filesize": 39960480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03b09cf688b623a9350a53205d2c13fb",
+        "sha1": "44f4b7003a4a1233af8c22d34f503c179ce6a503",
+        "crc32": "388ca8e1"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 7).bin",
+      "filesize": 61286064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5496358e0ded74a792d1eec439bc8fb0",
+        "sha1": "25d8fcd168777ed85ce01065df83f1b7fa2e4829",
+        "crc32": "118e0a47"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 8).bin",
+      "filesize": 57661632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8825adef2bfbcdeb44cdf3109dde32b",
+        "sha1": "ff667575ab16286d352c4f54768c539a6e3c6469",
+        "crc32": "d82659c0"
+      }
+    },
+    {
+      "filename": "Max Power Racing (Europe) (Track 9).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

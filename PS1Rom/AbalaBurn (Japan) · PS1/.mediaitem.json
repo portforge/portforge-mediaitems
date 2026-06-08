@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "AbalaBurn (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "AbalaBurn (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0985c86d669a59ccdad142f1bfc6bd4c",
+        "sha1": "f0ee9e7bfc0a7b8f81a52f4e397b288d93d9ec76",
+        "crc32": "d3303f62"
+      }
+    },
+    {
+      "filename": "AbalaBurn (Japan).bin",
+      "filesize": 744911328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0bef24df91380d72729cc8a5bd89f4d5",
+        "sha1": "f82d18cefb72c5400139a3dea1bda317bd2abc25",
+        "crc32": "a852ed73"
+      }
+    }
+  ]
+}

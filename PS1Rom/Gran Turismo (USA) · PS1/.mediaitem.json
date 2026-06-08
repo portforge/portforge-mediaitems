@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11109e77cab063a284eb02423fedb1d9",
+        "sha1": "053f6842ce06f163afeab5898da57bbe7f6a651d",
+        "crc32": "79cff3bf"
+      }
+    },
+    {
+      "filename": "Gran Turismo (USA).bin",
+      "filesize": 693668304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c93d50d1be15a65b90ec6fde0ca7f1f",
+        "sha1": "999f4fccddb330171d1d018fbc5347531f4c9645",
+        "crc32": "f76f5118"
+      }
+    }
+  ]
+}

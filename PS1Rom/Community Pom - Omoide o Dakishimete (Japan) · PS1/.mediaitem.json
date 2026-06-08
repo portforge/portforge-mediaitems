@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Community Pom - Omoide o Dakishimete (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Community Pom - Omoide o Dakishimete (Japan).cue",
+      "filesize": 672,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aabc56698ad8f04e320fdb344241303a",
+        "sha1": "e11afbf9a56b1fa904bed382cbf3d3f652483c99",
+        "crc32": "abd79662"
+      }
+    },
+    {
+      "filename": "Community Pom - Omoide o Dakishimete (Japan) (Track 1).bin",
+      "filesize": 99828288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0cb6fa5b0e4393470f6421f7a34962a",
+        "sha1": "1931389de63773bc16551a15cc8c7fcd498f3766",
+        "crc32": "1e64d528"
+      }
+    },
+    {
+      "filename": "Community Pom - Omoide o Dakishimete (Japan) (Track 2).bin",
+      "filesize": 7458192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52d4a1ce37be0145ccd5b7a5d12264fc",
+        "sha1": "e590af8a874173ffad4c5e1e08757b1b991bea63",
+        "crc32": "c3ba5bf0"
+      }
+    },
+    {
+      "filename": "Community Pom - Omoide o Dakishimete (Japan) (Track 3).bin",
+      "filesize": 12893664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cdb824fb720510a87d81d85e183af37",
+        "sha1": "dd7ee5b4701d769d38da209ec6a61c8d0cfab6df",
+        "crc32": "b1bf169a"
+      }
+    },
+    {
+      "filename": "Community Pom - Omoide o Dakishimete (Japan) (Track 4).bin",
+      "filesize": 34287456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "729b013f3c86f228b15309e89ea30150",
+        "sha1": "150283a6b5b64a3724a6879b8742a68c9ff33ab2",
+        "crc32": "86b83615"
+      }
+    },
+    {
+      "filename": "Community Pom - Omoide o Dakishimete (Japan) (Track 5).bin",
+      "filesize": 32109504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a0ccf78d3fa9acff876d2170bc1adfc",
+        "sha1": "b4ae7c61d20080b036c552ed0b8a46a79496cca9",
+        "crc32": "07acc902"
+      }
+    }
+  ]
+}

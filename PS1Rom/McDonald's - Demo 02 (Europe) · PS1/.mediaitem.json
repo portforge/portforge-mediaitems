@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "McDonald's - Demo 02 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "McDonald's - Demo 02 (Europe).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18bcaef3253e29ebf138fdd229dcb9e4",
+        "sha1": "503250e2f6bd97cd3e51d5dc3c9f577fc4c18bfa",
+        "crc32": "281944ad"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 02 (Europe).bin",
+      "filesize": 193320288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c06a85e9544e7f627edda2bccc27e98f",
+        "sha1": "8e2670db7f2a548ae869644f5661ea000dbff141",
+        "crc32": "9ce2f4e8"
+      }
+    }
+  ]
+}

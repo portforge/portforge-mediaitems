@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Swagman (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Swagman (Europe) (En,Fr,De).cue",
+      "filesize": 1568,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89dafc901e43686afac8eb6c1207d820",
+        "sha1": "16998d58a0b1f2ee4e07fea6d4bd612b33e190ac",
+        "crc32": "840b9e3e"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 01).bin",
+      "filesize": 211421280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb82d9c0688c8ea355a65603cebf4a94",
+        "sha1": "69d0071c723fce0327e62fc0c05212d69c60485c",
+        "crc32": "2c53291d"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 02).bin",
+      "filesize": 37206288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80bf298c293f1fe24dd25f604dba85a4",
+        "sha1": "7805a3d9547cfc7741381d472fed33e2a6d6548d",
+        "crc32": "704467bb"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 03).bin",
+      "filesize": 39012624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "112ccd73dfd9b5bbcb1cbfeaa34de03b",
+        "sha1": "e893cc9de3f8d43ad747f68416658c0b1d582acf",
+        "crc32": "0673f8ab"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 04).bin",
+      "filesize": 28336896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86a2bfbbb6855a9d4f22aa8e042410ae",
+        "sha1": "30a88bdc3cd6fb6b245ea766fb20a364f4345c13",
+        "crc32": "9caca4a9"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 05).bin",
+      "filesize": 34760208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a665550e60360651d285934df32698a",
+        "sha1": "d65a4c4599be7eea966cc99297e7985314fe6e18",
+        "crc32": "178f96dd"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 06).bin",
+      "filesize": 39078480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82c52342d04e9d71fedf8474eb5aff11",
+        "sha1": "cba72c1005487862da3f0580aaf315b9ad50a391",
+        "crc32": "494ccbcf"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 07).bin",
+      "filesize": 39617088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69d6023a91f8850d8588266a4ed25b47",
+        "sha1": "a3ad3dff4c1c0a70c98e258273cf9d4f65ab9167",
+        "crc32": "80eea922"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 08).bin",
+      "filesize": 35207088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4c4b5b25a83d9806a87aa9c9464b14f",
+        "sha1": "ead7aa34e206a85ed7464e534e0f214281931157",
+        "crc32": "1125e4e8"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 09).bin",
+      "filesize": 28496832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c78f1e9dbc58a53217cebd88abb0410b",
+        "sha1": "fac884b1337e3124f52a58085df85a32a76de09e",
+        "crc32": "ded52805"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 10).bin",
+      "filesize": 38866800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "505350fcb2f5ad727c90b08fc5fdfc59",
+        "sha1": "078c11c09c77adc7163fd16e4dc2e46e9438d73c",
+        "crc32": "7a432068"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 11).bin",
+      "filesize": 38118864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4fff18d1ec3d3e29afb5961e1f3dc02",
+        "sha1": "db4de66701f104acee66815eb73259c41a540fae",
+        "crc32": "b99cf3b5"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 12).bin",
+      "filesize": 3132864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0407e759d04a4eff17fe667bada7e87e",
+        "sha1": "db97daac25333ee949d783cc22d1ead4f092aeed",
+        "crc32": "8db828f6"
+      }
+    },
+    {
+      "filename": "Swagman (Europe) (En,Fr,De) (Track 13).bin",
+      "filesize": 35103600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ece4ee4bd7df81a2b2fe09926ab9b67f",
+        "sha1": "67f6e8792b15f581d256f99eed66cb724dddb329",
+        "crc32": "7d46743f"
+      }
+    }
+  ]
+}

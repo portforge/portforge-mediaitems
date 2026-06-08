@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sento Monogatari - Sono I (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sento Monogatari - Sono I (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d752a5dc2b2baabd67f884ee3a7efebd",
+        "sha1": "d7fc132e7212bf41ae06b99887f4d8a307ee95df",
+        "crc32": "7e24056c"
+      }
+    },
+    {
+      "filename": "Sento Monogatari - Sono I (Japan).bin",
+      "filesize": 570470544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e532446b087cf9b1c624ad6f97015c5",
+        "sha1": "71a2f5405690205cf3b0897680909968d2440f4c",
+        "crc32": "f70b687b"
+      }
+    }
+  ]
+}

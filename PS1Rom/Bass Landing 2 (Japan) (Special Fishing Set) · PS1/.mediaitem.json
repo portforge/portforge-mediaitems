@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bass Landing 2 (Japan) (Special Fishing Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bass Landing 2 (Japan) (Special Fishing Set).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9ce9571945641af8d2da93996b82a7be",
+        "sha1": "7da7b093650ed7981bb2c7e9e0da9285ca75d420",
+        "crc32": "0ca8f842"
+      }
+    },
+    {
+      "filename": "Bass Landing 2 (Japan) (Special Fishing Set).bin",
+      "filesize": 560211120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d1113317da7604a455831d2029d19ac",
+        "sha1": "a2e128a58195d9bb4ce10f143ba6142ef8dba23c",
+        "crc32": "13e4bcca"
+      }
+    }
+  ]
+}

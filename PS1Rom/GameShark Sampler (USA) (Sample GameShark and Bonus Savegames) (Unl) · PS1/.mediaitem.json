@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GameShark Sampler (USA) (Sample GameShark and Bonus Savegames) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GameShark Sampler (USA) (Sample GameShark and Bonus Savegames) (Unl).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "43bfbb8361166ef086a2afd6ebd49c7c",
+        "sha1": "98ceb0352435352b4f1e68c713457e4ada0af265",
+        "crc32": "9ad3e1e5"
+      }
+    },
+    {
+      "filename": "GameShark Sampler (USA) (Sample GameShark and Bonus Savegames) (Unl).bin",
+      "filesize": 116456928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "378e1d47bc48cbdfe8c54d4833822963",
+        "sha1": "7c5329c8a4db12f631b4a4ad9f408e295009a1f3",
+        "crc32": "2b75ad47"
+      }
+    }
+  ]
+}

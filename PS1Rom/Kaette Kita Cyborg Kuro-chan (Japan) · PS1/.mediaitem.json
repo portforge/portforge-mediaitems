@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kaette Kita Cyborg Kuro-chan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kaette Kita Cyborg Kuro-chan (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "432f3acbf20faed1425c0832c482a8af",
+        "sha1": "8312951576c460a9260afe0c6c90a4f394cf08b7",
+        "crc32": "9708bd74"
+      }
+    },
+    {
+      "filename": "Kaette Kita Cyborg Kuro-chan (Japan).bin",
+      "filesize": 86581824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "273bc518591ebb7ed4b62840a86ad630",
+        "sha1": "adbb7f5efaf20068ef5f2723fa31e6f5e33acb5a",
+        "crc32": "12d2c699"
+      }
+    }
+  ]
+}

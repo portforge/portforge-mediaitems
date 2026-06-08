@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Anstoss - Premier Manager (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Anstoss - Premier Manager (Germany).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac234176414b66abb9c473fbaad550f6",
+        "sha1": "c52a9515757626318cdd1095221157d8ae91e23c",
+        "crc32": "247ce3b4"
+      }
+    },
+    {
+      "filename": "Anstoss - Premier Manager (Germany) (Track 1).bin",
+      "filesize": 593600112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e687e4e38a41b36e3c027dba656e2a6",
+        "sha1": "6fa0a8a28b02b1e53ee5eb4f4816d9e332ca2566",
+        "crc32": "84578cb4"
+      }
+    },
+    {
+      "filename": "Anstoss - Premier Manager (Germany) (Track 2).bin",
+      "filesize": 33516000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60a49d1aefa2dc3ec847d3d89869c06c",
+        "sha1": "eb8a2429333ad94f7b7a52c9f49e29ace40c36ff",
+        "crc32": "996b9024"
+      }
+    }
+  ]
+}

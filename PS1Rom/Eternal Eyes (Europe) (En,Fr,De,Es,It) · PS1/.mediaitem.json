@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eternal Eyes (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eternal Eyes (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19789ea8f3ee862a2edff17ed4105ad2",
+        "sha1": "0bf80237a20be4ead65c44869f8a23f558d42b87",
+        "crc32": "bcd0c80a"
+      }
+    },
+    {
+      "filename": "Eternal Eyes (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 383935776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09e48f79ee7a322c2827bbfac0badbae",
+        "sha1": "84d1b3d41bc935f8724ab85ef7af0a5c1d67b286",
+        "crc32": "a75bdfc3"
+      }
+    }
+  ]
+}

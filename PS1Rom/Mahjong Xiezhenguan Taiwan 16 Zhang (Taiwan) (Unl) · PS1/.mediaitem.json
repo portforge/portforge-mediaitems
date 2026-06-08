@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mahjong Xiezhenguan Taiwan 16 Zhang (Taiwan) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mahjong Xiezhenguan Taiwan 16 Zhang (Taiwan) (Unl).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8f49f61898e610772a39fa863afcc10",
+        "sha1": "c31cec9b03c4895ebbc0f81e25a03ff0ac9f59ae",
+        "crc32": "d1cf0bd9"
+      }
+    },
+    {
+      "filename": "Mahjong Xiezhenguan Taiwan 16 Zhang (Taiwan) (Unl) (Track 1).bin",
+      "filesize": 147917280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "674c4ca9850d6c269ef5628955b1c99b",
+        "sha1": "ebadd6e4ba61c87145e8f2e2f9a1ee2c1ba29b51",
+        "crc32": "441c15b2"
+      }
+    },
+    {
+      "filename": "Mahjong Xiezhenguan Taiwan 16 Zhang (Taiwan) (Unl) (Track 2).bin",
+      "filesize": 15106896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b523d3871b10f7d9384682c01509bb44",
+        "sha1": "a22cae4a11802f4a2b18efa2333ef0e597515282",
+        "crc32": "014403e4"
+      }
+    }
+  ]
+}

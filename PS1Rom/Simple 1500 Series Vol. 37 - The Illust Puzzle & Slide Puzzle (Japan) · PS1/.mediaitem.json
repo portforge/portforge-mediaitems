@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 37 - The Illust Puzzle & Slide Puzzle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 37 - The Illust Puzzle & Slide Puzzle (Japan).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3718be40a4de1836cc5c55a3eac7b87b",
+        "sha1": "53a89da8ffee6e7d3f30cb3f401dfdde86491cbe",
+        "crc32": "c340db50"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 37 - The Illust Puzzle & Slide Puzzle (Japan).bin",
+      "filesize": 78610896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f8c93c5aff974459a8312cb501a73c4",
+        "sha1": "18f46905e3fcad1acc9f016f4d5111efc702f2d0",
+        "crc32": "042a0da5"
+      }
+    }
+  ]
+}

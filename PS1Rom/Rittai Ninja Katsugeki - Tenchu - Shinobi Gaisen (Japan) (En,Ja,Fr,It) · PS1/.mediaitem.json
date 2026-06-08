@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It).cue",
+      "filesize": 310,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a98958f7867db46c7c9f3612ec888c3b",
+        "sha1": "9301112ae76afba6eab580bb6b4803ee098f93b0",
+        "crc32": "d4ce9f72"
+      }
+    },
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It) (Track 1).bin",
+      "filesize": 739976832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04d993152056c94e74facf67ae432c2d",
+        "sha1": "edd541171d00837dc7f23385ff376f55dac8c12c",
+        "crc32": "4dfaf32a"
+      }
+    },
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu - Shinobi Gaisen (Japan) (En,Ja,Fr,It) (Track 2).bin",
+      "filesize": 7813344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd38a49a9d52d692f93a002ad804a638",
+        "sha1": "8fe737969d209cf2f74a0acb5a98300fa8421e38",
+        "crc32": "d3cdbde4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Risk - The Game of Global Domination (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Risk - The Game of Global Domination (USA).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a02451f46d473f78006b47eda7abebb",
+        "sha1": "1b4d79b4cb7e960b3300da34ebae68c0dbc4c991",
+        "crc32": "45cf3299"
+      }
+    },
+    {
+      "filename": "Risk - The Game of Global Domination (USA) (Track 1).bin",
+      "filesize": 482423424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2a562813f71db92add8d1d094313fb8",
+        "sha1": "a8c9b2040da73ab5cf542bdc93bdc868f28eec13",
+        "crc32": "fa52f701"
+      }
+    },
+    {
+      "filename": "Risk - The Game of Global Domination (USA) (Track 2).bin",
+      "filesize": 37537920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c512e94ae41820d2c26e0a0f9220198b",
+        "sha1": "8e96dc59a36eca7354bda48973375fd1db58aff7",
+        "crc32": "84ebac79"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Euro 2000 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Euro 2000 (Germany).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c1de0d0c905ef28400dadd0b12e043c9",
+        "sha1": "f8b2f53089ee3d788c8feddf494ee664c43eb750",
+        "crc32": "44de9b7b"
+      }
+    },
+    {
+      "filename": "UEFA Euro 2000 (Germany).bin",
+      "filesize": 563581536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05a17f45f8c0dcfc333c7a1d792c8557",
+        "sha1": "7d29327d70446c2ba2669344ee2867a659012e5f",
+        "crc32": "915917d4"
+      }
+    }
+  ]
+}

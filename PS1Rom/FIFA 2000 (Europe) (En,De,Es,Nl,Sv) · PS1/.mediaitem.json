@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 2000 (Europe) (En,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 2000 (Europe) (En,De,Es,Nl,Sv).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5c9ac8409f4b5e0d8027583c29145525",
+        "sha1": "2a351d377e75062bdcfde9c83ed8c7ed48926330",
+        "crc32": "7d86766a"
+      }
+    },
+    {
+      "filename": "FIFA 2000 (Europe) (En,De,Es,Nl,Sv).bin",
+      "filesize": 492247728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d81abd69c788956f1cfa8012841a5e84",
+        "sha1": "1727d5ff07bfeffc80fb1c47d2ef714159bd4c8c",
+        "crc32": "56d0dcd6"
+      }
+    }
+  ]
+}

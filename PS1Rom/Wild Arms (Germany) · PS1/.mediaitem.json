@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Arms (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Arms (Germany).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e80671a678c4d5f18ceea2915ecec57",
+        "sha1": "e2f659d8e65b4765dfcd3accbec010f8fb1c26ed",
+        "crc32": "fb9f4d24"
+      }
+    },
+    {
+      "filename": "Wild Arms (Germany).bin",
+      "filesize": 637206192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc09bee149721b0db35c3fcba6596f72",
+        "sha1": "31d3961995553175e2acc4c55d3804f975771b40",
+        "crc32": "b1e468f5"
+      }
+    }
+  ]
+}

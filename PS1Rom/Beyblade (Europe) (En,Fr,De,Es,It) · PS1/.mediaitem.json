@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beyblade (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 878,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac62eaebd7ad0806f4e4768194d6b6f5",
+        "sha1": "9b4844df2839a11e8ae4cfcc10f5e1f8c153b75b",
+        "crc32": "6f149525"
+      }
+    },
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 175231056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d1db79ad255a8d96931ead36b3095f2",
+        "sha1": "fc478a273f165fee571ae10b8d1ae199e7c27df9",
+        "crc32": "edc18b63"
+      }
+    },
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 21360864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "643c6b9deeb58650d1efe1768f9d1e62",
+        "sha1": "ce75ec55d5fbfd77696f26b2a54b2712223970f6",
+        "crc32": "cb838884"
+      }
+    },
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 31996608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "678baa29ead83382e66dadd0bc5e4c39",
+        "sha1": "ef05a04e9a90b41b32ef0e19a3fd76260f5eb7ac",
+        "crc32": "fd9c74ea"
+      }
+    },
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 33831168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9aabc5d858dd828aa9148ff770bd145d",
+        "sha1": "f694d732fa5b7ae45d7f653b76eae4eb7be64eac",
+        "crc32": "3f073717"
+      }
+    },
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 1766352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b83bcb5360d1e9898588352a92b568d",
+        "sha1": "d81971d76498b578b4705c9b676b4ad982b15682",
+        "crc32": "e15ab01e"
+      }
+    },
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It) (Track 6).bin",
+      "filesize": 1766352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffb8e9983a331300d098570ecd30e222",
+        "sha1": "3ae9d37737266db0ab7e06351aacfa358c7a5de5",
+        "crc32": "ddcce0b9"
+      }
+    },
+    {
+      "filename": "Beyblade (Europe) (En,Fr,De,Es,It) (Track 7).bin",
+      "filesize": 31813152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "572ffb77c8bde623a9b7dc889137fd49",
+        "sha1": "0208ac38c6831d3dae6d56ef0c50d73f92d9fab8",
+        "crc32": "314e8d2c"
+      }
+    }
+  ]
+}

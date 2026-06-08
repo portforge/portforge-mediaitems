@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alone in the Dark - The New Nightmare (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alone in the Dark - The New Nightmare (France) (Disc 1).cue",
+      "filesize": 280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d2ef3c1590c89cf449567a5747cdf5c8",
+        "sha1": "53bc774399fe83cec8e6b5561e447e8d2a022ca3",
+        "crc32": "f70a45e8"
+      }
+    },
+    {
+      "filename": "Alone in the Dark - The New Nightmare (France) (Disc 1) (Track 1).bin",
+      "filesize": 600653760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2fe5e83dd813b7e85b525a09d0fc2b0",
+        "sha1": "fe1aa7ed72f7c33434b59e909f6ead31693a5d5c",
+        "crc32": "9181ff1e"
+      }
+    },
+    {
+      "filename": "Alone in the Dark - The New Nightmare (France) (Disc 1) (Track 2).bin",
+      "filesize": 39701760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58c3d11003689038fd5c7059442d0ce7",
+        "sha1": "16772899aa261f293cac0eb42dda924837f48a87",
+        "crc32": "5ccb351c"
+      }
+    }
+  ]
+}

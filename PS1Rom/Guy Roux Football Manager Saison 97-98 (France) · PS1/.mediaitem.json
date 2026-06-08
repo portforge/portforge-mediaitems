@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guy Roux Football Manager Saison 97-98 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guy Roux Football Manager Saison 97-98 (France).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08d4a1bf61907facecdbfa6923c49e37",
+        "sha1": "fc28c02831b52497d0ffb2ad04d82aef35ffebe0",
+        "crc32": "521edd80"
+      }
+    },
+    {
+      "filename": "Guy Roux Football Manager Saison 97-98 (France).bin",
+      "filesize": 102930576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9087e5b1830ec452d661dd0b3fa65277",
+        "sha1": "7fccb07f620e790eb208902668008a78ee045dfc",
+        "crc32": "1151c27d"
+      }
+    }
+  ]
+}

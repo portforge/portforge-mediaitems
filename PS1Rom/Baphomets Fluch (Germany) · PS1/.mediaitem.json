@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Baphomets Fluch (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Baphomets Fluch (Germany).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a52f49ad14d769227f7138961015dc71",
+        "sha1": "16a7054fa623ec609a5274f6317f2caa9ea4a827",
+        "crc32": "e0ae5b8e"
+      }
+    },
+    {
+      "filename": "Baphomets Fluch (Germany).bin",
+      "filesize": 561003744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8f5154acb339e22928081f1db4737fb",
+        "sha1": "e788fad332f3f1b4799a52d166250dd6658d3d04",
+        "crc32": "5e4ed7ed"
+      }
+    }
+  ]
+}

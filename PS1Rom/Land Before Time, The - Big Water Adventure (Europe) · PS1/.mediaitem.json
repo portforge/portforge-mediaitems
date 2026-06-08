@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Land Before Time, The - Big Water Adventure (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Land Before Time, The - Big Water Adventure (Europe).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a574465c68f95a6c2c4d4e9d34c56522",
+        "sha1": "61a7251510cab8404010222d69ad26d9fa69a2cd",
+        "crc32": "e520dfc3"
+      }
+    },
+    {
+      "filename": "Land Before Time, The - Big Water Adventure (Europe) (Track 1).bin",
+      "filesize": 275068752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68fc2dca1f4d7659f0327e0f1402eeb5",
+        "sha1": "02019ee83caca020244bf4dbb188dd7899366569",
+        "crc32": "5493fd4c"
+      }
+    },
+    {
+      "filename": "Land Before Time, The - Big Water Adventure (Europe) (Track 2).bin",
+      "filesize": 152898816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be6b931a62d861b1b5f96609e0abb6b2",
+        "sha1": "302da332125954aa64681ddefef04aa78232e63f",
+        "crc32": "da207918"
+      }
+    }
+  ]
+}

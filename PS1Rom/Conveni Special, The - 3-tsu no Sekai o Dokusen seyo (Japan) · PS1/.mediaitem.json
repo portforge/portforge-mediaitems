@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Conveni Special, The - 3-tsu no Sekai o Dokusen seyo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Conveni Special, The - 3-tsu no Sekai o Dokusen seyo (Japan).cue",
+      "filesize": 290,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a9ba7c58419f00d9718fb8b3f01ae890",
+        "sha1": "eb3a156d10d2608bc3e85301c149ea7f1339e56e",
+        "crc32": "68a88030"
+      }
+    },
+    {
+      "filename": "Conveni Special, The - 3-tsu no Sekai o Dokusen seyo (Japan) (Track 1).bin",
+      "filesize": 101441760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff889eb074d4db97e794cdc95a1dabcd",
+        "sha1": "d951add25e82e5cca0a63007f90b58fa01be96b6",
+        "crc32": "ef944c43"
+      }
+    },
+    {
+      "filename": "Conveni Special, The - 3-tsu no Sekai o Dokusen seyo (Japan) (Track 2).bin",
+      "filesize": 36399552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6049428ced6d16fcc58580b78540c71c",
+        "sha1": "429dfb75fa13f15b1eb41b29779e322ad4967dad",
+        "crc32": "ec824e0f"
+      }
+    }
+  ]
+}

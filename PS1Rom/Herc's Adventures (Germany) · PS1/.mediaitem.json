@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Herc's Adventures (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Herc's Adventures (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "388c9fdd6b704f51242ffa5634531050",
+        "sha1": "7ccb09cbd8c5ab98fd0ad02072a32d1d33d64feb",
+        "crc32": "29a42e32"
+      }
+    },
+    {
+      "filename": "Herc's Adventures (Germany).bin",
+      "filesize": 356186880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a3bd62d630051486470cf4b211b6223",
+        "sha1": "7517985d6ff8b898a66d205c84ad1da510553a06",
+        "crc32": "01a34d24"
+      }
+    }
+  ]
+}

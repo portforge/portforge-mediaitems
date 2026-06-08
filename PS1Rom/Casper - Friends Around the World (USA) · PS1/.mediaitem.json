@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Casper - Friends Around the World (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Casper - Friends Around the World (USA).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a4b36d936f12d678032fbe88ca7a9c2",
+        "sha1": "65a0c9d0348cfbaabc0c7cf0c9f6e28698e5611b",
+        "crc32": "d05b8df5"
+      }
+    },
+    {
+      "filename": "Casper - Friends Around the World (USA).bin",
+      "filesize": 319347504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39cbfe433cd0b5f29f69edc33a557cf3",
+        "sha1": "9f218b45cd9c9ef3f7d47f94009f01de56c1fdc9",
+        "crc32": "847df6a8"
+      }
+    }
+  ]
+}

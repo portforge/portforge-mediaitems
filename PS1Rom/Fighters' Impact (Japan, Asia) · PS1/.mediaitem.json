@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighters' Impact (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighters' Impact (Japan, Asia).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "195634bc1ffa52abf9a00ec266e5faf8",
+        "sha1": "20330bb49aac9be9f912fdcda33a41410c732084",
+        "crc32": "6187a87d"
+      }
+    },
+    {
+      "filename": "Fighters' Impact (Japan, Asia).bin",
+      "filesize": 467956272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93f39d5ede4405193f14fe0667a65d4f",
+        "sha1": "21491f356cdbe4753a0d2b7514862dd40af1b38f",
+        "crc32": "5127002f"
+      }
+    }
+  ]
+}

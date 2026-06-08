@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toys Dream (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toys Dream (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0687766ac8c865c632085839c9cdaf60",
+        "sha1": "33edbe206becdecfc6980d5e1973a6b2bea9899c",
+        "crc32": "264b79af"
+      }
+    },
+    {
+      "filename": "Toys Dream (Japan).bin",
+      "filesize": 146320272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41ab68ae1fda0d5dd70f95d3533923c2",
+        "sha1": "6e158b879625e09d6bda44cd96c339cd9eea4c33",
+        "crc32": "0b3ff4cd"
+      }
+    }
+  ]
+}

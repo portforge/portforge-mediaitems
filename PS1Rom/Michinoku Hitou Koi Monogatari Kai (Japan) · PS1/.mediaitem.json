@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Michinoku Hitou Koi Monogatari Kai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Michinoku Hitou Koi Monogatari Kai (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "baf1aa4e567c739a32d9a941ab3b21d2",
+        "sha1": "815671529fbf5caec4892ad40e20cdcb10ca6d11",
+        "crc32": "421447ae"
+      }
+    },
+    {
+      "filename": "Michinoku Hitou Koi Monogatari Kai (Japan).bin",
+      "filesize": 253404480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9442c56ff112ee391d83a10f33367ae8",
+        "sha1": "f3683d04f8ac9b41d907d8a08a2b03004efd727c",
+        "crc32": "ef2dc3cc"
+      }
+    }
+  ]
+}

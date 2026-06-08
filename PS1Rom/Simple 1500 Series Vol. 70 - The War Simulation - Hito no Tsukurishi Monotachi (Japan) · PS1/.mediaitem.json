@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan).cue",
+      "filesize": 152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89f332d9d1693ad96517004778c74488",
+        "sha1": "9c25de7d4fece761c20b216140cea1a105cee7c1",
+        "crc32": "b256cafe"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 70 - The War Simulation - Hito no Tsukurishi Monotachi (Japan).bin",
+      "filesize": 472269840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e74f9aa8f3878b1b5c9c24907c2f3ea",
+        "sha1": "dcea69a0310afaf2ab9bd49e9db1bd16747facdb",
+        "crc32": "f7f05327"
+      }
+    }
+  ]
+}

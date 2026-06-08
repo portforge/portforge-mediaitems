@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 42 - The Igo 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 42 - The Igo 2 (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "25ccf3e07019971ed82ee755bfe6a1bb",
+        "sha1": "353b8a1d25cd0a99ce0178bcb874b05f0fd07776",
+        "crc32": "fd531cfb"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 42 - The Igo 2 (Japan).bin",
+      "filesize": 57188880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04286a8cb47dfe44df1cb6d7f15e2536",
+        "sha1": "b6e63af2501b4ac6b3782d679d395693a59d1204",
+        "crc32": "6336f020"
+      }
+    }
+  ]
+}

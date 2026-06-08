@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wing Over (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wing Over (Japan).cue",
+      "filesize": 759,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e800bcd7037ec13ceec0e2093d146424",
+        "sha1": "6ba31479b47ffe51f936649c72f35b38a397a809",
+        "crc32": "4d14cd3f"
+      }
+    },
+    {
+      "filename": "Wing Over (Japan) (Track 1).bin",
+      "filesize": 72166416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb60b61d816b288793f0cfda84739537",
+        "sha1": "f502084e1fae0e31cccb7515a1dfbaee85d2c99a",
+        "crc32": "239dff19"
+      }
+    },
+    {
+      "filename": "Wing Over (Japan) (Track 2).bin",
+      "filesize": 24385536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a05b4a772be3778185e8e792ff513d98",
+        "sha1": "a50b2c4f0d02dcb6005b352ff31bbcf66320f414",
+        "crc32": "919e70ab"
+      }
+    },
+    {
+      "filename": "Wing Over (Japan) (Track 3).bin",
+      "filesize": 22703856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17c048fa2e2fba749cbfd9a3e1715b37",
+        "sha1": "4f51c66bc628ded4f2ce712dc28e25c0dab9f790",
+        "crc32": "afec45b4"
+      }
+    },
+    {
+      "filename": "Wing Over (Japan) (Track 4).bin",
+      "filesize": 22489824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31f6435fd0e3ee3b953d72bf08bb2643",
+        "sha1": "d8159b1ff32d58ab7f8fb74350c431ca058f2836",
+        "crc32": "7c03ff18"
+      }
+    },
+    {
+      "filename": "Wing Over (Japan) (Track 5).bin",
+      "filesize": 20848128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17876a8a41dbca71d0ebcb4b97029d4d",
+        "sha1": "ec1ed3aa397ac80f5a7c32464b567651b5eda271",
+        "crc32": "08377eda"
+      }
+    },
+    {
+      "filename": "Wing Over (Japan) (Track 6).bin",
+      "filesize": 40397952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e8fb5cbd8829514cca962c4faa2f63e",
+        "sha1": "5e5eb3fa31e2c2a2ab5454fb279a56116438e1f2",
+        "crc32": "e0c459d5"
+      }
+    },
+    {
+      "filename": "Wing Over (Japan) (Track 7).bin",
+      "filesize": 20848128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17876a8a41dbca71d0ebcb4b97029d4d",
+        "sha1": "ec1ed3aa397ac80f5a7c32464b567651b5eda271",
+        "crc32": "08377eda"
+      }
+    }
+  ]
+}

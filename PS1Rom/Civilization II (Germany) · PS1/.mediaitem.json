@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Civilization II (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Civilization II (Germany).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a4bcac1484cc1a10bfdc72c2c5772467",
+        "sha1": "6c08de2a818a6ad533d988cbdaa340f295c340b8",
+        "crc32": "1f425562"
+      }
+    },
+    {
+      "filename": "Civilization II (Germany) (Track 1).bin",
+      "filesize": 484098048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4f3a32bbf0c3c731dc616045eefe7c5",
+        "sha1": "3fc312006389675be15da597604290d989112144",
+        "crc32": "b3fcd87d"
+      }
+    },
+    {
+      "filename": "Civilization II (Germany) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

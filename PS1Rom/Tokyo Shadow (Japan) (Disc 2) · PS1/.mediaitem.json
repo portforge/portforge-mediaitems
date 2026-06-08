@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Shadow (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Shadow (Japan) (Disc 2).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd72c53f35396acdd66dcf96bcb63811",
+        "sha1": "f0fb4b284e70d770331410769c8926397e966c3a",
+        "crc32": "09f61b1d"
+      }
+    },
+    {
+      "filename": "Tokyo Shadow (Japan) (Disc 2).bin",
+      "filesize": 643267296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e24c5131979cb2301e95cc0018bbd02f",
+        "sha1": "0a30432a676e2ef6fc6b9377ac2d7d11ae93d50c",
+        "crc32": "ddeb6957"
+      }
+    }
+  ]
+}

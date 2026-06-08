@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NASCAR Thunder 2003 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NASCAR Thunder 2003 (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3999301dec1ec1fb7bbe57502f4539f0",
+        "sha1": "ff5ed265a6aa307e37ce0d35fc69c22a5984a6da",
+        "crc32": "066a0937"
+      }
+    },
+    {
+      "filename": "NASCAR Thunder 2003 (USA).bin",
+      "filesize": 251155968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96d1b7f036cc47145d3d94b2e13b2469",
+        "sha1": "9e9efd3b3691d30cd44d1b49f607bbdd231d547f",
+        "crc32": "355c30b9"
+      }
+    }
+  ]
+}

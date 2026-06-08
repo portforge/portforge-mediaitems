@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Worms Armageddon (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Worms Armageddon (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "93823ac77a00b6bdbbb743370686f125",
+        "sha1": "4480665caff23a8d396c5a7783785d15ccc50a48",
+        "crc32": "954ce623"
+      }
+    },
+    {
+      "filename": "Worms Armageddon (USA).bin",
+      "filesize": 548248848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af7b95cab630664198f6b0c7d530d896",
+        "sha1": "3f9e2e6d8f3f290a052df63eebc7199b23b33f9a",
+        "crc32": "2253da03"
+      }
+    }
+  ]
+}

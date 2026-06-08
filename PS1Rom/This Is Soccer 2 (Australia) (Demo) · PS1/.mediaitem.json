@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "This Is Soccer 2 (Australia) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "This Is Soccer 2 (Australia) (Demo).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "535532942fccc2d1444fb5de362c3265",
+        "sha1": "5d19c878bfdef55006aeac6189b0e565e5202a18",
+        "crc32": "2f8ed48b"
+      }
+    },
+    {
+      "filename": "This Is Soccer 2 (Australia) (Demo).bin",
+      "filesize": 54827472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19f4f9f145e58f2bb04e278613bec74b",
+        "sha1": "6a2098c253ad146c29687e357710ee2f5a314999",
+        "crc32": "3450b3ef"
+      }
+    }
+  ]
+}

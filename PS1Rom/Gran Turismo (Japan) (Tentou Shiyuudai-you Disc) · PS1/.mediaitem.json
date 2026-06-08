@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo (Japan) (Tentou Shiyuudai-you Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo (Japan) (Tentou Shiyuudai-you Disc).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4fc96504c252c82bbbb8fa947649cac3",
+        "sha1": "44022766c14ddd78fa78817d8d688c88fae3cd91",
+        "crc32": "cfb6284b"
+      }
+    },
+    {
+      "filename": "Gran Turismo (Japan) (Tentou Shiyuudai-you Disc).bin",
+      "filesize": 425091072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97138b777baf34a94103f10a72a4934a",
+        "sha1": "9f14d0d75f859ae1bd1a3fdbdd0f151aabaf7823",
+        "crc32": "194d6f3c"
+      }
+    }
+  ]
+}

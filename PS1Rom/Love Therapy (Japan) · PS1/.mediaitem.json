@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Love Therapy (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Love Therapy (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d4f8e5441c64c7aeef35ff4abc3f65b4",
+        "sha1": "99c6d590592ac7dcfba3182171a845de5a7cebc7",
+        "crc32": "5a91e903"
+      }
+    },
+    {
+      "filename": "Love Therapy (Japan).bin",
+      "filesize": 623494032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b93f170a95e15037d1776c302ca7f2e",
+        "sha1": "84a2fd346dbde2c522671972f51b76fee4e77f8a",
+        "crc32": "1d987271"
+      }
+    }
+  ]
+}

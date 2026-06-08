@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Starblade Alpha (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Starblade Alpha (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "890ff93452693b665a35685b4829460b",
+        "sha1": "ea6d712146344d5c37b6b88af2d6913a20597191",
+        "crc32": "740bac9e"
+      }
+    },
+    {
+      "filename": "Starblade Alpha (USA).bin",
+      "filesize": 709085664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55614ef2daf8d39358d36209a4ad8004",
+        "sha1": "68f6da3c50d4e44f9d4a45ce817fb88d540a871a",
+        "crc32": "f3ee3f6f"
+      }
+    }
+  ]
+}

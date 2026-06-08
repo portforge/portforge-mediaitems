@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bounty Sword First (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bounty Sword First (Japan) (Major Wave).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd8939f698b52d6e89df6d372d2fa8a8",
+        "sha1": "7a972bb5b591b0f521ca75ec35ba7057f7db1832",
+        "crc32": "cb0d8f7e"
+      }
+    },
+    {
+      "filename": "Bounty Sword First (Japan) (Major Wave).bin",
+      "filesize": 672095760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3985b8b4ed84a0bacc8c54272c80994c",
+        "sha1": "719d481fec5982fc5240a71ed09fb50b74e517b8",
+        "crc32": "091caecd"
+      }
+    }
+  ]
+}

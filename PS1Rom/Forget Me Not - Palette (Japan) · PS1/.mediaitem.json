@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Forget Me Not - Palette (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Forget Me Not - Palette (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "baf7f1aa6b7614dd116d99df9379f950",
+        "sha1": "bb3d850929eb5e12834e2574e1b3156ce741d55f",
+        "crc32": "451f8c6c"
+      }
+    },
+    {
+      "filename": "Forget Me Not - Palette (Japan).bin",
+      "filesize": 453693744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75d195835533b9c763b84114a064eeae",
+        "sha1": "7f3b18b40a867b276e956793dfe98342dbfbfc64",
+        "crc32": "e28c808b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puzzle Mania 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puzzle Mania 2 (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bbb190ff2d69239ba981b35690c916ee",
+        "sha1": "97510078e1ef6e02a8b60753810a968bdeb8ad06",
+        "crc32": "02ee363e"
+      }
+    },
+    {
+      "filename": "Puzzle Mania 2 (Japan).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "234806a61bc7ab796fbe023958453529",
+        "sha1": "e89a4598d4c6c9f0cd78558dac25a5e9808340ae",
+        "crc32": "d395159e"
+      }
+    }
+  ]
+}

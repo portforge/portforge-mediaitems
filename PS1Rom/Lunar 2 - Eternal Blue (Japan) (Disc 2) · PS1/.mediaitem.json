@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lunar 2 - Eternal Blue (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lunar 2 - Eternal Blue (Japan) (Disc 2).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d935984db7de2fca11c5e1ae518fcfb0",
+        "sha1": "8ee125ba44841a3f166024a20ef61df857ab1ba4",
+        "crc32": "38146fb7"
+      }
+    },
+    {
+      "filename": "Lunar 2 - Eternal Blue (Japan) (Disc 2).bin",
+      "filesize": 679523376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81b4dd941706d17394ec4d7f8aaccae1",
+        "sha1": "b552313cec018f9877edcfb7d50b8e36c54fbc9d",
+        "crc32": "3d76729a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Ball - Final Bout (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Ball - Final Bout (Germany).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8543f5c31023ad01865367d7eefe9297",
+        "sha1": "eb2fd7d1a94f9ff0af1d17cdb53fad69a3e65c49",
+        "crc32": "5a0716ec"
+      }
+    },
+    {
+      "filename": "Dragon Ball - Final Bout (Germany).bin",
+      "filesize": 162139824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84dbbffce41fdd35453cd4083dbcef65",
+        "sha1": "6dfd2929d143d0c53a0a523d77ea8d0ced326f26",
+        "crc32": "1e42b865"
+      }
+    }
+  ]
+}

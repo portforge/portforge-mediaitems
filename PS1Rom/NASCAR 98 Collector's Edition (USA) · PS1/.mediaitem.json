@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NASCAR 98 Collector's Edition (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA).cue",
+      "filesize": 885,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3eff39dd97116aa5d2213f6f058eac4",
+        "sha1": "f48457c6723cd1d29f1c1fdef3f397b548021635",
+        "crc32": "ceffa8da"
+      }
+    },
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA) (Track 1).bin",
+      "filesize": 239482992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af70c14689bd81e1bf5f58c13b32f9f2",
+        "sha1": "7b6ae4d1697d9977db0563f8b342d8e6334c88e7",
+        "crc32": "441dcd16"
+      }
+    },
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA) (Track 2).bin",
+      "filesize": 27958224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28e3edcf669a538a684fb8c2006dc639",
+        "sha1": "65f28806f7559d67799357bc0a372ce498ee7f4e",
+        "crc32": "01b24b5d"
+      }
+    },
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA) (Track 3).bin",
+      "filesize": 27546624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e29dfab42cfec281fad417640bdf33e",
+        "sha1": "cd70779ec3a9654f8235abce29ac404fe830a763",
+        "crc32": "b9ccb3f6"
+      }
+    },
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA) (Track 4).bin",
+      "filesize": 28379232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6272dd56ee73290b654b03f1b7a0582",
+        "sha1": "3947b205badf2a838741a92484c7f0403514684d",
+        "crc32": "fdeec14a"
+      }
+    },
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA) (Track 5).bin",
+      "filesize": 28452144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "efb7ddc68d86919accf3df3c7c5759f0",
+        "sha1": "f6a95b67fc949bc9a25612bb22f671e8bc5c87e0",
+        "crc32": "5215e259"
+      }
+    },
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA) (Track 6).bin",
+      "filesize": 8514240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d5cc96396f379a43cacf041a23c0245",
+        "sha1": "b7b0a73a6007da1a96692461b6029de7f30b8976",
+        "crc32": "cca418aa"
+      }
+    },
+    {
+      "filename": "NASCAR 98 Collector's Edition (USA) (Track 7).bin",
+      "filesize": 53284560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "007f2acd7d6e1103cab7a48b14501d28",
+        "sha1": "13d49d70b89c9a4d3b54773b7cb93817f53b002f",
+        "crc32": "63416369"
+      }
+    }
+  ]
+}

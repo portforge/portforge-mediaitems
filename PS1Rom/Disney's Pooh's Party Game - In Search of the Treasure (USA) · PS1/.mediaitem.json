@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Pooh's Party Game - In Search of the Treasure (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Pooh's Party Game - In Search of the Treasure (USA).cue",
+      "filesize": 290,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e123e9e89580ae4fae8e14b4ab5d9389",
+        "sha1": "c6b0ce0f5d0cf80e4d2eeb37c75bbfabd4ed3cd0",
+        "crc32": "d67a2d65"
+      }
+    },
+    {
+      "filename": "Disney's Pooh's Party Game - In Search of the Treasure (USA) (Track 1).bin",
+      "filesize": 383319552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e1d4079d5c993bac5492c3e7e6fc288",
+        "sha1": "1121fa4fff2f0e85e79a6c8ee5ea23de48940e5e",
+        "crc32": "01a8c9c5"
+      }
+    },
+    {
+      "filename": "Disney's Pooh's Party Game - In Search of the Treasure (USA) (Track 2).bin",
+      "filesize": 188183520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f667caafeb1bd0aa7d2189735adea37",
+        "sha1": "87e0f36173387e8f2fad3b5f128b77d5f4ceb92c",
+        "crc32": "7f8137b9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D2 (Japan).cue",
+      "filesize": 816,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0c1532d8e8b1790e301104476ac18ea",
+        "sha1": "cf480815db70ad19fc17b7acf0e68c951d58e13a",
+        "crc32": "358fb02a"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D2 (Japan) (Track 1).bin",
+      "filesize": 371500752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb7118cdb3154f12defa0dea8b4dc614",
+        "sha1": "2fc3bc9bde4f328d52db1508ca42599d2d028b44",
+        "crc32": "1ce1a602"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D2 (Japan) (Track 2).bin",
+      "filesize": 36545376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b025107199ed31225023aba84b084fcd",
+        "sha1": "dcd33b15bd8b548ba9498b63a56d30b2d744be00",
+        "crc32": "4c269d1b"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D2 (Japan) (Track 3).bin",
+      "filesize": 10344096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8939769431118447d43f47ab7c481d9a",
+        "sha1": "4bcb659e247983a257892d12e68b12d94ea29aad",
+        "crc32": "73013190"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D2 (Japan) (Track 4).bin",
+      "filesize": 36517152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ab03555d8c2a69115740bf33914471c",
+        "sha1": "111f2544afe18945d6f601a9d928a55778d5a940",
+        "crc32": "c0b50df4"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D2 (Japan) (Track 5).bin",
+      "filesize": 25051152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b932f92f4b8ec767255ded21392f746e",
+        "sha1": "67c4e2c52ec276276e2753ff66767b23f2af0890",
+        "crc32": "c2548432"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D2 (Japan) (Track 6).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

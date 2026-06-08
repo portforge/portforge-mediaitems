@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Libro Animato Creativo - Mulan (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Libro Animato Creativo - Mulan (Italy).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8018aa5988c39bec01a876cc09522c80",
+        "sha1": "9187a78b3ffd512c194e15a945ab3624ebc12762",
+        "crc32": "4be6eb0e"
+      }
+    },
+    {
+      "filename": "Disney Libro Animato Creativo - Mulan (Italy).bin",
+      "filesize": 224858256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f533a60e292599d368102036b84782d",
+        "sha1": "babe311eff589338d7875787a4916137fd45f66f",
+        "crc32": "335d1694"
+      }
+    }
+  ]
+}

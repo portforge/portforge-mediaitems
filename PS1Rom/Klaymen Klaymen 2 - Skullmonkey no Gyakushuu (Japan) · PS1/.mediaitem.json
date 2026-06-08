@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Klaymen Klaymen 2 - Skullmonkey no Gyakushuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Klaymen Klaymen 2 - Skullmonkey no Gyakushuu (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c06111a30e039c20a71fe645ca9243af",
+        "sha1": "34913c6d67031f5e3c6b9e4370d04046649159da",
+        "crc32": "44fb4dd1"
+      }
+    },
+    {
+      "filename": "Klaymen Klaymen 2 - Skullmonkey no Gyakushuu (Japan).bin",
+      "filesize": 665681856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2829416532748c5dadc9156c2e7f0459",
+        "sha1": "3018347a6ab8dfeb202d05b17b10c23c713f7236",
+        "crc32": "bf3f900f"
+      }
+    }
+  ]
+}

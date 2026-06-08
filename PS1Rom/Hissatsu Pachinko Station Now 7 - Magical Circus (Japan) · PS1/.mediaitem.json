@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Now 7 - Magical Circus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Now 7 - Magical Circus (Japan).cue",
+      "filesize": 582,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efd2a8d69a8d9701f8f5c2c08a3dc3f3",
+        "sha1": "0342e9029068f61e1c2328cdfa5356da523a70a5",
+        "crc32": "dbdd7004"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 7 - Magical Circus (Japan) (Track 1).bin",
+      "filesize": 7291200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af4c194fb0938735a114f10f7d145866",
+        "sha1": "e531d0b06acfc812c6a286ad79787833447f4aac",
+        "crc32": "ea6c09f2"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 7 - Magical Circus (Japan) (Track 2).bin",
+      "filesize": 55236720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e510ff9ffc91fd15338b829dd65120b",
+        "sha1": "b85e4633cbc6d79f3759131dbacaad0fee8b1541",
+        "crc32": "d7c6bdfc"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 7 - Magical Circus (Japan) (Track 3).bin",
+      "filesize": 59623200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "560df2faa35763f5c67eeb0422be76dd",
+        "sha1": "f9aaa677ead22874e2acce115fa5241e9b77f355",
+        "crc32": "7d01e973"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 7 - Magical Circus (Japan) (Track 4).bin",
+      "filesize": 55909392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bca730ae35c756c0ae2a4d3209454529",
+        "sha1": "312cb5cc28563fc34bce8e19d67ff3f88469abd7",
+        "crc32": "8bcd3319"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raiden DX (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raiden DX (Japan) (Major Wave).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6ab935ef437531a56fdac6b60e48f61",
+        "sha1": "dd676305939d8f1da614f3155d7449c182357258",
+        "crc32": "27eae313"
+      }
+    },
+    {
+      "filename": "Raiden DX (Japan) (Major Wave).bin",
+      "filesize": 218183280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfa97bf25fdf08f8828be0be21966a65",
+        "sha1": "9c6a6dd26906c71fdb1829461ed5abfba6568262",
+        "crc32": "c1ce0640"
+      }
+    }
+  ]
+}

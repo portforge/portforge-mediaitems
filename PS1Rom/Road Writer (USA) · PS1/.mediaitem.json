@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Road Writer (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Road Writer (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "53ce3c07d27fd6f59710f2cbdbc485fc",
+        "sha1": "a0baf247f127165161c80043e0b790ef68739ec5",
+        "crc32": "fa00c190"
+      }
+    },
+    {
+      "filename": "Road Writer (USA).bin",
+      "filesize": 405336624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb364136e4690b7d9c8c483c7b4d4fd0",
+        "sha1": "0d02194c985c5cfc91ff6936cfba76f34a5c15d2",
+        "crc32": "1cd47307"
+      }
+    }
+  ]
+}

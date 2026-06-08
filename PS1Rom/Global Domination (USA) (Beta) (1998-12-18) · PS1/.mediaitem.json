@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Global Domination (USA) (Beta) (1998-12-18)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Global Domination (USA) (Beta) (1998-12-18).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d95e1556c7455a489849789cf44bb48a",
+        "sha1": "44664e563aefe2e61a9b45a8a792f298ea5adb73",
+        "crc32": "4d4ff5d1"
+      }
+    },
+    {
+      "filename": "Global Domination (USA) (Beta) (1998-12-18).bin",
+      "filesize": 611562336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b2175ddcf3ab021674dbd66510a7662",
+        "sha1": "6593097427e1a51b51aba06ccd89bad884f8b6a5",
+        "crc32": "cfcef363"
+      }
+    }
+  ]
+}

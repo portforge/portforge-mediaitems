@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Persona 2 - Tsumi - Innocent Sin (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Persona 2 - Tsumi - Innocent Sin (Japan) (Demo).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b4d83921122d9156514a0191f0d8356",
+        "sha1": "11d6e0526016a85405a175504f44826af14e2852",
+        "crc32": "5d62747d"
+      }
+    },
+    {
+      "filename": "Persona 2 - Tsumi - Innocent Sin (Japan) (Demo).bin",
+      "filesize": 418917072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c670c45851ad5d2ada1dbfb0dfcfbb7a",
+        "sha1": "efabf8b15f64b3c06eadfb54bfb494f4735e43be",
+        "crc32": "fff2b1f0"
+      }
+    }
+  ]
+}

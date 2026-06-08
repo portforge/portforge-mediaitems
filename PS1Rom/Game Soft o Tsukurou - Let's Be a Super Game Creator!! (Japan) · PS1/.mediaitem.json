@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game Soft o Tsukurou - Let's Be a Super Game Creator!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game Soft o Tsukurou - Let's Be a Super Game Creator!! (Japan).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5dfafdfff12fde98600424d1de6d1402",
+        "sha1": "a96659e82a5f736c87acfafbe77a8f27d9f8b8a1",
+        "crc32": "6eb555d3"
+      }
+    },
+    {
+      "filename": "Game Soft o Tsukurou - Let's Be a Super Game Creator!! (Japan).bin",
+      "filesize": 155803536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d82e300985d7e4b3da3af316cd538566",
+        "sha1": "91aa5657a2efeb038faefbc9ad0fd0ec5ef524db",
+        "crc32": "f9de428d"
+      }
+    }
+  ]
+}

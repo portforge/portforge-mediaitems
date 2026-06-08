@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Castrol Honda VTR (Europe) (En,Fr,De,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It).cue",
+      "filesize": 1188,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9154aaae313975bc16ce73b5d9b7d092",
+        "sha1": "d3fffc09214b4c87fa04870be049f269ff44d1a6",
+        "crc32": "e79b48ca"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 1).bin",
+      "filesize": 75922560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f03c5cff7060d8ab023f222b7036c97",
+        "sha1": "a76008b2062ca93c3e153450dab3f8c74c2b7815",
+        "crc32": "332bc76c"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 2).bin",
+      "filesize": 53261040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d36612e62dd2f9e994d64b325717e38f",
+        "sha1": "3c19efa959e8bee17da311297d9ef56510429add",
+        "crc32": "832ee759"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 3).bin",
+      "filesize": 75358080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8c36713e1106f5ad6a1222a790472b3",
+        "sha1": "58edfb502eae9801118a4d8c554fa556d33224cb",
+        "crc32": "b6ce00f3"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 4).bin",
+      "filesize": 39029088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d4ea4209c0d4110814895ac265c6322",
+        "sha1": "bde104880a06bb41fd81b403dc6d4072293186a9",
+        "crc32": "f1872222"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 5).bin",
+      "filesize": 57417024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b302f1fa7cf87e739124910ad97bf988",
+        "sha1": "c4ce765042ff7d8e6656afb322c066301a85262d",
+        "crc32": "1905fe28"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 6).bin",
+      "filesize": 70788144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87316a2e483fb56929dc9b80230edb08",
+        "sha1": "5b05d9935c558d7e8cf1554f152d93ea739bcca6",
+        "crc32": "38226873"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 7).bin",
+      "filesize": 46654272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5df4c1f8701d49cda325e56502a18721",
+        "sha1": "2915f4a2967b9c81fb07a05f7d00f3e2129e8607",
+        "crc32": "6f696e32"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 8).bin",
+      "filesize": 64823472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79ae5aaac0e2b0490e809fb37bde094f",
+        "sha1": "d8ad61e9d581a7fedac6b564292f3deb6efccce0",
+        "crc32": "ff4f2a66"
+      }
+    },
+    {
+      "filename": "Castrol Honda VTR (Europe) (En,Fr,De,It) (Track 9).bin",
+      "filesize": 57247680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e19e1e887fc8d199fed42713b6dd4a",
+        "sha1": "2684ab2829aed371913c6f942f5a2024c338523e",
+        "crc32": "bbd67734"
+      }
+    }
+  ]
+}

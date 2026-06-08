@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Superman (USA) (Proto) (1999-10-29)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Superman (USA) (Proto) (1999-10-29).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8a6630960d2559a5de319fa30a4209a6",
+        "sha1": "be116945c17eaa70754ecf623ac9a5dd1f3d53f9",
+        "crc32": "b1dfb296"
+      }
+    },
+    {
+      "filename": "Superman (USA) (Proto) (1999-10-29).bin",
+      "filesize": 115958304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f57ca148d7d8fc23465eb24873f8581",
+        "sha1": "9ac76ce6d590eaf25686d39bc557c2c4d728908f",
+        "crc32": "4a4d0ab4"
+      }
+    }
+  ]
+}

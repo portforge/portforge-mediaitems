@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raiden DX (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raiden DX (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e24e4d04e0af0514d61f9a56e01abd7d",
+        "sha1": "6124e7bd27dee5ed1ab36e7d33307187eccf5f69",
+        "crc32": "5ab36d5a"
+      }
+    },
+    {
+      "filename": "Raiden DX (Japan).bin",
+      "filesize": 218162112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f023c1a7b9fbe5274ba940c54d42f79f",
+        "sha1": "79f7d9bbd617c70d6385d4fa8f127692bbd5d9ad",
+        "crc32": "81711972"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marvel Super Heroes vs. Street Fighter (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marvel Super Heroes vs. Street Fighter (Europe).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd0eaf09d9f4a960d48b71f9ddc1e340",
+        "sha1": "22fe7d8134819276fd4a05a20ea0476a653cda87",
+        "crc32": "a57c7df1"
+      }
+    },
+    {
+      "filename": "Marvel Super Heroes vs. Street Fighter (Europe).bin",
+      "filesize": 558941040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6a9efdf32d5ca3c1cc37e54052aed55",
+        "sha1": "45748b9ce86366395af73bb38e4bd465fe29ab82",
+        "crc32": "a29cc815"
+      }
+    }
+  ]
+}

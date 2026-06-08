@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shusse Mahjong Daisettai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shusse Mahjong Daisettai (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "70db0322e987991822dd1f15b701ec5c",
+        "sha1": "58c5db368e4b870ec7603b55c3eb141d98f1d76e",
+        "crc32": "e6121f80"
+      }
+    },
+    {
+      "filename": "Shusse Mahjong Daisettai (Japan).bin",
+      "filesize": 73885728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00a3e1189f6de449ba3774f550f2aeef",
+        "sha1": "820af98444b2d18799174c22da24a5526d674f4f",
+        "crc32": "c9f2c417"
+      }
+    }
+  ]
+}

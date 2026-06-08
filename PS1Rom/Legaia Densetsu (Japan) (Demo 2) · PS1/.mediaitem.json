@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legaia Densetsu (Japan) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legaia Densetsu (Japan) (Demo 2).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0953abf09560945c97c3b3ea25c25425",
+        "sha1": "890d704cab1b3389ff8e713689a1968f8af75de8",
+        "crc32": "a46b57ec"
+      }
+    },
+    {
+      "filename": "Legaia Densetsu (Japan) (Demo 2).bin",
+      "filesize": 198156000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb6d273b298ed3ffa15ed42d1014e286",
+        "sha1": "37aceb4739fce384a1a0c93923755dfad937ee28",
+        "crc32": "d81f20a3"
+      }
+    }
+  ]
+}

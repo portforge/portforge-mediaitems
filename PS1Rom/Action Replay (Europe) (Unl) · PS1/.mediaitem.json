@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Replay (Europe) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Replay (Europe) (Unl).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68aecf3a6315987a264d853e527cb3f3",
+        "sha1": "e751ae5e9af33fce467dd173a07e27f41d1ac75b",
+        "crc32": "f43b92a7"
+      }
+    },
+    {
+      "filename": "Action Replay (Europe) (Unl).bin",
+      "filesize": 99433152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9203075b2e35faaa8e46fc6901b3e5f1",
+        "sha1": "fc1072ad582e5ea2dc43e1b8d6d066acf940a9cd",
+        "crc32": "fe47e902"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ren'ai Kouza - Real Age (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ren'ai Kouza - Real Age (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d900859e4ffd3c6c7c70f81d61b1e36",
+        "sha1": "a5fd631f88bf05cea26b5ee80c6533e3f33bf533",
+        "crc32": "b7fcc8dd"
+      }
+    },
+    {
+      "filename": "Ren'ai Kouza - Real Age (Japan).bin",
+      "filesize": 168631344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "816c59309e6f9962063fadb04cbebd54",
+        "sha1": "53d220058ff61235f3b512d4201510777aee574a",
+        "crc32": "7c2c67b3"
+      }
+    }
+  ]
+}

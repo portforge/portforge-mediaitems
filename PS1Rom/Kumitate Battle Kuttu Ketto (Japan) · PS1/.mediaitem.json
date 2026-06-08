@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kumitate Battle Kuttu Ketto (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kumitate Battle Kuttu Ketto (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d41022696a57016e2d6d08320f0768e2",
+        "sha1": "2efb9419a98c93c9eec31541b85370739c009743",
+        "crc32": "de4aaad6"
+      }
+    },
+    {
+      "filename": "Kumitate Battle Kuttu Ketto (Japan).bin",
+      "filesize": 745499328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f89a743537b2b4620fd7081792bfd0b7",
+        "sha1": "72dae237407f3c7bdf1b4087502278677592ab31",
+        "crc32": "1a736d36"
+      }
+    }
+  ]
+}

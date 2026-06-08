@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "A Sangre Fria (Spain) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "A Sangre Fria (Spain) (Disc 1).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b72f24b8646ac62b8ff042b59e78ef0",
+        "sha1": "1b767a52ee24960944c1a750a44f533fc79741b7",
+        "crc32": "d43ae392"
+      }
+    },
+    {
+      "filename": "A Sangre Fria (Spain) (Disc 1).bin",
+      "filesize": 544306896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd1bb661890be25cadf856f1b0dcb636",
+        "sha1": "d0604034e41d2572f408511928a9442fc86a9011",
+        "crc32": "b1eff83a"
+      }
+    }
+  ]
+}

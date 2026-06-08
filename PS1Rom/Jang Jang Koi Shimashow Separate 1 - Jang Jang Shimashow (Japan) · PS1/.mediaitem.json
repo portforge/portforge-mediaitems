@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jang Jang Koi Shimashow Separate 1 - Jang Jang Shimashow (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jang Jang Koi Shimashow Separate 1 - Jang Jang Shimashow (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fc7c2da9185aa62a974037d25cb79b4",
+        "sha1": "1bfd06dbf6e4858bb7903a7fa26e75563a074b13",
+        "crc32": "55b8409f"
+      }
+    },
+    {
+      "filename": "Jang Jang Koi Shimashow Separate 1 - Jang Jang Shimashow (Japan).bin",
+      "filesize": 368793600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1796cc0000f8d9da2c4836a64cdfb51e",
+        "sha1": "86499401267f5a3727e12e2c72d7adbb1ef92aef",
+        "crc32": "beca68e4"
+      }
+    }
+  ]
+}

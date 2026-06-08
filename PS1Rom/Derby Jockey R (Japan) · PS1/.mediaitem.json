@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Derby Jockey R (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Derby Jockey R (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0ba8c4cf179f6591505e6accb6852c6d",
+        "sha1": "ea6a98ad23fa0898096f8629f0678e9fd0326a07",
+        "crc32": "20ebd8ad"
+      }
+    },
+    {
+      "filename": "Derby Jockey R (Japan).bin",
+      "filesize": 79396464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fb9b3efa5f349e5c770047af0536c21",
+        "sha1": "c86548769af49c2eb053a42c9f762ad139fbb5d1",
+        "crc32": "5992293d"
+      }
+    }
+  ]
+}

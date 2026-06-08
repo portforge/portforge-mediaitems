@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "I.Q Final (Japan) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "I.Q Final (Japan) (Demo 2).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ae24521446610cbfd605a6d69ed024c",
+        "sha1": "0c8918e04bd5edc71de5df56933b881ce0a0ad43",
+        "crc32": "5a82920b"
+      }
+    },
+    {
+      "filename": "I.Q Final (Japan) (Demo 2).bin",
+      "filesize": 256313904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3caf22c86c87de11bfba04ef8d38f1a",
+        "sha1": "26b288ec11fb19afd2cd6bc959c23fcf3ed7a9a1",
+        "crc32": "18e546eb"
+      }
+    }
+  ]
+}

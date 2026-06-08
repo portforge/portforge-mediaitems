@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NASCAR Thunder 2002 (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NASCAR Thunder 2002 (USA, Canada).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9247daa38935233363c5e580fdeadeac",
+        "sha1": "9bf9d2b47ad6772db79f777d1e6a930f5c163da3",
+        "crc32": "70b7f866"
+      }
+    },
+    {
+      "filename": "NASCAR Thunder 2002 (USA, Canada).bin",
+      "filesize": 224552496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dfd96dfe3aedb3fb642642821bf0e81",
+        "sha1": "916b002042c9841438878062ab600dcbe85381ac",
+        "crc32": "9af3e6c5"
+      }
+    }
+  ]
+}

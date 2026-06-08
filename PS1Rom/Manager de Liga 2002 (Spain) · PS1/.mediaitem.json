@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Manager de Liga 2002 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Manager de Liga 2002 (Spain).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df8f392953d624587a2c0ff3b47179a5",
+        "sha1": "cf063f692f1ee09332cc5508bb352e858e1b225b",
+        "crc32": "405d6c6a"
+      }
+    },
+    {
+      "filename": "Manager de Liga 2002 (Spain).bin",
+      "filesize": 549754128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f87261a73dd6d22e022d1599932793b",
+        "sha1": "4dd5a3b98e959c70adc473884ca2c1fdbc664ca8",
+        "crc32": "9d80349d"
+      }
+    }
+  ]
+}

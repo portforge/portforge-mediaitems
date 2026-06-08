@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eternal Eyes (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eternal Eyes (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5528e3bdfcb53cca17f7bf08b29cd49d",
+        "sha1": "3d30614239bb38dd1dfb52fc08f93d59b1c252ce",
+        "crc32": "1745be49"
+      }
+    },
+    {
+      "filename": "Eternal Eyes (USA).bin",
+      "filesize": 380760576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0de71e08e4646d8af6e7397bc2c365bd",
+        "sha1": "6fef76b2cc8febd5f3f093209c99c2caf9b82318",
+        "crc32": "6fe7e707"
+      }
+    }
+  ]
+}

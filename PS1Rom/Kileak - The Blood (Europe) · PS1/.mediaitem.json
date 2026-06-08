@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kileak - The Blood (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kileak - The Blood (Europe).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "07d62e5f11cac20e87fa018080ac2fa2",
+        "sha1": "d13ea1cb69573c1ee2c2f3932f42e0674511fa4b",
+        "crc32": "69070b46"
+      }
+    },
+    {
+      "filename": "Kileak - The Blood (Europe).bin",
+      "filesize": 541420992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad964a42fa5236ac75d1eb2e456bb58b",
+        "sha1": "93508373cab3af02f20e6db15d7ef6a010b4ae24",
+        "crc32": "036619d0"
+      }
+    }
+  ]
+}

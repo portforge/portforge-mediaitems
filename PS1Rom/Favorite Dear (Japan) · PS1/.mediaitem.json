@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Favorite Dear (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Favorite Dear (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9afb65fd55074ebaaf3ae209d8e3c353",
+        "sha1": "287b44c5e5b2b70d56cc15020b268cc7aeaacc2c",
+        "crc32": "160f8aa8"
+      }
+    },
+    {
+      "filename": "Favorite Dear (Japan).bin",
+      "filesize": 594696144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8151d2c66c6d8978324a0c872dedc21d",
+        "sha1": "509ffd8fc65852eab028238d06fe23f9f0db7d13",
+        "crc32": "8269851f"
+      }
+    }
+  ]
+}

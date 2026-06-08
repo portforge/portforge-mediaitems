@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mega Man Legends (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mega Man Legends (Europe).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e55c524ba13cf8bb547b973ccc7aed1c",
+        "sha1": "e6ff1340adf769d0dce617d6bb9de8529dc47c83",
+        "crc32": "04dc6b55"
+      }
+    },
+    {
+      "filename": "Mega Man Legends (Europe) (Track 1).bin",
+      "filesize": 538431600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f017409a964b8b3eb598a8f59bd7281f",
+        "sha1": "cf24c99ad6586b1bcba7d67f5dc684864b5e1688",
+        "crc32": "084bdb3f"
+      }
+    },
+    {
+      "filename": "Mega Man Legends (Europe) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

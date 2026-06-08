@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Madden NFL 2005 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Madden NFL 2005 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4c87b40e44021a01fb7b5f94c6b8bce9",
+        "sha1": "6c1c2a7bc9a79bd7f8f50fbe772bfc0554d3c6ee",
+        "crc32": "191ecf5e"
+      }
+    },
+    {
+      "filename": "Madden NFL 2005 (USA).bin",
+      "filesize": 473471712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e46bb1d34a1bd8e21e91b2a50f3c1e72",
+        "sha1": "74a6e18d1f5e0a9b4799486c9165e0cbae1483c0",
+        "crc32": "806d09c4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nukumori no Naka de - In the Warmth (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nukumori no Naka de - In the Warmth (Japan).cue",
+      "filesize": 256,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d04ba0dbf1152250da80289063194037",
+        "sha1": "2970a3f9e4584f9fb13ce778584335bb863b2800",
+        "crc32": "9dde3a19"
+      }
+    },
+    {
+      "filename": "Nukumori no Naka de - In the Warmth (Japan) (Track 1).bin",
+      "filesize": 492682848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e13019f487776db26f032052e148b17",
+        "sha1": "e0decb983f77057e27c1edf4ffa05005c1d03568",
+        "crc32": "b142ff7b"
+      }
+    },
+    {
+      "filename": "Nukumori no Naka de - In the Warmth (Japan) (Track 2).bin",
+      "filesize": 63567504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03ac12a4be57be38d9fcc7852699e40d",
+        "sha1": "4978a55cb6d536895875f10288454290d3cd725b",
+        "crc32": "5d504bb8"
+      }
+    }
+  ]
+}

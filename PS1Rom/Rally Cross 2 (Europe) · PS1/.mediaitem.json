@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rally Cross 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rally Cross 2 (Europe).cue",
+      "filesize": 1152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d2843d0705fb94b495bfbf658628c9fa",
+        "sha1": "568dd58fcbc025720f10eccbaf003852e3862980",
+        "crc32": "0f1c553c"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 01).bin",
+      "filesize": 135442272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "add4309b75dbf1e71198cb986da86502",
+        "sha1": "1cabb24594fee7e1fc29c713a2d6880336ff34f3",
+        "crc32": "a1d4f8c5"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 02).bin",
+      "filesize": 49493136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "961a622c3fa944579fd8f5c81284474d",
+        "sha1": "8aa1fd3293a46f4bb586f4b2f84406b75eff516c",
+        "crc32": "4454e36f"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 03).bin",
+      "filesize": 51626400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bec1a3942eabd85a925cbd4d1edc7fa",
+        "sha1": "5de6493f72afa6f04a5887116bfdd0bb90f2a684",
+        "crc32": "a80175dd"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 04).bin",
+      "filesize": 51993312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a92c44c5a43e2cbd8f9d3efc61399260",
+        "sha1": "a4da88fe2d8c7c3c77cbc27438bdbfbb2ec21924",
+        "crc32": "678adbb7"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 05).bin",
+      "filesize": 53380992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "558f8d4b4e4cfdf6ad319564bced601c",
+        "sha1": "11dd8745b3b6da8b4e29d5a1ef8fa1d99a028ca0",
+        "crc32": "96f8014a"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 06).bin",
+      "filesize": 54747504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90558717fbde251bb4ec2925652b592e",
+        "sha1": "0451092e11d74c729e5766d50803f4a9aca5fe9b",
+        "crc32": "390171e7"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 07).bin",
+      "filesize": 51614640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1432983990561fc017b756dae5c3e37",
+        "sha1": "e36ef170fb835c43e82540a807c254dbeb302233",
+        "crc32": "6eef64c7"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 08).bin",
+      "filesize": 54183024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7a08500c7e749bd2cdf98d3bc75de4d",
+        "sha1": "8316d82d37d2b82e888a971776fd0c7c9436d3aa",
+        "crc32": "13d17c2e"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 09).bin",
+      "filesize": 48180720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc9734f60dafc098a38617377991184f",
+        "sha1": "0c1f6a5fe38547e98bf6d8684127153b709ef82e",
+        "crc32": "4d24f1b9"
+      }
+    },
+    {
+      "filename": "Rally Cross 2 (Europe) (Track 10).bin",
+      "filesize": 49493136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "961a622c3fa944579fd8f5c81284474d",
+        "sha1": "8aa1fd3293a46f4bb586f4b2f84406b75eff516c",
+        "crc32": "4454e36f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blade Arts - Tasogare no Miyako R'lyeh (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blade Arts - Tasogare no Miyako R'lyeh (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9bfd1a8c9d5e6581dd49325a0e2dfb68",
+        "sha1": "dffcca8a7861d5c7584cd6b2c6d50edbacda7ab8",
+        "crc32": "417aabcf"
+      }
+    },
+    {
+      "filename": "Blade Arts - Tasogare no Miyako R'lyeh (Japan).bin",
+      "filesize": 711352992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8768ac868bba4298f076fa2df9e22a73",
+        "sha1": "c266b85e1af7fa57605814e0c47fd68f002998c8",
+        "crc32": "a355ee12"
+      }
+    }
+  ]
+}

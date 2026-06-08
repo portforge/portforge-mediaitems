@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GunBullet (Japan) (GunBullet + GunCon)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GunBullet (Japan) (GunBullet + GunCon).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d5c1d4bea962e78170b064b24efdfb0",
+        "sha1": "469f7430a87e8719ab6d7d7d610d473a153ec174",
+        "crc32": "1beb30bf"
+      }
+    },
+    {
+      "filename": "GunBullet (Japan) (GunBullet + GunCon).bin",
+      "filesize": 297918432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "689c9aec5f0cb710fcdc4d7428efacd6",
+        "sha1": "2badaf8cc84d6259b9aa91ecd477448f0d3f001a",
+        "crc32": "d5a048c5"
+      }
+    }
+  ]
+}

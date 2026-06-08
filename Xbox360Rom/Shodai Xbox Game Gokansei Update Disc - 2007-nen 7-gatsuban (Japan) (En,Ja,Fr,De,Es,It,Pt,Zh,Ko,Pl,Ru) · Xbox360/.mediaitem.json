@@ -1,0 +1,27 @@
+{
+  "_itemType": "Xbox360Rom",
+  "title": "Shodai Xbox Game Gokansei Update Disc - 2007-nen 7-gatsuban (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)",
+  "platform": "Xbox360",
+  "formats": [
+    {
+      "filename": "Shodai Xbox Game Gokansei Update Disc - 2007-nen 7-gatsuban (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).cue",
+      "filesize": 168,
+      "ext": "cue",
+      "checksums": {
+        "md5": "10c99a5a1a0b0ec77b33066323dbe3ff",
+        "sha1": "d5906c490d4b18013aaebe6d92be9d07bc0714b3",
+        "crc32": "da3573b1"
+      }
+    },
+    {
+      "filename": "Shodai Xbox Game Gokansei Update Disc - 2007-nen 7-gatsuban (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).bin",
+      "filesize": 15285648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92499cd65c32115e945dc6386da7decb",
+        "sha1": "a82de31f0bb36fc3bc9437fbc6bd5488a3fad6f1",
+        "crc32": "5d80f39d"
+      }
+    }
+  ]
+}

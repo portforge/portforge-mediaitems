@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slot! Pro 8 - Shimamusume 30 & Hana Densetsu 25 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slot! Pro 8 - Shimamusume 30 & Hana Densetsu 25 (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15ddcca6e3dcceeb7dcaeebb76aa830a",
+        "sha1": "db01207a166b23a0be9c66c7e18c74aa4166aba8",
+        "crc32": "cfcfc6ea"
+      }
+    },
+    {
+      "filename": "Slot! Pro 8 - Shimamusume 30 & Hana Densetsu 25 (Japan).bin",
+      "filesize": 77670096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18cc821889f0f1fd4b795562098f8e57",
+        "sha1": "2a733542bc39a30d4b42183cb9ae15bc8a64106d",
+        "crc32": "5d8b317f"
+      }
+    }
+  ]
+}

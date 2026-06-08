@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Bowling 2 - Professional-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Bowling 2 - Professional-hen (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "299f552b3945903d0ad9be3c61bb059e",
+        "sha1": "867683d30953a0e112f3d7309f7cc9b7e5ea2495",
+        "crc32": "7d251471"
+      }
+    },
+    {
+      "filename": "King of Bowling 2 - Professional-hen (Japan).bin",
+      "filesize": 143874192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfac0be1a81bfeb6d8fd54c2a11b1b42",
+        "sha1": "58570d3c564b6739970e691878af87e56bac4662",
+        "crc32": "588552f1"
+      }
+    }
+  ]
+}

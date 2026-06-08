@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Square Memory Card Data Collection (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Square Memory Card Data Collection (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "811bed699f980ebeb3ce10338278e2b7",
+        "sha1": "c454049f5413714eb3c9520fab2b76a0cc1cebbf",
+        "crc32": "587b022c"
+      }
+    },
+    {
+      "filename": "Square Memory Card Data Collection (Japan).bin",
+      "filesize": 56706720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a27d0624385a57468f0fa487b19bae73",
+        "sha1": "1f00d03675f7f6d1504f0eb72947727c32383c18",
+        "crc32": "206e6880"
+      }
+    }
+  ]
+}

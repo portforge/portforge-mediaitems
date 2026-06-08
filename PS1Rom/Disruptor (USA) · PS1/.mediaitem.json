@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disruptor (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disruptor (USA).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03e680e4c1fc79af542392e470bdf0bd",
+        "sha1": "5d5648e2528aef1e24140f7013f89952000ff75c",
+        "crc32": "507255e6"
+      }
+    },
+    {
+      "filename": "Disruptor (USA).bin",
+      "filesize": 636350064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7db617bff88d7a193b39cc37efa026e",
+        "sha1": "c3254ca21531a3251ad26dfad3bf75984611d7c6",
+        "crc32": "065bc51e"
+      }
+    }
+  ]
+}

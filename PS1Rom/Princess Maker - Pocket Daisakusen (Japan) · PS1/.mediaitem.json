@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Princess Maker - Pocket Daisakusen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Princess Maker - Pocket Daisakusen (Japan).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54b5637242e9858db566e7002899b5ac",
+        "sha1": "41aecf763d689513931ce3c5d85357d4ab094a43",
+        "crc32": "88f6a894"
+      }
+    },
+    {
+      "filename": "Princess Maker - Pocket Daisakusen (Japan) (Track 1).bin",
+      "filesize": 196791840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70f4d19c4f5b904ce3e92592ed87605f",
+        "sha1": "df88ae96a4e2517424f1a7cb4011b9214ecfb174",
+        "crc32": "1e4bba98"
+      }
+    },
+    {
+      "filename": "Princess Maker - Pocket Daisakusen (Japan) (Track 2).bin",
+      "filesize": 35322336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28a0b06ebfcd8c39995d3a880f029e67",
+        "sha1": "ff9abfec57bb5308ba466e552faada53126b5b32",
+        "crc32": "364bc2a9"
+      }
+    }
+  ]
+}

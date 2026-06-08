@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Zone CD Vol. 7 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Zone CD Vol. 7 (Germany).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fdf383c00c75266d9e0dbaa1bd6f7f90",
+        "sha1": "99cb74c74f6ed7406535c0b3da341461ded9b8b2",
+        "crc32": "ab6727c1"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 7 (Germany).bin",
+      "filesize": 653950080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f4b75c793e4d460592181b67bb35efd",
+        "sha1": "192ec83e8c847f37d82b8e3b99d8dbcf8958699f",
+        "crc32": "407b4458"
+      }
+    }
+  ]
+}

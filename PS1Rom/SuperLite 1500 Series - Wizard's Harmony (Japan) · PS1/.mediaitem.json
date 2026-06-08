@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Wizard's Harmony (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony (Japan).cue",
+      "filesize": 692,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2466610d3615b2ae770a4a0e452e5882",
+        "sha1": "47cebf4ccb3fa940d00749fdbbdb47cb974f7015",
+        "crc32": "d301943d"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony (Japan) (Track 1).bin",
+      "filesize": 454126512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48fe8e41c6a56a83d951057d0850ff2e",
+        "sha1": "85ff6b9481b2ac11725bea0c9717afdcbcb699e0",
+        "crc32": "594316c2"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony (Japan) (Track 2).bin",
+      "filesize": 30531312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52d4bb1dc03c872e45d37545e1e01bda",
+        "sha1": "b4c1c4defe50ca53c0dd76d3f5ca8fce7e5073c2",
+        "crc32": "3138bf0a"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony (Japan) (Track 3).bin",
+      "filesize": 48333600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0bc694640a252329d53d7a0dd1ec98fc",
+        "sha1": "138d105c0ea4ebc6081c4fd852d9d791df9a824a",
+        "crc32": "0b2f9a69"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony (Japan) (Track 4).bin",
+      "filesize": 30554832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71614924e24ba372f0e886cb735df97c",
+        "sha1": "f3dd3d8193a3fd1d368c5fbc603b13dcb7b8e21e",
+        "crc32": "75acb939"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony (Japan) (Track 5).bin",
+      "filesize": 50956080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e85d8412918e6738bfecc934966b814",
+        "sha1": "a1c885ad4ce7bfc95c2e5bd07cd2963753f7b635",
+        "crc32": "d1abdb7f"
+      }
+    }
+  ]
+}

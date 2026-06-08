@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 09-99 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 09-99 (Germany).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c2c1a46060f5d90d0ae4a7c4a7208fc3",
+        "sha1": "aca5fa0f222c6281aa42e663f265fe555b466bd8",
+        "crc32": "b8a9bb0e"
+      }
+    },
+    {
+      "filename": "Euro Demo 09-99 (Germany).bin",
+      "filesize": 435430464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71bdab2ab0c23ef7860401e1ef02d45d",
+        "sha1": "d92dd63bd4d1e527fee35f366b0f04ffa1cb9a5d",
+        "crc32": "fba91f76"
+      }
+    }
+  ]
+}

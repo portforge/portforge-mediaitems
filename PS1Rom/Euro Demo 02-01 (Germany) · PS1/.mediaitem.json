@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 02-01 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 02-01 (Germany).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4794f29c99a9850881e499c4638f1d3",
+        "sha1": "c562469c7afd2d2036e236989ac2821c3289190a",
+        "crc32": "a4ceb988"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-01 (Germany).bin",
+      "filesize": 467525856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2e6b2f0c7101895f407c6420b6dacc3",
+        "sha1": "195b723a4ad74b91988f59c01f86c97890ec845a",
+        "crc32": "e500b541"
+      }
+    }
+  ]
+}

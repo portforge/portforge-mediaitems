@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jounetsu Nekketsu Athletes - Nakimushi Coach no Diary (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jounetsu Nekketsu Athletes - Nakimushi Coach no Diary (Japan).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4caad0f8314679fcc4ef850f2f855b0e",
+        "sha1": "7618f85d7080049ead229be970b1d679d260b271",
+        "crc32": "ba151664"
+      }
+    },
+    {
+      "filename": "Jounetsu Nekketsu Athletes - Nakimushi Coach no Diary (Japan).bin",
+      "filesize": 141261120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0ef1c0563b94a601413650ee2ea82a4",
+        "sha1": "d4cc6ce282b05d1eecfd89eee3fbf2d792213ea7",
+        "crc32": "dd04d3f4"
+      }
+    }
+  ]
+}

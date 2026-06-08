@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Tennis (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Tennis (Europe).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a9546371724cb82cc06cd81c79a6885",
+        "sha1": "f99767ed92f2f8c4b34dc5e63b06bcc87d8aef36",
+        "crc32": "885f4a06"
+      }
+    },
+    {
+      "filename": "Actua Tennis (Europe) (Track 1).bin",
+      "filesize": 603793680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f4944d5e1223c96f68470b64bbb2b0b",
+        "sha1": "1818d4e540bf436a17ee79c463023db9c99cda8d",
+        "crc32": "e131f567"
+      }
+    },
+    {
+      "filename": "Actua Tennis (Europe) (Track 2).bin",
+      "filesize": 38904432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b545482f69d287174c5ac5ce72cf91ee",
+        "sha1": "e966dd67f73d2d9c342521851392535a519785c8",
+        "crc32": "f6c696f3"
+      }
+    }
+  ]
+}

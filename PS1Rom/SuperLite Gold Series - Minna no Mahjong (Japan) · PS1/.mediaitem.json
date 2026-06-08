@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite Gold Series - Minna no Mahjong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite Gold Series - Minna no Mahjong (Japan).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a5afade49a7d26d9ace15978e34b81d",
+        "sha1": "851440e29c686faba0643e432bff7dc45fe9f9fd",
+        "crc32": "ca29b00c"
+      }
+    },
+    {
+      "filename": "SuperLite Gold Series - Minna no Mahjong (Japan) (Track 1).bin",
+      "filesize": 292120752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1bbd9a0bef59b9d43e64f02612ab024",
+        "sha1": "c1b8c75b893897d3d8b8e0ad131082ed706b5d48",
+        "crc32": "c8736583"
+      }
+    },
+    {
+      "filename": "SuperLite Gold Series - Minna no Mahjong (Japan) (Track 2).bin",
+      "filesize": 50692656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f9fc709015c96677ba88a5e82670706",
+        "sha1": "8031fef66a5b840833db4d7593b2402d95689c3d",
+        "crc32": "770147fc"
+      }
+    }
+  ]
+}

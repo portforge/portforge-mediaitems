@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiger Woods PGA Tour 2000 (Europe) (En,Fr,De,Es,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiger Woods PGA Tour 2000 (Europe) (En,Fr,De,Es,Sv).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d342040c411137052beaaa2dcdd9d25",
+        "sha1": "06f054435e220facf0e448dd4b8575b5915da3ae",
+        "crc32": "3701202e"
+      }
+    },
+    {
+      "filename": "Tiger Woods PGA Tour 2000 (Europe) (En,Fr,De,Es,Sv).bin",
+      "filesize": 379746864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34b31f36b16c8a67721b8a2194fc5819",
+        "sha1": "3c0e6a58024901d2b1fcc7bcae54dfe2be686a4c",
+        "crc32": "d7bb5332"
+      }
+    }
+  ]
+}

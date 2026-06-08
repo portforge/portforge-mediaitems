@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "007 Racing (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "007 Racing (Germany).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3888bda9c1ec724851753d1347d56902",
+        "sha1": "b8f87935e390d87227779bac72443d20eb2fe5ed",
+        "crc32": "66c0c70d"
+      }
+    },
+    {
+      "filename": "007 Racing (Germany).bin",
+      "filesize": 552463632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbd238103dbcbf5bc26299f2db6e873a",
+        "sha1": "f440f37ab90c78b022cdb3d8e73575b6f720ce69",
+        "crc32": "bbe6471e"
+      }
+    }
+  ]
+}

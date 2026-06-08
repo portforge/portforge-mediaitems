@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dexter's Laboratory - Mandark's Lab (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (USA).cue",
+      "filesize": 387,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce7d7b563aa9ebebc9f69e861909362c",
+        "sha1": "3470b8516ff949f4c775f27ea55f9abd0011ecb9",
+        "crc32": "7df47631"
+      }
+    },
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (USA) (Track 1).bin",
+      "filesize": 257574576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d552030e15d1a5d52c6b54946625134",
+        "sha1": "3486a5d4a45ae4f428a4a23845a7ab66b57e9e70",
+        "crc32": "b0e93e05"
+      }
+    },
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (USA) (Track 2).bin",
+      "filesize": 3175200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b90505515fba8884c45e4f3571c42b59",
+        "sha1": "12f7de904c3e6e96a07619e529fc6869cc9f5067",
+        "crc32": "31619528"
+      }
+    },
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (USA) (Track 3).bin",
+      "filesize": 173754000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ef32a04c61764d146d6d27872b5bda9",
+        "sha1": "ba1d15494bc6dcee7a09e962321a72e860afce17",
+        "crc32": "2cf099e7"
+      }
+    }
+  ]
+}

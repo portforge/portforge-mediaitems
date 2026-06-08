@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2003 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2003 (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "adb2ee0d4739f00c59808457e071d8f9",
+        "sha1": "0f2264800e09782e7155a57c5a532598f975f2dc",
+        "crc32": "05e90688"
+      }
+    },
+    {
+      "filename": "NBA Live 2003 (USA).bin",
+      "filesize": 538622112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "adc7b5c055b21ed7fcabfce2cb41f63a",
+        "sha1": "a9b79a5ef494608a46a637ee8a9470da23f82643",
+        "crc32": "87f3115d"
+      }
+    }
+  ]
+}

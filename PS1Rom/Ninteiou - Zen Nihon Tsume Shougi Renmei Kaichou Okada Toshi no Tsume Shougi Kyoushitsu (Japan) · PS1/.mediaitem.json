@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ninteiou - Zen Nihon Tsume Shougi Renmei Kaichou Okada Toshi no Tsume Shougi Kyoushitsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ninteiou - Zen Nihon Tsume Shougi Renmei Kaichou Okada Toshi no Tsume Shougi Kyoushitsu (Japan).cue",
+      "filesize": 360,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc6e7390b6f88f2b363c14b892512f9b",
+        "sha1": "d37412b4a54378e06d615187a8a2916545d0a607",
+        "crc32": "0fe2d2ca"
+      }
+    },
+    {
+      "filename": "Ninteiou - Zen Nihon Tsume Shougi Renmei Kaichou Okada Toshi no Tsume Shougi Kyoushitsu (Japan) (Track 1).bin",
+      "filesize": 9664368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b825cb1b73ccfa026becbc696cc9e33",
+        "sha1": "06f30d686be9e0b2bfc363269e614a1ad45b09a8",
+        "crc32": "601d9988"
+      }
+    },
+    {
+      "filename": "Ninteiou - Zen Nihon Tsume Shougi Renmei Kaichou Okada Toshi no Tsume Shougi Kyoushitsu (Japan) (Track 2).bin",
+      "filesize": 34957776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca3e47b95e68b7323eb525b63c0a381e",
+        "sha1": "503778f5d0c80d8d286e362740e8ead44b066ce0",
+        "crc32": "d698f3e3"
+      }
+    }
+  ]
+}

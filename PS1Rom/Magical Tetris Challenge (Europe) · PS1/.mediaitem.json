@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Magical Tetris Challenge (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Magical Tetris Challenge (Europe).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ab136e5bcdb30686d572832ff097c84",
+        "sha1": "521ba86ac3e475254fd8df3c6c74ce705af8ee5c",
+        "crc32": "47c1f0e7"
+      }
+    },
+    {
+      "filename": "Magical Tetris Challenge (Europe) (Track 1).bin",
+      "filesize": 319265184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6203142615ef7cefa99a172d8d4e71b4",
+        "sha1": "e6c13e1e052cc7884402011b8f145a6a93c686d7",
+        "crc32": "0c886cb7"
+      }
+    },
+    {
+      "filename": "Magical Tetris Challenge (Europe) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

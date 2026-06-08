@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hard Rock Cab (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hard Rock Cab (Japan).cue",
+      "filesize": 1374,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5eb05117e1d7326d52fb3cbd02e0343",
+        "sha1": "d62448a777137abd7e4114eba0d832391c4f07f5",
+        "crc32": "0150d359"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 01).bin",
+      "filesize": 152169696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de6103e25ec460d5fb0e3bcbc8902f3b",
+        "sha1": "98b15ef4fa33451849c2e8d54f4dd6321df59a7a",
+        "crc32": "ac43dcd5"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 02).bin",
+      "filesize": 28788480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "639ac33fdbd1629495b5b0e56e3c5401",
+        "sha1": "c1daaba40080838afd034c672f0cb0fd66b4f1b2",
+        "crc32": "d827c92e"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 03).bin",
+      "filesize": 38666880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "520dca7f80441e02937933cc892f0508",
+        "sha1": "fde9e799986ca5213d10a4cdc23b26aba818c8e2",
+        "crc32": "4bc5b9a0"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 04).bin",
+      "filesize": 32029536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4acc19737de290ba96b0bff2def03ba3",
+        "sha1": "4f1150b589890fad85070d8fdef08620574d35bf",
+        "crc32": "02ee2f05"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 05).bin",
+      "filesize": 34056960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "542ce979bce5fb0dccb481ac87465ca9",
+        "sha1": "1b10715540a47af03b171762d86f463a47faf7f8",
+        "crc32": "d6341090"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 06).bin",
+      "filesize": 36387792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e01819a90c1f6c58dd20130a13ccf34",
+        "sha1": "86531d3a18b0ca3724fd37c9a2b4efb539b4291f",
+        "crc32": "22c469d5"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 07).bin",
+      "filesize": 30133824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ebedee91810f99bda0d6b5b6ba42f9c",
+        "sha1": "e6346dd7ac9b440563d11f928e6cfd64c376e0e2",
+        "crc32": "16c96181"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 08).bin",
+      "filesize": 40209792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af4e4d5e3ab69bc6ba88d904207ca931",
+        "sha1": "544bbb9262511af2c2b71bb9b73b477ea229a3ff",
+        "crc32": "6ce1ac3b"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 09).bin",
+      "filesize": 58376640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a14d329e13cb37e7c7b52b2f1a071fab",
+        "sha1": "d79130ef664aceb5b8a51fc533d66a2115254b89",
+        "crc32": "01c71dc2"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 10).bin",
+      "filesize": 45334800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b28dcc70ba2f66a4394042230fffa6f",
+        "sha1": "bb444cd72ff15e8b9b93a0967ba45b46a6de5674",
+        "crc32": "03ac903f"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 11).bin",
+      "filesize": 53148144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9df5c45502d2ab77b94999d56b7aa789",
+        "sha1": "f933fa03d17de08ba2c860a112fd54004c7f4563",
+        "crc32": "d2042f02"
+      }
+    },
+    {
+      "filename": "Hard Rock Cab (Japan) (Track 12).bin",
+      "filesize": 51774576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db0cc49f9146316cd12fe2848cfa0767",
+        "sha1": "313d40c557f72b83b9cc3fdce37d66c5037cb405",
+        "crc32": "d5df7d7b"
+      }
+    }
+  ]
+}

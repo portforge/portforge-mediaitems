@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Seireiki Rayblade (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Seireiki Rayblade (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b337534b5509ccc6dac5da142562d6ee",
+        "sha1": "55ff32e9c35108f70d726bf743757149c8e688b1",
+        "crc32": "c4abe81d"
+      }
+    },
+    {
+      "filename": "Seireiki Rayblade (Japan) (Track 1).bin",
+      "filesize": 643965840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b45625dca82b80d2bdbb3675fd2673b9",
+        "sha1": "cf33a1b9c0d144205a4da0f53b9339a453e9b591",
+        "crc32": "6207c863"
+      }
+    },
+    {
+      "filename": "Seireiki Rayblade (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

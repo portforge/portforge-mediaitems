@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Baroque - Yuganda Mousou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Baroque - Yuganda Mousou (Japan).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b570bfec1a8bb7e1a62be8e6732d2080",
+        "sha1": "422c8cbc08900b2fcf0d971c74718cb9f47e1516",
+        "crc32": "46d90e92"
+      }
+    },
+    {
+      "filename": "Baroque - Yuganda Mousou (Japan) (Track 1).bin",
+      "filesize": 646249632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12af2b250fd26e66cb9c7af6ff708845",
+        "sha1": "95da87040ae4fac29f94a44b049de6689b0e73f0",
+        "crc32": "150785f8"
+      }
+    },
+    {
+      "filename": "Baroque - Yuganda Mousou (Japan) (Track 2).bin",
+      "filesize": 34223952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f6186d68e4e6901cc0cb73c979f3bf9",
+        "sha1": "9694908cbe2ccbce3df890cbc982e86d55a70349",
+        "crc32": "a8fd782a"
+      }
+    }
+  ]
+}

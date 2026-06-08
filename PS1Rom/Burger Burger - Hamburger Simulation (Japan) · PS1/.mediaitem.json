@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Burger Burger - Hamburger Simulation (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Burger Burger - Hamburger Simulation (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e9b0801ef1935a79b6ccf5275392d786",
+        "sha1": "0b48dcad5d3b88e5d79912ff8fef975fa39b61b5",
+        "crc32": "5c1d4ea1"
+      }
+    },
+    {
+      "filename": "Burger Burger - Hamburger Simulation (Japan).bin",
+      "filesize": 74492544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e3203b032600ee74933cecb4c1d9cdb",
+        "sha1": "ed86af5dc66865cf9242b1b1f9331db1292424cf",
+        "crc32": "1cbf7d53"
+      }
+    }
+  ]
+}

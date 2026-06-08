@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Schnappi - Das kleine Krokodil - 3 Fun-Games (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Schnappi - Das kleine Krokodil - 3 Fun-Games (Germany).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf02d97aea3246ec34e2a212bd6fd98f",
+        "sha1": "c7bf52bf6559c2223a1b21c6972e07c138ff80e9",
+        "crc32": "e22376a8"
+      }
+    },
+    {
+      "filename": "Schnappi - Das kleine Krokodil - 3 Fun-Games (Germany).bin",
+      "filesize": 50001168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91e999283c5349af53a05f5d22d39099",
+        "sha1": "205e70af0c731eb3e17bbab3576a16c6c300d3ce",
+        "crc32": "fce9ac93"
+      }
+    }
+  ]
+}

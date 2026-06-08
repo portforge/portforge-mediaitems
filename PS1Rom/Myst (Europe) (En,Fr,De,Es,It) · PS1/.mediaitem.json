@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Myst (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Myst (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d67997e42228c918852af16981339d0",
+        "sha1": "986b53180f492bcd236ec491e5f69b8bd1a6cd89",
+        "crc32": "640451dc"
+      }
+    },
+    {
+      "filename": "Myst (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 658997472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b2076c28aef258bea37a04a24e06fd6",
+        "sha1": "921e4e36ddea48c3eb20c2e2354f5d4014ca3a50",
+        "crc32": "1c9f467b"
+      }
+    }
+  ]
+}

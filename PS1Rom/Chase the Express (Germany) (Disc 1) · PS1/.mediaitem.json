@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chase the Express (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chase the Express (Germany) (Disc 1).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68fe245d04ad8133eb2f273fe468b31a",
+        "sha1": "f02b46ecb5636cf955f1115ec3330b0b378b8b17",
+        "crc32": "9841df08"
+      }
+    },
+    {
+      "filename": "Chase the Express (Germany) (Disc 1).bin",
+      "filesize": 653992416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "730cb54febeed6910da674df0914c147",
+        "sha1": "f7e4431d726bd7b2fe214dea995a8abf976cf2ff",
+        "crc32": "54364010"
+      }
+    }
+  ]
+}

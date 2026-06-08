@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gensou Suikoden II (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gensou Suikoden II (Japan) (Rev 1).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ca146253e15bd66848150380a0c7fa1",
+        "sha1": "941335f64ac637f80cb92ce145a9abe8886bb3ff",
+        "crc32": "f28cb9d1"
+      }
+    },
+    {
+      "filename": "Gensou Suikoden II (Japan) (Rev 1).bin",
+      "filesize": 518512512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96a5340b7c39f7d753627f202c18a7ac",
+        "sha1": "e5ea332b8472e4813c6c81f6999d971bda47cbc0",
+        "crc32": "c9976d93"
+      }
+    }
+  ]
+}

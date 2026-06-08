@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Racing Lagoon (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Racing Lagoon (Japan, Asia).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4f177ea8aa27a211398be80b6b5b2ba1",
+        "sha1": "68374ea33c1f2a25144b567cff9b7debabaad82c",
+        "crc32": "d53546fc"
+      }
+    },
+    {
+      "filename": "Racing Lagoon (Japan, Asia).bin",
+      "filesize": 748634544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a7358b2169d6b85b5ffc6cbff364771",
+        "sha1": "d7799aaa009ca173d4b538691e0156163eb458e3",
+        "crc32": "22f8241c"
+      }
+    }
+  ]
+}

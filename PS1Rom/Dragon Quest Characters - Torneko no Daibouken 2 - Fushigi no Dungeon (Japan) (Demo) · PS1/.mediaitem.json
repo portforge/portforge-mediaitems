@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Quest Characters - Torneko no Daibouken 2 - Fushigi no Dungeon (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Quest Characters - Torneko no Daibouken 2 - Fushigi no Dungeon (Japan) (Demo).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9cc0c258ccf5d590ef7892911888ca2",
+        "sha1": "fd32393f0a512ca5f89b1c3a33296d2ba8f79f03",
+        "crc32": "35051679"
+      }
+    },
+    {
+      "filename": "Dragon Quest Characters - Torneko no Daibouken 2 - Fushigi no Dungeon (Japan) (Demo).bin",
+      "filesize": 190756608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "329d08eb5871345d0a23be1007fadf18",
+        "sha1": "0500381514112c18157a66fc03499851e46d0273",
+        "crc32": "77c8028f"
+      }
+    }
+  ]
+}

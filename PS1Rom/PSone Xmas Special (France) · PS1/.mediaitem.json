@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSone Xmas Special (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSone Xmas Special (France).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a4a658c1e7e36ae12c3678f44d1dad46",
+        "sha1": "caa06120a715f1ede4399e4e06b3d1cec9a69dd4",
+        "crc32": "e785bb57"
+      }
+    },
+    {
+      "filename": "PSone Xmas Special (France) (Track 1).bin",
+      "filesize": 718347840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0713007878fdab7d41f58059db127f50",
+        "sha1": "d5bac058d3de0e6d0fcca80219b35bf98338a100",
+        "crc32": "e7f617e0"
+      }
+    },
+    {
+      "filename": "PSone Xmas Special (France) (Track 2).bin",
+      "filesize": 32474064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41371a0a2913ed6ea1cbb99d8092800",
+        "sha1": "88aa669545d4b2a14e14bbbf78bcff4305d8141c",
+        "crc32": "9ec0e731"
+      }
+    }
+  ]
+}

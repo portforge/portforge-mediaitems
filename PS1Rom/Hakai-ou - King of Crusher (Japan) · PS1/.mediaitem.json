@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hakai-ou - King of Crusher (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan).cue",
+      "filesize": 878,
+      "ext": "cue",
+      "checksums": {
+        "md5": "772fd9834ac0221e1d1efefa5ee6b7ec",
+        "sha1": "732acc23fa59303cb72e4aafc8be26f49367d1e9",
+        "crc32": "2b840390"
+      }
+    },
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan) (Track 1).bin",
+      "filesize": 352197888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f22f103799bd4d08da5297f52c99ffcc",
+        "sha1": "f8433a09c2337e2f438869631957897782054885",
+        "crc32": "33d26ad4"
+      }
+    },
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan) (Track 2).bin",
+      "filesize": 16581600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "247b4d5aa204833c034bd4053d37cfc1",
+        "sha1": "5a8d956441ee03df38d89b27490ca780383f4002",
+        "crc32": "b8be3370"
+      }
+    },
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan) (Track 3).bin",
+      "filesize": 20991600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b1d9fc8dac0ebd5c50ad87bdbafc989",
+        "sha1": "7bbd3cad146a2dd211c65a544c71fc6a62db774f",
+        "crc32": "14d48891"
+      }
+    },
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan) (Track 4).bin",
+      "filesize": 19756800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e55c4d228eb524d34afbcf631c2f53cf",
+        "sha1": "64fc36e084826e439f58bd94d4f0c7210c7cbce6",
+        "crc32": "85472e61"
+      }
+    },
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan) (Track 5).bin",
+      "filesize": 24166800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "401aa34a605bf7d8fb7287b0b63ff328",
+        "sha1": "6e54b765b3f03769a6c02e4f96c7a795d7dfedf0",
+        "crc32": "9c06894d"
+      }
+    },
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan) (Track 6).bin",
+      "filesize": 22932000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56c479de7e517ca4e3244c3c3545abf0",
+        "sha1": "3561fd113783facf5f0d676cd977008bd3dacddd",
+        "crc32": "3e0908b6"
+      }
+    },
+    {
+      "filename": "Hakai-ou - King of Crusher (Japan) (Track 7).bin",
+      "filesize": 39866400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "819498792693ca1d69f2ce57c1a1ba0a",
+        "sha1": "c42717f867bebe6972578c8f1709350e26d5890f",
+        "crc32": "722a9a3c"
+      }
+    }
+  ]
+}

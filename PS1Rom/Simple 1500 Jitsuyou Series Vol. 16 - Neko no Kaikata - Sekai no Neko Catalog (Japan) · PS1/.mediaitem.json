@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kaikata - Sekai no Neko Catalog (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kaikata - Sekai no Neko Catalog (Japan).cue",
+      "filesize": 151,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9cba117b99069a2c9fac45b10c1fecc3",
+        "sha1": "d4adc7cfb326addf4d758032c99b29b85587c913",
+        "crc32": "7c84b487"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 16 - Neko no Kaikata - Sekai no Neko Catalog (Japan).bin",
+      "filesize": 603022224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f986df141edf8161cb1a4e715712787",
+        "sha1": "de6e44c858fc5e9c7671fa5db51971e093bac040",
+        "crc32": "625ac1db"
+      }
+    }
+  ]
+}

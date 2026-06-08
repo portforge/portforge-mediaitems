@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Lilo & Stitch - Sarilhos no Paraiso (Portugal)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Lilo & Stitch - Sarilhos no Paraiso (Portugal).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a1eec18be7a5d4e2cf8a9d4d891e6f0",
+        "sha1": "229288a4a6ddcd10d9a50644912519582c746fd5",
+        "crc32": "b1de791d"
+      }
+    },
+    {
+      "filename": "Disney Lilo & Stitch - Sarilhos no Paraiso (Portugal).bin",
+      "filesize": 473210640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f76295b94b7f0daf9cb6dae00ec27c1",
+        "sha1": "05cf82bb9c7d65fa0be93072bd88d7e24fe466c1",
+        "crc32": "9bfbb529"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Stuart Little 2 (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Stuart Little 2 (Denmark).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "defd0568308e77b9db988249c9c54c51",
+        "sha1": "0140c22bf3108f232ab3f1b8841bde9504b9f7dd",
+        "crc32": "a59130ce"
+      }
+    },
+    {
+      "filename": "Stuart Little 2 (Denmark).bin",
+      "filesize": 619029936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef0cc4c70d98dc04cf5c99795e17f03b",
+        "sha1": "52f2192d5795ff43fe4bed41e50de0d570cf5669",
+        "crc32": "e4ab41db"
+      }
+    }
+  ]
+}

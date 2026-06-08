@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 2) (Genbu)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 2) (Genbu).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9fee9bcaea2e973b04b078fcb29c9f79",
+        "sha1": "5febdbf54aadd25c801e1877597ae80aa3217585",
+        "crc32": "963aaa0b"
+      }
+    },
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 2) (Genbu).bin",
+      "filesize": 728626080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f3f1096efc08a6136d8bb00e6685067",
+        "sha1": "4132affbca2db1b655c3ecbfaaf3d6f1f49b0ada",
+        "crc32": "532bbe67"
+      }
+    }
+  ]
+}

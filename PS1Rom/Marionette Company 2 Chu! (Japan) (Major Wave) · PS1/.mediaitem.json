@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marionette Company 2 Chu! (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marionette Company 2 Chu! (Japan) (Major Wave).cue",
+      "filesize": 262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2ed62ea5ec1f7239e6b47cd3d450df36",
+        "sha1": "0b9f2759695ceb7548c89fd40b42224ef9e9c7d7",
+        "crc32": "8c044870"
+      }
+    },
+    {
+      "filename": "Marionette Company 2 Chu! (Japan) (Major Wave) (Track 1).bin",
+      "filesize": 470995056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f938378ef89e6736e487f89f13cb6b74",
+        "sha1": "4a5700f5f8fb344b4038ff68567eacdd3b72c93a",
+        "crc32": "278c237c"
+      }
+    },
+    {
+      "filename": "Marionette Company 2 Chu! (Japan) (Major Wave) (Track 2).bin",
+      "filesize": 74127984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04f855f8843b05688741e6ff9ea00be0",
+        "sha1": "b124f724cf3b7ac410313741283fa5b6863b77b7",
+        "crc32": "b8839ceb"
+      }
+    }
+  ]
+}

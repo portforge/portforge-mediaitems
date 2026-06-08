@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney El Emperador y sus Locuras (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney El Emperador y sus Locuras (Spain).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bca0cf5cf08b1183a75e5f97bc0eceb8",
+        "sha1": "a744c4e3ac46f81671cb2f493d5db0044ca02597",
+        "crc32": "276af438"
+      }
+    },
+    {
+      "filename": "Disney El Emperador y sus Locuras (Spain).bin",
+      "filesize": 667565808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99d75bf4a4b0028bc9e920fe13ffc045",
+        "sha1": "d224107f91b6144ae34b6b05abaa9f84f26c4786",
+        "crc32": "0096b278"
+      }
+    }
+  ]
+}

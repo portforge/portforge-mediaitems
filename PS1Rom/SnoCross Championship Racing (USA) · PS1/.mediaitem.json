@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SnoCross Championship Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SnoCross Championship Racing (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "38c72b52c131698fd357a9bfddf0be91",
+        "sha1": "0d34587ce18786f7f79035d049f2db6c79bf0d47",
+        "crc32": "0ff3e550"
+      }
+    },
+    {
+      "filename": "SnoCross Championship Racing (USA).bin",
+      "filesize": 347757312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8570883c4b3394200e56dd663e59ef13",
+        "sha1": "f3ba87a5db1c1e0c10cdfc183452b7316ae61501",
+        "crc32": "2abcf400"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Family Gunjin Shougi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Family Gunjin Shougi (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "834e8623b2a9918534a76269c164b2e3",
+        "sha1": "a4c5d156471dd4bb3fc26ba6c4e8ab2d292df774",
+        "crc32": "a30f92a3"
+      }
+    },
+    {
+      "filename": "Family Gunjin Shougi (Japan).bin",
+      "filesize": 33400752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e0024cc1e2776f63dfee74894594257",
+        "sha1": "3541c317a2750114c46265679e4016a87c0759a2",
+        "crc32": "ff79c019"
+      }
+    }
+  ]
+}

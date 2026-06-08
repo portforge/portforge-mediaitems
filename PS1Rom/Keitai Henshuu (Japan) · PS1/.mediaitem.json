@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Keitai Henshuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Keitai Henshuu (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa4b59c1392e8eec2c933886ac4948f5",
+        "sha1": "4ac26730c710749b4f4fe4714f7df42b42837e22",
+        "crc32": "a0590048"
+      }
+    },
+    {
+      "filename": "Keitai Henshuu (Japan).bin",
+      "filesize": 483171360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d26a83031ccf37f231be86abdfb5402",
+        "sha1": "a14bd8bec104238e0b599bcfb1bb30cda139b394",
+        "crc32": "ada134d6"
+      }
+    }
+  ]
+}

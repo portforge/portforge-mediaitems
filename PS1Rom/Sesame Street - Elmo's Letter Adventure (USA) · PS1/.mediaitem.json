@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sesame Street - Elmo's Letter Adventure (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sesame Street - Elmo's Letter Adventure (USA).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54a8817dc07dcb0a4d84809104f0afa4",
+        "sha1": "53557cd5da250b6e8134786619f8606113e847ed",
+        "crc32": "62d030c5"
+      }
+    },
+    {
+      "filename": "Sesame Street - Elmo's Letter Adventure (USA).bin",
+      "filesize": 592410000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6fbf285936e005ecf802749a1221043d",
+        "sha1": "4411a6a27d1e7e8abd157ec805ea83b9f598491e",
+        "crc32": "7151239a"
+      }
+    }
+  ]
+}

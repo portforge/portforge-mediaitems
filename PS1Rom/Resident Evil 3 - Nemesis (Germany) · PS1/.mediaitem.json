@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 3 - Nemesis (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 3 - Nemesis (Germany).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9bb30d682a325e8243351b1444e7e422",
+        "sha1": "817298dd107373acefb85e6a621965ca8bf94b23",
+        "crc32": "c8cc9f11"
+      }
+    },
+    {
+      "filename": "Resident Evil 3 - Nemesis (Germany).bin",
+      "filesize": 713688528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2a725f85ae5fe9568063a66fdc7d078",
+        "sha1": "257c6a802f6f3ef6eee69b2d4807117c37e175fe",
+        "crc32": "69237bb6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tekken 3 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tekken 3 (Japan, Asia).cue",
+      "filesize": 330,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e5c436bb2ade46255025d077567e118",
+        "sha1": "9cab43a514c7c71dfdce8214c48fd17c141d2766",
+        "crc32": "221e3002"
+      }
+    },
+    {
+      "filename": "Tekken 3 (Japan, Asia) (Track 1).bin",
+      "filesize": 636919248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ae8a01b1ade3a4a5216218a56f864ec",
+        "sha1": "c4a21615b8bc70fd6e1c71662a7acec149a5ceb0",
+        "crc32": "6532b745"
+      }
+    },
+    {
+      "filename": "Tekken 3 (Japan, Asia) (Track 2).bin",
+      "filesize": 27701856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2605ec2d2b1aeae797816b851127307c",
+        "sha1": "ba8cbc6a371250a92b3d12c1154f489bd6b4b70b",
+        "crc32": "28d8f221"
+      }
+    },
+    {
+      "filename": "Tekken 3 (Japan, Asia) (Track 3).bin",
+      "filesize": 28042896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c401e2c98525184e6d6be80bd40adbcc",
+        "sha1": "a5b34e39603ed80fed8400d879b20b39aadfe1ba",
+        "crc32": "662fea9f"
+      }
+    }
+  ]
+}

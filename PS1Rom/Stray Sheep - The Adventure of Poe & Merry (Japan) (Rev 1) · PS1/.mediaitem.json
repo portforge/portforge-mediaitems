@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Stray Sheep - The Adventure of Poe & Merry (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Stray Sheep - The Adventure of Poe & Merry (Japan) (Rev 1).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2306b7b38393e1e7dc2e9afafab97efa",
+        "sha1": "12d641eb7278e39964eecc0387eea55bc2fb2320",
+        "crc32": "5268e856"
+      }
+    },
+    {
+      "filename": "Stray Sheep - The Adventure of Poe & Merry (Japan) (Rev 1).bin",
+      "filesize": 458560032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4e62ad1098c6b70bb5d655ae6ba5758",
+        "sha1": "495852cba746734b9635a622eeb8e7b272f30a9e",
+        "crc32": "72686d62"
+      }
+    }
+  ]
+}

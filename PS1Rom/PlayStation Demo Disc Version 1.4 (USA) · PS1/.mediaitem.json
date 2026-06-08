@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Demo Disc Version 1.4 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Demo Disc Version 1.4 (USA).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e726c8c6e0320f8c88c5545f225e44c",
+        "sha1": "00af7f1020de6ff2e9ec354837ce98c5a30ba114",
+        "crc32": "e29191b0"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc Version 1.4 (USA) (Track 1).bin",
+      "filesize": 426384672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17c70cf60af882fb7d186f5d00a20e6b",
+        "sha1": "0fe32c0b7c65e96096c1c8a7639ca9f670bf16bf",
+        "crc32": "a7f44836"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc Version 1.4 (USA) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

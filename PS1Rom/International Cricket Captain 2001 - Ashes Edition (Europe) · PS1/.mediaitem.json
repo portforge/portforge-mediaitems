@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Cricket Captain 2001 - Ashes Edition (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Cricket Captain 2001 - Ashes Edition (Europe).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72567d243a4618b215452ba903c254a1",
+        "sha1": "66ccbddc51860a25429125daeb7fd1db613d5876",
+        "crc32": "b42889e3"
+      }
+    },
+    {
+      "filename": "International Cricket Captain 2001 - Ashes Edition (Europe).bin",
+      "filesize": 169468656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d603eae2cb97a329e5642f7762b8f63",
+        "sha1": "363da9c8aaa0f9d10729e0219630b4016b9d54de",
+        "crc32": "da6f94e5"
+      }
+    }
+  ]
+}

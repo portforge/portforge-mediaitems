@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground 3.1 (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground 3.1 (USA) (Disc 2).cue",
+      "filesize": 798,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5273713cc464fd5ed542e7739995d574",
+        "sha1": "0b446e0e41e1256e9b0ec6d13f367007487d33f8",
+        "crc32": "a7ffaaec"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 3.1 (USA) (Disc 2) (Track 1).bin",
+      "filesize": 670919760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42fc5d3affbf0567cc32e83286034dcb",
+        "sha1": "fc69ebd70cb2143050c41789e1926271daff9112",
+        "crc32": "e5cbd865"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 3.1 (USA) (Disc 2) (Track 2).bin",
+      "filesize": 7592256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1446f11e336df4c8e8a62c3a234086c1",
+        "sha1": "9bbeb65d8d4c6138ebf4e06c08c08f30ebbe9b39",
+        "crc32": "172cb2f5"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 3.1 (USA) (Disc 2) (Track 3).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f63f0bda34cd8fd37b58e048b1e80327",
+        "sha1": "aba2f37bbf17638c8df90a9e8a51282f1a846c22",
+        "crc32": "9cd75aa3"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 3.1 (USA) (Disc 2) (Track 4).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13f9035c85075be444e135a05a511682",
+        "sha1": "0eb15c23dc7ae344823c73865ce9a75d5aa709e3",
+        "crc32": "0d4dae67"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 3.1 (USA) (Disc 2) (Track 5).bin",
+      "filesize": 33064416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2dd9ef938ae805762f2a4878a16f2c34",
+        "sha1": "d48ff3ca7043d7379c3990d48226e152b118393e",
+        "crc32": "20bad979"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 3.1 (USA) (Disc 2) (Track 6).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

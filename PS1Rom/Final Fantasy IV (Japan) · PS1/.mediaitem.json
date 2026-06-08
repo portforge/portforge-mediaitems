@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IV (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IV (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f350d368d478ed9aa39b85741b24151a",
+        "sha1": "3700b85280feb0186426768eea655831bf4e4b40",
+        "crc32": "05f0ae87"
+      }
+    },
+    {
+      "filename": "Final Fantasy IV (Japan).bin",
+      "filesize": 385807968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ba2fed7ef86246b8d0cfaea3f6c1f49",
+        "sha1": "3b15a21b58a67d402f03617760019f832e1342f4",
+        "crc32": "0a829ad7"
+      }
+    }
+  ]
+}

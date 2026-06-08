@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d57baf4ce58e4a08229297a08e90232",
+        "sha1": "4e3ab252fc3a327b98a6d196088fcddfebdc6ea6",
+        "crc32": "bfdaa795"
+      }
+    },
+    {
+      "filename": "Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1).bin",
+      "filesize": 685165824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cb0ae3923d9d7cc4e7d448945c01fa8",
+        "sha1": "1eeb77107e795252d50ba6f895d089bf16bc8965",
+        "crc32": "d4bd767c"
+      }
+    }
+  ]
+}

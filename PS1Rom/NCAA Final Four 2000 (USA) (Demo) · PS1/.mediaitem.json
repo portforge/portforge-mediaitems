@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA Final Four 2000 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA Final Four 2000 (USA) (Demo).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4a81bb5dc5a1c531b5b674bc1e82b41",
+        "sha1": "424772688ae7d9048462a1f130ee28c0ac0ccff9",
+        "crc32": "904266dc"
+      }
+    },
+    {
+      "filename": "NCAA Final Four 2000 (USA) (Demo).bin",
+      "filesize": 449554224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5949649312ee4767cf5240ec512eda24",
+        "sha1": "bd8c6e0326b567ef2b14e53aea2a699383647d48",
+        "crc32": "d20a8a0d"
+      }
+    }
+  ]
+}

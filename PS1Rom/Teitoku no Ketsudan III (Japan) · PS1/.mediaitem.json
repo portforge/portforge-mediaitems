@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Teitoku no Ketsudan III (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Teitoku no Ketsudan III (Japan).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9eafaa7b419d68ebffbb6eb2b3a5ccba",
+        "sha1": "c96bb2331097bb6a36e9136d1d07ea2b1ff244ea",
+        "crc32": "d18b2604"
+      }
+    },
+    {
+      "filename": "Teitoku no Ketsudan III (Japan) (Track 1).bin",
+      "filesize": 329726880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9a560c0b7be8a931006c145a4e28546",
+        "sha1": "d6edb21e729d387e0412e9eeebd80f3a760a5337",
+        "crc32": "9de8b92e"
+      }
+    },
+    {
+      "filename": "Teitoku no Ketsudan III (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

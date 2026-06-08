@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Misa no Mahou Monogatari (Japan) (Disc 2) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Misa no Mahou Monogatari (Japan) (Disc 2) (Shokai Genteiban).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8236d63448cc8f63aad14669241cffc4",
+        "sha1": "8599052eeae53c44d7acd888dc4cbe39b8fd8f3e",
+        "crc32": "868ce184"
+      }
+    },
+    {
+      "filename": "Misa no Mahou Monogatari (Japan) (Disc 2) (Shokai Genteiban).bin",
+      "filesize": 681452016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9db6e21e0113a4359fb767a9e15a6ef",
+        "sha1": "d8dfad95cbe86e86640ce639dbec45a0628d8a2b",
+        "crc32": "5ac4b16a"
+      }
+    }
+  ]
+}

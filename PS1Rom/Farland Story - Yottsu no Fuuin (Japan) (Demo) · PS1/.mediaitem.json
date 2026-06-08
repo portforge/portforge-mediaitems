@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Farland Story - Yottsu no Fuuin (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Farland Story - Yottsu no Fuuin (Japan) (Demo).cue",
+      "filesize": 682,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ff794bd13af5eef4b961deabb83c810",
+        "sha1": "0417f0a06a653982206bb21bf28cea0102d0831b",
+        "crc32": "ad21e4c7"
+      }
+    },
+    {
+      "filename": "Farland Story - Yottsu no Fuuin (Japan) (Demo) (Track 1).bin",
+      "filesize": 287917728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9756f28f538a84c8edb6f75bf417732d",
+        "sha1": "8c7eec18a95b6588673aa889571528823553216f",
+        "crc32": "b5875f00"
+      }
+    },
+    {
+      "filename": "Farland Story - Yottsu no Fuuin (Japan) (Demo) (Track 2).bin",
+      "filesize": 9349200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10b71a2c72b83eee46042e9e2919282e",
+        "sha1": "0a026bdf66488458e00228eea7aab2ddc6c76034",
+        "crc32": "54772d86"
+      }
+    },
+    {
+      "filename": "Farland Story - Yottsu no Fuuin (Japan) (Demo) (Track 3).bin",
+      "filesize": 5042688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04573897976505b0f3647cd26a3542af",
+        "sha1": "2c505ce9e2bf2888e85d5408c531b850b1fa05f3",
+        "crc32": "fb315836"
+      }
+    },
+    {
+      "filename": "Farland Story - Yottsu no Fuuin (Japan) (Demo) (Track 4).bin",
+      "filesize": 9850176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b9b11a723a6ed8c00965913e87a0fc1",
+        "sha1": "e85221ca96ddd94d9438d88c4ac56d91d29f1de6",
+        "crc32": "7e20cca4"
+      }
+    },
+    {
+      "filename": "Farland Story - Yottsu no Fuuin (Japan) (Demo) (Track 5).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

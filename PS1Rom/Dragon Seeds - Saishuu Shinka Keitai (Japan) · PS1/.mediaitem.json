@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Seeds - Saishuu Shinka Keitai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Seeds - Saishuu Shinka Keitai (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "281ac7d5e6acb20e9d204f1b2ee4a19c",
+        "sha1": "fdb01e67556060894bb2446b3364dc1521d2f6cf",
+        "crc32": "65ee682f"
+      }
+    },
+    {
+      "filename": "Dragon Seeds - Saishuu Shinka Keitai (Japan).bin",
+      "filesize": 257769792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d6c3e41115b34d4dad184704f01867c",
+        "sha1": "9bc6191d8fc844188626077188ccb17560113d5b",
+        "crc32": "f44294fe"
+      }
+    }
+  ]
+}

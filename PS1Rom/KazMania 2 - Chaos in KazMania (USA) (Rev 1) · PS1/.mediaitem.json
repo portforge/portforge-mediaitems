@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "KazMania 2 - Chaos in KazMania (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "KazMania 2 - Chaos in KazMania (USA) (Rev 1).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a3d28a831f661b94f65aa82a24a3a47a",
+        "sha1": "99b83ae683fdff0895ef05fbcb509213e94f368b",
+        "crc32": "a16118c1"
+      }
+    },
+    {
+      "filename": "KazMania 2 - Chaos in KazMania (USA) (Rev 1).bin",
+      "filesize": 436385376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d6c87dab28b723630c813140a34c0b6",
+        "sha1": "9fcec106b1c95e6270754e1ce6f27497bcde9ee9",
+        "crc32": "c2782e67"
+      }
+    }
+  ]
+}

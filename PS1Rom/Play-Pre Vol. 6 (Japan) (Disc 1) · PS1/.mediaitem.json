@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 6 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 6 (Japan) (Disc 1).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1bb5a8bed727a7305bbed7c09e3121bb",
+        "sha1": "7453cd83271e9a3359fe4cac48c167385be38286",
+        "crc32": "c6c4599c"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 6 (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 562012752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ade7edcfa128d1c63a14b20fae663d4",
+        "sha1": "589c8065cba49635c2dc1ee94c325cd66c84f41b",
+        "crc32": "ff56992b"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 6 (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

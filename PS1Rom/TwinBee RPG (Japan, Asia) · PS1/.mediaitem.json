@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TwinBee RPG (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TwinBee RPG (Japan, Asia).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "27e915b207b45c577157c746abfa9a80",
+        "sha1": "c4547a97f9e40ff07d0a3c5fb0701f211d65e893",
+        "crc32": "017e09b9"
+      }
+    },
+    {
+      "filename": "TwinBee RPG (Japan, Asia).bin",
+      "filesize": 480729984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c654c6beda4dd0d061b027936726245",
+        "sha1": "e224137900fda49ada0fc811678482d644874552",
+        "crc32": "e9fe48bf"
+      }
+    }
+  ]
+}

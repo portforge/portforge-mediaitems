@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King's Field (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King's Field (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a70bbde399c09d7bc34e640728b17ef4",
+        "sha1": "c28aba59e79cb2f2264e8f76f63d2e2990e423eb",
+        "crc32": "fa382fbc"
+      }
+    },
+    {
+      "filename": "King's Field (Japan).bin",
+      "filesize": 30378432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2b8b1652407c6c8107b0c93e20624a6",
+        "sha1": "00bfd94ce99bf214b03bdaa07de99b9ca1466550",
+        "crc32": "54c8f64a"
+      }
+    }
+  ]
+}

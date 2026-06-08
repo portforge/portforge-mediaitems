@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spice World (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spice World (Germany).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1a7a403813cda6aaa54d668b84f45e8",
+        "sha1": "1b88baa5d685d2c62d6303c622633f9e153462c9",
+        "crc32": "02748ac7"
+      }
+    },
+    {
+      "filename": "Spice World (Germany).bin",
+      "filesize": 411529440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06a9dee3cfcd85c1c11ba0c79f1c93fb",
+        "sha1": "07f1ef0bc31c0a000221e482f277029a85f0d375",
+        "crc32": "460194b2"
+      }
+    }
+  ]
+}

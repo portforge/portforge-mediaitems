@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alerte Rouge (France) (Disc 2) (Sovietiques)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alerte Rouge (France) (Disc 2) (Sovietiques).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9677982e6ef1a9dcb079af86106c10d2",
+        "sha1": "f628106bbb80a3e1b13eb2b133190459db434050",
+        "crc32": "33a0751d"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alerte Rouge (France) (Disc 2) (Sovietiques).bin",
+      "filesize": 741166944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68b9409961a9a7bd756d63a9f8a0e03c",
+        "sha1": "d1b951fd0c7ca5b463318c930852c334ca66db63",
+        "crc32": "8b69eee4"
+      }
+    }
+  ]
+}

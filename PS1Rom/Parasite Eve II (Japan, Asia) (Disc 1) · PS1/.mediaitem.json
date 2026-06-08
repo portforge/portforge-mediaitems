@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parasite Eve II (Japan, Asia) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parasite Eve II (Japan, Asia) (Disc 1).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "825ff8382ad29931ca27cf741744d380",
+        "sha1": "8bb9ce24b521d804b43a55a8612130ed7c36a968",
+        "crc32": "f7a52459"
+      }
+    },
+    {
+      "filename": "Parasite Eve II (Japan, Asia) (Disc 1).bin",
+      "filesize": 590493120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b030b8ed309c4a5d3c5b3178bc5273b",
+        "sha1": "3d921a04ee507f133bf6b31176597a1faec318a9",
+        "crc32": "988c8bbc"
+      }
+    }
+  ]
+}

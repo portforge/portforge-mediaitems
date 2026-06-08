@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu (Japan) (Controller Set).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c7912dbce74a1bd88219d59d51ebc17f",
+        "sha1": "99ba6d310a6de3463ae5e47a004720f8b429b217",
+        "crc32": "65245622"
+      }
+    },
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu (Japan) (Controller Set).bin",
+      "filesize": 266225232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b36a30db9c79d9efe5fb9da1496e4030",
+        "sha1": "641d524e8fd8157eadb092b0a38cf6036e3ecd09",
+        "crc32": "de5700f3"
+      }
+    }
+  ]
+}

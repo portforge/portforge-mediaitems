@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2002 (Germany) (En,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2002 (Germany) (En,De,Es,Nl,Sv).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc0a3960954a624ee89287b1abe0a4db",
+        "sha1": "26b1939caee7efd0e7458a015e490096479d9dbf",
+        "crc32": "70d7a8ad"
+      }
+    },
+    {
+      "filename": "FIFA Football 2002 (Germany) (En,De,Es,Nl,Sv).bin",
+      "filesize": 749278992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b07c15206e48fe906ddeae3e4867af2d",
+        "sha1": "6a7dd628f92e32c9c6eea4bc0792cce197d89719",
+        "crc32": "ae73df1f"
+      }
+    }
+  ]
+}

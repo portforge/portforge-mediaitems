@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cardcaptor Sakura - Clow Card Magic (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cardcaptor Sakura - Clow Card Magic (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "02cda8255b1f81f8e6423d687ac8619a",
+        "sha1": "833240cef4a324384244b3c9396ce7ec32df5995",
+        "crc32": "e131696a"
+      }
+    },
+    {
+      "filename": "Cardcaptor Sakura - Clow Card Magic (Japan).bin",
+      "filesize": 617938608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "259802e85fb1fe3b5f39c78033c7efd0",
+        "sha1": "f7b516694179ce64c611820fb4a0208404fb747c",
+        "crc32": "e7ea0b17"
+      }
+    }
+  ]
+}

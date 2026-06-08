@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "T kara Hajimaru Monogatari (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "T kara Hajimaru Monogatari (Japan).cue",
+      "filesize": 366,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1642ed80ccc8c6dd114aac150886e495",
+        "sha1": "8e8553eeacfe3724809602d53016037b2273352c",
+        "crc32": "ffc28479"
+      }
+    },
+    {
+      "filename": "T kara Hajimaru Monogatari (Japan) (Track 1).bin",
+      "filesize": 118298544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b54437325b528c4f799d32ddc44b95c",
+        "sha1": "128db1a91a17ec396ab51debbc89fafeedbd9af5",
+        "crc32": "40312ff8"
+      }
+    },
+    {
+      "filename": "T kara Hajimaru Monogatari (Japan) (Track 2).bin",
+      "filesize": 27026832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "955fffd3fb11e91e6b548eb0635337b9",
+        "sha1": "14c6768a6c37a9f627189433752ce22214784d41",
+        "crc32": "62bbeb46"
+      }
+    },
+    {
+      "filename": "T kara Hajimaru Monogatari (Japan) (Track 3).bin",
+      "filesize": 54350016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f0e26eaae281ae2d37a44380da75b66",
+        "sha1": "bdf4c9603cfded260a6350b9b5b45e32fbb97683",
+        "crc32": "c3864b94"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 13 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 13 (USA).cue",
+      "filesize": 864,
+      "ext": "cue",
+      "checksums": {
+        "md5": "edd322501ef9d4f76667b92d095112fd",
+        "sha1": "d84ca8547ff1792d56c44e36cfe08a4989d03abb",
+        "crc32": "117af002"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 13 (USA) (Track 1).bin",
+      "filesize": 525697872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faf550510ec4352c460c79269fb56202",
+        "sha1": "15cd7bd9f58445b2c80fe461054d69a042044ca2",
+        "crc32": "b646ccb4"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 13 (USA) (Track 2).bin",
+      "filesize": 17992800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c36c6c2849838998769825f755635704",
+        "sha1": "19618e88a716a9e2003d9288fa84593ec9ed52f1",
+        "crc32": "83997ad4"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 13 (USA) (Track 3).bin",
+      "filesize": 26093088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cab6337c5b8c9678034cdf724f1e0593",
+        "sha1": "94cf45af4c58ed8aeed6b91bddcac553688f8135",
+        "crc32": "2ba81cab"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 13 (USA) (Track 4).bin",
+      "filesize": 4010160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75fb283dbe62ce550dd6b247bfd866a4",
+        "sha1": "2dc6f9a6009f60a4423e15e2fe8e34f0dcf8a6ff",
+        "crc32": "8c7c12f7"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 13 (USA) (Track 5).bin",
+      "filesize": 26622288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbd2c75cb422b770cde928aa7aa72231",
+        "sha1": "4789475cb0e0b529c1719e11525be48e90878122",
+        "crc32": "5b590460"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 13 (USA) (Track 6).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

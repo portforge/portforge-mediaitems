@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Green Rogue (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Green Rogue (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3b8e8ddc849643fd2fae6acfd5b8c065",
+        "sha1": "219b9f42b3824c87b8c04d9fa200b4c7467f7bc7",
+        "crc32": "161481e6"
+      }
+    },
+    {
+      "filename": "Army Men - Green Rogue (USA).bin",
+      "filesize": 494747904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9682567fd2c67e13d57830c7183cfea",
+        "sha1": "d3cb0b6abfe456c293ed41956589d9310fbd64a6",
+        "crc32": "8423163b"
+      }
+    }
+  ]
+}

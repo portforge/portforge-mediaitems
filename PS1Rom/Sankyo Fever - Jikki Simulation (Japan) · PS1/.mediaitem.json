@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sankyo Fever - Jikki Simulation (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sankyo Fever - Jikki Simulation (Japan).cue",
+      "filesize": 780,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec2282259a57e62d18a160347a3673a3",
+        "sha1": "3356c2b4afe31a520e597bbe1b87e25f3324033e",
+        "crc32": "7b3181e3"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation (Japan) (Track 1).bin",
+      "filesize": 417244800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d98e20a8d7eeacfd3c5d78bbe6d38561",
+        "sha1": "ae45664ebaefd471125672acd92a895ed97d34b8",
+        "crc32": "d6099d37"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation (Japan) (Track 2).bin",
+      "filesize": 10932096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "886eb0b7512d6f85a6ab665c490fa3dd",
+        "sha1": "31dc94e4c2551c12f6539d0c373f819113c942d0",
+        "crc32": "e2607685"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation (Japan) (Track 3).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aba3d0675c23802c17696aab87a0244b",
+        "sha1": "3ba68f3651ad865fc368e9d4eb98902d1b283f7a",
+        "crc32": "d6bb5fb4"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation (Japan) (Track 4).bin",
+      "filesize": 63859152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7132ff716bdfc0fe98fa57d7ea3f7011",
+        "sha1": "a751bd4bda13ead83c678baee61755ee068f36e3",
+        "crc32": "6857a604"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation (Japan) (Track 5).bin",
+      "filesize": 63861504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92356adc301e08ee51b7439df130a6a4",
+        "sha1": "c59b7d20ce45e9cc9c56819fa35ec319b66f5ea3",
+        "crc32": "14f25eb7"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation (Japan) (Track 6).bin",
+      "filesize": 63859152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cd25bd88b6f00cd90f8bc863cda7d63",
+        "sha1": "647a9e20d8df2972d5d9b12d318c8539589b6466",
+        "crc32": "57bae368"
+      }
+    }
+  ]
+}

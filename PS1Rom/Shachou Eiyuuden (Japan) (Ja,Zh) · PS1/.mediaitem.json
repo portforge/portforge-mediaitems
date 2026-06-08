@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shachou Eiyuuden (Japan) (Ja,Zh)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shachou Eiyuuden (Japan) (Ja,Zh).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40c3e09fd4d2d30fd9b1ff2051d3f664",
+        "sha1": "ac1e21ef9ec94104d1b9afec0f5e64609a3c131a",
+        "crc32": "30e9e926"
+      }
+    },
+    {
+      "filename": "Shachou Eiyuuden (Japan) (Ja,Zh).bin",
+      "filesize": 669856656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7489c02da13be2fffc3202869c90bbf7",
+        "sha1": "b2f37dc25b4a7a7c406f7b43da5af3cfc3280d8d",
+        "crc32": "ea2bd840"
+      }
+    }
+  ]
+}

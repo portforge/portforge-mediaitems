@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harry Potter to Himitsu no Heya (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harry Potter to Himitsu no Heya (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f954e3ec7ca5b2afe737e084c62d5b3c",
+        "sha1": "03f64e59457ef99698d8d4d5b4122fdc1ae49e1f",
+        "crc32": "8498f4ec"
+      }
+    },
+    {
+      "filename": "Harry Potter to Himitsu no Heya (Japan).bin",
+      "filesize": 570503472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e7c8da8bd54868415d5e0572eb3d304",
+        "sha1": "b63a76dbf9703c6819b11068cac8f7df0b8ee6b3",
+        "crc32": "2426055c"
+      }
+    }
+  ]
+}

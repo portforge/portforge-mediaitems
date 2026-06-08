@@ -1,0 +1,617 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM).cue",
+      "filesize": 9462,
+      "ext": "cue",
+      "checksums": {
+        "md5": "06f44d345d8daf2a8448a6b996f40803",
+        "sha1": "d3d7adffba9064ce10746c40462eb8dca1150934",
+        "crc32": "556ecf3e"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 01).bin",
+      "filesize": 443342592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b4f77dc95fe6b82931239f83e0c8621",
+        "sha1": "530f2e47b5151b62e8543871bd0f642a17506168",
+        "crc32": "62216344"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 02).bin",
+      "filesize": 6630288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f3a9070afd82dffe7cbda245532f515",
+        "sha1": "d4e041b8ea80ea6c3c937c835a24b854d3297906",
+        "crc32": "bd1ccb5e"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 03).bin",
+      "filesize": 6714960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d392d3a1caaf4d2d743441ea41f5e2bd",
+        "sha1": "bca1a5bd6e58ef84402b7bf52c97fd0ee9cba174",
+        "crc32": "26e7d54f"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 04).bin",
+      "filesize": 6564432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4022aae5cc120ababba2b08ddf295c1",
+        "sha1": "53240d3fa420a61eed98c9b37955a32ca48e6fec",
+        "crc32": "5011d4fd"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 05).bin",
+      "filesize": 6284544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2574ebc74bae1b54044f5393f92b513",
+        "sha1": "55dd92fe4cf0f8831131c15617e84ac27b5ad0e3",
+        "crc32": "ec8608ac"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 06).bin",
+      "filesize": 7190064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9e7dea882a59dd88d21d37f88e7c66b",
+        "sha1": "fc43e77d6bad7d34751f4478f84e7bc10536adad",
+        "crc32": "f00ab262"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 07).bin",
+      "filesize": 6620880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75578ee86a925d90e59b95285840832a",
+        "sha1": "21b68477f5ecdd0d2dffa54ad453391620d3b302",
+        "crc32": "4558d983"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 08).bin",
+      "filesize": 6745536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "209e356acdcb671ca8f0593b1319dde1",
+        "sha1": "d1f4a03efe7e986099ef67f1d3e9ddcf40c5ae2f",
+        "crc32": "7b0e1377"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 09).bin",
+      "filesize": 6364512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c76905f695dd7bf8a6d0f5033708e996",
+        "sha1": "2f58624b4c56eaed742b8b4aaff43fe5ca110a8f",
+        "crc32": "d2dd5996"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 10).bin",
+      "filesize": 6571488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84e6a79d3dd33e85a1a3f364ef4e081a",
+        "sha1": "0f2cb8557a9e7f6f1274f0573450770fb2c2c2fa",
+        "crc32": "8f5ef47e"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 11).bin",
+      "filesize": 6409200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1f29beaf520bc94038023c3c13e0d0f",
+        "sha1": "2441b42d1658919c15d641a2454981130c74792f",
+        "crc32": "05eb969a"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 12).bin",
+      "filesize": 5607168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e5e01893bb2d9ffe271b7ee9bf3e72a",
+        "sha1": "f40624e82a16b7bfb75d0f7cea51b9c35c67482e",
+        "crc32": "fee008e4"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 13).bin",
+      "filesize": 6618528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ae2119229ddd47f293696b10126de7d",
+        "sha1": "f69ffda227b9837caa976f843cf901402e78fba5",
+        "crc32": "6377935f"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 14).bin",
+      "filesize": 6616176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b60230c53170e46abd610cc5df15bbe",
+        "sha1": "852cb25c6f37772e3bccd4373506843210ef4103",
+        "crc32": "3ce2ad15"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 15).bin",
+      "filesize": 6108144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "088b879a80e68eaa58b9aa53352af468",
+        "sha1": "3213f9da0107f98f4bd8d7bee1d02cfc46b52280",
+        "crc32": "bfbaa3b8"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 16).bin",
+      "filesize": 4372368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee486b97aae8aa94285e46e8d2d96d25",
+        "sha1": "cbdf774c7b63a0d2bbf51f8d85966675e474af66",
+        "crc32": "18d275a8"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 17).bin",
+      "filesize": 4518192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f6a389e6280e8afe6964a4ccb46c846",
+        "sha1": "4a3fa8d0895927b20694d08838148bf125f348bd",
+        "crc32": "7581ae05"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 18).bin",
+      "filesize": 3144624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02b5f5a5a3da231e3c4500a1cd499368",
+        "sha1": "0e8f1f1284b238d2afc5593e2f20a781ab3efda0",
+        "crc32": "1019eb8c"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 19).bin",
+      "filesize": 2902368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd5de74e13e131fefab2ce23d5563db9",
+        "sha1": "8be9b3960acc925f49a8b165aaddd1a7c2b3e8a5",
+        "crc32": "6ccf26d0"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 20).bin",
+      "filesize": 6757296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c062ee3784923b605680804782de7a25",
+        "sha1": "f14bbfd5897a15cfc307a8124af772ea17d4309b",
+        "crc32": "8c9fd243"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 21).bin",
+      "filesize": 7818048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0c6b812cb76bed36b8f0863d381b0bd",
+        "sha1": "3b1868e8a585ed59afcb92ffedae9db553a05c48",
+        "crc32": "d8278d7d"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 22).bin",
+      "filesize": 9789024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afedcbf5fad70058c8a31cd5ac4b3ce1",
+        "sha1": "219a1da1fb3dde7afe26473cdcf43e4ea5b1a034",
+        "crc32": "ca2ae575"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 23).bin",
+      "filesize": 7533456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f01358692356051a5e1faa676ae0da0",
+        "sha1": "e0eb9e4752a951c31043bd1ac41c02baedc19f37",
+        "crc32": "5aee74e6"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 24).bin",
+      "filesize": 14570640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a907f51b266f7f7e312c0b86ed9eae26",
+        "sha1": "43b7e52091228dff94b64d6148b9406cf0a3a61a",
+        "crc32": "42d24aff"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 25).bin",
+      "filesize": 10320576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee491c366301f0c10c6eb5c4b1f0eccd",
+        "sha1": "302eda24d7f87881d0cf8f440c1d698036cb112e",
+        "crc32": "52b6a0b3"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 26).bin",
+      "filesize": 8530704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d819aea6706cb0139a5b4bf008549ba8",
+        "sha1": "56259130cebcaa667d92812e939edff38dde9872",
+        "crc32": "6dcab7f9"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 27).bin",
+      "filesize": 1394736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0383bcba72ecac33cd7a9821aa421322",
+        "sha1": "caed52941a74478171ddd6b2a2893b8021f5f242",
+        "crc32": "c1b3dde0"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 28).bin",
+      "filesize": 1248912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2158dd95e6ede1fbe9e14c73296e7a4",
+        "sha1": "3dd3075087fc18bc450eb87d9afbefa6294c3a8b",
+        "crc32": "d9f69b9f"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 29).bin",
+      "filesize": 1258320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b79a1a604486981911d901863e5e9ef",
+        "sha1": "77fbcdc61546ef39cdd5f02c874f472e9020e762",
+        "crc32": "2b2936bd"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 30).bin",
+      "filesize": 1312416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a8b75efe6e050ea94c4eb446a90b0e4",
+        "sha1": "830e8f234a25611fe4f41f41481849ed489db79f",
+        "crc32": "8f833ce4"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 31).bin",
+      "filesize": 1168944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15a1e0911bcb9c3b0a097ae0c02c260e",
+        "sha1": "9f62f835548ffe8a746493a800ddf6366748ae56",
+        "crc32": "dd4bc453"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 32).bin",
+      "filesize": 1140720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8fb83c6468dd439b8f35636d30b7291",
+        "sha1": "79e61a3da331412fd51eedc1f9bf8f9ead9c3b51",
+        "crc32": "6007d131"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 33).bin",
+      "filesize": 1140720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42d9d701f0e0a9022243b20cedc68876",
+        "sha1": "2e5a12f16e52769f7d5c5070ae7edcc986d1817a",
+        "crc32": "d363a2c1"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 34).bin",
+      "filesize": 1305360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78c298469855c01c745305facb959a0c",
+        "sha1": "fe026aaf632b16736e67a5b6d7d064109c22d85a",
+        "crc32": "709197c1"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 35).bin",
+      "filesize": 1258320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74513473bfd9330963fdb1316220d72c",
+        "sha1": "2a0217901400d838795686997673fbec76deee26",
+        "crc32": "6a815d8f"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 36).bin",
+      "filesize": 1300656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f51be5761c9ce77bd081dffde8b8b533",
+        "sha1": "723081d9a5562c52d4b58106bb94492fff6f67e9",
+        "crc32": "86f41bef"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 37).bin",
+      "filesize": 1274784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a6d37e8cc0c8f46886618cebaf47fec",
+        "sha1": "6caacb9cd0098374efc88cd4c15f3207df95cbee",
+        "crc32": "c14fcb3e"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 38).bin",
+      "filesize": 1512336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "babb8aa53dd7015c7c63945c41879e9d",
+        "sha1": "a1ce260c9e3380c01328be8e5078ca887472bf4d",
+        "crc32": "ee1a0717"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 39).bin",
+      "filesize": 1286544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8722fc216c78613427ee1b50c712ad4",
+        "sha1": "d9a511a695b1d35267c137b493ece3a3f5b1930d",
+        "crc32": "20858bc9"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 40).bin",
+      "filesize": 1270080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d94dba949c00ec515712579ad80b05a7",
+        "sha1": "ca8493a38f63485c6492fcb432b6ba433191b84b",
+        "crc32": "7fa0ef78"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 41).bin",
+      "filesize": 1472352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cad197be6ae1382780aaed17266c2d24",
+        "sha1": "e67e7ffb75f693b01ee3af7098231897c119b824",
+        "crc32": "64ce7d43"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 42).bin",
+      "filesize": 1375920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b35c1880d4660556b7943fe57f8106f4",
+        "sha1": "5c8d0962c61bb7e54ad0041080fb0de95bf24893",
+        "crc32": "1819ad0b"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 43).bin",
+      "filesize": 1295952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc13e50ea19ba694ce5e4fd127ebbdf2",
+        "sha1": "200d104d52eff27f5d47f5b373e8e549ff682ecf",
+        "crc32": "1638cc0e"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 44).bin",
+      "filesize": 1204224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70314d6231556824900a006dfbf44aa2",
+        "sha1": "03095c6ddc842ca58da8f375e4f5f0437483e82a",
+        "crc32": "16282969"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 45).bin",
+      "filesize": 1225392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d459e132927f44322433810a27027f1",
+        "sha1": "e98136bb7a4a04e63ab181f78fd16a2de2885a1c",
+        "crc32": "0f8108a0"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 46).bin",
+      "filesize": 1274784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f89c35d4e651471aadc6671dcf57871e",
+        "sha1": "069734f20013b1c3838c87c9de932ca2b8ec246d",
+        "crc32": "a64c664b"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 47).bin",
+      "filesize": 1270080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf02b4175db75fbe94b930deac7f776f",
+        "sha1": "ad2b395f63d1c6c7cda2e8a1deb21b27bfa3e2b4",
+        "crc32": "e1f74861"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 48).bin",
+      "filesize": 1183056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a76a3aa79ee0560ce7b7a0571e018030",
+        "sha1": "8b6f8ff26592c5192b0e9834b529cbdbddae6ea9",
+        "crc32": "05de3d78"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 49).bin",
+      "filesize": 1187760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e51849f455365030a536a7b6aea8ac34",
+        "sha1": "1fc1983c496d76339fb01c6912eac8a933c8f41c",
+        "crc32": "e0da73a4"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 50).bin",
+      "filesize": 1187760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af1688da69d8b02a21824026254645f4",
+        "sha1": "7bece9b944d9a66248efa1b0299e27b80a2f05cf",
+        "crc32": "c0fabf18"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 51).bin",
+      "filesize": 1187760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1eb18b6ab89a918a90b393d7ae6d3949",
+        "sha1": "5cb772fc5f8dea830cf7f85eb2f4789480c5f86e",
+        "crc32": "0bc137a4"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 52).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b252c78c70581eb63f9134b701bf0532",
+        "sha1": "898550badffeca2423e67f6e32740e4b2b8faaa6",
+        "crc32": "038f491b"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 53).bin",
+      "filesize": 1215984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b42e6fc7f6a6e19162ff4bacfe6e82dd",
+        "sha1": "f1a0cd9ed3ec8d07df8d8ce49466317cbd1e6a57",
+        "crc32": "0e154237"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 54).bin",
+      "filesize": 1157184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7dc74bf0cf7d20104038c89bae16d27",
+        "sha1": "90d6017dbb2e22b9edf46b11e84afdb26074e662",
+        "crc32": "2726c2f3"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 55).bin",
+      "filesize": 1286544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f493daf33c3e9fb6a73410fa1dfb2ff",
+        "sha1": "899fa4b027d12cdde7ba13fed06d9a56f5cae77c",
+        "crc32": "aea18a33"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 56).bin",
+      "filesize": 1086624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39171fc64644a63aecd19c94c3656990",
+        "sha1": "44efaf1f9b10f67b2662df27cde6e8e0ea4c1bc5",
+        "crc32": "5ea9dbc0"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 57).bin",
+      "filesize": 1157184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d5d844f7e7b4c5bd09f59a3cf5a9e9f",
+        "sha1": "9a19dde1d848f09a07830b58cce38229a3310d56",
+        "crc32": "d64c9858"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 58).bin",
+      "filesize": 1223040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "deaad9b2f3a77e38e1957053cc910e88",
+        "sha1": "ebf276a93680a936fb42ad00b7b6a75c568af321",
+        "crc32": "f5117ee4"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 59).bin",
+      "filesize": 1206576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c22d15e759c9ab2060f4db736e745f6",
+        "sha1": "82eebe970cbe5012e1de893609477e01a6607169",
+        "crc32": "11f558a6"
+      }
+    },
+    {
+      "filename": "Psychic Force - Puzzle Taisen (Japan) (Disc 2) (Premium CD-ROM) (Track 60).bin",
+      "filesize": 28002912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cd0a6e6307bfaf1a95debf5d81e5d86",
+        "sha1": "11dfe50e56447694252a81eb9cc29bd067470d50",
+        "crc32": "5e9fe29a"
+      }
+    }
+  ]
+}

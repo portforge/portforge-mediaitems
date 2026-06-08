@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (France) (Disc 1).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16ae5790c06ef4b33749fe71a755db3e",
+        "sha1": "46c0b4d9646b1c7bb4b7e4a4eaa2c3cf6751ed52",
+        "crc32": "aa434126"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (France) (Disc 1).bin",
+      "filesize": 674339568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9e655182d3d60f927b80b16a89f1ad3",
+        "sha1": "3daa7fbdf69e232e76b593951950c34be930b299",
+        "crc32": "e2b8ba25"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "China - The Forbidden City (Europe) (En,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "China - The Forbidden City (Europe) (En,Es,Nl,Sv).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "272e5f9e4fb8dafc6aa3cad3ad510c08",
+        "sha1": "44fde3e628d0c34c3270ef00f16ef3d7aef6581a",
+        "crc32": "be402292"
+      }
+    },
+    {
+      "filename": "China - The Forbidden City (Europe) (En,Es,Nl,Sv).bin",
+      "filesize": 530404224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "349db3b6f7e1cc5b7a41dcfb7cd4519c",
+        "sha1": "4308625b2ea20e3f4acd82822e91883f48c50bef",
+        "crc32": "73064674"
+      }
+    }
+  ]
+}

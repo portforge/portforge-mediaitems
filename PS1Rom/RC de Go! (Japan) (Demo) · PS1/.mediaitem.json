@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RC de Go! (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RC de Go! (Japan) (Demo).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a7fd5c1d0d404f7042049a72b8a9baf",
+        "sha1": "0081db4f510f49d5071a2b6d439bbe3b67d3f8ae",
+        "crc32": "e6f2f3c5"
+      }
+    },
+    {
+      "filename": "RC de Go! (Japan) (Demo).bin",
+      "filesize": 225954288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68f5ff4b8b58b74e2cb7702203f589d0",
+        "sha1": "29d01130100ea3bb587dfe23c1596becf16a8515",
+        "crc32": "ba78dcd0"
+      }
+    }
+  ]
+}

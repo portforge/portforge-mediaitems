@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mars Moose Stay and Play 2 - In Mars' Bedroom (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mars Moose Stay and Play 2 - In Mars' Bedroom (USA).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f8f5ee15befa7292194d9f6c99466e14",
+        "sha1": "271159d2cdd2251a5df2a16ed8e356a184472225",
+        "crc32": "207c2dcf"
+      }
+    },
+    {
+      "filename": "Mars Moose Stay and Play 2 - In Mars' Bedroom (USA).bin",
+      "filesize": 321897072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9aedc8bc8cbe61b00b6b0effecfecb6b",
+        "sha1": "b544090b3b6714eec6f3cde76ab07718582974f2",
+        "crc32": "ed2efedd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo (Future) 104 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo (Future) 104 (Europe).cue",
+      "filesize": 732,
+      "ext": "cue",
+      "checksums": {
+        "md5": "597ec9964878795ebf7651328e8bc1f1",
+        "sha1": "1e2d0cd96be4d0d80baab6ee9b7262e2ab54c8f9",
+        "crc32": "623bc0e5"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 104 (Europe) (Track 1).bin",
+      "filesize": 519519168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db400a3be36903d12ae21e37b9a7bd51",
+        "sha1": "2eea4c072ce843806de16e8d0ec7425706af29af",
+        "crc32": "018292da"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 104 (Europe) (Track 2).bin",
+      "filesize": 36827616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "039e26727ba4665c9eafb6906915b077",
+        "sha1": "76e93e91531416aa34333e28aa8181a8ffcfb044",
+        "crc32": "3e1d753e"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 104 (Europe) (Track 3).bin",
+      "filesize": 45177216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37ae1cf76f98d84e31b3318daae5f436",
+        "sha1": "0adf77971058066321e9406d6efbdf830e5f9b64",
+        "crc32": "f89fefa8"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 104 (Europe) (Track 4).bin",
+      "filesize": 5997600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49900019a8b13be822b3fe9f44ac5535",
+        "sha1": "e06020069add9356f40bc3ffff40fa1355436939",
+        "crc32": "f3c964ec"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 104 (Europe) (Track 5).bin",
+      "filesize": 42865200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a16a76c9249211b61837e3d824e5a97",
+        "sha1": "daaaf015e08226fcec9cdf3d85aac4153c0aedcb",
+        "crc32": "3aaf4221"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 104 (Europe) (Track 6).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Ett smakryps liv (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Ett smakryps liv (Sweden).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73c6913ada2c602b081c33be79fb2f2d",
+        "sha1": "47d1012530356b177d4868862321294c7b725419",
+        "crc32": "29f7c836"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Ett smakryps liv (Sweden).bin",
+      "filesize": 740821200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1337c6a5d3fb069a2a5080aa602c4fa",
+        "sha1": "3650eacdc600505caab90058db7aed60b49eb33a",
+        "crc32": "8539af7f"
+      }
+    }
+  ]
+}

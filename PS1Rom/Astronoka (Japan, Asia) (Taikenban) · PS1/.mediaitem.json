@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Astronoka (Japan, Asia) (Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Astronoka (Japan, Asia) (Taikenban).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d1685ac22f5fd563d3aea36e4fe31a25",
+        "sha1": "bc9afe14aa99d766a0959482506907bf749d649d",
+        "crc32": "ac4c0d9c"
+      }
+    },
+    {
+      "filename": "Astronoka (Japan, Asia) (Taikenban).bin",
+      "filesize": 269734416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c97837a913ed7e0e8866b5cb1a686bee",
+        "sha1": "c25427901a4ed86ede4cc0147e45661cf6dddf67",
+        "crc32": "b768b09c"
+      }
+    }
+  ]
+}

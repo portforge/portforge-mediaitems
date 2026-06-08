@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2005 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2005 (Spain).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29596cee97269cd7379f41ea935d150d",
+        "sha1": "0def09f99dad2459480a5e3afb3176e8f1b7b89a",
+        "crc32": "afc612e8"
+      }
+    },
+    {
+      "filename": "FIFA Football 2005 (Spain).bin",
+      "filesize": 679412832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "309828f2f2993c8e4748a4de8c912f81",
+        "sha1": "c97effd5c2e7955f12de9b97cf341e70a0ed68d7",
+        "crc32": "88927b74"
+      }
+    }
+  ]
+}

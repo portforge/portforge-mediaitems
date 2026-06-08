@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suzuki Bakuhatsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suzuki Bakuhatsu (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0b8d49d14f35a041a025285c6b4a7c7",
+        "sha1": "ed9df67e6dfd60deae56a187d136938a34102918",
+        "crc32": "386c291b"
+      }
+    },
+    {
+      "filename": "Suzuki Bakuhatsu (Japan).bin",
+      "filesize": 677865216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "444f3f8ce00bfbdbdc62a4625aa1b1cf",
+        "sha1": "d744a241123c06e88bc4821d594d4fff2a8b8419",
+        "crc32": "ec9f6b6a"
+      }
+    }
+  ]
+}

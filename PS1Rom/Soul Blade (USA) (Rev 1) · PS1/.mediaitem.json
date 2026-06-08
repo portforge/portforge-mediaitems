@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soul Blade (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soul Blade (USA) (Rev 1).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "470918c37711ed2ed68c10a2a76ca499",
+        "sha1": "e50acbbd0af6660fba116b540084e1422501bc84",
+        "crc32": "4f3c3be8"
+      }
+    },
+    {
+      "filename": "Soul Blade (USA) (Rev 1).bin",
+      "filesize": 527412480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "055175fbf6e6e48caea1fad0664f42af",
+        "sha1": "e1a48d3e5c3614be1a5f3fe7f1f4036dbc6c5b94",
+        "crc32": "aa74b3c9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tanaka Torahiko no Ultra-ryuu Shougi - Ibisha Anaguma-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tanaka Torahiko no Ultra-ryuu Shougi - Ibisha Anaguma-hen (Japan).cue",
+      "filesize": 300,
+      "ext": "cue",
+      "checksums": {
+        "md5": "42f00e9a0d39a79f47b44acc3dcb6156",
+        "sha1": "516f20d2760256f3b8d9d722d299798fd3f9b456",
+        "crc32": "90ae6182"
+      }
+    },
+    {
+      "filename": "Tanaka Torahiko no Ultra-ryuu Shougi - Ibisha Anaguma-hen (Japan) (Track 1).bin",
+      "filesize": 122807328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96cc7976fb2d167b95ba49154d3561e6",
+        "sha1": "6c456fdedc4f669f364c138785f94427db85a8ac",
+        "crc32": "b730a4d1"
+      }
+    },
+    {
+      "filename": "Tanaka Torahiko no Ultra-ryuu Shougi - Ibisha Anaguma-hen (Japan) (Track 2).bin",
+      "filesize": 39675888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77afee1af9afc80186035b656062c5dc",
+        "sha1": "d8929ba658772fe1ba07986caef8fbde7808418b",
+        "crc32": "ef2afdde"
+      }
+    }
+  ]
+}

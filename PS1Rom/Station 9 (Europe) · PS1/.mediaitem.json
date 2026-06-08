@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Station 9 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Station 9 (Europe).cue",
+      "filesize": 318,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d66102b02e52f6918499af11d2a68b9",
+        "sha1": "f408343dd730b6f54499a0b9ca67114f2f47957a",
+        "crc32": "5c641aa5"
+      }
+    },
+    {
+      "filename": "Station 9 (Europe) (Track 1).bin",
+      "filesize": 342244224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e91854357614b658cb53315615dd406",
+        "sha1": "f1907c00e004d4c480cb9f311ea27bda82c9f408",
+        "crc32": "57f864b2"
+      }
+    },
+    {
+      "filename": "Station 9 (Europe) (Track 2).bin",
+      "filesize": 32050704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f6e2019da4ba12b9222a7897c031064",
+        "sha1": "a72df586f276d3a095c38043a10b1b192165d5f4",
+        "crc32": "400c619b"
+      }
+    },
+    {
+      "filename": "Station 9 (Europe) (Track 3).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

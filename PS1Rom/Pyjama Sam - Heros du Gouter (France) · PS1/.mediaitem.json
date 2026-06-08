@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pyjama Sam - Heros du Gouter (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pyjama Sam - Heros du Gouter (France).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d23ab7acb6e3ea824c577c692fe473d",
+        "sha1": "2e75526ea0083e5f5e6c83f5e10fc6ad7415f86d",
+        "crc32": "23b77296"
+      }
+    },
+    {
+      "filename": "Pyjama Sam - Heros du Gouter (France).bin",
+      "filesize": 589926288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9b5c1e67be636d5763c11249658119c",
+        "sha1": "98ebc2d25147752eef5141d6506cf38c1f3ad3dd",
+        "crc32": "a0525665"
+      }
+    }
+  ]
+}

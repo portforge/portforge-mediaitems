@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "This Is Football (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "This Is Football (Italy).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "080ff8a2e50ca12e09b7d1a13c188c16",
+        "sha1": "f88fdd1eb8fe9c8f6891aaaf0bb5c7dcee946a15",
+        "crc32": "36adf225"
+      }
+    },
+    {
+      "filename": "This Is Football (Italy).bin",
+      "filesize": 358903440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bec5f7763d040276cff732b168be819",
+        "sha1": "0fe12a5720a13ae70707032eddca59b63372c5ef",
+        "crc32": "b9be5f34"
+      }
+    }
+  ]
+}

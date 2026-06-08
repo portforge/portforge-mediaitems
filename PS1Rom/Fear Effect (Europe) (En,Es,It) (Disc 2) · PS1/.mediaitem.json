@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fear Effect (Europe) (En,Es,It) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fear Effect (Europe) (En,Es,It) (Disc 2).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08560ec85bc99ba94361d7627d5ea7f5",
+        "sha1": "aadaa8e689324f81c29aac7aa8193176e4e69e2a",
+        "crc32": "df8f702d"
+      }
+    },
+    {
+      "filename": "Fear Effect (Europe) (En,Es,It) (Disc 2).bin",
+      "filesize": 549631824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d653460369996efb2855628eff77363d",
+        "sha1": "0b0add91714eac5544c5df1aa0ade32af869020a",
+        "crc32": "626e9776"
+      }
+    }
+  ]
+}

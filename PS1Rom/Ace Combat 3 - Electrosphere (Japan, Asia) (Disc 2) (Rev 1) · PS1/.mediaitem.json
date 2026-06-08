@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f79804e8048beb7590d85b5399da4d9",
+        "sha1": "01ede4ca12e86e45624480f7514e37fbf1bec9b6",
+        "crc32": "433c5ace"
+      }
+    },
+    {
+      "filename": "Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).bin",
+      "filesize": 723813888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50760963ae8a26ea0188b165f05b33a1",
+        "sha1": "a23e046b1eb695e02d214d269fca70dbe0a437f7",
+        "crc32": "b86e0f52"
+      }
+    }
+  ]
+}

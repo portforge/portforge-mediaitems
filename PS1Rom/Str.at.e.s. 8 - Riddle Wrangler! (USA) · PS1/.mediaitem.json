@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Str.at.e.s. 8 - Riddle Wrangler! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Str.at.e.s. 8 - Riddle Wrangler! (USA).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "656069c6b32770902af3a2e462481d35",
+        "sha1": "d685742b76333dda01cae6ea7bee26582b7c7959",
+        "crc32": "38e3211c"
+      }
+    },
+    {
+      "filename": "Str.at.e.s. 8 - Riddle Wrangler! (USA).bin",
+      "filesize": 672846048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8352329d70a1d28acdf91643035ef23",
+        "sha1": "eb614154c3db8a0c77e0584f0bac559d447f8901",
+        "crc32": "1ed4b26e"
+      }
+    }
+  ]
+}

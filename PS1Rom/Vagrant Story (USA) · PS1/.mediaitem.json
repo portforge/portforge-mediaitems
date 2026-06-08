@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vagrant Story (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vagrant Story (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7df56121671c705b88f8d510cc2c9fb3",
+        "sha1": "d96b690a9484345d078019567af399a88433d804",
+        "crc32": "4938b87b"
+      }
+    },
+    {
+      "filename": "Vagrant Story (USA).bin",
+      "filesize": 750643152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8531bc73ea7cd33a4c8e97bdf139ba9c",
+        "sha1": "38c63db6c49a06b91d87cd5a4e31b1ec68fe212c",
+        "crc32": "eb695a2e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Tarzan (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Tarzan (Spain).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89d8f03256523af9e5a350f7e341a113",
+        "sha1": "789107ff1ffadf841271097f0e5fab5419a96ccc",
+        "crc32": "09e94198"
+      }
+    },
+    {
+      "filename": "Disney Tarzan (Spain) (Track 1).bin",
+      "filesize": 485916144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9fe6e4620e0dfc2b303505985aba18f",
+        "sha1": "b478cb578f04bed72809f3498e84997387779777",
+        "crc32": "b44f6cb7"
+      }
+    },
+    {
+      "filename": "Disney Tarzan (Spain) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Music 2000 (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Music 2000 (Europe) (Demo).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f9518be5370a10d7f393177a9d4ed29",
+        "sha1": "aebe93a0f5599c66c09eec16f4fc662f15cbe6db",
+        "crc32": "955ba6ee"
+      }
+    },
+    {
+      "filename": "Music 2000 (Europe) (Demo) (Track 1).bin",
+      "filesize": 32859792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9f22a7d9922e35edd1872d209bf49c2",
+        "sha1": "f0df3c212cd3253b0f7162c168fb8fe91eac816e",
+        "crc32": "97ca0dcd"
+      }
+    },
+    {
+      "filename": "Music 2000 (Europe) (Demo) (Track 2).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a57d0c0c00a1df88934c3e2eec6f8d0",
+        "sha1": "db68bf3349ece8300d06e45037431773edd5ae25",
+        "crc32": "72dbee1e"
+      }
+    }
+  ]
+}

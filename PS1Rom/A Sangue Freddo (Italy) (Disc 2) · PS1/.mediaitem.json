@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "A Sangue Freddo (Italy) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "A Sangue Freddo (Italy) (Disc 2).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d19b7805b86085e8e1181c7c0a05952",
+        "sha1": "00a76292b027fa8a4c0bf5559556e56a3f7dcbbb",
+        "crc32": "af87bbe8"
+      }
+    },
+    {
+      "filename": "A Sangue Freddo (Italy) (Disc 2).bin",
+      "filesize": 663172272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe911504cf4e0e2712dde325daaac2e8",
+        "sha1": "b665aec0ba35f64e51afa65a36742beb9c08dacd",
+        "crc32": "b88cd9a2"
+      }
+    }
+  ]
+}

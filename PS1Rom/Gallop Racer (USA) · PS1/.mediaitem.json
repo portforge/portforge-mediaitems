@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gallop Racer (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gallop Racer (USA).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aabe257abe3e0aa607584f184c0b8964",
+        "sha1": "553ff7ea9dba13f2c5fb9d89c6bf34ee5884cce3",
+        "crc32": "7d14bbea"
+      }
+    },
+    {
+      "filename": "Gallop Racer (USA) (Track 1).bin",
+      "filesize": 359131584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2546250359d8a98c3740818b986af3f",
+        "sha1": "1054150ce9fbabb57c56618bb4ba40d1b354354e",
+        "crc32": "8067c6dc"
+      }
+    },
+    {
+      "filename": "Gallop Racer (USA) (Track 2).bin",
+      "filesize": 40797792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47c3964061188871b86c9cec1421af9e",
+        "sha1": "0d4fc20f0b073cb1cf1675bf93e6a70595072608",
+        "crc32": "b4006ec2"
+      }
+    }
+  ]
+}

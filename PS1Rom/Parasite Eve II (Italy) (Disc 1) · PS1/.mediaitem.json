@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parasite Eve II (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parasite Eve II (Italy) (Disc 1).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "46bb709880e0dd71ca1ae7c8604e079d",
+        "sha1": "2303b63a1fda4b4ca2251c3792c5073c0e2a9b2b",
+        "crc32": "fc24256c"
+      }
+    },
+    {
+      "filename": "Parasite Eve II (Italy) (Disc 1).bin",
+      "filesize": 598351152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "513d809d96da9faf7a50f6ffec6c5a2d",
+        "sha1": "bb18b2172ff8675bbf4a398a34fa554cd2dac42d",
+        "crc32": "a2960561"
+      }
+    }
+  ]
+}

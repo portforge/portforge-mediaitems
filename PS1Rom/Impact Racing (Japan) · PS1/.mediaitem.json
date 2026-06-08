@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Impact Racing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Impact Racing (Japan).cue",
+      "filesize": 1258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f55435dc6dbe7bcd7ca32dc53dc1e09",
+        "sha1": "9f114df07bfa0dc289b36c352c291b715d84c9c3",
+        "crc32": "5f7929b7"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 01).bin",
+      "filesize": 72232272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "973e99fa88b188baa39e5fa244705105",
+        "sha1": "6712b50396d07be2ba4d7b467bf1b44488c150fe",
+        "crc32": "6a99b530"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 02).bin",
+      "filesize": 27370224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1066b673357bf9c51ef43dc0f143b0f2",
+        "sha1": "38013abc15c61790a7599d5529c7724c9a04b9e0",
+        "crc32": "d7c5a2b0"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 03).bin",
+      "filesize": 32843328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de0b6c6aa35aedd25256eaf77e3ea7ef",
+        "sha1": "cd0b7230c321ea459aa044255656e122ce9cf4ec",
+        "crc32": "50c571ac"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 04).bin",
+      "filesize": 73690512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0b44e3f282ff18326f638481fd756f9",
+        "sha1": "d1248751029964aa9ce9b95c02b691d7f484e359",
+        "crc32": "678fc43e"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 05).bin",
+      "filesize": 67300128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "932180fc1fc6042f54c2a88b85bb3a8e",
+        "sha1": "368b46199f95b516b9cd052ceaf0e2a8f47d41dd",
+        "crc32": "24f79f22"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 06).bin",
+      "filesize": 54140688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a4150dbfbe0b4266e619c9c53ca8992",
+        "sha1": "b71757775281193d8fc00c993ccd4d6bac986407",
+        "crc32": "d62ddb75"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 07).bin",
+      "filesize": 66208800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c08648ea6d816c98d99f6a341a647015",
+        "sha1": "693b138e3dc72892d35496970b49b3f2af917a5a",
+        "crc32": "2bc6b58b"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 08).bin",
+      "filesize": 44843232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eaf3de4a7b5d550078879a6c528f343c",
+        "sha1": "4a664d087576a2bf5958e5b40a831f7260a141cf",
+        "crc32": "d3b21f31"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 09).bin",
+      "filesize": 45527664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1969ff3c31c94764aa3a842576457ef",
+        "sha1": "75f505812bc66e5c57a7be3f1c52e491959202f6",
+        "crc32": "59f6a8c9"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 10).bin",
+      "filesize": 62657280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b43f32e86b56cba40acf61ce0e9a86a9",
+        "sha1": "1dccf0d6f9627fc8f331af998dd021a44fd017f3",
+        "crc32": "71acd444"
+      }
+    },
+    {
+      "filename": "Impact Racing (Japan) (Track 11).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ecc8ec30542c5fae7d8a31e5d1b6e75",
+        "sha1": "ddf605aad53c844af620d9c2ac247db49668d0aa",
+        "crc32": "c5026e08"
+      }
+    }
+  ]
+}

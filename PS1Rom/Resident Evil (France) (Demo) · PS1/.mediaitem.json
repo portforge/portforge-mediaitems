@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil (France) (Demo).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "38f736c4dc3a4c81d77a101d9d4b50d5",
+        "sha1": "acb33144f0cb742a9193681b8a18fc457b71334e",
+        "crc32": "e8811f21"
+      }
+    },
+    {
+      "filename": "Resident Evil (France) (Demo).bin",
+      "filesize": 68603136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91f435f62975a8733ccd35c3cb95c7d4",
+        "sha1": "ebd9d21462da47cac72331eab42923ba2db41414",
+        "crc32": "46d06f03"
+      }
+    }
+  ]
+}

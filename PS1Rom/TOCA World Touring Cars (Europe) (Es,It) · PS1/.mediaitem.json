@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TOCA World Touring Cars (Europe) (Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TOCA World Touring Cars (Europe) (Es,It).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ecc2c8c9f28b06d0d01e6cafba894c8",
+        "sha1": "6c4c4d217971698423f435697acf7ed9b600bf07",
+        "crc32": "6e0a8bf7"
+      }
+    },
+    {
+      "filename": "TOCA World Touring Cars (Europe) (Es,It).bin",
+      "filesize": 370557600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5014c4d177d14a4295d9f4026ec006a",
+        "sha1": "b92457a23cc68f16de987abbe35b49232019d717",
+        "crc32": "e251c640"
+      }
+    }
+  ]
+}

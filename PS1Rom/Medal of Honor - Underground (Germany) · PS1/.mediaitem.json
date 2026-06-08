@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Medal of Honor - Underground (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Medal of Honor - Underground (Germany).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b4e95d9db0aaf36cc382fd9ba1f31f1",
+        "sha1": "38124010adbeeb61ba594fbf7b5975a09cf7f230",
+        "crc32": "be7f6782"
+      }
+    },
+    {
+      "filename": "Medal of Honor - Underground (Germany).bin",
+      "filesize": 749631792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b2f4d540f018869a3f737c07691fc5d",
+        "sha1": "750f03aa64280cd2ecf621d829e063c538b47a07",
+        "crc32": "a6740f31"
+      }
+    }
+  ]
+}

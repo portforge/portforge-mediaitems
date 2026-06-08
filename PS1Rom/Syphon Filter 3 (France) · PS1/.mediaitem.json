@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 3 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 3 (France).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d44ab6984bba3e3427b48b45e82044c",
+        "sha1": "f1ff55ca2e8a35407795edaea8b9dfadd2db3fb4",
+        "crc32": "3bbae4b9"
+      }
+    },
+    {
+      "filename": "Syphon Filter 3 (France).bin",
+      "filesize": 689093664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f17fec696dda4073a621110e7b3a47ef",
+        "sha1": "2701c34fa534ab201674ce83e7ad4d75980013d6",
+        "crc32": "d8fd7f42"
+      }
+    }
+  ]
+}

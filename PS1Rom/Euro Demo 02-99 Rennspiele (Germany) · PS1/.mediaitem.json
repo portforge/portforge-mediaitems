@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 02-99 Rennspiele (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 02-99 Rennspiele (Germany).cue",
+      "filesize": 632,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0ee10741c8e58651805d83890945ba70",
+        "sha1": "42c8e4bbff03c7fcb86b87a19db68a1e62d9ff07",
+        "crc32": "6b741cdb"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 Rennspiele (Germany) (Track 1).bin",
+      "filesize": 335047104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b34afcf59784f0e0df4f6d375c7cb935",
+        "sha1": "e56532a4bebfb14a45c6b87024483e60cdfb8f8d",
+        "crc32": "826c7dcd"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 Rennspiele (Germany) (Track 2).bin",
+      "filesize": 19189968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3543e2f246efe2880128e0079b62952f",
+        "sha1": "42ead3f2cddc386ea60f1778d75b18a6d0ca1b8c",
+        "crc32": "2ed908e7"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 Rennspiele (Germany) (Track 3).bin",
+      "filesize": 54905088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53cc0cd475f1cafa1279bfbb71ed929b",
+        "sha1": "257052122bd41f20e15451e51d611d09550a0035",
+        "crc32": "9ee6fe1d"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 Rennspiele (Germany) (Track 4).bin",
+      "filesize": 2406096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde7b86bb6696eba0922645fe631b033",
+        "sha1": "087be94c412e218d5a04d817d555ea3fa890c56c",
+        "crc32": "2632e004"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 Rennspiele (Germany) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

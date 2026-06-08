@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStadium 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStadium 2 (Japan).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "899f696dbc71d59abd75a051eef3c7de",
+        "sha1": "a85f90cda08773122a7f3674fe395b88fd1c1b27",
+        "crc32": "36e1f624"
+      }
+    },
+    {
+      "filename": "PlayStadium 2 (Japan) (Track 1).bin",
+      "filesize": 175692048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ddc0ffbd5a212c2ea688e71355a396d",
+        "sha1": "ef1b50768eeb1cffeb378f9783050d838e580fd7",
+        "crc32": "8a66c00a"
+      }
+    },
+    {
+      "filename": "PlayStadium 2 (Japan) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

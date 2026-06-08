@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rally de Africa (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rally de Africa (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1a8039a7aff7017e37cfdb7edb2e7e38",
+        "sha1": "1d684883cb1ee914ca71fd03b529d95c4503bcf3",
+        "crc32": "9cb04075"
+      }
+    },
+    {
+      "filename": "Rally de Africa (Japan).bin",
+      "filesize": 185205888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e942a89df589e52f7f2778b6dab12185",
+        "sha1": "5b43236ab8ead3803810f3bc103927b8e586f8ba",
+        "crc32": "1aea88c5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Kanzen Kaiseki - Wai Wai Pulsar 2 & 77 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Kanzen Kaiseki - Wai Wai Pulsar 2 & 77 2 (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f6c302e431358965625038236602b5a1",
+        "sha1": "42e7b0303a26f6977ab15a23a0cf7837a287fc9e",
+        "crc32": "c2f1c59b"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Kanzen Kaiseki - Wai Wai Pulsar 2 & 77 2 (Japan).bin",
+      "filesize": 34087536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f28a70f5bfdd32afa92e06a367e78dc7",
+        "sha1": "54db841c03b166f33b3db5e8196701afd14dc69a",
+        "crc32": "bf99bc64"
+      }
+    }
+  ]
+}

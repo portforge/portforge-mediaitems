@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Comic Bom Bom - DigimonWorld Premium Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Comic Bom Bom - DigimonWorld Premium Disc (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef41969097980544ca2d5e69a10f3a1b",
+        "sha1": "e78f451284e81e2478e3fe0a50bd91f3fb72295e",
+        "crc32": "30715dd2"
+      }
+    },
+    {
+      "filename": "Comic Bom Bom - DigimonWorld Premium Disc (Japan).bin",
+      "filesize": 381252144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd663e55283b083cd70e6ac746ed7a82",
+        "sha1": "ae86a3447c7025c911098e8860f1e6d3844367a0",
+        "crc32": "4d8d0158"
+      }
+    }
+  ]
+}

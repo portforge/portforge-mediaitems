@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nightmare Project - Yakata (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nightmare Project - Yakata (Japan) (Disc 1).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83b17d07f0b022c97a3ee2b3595fe5ea",
+        "sha1": "c077a3399a4a16ef69a2978912e9a3788a4b2140",
+        "crc32": "4f0a8394"
+      }
+    },
+    {
+      "filename": "Nightmare Project - Yakata (Japan) (Disc 1).bin",
+      "filesize": 665775936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "610cca01d83e146ba7ab02fcc9ead97c",
+        "sha1": "0faa2b45ec92c2328e5a6af9784f8e65fc0efece",
+        "crc32": "f071bcde"
+      }
+    }
+  ]
+}

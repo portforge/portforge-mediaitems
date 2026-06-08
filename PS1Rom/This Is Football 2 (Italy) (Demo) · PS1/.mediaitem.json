@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "This Is Football 2 (Italy) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "This Is Football 2 (Italy) (Demo).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a6dac5af9b8c25988f491b665130fca1",
+        "sha1": "f8132e7830e9947fa0586866a198cce89e263ca2",
+        "crc32": "5d6c6d78"
+      }
+    },
+    {
+      "filename": "This Is Football 2 (Italy) (Demo).bin",
+      "filesize": 54827472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca162f68b0f2e1ed00a7a95643edc50e",
+        "sha1": "a207497cbf33bf4cdd56799b5dc341ffb71a4330",
+        "crc32": "2d687215"
+      }
+    }
+  ]
+}

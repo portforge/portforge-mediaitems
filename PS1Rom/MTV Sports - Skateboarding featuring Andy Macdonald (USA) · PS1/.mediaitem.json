@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MTV Sports - Skateboarding featuring Andy Macdonald (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MTV Sports - Skateboarding featuring Andy Macdonald (USA).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0323de0d10ce9b5c6257bb0e76b8506",
+        "sha1": "7409e8c792874b341d745c07758d0fd314ea0fe1",
+        "crc32": "29179737"
+      }
+    },
+    {
+      "filename": "MTV Sports - Skateboarding featuring Andy Macdonald (USA).bin",
+      "filesize": 667549344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "892b91f7e57bdde04e83840f51b65072",
+        "sha1": "651c54008b38154b0d39f299922a80db8e10c835",
+        "crc32": "a1fb3cf6"
+      }
+    }
+  ]
+}

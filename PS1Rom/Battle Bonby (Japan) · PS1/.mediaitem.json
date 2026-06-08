@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Bonby (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Bonby (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "96faeea5a9450d62cdf407ff8766d461",
+        "sha1": "78e8b3b8c8b77d5638affcd0d0b117ad5704fd7b",
+        "crc32": "21649c1b"
+      }
+    },
+    {
+      "filename": "Battle Bonby (Japan).bin",
+      "filesize": 41247024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2eca2779233b8259db11c724f614db05",
+        "sha1": "e04829b219f348d5e2eb7a4716658d998ca199db",
+        "crc32": "cd206891"
+      }
+    }
+  ]
+}

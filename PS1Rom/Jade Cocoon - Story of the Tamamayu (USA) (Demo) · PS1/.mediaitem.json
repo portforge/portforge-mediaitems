@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jade Cocoon - Story of the Tamamayu (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jade Cocoon - Story of the Tamamayu (USA) (Demo).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "979bbd0922232348d593d66b0023cac9",
+        "sha1": "14162042a1881e5d2ab8632192417d08284c6648",
+        "crc32": "1e57cead"
+      }
+    },
+    {
+      "filename": "Jade Cocoon - Story of the Tamamayu (USA) (Demo).bin",
+      "filesize": 432690384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "909d1cc271c5132322cb2faa06e1eea2",
+        "sha1": "717ad6ab1e98601ee30540af5e9b57053f036f9a",
+        "crc32": "06c3dae4"
+      }
+    }
+  ]
+}

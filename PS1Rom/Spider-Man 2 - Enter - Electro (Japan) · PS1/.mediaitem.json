@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider-Man 2 - Enter - Electro (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider-Man 2 - Enter - Electro (Japan).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "756075aca965df96e4ab67a9c349a616",
+        "sha1": "3ee1ca99ef90721a510eb128f203cd54124a8010",
+        "crc32": "61d2c745"
+      }
+    },
+    {
+      "filename": "Spider-Man 2 - Enter - Electro (Japan) (Track 1).bin",
+      "filesize": 673605744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41b576e6b96acb9c5e8e1e9b5b8ce03",
+        "sha1": "f34cb84dc801892bf4356785b6161bfb27dc9964",
+        "crc32": "22798fef"
+      }
+    },
+    {
+      "filename": "Spider-Man 2 - Enter - Electro (Japan) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "792bf8ca89956b0ed8de576c696b3b11",
+        "sha1": "64701459709a81c3f5c9f25c0c097fe8c22152a1",
+        "crc32": "175c0103"
+      }
+    }
+  ]
+}

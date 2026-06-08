@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pop n' Pop (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pop n' Pop (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31309ea1fc652551f03ee9d2643670fa",
+        "sha1": "7e32be2c0fcaa8930635f00303cd7e59a4d325cb",
+        "crc32": "6e9005a1"
+      }
+    },
+    {
+      "filename": "Pop n' Pop (Europe).bin",
+      "filesize": 381169824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8166a147adf52f232516565ca561634",
+        "sha1": "1c990bae9b76b5659a41c67696f61b463c6ce82c",
+        "crc32": "000d989c"
+      }
+    }
+  ]
+}

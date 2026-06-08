@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver 2 - Back on the Streets (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver 2 - Back on the Streets (Spain) (Disc 2).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c31358a499fc349ced0916cbb7713a7",
+        "sha1": "405560b2f700dec163c32cf4dfcf912f5151f958",
+        "crc32": "66ce1490"
+      }
+    },
+    {
+      "filename": "Driver 2 - Back on the Streets (Spain) (Disc 2).bin",
+      "filesize": 621064416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67fd44b3030c090a4a0f7cd4b62b8b29",
+        "sha1": "82b58c0ffa84a0d38a8f9f99ff61411501b692e4",
+        "crc32": "f00b5d0e"
+      }
+    }
+  ]
+}

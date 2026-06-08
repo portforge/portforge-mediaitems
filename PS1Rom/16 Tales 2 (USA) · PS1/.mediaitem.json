@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "16 Tales 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "16 Tales 2 (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c96ec71b5643890429049ae2b9dbd3b4",
+        "sha1": "b699b8ff729299c4e631aae6d57c959e0a586b52",
+        "crc32": "359166ed"
+      }
+    },
+    {
+      "filename": "16 Tales 2 (USA).bin",
+      "filesize": 620871552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d370a51efb3e6e865df38e807c1bf29",
+        "sha1": "527b150dd9b526d5ddd83c15fb804b59cf076b4a",
+        "crc32": "ccc970d0"
+      }
+    }
+  ]
+}

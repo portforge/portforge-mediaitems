@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Destruction League - WarJetz (USA) (Beta) (2000-11-03)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Destruction League - WarJetz (USA) (Beta) (2000-11-03).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "876eaea57eae54b9aaa7b21f9789453e",
+        "sha1": "e57090303e3c6ff808c14f8a0c2462b245be7444",
+        "crc32": "ecf32eac"
+      }
+    },
+    {
+      "filename": "World Destruction League - WarJetz (USA) (Beta) (2000-11-03).bin",
+      "filesize": 516282816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70f1ba48a27cfe4f3519e7d7a232ead3",
+        "sha1": "73c5b64581f7c6aab139cd68f55c1ff22377db3d",
+        "crc32": "420942ab"
+      }
+    }
+  ]
+}

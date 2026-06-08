@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Burn Out (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Burn Out (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf280abfce0f2811117fa08288d145ac",
+        "sha1": "2633348a06b8de12c02c232996c75cc75c0e287b",
+        "crc32": "a9f1ecf2"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Burn Out (Japan).bin",
+      "filesize": 117910464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7492b99bad9503b989d6add8236646d4",
+        "sha1": "6e7a0f2e4b623aa6fe15f85537d7818685ea1eb3",
+        "crc32": "9446e6c7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 1152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e433583fb5a6d289af2da7f6fd24787d",
+        "sha1": "e39a47c8f73bf87109075963457910e1d40bc798",
+        "crc32": "d24d0497"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 1).bin",
+      "filesize": 40536720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfeaf677786d4b846b8c039cea089401",
+        "sha1": "0d382af06cbd0d90415ac802c3dda37cc4579ca5",
+        "crc32": "34ce71d1"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin",
+      "filesize": 32304720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08659b76f35ab58c94f22cce8162faa6",
+        "sha1": "447863420d4390f65978d05020aa46a92cba9eb3",
+        "crc32": "bb5b9c07"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 3).bin",
+      "filesize": 58574208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e646862b32a542fa82adddca1a94135",
+        "sha1": "909a2eb051050dc524b5808370d8d69eef9c0f06",
+        "crc32": "fd052142"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 4).bin",
+      "filesize": 31773168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23c9a5736a15697c062fb8b339876860",
+        "sha1": "2c5160b76e18b39d778eb237152c48909fd660f2",
+        "crc32": "1e649102"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 5).bin",
+      "filesize": 33711216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0ebb1ea614d08bdb125026f93c3eef8",
+        "sha1": "a425a16a0fc1c543eab8469895c9bb40a97171fc",
+        "crc32": "4a937d0e"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 6).bin",
+      "filesize": 41028288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3a07dfa83f6ac68693a8de76218f97d",
+        "sha1": "14bbce8bdd1a2a041b8cae55d7e35905e90f6e46",
+        "crc32": "75b28b3d"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 7).bin",
+      "filesize": 21883008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "459fca5606e6b3e13719082d20ce1dc8",
+        "sha1": "8722410dae33a1d412623ed35a19ed392de48f96",
+        "crc32": "86eb1330"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 8).bin",
+      "filesize": 19714464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0c297c640fa7689ffe0e151649e857a",
+        "sha1": "ad4f847c7122786f453ab0ad09710a5302f54aed",
+        "crc32": "107691d5"
+      }
+    },
+    {
+      "filename": "Aqua GT (Europe) (En,Fr,De,Es,It,Nl) (Track 9).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

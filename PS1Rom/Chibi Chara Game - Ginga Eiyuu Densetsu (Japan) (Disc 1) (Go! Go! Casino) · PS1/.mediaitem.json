@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chibi Chara Game - Ginga Eiyuu Densetsu (Japan) (Disc 1) (Go! Go! Casino)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chibi Chara Game - Ginga Eiyuu Densetsu (Japan) (Disc 1) (Go! Go! Casino).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f97e48e6c0b0238c689a9aef42eef9b0",
+        "sha1": "59a2fa144473189834036a45ab15ecbb88ae3ce6",
+        "crc32": "57aa3582"
+      }
+    },
+    {
+      "filename": "Chibi Chara Game - Ginga Eiyuu Densetsu (Japan) (Disc 1) (Go! Go! Casino).bin",
+      "filesize": 360258192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06cabc6f5dc4d66ca1b6eed1fe8380a7",
+        "sha1": "ff6f35ac2c839cbb5e0c90a7123bad2a79f729f0",
+        "crc32": "9b2b99d0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Italy) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Italy) (Disc 2).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "911d55b9b73472b45ffdcdcf11d88331",
+        "sha1": "8382886f46c6f7b22a66ffbd5cb555062f6beae8",
+        "crc32": "4faa1cab"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Italy) (Disc 2).bin",
+      "filesize": 712684224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e66c3b63e750abb3ec4ce42cca0197c1",
+        "sha1": "ae478edd8a4436096f8033d7bfea72c5c3898c66",
+        "crc32": "11dc5841"
+      }
+    }
+  ]
+}

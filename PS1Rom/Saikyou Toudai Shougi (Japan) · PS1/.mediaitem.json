@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saikyou Toudai Shougi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saikyou Toudai Shougi (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "77d98ef1415414a55cd854b9ab967797",
+        "sha1": "a2ed9b139c973f9838f23f2a9054be0fc66049f9",
+        "crc32": "47a097d4"
+      }
+    },
+    {
+      "filename": "Saikyou Toudai Shougi (Japan).bin",
+      "filesize": 347943120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc4467f0432ffc6abc1399fba4b65d1a",
+        "sha1": "4334e113d3c4de2c9b75cec2635433b0513fc751",
+        "crc32": "fdd776a9"
+      }
+    }
+  ]
+}

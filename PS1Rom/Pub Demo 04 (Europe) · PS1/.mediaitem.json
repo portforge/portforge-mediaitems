@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pub Demo 04 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pub Demo 04 (Europe).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14d76eede3f0430cb89eda36c6130e38",
+        "sha1": "39837dd1d9e18f10f6941856e97087d16bbcc65b",
+        "crc32": "4a7955e3"
+      }
+    },
+    {
+      "filename": "Pub Demo 04 (Europe) (Track 1).bin",
+      "filesize": 572559120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0878b8b27f11bbbd212b1e689dbb63b8",
+        "sha1": "e788d9c9a5904b83394d5c9acbb03dda805cfd80",
+        "crc32": "773f3bbb"
+      }
+    },
+    {
+      "filename": "Pub Demo 04 (Europe) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

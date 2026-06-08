@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chou Hatsumei Boy Kanipan - Hirameki Wonderland (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chou Hatsumei Boy Kanipan - Hirameki Wonderland (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa5651b66e34f3cb1027ab47f730155a",
+        "sha1": "7552b0b42b4251df4f7fd6939aa06a0e8b8a0235",
+        "crc32": "7085b562"
+      }
+    },
+    {
+      "filename": "Chou Hatsumei Boy Kanipan - Hirameki Wonderland (Japan).bin",
+      "filesize": 245520576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e98b18c7970405a67abfc141f8720a3",
+        "sha1": "bed9e923875fe0c3db69e2bc6826de339ad5d2d8",
+        "crc32": "ad8d7fa4"
+      }
+    }
+  ]
+}

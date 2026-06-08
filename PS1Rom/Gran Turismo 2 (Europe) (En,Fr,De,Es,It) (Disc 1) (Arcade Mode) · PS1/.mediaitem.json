@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Arcade Mode)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Arcade Mode).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea422a2449714de37d8697361af1446d",
+        "sha1": "7cfb8bbcafd995b7a20b174cef46fcfc7769c152",
+        "crc32": "0dbc8c32"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Arcade Mode).bin",
+      "filesize": 667965648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb8bb09bd8d8bb1eaf517ee8587305c1",
+        "sha1": "a04cec5a45c4b3e4667e08df895f0018b83cb2d2",
+        "crc32": "e894a117"
+      }
+    }
+  ]
+}

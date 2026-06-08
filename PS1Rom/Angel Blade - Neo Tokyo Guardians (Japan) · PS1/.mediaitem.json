@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Angel Blade - Neo Tokyo Guardians (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Angel Blade - Neo Tokyo Guardians (Japan).cue",
+      "filesize": 387,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cc934adb0695300c61ede7ba7bda72c4",
+        "sha1": "c4760753bfb114f7630376057727590751a295f3",
+        "crc32": "fa9a35a3"
+      }
+    },
+    {
+      "filename": "Angel Blade - Neo Tokyo Guardians (Japan) (Track 1).bin",
+      "filesize": 265009248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf65cb062564ee3a8e942242c217456c",
+        "sha1": "62b511fc6161d79360ba040984f13b40a3a129e3",
+        "crc32": "a59a7e56"
+      }
+    },
+    {
+      "filename": "Angel Blade - Neo Tokyo Guardians (Japan) (Track 2).bin",
+      "filesize": 30893520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc10bedc1b9bfa35ea04e1a7219f40b7",
+        "sha1": "11e4c04c4f09f02af4f265afe2afcfea3034f325",
+        "crc32": "d09e138d"
+      }
+    },
+    {
+      "filename": "Angel Blade - Neo Tokyo Guardians (Japan) (Track 3).bin",
+      "filesize": 30357264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc5474186e4e3208b599d813877222db",
+        "sha1": "a689f1d8bd61e09231fb1bd0f49168e2b094ae4a",
+        "crc32": "e4609e8f"
+      }
+    }
+  ]
+}

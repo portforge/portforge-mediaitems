@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix No. 6 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix No. 6 (Japan).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b00a12c53a2e394b0812931871da6c56",
+        "sha1": "f9f6f67814b5055a8a994ff5f9f39138d54db822",
+        "crc32": "edfc2f5e"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 6 (Japan) (Track 1).bin",
+      "filesize": 510075888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9730b86af730afa4d53cbbc2773998c",
+        "sha1": "a57504047c27efb809e157b62c8ef6518a93492c",
+        "crc32": "4330eeb9"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 6 (Japan) (Track 2).bin",
+      "filesize": 93484944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70dfd45f7ba86e848337f52fa0034d62",
+        "sha1": "74e2270fb3df35e4bf5949d18d99c1e563bab558",
+        "crc32": "07f80669"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dynasty Warriors (Europe) (Beta) (1997-09-17)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dynasty Warriors (Europe) (Beta) (1997-09-17).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54ecbd1bed8eefff6aaf2d39d2fd708a",
+        "sha1": "3d91f8930b0b2da8af6c976ee84770efa45d097b",
+        "crc32": "2c5302a0"
+      }
+    },
+    {
+      "filename": "Dynasty Warriors (Europe) (Beta) (1997-09-17).bin",
+      "filesize": 531504960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a8c54cb15eadab784ef2991af10bc44",
+        "sha1": "5eca48d9503b98428dab96128e0587b353d35b8f",
+        "crc32": "d8f2d5f6"
+      }
+    }
+  ]
+}

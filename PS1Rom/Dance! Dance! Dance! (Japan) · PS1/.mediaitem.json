@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dance! Dance! Dance! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dance! Dance! Dance! (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b3d9ba80803c1112248de38af081fe0",
+        "sha1": "93edfc177d10559948e9902510df2179e78ddbac",
+        "crc32": "48fd86a8"
+      }
+    },
+    {
+      "filename": "Dance! Dance! Dance! (Japan).bin",
+      "filesize": 470623440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8560d82a3b32b0f79e726a53b599e146",
+        "sha1": "247b27cda2c23ffa470702c52ea6c26a15b0fe93",
+        "crc32": "70add9a5"
+      }
+    }
+  ]
+}

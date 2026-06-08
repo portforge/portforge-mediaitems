@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grand Theft Auto (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grand Theft Auto (USA).cue",
+      "filesize": 1269,
+      "ext": "cue",
+      "checksums": {
+        "md5": "489b9582368af76b27f985734ca5f252",
+        "sha1": "c757c7e8e1fcdf8edcbdb5ff84aeeb073f2f0601",
+        "crc32": "e415f405"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 01).bin",
+      "filesize": 62102208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be32a8462148a2bf372a62a4c0324e59",
+        "sha1": "e0b52f6b8db0b0200c8acab5f02ea1bc963d4d72",
+        "crc32": "ec29d826"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 02).bin",
+      "filesize": 24484320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7a3b3494014a37772f330619382dede",
+        "sha1": "56cd18ec0fd69f723112631e303adaa1158ccfa6",
+        "crc32": "cddb3815"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 03).bin",
+      "filesize": 78606192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "067b5a647d57a519ff7ac5ee526b85cf",
+        "sha1": "ba19572c2f2d6ee7025f7ad8f2f6ebc08d365d48",
+        "crc32": "fad82904"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 04).bin",
+      "filesize": 102631872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4011ef7747f88b314bd28ea145e00e02",
+        "sha1": "5783dbd12187b8e7c80a2f6c196b0ab9075872a6",
+        "crc32": "d69751fc"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 05).bin",
+      "filesize": 101796912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63908f66d007163dfe2c8e325cd7cf55",
+        "sha1": "908fb9a96b82a2983fd714c8a819494715ba8235",
+        "crc32": "3b5cb4c3"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 06).bin",
+      "filesize": 79594032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee39fabddb60c009a39ebb02003462a2",
+        "sha1": "1bc35dddff7817ea0d30dc99e9d581d44019a9eb",
+        "crc32": "11ccea48"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 07).bin",
+      "filesize": 116273472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7915c96f9a3eff0ae736e90a62bebb26",
+        "sha1": "abf1a9d3c5699e0f0e0a0668def2925f3a812b04",
+        "crc32": "81e2ea09"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 08).bin",
+      "filesize": 33835872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e4e1f2d0d9f7b15ad554291c74526b1",
+        "sha1": "d9d462d25838c192ed6b617ed533ff197f76648f",
+        "crc32": "6d55adb9"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 09).bin",
+      "filesize": 12837216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80c09d19dd21e8e9d33c0c2b5448e6f4",
+        "sha1": "585efe8a0c38e1edfb8cd2f9fa4db273e4cd1c6e",
+        "crc32": "2a0abe53"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 10).bin",
+      "filesize": 10849776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bff4cbefb067e4213d03096c9884d2b",
+        "sha1": "f932e7dc55cf444973f566b3c3425b52722b5311",
+        "crc32": "71ac8aed"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (USA) (Track 11).bin",
+      "filesize": 92659392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b3fdbe9d50d9c6583ef5efdf0f06868",
+        "sha1": "8b31c7e17e83d6f650002f3ec741bb169f4937c4",
+        "crc32": "13f6292b"
+      }
+    }
+  ]
+}

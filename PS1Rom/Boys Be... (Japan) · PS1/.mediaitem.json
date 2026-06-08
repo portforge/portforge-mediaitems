@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Boys Be... (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Boys Be... (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "744389978c85560775252988433607a9",
+        "sha1": "f02b18c8efdbbededc2bf9c38b28c2c2c693280b",
+        "crc32": "147da403"
+      }
+    },
+    {
+      "filename": "Boys Be... (Japan).bin",
+      "filesize": 477298416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e11ef731dc04bd0365732e9b74579a33",
+        "sha1": "f0d1ce56be45dadafa81f30906241eadc0397c1b",
+        "crc32": "448f44a3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 13 - The Race (Japan) (Culture Publishers)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 13 - The Race (Japan) (Culture Publishers).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd3fe78e8a385df75e70f93c24f00724",
+        "sha1": "8a35c9a66a41ae6583416aa2f6943df83f56cb08",
+        "crc32": "8de69c7a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 13 - The Race (Japan) (Culture Publishers).bin",
+      "filesize": 166533360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79e8be853c00b706b9acbfb733a0127e",
+        "sha1": "725bff0483a6a077e7ef1f88d20884e71b9cfa78",
+        "crc32": "e55c8bc4"
+      }
+    }
+  ]
+}

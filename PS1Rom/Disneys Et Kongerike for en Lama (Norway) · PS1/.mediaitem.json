@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Et Kongerike for en Lama (Norway)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Et Kongerike for en Lama (Norway).cue",
+      "filesize": 257,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b008cf41f5d7b0b6dd6e12c60346b53",
+        "sha1": "4be037bfd3b1019ed8913db3b19703a1d1380f16",
+        "crc32": "4fc11c6b"
+      }
+    },
+    {
+      "filename": "Disneys Et Kongerike for en Lama (Norway) (Track 1).bin",
+      "filesize": 619192224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf8d047d44b46b723750fe5869014fc2",
+        "sha1": "a08b4edc1ac44b103fc88750a08503d02e55cbb8",
+        "crc32": "18f00d33"
+      }
+    },
+    {
+      "filename": "Disneys Et Kongerike for en Lama (Norway) (Track 2).bin",
+      "filesize": 37460304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6de79e90fd1e352f48976b671c94ba4f",
+        "sha1": "c971e34ff03ec8e68c01a3bd7b4d70e542a35c16",
+        "crc32": "a394926f"
+      }
+    }
+  ]
+}

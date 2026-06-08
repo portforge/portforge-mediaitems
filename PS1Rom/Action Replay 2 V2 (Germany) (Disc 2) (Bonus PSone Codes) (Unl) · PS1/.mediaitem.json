@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Replay 2 V2 (Germany) (Disc 2) (Bonus PSone Codes) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Replay 2 V2 (Germany) (Disc 2) (Bonus PSone Codes) (Unl).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "71c3baedab9af2b5bd970a1615e95ddf",
+        "sha1": "26fddd765e2053f13f6671b9888e7ac11e441ddb",
+        "crc32": "15f16482"
+      }
+    },
+    {
+      "filename": "Action Replay 2 V2 (Germany) (Disc 2) (Bonus PSone Codes) (Unl).bin",
+      "filesize": 97617408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77a863c7cb90b43b1d4d2085b01c1bbf",
+        "sha1": "bdbad54245a7be39eab5ad4243ac8cb2afab304a",
+        "crc32": "d6f74faf"
+      }
+    }
+  ]
+}

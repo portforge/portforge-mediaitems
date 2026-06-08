@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Um Jammer Lammy (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Um Jammer Lammy (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b0c7b1e7714e63d5b9b05a0b33c23ed7",
+        "sha1": "4e7c0185a18c78ca56cbac6a18e9dd5369c4ef66",
+        "crc32": "ebf2c154"
+      }
+    },
+    {
+      "filename": "Um Jammer Lammy (USA).bin",
+      "filesize": 740416656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5b047642aac6bd414dffce52909a940",
+        "sha1": "86fc942a25063c56bb21a20db14961b9f0ac0039",
+        "crc32": "4775ad17"
+      }
+    }
+  ]
+}

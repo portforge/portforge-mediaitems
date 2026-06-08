@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "EPS Series Vol. 4 - Noise Reduction - Tomoa Yamamoto (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "EPS Series Vol. 4 - Noise Reduction - Tomoa Yamamoto (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "732da4db15238abc8822b65278df7076",
+        "sha1": "8328d3ea77c6b50a44c113742282eb6a3c863155",
+        "crc32": "6abd2c9a"
+      }
+    },
+    {
+      "filename": "EPS Series Vol. 4 - Noise Reduction - Tomoa Yamamoto (Japan).bin",
+      "filesize": 428727264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b77386fd394a6958b7debe5daa1594c3",
+        "sha1": "cd78d1b8a09a080385236329acb6ac5df35a3d0b",
+        "crc32": "0819331a"
+      }
+    }
+  ]
+}

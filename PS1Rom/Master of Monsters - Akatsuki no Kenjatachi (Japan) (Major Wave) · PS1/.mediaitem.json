@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave).cue",
+      "filesize": 930,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ccb0ba87c7fd4d9264245ab52a0a1b84",
+        "sha1": "6ed368cb04fee090760086bdc8818265ad4e4f34",
+        "crc32": "7d51904b"
+      }
+    },
+    {
+      "filename": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 1).bin",
+      "filesize": 183185520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f268e990e2847315597a3e09b66d362",
+        "sha1": "c9dadd40e7e9648c5ef7a241ad4490efbd1b3a52",
+        "crc32": "c1e37ffe"
+      }
+    },
+    {
+      "filename": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 2).bin",
+      "filesize": 21163296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41cf6d78630f3cb67e218cd487302102",
+        "sha1": "91b6bb44f56476fae2814f509465b621619eb123",
+        "crc32": "b49ac0e5"
+      }
+    },
+    {
+      "filename": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 3).bin",
+      "filesize": 18797184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea6384562f2a2dd7ec1723865922614c",
+        "sha1": "db3e9a2567850e886cb52f95c564880f80f6f75e",
+        "crc32": "f490eab2"
+      }
+    },
+    {
+      "filename": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 4).bin",
+      "filesize": 16840320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eac2566b0226482dfb728e7525de6924",
+        "sha1": "a657a9516ea2016dc6afbe17dac6c32ee6d7d34f",
+        "crc32": "fb7d376a"
+      }
+    },
+    {
+      "filename": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 5).bin",
+      "filesize": 14154336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0842db3b2151d0c356f784dff76bf062",
+        "sha1": "128f8cfbebd055e5e879a7148ec39c9fbe02ef53",
+        "crc32": "a1eabd13"
+      }
+    },
+    {
+      "filename": "Master of Monsters - Akatsuki no Kenjatachi (Japan) (Major Wave) (Track 6).bin",
+      "filesize": 33581856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c199996f55c839479098238f60255cf",
+        "sha1": "27017b737bf5565b07d86cecc92cff72a60ed3f9",
+        "crc32": "57118004"
+      }
+    }
+  ]
+}

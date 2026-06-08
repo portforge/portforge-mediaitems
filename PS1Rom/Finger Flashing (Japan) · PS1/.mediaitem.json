@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Finger Flashing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Finger Flashing (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a37d7a7717d20d3b4b4313399cc0a03",
+        "sha1": "f441d7f7d2763538ca9620571ce847d04f806346",
+        "crc32": "b370c006"
+      }
+    },
+    {
+      "filename": "Finger Flashing (Japan).bin",
+      "filesize": 56422128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9982a1f00d4b37a4996533fa8e897104",
+        "sha1": "e9c232a0582f3014d210d18665bcdbcb936c5cf5",
+        "crc32": "3e42a3a7"
+      }
+    }
+  ]
+}

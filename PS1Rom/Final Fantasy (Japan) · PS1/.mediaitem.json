@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9345f123c5c4dcfb227618ed48d039d",
+        "sha1": "e352c83988c7c9c50b2f4434bf0ed824f892e9e4",
+        "crc32": "5534814b"
+      }
+    },
+    {
+      "filename": "Final Fantasy (Japan).bin",
+      "filesize": 144958464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02b3d19bb24b24ad68a6614f90e286eb",
+        "sha1": "17bf9bc1ab74eddd85d2b018d9a9c7b090be499b",
+        "crc32": "4cfee9e0"
+      }
+    }
+  ]
+}

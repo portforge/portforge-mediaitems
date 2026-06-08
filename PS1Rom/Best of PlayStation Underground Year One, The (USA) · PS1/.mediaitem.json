@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Best of PlayStation Underground Year One, The (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Best of PlayStation Underground Year One, The (USA).cue",
+      "filesize": 272,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d2aac75e66b810c50a4fa44339148405",
+        "sha1": "04bc93a914c9b9af77ea3734ef16d5a3fa9a49a9",
+        "crc32": "ea5a76a5"
+      }
+    },
+    {
+      "filename": "Best of PlayStation Underground Year One, The (USA) (Track 1).bin",
+      "filesize": 724519488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d38a40518af75143262b0a90e4d5de2d",
+        "sha1": "5e9711eaa54be2ba890c61f1c81bca6928bfa276",
+        "crc32": "41997ec3"
+      }
+    },
+    {
+      "filename": "Best of PlayStation Underground Year One, The (USA) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Tower Dream 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan).cue",
+      "filesize": 4742,
+      "ext": "cue",
+      "checksums": {
+        "md5": "81d85bb3ff307d55764666df30a93b38",
+        "sha1": "2cbdfabdfc58abebe8f95ca7216528aa6d98bf81",
+        "crc32": "621f3958"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 01).bin",
+      "filesize": 201695760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16ebd814208cec7200a0f658fdfaf011",
+        "sha1": "bfb91aed00e265c99ca9da7b9e047ed7fbbe5128",
+        "crc32": "931f8fd0"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 02).bin",
+      "filesize": 1597008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "151b7cfe6100d973541d9cc01f88db08",
+        "sha1": "28fac6a21cc866e1fe3ac7936c6db359fafaf3a0",
+        "crc32": "b994fb47"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 03).bin",
+      "filesize": 1749888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6dbe2e4e74d903de1d224bd5159114d6",
+        "sha1": "a794067366ebd855c94d20465457170b2bd5ca8a",
+        "crc32": "034d4de9"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 04).bin",
+      "filesize": 3480960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2efd3f897eb9072126edd38c976a990",
+        "sha1": "af8f89d99e3cee7028d7f6fe8f4bce67d58fb7d4",
+        "crc32": "a37cd527"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 05).bin",
+      "filesize": 9556176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d18866a7a946b0cf3739779fb74284e1",
+        "sha1": "6161ed435c184ba7cacacafefd43d719da6dcdfb",
+        "crc32": "696d6e1c"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 06).bin",
+      "filesize": 2236752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8b08dd405ff7576f978720bd743240d",
+        "sha1": "925edf350208dc506232bb275ca9f00b5a84ccd1",
+        "crc32": "7a077c89"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 07).bin",
+      "filesize": 7406448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec3d4a9233dd5981f2bcc186ca924921",
+        "sha1": "91f3b2d608db773e6fdaafd8e9c997daa3e6cc1a",
+        "crc32": "51ec392b"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 08).bin",
+      "filesize": 2050944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ac1cd5f3aa287d407c6b887766b50ac",
+        "sha1": "036fe700d0b8b8e1f7ebf9d04c3f6735650ef88d",
+        "crc32": "2a97f409"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 09).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da8ce189baaed71fec35dc441b9ca98c",
+        "sha1": "dc4e8484710cef4fabbde6d5ff22b6969fc9b352",
+        "crc32": "4d7082d4"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 10).bin",
+      "filesize": 2415504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a24b33587408afe61cc7c0cbae55b5cc",
+        "sha1": "76f857348c8780fdfd815543e7a177d0fd94723b",
+        "crc32": "be685309"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 11).bin",
+      "filesize": 1505280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85deb9bff901a54be9e9e9bf5291928c",
+        "sha1": "1f317e48f424a120a0f1fc308f65df75ee248823",
+        "crc32": "8d031bdf"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 12).bin",
+      "filesize": 1893360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2e86de6c0fa5142dd4924862d650450",
+        "sha1": "a605d8326ce8baae1e51ed276e45bbef465e0560",
+        "crc32": "7513c244"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 13).bin",
+      "filesize": 1618176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "555f81708e9949ac7e26b8452ffa1c77",
+        "sha1": "9101dd013c79f95c43c536d9aa859d9381909b07",
+        "crc32": "ecd9ffd8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 14).bin",
+      "filesize": 1255968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cd5711f8bca92f6f40a0c029e8952ce",
+        "sha1": "4eb993b31e2f61578367833c529df03c9054d8d3",
+        "crc32": "86b7852c"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 15).bin",
+      "filesize": 1604064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03e192672e84b59bf5c0c47d4fea0c7b",
+        "sha1": "75f0143924a6fd42ff2fe0a88ca5ee2afd1e1f72",
+        "crc32": "faf54724"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 16).bin",
+      "filesize": 1321824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3214432b7eeba08b4cd5613af68942f6",
+        "sha1": "19de569653cffe62a431eab03817547db12c8ea8",
+        "crc32": "98239ef4"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 17).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ff76bd2769ecd45f51b24fbe719723d",
+        "sha1": "efeeb3e18640b2c25b7e397e426f129c00eed3ca",
+        "crc32": "ae0404a1"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 18).bin",
+      "filesize": 1422960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f773ef3417aa107c56f852e24c485f29",
+        "sha1": "2df8bbacfdd08fd586841e5f9c61d63e0e77fc6b",
+        "crc32": "671c00f7"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 19).bin",
+      "filesize": 1766352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "624f3ecdb0b6a3b583e89d243d9c2ca1",
+        "sha1": "8044dd3bf05d04bb54719bf26e6f4d9b6c4e1b0d",
+        "crc32": "c6da7e7d"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 20).bin",
+      "filesize": 13552224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2dce64ce0a9dc9ac29c3ad6c2cf06ef2",
+        "sha1": "603fac23ff3a3fe93383bc3039cad3d5af1ad72e",
+        "crc32": "6c4dbb6e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 21).bin",
+      "filesize": 1502928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b19c204dccb45c63424dab1a23a5a74c",
+        "sha1": "0fcea9943d5df9d063f2d9694c0546d6c66ad015",
+        "crc32": "2d7a304c"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 22).bin",
+      "filesize": 19514544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07a8d58223702b97b505de36ac28a978",
+        "sha1": "d5f4bf8ca4759781c0b8fd91210d74a63e8d87a3",
+        "crc32": "4d4048d2"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 23).bin",
+      "filesize": 21718368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d27c5318c1b77cd2a04ea036d3de6b31",
+        "sha1": "ace365776a13dcc969aafb1c2d8804a7d4e61396",
+        "crc32": "bfcaf3b5"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 24).bin",
+      "filesize": 5614224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca2eb8f246376a589280e879c80f3734",
+        "sha1": "a722ee75fea5a93d09877e24f555e01e2ad9a5b8",
+        "crc32": "c74d7237"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 25).bin",
+      "filesize": 3901968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "705a3e0a4529b297e848ebde79378d4e",
+        "sha1": "41567b1afa9203fabb6129443e36e45ac42fa44e",
+        "crc32": "8a3fd5b0"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 26).bin",
+      "filesize": 3894912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b230c654567bebb78b8316211c5fd02",
+        "sha1": "9aa241767b0e9bad88e80f099e35bd4a56b91e97",
+        "crc32": "28208dd2"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 27).bin",
+      "filesize": 1552320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f469e4b479b113ee41628b517528f6d3",
+        "sha1": "73613b54eac3b17f5c50b59cf711f8f70d6018ab",
+        "crc32": "c1539a12"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 28).bin",
+      "filesize": 1514688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba28005bda877470522b4b8be2a8841f",
+        "sha1": "bae6ecb55cecbed654dd461e81bcebb63d3d20c7",
+        "crc32": "4793ceaf"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 29).bin",
+      "filesize": 1517040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6ae6b96608a2eb1da26330047841a83",
+        "sha1": "1886c30bef0699eabe4952c1a663346af910e7be",
+        "crc32": "381f034e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 30).bin",
+      "filesize": 1507632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2057de31a2c598e31667f44f008aa7a3",
+        "sha1": "f4dcaa1c6539d054edaceb2224cb663ae10b239b",
+        "crc32": "90b113c8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 31).bin",
+      "filesize": 2095632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2e29b66a2461c96da43df139ff119f9",
+        "sha1": "c1f10b65f8ec67c52de4dbb2e3733e0a21b4918d",
+        "crc32": "212220e5"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 32).bin",
+      "filesize": 32147136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "876aaa8e3b7bfbbfa05b259c56174bec",
+        "sha1": "0c25b29441390aba5bca93e65c7f254c4a18c6cb",
+        "crc32": "114c122f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 33).bin",
+      "filesize": 29456448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55406fde985b911fbc9d67b5c9e5d027",
+        "sha1": "f9e56e667b1f48a939118802145404f99fd07b07",
+        "crc32": "f6a2be0f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tower Dream 2 (Japan) (Track 34).bin",
+      "filesize": 36114960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca2d70fa65e510c5b80c1373435a007e",
+        "sha1": "f0bb7b319643483e87864a8852bd858160df9cab",
+        "crc32": "b6e1c8e4"
+      }
+    }
+  ]
+}

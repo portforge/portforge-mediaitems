@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "J.League Soccer - Jikkyou Survival League (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "J.League Soccer - Jikkyou Survival League (Japan).cue",
+      "filesize": 697,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb54bafd3d8c1a4cc2f2f2603582aa52",
+        "sha1": "194616570d137ff8950d6f52415c71a88a20ba82",
+        "crc32": "3f2540f1"
+      }
+    },
+    {
+      "filename": "J.League Soccer - Jikkyou Survival League (Japan) (Track 1).bin",
+      "filesize": 465322032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "977939772b06d8f7839bca00725aaf65",
+        "sha1": "0eb517fb1770b421a1ab5499fa28e9e94f567ac0",
+        "crc32": "2f7579d8"
+      }
+    },
+    {
+      "filename": "J.League Soccer - Jikkyou Survival League (Japan) (Track 2).bin",
+      "filesize": 6449184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fb054b1a71c8d92ce669fd5cbc86255",
+        "sha1": "dc38bdff9fecbf8bb0aec63bdc11c9c4412575b9",
+        "crc32": "05f99d7a"
+      }
+    },
+    {
+      "filename": "J.League Soccer - Jikkyou Survival League (Japan) (Track 3).bin",
+      "filesize": 12037536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "304a98967a3d1c69ea5e4c98ccc23322",
+        "sha1": "7eacf5792de19654f10aaf8df8b856a5e235b329",
+        "crc32": "cd10177e"
+      }
+    },
+    {
+      "filename": "J.League Soccer - Jikkyou Survival League (Japan) (Track 4).bin",
+      "filesize": 23769312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69526d0cdebaf63c795e0af63c7b712",
+        "sha1": "4ebf84b7609714d6af79305b4bb117332a876501",
+        "crc32": "6d7285e7"
+      }
+    },
+    {
+      "filename": "J.League Soccer - Jikkyou Survival League (Japan) (Track 5).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

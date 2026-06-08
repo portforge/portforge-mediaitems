@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Elf o Karu Monotachi - Kanzenban (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Elf o Karu Monotachi - Kanzenban (Japan) (Disc 1).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "641cb7cfe0cff7107f60a29e7a94dec3",
+        "sha1": "ecc9703fabb63155755bd26f4359818858a081e1",
+        "crc32": "5ce2c655"
+      }
+    },
+    {
+      "filename": "Elf o Karu Monotachi - Kanzenban (Japan) (Disc 1).bin",
+      "filesize": 666674400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbf3f142d1f4c8dd816a7832f773b5e7",
+        "sha1": "b97125784bcda9306ce52f7e350960b7fc2ad8fa",
+        "crc32": "e51b281f"
+      }
+    }
+  ]
+}

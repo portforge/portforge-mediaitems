@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Suudoku 5 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Suudoku 5 (Japan).cue",
+      "filesize": 792,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9af8a897fd1419eb5d53809b3a35426a",
+        "sha1": "a8e78af539a9bb467ed27e55807b7c2bfe483d7f",
+        "crc32": "e786d918"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Suudoku 5 (Japan) (Track 1).bin",
+      "filesize": 1780464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a36a68372b423d5143ede480fabcfb98",
+        "sha1": "8860509bee4baa234a9ec57b44cb76a22b9e4bad",
+        "crc32": "f721e783"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Suudoku 5 (Japan) (Track 2).bin",
+      "filesize": 23762256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55d62b2d55354d6ce96a7ae599bcb72f",
+        "sha1": "8300f357d852687a5d080cbf2ae736422ca69483",
+        "crc32": "550cf2f5"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Suudoku 5 (Japan) (Track 3).bin",
+      "filesize": 33490128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6e36f5c2196c873a75bbbc943e8dc00",
+        "sha1": "19afaa8889f1a10683568c18402f9ccd61cdd0dc",
+        "crc32": "3931beff"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Suudoku 5 (Japan) (Track 4).bin",
+      "filesize": 108309600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cc228b7996592d749d7a47f1995009f",
+        "sha1": "aa81b30b67194a443d6c4535c72f9be2ac28f9b8",
+        "crc32": "b4179db4"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Suudoku 5 (Japan) (Track 5).bin",
+      "filesize": 108634176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00c1a6f95395be4264a3bee7a4427a9e",
+        "sha1": "5018686004369fd506e86273acbc7171eb28de75",
+        "crc32": "25e45cee"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Suudoku 5 (Japan) (Track 6).bin",
+      "filesize": 108319008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b01740af6712ecb6b0205332b414e56f",
+        "sha1": "25c60908c629dc48627b384b8311ee7ffccdabdf",
+        "crc32": "975f4710"
+      }
+    }
+  ]
+}

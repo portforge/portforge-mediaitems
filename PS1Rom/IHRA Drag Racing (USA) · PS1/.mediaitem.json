@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "IHRA Drag Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "IHRA Drag Racing (USA).cue",
+      "filesize": 1503,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73485d60a166bd54f0050075c913216a",
+        "sha1": "d5c166e8c5337477658cada9dd96e3094ea88bb2",
+        "crc32": "66864c1a"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 01).bin",
+      "filesize": 74153856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e42d9a2a89ee8869972e1b9774eb352",
+        "sha1": "c224369c305331f7662c6e52b4e5e4efe4c5c342",
+        "crc32": "981e5588"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 02).bin",
+      "filesize": 75449808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "900795f13e9a5c5b92e75318d66396b4",
+        "sha1": "46d4e5549452c4974087471cbd8d37b9073c07fd",
+        "crc32": "31624cbe"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 03).bin",
+      "filesize": 37947168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "824dc7f7f86b37e0f0ce6d2a6ecb706b",
+        "sha1": "de8999e4ebe0108d61629fdc49ca28477ee484ce",
+        "crc32": "b4d89520"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 04).bin",
+      "filesize": 36641808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "589925bedac3ffc227c60590f2eb671e",
+        "sha1": "067e5b3fc8cff2b530247b8b96c83aa868819f5b",
+        "crc32": "4a692c67"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 05).bin",
+      "filesize": 37495584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18841d3c6c9799738f78e95441170d50",
+        "sha1": "32ac23fd96957a8a40495e616a980bbe8d40224c",
+        "crc32": "b164c09b"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 06).bin",
+      "filesize": 18103344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b72ab8b90b8e1ccc28fb869494f95f3",
+        "sha1": "cd08f5843bb638bc5eaa8dd607d27f8733db82aa",
+        "crc32": "2d145624"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 07).bin",
+      "filesize": 23411808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ab9d5521b981425cfa72cc0cab1aa71",
+        "sha1": "fd1d2c53c625c63c873dd1623003aa4158a0c505",
+        "crc32": "01369fd4"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 08).bin",
+      "filesize": 75449808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "900795f13e9a5c5b92e75318d66396b4",
+        "sha1": "46d4e5549452c4974087471cbd8d37b9073c07fd",
+        "crc32": "31624cbe"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 09).bin",
+      "filesize": 37947168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "824dc7f7f86b37e0f0ce6d2a6ecb706b",
+        "sha1": "de8999e4ebe0108d61629fdc49ca28477ee484ce",
+        "crc32": "b4d89520"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 10).bin",
+      "filesize": 36641808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "589925bedac3ffc227c60590f2eb671e",
+        "sha1": "067e5b3fc8cff2b530247b8b96c83aa868819f5b",
+        "crc32": "4a692c67"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 11).bin",
+      "filesize": 37495584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18841d3c6c9799738f78e95441170d50",
+        "sha1": "32ac23fd96957a8a40495e616a980bbe8d40224c",
+        "crc32": "b164c09b"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 12).bin",
+      "filesize": 18103344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b72ab8b90b8e1ccc28fb869494f95f3",
+        "sha1": "cd08f5843bb638bc5eaa8dd607d27f8733db82aa",
+        "crc32": "2d145624"
+      }
+    },
+    {
+      "filename": "IHRA Drag Racing (USA) (Track 13).bin",
+      "filesize": 23411808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ab9d5521b981425cfa72cc0cab1aa71",
+        "sha1": "fd1d2c53c625c63c873dd1623003aa4158a0c505",
+        "crc32": "01369fd4"
+      }
+    }
+  ]
+}

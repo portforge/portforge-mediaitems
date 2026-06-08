@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Davis Cup Complete Tennis (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Davis Cup Complete Tennis (Europe).cue",
+      "filesize": 1134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29edd71b3ac22ecb3e9a850526726f19",
+        "sha1": "d0cc052a86225f75b541142bc32351ca4dbaafd2",
+        "crc32": "5dfb263e"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 1).bin",
+      "filesize": 122329872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4162206f4ff9740ce6776c7faffd4112",
+        "sha1": "4db58b826f5d00e554869d5f2b482b14677f4b47",
+        "crc32": "197a17ea"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 2).bin",
+      "filesize": 33840576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ea0b553557d2d4357e3380cd54a3706",
+        "sha1": "572908bccc142462de5310f707fcc238c0fbd6f5",
+        "crc32": "936e833f"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 3).bin",
+      "filesize": 34560288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c97b36987b81f2b09e605d782e5373e",
+        "sha1": "e8d68b2ee31831dd084c50275e4b2a30899320d4",
+        "crc32": "9a79413d"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 4).bin",
+      "filesize": 33099696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19d23eb2a142c2086c28bb8e5ec11630",
+        "sha1": "cd2eb9f18ffe0ab4b3586507b281e89ba2aa35d7",
+        "crc32": "3d1d90e5"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 5).bin",
+      "filesize": 13469904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "745ba009a7ebd45b51bda2163c524b62",
+        "sha1": "1612970dc73df70826f0a0892f0737161cb3c8e1",
+        "crc32": "abc9d787"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 6).bin",
+      "filesize": 11042640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74edc41f601af6973433ad54b5d03979",
+        "sha1": "6929a83d5598b2cc7f068d5c59e634e3ab963861",
+        "crc32": "9140d2a6"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 7).bin",
+      "filesize": 9986592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "664247afbabd2a7b03eef22d4ea6852e",
+        "sha1": "8d9b1efb9057c8ada696c5002ac4098c479ebdd1",
+        "crc32": "ab7250ce"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 8).bin",
+      "filesize": 12830160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29c4ae1ff1befceac0ad153260db5e9d",
+        "sha1": "bfb34ac54eedade8c24f1541c6f3149b4f89ee34",
+        "crc32": "8547364a"
+      }
+    },
+    {
+      "filename": "Davis Cup Complete Tennis (Europe) (Track 9).bin",
+      "filesize": 33840576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ea0b553557d2d4357e3380cd54a3706",
+        "sha1": "572908bccc142462de5310f707fcc238c0fbd6f5",
+        "crc32": "936e833f"
+      }
+    }
+  ]
+}

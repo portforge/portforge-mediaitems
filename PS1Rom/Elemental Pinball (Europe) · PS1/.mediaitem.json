@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Elemental Pinball (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Elemental Pinball (Europe).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c3c98a911f8a1928dde675d88dbf2302",
+        "sha1": "5bd71fb3cd499c59fcae9da768ffb01df0deb282",
+        "crc32": "4984c36a"
+      }
+    },
+    {
+      "filename": "Elemental Pinball (Europe).bin",
+      "filesize": 34409760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d140fe791c39c9d8c519462f41177c8",
+        "sha1": "8f7e659bd330a793e6758e643112302af0970920",
+        "crc32": "39c070b5"
+      }
+    }
+  ]
+}

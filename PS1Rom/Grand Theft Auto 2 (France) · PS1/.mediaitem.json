@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grand Theft Auto 2 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grand Theft Auto 2 (France).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4a7f0125e69f3a86773d26a5e397283",
+        "sha1": "0ab3364f8fe8f6a0cd6f656f912ad0ebac1abcb8",
+        "crc32": "d3f1932d"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto 2 (France).bin",
+      "filesize": 545842752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b6f45445afc4567f8fe606cd713a1a8",
+        "sha1": "08688dcdca8c205072adcda8bdd19eb79f33e937",
+        "crc32": "ebfc694f"
+      }
+    }
+  ]
+}

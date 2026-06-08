@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney La Sirenita 2 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney La Sirenita 2 (Spain).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "23358100bc77c8298726f7986cc00513",
+        "sha1": "101cd185db45894f0c8565e2dc297335e4b2c386",
+        "crc32": "3fccd65d"
+      }
+    },
+    {
+      "filename": "Disney La Sirenita 2 (Spain).bin",
+      "filesize": 553524384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "178234415363aa3b5f261d5ab2393ffc",
+        "sha1": "910507cbc3f31a43aad4df092c491f02d6a74a12",
+        "crc32": "7fd92d69"
+      }
+    }
+  ]
+}

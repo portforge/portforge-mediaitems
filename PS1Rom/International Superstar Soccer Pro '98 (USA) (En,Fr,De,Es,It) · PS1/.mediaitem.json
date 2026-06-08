@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Superstar Soccer Pro '98 (USA) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Superstar Soccer Pro '98 (USA) (En,Fr,De,Es,It).cue",
+      "filesize": 447,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e95fc36d20f298ffef8f63f9cf08becf",
+        "sha1": "9e98fe092d235b5a36cf3b35c12831bc899e65a3",
+        "crc32": "4991ff39"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer Pro '98 (USA) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 392798112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60b4905f6a8f908f068d181e363a198c",
+        "sha1": "7ae3d95725e5e3b5505b44dabca201e123222ed9",
+        "crc32": "6eb587c7"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer Pro '98 (USA) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 18540816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be4be08ea50a9e1d0eef21980a5faa43",
+        "sha1": "e92817d0979f32730854fe900cdd4f35a4cc28b3",
+        "crc32": "06be6b7b"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer Pro '98 (USA) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97c30460187d69777c0b0dd5f91f96a4",
+        "sha1": "a5e98e974146766bb0a60b19252d12d0ca16c8fe",
+        "crc32": "ff0e6f73"
+      }
+    }
+  ]
+}

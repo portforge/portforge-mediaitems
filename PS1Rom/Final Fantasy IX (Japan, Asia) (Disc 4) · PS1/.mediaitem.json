@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IX (Japan, Asia) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IX (Japan, Asia) (Disc 4).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6c1eb30fbf39e07122db5ea207183b5",
+        "sha1": "a802e95dd78c66af3ab2319ef6eaba441ba91861",
+        "crc32": "52215204"
+      }
+    },
+    {
+      "filename": "Final Fantasy IX (Japan, Asia) (Disc 4).bin",
+      "filesize": 690589536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e75b28ee63a27b975ca590bf30b66393",
+        "sha1": "637d2c7829a9d25c94316c06a9a086ac9e4937b0",
+        "crc32": "ea1d5d5a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Str.at.e.s. 1 - Match-A-Batch (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Str.at.e.s. 1 - Match-A-Batch (USA).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67d6ad3fa0314e9e09ca89478d578c66",
+        "sha1": "7e7475054d6f4e17b418338f5e7da07d29dcc540",
+        "crc32": "d89b9797"
+      }
+    },
+    {
+      "filename": "Str.at.e.s. 1 - Match-A-Batch (USA).bin",
+      "filesize": 749949312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88f5b24dcb9e9f97fef202c8a5c5a7fc",
+        "sha1": "12eaccf33318f046082be771fc0ef19b9e5fac62",
+        "crc32": "aa155e39"
+      }
+    }
+  ]
+}

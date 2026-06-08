@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arcade Party Pak (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arcade Party Pak (Europe, Australia).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e469e4861f641d9d4b620dcc5e4533dc",
+        "sha1": "1b72183265e9dd655d154e8e8038b836624e0557",
+        "crc32": "c6187efd"
+      }
+    },
+    {
+      "filename": "Arcade Party Pak (Europe, Australia).bin",
+      "filesize": 591485664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67a857ba846b0a4829918c395c0eb791",
+        "sha1": "90c6a94fafcbfad9037fe8426e3da444bdcf529d",
+        "crc32": "036d1903"
+      }
+    }
+  ]
+}

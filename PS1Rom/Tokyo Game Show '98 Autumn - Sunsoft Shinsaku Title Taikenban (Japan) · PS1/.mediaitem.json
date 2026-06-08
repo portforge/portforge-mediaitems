@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Game Show '98 Autumn - Sunsoft Shinsaku Title Taikenban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Game Show '98 Autumn - Sunsoft Shinsaku Title Taikenban (Japan).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e6722d3a4c398269318af1c4a15228b",
+        "sha1": "f81498f6eb89efa458218e54484a103bd9490e94",
+        "crc32": "2da4130d"
+      }
+    },
+    {
+      "filename": "Tokyo Game Show '98 Autumn - Sunsoft Shinsaku Title Taikenban (Japan).bin",
+      "filesize": 325683792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a76551d204b0bfd96c3922b1d3fbffa4",
+        "sha1": "ec2fc00357e8b059673db426f8b02eb8c1854c1a",
+        "crc32": "8fd8e2c9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jungle Park (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jungle Park (Japan).cue",
+      "filesize": 547,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a4fb7338b4a58430251accfac0113c0c",
+        "sha1": "ec2bd4aad597cb7f4250eb3580198dfd771516dc",
+        "crc32": "9679ca56"
+      }
+    },
+    {
+      "filename": "Jungle Park (Japan) (Track 1).bin",
+      "filesize": 104457024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b34932858cc09954fc3eed4c913749b",
+        "sha1": "bca9f807450c3bc1c27ee2f93c521d0a16f818cb",
+        "crc32": "e7d1b59b"
+      }
+    },
+    {
+      "filename": "Jungle Park (Japan) (Track 2).bin",
+      "filesize": 38450496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21f056833bee0ef30beff90439476911",
+        "sha1": "f93ace99e1550b26812c6508d287cb7ebbdac66a",
+        "crc32": "3a704658"
+      }
+    },
+    {
+      "filename": "Jungle Park (Japan) (Track 3).bin",
+      "filesize": 31594416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf28825a520db6ca8d9ddd1180dbbb5f",
+        "sha1": "d44ba1aec222537944926a3bb7812eaf03f80cca",
+        "crc32": "753ee30c"
+      }
+    },
+    {
+      "filename": "Jungle Park (Japan) (Track 4).bin",
+      "filesize": 11129664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7c414dae15974c1bc460523a9dbcb81",
+        "sha1": "a0f863a8d7cc8f5a9fb543a0f72d8cb79a1128a5",
+        "crc32": "3344c8df"
+      }
+    },
+    {
+      "filename": "Jungle Park (Japan) (Track 5).bin",
+      "filesize": 47418672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24e73d34fa558ad1b837821a730ed2fa",
+        "sha1": "97ff3af493f1784792f2df646270c82f23423848",
+        "crc32": "deb41911"
+      }
+    }
+  ]
+}

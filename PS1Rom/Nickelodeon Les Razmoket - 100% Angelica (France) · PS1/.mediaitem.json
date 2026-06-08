@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Les Razmoket - 100% Angelica (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Les Razmoket - 100% Angelica (France).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bce5720015dbdd6c157e6034c13884f",
+        "sha1": "79c4e8e351d5f2ceeefdbaaa7b2962fec74b054f",
+        "crc32": "06c0abad"
+      }
+    },
+    {
+      "filename": "Nickelodeon Les Razmoket - 100% Angelica (France).bin",
+      "filesize": 178937808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac98fa2e4704f805fcd03f103df97aab",
+        "sha1": "8a3c73a1e43d748242e9f8056eac593449ca59a3",
+        "crc32": "95e2ebc7"
+      }
+    }
+  ]
+}

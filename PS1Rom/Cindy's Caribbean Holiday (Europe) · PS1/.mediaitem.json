@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cindy's Caribbean Holiday (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cindy's Caribbean Holiday (Europe).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1aff4faa822675b985cf68d74eefdc89",
+        "sha1": "6f88ff4e20bd1401fd4e2671162c26d2cea335e9",
+        "crc32": "6bbf9579"
+      }
+    },
+    {
+      "filename": "Cindy's Caribbean Holiday (Europe).bin",
+      "filesize": 43401456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3e3f64c7570ae7b6f888ed49acbbdf0",
+        "sha1": "a530ae7b6bb86d1df0287989894e9342ec05b146",
+        "crc32": "1c1f80ba"
+      }
+    }
+  ]
+}

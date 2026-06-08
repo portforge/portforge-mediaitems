@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Apocalypse (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Apocalypse (Italy).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "101794652404ef4de60d0e7e5b3b6e26",
+        "sha1": "971e590d1ec7f8ce30f8898d1b2742d60858e103",
+        "crc32": "1bef929c"
+      }
+    },
+    {
+      "filename": "Apocalypse (Italy) (Track 1).bin",
+      "filesize": 456476160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2694abaf1d5f0adc38364de67db3b82f",
+        "sha1": "371a490668df7c133900104972005afa77cc009d",
+        "crc32": "e48dcd94"
+      }
+    },
+    {
+      "filename": "Apocalypse (Italy) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0d4ed65fe41ebf99b2273a3914e3eb5",
+        "sha1": "f7eded280c5d5db877b324693e424690d3f740ab",
+        "crc32": "9d424890"
+      }
+    }
+  ]
+}

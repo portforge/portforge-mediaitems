@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warriors of Might and Magic (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warriors of Might and Magic (Europe) (En,Fr,De).cue",
+      "filesize": 264,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f25df2ba05dd5cf13f0a914ba72f7785",
+        "sha1": "fbcc17f93df4b485f3bd22b7d3e241c41d4521e4",
+        "crc32": "3ee5afd4"
+      }
+    },
+    {
+      "filename": "Warriors of Might and Magic (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 674351328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41f8bd77ad58f69ce7f11d6833621ad",
+        "sha1": "217782249a808a173eda8a8a47df08917ccc3fec",
+        "crc32": "828efc25"
+      }
+    },
+    {
+      "filename": "Warriors of Might and Magic (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 33513648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1889a3cc1397826b235d7df882bf3c1d",
+        "sha1": "137804018b66f9e03f5a7c4eb939215b6f9ce818",
+        "crc32": "4f304fb9"
+      }
+    }
+  ]
+}

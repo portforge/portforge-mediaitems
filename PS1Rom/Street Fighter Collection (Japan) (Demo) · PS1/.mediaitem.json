@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Collection (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Collection (Japan) (Demo).cue",
+      "filesize": 255,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ab1f69a08631ec854351cd7a618f20a3",
+        "sha1": "6e273c1d899ae951e7fddd9ee4cf2db74c6004d4",
+        "crc32": "543ecd4c"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (Japan) (Demo) (Track 1).bin",
+      "filesize": 594439776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5d148011543cd927cd4dc702c763ce3",
+        "sha1": "4250f6f7b04738c8b86b3861ada78cad8c126c2d",
+        "crc32": "f1f0b645"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (Japan) (Demo) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40d6f58bca1b0d5b49682140cb68b9d9",
+        "sha1": "ba81a6433225b263701b64ba31798d5dd0dceb10",
+        "crc32": "9126a50c"
+      }
+    }
+  ]
+}

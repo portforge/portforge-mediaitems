@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RC Revenge (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RC Revenge (USA).cue",
+      "filesize": 202,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2cb4c12de69b41e147e0b8fd04869488",
+        "sha1": "84def0a89322e24143528402bb92138a563e21aa",
+        "crc32": "d0e0bcb0"
+      }
+    },
+    {
+      "filename": "RC Revenge (USA) (Track 1).bin",
+      "filesize": 484055712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8259e28a84f48af7dbb974b1dcaef6f4",
+        "sha1": "f9788578a68031192c2fc581ca844f1c300a3d97",
+        "crc32": "708410f3"
+      }
+    },
+    {
+      "filename": "RC Revenge (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

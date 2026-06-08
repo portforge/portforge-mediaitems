@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game of Life, The - DX Jinsei Game V (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game of Life, The - DX Jinsei Game V (Japan).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7bdfcdf2e1cc21c2c84244009f5f542d",
+        "sha1": "23f08260a52f3bcfba41d4bce98b73416094cc51",
+        "crc32": "deeb4b0b"
+      }
+    },
+    {
+      "filename": "Game of Life, The - DX Jinsei Game V (Japan) (Track 1).bin",
+      "filesize": 221537232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5de0aa1913aefd44be68301243fbc9d8",
+        "sha1": "e5576129b8807243c201e33ccbfaab2f67cc11dd",
+        "crc32": "2eeef0cd"
+      }
+    },
+    {
+      "filename": "Game of Life, The - DX Jinsei Game V (Japan) (Track 2).bin",
+      "filesize": 33365472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "820bb7e94928b06f1f7a6237bca80c94",
+        "sha1": "448d5eb9aa20d20bd204a63e6263d8cfd0d5b747",
+        "crc32": "7d963265"
+      }
+    }
+  ]
+}

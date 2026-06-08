@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Ocean - The Second Story (Europe) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Ocean - The Second Story (Europe) (Disc 1).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd0f2ab7000c3d3b8cb902b860d5713d",
+        "sha1": "7f151b5a6416e85b47c675d97fcc8d4f2ba2fbf8",
+        "crc32": "5ef70ac8"
+      }
+    },
+    {
+      "filename": "Star Ocean - The Second Story (Europe) (Disc 1).bin",
+      "filesize": 556266816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ce073419bd00e8dc956dd7628bcb685",
+        "sha1": "ec50870f552c30a2b64e67815ebc4cc8ca5de516",
+        "crc32": "70b5a08f"
+      }
+    }
+  ]
+}

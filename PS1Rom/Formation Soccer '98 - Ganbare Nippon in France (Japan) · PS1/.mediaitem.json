@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formation Soccer '98 - Ganbare Nippon in France (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formation Soccer '98 - Ganbare Nippon in France (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4fca0db1874fefb5c363bf3f38bbf4b5",
+        "sha1": "7936f03158e220b6c4ad9bde7de453f885d119bc",
+        "crc32": "792d4508"
+      }
+    },
+    {
+      "filename": "Formation Soccer '98 - Ganbare Nippon in France (Japan).bin",
+      "filesize": 329689248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "643a63726c851749ea6408f9f64af848",
+        "sha1": "124fe222256f73a963b8f96449a4a89e2e446a1e",
+        "crc32": "5ffc4315"
+      }
+    }
+  ]
+}

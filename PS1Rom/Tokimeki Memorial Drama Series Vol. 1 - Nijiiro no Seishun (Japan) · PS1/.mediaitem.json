@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5c6ec3fc5a623cc5708b5127ad991776",
+        "sha1": "7a00571f3e67a5db8f12a1447d9b6c6bf2951a7b",
+        "crc32": "5405c07c"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial Drama Series Vol. 1 - Nijiiro no Seishun (Japan).bin",
+      "filesize": 749135520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37e004fa984735aec109b2bb41ccda70",
+        "sha1": "78bada70fb390d8dde30302fc2d791b422d18d79",
+        "crc32": "89846e0e"
+      }
+    }
+  ]
+}

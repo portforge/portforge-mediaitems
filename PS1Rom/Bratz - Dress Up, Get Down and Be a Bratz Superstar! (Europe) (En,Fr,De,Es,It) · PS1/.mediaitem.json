@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bratz - Dress Up, Get Down and Be a Bratz Superstar! (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bratz - Dress Up, Get Down and Be a Bratz Superstar! (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f944e6cb79cf7d1450d32fbe3bc0a6c",
+        "sha1": "69e7fc1453605fcb35b2488a90241251c96a1014",
+        "crc32": "db6baa65"
+      }
+    },
+    {
+      "filename": "Bratz - Dress Up, Get Down and Be a Bratz Superstar! (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 312103344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23f7dccca6f682bdbe0ee8ffddfe4184",
+        "sha1": "470f6bf0ec895175f349ee113334a616fea2fad7",
+        "crc32": "ec10eae2"
+      }
+    }
+  ]
+}

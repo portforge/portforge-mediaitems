@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xploder CD9000 Version 3.0 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xploder CD9000 Version 3.0 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi) (Unl).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "222bcafb39a06bfb6b1748c1c488710f",
+        "sha1": "efa059ce8bf9d679dea52cc08fb1bcf563beffa0",
+        "crc32": "d339e8e1"
+      }
+    },
+    {
+      "filename": "Xploder CD9000 Version 3.0 (Europe) (En,Fr,Es,It,Nl,Pt,Sv,No,Da,Fi) (Unl).bin",
+      "filesize": 7914480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b65909c996c9552c48e48a15bae228f9",
+        "sha1": "ec52e29339e46f8f1ea55cee3976a4d883d76a9f",
+        "crc32": "88d8162d"
+      }
+    }
+  ]
+}

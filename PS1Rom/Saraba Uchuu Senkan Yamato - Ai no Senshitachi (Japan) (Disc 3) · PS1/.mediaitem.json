@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "001849110c7ce10d51c974f03ab4e539",
+        "sha1": "883a4fae2ba1947ccd9a4a4f3525e1c9232ffc0a",
+        "crc32": "e3dcc5ab"
+      }
+    },
+    {
+      "filename": "Saraba Uchuu Senkan Yamato - Ai no Senshitachi (Japan) (Disc 3).bin",
+      "filesize": 581992992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fcb5036e25939621f8ecb962af7145c",
+        "sha1": "97711e99d92bbd1466ac54d4556684b9cd84234a",
+        "crc32": "e7282712"
+      }
+    }
+  ]
+}

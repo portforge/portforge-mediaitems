@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kimagure My Baby - Musume no Sugoroku Seichouki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kimagure My Baby - Musume no Sugoroku Seichouki (Japan).cue",
+      "filesize": 429,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3eb0beb44e3be7bf85cca6a429259688",
+        "sha1": "bf7939113932fc7f5d261289429a8cba343db91d",
+        "crc32": "086e1b16"
+      }
+    },
+    {
+      "filename": "Kimagure My Baby - Musume no Sugoroku Seichouki (Japan) (Track 1).bin",
+      "filesize": 680019648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b37200537dba4da99100043ff5006452",
+        "sha1": "5f097ed02e41f98684c6add22cfacc4bfb8b7aca",
+        "crc32": "36985b4e"
+      }
+    },
+    {
+      "filename": "Kimagure My Baby - Musume no Sugoroku Seichouki (Japan) (Track 2).bin",
+      "filesize": 29458800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7034aaba6b72bf48af2d7444e1ef8dc4",
+        "sha1": "a1f7bce33ec017de7e0fd2cf4f3b64a7c083da7e",
+        "crc32": "4c0d363a"
+      }
+    },
+    {
+      "filename": "Kimagure My Baby - Musume no Sugoroku Seichouki (Japan) (Track 3).bin",
+      "filesize": 15104544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c447dbe5e8ce243f908b71cf0be82cb7",
+        "sha1": "de881bf38c95f96e29a18ab1efd9363bfe3cfa36",
+        "crc32": "e442e0c7"
+      }
+    }
+  ]
+}

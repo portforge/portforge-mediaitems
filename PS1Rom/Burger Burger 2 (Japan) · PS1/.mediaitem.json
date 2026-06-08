@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Burger Burger 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Burger Burger 2 (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "270bfa942ee669b3498263672a294383",
+        "sha1": "0340e592a283e763577fcf24254966c2c2c5cce1",
+        "crc32": "e64fa56d"
+      }
+    },
+    {
+      "filename": "Burger Burger 2 (Japan).bin",
+      "filesize": 70966896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24179be2221063b122fc30b61296b37f",
+        "sha1": "3d9c8e110e0729a82898ec9d91e968a026925ad8",
+        "crc32": "43726213"
+      }
+    }
+  ]
+}

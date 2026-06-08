@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tetsuya Komuro - Gaball Screen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tetsuya Komuro - Gaball Screen (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd50be915066238cf52275d4b082aa28",
+        "sha1": "78f4d99883130ff78bfd2b24a47a3bc35004f4e9",
+        "crc32": "377cbc01"
+      }
+    },
+    {
+      "filename": "Tetsuya Komuro - Gaball Screen (Japan).bin",
+      "filesize": 578436768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "563ba473f08703b231431b9d39cad39b",
+        "sha1": "e73534c82f5f7e96eedef8268d6f9e5cff28c2d1",
+        "crc32": "001e2980"
+      }
+    }
+  ]
+}

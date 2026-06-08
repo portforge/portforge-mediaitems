@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Rugrats - Alla Ricerca di Reptar (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Rugrats - Alla Ricerca di Reptar (Italy).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e34434cad79a69344a3f9bc28919ebd",
+        "sha1": "e4279c90056e5427c66c45e229e1896c43b02d05",
+        "crc32": "cb2d891f"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats - Alla Ricerca di Reptar (Italy).bin",
+      "filesize": 554547504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db3a2ceca5cdb97f1b0e8b25c01209db",
+        "sha1": "94566a70f4c0302e9e14eb05d4626bf90b7bb183",
+        "crc32": "4d2b2d13"
+      }
+    }
+  ]
+}

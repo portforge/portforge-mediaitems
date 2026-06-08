@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Euro 2000 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Euro 2000 (Italy).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a99acdd775e6bb0766ab0dd3c2acbf51",
+        "sha1": "f8065179f387ee0bd8bbe2b80cef4658cb70fa3c",
+        "crc32": "44b7010c"
+      }
+    },
+    {
+      "filename": "UEFA Euro 2000 (Italy).bin",
+      "filesize": 436987488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3da7771cd94633acb5390efdb4702e6f",
+        "sha1": "09aaec62f897bd513d63e58fcfb5e00d8b87cdd3",
+        "crc32": "24f43635"
+      }
+    }
+  ]
+}

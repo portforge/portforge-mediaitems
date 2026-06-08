@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oddworld - Abe's Oddysee (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oddworld - Abe's Oddysee (USA) (Trade Demo).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d56285a79df5e2f28f668eee9b226308",
+        "sha1": "0578b74067753bd72c654f225249c7424eba5ebe",
+        "crc32": "3404a218"
+      }
+    },
+    {
+      "filename": "Oddworld - Abe's Oddysee (USA) (Trade Demo).bin",
+      "filesize": 702029664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea4ec79d8359182eeb0142bb6fe961c1",
+        "sha1": "d3a39e12bf1e9d0646b8a92343e10c2b89fa2846",
+        "crc32": "4b5ccac5"
+      }
+    }
+  ]
+}

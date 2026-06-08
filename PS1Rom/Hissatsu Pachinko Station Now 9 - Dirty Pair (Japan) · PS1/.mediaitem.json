@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Now 9 - Dirty Pair (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Now 9 - Dirty Pair (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6654bb1f7ee5249f817782f34912de0",
+        "sha1": "6edbb18771152b3ffd76896e78bb1411aab0b51e",
+        "crc32": "97b071ef"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 9 - Dirty Pair (Japan).bin",
+      "filesize": 63301728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da99825d8914b679a09857debb0507fd",
+        "sha1": "2ec2f0232deac5c2066c8cc4912a99f1d90be038",
+        "crc32": "c41f1562"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Demo 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Demo 1).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41eb03aa9d08685046d7fd84420f5694",
+        "sha1": "a5396e30863f32b9068414a4467469de03f59dcf",
+        "crc32": "99d8081a"
+      }
+    },
+    {
+      "filename": "Thoroughbred Breeder - Sekai Seiha-hen (Japan) (Demo 1).bin",
+      "filesize": 65317392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa2793a7bb33166c9618b217b7db2628",
+        "sha1": "b2988662f170ff82207ef0b1aef0fc27cfddef06",
+        "crc32": "850e4355"
+      }
+    }
+  ]
+}

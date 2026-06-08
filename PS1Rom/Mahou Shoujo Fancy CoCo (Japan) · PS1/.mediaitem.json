@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mahou Shoujo Fancy CoCo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mahou Shoujo Fancy CoCo (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1287920ddd3e4860289d1e002075068e",
+        "sha1": "49082b63cfd18c00fdca8349a4b9df4c1edbda4f",
+        "crc32": "ef6d42be"
+      }
+    },
+    {
+      "filename": "Mahou Shoujo Fancy CoCo (Japan).bin",
+      "filesize": 513385152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "772ba5afcdd15258e5b981ddacc470c2",
+        "sha1": "ff86777869514cd43d7dfecb34147f8dc3db3a3c",
+        "crc32": "cac60d97"
+      }
+    }
+  ]
+}

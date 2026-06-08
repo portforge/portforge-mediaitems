@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tales of Phantasia (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tales of Phantasia (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08deda9b66a5dfa6bc3d730497899648",
+        "sha1": "fbde065193ea038353499047072f21c76ce411c0",
+        "crc32": "24f5f1b3"
+      }
+    },
+    {
+      "filename": "Tales of Phantasia (Japan).bin",
+      "filesize": 612778320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "611940c88db0b48d87413bcf9e69cd2e",
+        "sha1": "7d182ea8ce547ad3b10229a5fae45fbcd27d950a",
+        "crc32": "407f6ad6"
+      }
+    }
+  ]
+}

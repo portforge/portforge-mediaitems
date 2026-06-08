@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo 2 - Music at the Speed of Sound - The Album (USA) (Bonus PlayStation Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo 2 - Music at the Speed of Sound - The Album (USA) (Bonus PlayStation Disc).cue",
+      "filesize": 525,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04ea42ab561f12bef769f8a532a2cf0d",
+        "sha1": "eb27e25f208a2ab621ae1be0cdb11f0de1541773",
+        "crc32": "e3f0f92d"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 - Music at the Speed of Sound - The Album (USA) (Bonus PlayStation Disc) (Track 1).bin",
+      "filesize": 451282944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a550ed0833c7b54a50a4373f9e3cf6ed",
+        "sha1": "c89a09033a94d850c06ec2bbaab89bfd0d5bdddc",
+        "crc32": "274e9102"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 - Music at the Speed of Sound - The Album (USA) (Bonus PlayStation Disc) (Track 2).bin",
+      "filesize": 56480928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29fea1d7509a006887411cbccf95149f",
+        "sha1": "309d3514419e50ce356db2ad53df5e37b829f75e",
+        "crc32": "0d9dca16"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 - Music at the Speed of Sound - The Album (USA) (Bonus PlayStation Disc) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

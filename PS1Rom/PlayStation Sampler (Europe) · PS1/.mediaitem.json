@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Sampler (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Sampler (Europe).cue",
+      "filesize": 348,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1c849e934b367e165bb08e25d0bdae5b",
+        "sha1": "75525b176663bceba7950ff96634833efffffe6e",
+        "crc32": "0917fe1c"
+      }
+    },
+    {
+      "filename": "PlayStation Sampler (Europe) (Track 1).bin",
+      "filesize": 139149024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ffd30561a7a2de0978522c7ddef036c",
+        "sha1": "81599c4262c405a2c234aadafc187e646dfac32c",
+        "crc32": "ada5b528"
+      }
+    },
+    {
+      "filename": "PlayStation Sampler (Europe) (Track 2).bin",
+      "filesize": 59265696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7dd6ef9220b49c2d7ce71ce95cf2d6d",
+        "sha1": "c9b9b1bdadd51d62dc9b9d08e4e250731baa7022",
+        "crc32": "56cc60a0"
+      }
+    },
+    {
+      "filename": "PlayStation Sampler (Europe) (Track 3).bin",
+      "filesize": 35174160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c1a2248fe9854d15f8217456285002",
+        "sha1": "e7996186776d4502e415dc69585c4319f7e624eb",
+        "crc32": "3048c3ee"
+      }
+    }
+  ]
+}

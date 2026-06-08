@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ginga Ojousama Densetsu Yuna - Final Edition (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ginga Ojousama Densetsu Yuna - Final Edition (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c21af65c597ac5a6c194400c1d5dbf2",
+        "sha1": "c413459054528057de97683f694f2459167c31c5",
+        "crc32": "92c441dd"
+      }
+    },
+    {
+      "filename": "Ginga Ojousama Densetsu Yuna - Final Edition (Japan).bin",
+      "filesize": 610433376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5779da816fa7dfe524117f00b7648e0",
+        "sha1": "aa739893d453c9cdbf740058db4e582eadea0d0c",
+        "crc32": "3ae39fd8"
+      }
+    }
+  ]
+}

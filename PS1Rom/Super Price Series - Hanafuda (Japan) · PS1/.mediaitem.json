@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Price Series - Hanafuda (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Price Series - Hanafuda (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b46982afbd66e8309bb7a50d356e0f50",
+        "sha1": "e90935c7e509d6202649c6f5cac4fc5b54f7bf25",
+        "crc32": "5a863f61"
+      }
+    },
+    {
+      "filename": "Super Price Series - Hanafuda (Japan).bin",
+      "filesize": 34927200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e751dbf627b9e010f04a923caa5740e3",
+        "sha1": "d1df00f419a494c7c250b0bc2f273a1959be69be",
+        "crc32": "24d58c66"
+      }
+    }
+  ]
+}

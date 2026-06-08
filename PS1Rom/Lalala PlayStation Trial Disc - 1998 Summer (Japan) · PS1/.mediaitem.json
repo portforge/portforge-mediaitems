@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lalala PlayStation Trial Disc - 1998 Summer (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lalala PlayStation Trial Disc - 1998 Summer (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbc074b1877fe0e11199cc5276de128a",
+        "sha1": "78d9686fe3365a51d4c1151e8b0d186e36dcda85",
+        "crc32": "8161f825"
+      }
+    },
+    {
+      "filename": "Lalala PlayStation Trial Disc - 1998 Summer (Japan).bin",
+      "filesize": 339203088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3346f07e0b6c832b167599b2e1b19adf",
+        "sha1": "bf01b578ef3d06ea67d38fd24bdda9d00c0636af",
+        "crc32": "0a2743e1"
+      }
+    }
+  ]
+}

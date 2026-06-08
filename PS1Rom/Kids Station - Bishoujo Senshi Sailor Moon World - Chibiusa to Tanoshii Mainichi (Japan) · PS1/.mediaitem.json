@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi (Japan).cue",
+      "filesize": 154,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbaccb5ac2696419bad3af175a234836",
+        "sha1": "69ec91db6fe6d9c35ea4dbd869a8130b26560ab7",
+        "crc32": "593a1de6"
+      }
+    },
+    {
+      "filename": "Kids Station - Bishoujo Senshi Sailor Moon World - Chibiusa to Tanoshii Mainichi (Japan).bin",
+      "filesize": 694743168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8139531badfd98eb6443918bf88e84ef",
+        "sha1": "98fda63c71ff3198ffe2e0081579c2cf6ded9332",
+        "crc32": "6efe1f3e"
+      }
+    }
+  ]
+}

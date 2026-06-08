@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Striker - World Cup Premiere Stage (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Striker - World Cup Premiere Stage (Japan).cue",
+      "filesize": 390,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9fdc520b38f3054c0f56a184af661373",
+        "sha1": "09262bde76d310a9227de3ff6c9ab55e88d25dca",
+        "crc32": "2d7a3217"
+      }
+    },
+    {
+      "filename": "Striker - World Cup Premiere Stage (Japan) (Track 1).bin",
+      "filesize": 67483584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32a8e5ec044b5fa1e1d0cdb39e4ef6bd",
+        "sha1": "cfb82f0cdbef4918f173fc64cb164c4b263b7984",
+        "crc32": "ffa092d9"
+      }
+    },
+    {
+      "filename": "Striker - World Cup Premiere Stage (Japan) (Track 2).bin",
+      "filesize": 305647104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c55667a5e9c8b7122f8b52743af6c267",
+        "sha1": "ac8d45891fde528ecc1227099c9b80a985cfa0b4",
+        "crc32": "ee728eea"
+      }
+    },
+    {
+      "filename": "Striker - World Cup Premiere Stage (Japan) (Track 3).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ecc8ec30542c5fae7d8a31e5d1b6e75",
+        "sha1": "ddf605aad53c844af620d9c2ac247db49668d0aa",
+        "crc32": "c5026e08"
+      }
+    }
+  ]
+}

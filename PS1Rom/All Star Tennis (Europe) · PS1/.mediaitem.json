@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "All Star Tennis (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "All Star Tennis (Europe).cue",
+      "filesize": 454,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dce5196768e25b39f7eb7c5a948bf235",
+        "sha1": "3a5cfba6ef569e4b31815c8059d8587ee1be4f8c",
+        "crc32": "724cfb24"
+      }
+    },
+    {
+      "filename": "All Star Tennis (Europe) (Track 1).bin",
+      "filesize": 2810640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "794446f1343ffc5502a10fff12047199",
+        "sha1": "acdc4b6525198b46c804b2746f64e8839e07ee2d",
+        "crc32": "2ca3725b"
+      }
+    },
+    {
+      "filename": "All Star Tennis (Europe) (Track 2).bin",
+      "filesize": 30895872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7c2232ebc898e3eb35a61401610a165",
+        "sha1": "510e48b04c732325d98644b0a4f9497a534dafdf",
+        "crc32": "675e322a"
+      }
+    },
+    {
+      "filename": "All Star Tennis (Europe) (Track 3).bin",
+      "filesize": 38325840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a361ace011e6f0755680324e8744e9c3",
+        "sha1": "ffeaca2c208e0e4a651cb91de1c33ef5342a53a6",
+        "crc32": "2e83aac2"
+      }
+    },
+    {
+      "filename": "All Star Tennis (Europe) (Track 4).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

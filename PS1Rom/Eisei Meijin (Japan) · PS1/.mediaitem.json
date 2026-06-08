@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eisei Meijin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eisei Meijin (Japan).cue",
+      "filesize": 780,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd1750dc7bc602182c9f76be58bc03ab",
+        "sha1": "9483f2d3deeaa342388f365c19a306dc0fa17ccf",
+        "crc32": "774ca5be"
+      }
+    },
+    {
+      "filename": "Eisei Meijin (Japan) (Track 1).bin",
+      "filesize": 24474912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "816cddcbf912a2cc2675c07d146e3446",
+        "sha1": "3b819622b636ae193eaebe4f7bcf5c3a7776524c",
+        "crc32": "03729e74"
+      }
+    },
+    {
+      "filename": "Eisei Meijin (Japan) (Track 2).bin",
+      "filesize": 14939904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24050e88175bd333d1e1e3c3cc19640d",
+        "sha1": "044bf0c8a82413619e5b9398f86351b23b520c09",
+        "crc32": "7c7519ff"
+      }
+    },
+    {
+      "filename": "Eisei Meijin (Japan) (Track 3).bin",
+      "filesize": 15509088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "527570dbac40e6c31f47b5183cdf1ad6",
+        "sha1": "21f59aa27d04c036e593635111814e7e85baa99b",
+        "crc32": "5412449b"
+      }
+    },
+    {
+      "filename": "Eisei Meijin (Japan) (Track 4).bin",
+      "filesize": 12376224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "805282e0e40f7b38b4e41a0cb878f775",
+        "sha1": "205ac4c89e39ca893447150f7f837ea172d210aa",
+        "crc32": "54a8dbad"
+      }
+    },
+    {
+      "filename": "Eisei Meijin (Japan) (Track 5).bin",
+      "filesize": 4334736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2de0ebef3580a0b941fcb5a2ce35a14d",
+        "sha1": "a93087febab54d1e614edd3fc25a48363c7fcada",
+        "crc32": "b0ce4932"
+      }
+    },
+    {
+      "filename": "Eisei Meijin (Japan) (Track 6).bin",
+      "filesize": 13474608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "889f04730a791a25aa0291bfd2fac152",
+        "sha1": "efcd10a728a3a027b231e4042038aac4e90c73fb",
+        "crc32": "80a66fb8"
+      }
+    },
+    {
+      "filename": "Eisei Meijin (Japan) (Track 7).bin",
+      "filesize": 10358208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f54bbf68ffbd6e8846f53bcc27b67609",
+        "sha1": "d5142fa7db2b7903cd6c1f5a7f09c40b859827e6",
+        "crc32": "ee00aeb8"
+      }
+    }
+  ]
+}

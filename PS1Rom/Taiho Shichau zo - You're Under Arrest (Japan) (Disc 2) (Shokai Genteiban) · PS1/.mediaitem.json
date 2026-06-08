@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Taiho Shichau zo - You're Under Arrest (Japan) (Disc 2) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Taiho Shichau zo - You're Under Arrest (Japan) (Disc 2) (Shokai Genteiban).cue",
+      "filesize": 140,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b50d61fc9e922062fe390885aa36835",
+        "sha1": "ddbb4032d87cdeda133f1386b77fa4b5055d7861",
+        "crc32": "30e4cdbb"
+      }
+    },
+    {
+      "filename": "Taiho Shichau zo - You're Under Arrest (Japan) (Disc 2) (Shokai Genteiban).bin",
+      "filesize": 684396720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17d84ffe3489a74a060a6e1048454140",
+        "sha1": "1dc596ce20a18d819458cebaa1bd31fea47865f4",
+        "crc32": "96cbe314"
+      }
+    }
+  ]
+}

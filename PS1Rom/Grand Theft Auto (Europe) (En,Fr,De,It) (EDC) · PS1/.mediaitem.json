@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC).cue",
+      "filesize": 1522,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c8e615535d17e620a42e76401763920",
+        "sha1": "60abb711a4e0e877691d1d5515095daf5e2d2ea5",
+        "crc32": "894cb86d"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 01).bin",
+      "filesize": 93873024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "497b4a4ab1488456804ba6fdca91828e",
+        "sha1": "1ed30c16b3278af68a0ebcc76abbafbf0b5b3761",
+        "crc32": "4bd3d587"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 02).bin",
+      "filesize": 24484320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5053b47b4f8551d48ce4724181fba0f2",
+        "sha1": "23449110aa9c08e6379d26cb71e4ccc4ddbff569",
+        "crc32": "ced2c700"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 03).bin",
+      "filesize": 78782592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3dac0a1dd4656131d3ed8cd910baafb",
+        "sha1": "4063ea718e6cb2c0c3a2617a34b71628d37522d2",
+        "crc32": "08b6f757"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 04).bin",
+      "filesize": 102808272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cc1cf8edc2a0b93af09fd94f2f53d8a",
+        "sha1": "35d2bc215f9dc77affda3169ba9f54ee90004dc2",
+        "crc32": "779d8dbf"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 05).bin",
+      "filesize": 101973312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "148b86ad520d60e83cd3ae93cf7523ef",
+        "sha1": "ab15027f0342ec1ccedcfe8c0c6a003465879fc6",
+        "crc32": "4195930c"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 06).bin",
+      "filesize": 79770432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49f710f18918ec7e8fb50d9b3cb90a7b",
+        "sha1": "517da1e599babbf9f6ea9288b26ad93db32f55a1",
+        "crc32": "2cbecc0b"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 07).bin",
+      "filesize": 116449872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "351ffc08b3f900b57c1cdbf363415a2f",
+        "sha1": "4aeac56b98492b7c5b0f73c7ba45505d51e43761",
+        "crc32": "0b165ed2"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 08).bin",
+      "filesize": 34012272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dadab4dc8070c52cbaca7a09a16ce2c0",
+        "sha1": "93d7913ba12fac8fd76b425f5e3f10ec914dcf4a",
+        "crc32": "72a1bc72"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 09).bin",
+      "filesize": 13013616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ce00751704a48496455d521c82671f8",
+        "sha1": "2882348adc69343ab591d228ef2be09234d1ab34",
+        "crc32": "a67bbe66"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 10).bin",
+      "filesize": 11026176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1271e284ed8c1daf5a2ae06c888324b9",
+        "sha1": "44e06949ab45dfd4662c8fa25d54497abef77675",
+        "crc32": "7172e21e"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (Europe) (En,Fr,De,It) (EDC) (Track 11).bin",
+      "filesize": 92835792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05c106d0fe26e4f8625372cc2fd000e3",
+        "sha1": "761700576a7ee38d878626dc7d683ddf2eac053e",
+        "crc32": "ca82d09e"
+      }
+    }
+  ]
+}

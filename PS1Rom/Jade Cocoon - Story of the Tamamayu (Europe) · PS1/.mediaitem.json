@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jade Cocoon - Story of the Tamamayu (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jade Cocoon - Story of the Tamamayu (Europe).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c55327aa9d44a284d0495c9cf0b0146f",
+        "sha1": "e868b8534e344074e162c1353cdf70cdc71a3f7c",
+        "crc32": "12427f08"
+      }
+    },
+    {
+      "filename": "Jade Cocoon - Story of the Tamamayu (Europe).bin",
+      "filesize": 657776784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da8d03299529a1f75ebd154bcfbb8c27",
+        "sha1": "1d9bd05cb3bbb6a499886f4f4dd248c97ca30b45",
+        "crc32": "a58ff978"
+      }
+    }
+  ]
+}

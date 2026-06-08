@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Randevu s neznakomkoj 3 - Kurortnyj roman (Russia) (Disc 1) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Randevu s neznakomkoj 3 - Kurortnyj roman (Russia) (Disc 1) (Unl).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a82a83931fb47cdd97f7ba9a2fac3d1f",
+        "sha1": "8c541ba02eecfe9c8f580fa12bd23e8efde908c6",
+        "crc32": "60debca1"
+      }
+    },
+    {
+      "filename": "Randevu s neznakomkoj 3 - Kurortnyj roman (Russia) (Disc 1) (Unl).bin",
+      "filesize": 757475712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c12d8d6f158c4de2cf230b43b5a6ba39",
+        "sha1": "5dc81aeb0becd8348cb2cb02cb7162451645a59a",
+        "crc32": "d0c5a72f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chou Nazo-ou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chou Nazo-ou (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f26cb81bc53b5418c4ea80778dd94fee",
+        "sha1": "fe139fcd0b5448e7fac41f7fa551199587526edc",
+        "crc32": "52b2a5b8"
+      }
+    },
+    {
+      "filename": "Chou Nazo-ou (Japan).bin",
+      "filesize": 718286688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "473ed8ca58301a0b9cba5149bb4b80b6",
+        "sha1": "9af4c755c12d1ec23adb14e27130231c82d73f27",
+        "crc32": "d0899e46"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Shot Soccer (Korea)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Shot Soccer (Korea).cue",
+      "filesize": 815,
+      "ext": "cue",
+      "checksums": {
+        "md5": "631f79b6752516888176cab9cc33e81b",
+        "sha1": "0b30b6397b8081566ce3366bab61a456b9d09ad5",
+        "crc32": "0dc484b0"
+      }
+    },
+    {
+      "filename": "Super Shot Soccer (Korea) (Track 1).bin",
+      "filesize": 333346608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c92d96df55977efec424a2ccb1d7664",
+        "sha1": "688fbfa2741a52e224a79c668bbab75c6d6e9c31",
+        "crc32": "925b4e13"
+      }
+    },
+    {
+      "filename": "Super Shot Soccer (Korea) (Track 2).bin",
+      "filesize": 6115200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1b5990e89897d297ba470cdb3a7bb97",
+        "sha1": "5cb441a0456eef545872173e2e85147bfd748cf0",
+        "crc32": "4957ce7e"
+      }
+    },
+    {
+      "filename": "Super Shot Soccer (Korea) (Track 3).bin",
+      "filesize": 16240560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28f5fdf0d6692b89153cd89c4587a11e",
+        "sha1": "dd5b12c430da842a77b58f69ac0e89040cbbea5a",
+        "crc32": "e7acc14d"
+      }
+    },
+    {
+      "filename": "Super Shot Soccer (Korea) (Track 4).bin",
+      "filesize": 12068112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6b8ad188a53044f22bbef87576731e9",
+        "sha1": "f2169f69efcf92e0da20b0f3030da1cadf919bfe",
+        "crc32": "25a7b1d7"
+      }
+    },
+    {
+      "filename": "Super Shot Soccer (Korea) (Track 5).bin",
+      "filesize": 19232304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d442058f38b2fe1530c58e61f511caca",
+        "sha1": "29ad396bc7e6e3d8f48535b102680b5022211ac1",
+        "crc32": "2d182a14"
+      }
+    },
+    {
+      "filename": "Super Shot Soccer (Korea) (Track 6).bin",
+      "filesize": 4360608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc6cd90015f483653508b33f55b71a51",
+        "sha1": "badcf7a7231db816206b1852d2a15be364d99f5d",
+        "crc32": "5171b26b"
+      }
+    },
+    {
+      "filename": "Super Shot Soccer (Korea) (Track 7).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

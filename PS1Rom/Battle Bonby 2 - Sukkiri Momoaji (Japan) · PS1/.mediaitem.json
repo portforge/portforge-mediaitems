@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Bonby 2 - Sukkiri Momoaji (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Bonby 2 - Sukkiri Momoaji (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "271c36e8276252fc670633d3da18a782",
+        "sha1": "10c1be727baeaac6f39850c0c55ea4600ae92629",
+        "crc32": "1682018c"
+      }
+    },
+    {
+      "filename": "Battle Bonby 2 - Sukkiri Momoaji (Japan).bin",
+      "filesize": 40165104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a20660ecafaae1f3e36e856a7c9704c8",
+        "sha1": "88bda7eb4f12341e887b2ddc49a6a8388601a056",
+        "crc32": "7fb2a283"
+      }
+    }
+  ]
+}

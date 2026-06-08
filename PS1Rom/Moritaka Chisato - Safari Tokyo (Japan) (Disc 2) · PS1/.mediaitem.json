@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Moritaka Chisato - Safari Tokyo (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Moritaka Chisato - Safari Tokyo (Japan) (Disc 2).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "55c4d4b5055d3090d4073a739faf4651",
+        "sha1": "b7dcba7b263df6712a460ae1fb50ac282fd8292a",
+        "crc32": "25087d05"
+      }
+    },
+    {
+      "filename": "Moritaka Chisato - Safari Tokyo (Japan) (Disc 2).bin",
+      "filesize": 625163952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93005cca7730b49565d9a9996637b7f6",
+        "sha1": "d13494c9f00a368988fc9cd4e2c013fc404624a7",
+        "crc32": "22ac9016"
+      }
+    }
+  ]
+}

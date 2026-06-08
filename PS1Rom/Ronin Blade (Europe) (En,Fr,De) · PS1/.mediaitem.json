@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ronin Blade (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ronin Blade (Europe) (En,Fr,De).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6ae70c0d2899a5b2fada88e8f0789c4",
+        "sha1": "3a8d7cc17674d767b371a1e1df506e8b5a0516bc",
+        "crc32": "a078c3ee"
+      }
+    },
+    {
+      "filename": "Ronin Blade (Europe) (En,Fr,De).bin",
+      "filesize": 626036544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43502da1fed663949528b958e2ac5c19",
+        "sha1": "9c194a4540bbb3092ffcf636d9f16ef422efe1cf",
+        "crc32": "1cda0ce5"
+      }
+    }
+  ]
+}

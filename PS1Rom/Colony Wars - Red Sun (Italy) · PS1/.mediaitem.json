@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars - Red Sun (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars - Red Sun (Italy).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "af5138c0c20178a5606b694ff7893b90",
+        "sha1": "7f748dc7b2ad9e4a6f2da606a64ed323d93a0ef9",
+        "crc32": "59423cdd"
+      }
+    },
+    {
+      "filename": "Colony Wars - Red Sun (Italy).bin",
+      "filesize": 697443264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0ac9ea66e6f342eb6072b4045b44ab0",
+        "sha1": "eb90c141992376c1a33e8bbe2ae7d15f27fca097",
+        "crc32": "64f20378"
+      }
+    }
+  ]
+}

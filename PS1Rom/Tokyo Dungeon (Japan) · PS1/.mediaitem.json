@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Dungeon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Dungeon (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "25515b9fcd23102e920387aa3a8a6120",
+        "sha1": "6b8b67ec5382992638e2c9420b3afa4aef20ece4",
+        "crc32": "95284b68"
+      }
+    },
+    {
+      "filename": "Tokyo Dungeon (Japan).bin",
+      "filesize": 576592800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39d728c3d9c456dcb1c0c84d1ec36799",
+        "sha1": "c9f0f091e0db16a3fbdd47e7b972763a514f8d81",
+        "crc32": "ddb2a487"
+      }
+    }
+  ]
+}

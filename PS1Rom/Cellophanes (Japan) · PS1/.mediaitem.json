@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cellophanes (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cellophanes (Japan).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3620f6709a223f153865c8f6da451656",
+        "sha1": "5781898f9a8af12eb0df500b3870d1976f754631",
+        "crc32": "5e6dec96"
+      }
+    },
+    {
+      "filename": "Cellophanes (Japan) (Track 1).bin",
+      "filesize": 130324320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d80a0f4997e2ca825ac64a4ff2f35dc7",
+        "sha1": "9f849766cba44a82fed321293c011757c2b6e0c0",
+        "crc32": "7f710a77"
+      }
+    },
+    {
+      "filename": "Cellophanes (Japan) (Track 2).bin",
+      "filesize": 32457600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec466952ebaf452c16abec91a7286c4f",
+        "sha1": "c03dc65803398b4243d4d5b4349218a88a5d8231",
+        "crc32": "f9d3e278"
+      }
+    }
+  ]
+}

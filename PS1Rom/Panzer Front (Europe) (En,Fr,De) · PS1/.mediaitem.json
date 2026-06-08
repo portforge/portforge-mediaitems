@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Panzer Front (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Panzer Front (Europe) (En,Fr,De).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2a665d54aece397e909390d63a26819",
+        "sha1": "decaf6ab02a7e1cce54956986fbd40d415ef9f07",
+        "crc32": "7c845326"
+      }
+    },
+    {
+      "filename": "Panzer Front (Europe) (En,Fr,De).bin",
+      "filesize": 345720480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1b3f032a4c1c51bc7c32aa5b715887c",
+        "sha1": "bbe3d74a1005690f1298a22bfa3d0d33de3dd733",
+        "crc32": "3aa77c7f"
+      }
+    }
+  ]
+}

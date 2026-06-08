@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Utauta Woo - Seirei-Songs (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Utauta Woo - Seirei-Songs (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85a6d7e128a4d55b78bb86156b7ca022",
+        "sha1": "da16400046ac0d705e18b13efaaefcb0d6f5abde",
+        "crc32": "d9ff845f"
+      }
+    },
+    {
+      "filename": "Utauta Woo - Seirei-Songs (Japan).bin",
+      "filesize": 723717456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b49a9915869b6d26757a0656ea07b23d",
+        "sha1": "bf1f5b3f2258b1be1d61c352f2839a47664ff6f8",
+        "crc32": "4639a53f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cleopatra's Fortune (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cleopatra's Fortune (USA).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cd145f1c695fe62643c737f5c7c3c823",
+        "sha1": "3e0544cd779da5f8315cc9eee5f165f088723210",
+        "crc32": "d6aae65e"
+      }
+    },
+    {
+      "filename": "Cleopatra's Fortune (USA) (Track 1).bin",
+      "filesize": 158828208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6cdce7e1c60c3a36084b96da44ba04ac",
+        "sha1": "e2fc002d1d155b325d3b66bc79b46e66a01f0c97",
+        "crc32": "edba9cc9"
+      }
+    },
+    {
+      "filename": "Cleopatra's Fortune (USA) (Track 2).bin",
+      "filesize": 32302368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afadcd27514f92953a2a00448cab31a4",
+        "sha1": "461cd8a7f61a6b36745fd827ffe8696dd75ad742",
+        "crc32": "e6ce5ea3"
+      }
+    }
+  ]
+}

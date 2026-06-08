@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you) (Nescafe-ban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you) (Nescafe-ban).cue",
+      "filesize": 306,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68cb285971664cfc3e68ec9d01a79f23",
+        "sha1": "677c31338f6ce9c7688828c25f9acd8fc327f755",
+        "crc32": "cfb40643"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you) (Nescafe-ban) (Track 1).bin",
+      "filesize": 402533040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f828cf0c8a235fb9808759902db2e3c",
+        "sha1": "6b7261b0ba906de0060ea86ce2de6631c08e0ac2",
+        "crc32": "a3e20e58"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you) (Nescafe-ban) (Track 2).bin",
+      "filesize": 42978096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12afa7cf4f33fd21d88b7c3bbfbcb8b8",
+        "sha1": "ed1839d0a92a6b723085511ff8379599e94579b6",
+        "crc32": "598f81ca"
+      }
+    }
+  ]
+}

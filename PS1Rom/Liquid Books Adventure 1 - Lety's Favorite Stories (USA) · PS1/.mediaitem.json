@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Liquid Books Adventure 1 - Lety's Favorite Stories (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Liquid Books Adventure 1 - Lety's Favorite Stories (USA).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b842b6b7505be01414484fe7ab54257",
+        "sha1": "bf85d8861d73f96eea6788be19ffd2b2c14c5e24",
+        "crc32": "082bca24"
+      }
+    },
+    {
+      "filename": "Liquid Books Adventure 1 - Lety's Favorite Stories (USA).bin",
+      "filesize": 274334928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "260160818aef559e54e971c40d9b8687",
+        "sha1": "324d1006305e83a343ee0406513fbad75ec55c3e",
+        "crc32": "5ffe0e6e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC).cue",
+      "filesize": 1467,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2105b80312804c03629694ee640ecddf",
+        "sha1": "903ac3a7d053bd2cf7cd82af9e00134d34c901b1",
+        "crc32": "8803108a"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 01).bin",
+      "filesize": 115400880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6e0a2ea2d0db472842aa5b77fa0b4ac",
+        "sha1": "7fb9cba99924ea8a792976dd2917595899c2fea0",
+        "crc32": "5c9aee59"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 02).bin",
+      "filesize": 23496480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f43f98f089df6e8df97bdffba28c6fc1",
+        "sha1": "b83e1e47267c1b40f3adf5ad9ed7587cf92f788e",
+        "crc32": "5cc6a4a1"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 03).bin",
+      "filesize": 47458656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b56521df1c2bdf6c7ffc139ff912b3a",
+        "sha1": "4cb2aaed471814c463e461ac76efd4cd5acb3de6",
+        "crc32": "c83cec44"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 04).bin",
+      "filesize": 49497840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ce21b75d0b0399b998f57482d624f1d",
+        "sha1": "5769c64316bab8e73645a672b206396b2f062498",
+        "crc32": "ad705ae0"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 05).bin",
+      "filesize": 49537824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff73c69867e47c4ae48ddef9c01fd85e",
+        "sha1": "c173bae5aa4e1503c22cff8eab7633097a0ddbac",
+        "crc32": "bae08ec3"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 06).bin",
+      "filesize": 48867504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd6f07423cae195d739e7263a2224021",
+        "sha1": "115bc22095a45c5cfa55bee5ef42e1050bcc6dc4",
+        "crc32": "84b99868"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 07).bin",
+      "filesize": 41411664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b8a0eb1fc2e96ad50bb14e3bc154e0",
+        "sha1": "9889c9abe2fa3b747c9f719d1104205c8594f1e6",
+        "crc32": "5f642288"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 08).bin",
+      "filesize": 48206592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dca41145cca349125ae83bd09bd94e4c",
+        "sha1": "bf512055d5616f9bc72c2946bd9ac6263cb5db6a",
+        "crc32": "c2c04ef1"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 09).bin",
+      "filesize": 42891072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5bc455f35b9d666f61b2256e6d364c0",
+        "sha1": "f7b1915b83a671d9505cf059e1891285611bb31a",
+        "crc32": "22c7b694"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 10).bin",
+      "filesize": 49707168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "246683c21545f38a53a56d615b945a2a",
+        "sha1": "c4727c1b605128703158f87fdf17cc9973a6cf29",
+        "crc32": "425f4009"
+      }
+    },
+    {
+      "filename": "Buggy (Europe) (En,Fr,De,Es,It,Pt) (EDC) (Track 11).bin",
+      "filesize": 47809104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfa35ebc8ad235111f08d164e4ee5dad",
+        "sha1": "2b3b83d027901bb1e02c39a4cacb083f8dd62059",
+        "crc32": "decdc33d"
+      }
+    }
+  ]
+}

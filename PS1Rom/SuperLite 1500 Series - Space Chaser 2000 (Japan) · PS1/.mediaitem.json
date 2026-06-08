@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Space Chaser 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Space Chaser 2000 (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fcd271dcc66f914cf8490b362c0c56c",
+        "sha1": "b0e4c020dc71c0ae901f19b3b6deae32f4da2ef4",
+        "crc32": "50af363a"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Space Chaser 2000 (Japan).bin",
+      "filesize": 75271056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dd027f93fdae209c1210163b42bf31c",
+        "sha1": "cec504a854670077c1cc3927ca35253a669a70ad",
+        "crc32": "6d0b5764"
+      }
+    }
+  ]
+}

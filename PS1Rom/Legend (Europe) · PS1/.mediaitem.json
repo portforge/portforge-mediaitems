@@ -1,0 +1,247 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend (Europe).cue",
+      "filesize": 2512,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86912d080316af19858e02ea6d584a89",
+        "sha1": "e1e63e154eaf5fd7a618bf3b5161f47d965eec93",
+        "crc32": "bdb97d89"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 01).bin",
+      "filesize": 55293168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b3eab9d57675782c88e5fd5ddbca1ec",
+        "sha1": "549a95a372de9d3092aade21b06c3b31e73b3b7f",
+        "crc32": "e0393bd2"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 02).bin",
+      "filesize": 48787536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c35e118b393622a3f7c8a6ff2370c2b",
+        "sha1": "f6342a50e3a3397acbb7677484e019d1d7cc788f",
+        "crc32": "37f6a797"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 03).bin",
+      "filesize": 41642160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "993d920896c08975d9f343c0c5192601",
+        "sha1": "174d1eead9aab42b24afb9c155d4dabdf7e0900a",
+        "crc32": "a80a77c7"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 04).bin",
+      "filesize": 19044144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5b416375a0ab0d27683d5ee6fe349d6",
+        "sha1": "9f9ac2b116685b336d857983a02656b886e2cf99",
+        "crc32": "ea79f36d"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 05).bin",
+      "filesize": 17964576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c0d5b7798be9774f9079a467542cd68",
+        "sha1": "a1555fb1f21edf64c28d81268715819d590948ff",
+        "crc32": "149d2bfc"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 06).bin",
+      "filesize": 49624848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9d9779ad4d42440f13415d79103a112",
+        "sha1": "759ff12742ea7dda1731c7661cf45c99a895abb1",
+        "crc32": "4826d8b8"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 07).bin",
+      "filesize": 1514688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bef34c2988afcf375ddadcd64925ab5",
+        "sha1": "273329193c92208575d5b7125efbf97af95616f1",
+        "crc32": "7e6dc862"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 08).bin",
+      "filesize": 13034784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f07bbef7f819019e650e96cc3a177d5",
+        "sha1": "8d34efe05aba4f25a21fc519111c063bc83f5017",
+        "crc32": "dc71ffe8"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 09).bin",
+      "filesize": 21342048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46eeeb53e0845ef6d59cf149fa4c236b",
+        "sha1": "34303b89cf1018c5510f58a273d44ea52680822c",
+        "crc32": "85b680bc"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 10).bin",
+      "filesize": 50709120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1356182f7f35027d4f60ea7ffd7368d1",
+        "sha1": "fe15a8dfc35c8a83c99af641c983f702bf688aab",
+        "crc32": "76443eae"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 11).bin",
+      "filesize": 16405200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb2e110d62cb1ea080b9a76abe3a8f55",
+        "sha1": "cd6ce68622847f29e72f6be856d8b5b26bcf64d6",
+        "crc32": "18bff513"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 12).bin",
+      "filesize": 39292512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4d9f99608a9d01560a991e7efcf28e5",
+        "sha1": "a15ee30df466f49071bf6ff987ff0c13aba82675",
+        "crc32": "aeb59c98"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 13).bin",
+      "filesize": 9572640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46bd9213305eef14624b218e42f6373e",
+        "sha1": "a39bb93c9926e789d0715f70b15cb2589a79e93d",
+        "crc32": "7df68113"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 14).bin",
+      "filesize": 10997952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e7ccbd63efce75bebafc1c8e65fcc11",
+        "sha1": "84cf9e974b974be2b7208a771cc300bfcdaa35ac",
+        "crc32": "fc978eeb"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 15).bin",
+      "filesize": 14911680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bb7a74995d4e2c5f6cdcc5c03deaf4a",
+        "sha1": "194e6ff21565b65e28779d82deaeca65a1a83526",
+        "crc32": "6673b43a"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 16).bin",
+      "filesize": 1794576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fb1b9ba08148caef09805958a5647e3",
+        "sha1": "cb76efd17ea8daa5a09451811dcb4b232b516ccf",
+        "crc32": "2b63fb94"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 17).bin",
+      "filesize": 1978032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fc8dd08f1f0573def1db591fea0a18a",
+        "sha1": "8368fe5cc1c19cf50c4625fa3d9c8ed1d5c2cae3",
+        "crc32": "623dd237"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 18).bin",
+      "filesize": 1251264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cb39535863b4e37c358179a28d4dcf6",
+        "sha1": "362c176e4d33233f83a361d08ec87eabf8eca707",
+        "crc32": "a6916e41"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 19).bin",
+      "filesize": 3318672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0252ad00410ba4f26cd951cc899cbe83",
+        "sha1": "9b6942e1a89d21aff2f13f22737cfdeb70900288",
+        "crc32": "ace2efc8"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 20).bin",
+      "filesize": 2269680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38b50be7c95c912e63fa3a252dcfe659",
+        "sha1": "3f3889f2e06df0525dc68f0161435c567f7c6ffa",
+        "crc32": "73b5fa2c"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 21).bin",
+      "filesize": 2288496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b6788dece73df0aa46dd9e4987000c4",
+        "sha1": "e7abab7d819a15e406343561ef7a4c00ad56dda7",
+        "crc32": "2dab93e3"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 22).bin",
+      "filesize": 51315936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce164daa96007c4e3c103d877002a064",
+        "sha1": "a87942cfc4077813e128959dd5118cc8443897d4",
+        "crc32": "dbcf9617"
+      }
+    },
+    {
+      "filename": "Legend (Europe) (Track 23).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

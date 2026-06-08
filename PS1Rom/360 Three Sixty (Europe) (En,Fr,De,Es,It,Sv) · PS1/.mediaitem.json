@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv).cue",
+      "filesize": 1650,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df37151bef1912046ef03359f131990f",
+        "sha1": "d5600354087e3450e4f34a17e1d4bdef48d651d4",
+        "crc32": "22776432"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 01).bin",
+      "filesize": 134614368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14335238949a9b429c635723a49d7874",
+        "sha1": "d51c0770843bff52b19f72b380dc3f6ac0dd9fef",
+        "crc32": "6a9fe576"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 02).bin",
+      "filesize": 60220608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f98826f4cc22ed80dc83d06329eb9bb7",
+        "sha1": "e036c959a5a9a453343121957047045e3a4add21",
+        "crc32": "fc58373a"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 03).bin",
+      "filesize": 28859040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4213086843577f7f562940d898ff3c1b",
+        "sha1": "ee24277895159c9a9a0091819c6845d1c1c3eee5",
+        "crc32": "6b4fc4cf"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 04).bin",
+      "filesize": 33398400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01867094202897fa1f67273a9aaec802",
+        "sha1": "54e3ee734e041c2a498f3e34e1265ff45288f59e",
+        "crc32": "422bbc45"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 05).bin",
+      "filesize": 37319184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da02ffef927771ccf0c7077f3fbd6fd2",
+        "sha1": "348e3ed2215e60a5f3d447854971c8c85a8ef169",
+        "crc32": "18515beb"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 06).bin",
+      "filesize": 32695152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba81b6b154b26d5851c93743f2fc66ae",
+        "sha1": "2d0c2d597cb8e04b37e16645bc6d6b4d08ea1e8a",
+        "crc32": "54ee6993"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 07).bin",
+      "filesize": 33059712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fabbb1e692e03de6e659bfa79653fbc",
+        "sha1": "251ada5ae538eea0ab26cd502162fee9a2c15a7e",
+        "crc32": "3ced198e"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 08).bin",
+      "filesize": 37368576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "368d664d7b74d65c7f6e26619c054b2b",
+        "sha1": "199de59e4bea1912241907d8434ade5a0f320fb4",
+        "crc32": "c8704f19"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 09).bin",
+      "filesize": 26128368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "287069a1b41900afd7f57e660fd78251",
+        "sha1": "99e665561941d3fcce56968d88b4759b783b850a",
+        "crc32": "6d5b596c"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 10).bin",
+      "filesize": 41945568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f4d9bb8e44aba51c052ebe415f8013b",
+        "sha1": "458e5425a034033e1caefdfcf9ff33ccd536b2ea",
+        "crc32": "049a1f91"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 11).bin",
+      "filesize": 52774176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a76184f49b999056fee2c844b25444e2",
+        "sha1": "f3cf963760795be3e66b6dbbf1fea5ae9a43df08",
+        "crc32": "51409a8a"
+      }
+    },
+    {
+      "filename": "360 Three Sixty (Europe) (En,Fr,De,Es,It,Sv) (Track 12).bin",
+      "filesize": 32335296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2974200696fd3edc500b2d5838a6797b",
+        "sha1": "8a29ee4590fe2e4dfadf0fcba7f48afa38e2b101",
+        "crc32": "14770d2e"
+      }
+    }
+  ]
+}

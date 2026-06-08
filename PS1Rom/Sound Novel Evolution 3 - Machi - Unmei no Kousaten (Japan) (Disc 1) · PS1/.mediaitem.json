@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sound Novel Evolution 3 - Machi - Unmei no Kousaten (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sound Novel Evolution 3 - Machi - Unmei no Kousaten (Japan) (Disc 1).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "377beb714e190e09fee77035ff1a7c66",
+        "sha1": "c41ffbd040248836d55fdc56a16a829225b7eab5",
+        "crc32": "7e883a04"
+      }
+    },
+    {
+      "filename": "Sound Novel Evolution 3 - Machi - Unmei no Kousaten (Japan) (Disc 1).bin",
+      "filesize": 700305648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "703c473bd499b5e10e4906c92ce0d6b4",
+        "sha1": "b8d1b75c7a56f6fde72d0f886077fa027c0738c6",
+        "crc32": "2316e14e"
+      }
+    }
+  ]
+}

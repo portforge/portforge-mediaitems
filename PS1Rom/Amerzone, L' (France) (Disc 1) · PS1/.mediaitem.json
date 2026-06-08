@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Amerzone, L' (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Amerzone, L' (France) (Disc 1).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01ff04ec62b5ded1f342faddec96294f",
+        "sha1": "3a1533f7da042fa79cca5b0b337670cea4d3001e",
+        "crc32": "c767edbb"
+      }
+    },
+    {
+      "filename": "Amerzone, L' (France) (Disc 1).bin",
+      "filesize": 688301040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "241b9c65789b5ed717c3e6c8788f00f8",
+        "sha1": "f96b2a612ba4c6cf4c21fcc0d2c1d62947c2b8a6",
+        "crc32": "cb3a508c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gamera 2000 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gamera 2000 (Japan) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "969a3b907e4abef66d59c386fbe1473b",
+        "sha1": "453e82f570dd29fa41d803520ab9c1afabfd1a21",
+        "crc32": "fc5cf632"
+      }
+    },
+    {
+      "filename": "Gamera 2000 (Japan) (Demo).bin",
+      "filesize": 252522480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "187c4937b6de97df70871764ed5d0fad",
+        "sha1": "6b790444c83cf0462079162911f171e52ad7dfd7",
+        "crc32": "6d0a2968"
+      }
+    }
+  ]
+}

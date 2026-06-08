@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Square's Preview 3 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Square's Preview 3 (Japan, Asia).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "63674c445c4cf71e3258ce172b496c75",
+        "sha1": "054c20fcd258c6b8595417b966b7923254c94cde",
+        "crc32": "1dcc4856"
+      }
+    },
+    {
+      "filename": "Square's Preview 3 (Japan, Asia).bin",
+      "filesize": 342077232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "237757e474c2abc1d9b068cf801bcc97",
+        "sha1": "c2f5382782f9244fce32afda13a7a07a402e5975",
+        "crc32": "434228d9"
+      }
+    }
+  ]
+}

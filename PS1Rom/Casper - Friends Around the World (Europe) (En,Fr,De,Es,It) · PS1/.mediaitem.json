@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Casper - Friends Around the World (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Casper - Friends Around the World (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d47e8c733f277b8dceb99f97eb8b9ee",
+        "sha1": "afcba4fd3526a95d1a061e6035a5dc0cc964add1",
+        "crc32": "986b1992"
+      }
+    },
+    {
+      "filename": "Casper - Friends Around the World (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 682900848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8730f66cb1893603f28e68520f16dac0",
+        "sha1": "353525d540901cab7e495b58a4d11d8486dc1b10",
+        "crc32": "5fcb11b9"
+      }
+    }
+  ]
+}

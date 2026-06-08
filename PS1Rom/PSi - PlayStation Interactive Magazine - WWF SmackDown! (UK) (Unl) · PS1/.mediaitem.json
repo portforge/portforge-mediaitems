@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi - PlayStation Interactive Magazine - WWF SmackDown! (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi - PlayStation Interactive Magazine - WWF SmackDown! (UK) (Unl).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d61b77ac9c6584bcf518e27920ce9c0c",
+        "sha1": "e1a1b688f7b035c472731a82c1d287c99391c71f",
+        "crc32": "a8f7bdf5"
+      }
+    },
+    {
+      "filename": "PSi - PlayStation Interactive Magazine - WWF SmackDown! (UK) (Unl).bin",
+      "filesize": 598043040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d030d21bc66483ae3dfcee95117d68b",
+        "sha1": "4ae19151d8a144d742da42964f4065af21876d24",
+        "crc32": "24de16af"
+      }
+    }
+  ]
+}

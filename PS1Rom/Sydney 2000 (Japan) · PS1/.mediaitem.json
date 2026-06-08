@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sydney 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sydney 2000 (Japan).cue",
+      "filesize": 1122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18782d9dc15d6f96d60f76b3a0cd4e38",
+        "sha1": "3fb16098e317caf867e5bb0d8643f5820a9fba08",
+        "crc32": "f336ef39"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 01).bin",
+      "filesize": 413469840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abde25044f320e2013c62d1f1086a200",
+        "sha1": "a669bd3aaa59672cc2cb70872558d971f3fdb6e5",
+        "crc32": "60d7e203"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 02).bin",
+      "filesize": 35185920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "842e8b57e6ccc5e54cba6abc03490305",
+        "sha1": "02ddac0a0d380ec39a4e8917348970e2aedbd467",
+        "crc32": "abd4a852"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 03).bin",
+      "filesize": 42844032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0104f817ff0c62807f0c2aeb36a67fd",
+        "sha1": "207a3998912fab163c3a5032cd95d8b8470ef677",
+        "crc32": "11299571"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 04).bin",
+      "filesize": 11795280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a354b2fec3dc8797ee08c24642c94636",
+        "sha1": "356ecc91cd0662fb5ec1bccdd086033020b6bf5f",
+        "crc32": "2da47a3a"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 05).bin",
+      "filesize": 14533008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a78bdbbaee8fe13f53ea071ef0ded4ab",
+        "sha1": "59ec8955d0468b5231862d548bf3eb451792c8db",
+        "crc32": "766b6bf4"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 06).bin",
+      "filesize": 10191216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08ced038fb46c9e2a053a1d192af0c13",
+        "sha1": "2ec80493b621b7d62556410f84eb9604d2cfcfd6",
+        "crc32": "58a38908"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 07).bin",
+      "filesize": 10478160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a46e6082ea4432ac4a6fd7b912d648a",
+        "sha1": "e0bbc484c3ba06f792457c74ce475b8cdc9e783e",
+        "crc32": "da4d205d"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 08).bin",
+      "filesize": 28527408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6743f926867e7a1092c7ae7af86c0dde",
+        "sha1": "bd9255bd5a7463e6e1eea3f3ec5765e2f6f98873",
+        "crc32": "82054e6a"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 09).bin",
+      "filesize": 32803344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df31fee8b802d4bcb53ca53b702f22ca",
+        "sha1": "5782566476accd04d0e513f449a527598f96dac1",
+        "crc32": "ce8ffc47"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (Japan) (Track 10).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

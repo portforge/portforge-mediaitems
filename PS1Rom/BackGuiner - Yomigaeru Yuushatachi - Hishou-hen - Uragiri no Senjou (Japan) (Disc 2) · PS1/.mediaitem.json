@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41d9ddc1a23e0fee00fe6ca607fcc4e2",
+        "sha1": "676fa5ebac33a55b1b95bde23c7dc369197aeb4c",
+        "crc32": "b1470a93"
+      }
+    },
+    {
+      "filename": "BackGuiner - Yomigaeru Yuushatachi - Hishou-hen - Uragiri no Senjou (Japan) (Disc 2).bin",
+      "filesize": 705816384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3b79ff9e430da79bebdb959a73da428",
+        "sha1": "c7b2fa82bc914ff70280e6105a993acc072db37a",
+        "crc32": "9df4cddd"
+      }
+    }
+  ]
+}

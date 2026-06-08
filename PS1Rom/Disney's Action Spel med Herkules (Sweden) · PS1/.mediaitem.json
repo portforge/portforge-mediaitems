@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Action Spel med Herkules (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Action Spel med Herkules (Sweden).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8eff341eca1551cc6db280b24ab3deaf",
+        "sha1": "534bce8910e0ebf9a3303b42f6484479a58c9cca",
+        "crc32": "c8fc5813"
+      }
+    },
+    {
+      "filename": "Disney's Action Spel med Herkules (Sweden).bin",
+      "filesize": 399828240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39248ce56d2a82f41af4aade0c309504",
+        "sha1": "070af35175ae8d3863b6e6d5afd859e9418eee45",
+        "crc32": "290470ae"
+      }
+    }
+  ]
+}

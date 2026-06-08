@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 10 - The Billiard (Japan) (Culture Publishers)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 10 - The Billiard (Japan) (Culture Publishers).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a1c7cb16add4f3b77c96904c58d1f10",
+        "sha1": "aeb29de1589ba1e6cb116e584453d23e82ca6ddb",
+        "crc32": "af237c87"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 10 - The Billiard (Japan) (Culture Publishers).bin",
+      "filesize": 96977664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d7ceb728f60750b6d523e613969a310",
+        "sha1": "a8823745aca5b139a43e3c2508fb4f8639e7643d",
+        "crc32": "2aed932c"
+      }
+    }
+  ]
+}

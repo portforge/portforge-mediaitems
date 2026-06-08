@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police (Japan) (Disc 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8997f030f9be6b32a681697bbbfa2cf1",
+        "sha1": "c8f4c223cfd0f60df63068c388337dac19c3eb0b",
+        "crc32": "e6cbbf62"
+      }
+    },
+    {
+      "filename": "G-Police (Japan) (Disc 1).bin",
+      "filesize": 723552816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a50e9f45592f01ac580a94bc7e084c2d",
+        "sha1": "2cc85c26c8ff2d090552fa980cd8b8f767cefd82",
+        "crc32": "75c5887e"
+      }
+    }
+  ]
+}

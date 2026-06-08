@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PaRappa the Rapper - The Hip Hop Hero (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PaRappa the Rapper - The Hip Hop Hero (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87b46710d2c16b7b7665100dc7ad2930",
+        "sha1": "c66476e3c20ae799dc489ffe12c295f886dbc56d",
+        "crc32": "4957dacb"
+      }
+    },
+    {
+      "filename": "PaRappa the Rapper - The Hip Hop Hero (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 724634736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90df9e25911711c39226e287de94013f",
+        "sha1": "a7ccbe9142419aada7ef9120b64cfb0f4eb4322f",
+        "crc32": "f5711543"
+      }
+    }
+  ]
+}

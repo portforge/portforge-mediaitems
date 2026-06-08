@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 2000 (Israel)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 2000 (Israel).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ab79c0d89cc5b906eda726c5ecd4bc93",
+        "sha1": "e16d734af8a26729eb51523ff3c34b7c0699552a",
+        "crc32": "4eb4d41a"
+      }
+    },
+    {
+      "filename": "FIFA 2000 (Israel).bin",
+      "filesize": 595728672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c26cca3b6cf3e4fddd7e91d5f69c59c",
+        "sha1": "09c0651b9dab69f8222bf68c6ed0cbb387ca4477",
+        "crc32": "82858964"
+      }
+    }
+  ]
+}

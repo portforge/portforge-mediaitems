@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police - Weapons of Justice (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police - Weapons of Justice (France).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4294a73697fc55c10612ffcb15de064b",
+        "sha1": "0b8c39eb4457fa9121bc2a2d1c7e4ffa02ea17c4",
+        "crc32": "c89fd0d6"
+      }
+    },
+    {
+      "filename": "G-Police - Weapons of Justice (France).bin",
+      "filesize": 720201216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76fcaca250a23e4760535627c6bdb84e",
+        "sha1": "f731ede0209360403c04b8b29c431698b42818f0",
+        "crc32": "ea05edf4"
+      }
+    }
+  ]
+}

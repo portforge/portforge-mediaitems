@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mizzurna Falls (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mizzurna Falls (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2891db5d6490d58c6eb7659b4588d21f",
+        "sha1": "81c227b0d916aa00f3cef9a19dc69c094188ac1f",
+        "crc32": "952ccaa2"
+      }
+    },
+    {
+      "filename": "Mizzurna Falls (Japan).bin",
+      "filesize": 399701232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36a96b8e813c1f902446f7fed7d88dd3",
+        "sha1": "c49b2a1203831165e63e1129cfe413d4d23d7656",
+        "crc32": "a87f3497"
+      }
+    }
+  ]
+}

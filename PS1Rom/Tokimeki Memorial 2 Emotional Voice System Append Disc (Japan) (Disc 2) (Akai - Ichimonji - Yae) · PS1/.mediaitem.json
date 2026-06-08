@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 2) (Akai - Ichimonji - Yae)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 2) (Akai - Ichimonji - Yae).cue",
+      "filesize": 177,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b61ba1d1fedd6e100d7269c3f8126c5",
+        "sha1": "4cf14463d6137ea0d9fc89971fb598da3e9ad74b",
+        "crc32": "deeddd24"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 2) (Akai - Ichimonji - Yae).bin",
+      "filesize": 321941760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32a43093ffc6747465386c2cdb1975c0",
+        "sha1": "43971e07cf4d06631b0b4d21248617f5ec21d10a",
+        "crc32": "242025e5"
+      }
+    }
+  ]
+}

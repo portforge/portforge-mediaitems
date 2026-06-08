@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Demolition (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Demolition (USA) (Demo).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7968ba4019bdf393ff09e25175514f9f",
+        "sha1": "645e609d86e5c9928ae574d9f30a438665db14b1",
+        "crc32": "5c683f53"
+      }
+    },
+    {
+      "filename": "Star Wars - Demolition (USA) (Demo) (Track 1).bin",
+      "filesize": 6348048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ccb65f24ab085a82d4fc6d241904899",
+        "sha1": "034839b530c2b7b5e75d781c8db48a770b75cf1e",
+        "crc32": "cbdff739"
+      }
+    },
+    {
+      "filename": "Star Wars - Demolition (USA) (Demo) (Track 2).bin",
+      "filesize": 40242720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcc2d56b117514f4ba4abe70a5cec750",
+        "sha1": "4e4cccdbd3eee80d3c18de214d79a9f4dcd465d2",
+        "crc32": "c804751c"
+      }
+    }
+  ]
+}

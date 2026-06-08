@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Test Drive 5 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Test Drive 5 (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8112350d2b411f995d85b7059833c10",
+        "sha1": "679d747c732c0fe42107e636d8ddfdd650b37c26",
+        "crc32": "e1d001f3"
+      }
+    },
+    {
+      "filename": "Test Drive 5 (Japan).bin",
+      "filesize": 631464960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4486d8362a66ea835409cc138e5eeaa",
+        "sha1": "c70f055b4fc7ed3b7ebad7fbe7cf33184cb4f79f",
+        "crc32": "e60c19f7"
+      }
+    }
+  ]
+}

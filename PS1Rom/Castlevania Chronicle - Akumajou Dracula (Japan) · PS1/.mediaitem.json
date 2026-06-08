@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Castlevania Chronicle - Akumajou Dracula (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Castlevania Chronicle - Akumajou Dracula (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c7d09b390657c5a5b9ca6f5516cf9487",
+        "sha1": "2baf1015071156a72377f7d489c58c0f5b21b92d",
+        "crc32": "a978b401"
+      }
+    },
+    {
+      "filename": "Castlevania Chronicle - Akumajou Dracula (Japan).bin",
+      "filesize": 396264960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b1a3fce3c6f1a9b5f3d209fcd9de949",
+        "sha1": "d15d2b16b46dcff58b38e41e28928e7fbe6b10e6",
+        "crc32": "6142c18c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Codebreaker D.J. (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Codebreaker D.J. (USA) (Unl).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cd6028ae20858ff2f19d681c434177f6",
+        "sha1": "2ad9a88d9765089f3388b3a93fefa6c2d771b2a7",
+        "crc32": "b5b5a78e"
+      }
+    },
+    {
+      "filename": "Codebreaker D.J. (USA) (Unl) (Track 1).bin",
+      "filesize": 2326128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "305b127367bbb93e7fde99f726974801",
+        "sha1": "d10fb3eab21249d3731a628c9a8e5e9149edd74d",
+        "crc32": "a4250b96"
+      }
+    },
+    {
+      "filename": "Codebreaker D.J. (USA) (Unl) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "952d15640b57c777f98881d396c811b9",
+        "sha1": "17eb815534b854c7476ed098571ee8d74c6554a5",
+        "crc32": "bb550936"
+      }
+    }
+  ]
+}

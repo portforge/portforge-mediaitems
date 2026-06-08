@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Hooockey!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Hooockey!! (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea69f0d8db4af39f87a6d670980e5dad",
+        "sha1": "210731d7135d30d5b85f0f13b6c775542135c67d",
+        "crc32": "db4c0d61"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Hooockey!! (Japan).bin",
+      "filesize": 156692592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "473d79b91b22f6b24642ae312db26e56",
+        "sha1": "67e9b16c5780ac50f69b9b80489586c211c7529d",
+        "crc32": "0b2f9b78"
+      }
+    }
+  ]
+}

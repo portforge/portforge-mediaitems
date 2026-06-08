@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Nobunaga Hiroku - Geten no Yume (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Nobunaga Hiroku - Geten no Yume (Japan).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61595082da8e19000433e46810b81361",
+        "sha1": "fd9eb0807de1a348bd6b2cbfd62b983e51512917",
+        "crc32": "be8748af"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Nobunaga Hiroku - Geten no Yume (Japan).bin",
+      "filesize": 652691760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77d04cc5596bdd45b141a32dcfa2fe40",
+        "sha1": "11e1492273b89ddeffee47487173f2742edda96e",
+        "crc32": "ff2d7e58"
+      }
+    }
+  ]
+}

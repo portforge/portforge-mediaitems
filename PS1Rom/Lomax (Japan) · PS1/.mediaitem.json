@@ -1,0 +1,267 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lomax (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lomax (Japan).cue",
+      "filesize": 2682,
+      "ext": "cue",
+      "checksums": {
+        "md5": "20b3ffe2e5222f4507979d985087d728",
+        "sha1": "78c7b0fa42b76f4da6b0850d7ca217e44908f6b3",
+        "crc32": "9e9532ce"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 01).bin",
+      "filesize": 38982048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d378955194f763e8327184248f00ba92",
+        "sha1": "4911fb4464276270ca2dae2ca589a25183028fee",
+        "crc32": "757b4357"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 02).bin",
+      "filesize": 31535616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "592d3b30a4e7a29c66563d2cb504fd6f",
+        "sha1": "da98bc79bce17e271c2a8edbace21dba0e8af8ab",
+        "crc32": "dd964072"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 03).bin",
+      "filesize": 32300016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7afb55c5ad5cc59e63793feade36c233",
+        "sha1": "66f5cad612fc187f80c86ea3592e8c7504a462dd",
+        "crc32": "e7362102"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 04).bin",
+      "filesize": 31497984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "128b4cafb4e2b97a5258c0d209d6742a",
+        "sha1": "899c4884084d1ceee777b3beec7ba1eff5b6e644",
+        "crc32": "ee5102b4"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 05).bin",
+      "filesize": 32020128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f352f315c16317316ea751b7a368955d",
+        "sha1": "e382db1c6b38a7182daf95fde77eaa22fad0da48",
+        "crc32": "4241a4da"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 06).bin",
+      "filesize": 31432128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bacd9a2e0e604024761f0087ee9b223d",
+        "sha1": "9380434707765616cfd6d69fed5ee49e73aea36c",
+        "crc32": "c954618d"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 07).bin",
+      "filesize": 29315328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a56432a30c09f82af4d0bb305303e02",
+        "sha1": "80e77ec1d773577684f098b8cd6d2d5739762b1a",
+        "crc32": "93f921d5"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 08).bin",
+      "filesize": 32956224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c099577a323aff0ef96be98060ccd1d",
+        "sha1": "63feeadcc3f55107ba54d1a2a280a266de9ebab1",
+        "crc32": "d3e6bd45"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 09).bin",
+      "filesize": 32923296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea7e2c5889f0361e111bd93a52c63b65",
+        "sha1": "0bef8eb0307e80f1d6cb8fafd0a0207d29d89d8a",
+        "crc32": "6025c1bd"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 10).bin",
+      "filesize": 33127920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6e188ac0ebfbbbc8009d45c83c584bc",
+        "sha1": "d8f16596e6144d8aea32fc29096d4d0c0229c41a",
+        "crc32": "0774d28e"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 11).bin",
+      "filesize": 29084832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe1a54325169a595136a5659eb6b4ad8",
+        "sha1": "67df31d478331363962ea79653355599a0fa0bcd",
+        "crc32": "beda9a61"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 12).bin",
+      "filesize": 34971888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5d182193d07ace5a51a250a03864cc8",
+        "sha1": "7bddab76702d67aa01a009a36ad9099927c06b0e",
+        "crc32": "57418e9c"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 13).bin",
+      "filesize": 11882304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "697dd6e60b3135f48e58d2c099b68457",
+        "sha1": "4e0f9e714be2009d5da0b5bb132c389bc72d2654",
+        "crc32": "0e8e398b"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 14).bin",
+      "filesize": 12011664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "096e6fc91c64a6bcd62ab118219ea557",
+        "sha1": "67f5ea147a67b24c481bfb4bef9a133e991d59a1",
+        "crc32": "ce4fd2a9"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 15).bin",
+      "filesize": 11675328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7397ac6cccb43aa1bdd919b289ed594f",
+        "sha1": "98a1128f85f3bdd8956829cb859f7481b71da7f8",
+        "crc32": "b2f08ffb"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 16).bin",
+      "filesize": 31592064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0bdc645b405aca3e649bab42c24b936",
+        "sha1": "dd01b7e01d44662c66a4476f533f70f76506237f",
+        "crc32": "934414a0"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 17).bin",
+      "filesize": 32076576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1df9fba37f27e16b0f0f583ec344140",
+        "sha1": "4bf42e122784df6ec82cec25ba89db4c57d5c2ab",
+        "crc32": "be791300"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 18).bin",
+      "filesize": 30223200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "666608c0ec7635c6d7cdbc9f3812835c",
+        "sha1": "bd90325f7f72d99b298e71a160cc428b7866691a",
+        "crc32": "10474867"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 19).bin",
+      "filesize": 19422816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f2ef737b205f0df2a34d94caa1af0a6",
+        "sha1": "f7e5ddc0c89156160bdfc328f44fab432b759159",
+        "crc32": "b8042ca6"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 20).bin",
+      "filesize": 18623136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3b299ee345c0d479ce9a992a2f3f2a4",
+        "sha1": "946d08afba7dddf7b11a352ae1ad50cfff854124",
+        "crc32": "2c57a192"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 21).bin",
+      "filesize": 20271888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17dd2f062835f20e26235bf38b62a360",
+        "sha1": "906ced69367de2d85d80548f6a913759335b461a",
+        "crc32": "e0da0444"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 22).bin",
+      "filesize": 28797888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b52694c47a71a630714e34de3b24cbf9",
+        "sha1": "9b14f1c34db2821a0b0ad1f224ef1951a35fa48c",
+        "crc32": "9eec8dcf"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 23).bin",
+      "filesize": 12778416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38bcd9b136baa359e79d4ae69b23d359",
+        "sha1": "4ba705dc01345fcdf38839bcee02ee3ef3afe5d0",
+        "crc32": "babf8ebc"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 24).bin",
+      "filesize": 10762752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa23f925394fd6e528689d706eecceb8",
+        "sha1": "f071e4a5a949dd39fec099b3541f3693283965e3",
+        "crc32": "f7bc1f32"
+      }
+    },
+    {
+      "filename": "Lomax (Japan) (Track 25).bin",
+      "filesize": 32956224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c099577a323aff0ef96be98060ccd1d",
+        "sha1": "63feeadcc3f55107ba54d1a2a280a266de9ebab1",
+        "crc32": "d3e6bd45"
+      }
+    }
+  ]
+}

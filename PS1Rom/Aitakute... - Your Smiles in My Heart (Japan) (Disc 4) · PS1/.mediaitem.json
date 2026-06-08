@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aitakute... - Your Smiles in My Heart (Japan) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aitakute... - Your Smiles in My Heart (Japan) (Disc 4).cue",
+      "filesize": 308,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b570a6be8dba6dd770739368372dd023",
+        "sha1": "d2a0a39e3551a1a96814f53b5de80bd6fb511ecd",
+        "crc32": "0eab3db6"
+      }
+    },
+    {
+      "filename": "Aitakute... - Your Smiles in My Heart (Japan) (Disc 4) (Track 1).bin",
+      "filesize": 717715152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8eb9227261440534f001f5d27f17c81f",
+        "sha1": "4d9f3ece1dc52848e29a64b8cf57c2e8ca98e8d1",
+        "crc32": "4ec8abe3"
+      }
+    },
+    {
+      "filename": "Aitakute... - Your Smiles in My Heart (Japan) (Disc 4) (Track 2).bin",
+      "filesize": 31752000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c2acf6f26be09c0470f96fee67249d6",
+        "sha1": "5854bf355fca3e35396f35bbcab17d33a38824a1",
+        "crc32": "0f337cf1"
+      }
+    }
+  ]
+}

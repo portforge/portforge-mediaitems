@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Heroes IV, The - Akai Shizuku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Heroes IV, The - Akai Shizuku (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "896369f28110a618db0acc262e13aa84",
+        "sha1": "a738f8939aea557b427078ad4704dd2b9cff8c12",
+        "crc32": "061b69ad"
+      }
+    },
+    {
+      "filename": "Legend of Heroes IV, The - Akai Shizuku (Japan).bin",
+      "filesize": 521852352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ea48e0efa7e2a2dd823e2bd51e80224",
+        "sha1": "26140482c805008e2aaf5523bc83b4d18d6b5ee0",
+        "crc32": "aba2cab1"
+      }
+    }
+  ]
+}

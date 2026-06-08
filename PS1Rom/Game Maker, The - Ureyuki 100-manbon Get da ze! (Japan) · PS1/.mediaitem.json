@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game Maker, The - Ureyuki 100-manbon Get da ze! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game Maker, The - Ureyuki 100-manbon Get da ze! (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "565607196d3e557d7ceb28b50fd7ccc3",
+        "sha1": "26a0200c85be0e9622e5c0ca46b90eb0edc628d0",
+        "crc32": "43d33513"
+      }
+    },
+    {
+      "filename": "Game Maker, The - Ureyuki 100-manbon Get da ze! (Japan).bin",
+      "filesize": 406874832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "146f430b08f398cce81faab02ca64b87",
+        "sha1": "9291f68777a8d016725628a7587fe50d3af4566c",
+        "crc32": "54b68707"
+      }
+    }
+  ]
+}

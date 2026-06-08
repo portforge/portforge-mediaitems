@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marl Jong!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marl Jong!! (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d7761ff4f1d9c97c6d101ba099b388f",
+        "sha1": "49184a9c13ce43351876caa240abdb968c804de0",
+        "crc32": "2a33ccc9"
+      }
+    },
+    {
+      "filename": "Marl Jong!! (Japan).bin",
+      "filesize": 215739552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfb43b43146997518fbe9c24f5adf4be",
+        "sha1": "d1add0af41c3a1ed642e898d4b12beb4874505cd",
+        "crc32": "e8c8786c"
+      }
+    }
+  ]
+}

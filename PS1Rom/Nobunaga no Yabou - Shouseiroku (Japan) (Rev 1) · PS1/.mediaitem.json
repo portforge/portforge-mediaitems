@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nobunaga no Yabou - Shouseiroku (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nobunaga no Yabou - Shouseiroku (Japan) (Rev 1).cue",
+      "filesize": 264,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50fdc85a433c8def14ea59198903c8d3",
+        "sha1": "280fbe44366716b39c8d5283c9bd43b27261569c",
+        "crc32": "5224db18"
+      }
+    },
+    {
+      "filename": "Nobunaga no Yabou - Shouseiroku (Japan) (Rev 1) (Track 1).bin",
+      "filesize": 587715408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52ceb9e8d82cf8a2926c31f4e13a382b",
+        "sha1": "af3fc08b24add7957a403e7f35654c962bde4764",
+        "crc32": "de63849a"
+      }
+    },
+    {
+      "filename": "Nobunaga no Yabou - Shouseiroku (Japan) (Rev 1) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Station 4 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Station 4 (Europe).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "52a3398f62e17f5710b8a3dd1ed553e1",
+        "sha1": "b76b3805dedae440d754a90b7678a37c5c8e5a6e",
+        "crc32": "c2f13eb1"
+      }
+    },
+    {
+      "filename": "Station 4 (Europe) (Track 1).bin",
+      "filesize": 360316992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86c0ea2f5ef4933795245fbbf203da6b",
+        "sha1": "c3bb075082b3ab71c9ee707dfce1262e94cabc19",
+        "crc32": "f94f6b1d"
+      }
+    },
+    {
+      "filename": "Station 4 (Europe) (Track 2).bin",
+      "filesize": 33069120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b916c7c788301da7201d3d5fa9e124aa",
+        "sha1": "8a61714e3f0abf918399358b77c9ed351b9113c4",
+        "crc32": "50c9888b"
+      }
+    }
+  ]
+}

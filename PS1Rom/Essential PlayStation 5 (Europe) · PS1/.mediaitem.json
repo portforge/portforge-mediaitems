@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Essential PlayStation 5 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Essential PlayStation 5 (Europe).cue",
+      "filesize": 1506,
+      "ext": "cue",
+      "checksums": {
+        "md5": "194f67e1bae8e25cbeffb299a210f4de",
+        "sha1": "34b003f315e3a8570974838fd96d38e796235dae",
+        "crc32": "ff7a7d5a"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 01).bin",
+      "filesize": 204332352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30cb94dab200fa2efd6cc2a3dd8c444f",
+        "sha1": "c76df71263f0623b9c0fbb57aa1883cd08ca0f4c",
+        "crc32": "70b3f0de"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 02).bin",
+      "filesize": 54905088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53cc0cd475f1cafa1279bfbb71ed929b",
+        "sha1": "257052122bd41f20e15451e51d611d09550a0035",
+        "crc32": "9ee6fe1d"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 03).bin",
+      "filesize": 2406096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde7b86bb6696eba0922645fe631b033",
+        "sha1": "087be94c412e218d5a04d817d555ea3fa890c56c",
+        "crc32": "2632e004"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 04).bin",
+      "filesize": 61963440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3c7cc5d87a736217ff51fa73c2938ee",
+        "sha1": "680e87d0d51deac83bb8abd2e2d7fa1890099689",
+        "crc32": "c313330a"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 05).bin",
+      "filesize": 40908336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dac0923376dbe80b4fb582fc3b00cd71",
+        "sha1": "678add7441a56f17e94db27cb7a6810495512799",
+        "crc32": "10e37439"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 06).bin",
+      "filesize": 11435424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccaab2c01e94489ae867570858a9feb0",
+        "sha1": "9c87f54d7071fcd621548be4f53fed2349ba4d82",
+        "crc32": "8d2d201d"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 07).bin",
+      "filesize": 13239408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af7eaef52ebdfcd843a648af379f8041",
+        "sha1": "01cc8c7cbac578405bc6af5ef3d2833096e00185",
+        "crc32": "536ff53e"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 08).bin",
+      "filesize": 5190864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ebbc6c71e6c525c81555c47dcd1753d",
+        "sha1": "3e8c7d9c11b18cd80515b8a7bd24fb1a8dfe1c7d",
+        "crc32": "34e33b65"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 09).bin",
+      "filesize": 4981536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd99bb6f63116a939608c3f4be08777a",
+        "sha1": "8285e30e69d3ee468d968147677e4bf0ace5b39e",
+        "crc32": "767d11c2"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 10).bin",
+      "filesize": 36611232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8446e15de683617492958f16d5e35cf",
+        "sha1": "bebd2886ebaffe77b20efa9177fc14cc9ccfa381",
+        "crc32": "78568986"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 11).bin",
+      "filesize": 33638304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90e8e1cf13e32ced4c9c2a9d3750a07d",
+        "sha1": "46d4267005d086af840114b9e9bb767f68b3af80",
+        "crc32": "1b934f9e"
+      }
+    },
+    {
+      "filename": "Essential PlayStation 5 (Europe) (Track 12).bin",
+      "filesize": 35174160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c1a2248fe9854d15f8217456285002",
+        "sha1": "e7996186776d4502e415dc69585c4319f7e624eb",
+        "crc32": "3048c3ee"
+      }
+    }
+  ]
+}

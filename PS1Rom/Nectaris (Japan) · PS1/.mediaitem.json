@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nectaris (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nectaris (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0156604908fbae9578054a7bd92fe65b",
+        "sha1": "9aa20be1e62d4a88a67b22cae9cc008074d8bc6c",
+        "crc32": "f36d9dc1"
+      }
+    },
+    {
+      "filename": "Nectaris (Japan).bin",
+      "filesize": 432895008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a7c28dde7731b39c595856c5a16c376",
+        "sha1": "d65b284a5dcfce159ca04892187428168a15387a",
+        "crc32": "fdcb9d52"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tsuridou - Keiryuu Mizuumi-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tsuridou - Keiryuu Mizuumi-hen (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68d4a6e57099ff8c8f6d48c77cef0fd4",
+        "sha1": "344b23cea731474c821a83f412107594d9989e7b",
+        "crc32": "ddc1fe47"
+      }
+    },
+    {
+      "filename": "Tsuridou - Keiryuu Mizuumi-hen (Japan).bin",
+      "filesize": 333567696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cacb5db433ee580e5af5a3423fa954a",
+        "sha1": "c795882d7e3eb899b8471983fadf7fc1d145d263",
+        "crc32": "8d6f7c98"
+      }
+    }
+  ]
+}

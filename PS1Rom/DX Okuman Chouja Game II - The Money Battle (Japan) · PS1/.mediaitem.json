@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DX Okuman Chouja Game II - The Money Battle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DX Okuman Chouja Game II - The Money Battle (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d4079bdd21fa74f2dc2b09818433850e",
+        "sha1": "4e4cccf263fc307a2384da9db2b9dc58a56b3f6c",
+        "crc32": "6b2255b7"
+      }
+    },
+    {
+      "filename": "DX Okuman Chouja Game II - The Money Battle (Japan).bin",
+      "filesize": 169757952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c05c2d7aea0754fea94a2fd44c2cd17",
+        "sha1": "5dc14f570f2cc2e763ce9e4de759a4d10013a408",
+        "crc32": "35f821b9"
+      }
+    }
+  ]
+}

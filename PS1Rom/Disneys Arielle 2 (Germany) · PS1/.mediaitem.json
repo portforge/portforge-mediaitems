@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Arielle 2 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Arielle 2 (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aea6045e7d8ec7b582697913f66e1bbd",
+        "sha1": "3543ffe716cbf5569c434bc6d7fb043790f38088",
+        "crc32": "96b7567f"
+      }
+    },
+    {
+      "filename": "Disneys Arielle 2 (Germany).bin",
+      "filesize": 554124144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07c6f6d321cbf66f695c81ec1b100b6f",
+        "sha1": "d68e7d24bf91a26a92f00493bc2cf6167b27ca04",
+        "crc32": "bc97eae6"
+      }
+    }
+  ]
+}

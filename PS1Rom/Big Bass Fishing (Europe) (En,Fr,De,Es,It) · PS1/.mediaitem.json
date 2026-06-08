@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Big Bass Fishing (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Big Bass Fishing (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d67ff137cff2fc796ab669271232037",
+        "sha1": "60431e0757fd2a4908cc1e0c96acec66b3f63e49",
+        "crc32": "c6229187"
+      }
+    },
+    {
+      "filename": "Big Bass Fishing (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 36324288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1c759551730083321e8f92610a27fb6",
+        "sha1": "a21446ab78af32a8bd790742f06692c6bf2ff015",
+        "crc32": "95664570"
+      }
+    },
+    {
+      "filename": "Big Bass Fishing (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 101415888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14f32b67624113697a4bf8aa4a96ef15",
+        "sha1": "0877638100c51337cac7f3db90fac265a3445d93",
+        "crc32": "5ef17fdd"
+      }
+    }
+  ]
+}

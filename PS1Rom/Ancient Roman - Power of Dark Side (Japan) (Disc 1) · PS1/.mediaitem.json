@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ancient Roman - Power of Dark Side (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ancient Roman - Power of Dark Side (Japan) (Disc 1).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "935ee5627b72b13237db53668b87413a",
+        "sha1": "9925cc7564b21cdd32519affb97ba1deafd580ca",
+        "crc32": "1b6018b0"
+      }
+    },
+    {
+      "filename": "Ancient Roman - Power of Dark Side (Japan) (Disc 1).bin",
+      "filesize": 498703968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd7cfb6dfc45e2af7ed07c17711c060a",
+        "sha1": "0c643477c01329736a6756db80eb3aa65193bd9f",
+        "crc32": "44e1dc27"
+      }
+    }
+  ]
+}

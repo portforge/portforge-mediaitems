@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IX (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IX (France) (Disc 1).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5ba575eff5eadf53c6a1d28c59db0cdd",
+        "sha1": "5f7aaf759dd5acdc53d39fa6aca1a6b0aba41d1d",
+        "crc32": "422234c3"
+      }
+    },
+    {
+      "filename": "Final Fantasy IX (France) (Disc 1).bin",
+      "filesize": 740821200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "482063087f568b8b850a7f259e5c242d",
+        "sha1": "38c8cc8ce9e59178382e47d8cf2bfe68c1756436",
+        "crc32": "036c66b6"
+      }
+    }
+  ]
+}

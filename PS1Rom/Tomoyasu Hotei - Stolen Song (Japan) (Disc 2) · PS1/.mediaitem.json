@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomoyasu Hotei - Stolen Song (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomoyasu Hotei - Stolen Song (Japan) (Disc 2).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01a23070c85aa327a80db0a940943ce0",
+        "sha1": "3322a5a0e7f781a34cea53553b04893485df83af",
+        "crc32": "2660be1c"
+      }
+    },
+    {
+      "filename": "Tomoyasu Hotei - Stolen Song (Japan) (Disc 2).bin",
+      "filesize": 725495568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c0a51fda6941a5ca37ae0449fc7b975",
+        "sha1": "119308d58e55fdc423fc527123f06ac94eae9430",
+        "crc32": "e896b816"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PGA European Tour Golf (Europe) (Fr,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PGA European Tour Golf (Europe) (Fr,Es,It).cue",
+      "filesize": 390,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5293f06bce62f261b602115a7af3f22",
+        "sha1": "7e9fca97d830507e85775c58d7c1b6b43188534b",
+        "crc32": "aa4d84d0"
+      }
+    },
+    {
+      "filename": "PGA European Tour Golf (Europe) (Fr,Es,It) (Track 1).bin",
+      "filesize": 472029936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4281958aff5ef106a24d28511f19d2b",
+        "sha1": "a95d65a3b364585ad1ef1f37ff20602e5cbc8b08",
+        "crc32": "872ac741"
+      }
+    },
+    {
+      "filename": "PGA European Tour Golf (Europe) (Fr,Es,It) (Track 2).bin",
+      "filesize": 34466208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cc42cb33b8b76e18f0c5f030791b01e",
+        "sha1": "b57f73bb9f19027bde769030a1a358f0d97746c9",
+        "crc32": "54d5b906"
+      }
+    },
+    {
+      "filename": "PGA European Tour Golf (Europe) (Fr,Es,It) (Track 3).bin",
+      "filesize": 33734736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12f677b43b7871642775193b1e4fb616",
+        "sha1": "b128dff09fd4efd86a18661f4bb87c12fe7954da",
+        "crc32": "b2103bf6"
+      }
+    }
+  ]
+}

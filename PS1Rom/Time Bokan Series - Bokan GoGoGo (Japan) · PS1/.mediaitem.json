@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Time Bokan Series - Bokan GoGoGo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Time Bokan Series - Bokan GoGoGo (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e32147cb84fe95a2bae585869404b1c6",
+        "sha1": "c9263caf9eab4772b735162526f78ee854884cf8",
+        "crc32": "b13f6bda"
+      }
+    },
+    {
+      "filename": "Time Bokan Series - Bokan GoGoGo (Japan).bin",
+      "filesize": 651616896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4154783b236d9c2f70355832f720887b",
+        "sha1": "c3517ef78e4724c929c9b55025faf68cafcf39f4",
+        "crc32": "2f7887fb"
+      }
+    }
+  ]
+}

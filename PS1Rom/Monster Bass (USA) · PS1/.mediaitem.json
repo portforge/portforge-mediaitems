@@ -1,0 +1,197 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monster Bass (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monster Bass (USA).cue",
+      "filesize": 2016,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8525ceac69b17c5b35c1b3eb87552c2a",
+        "sha1": "ccccf77a9e993ef3df99b59c7d62247b1fa01557",
+        "crc32": "73252016"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 01).bin",
+      "filesize": 230768832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25fc23e322670a21bd2ea0c323fc3e21",
+        "sha1": "46b274f92b2c80e763b717a37155493e6174d973",
+        "crc32": "c9246a57"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 02).bin",
+      "filesize": 6670272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58273dc20ea7ade3fa866d6cc58e8e48",
+        "sha1": "ad3d7a8da0a1d4a770342907739385453a4cd654",
+        "crc32": "80e0d303"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 03).bin",
+      "filesize": 31474464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3eedfdd49b6d3602d6eb10c241331c2",
+        "sha1": "d0286f75fb013124a6667bc43aff19f8e0679bb1",
+        "crc32": "dd45b9f8"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 04).bin",
+      "filesize": 39271344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87d51a499970eb92daa3a25ce6a149cc",
+        "sha1": "89d5804dd4b60529998999ff6a957002a3549121",
+        "crc32": "8b9deb71"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 05).bin",
+      "filesize": 31095792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "755a21e9d858637aaf2555c516bae104",
+        "sha1": "0b32f91496ccb01953f36dd033aa7e673f4016d2",
+        "crc32": "3e026492"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 06).bin",
+      "filesize": 31239264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1d7413319e09431dd6e65236806dae0",
+        "sha1": "8f2d916f3b83c3c48abb0348b588a870a412443e",
+        "crc32": "639476db"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 07).bin",
+      "filesize": 32730432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03bff944ff69bc658cac81a3a4cb10b8",
+        "sha1": "01ba0a2568cf79167a7fd3069db1fa15b11dba4d",
+        "crc32": "bbda22c1"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 08).bin",
+      "filesize": 43674288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c07c47b57ef3bc2795e13ef0f5ba002",
+        "sha1": "6a655859db1a7f6088cd00b3c42eed6b576a5c58",
+        "crc32": "1693bf8a"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 09).bin",
+      "filesize": 42820512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b59e190102a947f48c1bfafd2df179cc",
+        "sha1": "ad7a1ba5d5c103538d3b01ac6b682a4297d63e79",
+        "crc32": "acc9a7df"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 10).bin",
+      "filesize": 30192624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1eff5000ebed10dc85c8c7c9aeee27ca",
+        "sha1": "47eadc0a1098cda2521b159262aca8d51ddd536d",
+        "crc32": "095c1df7"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 11).bin",
+      "filesize": 1651104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "709bd5218ac543eda00cbbc787ecf1a4",
+        "sha1": "6b410d53a0c484bef218735269de499af5c8c014",
+        "crc32": "888de7a8"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 12).bin",
+      "filesize": 1698144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83d4c7cd77bbb5e9d892eee478f014d2",
+        "sha1": "8e7bde631cb73eebd9bde7458083f28b2de1c14e",
+        "crc32": "eb512b3a"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 13).bin",
+      "filesize": 1552320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8a17515d0b169672d237f8bf44aab2e",
+        "sha1": "1297c72a22b5da2b1a1a13e1a0af84225bb37295",
+        "crc32": "360660d2"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 14).bin",
+      "filesize": 3106992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a83420b7a1fb2d58d368aacab79a12f7",
+        "sha1": "f8a828a4399dd99733164252883cfce6cf096790",
+        "crc32": "7a5a3edf"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 15).bin",
+      "filesize": 1397088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ef297c7a5581f2ff8c39b2b64c5644f",
+        "sha1": "cb3f3450ec038d837ad34d0d3bde0a1e2a1a16e8",
+        "crc32": "ae5ce2fd"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 16).bin",
+      "filesize": 31505040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4dbea7a443c007e693d8ccc75cb7f7db",
+        "sha1": "cb7b3cfa76baa194203aed36154789ef0a35010b",
+        "crc32": "05f1ef09"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 17).bin",
+      "filesize": 36140832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1d5037997b9271a719825c407a60476",
+        "sha1": "10ffa6f526b737339450ad4b98dc067bba59d3c9",
+        "crc32": "8a104afc"
+      }
+    },
+    {
+      "filename": "Monster Bass (USA) (Track 18).bin",
+      "filesize": 34957776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f495a59c8751d7e80d6ff656e83e5333",
+        "sha1": "077f295ab235d473b048430ff4d942dd7ec8e4a2",
+        "crc32": "b925a23c"
+      }
+    }
+  ]
+}

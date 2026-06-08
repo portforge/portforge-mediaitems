@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mobile Suit Gundam - Perfect One Year War (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mobile Suit Gundam - Perfect One Year War (Japan).cue",
+      "filesize": 268,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0c3ab794efef2da6fd886288a453248",
+        "sha1": "fa4439ee94f04169dbed441f62ccc8a826ac8577",
+        "crc32": "13e17553"
+      }
+    },
+    {
+      "filename": "Mobile Suit Gundam - Perfect One Year War (Japan) (Track 1).bin",
+      "filesize": 745195920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3aafa84c379ac5032c47e0fc3dae866",
+        "sha1": "06c7b9f9a2df375329f1ae011f298f9df4e82207",
+        "crc32": "e5c02966"
+      }
+    },
+    {
+      "filename": "Mobile Suit Gundam - Perfect One Year War (Japan) (Track 2).bin",
+      "filesize": 3349248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d7d33e6730b9cc94792fa53219f5818",
+        "sha1": "e3088b16c535eb22841a15c35dfc6e8e0b95a00c",
+        "crc32": "b78f2d49"
+      }
+    }
+  ]
+}

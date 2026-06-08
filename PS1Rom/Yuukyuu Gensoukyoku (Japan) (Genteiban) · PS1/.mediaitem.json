@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yuukyuu Gensoukyoku (Japan) (Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Genteiban).cue",
+      "filesize": 647,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9dead3ad3b0dfc66da5d959b0a74bf68",
+        "sha1": "f8e8ec4b2c43f2a26fcf93a6cc4ba89cba312947",
+        "crc32": "01529a49"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Genteiban) (Track 1).bin",
+      "filesize": 571632432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89e3756aaf57636d6216344beb9a81a9",
+        "sha1": "ad4219d52247b0f3f7b7f7b38f7e153e3acbb8a6",
+        "crc32": "c9cfc69d"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Genteiban) (Track 2).bin",
+      "filesize": 29461152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92182c17304b4e128a568bb44176d2e3",
+        "sha1": "062dc82a5f87c361ab75bb083ead14ea87881bc9",
+        "crc32": "08816c46"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Genteiban) (Track 3).bin",
+      "filesize": 21875952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71537f877a2f43c28481aaa556defdf5",
+        "sha1": "44585d60d9575d32014497ea217bd16055904128",
+        "crc32": "0e4090e6"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Genteiban) (Track 4).bin",
+      "filesize": 21875952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "478ef45a558d29bd704119c262c9d106",
+        "sha1": "248ed4af2f10d2494b8ef8f0c6c81aea45349a27",
+        "crc32": "c4fbb845"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Genteiban) (Track 5).bin",
+      "filesize": 48512352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5cd8d0f4b88c38a0a2bbfd1d7b2d066",
+        "sha1": "5d1277bc24cc4ddc4115f6587c3b7605b4a333cd",
+        "crc32": "b4ba88f3"
+      }
+    }
+  ]
+}

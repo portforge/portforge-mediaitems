@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bushido Blade 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bushido Blade 2 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a08b4f0e911354943870e28f9a765e48",
+        "sha1": "02906efdf44d234aa0ad15872f69e150c551c2a0",
+        "crc32": "94f839cf"
+      }
+    },
+    {
+      "filename": "Bushido Blade 2 (USA).bin",
+      "filesize": 701714496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ca449137357040901724c3ccedede33",
+        "sha1": "89c1ad4025bfdb78e387ae9acc43e33b7f51db19",
+        "crc32": "39aade1a"
+      }
+    }
+  ]
+}

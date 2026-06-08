@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Five (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Five (UK) (Unl).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9ac58b8f7a3c0b41b97696d7856ca17b",
+        "sha1": "f397f5c592702f503a430faad108a39e6f7f4883",
+        "crc32": "c39a1958"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Five (UK) (Unl).bin",
+      "filesize": 449217888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2318a389e17f17691f5ffda2ca8e9be",
+        "sha1": "06115504329fa41ba8b37f1f380cba1de8d00acd",
+        "crc32": "52c478d0"
+      }
+    }
+  ]
+}

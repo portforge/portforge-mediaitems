@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sotsugyou Vacation (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sotsugyou Vacation (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a2cc9e4a16b14bff08b2a0782ba76a0a",
+        "sha1": "eb7845f99d55517efa76c226cfdf56fe17d60835",
+        "crc32": "58e02f77"
+      }
+    },
+    {
+      "filename": "Sotsugyou Vacation (Japan).bin",
+      "filesize": 548726304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11346639b96f481c497e4bf8ec9b0990",
+        "sha1": "d636732e22b2b636eb36321a9f4df54442e1224d",
+        "crc32": "23b4e8b9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Rugrats - Search for Reptar (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Rugrats - Search for Reptar (USA) (Trade Demo).cue",
+      "filesize": 286,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b4444e558c250b90ce126bdd6a2aa882",
+        "sha1": "e90ab9fabcc5715915fdf81000286df8bb281980",
+        "crc32": "9f4b605e"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats - Search for Reptar (USA) (Trade Demo) (Track 1).bin",
+      "filesize": 21313824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e36169d4ff747be03a0b0d71db7ba8f0",
+        "sha1": "7561765f8ee12ec5b0295dac51c5aea2fa85e3cd",
+        "crc32": "774781ae"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats - Search for Reptar (USA) (Trade Demo) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Himitsu Sentai Metamor V Deluxe (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Himitsu Sentai Metamor V Deluxe (Japan) (Disc 1).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6098d6bbb95b0012b14f2e3447025998",
+        "sha1": "3349325739b9b4406ce4da889370c8a4ba22b7ba",
+        "crc32": "0ab91abf"
+      }
+    },
+    {
+      "filename": "Himitsu Sentai Metamor V Deluxe (Japan) (Disc 1).bin",
+      "filesize": 538657392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2add4219bcb04c1356d067b0d33411e2",
+        "sha1": "9a3c7136fa68a646134ea9385aadfc3882204bb6",
+        "crc32": "affe75e9"
+      }
+    }
+  ]
+}

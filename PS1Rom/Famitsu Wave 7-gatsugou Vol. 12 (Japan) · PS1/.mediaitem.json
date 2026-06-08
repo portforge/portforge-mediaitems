@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famitsu Wave 7-gatsugou Vol. 12 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famitsu Wave 7-gatsugou Vol. 12 (Japan).cue",
+      "filesize": 381,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6fe286b7397753bd3df2ea6d1b0ea75",
+        "sha1": "862083894845d3241af034c6bef7aff69310bc57",
+        "crc32": "ac7d291e"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 7-gatsugou Vol. 12 (Japan) (Track 1).bin",
+      "filesize": 639823968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "044045aad0e20cb68b662e9bb5a1fff3",
+        "sha1": "e0190276ecc53e340af027e3b4e173bf3a901cae",
+        "crc32": "7819f5ab"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 7-gatsugou Vol. 12 (Japan) (Track 2).bin",
+      "filesize": 12251568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec6db663bb25858f0c78cfa4fec18329",
+        "sha1": "5a0849d3f137d0a709986955cc24ea9e9f7f0d81",
+        "crc32": "58d19e45"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 7-gatsugou Vol. 12 (Japan) (Track 3).bin",
+      "filesize": 33516000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07488d7d47ede5b5c653df471291b12e",
+        "sha1": "2a61a9adaab8ba1129d3e277cc852995234e0774",
+        "crc32": "530f71ca"
+      }
+    }
+  ]
+}

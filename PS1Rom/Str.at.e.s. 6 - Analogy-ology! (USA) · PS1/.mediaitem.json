@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Str.at.e.s. 6 - Analogy-ology! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Str.at.e.s. 6 - Analogy-ology! (USA).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28234145265b9235f0a5e9874d5841a8",
+        "sha1": "3073eb43a9fb89bb7b28fe9f9c2c79f32cb5064b",
+        "crc32": "a826cdbf"
+      }
+    },
+    {
+      "filename": "Str.at.e.s. 6 - Analogy-ology! (USA).bin",
+      "filesize": 747112800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b30b1903e61107f4cc35550e15996b93",
+        "sha1": "46a76f356f731db482fdbeea2e170705f420ce95",
+        "crc32": "adccd457"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CTR - Crash Team Racing (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CTR - Crash Team Racing (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "118f945e07b174956f3dd997262f3fbb",
+        "sha1": "c925bf67fc4a26017f26d95fdd32586f752d0347",
+        "crc32": "44a2ba2d"
+      }
+    },
+    {
+      "filename": "CTR - Crash Team Racing (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 740179104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f175b75193972a2acc8cce312a38c14",
+        "sha1": "c1c65362b596a7d5d9719c3abbae625b78ec299a",
+        "crc32": "f21229a3"
+      }
+    }
+  ]
+}

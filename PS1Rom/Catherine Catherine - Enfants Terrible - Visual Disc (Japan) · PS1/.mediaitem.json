@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Catherine Catherine - Enfants Terrible - Visual Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Catherine Catherine - Enfants Terrible - Visual Disc (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "37482a79cc13cb59b2e963f58028a8cc",
+        "sha1": "5a860e80c11f6508afb8894612d7f3a5575262d1",
+        "crc32": "9523dba7"
+      }
+    },
+    {
+      "filename": "Catherine Catherine - Enfants Terrible - Visual Disc (Japan).bin",
+      "filesize": 287510832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5a721d7583968e75f974ae5b562b548",
+        "sha1": "9d270db29e00db9d2b7dc1d74ec2877b6c5d165c",
+        "crc32": "56307a01"
+      }
+    }
+  ]
+}

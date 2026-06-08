@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Secret of Googol 8, The - Googol Gulch - General Store & Math Arcade (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Secret of Googol 8, The - Googol Gulch - General Store & Math Arcade (USA).cue",
+      "filesize": 140,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e7e75cfc821434f459c82eca368f761d",
+        "sha1": "c6917cc387c8ee5a6e7694fe36799a86a3d70113",
+        "crc32": "5adda1f0"
+      }
+    },
+    {
+      "filename": "Secret of Googol 8, The - Googol Gulch - General Store & Math Arcade (USA).bin",
+      "filesize": 335517504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0abafdbbe3691005b7eac567bf9a983f",
+        "sha1": "b2d1414a499dff8496e66d761e078369c7559e1a",
+        "crc32": "870538d4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 Substories - Dancing Summer Vacation (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Dancing Summer Vacation (Japan) (Disc 1).cue",
+      "filesize": 528,
+      "ext": "cue",
+      "checksums": {
+        "md5": "729e33d4db002e231aaf787505aa7bfa",
+        "sha1": "bd9f4186fbd0bb849eab0a45ccd3c5a74c507d8e",
+        "crc32": "73e93aba"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Dancing Summer Vacation (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 700543200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0205ef86f46ab9c7b35071c5b9f254e2",
+        "sha1": "e92ec06a87009e7ce42766c56eb11105b598eb74",
+        "crc32": "93232f52"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Dancing Summer Vacation (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 16299360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88d71bce8688da1e22ec0758557e38df",
+        "sha1": "ea5271ef07e93b79c9c9ce28a6c0d879e739278d",
+        "crc32": "92efda46"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Dancing Summer Vacation (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 32205936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4be9a75d41c323569ec328d33e467cc9",
+        "sha1": "a8796fe5aea7b7381872f7baa66fcde4e89ac8a6",
+        "crc32": "400a8e93"
+      }
+    }
+  ]
+}

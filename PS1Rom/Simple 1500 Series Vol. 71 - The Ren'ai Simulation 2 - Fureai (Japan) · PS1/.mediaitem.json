@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e14f5613b31d516b2589cec00d6f2050",
+        "sha1": "47e2fa65bd223d75777f65bdf155441db6eb35fb",
+        "crc32": "153a5e0b"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 71 - The Ren'ai Simulation 2 - Fureai (Japan).bin",
+      "filesize": 457358160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b37f98398271e6b40adc56ae1e0a521",
+        "sha1": "df53b442ae2471711f9e88499b20576e789c905c",
+        "crc32": "42119dd6"
+      }
+    }
+  ]
+}

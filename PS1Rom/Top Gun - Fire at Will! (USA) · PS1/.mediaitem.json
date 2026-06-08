@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Top Gun - Fire at Will! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Top Gun - Fire at Will! (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b9945ea1761ef4ae83901dae68ce256",
+        "sha1": "e03a570d5e626bda64267532634d559e241b1b03",
+        "crc32": "08b91335"
+      }
+    },
+    {
+      "filename": "Top Gun - Fire at Will! (USA).bin",
+      "filesize": 654770928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0ef88a6a9b749b8205233104b34ffce",
+        "sha1": "24293dc9cf3675d2f7af2b06ecd778775d3bdbf6",
+        "crc32": "2780ceef"
+      }
+    }
+  ]
+}

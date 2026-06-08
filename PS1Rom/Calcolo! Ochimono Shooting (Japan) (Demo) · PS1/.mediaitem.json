@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Calcolo! Ochimono Shooting (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Calcolo! Ochimono Shooting (Japan) (Demo).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4909c81b8feb76317eb2f143dc06431b",
+        "sha1": "76722e673d11167a3939345c5fd471e3850b139d",
+        "crc32": "e847e964"
+      }
+    },
+    {
+      "filename": "Calcolo! Ochimono Shooting (Japan) (Demo).bin",
+      "filesize": 60982656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "def0321c36a8876e3a2ca7f983d33ac3",
+        "sha1": "52dc584a767a39a99b50929b3ab653e4ffe73d3e",
+        "crc32": "cb43c868"
+      }
+    }
+  ]
+}

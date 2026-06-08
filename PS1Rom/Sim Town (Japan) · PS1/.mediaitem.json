@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sim Town (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sim Town (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6defe068e519d2505592dcc651213cd4",
+        "sha1": "b63228581fd1d70bd062f4f0996518a81d55cfe9",
+        "crc32": "936699d1"
+      }
+    },
+    {
+      "filename": "Sim Town (Japan).bin",
+      "filesize": 40555536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a0f2e7d879f5449c3f2b2e3e3cbf704",
+        "sha1": "1d43033e8136c601d70b93f976a1e0a0738f98a5",
+        "crc32": "194c5e9e"
+      }
+    }
+  ]
+}

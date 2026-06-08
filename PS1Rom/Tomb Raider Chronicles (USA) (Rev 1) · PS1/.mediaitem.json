@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider Chronicles (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider Chronicles (USA) (Rev 1).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "431586d76cdb79474600b95568b53496",
+        "sha1": "f232261ed3b8843f29df9c7e9aa290aada31d628",
+        "crc32": "142fecff"
+      }
+    },
+    {
+      "filename": "Tomb Raider Chronicles (USA) (Rev 1).bin",
+      "filesize": 652162560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e825c37de676141a7e79b87de1c5252b",
+        "sha1": "ae64bdc03ec57a9970e47c8212dae550db02df50",
+        "crc32": "1a59923f"
+      }
+    }
+  ]
+}

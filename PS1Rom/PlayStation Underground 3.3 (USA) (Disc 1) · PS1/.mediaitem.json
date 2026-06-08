@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground 3.3 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground 3.3 (USA) (Disc 1).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0cf4b1013b80c6d8c43fa50e405e064",
+        "sha1": "01d9ecb1ad0a1d082aa6a987dd0a0f5aa5559a30",
+        "crc32": "3d6c316c"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 3.3 (USA) (Disc 1).bin",
+      "filesize": 680205456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d58d1a375f1924cf271a06750f475838",
+        "sha1": "0f4b94ceb7e73ba5ed39c8d7878f01ac6abb94f9",
+        "crc32": "51417aaf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 1174,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e388879d3e182fe032bf89fb22315d43",
+        "sha1": "71c57d5e70692e48d1c076ac9ae07b7a80e54798",
+        "crc32": "7b391199"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 361749360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5649b72ce92ab9edbdcc779e9a417128",
+        "sha1": "abbda5ea69f7bc36cd0f8b86e78e88e19e54e011",
+        "crc32": "32fb2b83"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 34334496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8ae0756894b8fd643188cfdee1a8dfd",
+        "sha1": "6fef43049d9c0fd8de1753e74db9e5d3bd6d1e1d",
+        "crc32": "6db834fa"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 56248080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53f058837467d0dc854e1b636829236e",
+        "sha1": "8566e40448354981dc0a9da31edf9caae0165a0e",
+        "crc32": "1cf7c613"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 53077584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02ba70af1876d0bb74269bd2762b57c2",
+        "sha1": "c0d5d633bfefba9e14484c9ed8509ee292ecae6c",
+        "crc32": "eb0f15a5"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 59540880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2fdbcd13725453dc75d273b1a0f8de8",
+        "sha1": "2be552a0f5cdb6bbd1a7fa185487e63b0878c806",
+        "crc32": "84a66edd"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 6).bin",
+      "filesize": 55455456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a81a6a5e21e69678b1c7551d5a02b7d9",
+        "sha1": "2546120dbe6c89b3e0fcbf5aa3f2e8b5b8b710cb",
+        "crc32": "c3c88f0a"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 7).bin",
+      "filesize": 3598560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1af16e5e3b0c9c570386517179aa615f",
+        "sha1": "6b7ffc05ff6015377cc81e715e0337a6d7b1033c",
+        "crc32": "2b1fe476"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Europe) (En,Fr,De,Es,It) (Track 8).bin",
+      "filesize": 56248080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53f058837467d0dc854e1b636829236e",
+        "sha1": "8566e40448354981dc0a9da31edf9caae0165a0e",
+        "crc32": "1cf7c613"
+      }
+    }
+  ]
+}

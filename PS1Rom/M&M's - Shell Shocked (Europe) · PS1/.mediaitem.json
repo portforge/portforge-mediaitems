@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "M&M's - Shell Shocked (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "M&M's - Shell Shocked (Europe).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04062a3fbb372e377bb8752f25770ef5",
+        "sha1": "ee76deaa7d7d7ee10bacae9c67a8fa9536eefcab",
+        "crc32": "0f8b5faf"
+      }
+    },
+    {
+      "filename": "M&M's - Shell Shocked (Europe).bin",
+      "filesize": 439337136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f4d913ba6ebbce7cda90ac6eb98452d",
+        "sha1": "ad32647e86f040853629759c94b04a68a00f3a02",
+        "crc32": "f7f23f95"
+      }
+    }
+  ]
+}

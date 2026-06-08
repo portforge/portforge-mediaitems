@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Discworld II - Mortellement Votre (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Discworld II - Mortellement Votre (France).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6459a8669b39d7a68f6e5721d6ca12e4",
+        "sha1": "8b29bf73a9b527b65d73d5b7c9cb741bddcb44e7",
+        "crc32": "4b8edf01"
+      }
+    },
+    {
+      "filename": "Discworld II - Mortellement Votre (France).bin",
+      "filesize": 748074768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "455d8997a36ea016ef1d1eb2ad2422f2",
+        "sha1": "77beabf03d6042f5bcfe4cda51e290fc779b241d",
+        "crc32": "2663271f"
+      }
+    }
+  ]
+}

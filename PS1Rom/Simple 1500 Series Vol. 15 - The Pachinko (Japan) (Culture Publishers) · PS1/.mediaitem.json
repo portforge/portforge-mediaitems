@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 15 - The Pachinko (Japan) (Culture Publishers)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 15 - The Pachinko (Japan) (Culture Publishers).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87a57a68e77541953e05e3c330af16dc",
+        "sha1": "1c5e5cca5e90e4627e94aa0057d9d6e89569c3c3",
+        "crc32": "b45399fe"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 15 - The Pachinko (Japan) (Culture Publishers).bin",
+      "filesize": 54420576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdd1b9ea8e4878608260fa106779cbc5",
+        "sha1": "f3a289cfd451bcd65fda0356256d69a3dd6f89e0",
+        "crc32": "fe66cbc0"
+      }
+    }
+  ]
+}

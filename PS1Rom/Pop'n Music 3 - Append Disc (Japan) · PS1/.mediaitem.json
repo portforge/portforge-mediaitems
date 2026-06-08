@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pop'n Music 3 - Append Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pop'n Music 3 - Append Disc (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a5e1340996ae7faa4007e7401586b4a",
+        "sha1": "f8ac21309c0b55f56344fc8e456bd865067a72f3",
+        "crc32": "5a3b4481"
+      }
+    },
+    {
+      "filename": "Pop'n Music 3 - Append Disc (Japan).bin",
+      "filesize": 307690992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94f54a93b346493f6a5c08231b7e5738",
+        "sha1": "ab7578802be71a1c67f8658ce53963a986c589ad",
+        "crc32": "689fd182"
+      }
+    }
+  ]
+}

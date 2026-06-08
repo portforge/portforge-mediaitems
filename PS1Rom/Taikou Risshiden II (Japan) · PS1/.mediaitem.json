@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Taikou Risshiden II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Taikou Risshiden II (Japan).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4082d5f2ea1f61f63930352b0ee8058e",
+        "sha1": "9378ed97a98e8e54a2bd350d780aa4d17aa57db4",
+        "crc32": "95ea134c"
+      }
+    },
+    {
+      "filename": "Taikou Risshiden II (Japan) (Track 1).bin",
+      "filesize": 184516752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "773bef48c1fea1e1fc7fabc107d80e7a",
+        "sha1": "d0e22279ab4211119db7204737b781837bb99160",
+        "crc32": "d4eb527a"
+      }
+    },
+    {
+      "filename": "Taikou Risshiden II (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

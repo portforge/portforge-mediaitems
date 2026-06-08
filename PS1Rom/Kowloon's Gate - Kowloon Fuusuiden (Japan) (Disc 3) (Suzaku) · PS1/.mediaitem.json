@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 3) (Suzaku)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 3) (Suzaku).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0df3ad23c87b8047869a29e7bf5d6983",
+        "sha1": "70960ad36199c66ac9bca8882b4e8ba6ffbf8692",
+        "crc32": "c5f42adf"
+      }
+    },
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 3) (Suzaku).bin",
+      "filesize": 730331280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7aa50edeb6ca4942453b8dda22ee0eb",
+        "sha1": "63be0292faa4130d45f214996f3c5c74c2fe6692",
+        "crc32": "11788d78"
+      }
+    }
+  ]
+}

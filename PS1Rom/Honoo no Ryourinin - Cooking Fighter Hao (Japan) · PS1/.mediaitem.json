@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Honoo no Ryourinin - Cooking Fighter Hao (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Honoo no Ryourinin - Cooking Fighter Hao (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17e4124e69ede1fc7b567a1037c8f59a",
+        "sha1": "378438c842c00834077b51389f43cbae3e38c1b4",
+        "crc32": "01b5db1b"
+      }
+    },
+    {
+      "filename": "Honoo no Ryourinin - Cooking Fighter Hao (Japan).bin",
+      "filesize": 421165584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01baca524cfafbf663b7229d190a05fe",
+        "sha1": "0fb7fef29c783e7c2f0200fe5798d0c06df60d2c",
+        "crc32": "6ac129ee"
+      }
+    }
+  ]
+}

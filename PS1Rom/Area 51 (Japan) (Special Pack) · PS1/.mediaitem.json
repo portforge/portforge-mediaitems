@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Area 51 (Japan) (Special Pack)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Area 51 (Japan) (Special Pack).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "13068542483cb0a7d40308e269d5271b",
+        "sha1": "f58306c94a3e625e1763b52c492194d5f0497d3c",
+        "crc32": "edd74c27"
+      }
+    },
+    {
+      "filename": "Area 51 (Japan) (Special Pack).bin",
+      "filesize": 621071472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "361c802c55c40734e016d7aead8a0e30",
+        "sha1": "c0e441f89c7b923a52de1b303fd79a38175ea843",
+        "crc32": "16e55679"
+      }
+    }
+  ]
+}

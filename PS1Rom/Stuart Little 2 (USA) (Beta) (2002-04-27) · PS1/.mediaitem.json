@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Stuart Little 2 (USA) (Beta) (2002-04-27)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Stuart Little 2 (USA) (Beta) (2002-04-27).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f145240b78a721f40249acc307b4594",
+        "sha1": "6f194ee80549b1a93ce1cdaac32b9063c9681760",
+        "crc32": "32ca65cf"
+      }
+    },
+    {
+      "filename": "Stuart Little 2 (USA) (Beta) (2002-04-27).bin",
+      "filesize": 543603648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a3713b38f97ee42d7a69d0b59fc532d",
+        "sha1": "bda6da47d8e528a62057816ac7f1027aa48769d4",
+        "crc32": "67363836"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 2 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 2 (USA) (Disc 1).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a4c12e174f9e898900a3547e47dcb3d6",
+        "sha1": "158a27a6ded7ab99186dcbf876d7a4ee0b12b987",
+        "crc32": "8139e98b"
+      }
+    },
+    {
+      "filename": "Resident Evil 2 (USA) (Disc 1) (Track 1).bin",
+      "filesize": 619490928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4437085e6f69c34a73247ab66f63215e",
+        "sha1": "289af72d48c8758bca46b7fedef97a88ea376bde",
+        "crc32": "940c0934"
+      }
+    },
+    {
+      "filename": "Resident Evil 2 (USA) (Disc 1) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

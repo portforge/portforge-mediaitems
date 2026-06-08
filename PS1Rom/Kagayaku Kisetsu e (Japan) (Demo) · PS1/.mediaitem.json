@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kagayaku Kisetsu e (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kagayaku Kisetsu e (Japan) (Demo).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2cedb60c8935b09eabf00b0084d60e2d",
+        "sha1": "28afd40ac12c605733e5e6babcdd5a0b71138e6a",
+        "crc32": "142f7875"
+      }
+    },
+    {
+      "filename": "Kagayaku Kisetsu e (Japan) (Demo).bin",
+      "filesize": 199416672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a253ffeced80824ad8ea5c889f0a934c",
+        "sha1": "76d44b32e6f0e9cb523522dca4c5093195492407",
+        "crc32": "8be0f4a4"
+      }
+    }
+  ]
+}

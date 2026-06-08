@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Road Rash 3D (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Road Rash 3D (Germany).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4437401f756560b4e4112289fc563bd8",
+        "sha1": "3a8697f13cee40d6d78025e697b8ceef9980ff8c",
+        "crc32": "bedf3972"
+      }
+    },
+    {
+      "filename": "Road Rash 3D (Germany).bin",
+      "filesize": 610689744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5c982c8346e13b9db3e8cd4f061c5cc",
+        "sha1": "7205a35fdc4ff7188e6543a9fde13fe19b0ddbae",
+        "crc32": "68ae098d"
+      }
+    }
+  ]
+}

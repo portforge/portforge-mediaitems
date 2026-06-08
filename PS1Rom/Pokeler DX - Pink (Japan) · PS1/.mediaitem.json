@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pokeler DX - Pink (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pokeler DX - Pink (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "461457da466262b3f62b66d4165ad2dc",
+        "sha1": "3c6e140c26aec216e58faa486bcd982d19b81df5",
+        "crc32": "aa8fa509"
+      }
+    },
+    {
+      "filename": "Pokeler DX - Pink (Japan).bin",
+      "filesize": 42599424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af63e2a8db88d6b412ee6b4edf9dc5f5",
+        "sha1": "d17c452f225e23aab5a4a5b2caeaba2c722a78f9",
+        "crc32": "1ff97737"
+      }
+    }
+  ]
+}

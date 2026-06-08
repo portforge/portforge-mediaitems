@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Stadium 4 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Stadium 4 (Japan).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e80004d52724f552fb6372f2e408b12",
+        "sha1": "839ed6670a97cee26e337d0ad049c24f335bd09a",
+        "crc32": "60f6a23d"
+      }
+    },
+    {
+      "filename": "World Stadium 4 (Japan) (Track 1).bin",
+      "filesize": 684422592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2638b119496fb9dd14b60c2a8262034e",
+        "sha1": "41d43d2ccbcbccaaf29ca5ec2160ce731f3e445b",
+        "crc32": "5a461fa6"
+      }
+    },
+    {
+      "filename": "World Stadium 4 (Japan) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

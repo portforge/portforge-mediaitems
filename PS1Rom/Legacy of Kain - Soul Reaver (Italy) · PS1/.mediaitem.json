@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legacy of Kain - Soul Reaver (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legacy of Kain - Soul Reaver (Italy).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f1c0f13dede23bff98c5fef85f48228",
+        "sha1": "8744047041eb3d7c9ae29199538c4134c4b0c7c0",
+        "crc32": "e002740b"
+      }
+    },
+    {
+      "filename": "Legacy of Kain - Soul Reaver (Italy).bin",
+      "filesize": 704950848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c84fef1c40778309e8a69d8389dcdc8",
+        "sha1": "4c720c5111eb3b887e58c71d15548ba4344bdf83",
+        "crc32": "d26ffd48"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Neverland - The Olerud Kingdom Stories (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Neverland - The Olerud Kingdom Stories (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b36a17d390f73a60fd11c00428c9c032",
+        "sha1": "ec545c7538cff71e9a252f2850955e0b0ab8aa7b",
+        "crc32": "0de3c9c5"
+      }
+    },
+    {
+      "filename": "World Neverland - The Olerud Kingdom Stories (Japan).bin",
+      "filesize": 180927600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "453739a573e561f0bb8223553d6703d3",
+        "sha1": "1f8fc3b44dcf9f7dca30d5260a7dd0ad8d18df79",
+        "crc32": "6146439d"
+      }
+    }
+  ]
+}

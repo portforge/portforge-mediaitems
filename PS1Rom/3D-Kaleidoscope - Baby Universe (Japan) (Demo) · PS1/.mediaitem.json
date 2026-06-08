@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "3D-Kaleidoscope - Baby Universe (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "3D-Kaleidoscope - Baby Universe (Japan) (Demo).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a220f82f359528d9180200f615dd604f",
+        "sha1": "ad1b2e2abfb010f3c799014d8e48383994a72f3e",
+        "crc32": "ea662b9f"
+      }
+    },
+    {
+      "filename": "3D-Kaleidoscope - Baby Universe (Japan) (Demo).bin",
+      "filesize": 396970560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e825bc6e9e119b3b718a059232314b2",
+        "sha1": "82d50cf8efd14f2b03fcc92230df59cfa0268510",
+        "crc32": "dd4560a6"
+      }
+    }
+  ]
+}

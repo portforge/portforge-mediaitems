@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Free Spin Demo Disc! (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Free Spin Demo Disc! (Europe).cue",
+      "filesize": 474,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a3983d65f3d9a49ff349ae22a164dd4d",
+        "sha1": "d6f1fa16d446ad5fad8ba55fdb293cf37efdb8fa",
+        "crc32": "e4cde5b7"
+      }
+    },
+    {
+      "filename": "Free Spin Demo Disc! (Europe) (Track 1).bin",
+      "filesize": 376334112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a7874c91bf9d1c4f3f9f7a79ef4f704",
+        "sha1": "67fbc51d8eade5897ca378d7bd9c626f86f3ad89",
+        "crc32": "7c9b588b"
+      }
+    },
+    {
+      "filename": "Free Spin Demo Disc! (Europe) (Track 2).bin",
+      "filesize": 32474064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41371a0a2913ed6ea1cbb99d8092800",
+        "sha1": "88aa669545d4b2a14e14bbbf78bcff4305d8141c",
+        "crc32": "9ec0e731"
+      }
+    },
+    {
+      "filename": "Free Spin Demo Disc! (Europe) (Track 3).bin",
+      "filesize": 32474064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41371a0a2913ed6ea1cbb99d8092800",
+        "sha1": "88aa669545d4b2a14e14bbbf78bcff4305d8141c",
+        "crc32": "9ec0e731"
+      }
+    },
+    {
+      "filename": "Free Spin Demo Disc! (Europe) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

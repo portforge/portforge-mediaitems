@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bottom of the 9th - Major League Heroes (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bottom of the 9th - Major League Heroes (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f5ade67378b36841967a06bc9c721ea",
+        "sha1": "a35c754b0c1cb582b9a9a26d0bbc7a0431422f9f",
+        "crc32": "53ab7243"
+      }
+    },
+    {
+      "filename": "Bottom of the 9th - Major League Heroes (Japan).bin",
+      "filesize": 268962960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67f730c9625a4b886b3012218ae22245",
+        "sha1": "c6d2f28f492eab5e148c32ff91ed8b545fe1b064",
+        "crc32": "a3551401"
+      }
+    }
+  ]
+}

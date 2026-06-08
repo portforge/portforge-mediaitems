@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Shadow (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Shadow (Japan) (Demo).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc12f0ae176ff7a50a434a70fd3e90b9",
+        "sha1": "51e97258069a362e273ff6a362eca786e8f625cf",
+        "crc32": "39a34232"
+      }
+    },
+    {
+      "filename": "Tokyo Shadow (Japan) (Demo).bin",
+      "filesize": 76830432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32c9a55295fb4fd86a373fb1a9836cd0",
+        "sha1": "b6da47b9b286b73bec84a033455b0ab44e47fe11",
+        "crc32": "dbee40be"
+      }
+    }
+  ]
+}

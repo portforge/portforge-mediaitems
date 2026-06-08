@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slotter Mania 6 - Bakuretsu Sairai! Wadatsumi (2 Types) & Blue Lagoon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slotter Mania 6 - Bakuretsu Sairai! Wadatsumi (2 Types) & Blue Lagoon (Japan).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c548e7e968b5c07ac573e892f54bc316",
+        "sha1": "af430bfc255631bff9ca009d058bc1b8e48a257b",
+        "crc32": "00488377"
+      }
+    },
+    {
+      "filename": "Slotter Mania 6 - Bakuretsu Sairai! Wadatsumi (2 Types) & Blue Lagoon (Japan).bin",
+      "filesize": 48512352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1f8fd089a90436ea657fa2516225658",
+        "sha1": "92c35d1bb9e99f568c743a2b611427efe1c0a6c4",
+        "crc32": "921682cb"
+      }
+    }
+  ]
+}

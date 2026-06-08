@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Robot Taisen EX (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Robot Taisen EX (Japan).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "13def752e99bb3fd850b3af5c5dd4f4f",
+        "sha1": "4bc15fdd1231a112adf1a68d0a045d057c3885e0",
+        "crc32": "967940fa"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen EX (Japan) (Track 1).bin",
+      "filesize": 547155168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d36a2394a7ae33b0ce791e1f934bc5ba",
+        "sha1": "337f1e229373cd810185a23bc1abbbc724641a89",
+        "crc32": "98416427"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen EX (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

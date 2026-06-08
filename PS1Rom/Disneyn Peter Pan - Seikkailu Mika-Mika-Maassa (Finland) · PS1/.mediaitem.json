@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneyn Peter Pan - Seikkailu Mika-Mika-Maassa (Finland)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneyn Peter Pan - Seikkailu Mika-Mika-Maassa (Finland).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5873e3e16ab603058f8fed2e472252aa",
+        "sha1": "693776dcbddeffb9b08ebe9b2192244a87e0d75d",
+        "crc32": "f99eb4ff"
+      }
+    },
+    {
+      "filename": "Disneyn Peter Pan - Seikkailu Mika-Mika-Maassa (Finland).bin",
+      "filesize": 583684080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c170bfdf684425fb79e455b7dd8c6fc",
+        "sha1": "5e90dfcc580d2ed96295ff6a8cbc753916f04cd0",
+        "crc32": "c2cc76fd"
+      }
+    }
+  ]
+}

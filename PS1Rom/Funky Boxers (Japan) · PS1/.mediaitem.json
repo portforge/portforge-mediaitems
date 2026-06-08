@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Funky Boxers (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Funky Boxers (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e29efcadfe69b1c37c482e2b977771c",
+        "sha1": "14584cb05e474030b8a48b23b7e2ab3918452d6d",
+        "crc32": "0adf1f7c"
+      }
+    },
+    {
+      "filename": "Funky Boxers (Japan).bin",
+      "filesize": 136002048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e627bb0f8df24fbd475253e05df659e",
+        "sha1": "b9f784de1725fb8847e25766409878854d74d19b",
+        "crc32": "20845663"
+      }
+    }
+  ]
+}

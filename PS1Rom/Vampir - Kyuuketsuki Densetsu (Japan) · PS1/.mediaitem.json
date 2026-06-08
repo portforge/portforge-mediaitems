@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vampir - Kyuuketsuki Densetsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vampir - Kyuuketsuki Densetsu (Japan).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c6ceca69c8864b3e9d739cab37522c7",
+        "sha1": "3c4e6ac694ddfaec59343dde99d64e4c586b839f",
+        "crc32": "34d40bce"
+      }
+    },
+    {
+      "filename": "Vampir - Kyuuketsuki Densetsu (Japan) (Track 1).bin",
+      "filesize": 104581680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b738a5994f9c19642841d82f8733cf44",
+        "sha1": "b0075bf44e8cd11b9949bc9d81d0f92ee780873b",
+        "crc32": "0f83abe2"
+      }
+    },
+    {
+      "filename": "Vampir - Kyuuketsuki Densetsu (Japan) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

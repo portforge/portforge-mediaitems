@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Medal of Honor (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Medal of Honor (Europe).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b37562a2f9223bcc8d664945c10fef46",
+        "sha1": "624a8946ffa7e87c62f80fcd6fdf22e6e0fd6a05",
+        "crc32": "c4c08212"
+      }
+    },
+    {
+      "filename": "Medal of Honor (Europe).bin",
+      "filesize": 741980736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e2c8aaba7c3b939093584deb84711c8",
+        "sha1": "8c2e96724118908833d0ca485760dd208238aa87",
+        "crc32": "e5070481"
+      }
+    }
+  ]
+}

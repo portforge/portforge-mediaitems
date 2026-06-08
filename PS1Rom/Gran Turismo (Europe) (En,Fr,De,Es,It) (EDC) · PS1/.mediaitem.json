@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo (Europe) (En,Fr,De,Es,It) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo (Europe) (En,Fr,De,Es,It) (EDC).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44a72344917015409176540a339d781f",
+        "sha1": "665d47473c8b82d417208c9194c7f39f872374d3",
+        "crc32": "13992a26"
+      }
+    },
+    {
+      "filename": "Gran Turismo (Europe) (En,Fr,De,Es,It) (EDC).bin",
+      "filesize": 690241440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9026ddf5a29fcce067402863e4b9489",
+        "sha1": "58236828cad059889d927e7a84b1b720b3d752a8",
+        "crc32": "d1219952"
+      }
+    }
+  ]
+}

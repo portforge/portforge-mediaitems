@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parlor Station (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parlor Station (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fdf604ed705335c387690f544decc343",
+        "sha1": "ff98b005864974e78d595e8c5f69c9c61915711b",
+        "crc32": "f4a2733d"
+      }
+    },
+    {
+      "filename": "Parlor Station (Japan).bin",
+      "filesize": 49714224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "829f4404ba90705d810ca56a1d0a9e22",
+        "sha1": "fa1e00c6ec675e086a63753a64324b5cb81e7050",
+        "crc32": "01005245"
+      }
+    }
+  ]
+}

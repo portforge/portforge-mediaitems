@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Showtime - NBA on NBC (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Showtime - NBA on NBC (Europe).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4904779a25ee01e85ead57c8b1d3601a",
+        "sha1": "f4bb4ed90e6df860f6d3a06eefe59df2fd6c5071",
+        "crc32": "bf749464"
+      }
+    },
+    {
+      "filename": "NBA Showtime - NBA on NBC (Europe).bin",
+      "filesize": 168207984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57183d61f81d572d543fdefe51d725d3",
+        "sha1": "9ee5cd8825301fe2241dc783ba3df64e0ce83747",
+        "crc32": "5e52c100"
+      }
+    }
+  ]
+}

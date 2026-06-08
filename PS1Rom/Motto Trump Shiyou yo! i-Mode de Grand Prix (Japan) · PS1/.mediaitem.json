@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Motto Trump Shiyou yo! i-Mode de Grand Prix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Motto Trump Shiyou yo! i-Mode de Grand Prix (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c46f3553aebb20198529d82305dec956",
+        "sha1": "e3517979a3381e24db27736713a0597f7703123c",
+        "crc32": "239fe4fa"
+      }
+    },
+    {
+      "filename": "Motto Trump Shiyou yo! i-Mode de Grand Prix (Japan).bin",
+      "filesize": 309276240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edf211b7d6852b16d112e2fa1f6dc144",
+        "sha1": "350864a83c12d64295065cf8d7cb0a60d6c1b31b",
+        "crc32": "de3ae23a"
+      }
+    }
+  ]
+}

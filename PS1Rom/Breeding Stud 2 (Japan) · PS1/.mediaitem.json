@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Breeding Stud 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Breeding Stud 2 (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40323b48e42188041f53f016b182bcfd",
+        "sha1": "c2a661d08b04ac6af137d9d9f3567d01c1f6f57a",
+        "crc32": "81fb7799"
+      }
+    },
+    {
+      "filename": "Breeding Stud 2 (Japan).bin",
+      "filesize": 662160912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "614005511a34c95b024237e16e229e42",
+        "sha1": "4e6b6b676cdb8483efbd623ba87ae69fc3afbd48",
+        "crc32": "2005aded"
+      }
+    }
+  ]
+}

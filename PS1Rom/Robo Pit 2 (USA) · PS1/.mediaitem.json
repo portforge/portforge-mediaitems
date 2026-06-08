@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Robo Pit 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Robo Pit 2 (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d004bb1d32e29c6e7815e13b1cd2fa5",
+        "sha1": "3c3059f989b951d8c557680ec372c428a46723da",
+        "crc32": "4e4c6713"
+      }
+    },
+    {
+      "filename": "Robo Pit 2 (USA).bin",
+      "filesize": 116675664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c7fde7b8ff4ff03f219f08bd8e744af",
+        "sha1": "6bc095c42e221cae03f38a872c19c600f04684c8",
+        "crc32": "31a72877"
+      }
+    }
+  ]
+}

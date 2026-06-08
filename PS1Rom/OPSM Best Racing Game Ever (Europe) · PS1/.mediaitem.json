@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "OPSM Best Racing Game Ever (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "OPSM Best Racing Game Ever (Europe).cue",
+      "filesize": 498,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e5da6f8c729733a302148b16f248a93",
+        "sha1": "a2d0593a243d7963e7ca791a8cfb8d37362c966c",
+        "crc32": "0eb2dc4c"
+      }
+    },
+    {
+      "filename": "OPSM Best Racing Game Ever (Europe) (Track 1).bin",
+      "filesize": 408749376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "043d69f15c71e91ffb2bca32bb90fcfa",
+        "sha1": "96dd412907eb912f91c06cd696c7afc0c27c767f",
+        "crc32": "c5486d87"
+      }
+    },
+    {
+      "filename": "OPSM Best Racing Game Ever (Europe) (Track 2).bin",
+      "filesize": 39179616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd9ae9180c56506b0d902bb47d6a4991",
+        "sha1": "883f47577c58fc6a7ce3534ec711941ef442b76c",
+        "crc32": "2e0c69eb"
+      }
+    },
+    {
+      "filename": "OPSM Best Racing Game Ever (Europe) (Track 3).bin",
+      "filesize": 39167856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d23940e150c0b07b2801b64ae9a336c3",
+        "sha1": "772dfee9112e01870eed7a2b2e095078a20429c5",
+        "crc32": "494daebe"
+      }
+    },
+    {
+      "filename": "OPSM Best Racing Game Ever (Europe) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

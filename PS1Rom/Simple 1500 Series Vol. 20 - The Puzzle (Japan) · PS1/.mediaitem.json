@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 20 - The Puzzle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 20 - The Puzzle (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e40f3bbf8577047b4864cb6e2c6a55a",
+        "sha1": "7f0a91dbf791842091c8ff62e7a442b9092ce26c",
+        "crc32": "ff95d162"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 20 - The Puzzle (Japan).bin",
+      "filesize": 69353424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4f51ee482c894dd9a190caf54260b8c",
+        "sha1": "3c11b379253fadbf2d93e931319621b822d5bf12",
+        "crc32": "e22fdf86"
+      }
+    }
+  ]
+}

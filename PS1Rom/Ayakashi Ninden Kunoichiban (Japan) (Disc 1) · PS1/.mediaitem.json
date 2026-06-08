@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ayakashi Ninden Kunoichiban (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ayakashi Ninden Kunoichiban (Japan) (Disc 1).cue",
+      "filesize": 396,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cd580354709992d62a4b75969f2f9a41",
+        "sha1": "9b2e863e59082e7aa7eef16b742c65872cd2bf9d",
+        "crc32": "b08a76e4"
+      }
+    },
+    {
+      "filename": "Ayakashi Ninden Kunoichiban (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 642103056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14aaefd4bde019f215d76736f9a52bc0",
+        "sha1": "8b81f19f53f1b16c4612c3b809830a5dec5459b9",
+        "crc32": "cb2fc0e7"
+      }
+    },
+    {
+      "filename": "Ayakashi Ninden Kunoichiban (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 40489680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3397cd159e44de1df5b154d9eadb90c1",
+        "sha1": "af7c4aac68eff913694b7f86ab9cb26510ee6894",
+        "crc32": "8c53a9f4"
+      }
+    },
+    {
+      "filename": "Ayakashi Ninden Kunoichiban (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 46630752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3d9362ca30ea2c8646bb86e1cdc7bfe",
+        "sha1": "e845edd4d6d49375941fad6909f4b26775737bd4",
+        "crc32": "a0eb602c"
+      }
+    }
+  ]
+}

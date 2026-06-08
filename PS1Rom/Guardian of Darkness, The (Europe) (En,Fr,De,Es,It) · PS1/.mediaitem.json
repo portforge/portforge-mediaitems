@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guardian of Darkness, The (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guardian of Darkness, The (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2fe2c6e66b270c204ef00b4503dafe16",
+        "sha1": "9b4cf334a24df3d1520dc1948af3ed8353052b62",
+        "crc32": "1a90d458"
+      }
+    },
+    {
+      "filename": "Guardian of Darkness, The (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 744654960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "550821070d68668e81af682278de91cd",
+        "sha1": "654bdf9133cbe1c0eba0b4e7e3e86e35e4634e6c",
+        "crc32": "64c3ac81"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Jam Extreme (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Jam Extreme (Japan).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "016d225a7e0ea2c5765b534189e84a1a",
+        "sha1": "3ebce056e34d6926dfdebb571a4f18d77379f727",
+        "crc32": "08f0d446"
+      }
+    },
+    {
+      "filename": "NBA Jam Extreme (Japan) (Track 1).bin",
+      "filesize": 179993856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd2f97a1733b017bf9c79526f902f422",
+        "sha1": "5ceac075e23051c24c505357b09300724b60dfda",
+        "crc32": "80737255"
+      }
+    },
+    {
+      "filename": "NBA Jam Extreme (Japan) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

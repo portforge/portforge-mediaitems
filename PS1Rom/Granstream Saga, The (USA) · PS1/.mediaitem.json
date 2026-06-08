@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Granstream Saga, The (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Granstream Saga, The (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5b2af32e7d74c9fb42fec91054225e2a",
+        "sha1": "c84f2568a8727e5d98ff462996c655ebdbec4420",
+        "crc32": "62c8ef18"
+      }
+    },
+    {
+      "filename": "Granstream Saga, The (USA).bin",
+      "filesize": 581769552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61752ed6c3465c29cac84a8cc8642228",
+        "sha1": "a923f97e2cd0d7a3b7435327ca458e311fc11ff6",
+        "crc32": "142b0b3c"
+      }
+    }
+  ]
+}

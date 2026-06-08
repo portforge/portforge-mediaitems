@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jigsaw World (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jigsaw World (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5e8e7400684dcd5890cb85fdb50bff3",
+        "sha1": "d66695d5691ea1146fc8a33f1fd8c86c17b130ed",
+        "crc32": "630e77aa"
+      }
+    },
+    {
+      "filename": "Jigsaw World (Japan).bin",
+      "filesize": 37820160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a75000ec8623be53417a7cd04e5fa002",
+        "sha1": "ad1e80f22019bbe48c8c047e6033ccde2a239ae7",
+        "crc32": "c8a9e751"
+      }
+    }
+  ]
+}

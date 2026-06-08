@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Moto Racer (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Moto Racer (France) (Demo).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4867a66b5e067ebee083191531bf0405",
+        "sha1": "436e00fb578f4e6a315bd15b1739de7a1f054d52",
+        "crc32": "e51c0e2f"
+      }
+    },
+    {
+      "filename": "Moto Racer (France) (Demo) (Track 1).bin",
+      "filesize": 15690192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bfbbab3cd213aa7bc537c5c741de2a9",
+        "sha1": "1b2bd988401e3bf5046ef55e15f4986dcd83b940",
+        "crc32": "453afff6"
+      }
+    },
+    {
+      "filename": "Moto Racer (France) (Demo) (Track 2).bin",
+      "filesize": 32970336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffc2e545b6fe4e7bfb58a64afa00ea71",
+        "sha1": "bee596cf78919a7975d490ed20c1a141aac08311",
+        "crc32": "9d239220"
+      }
+    },
+    {
+      "filename": "Moto Racer (France) (Demo) (Track 3).bin",
+      "filesize": 37575552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2c9d7c881f42a4a518ec278fdc442cb",
+        "sha1": "b4afa1792d29995063985a5f61ffe7032937c960",
+        "crc32": "e5f57159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D42 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D42 (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e1750cf9c43fa5649697fee7ea36aee",
+        "sha1": "27670c47913cfbf3df93ce948c3bb51ddfcc9623",
+        "crc32": "f97a1643"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D42 (Japan) (Track 1).bin",
+      "filesize": 635778528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c181d2ae5ace08639fee038dc86d444",
+        "sha1": "5adb9ad0b0252109e59f7877009676bd2add5870",
+        "crc32": "88bd4b68"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D42 (Japan) (Track 2).bin",
+      "filesize": 17329536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ca3ffce89356f4c6c74fe9c8b736555",
+        "sha1": "c57701acddf7bb5043cb30fb74a0de4f02133b61",
+        "crc32": "1ff344aa"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D42 (Japan) (Track 3).bin",
+      "filesize": 21398496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5145ee4e7250bab82f86116c8960c17",
+        "sha1": "0a88304502c7a72566c2f84d260f2d2bd3597409",
+        "crc32": "7da4ff10"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D42 (Japan) (Track 4).bin",
+      "filesize": 40484976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90b7fbe5c0ea99a5041684cebc82c787",
+        "sha1": "8b71dd74ecaf176de3863f14400224e4ab95e3c9",
+        "crc32": "2907718d"
+      }
+    }
+  ]
+}

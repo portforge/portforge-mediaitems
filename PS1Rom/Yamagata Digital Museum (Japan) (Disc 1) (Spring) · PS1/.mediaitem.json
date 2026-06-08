@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yamagata Digital Museum (Japan) (Disc 1) (Spring)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yamagata Digital Museum (Japan) (Disc 1) (Spring).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f08cc6f76999f2225f508181defe81f7",
+        "sha1": "af1657cbe054efa080a279540b4d82473d9894c8",
+        "crc32": "ee79e2d8"
+      }
+    },
+    {
+      "filename": "Yamagata Digital Museum (Japan) (Disc 1) (Spring).bin",
+      "filesize": 83693568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81f3868e25891df133bfb5cbbe35c328",
+        "sha1": "d90d2a246b6e78892652d988c06bc8a6eaaf1411",
+        "crc32": "309be781"
+      }
+    }
+  ]
+}

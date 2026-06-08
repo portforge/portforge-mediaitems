@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Armored Core (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Armored Core (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d3a2e1cf801f71393e9a4f629b54a53",
+        "sha1": "375c67b5c6d9e62e0b6cdcb65152e738adaab81b",
+        "crc32": "f4978934"
+      }
+    },
+    {
+      "filename": "Armored Core (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 552207264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "091e015370bbb8c17adcb8c3dd84390d",
+        "sha1": "20ad05be52317bce58b251be103f9add03c92609",
+        "crc32": "f56c34b4"
+      }
+    }
+  ]
+}

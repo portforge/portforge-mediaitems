@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monster Trucks (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monster Trucks (Europe).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "890ee7e1f798a225f03e8c58791f7303",
+        "sha1": "f7a376f3c77196fcbbfbe9b9f6465a8ae52fd096",
+        "crc32": "d146cdf5"
+      }
+    },
+    {
+      "filename": "Monster Trucks (Europe).bin",
+      "filesize": 367565856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86c28706d14d59181a89bb0cce20b48a",
+        "sha1": "20cc84bd9f594619210c693d0d1435f83066602b",
+        "crc32": "da93ae94"
+      }
+    }
+  ]
+}

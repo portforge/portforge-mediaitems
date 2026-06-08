@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6cc0ce8265a840111152f08297942a0",
+        "sha1": "71cf902e43cc04279490996b6c1b4a08778e196c",
+        "crc32": "9627581c"
+      }
+    },
+    {
+      "filename": "Action Man - Mission Xtreme (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).bin",
+      "filesize": 552705888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6058af0724f16da02b72e562aa7c2a6d",
+        "sha1": "3cc7c5994cd9af5c177f2b766449bee1e79d8e39",
+        "crc32": "01b94ff1"
+      }
+    }
+  ]
+}

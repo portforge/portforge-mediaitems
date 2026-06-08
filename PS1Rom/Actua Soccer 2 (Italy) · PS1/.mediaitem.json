@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Soccer 2 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Soccer 2 (Italy).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e2be3496f016fabbe63ad52cd8f6b3e",
+        "sha1": "722366faee6d8f3e785c6315c65c5ea709f5314f",
+        "crc32": "ec3d11ad"
+      }
+    },
+    {
+      "filename": "Actua Soccer 2 (Italy) (Track 1).bin",
+      "filesize": 201898032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bc910af0f397b254891a94121c4dd19",
+        "sha1": "38578bfa9bf00d7449e2d37babf028b2b24bf681",
+        "crc32": "5879cd34"
+      }
+    },
+    {
+      "filename": "Actua Soccer 2 (Italy) (Track 2).bin",
+      "filesize": 45123120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a84fafee080fdb60775165c458ef8ee8",
+        "sha1": "6521c5df5f874fc64a8d56d4cd2fc2ae94220917",
+        "crc32": "5b8e2830"
+      }
+    }
+  ]
+}

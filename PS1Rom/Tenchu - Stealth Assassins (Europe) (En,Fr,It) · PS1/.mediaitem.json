@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenchu - Stealth Assassins (Europe) (En,Fr,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenchu - Stealth Assassins (Europe) (En,Fr,It).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f56f3aefbc5ee657788cb9811a49547",
+        "sha1": "8601161ca6863a18bc1d10636dce21b070b6f253",
+        "crc32": "5cd54a34"
+      }
+    },
+    {
+      "filename": "Tenchu - Stealth Assassins (Europe) (En,Fr,It).bin",
+      "filesize": 735237552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e02b36ab4c1411f6b0e79a34c7eb1ff0",
+        "sha1": "9cea2640db06737606a5ffb895e9de141f917213",
+        "crc32": "ededd802"
+      }
+    }
+  ]
+}

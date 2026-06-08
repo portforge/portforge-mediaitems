@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Atlantis - Das Geheimnis der verlorenen Stadt (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Atlantis - Das Geheimnis der verlorenen Stadt (Germany).cue",
+      "filesize": 296,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2dcdbf897bd6f1e653bdbb311e90925",
+        "sha1": "cb8eb038611f73a0e754c61c5b8cd1c7df7e7a46",
+        "crc32": "228132f0"
+      }
+    },
+    {
+      "filename": "Disneys Atlantis - Das Geheimnis der verlorenen Stadt (Germany) (Track 1).bin",
+      "filesize": 341282256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8685dfd774871272e609af9bda92debf",
+        "sha1": "d18c6eff7e945470047fc6a5b0abf9c30fe8b45d",
+        "crc32": "161759fd"
+      }
+    },
+    {
+      "filename": "Disneys Atlantis - Das Geheimnis der verlorenen Stadt (Germany) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

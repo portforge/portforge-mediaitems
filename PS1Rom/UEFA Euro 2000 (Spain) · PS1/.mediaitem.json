@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Euro 2000 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Euro 2000 (Spain).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4c8303ce07892502cbe55953f53578ef",
+        "sha1": "33a5a75f756fa501a9c4a9de536618382bbdd60b",
+        "crc32": "19f3f0d4"
+      }
+    },
+    {
+      "filename": "UEFA Euro 2000 (Spain).bin",
+      "filesize": 489538224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd6e85434f904849336299533694a5c2",
+        "sha1": "28321bd43a757515fd014928e4a2ed2600c46e21",
+        "crc32": "f8b3802c"
+      }
+    }
+  ]
+}

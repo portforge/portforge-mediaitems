@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ready 2 Rumble Boxing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ready 2 Rumble Boxing (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "acd79d98e501efa1b4ffd03eba3b1e36",
+        "sha1": "05e1bd7b5aadef1fba0dae8cea0c07712f57416a",
+        "crc32": "60341cfd"
+      }
+    },
+    {
+      "filename": "Ready 2 Rumble Boxing (USA).bin",
+      "filesize": 286908720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9f2635cc4c7a256d3c122a6f6884fe5",
+        "sha1": "b4002bce411ea2397954b6c2b5e1f52df695408f",
+        "crc32": "6adc2077"
+      }
+    }
+  ]
+}

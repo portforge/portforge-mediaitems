@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shuukan Gallop - Blood Master (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shuukan Gallop - Blood Master (Japan) (Disc 2).cue",
+      "filesize": 402,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b1103be57e48ca733f48fec7a1ecf5c",
+        "sha1": "7caa5702cb21263b66050a8d60e3b2d0c3cc2430",
+        "crc32": "9b6b0248"
+      }
+    },
+    {
+      "filename": "Shuukan Gallop - Blood Master (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 103330416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9cfd1521b5f6cc0d5c0c5b894f75f6fd",
+        "sha1": "d027c8ada48d82f03f1d282c4e6c8cc5ecce307b",
+        "crc32": "3c6d499c"
+      }
+    },
+    {
+      "filename": "Shuukan Gallop - Blood Master (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 34238064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441a63bc97b01d05ca6c14ced435d386",
+        "sha1": "e95e21513fcb37091a8bb47f03f81c243022f2c7",
+        "crc32": "db1b508d"
+      }
+    },
+    {
+      "filename": "Shuukan Gallop - Blood Master (Japan) (Disc 2) (Track 3).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

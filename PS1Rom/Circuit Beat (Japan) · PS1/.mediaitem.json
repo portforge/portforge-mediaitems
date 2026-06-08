@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Circuit Beat (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Circuit Beat (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95ecdefc3fc04c82ae720e40aa4c9e7b",
+        "sha1": "4eadbac41aca8a72abde1e1df8765af61750cc0e",
+        "crc32": "3af41201"
+      }
+    },
+    {
+      "filename": "Circuit Beat (Japan).bin",
+      "filesize": 85723344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2f8218ec3a8220defe88b54c0d58b78",
+        "sha1": "8a5440820fbc4cd35c392919805fa7730d8b1c0f",
+        "crc32": "87248add"
+      }
+    }
+  ]
+}

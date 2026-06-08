@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Croc - Legend of the Gobbos (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Croc - Legend of the Gobbos (Europe).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94cc39ab664311f38077028deaed4ce1",
+        "sha1": "6715311c2e7796e0312f6b7e59b0784a443515cb",
+        "crc32": "d1ca7133"
+      }
+    },
+    {
+      "filename": "Croc - Legend of the Gobbos (Europe).bin",
+      "filesize": 698838000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65f3854a7310812b4fab2fa45afaeb56",
+        "sha1": "5ba099c295d5c5069734b82222a4b98075a3c55a",
+        "crc32": "ceb9973a"
+      }
+    }
+  ]
+}

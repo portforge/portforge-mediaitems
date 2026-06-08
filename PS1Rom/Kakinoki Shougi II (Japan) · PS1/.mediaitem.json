@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kakinoki Shougi II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kakinoki Shougi II (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "383f9c2cc4d89a66d9e13e2b0f6587f4",
+        "sha1": "73d187da2268c08f6e097288798301f223265bf1",
+        "crc32": "7f554e3e"
+      }
+    },
+    {
+      "filename": "Kakinoki Shougi II (Japan).bin",
+      "filesize": 75668544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee8cf1ffcbe2c5e4458226b0a3bff66f",
+        "sha1": "1aa059e2b33387999489dd51a6f7ab551a67c1b7",
+        "crc32": "63b1ba25"
+      }
+    }
+  ]
+}

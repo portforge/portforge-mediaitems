@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "True Love Story 2 (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "True Love Story 2 (Japan) (Disc 3).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb3e7bcf77bd09ac51b8f465ecb66f2e",
+        "sha1": "936e51c6e2eef25483d59e429ab8abe772efcc77",
+        "crc32": "ebecf7ed"
+      }
+    },
+    {
+      "filename": "True Love Story 2 (Japan) (Disc 3).bin",
+      "filesize": 675355632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8aa8ff7dd4951447dc16f528be1d54f",
+        "sha1": "9bc53a1bf1f46855e6fa5638f9fefaf0497142bd",
+        "crc32": "ca39a9a1"
+      }
+    }
+  ]
+}

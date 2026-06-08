@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pandemonium! (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pandemonium! (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db73486214d1a1c53f29bff037ecbcc2",
+        "sha1": "9d36ca59d6e6fbb07b5924800350c2d539e776e1",
+        "crc32": "71757869"
+      }
+    },
+    {
+      "filename": "Pandemonium! (Europe).bin",
+      "filesize": 142157232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eaf511c3059091e49e1c03673c2ce426",
+        "sha1": "680c2930cdead2686a3fbd28c74710de61001c79",
+        "crc32": "29585dde"
+      }
+    }
+  ]
+}

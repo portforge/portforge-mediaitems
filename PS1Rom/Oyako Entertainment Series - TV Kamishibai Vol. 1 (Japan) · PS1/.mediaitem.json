@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oyako Entertainment Series - TV Kamishibai Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oyako Entertainment Series - TV Kamishibai Vol. 1 (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "35ec9aac954f2d31833f53e7f362a631",
+        "sha1": "07e452b5ba5d3bf94e639929b50840cd0a4b5512",
+        "crc32": "bcc9e279"
+      }
+    },
+    {
+      "filename": "Oyako Entertainment Series - TV Kamishibai Vol. 1 (Japan).bin",
+      "filesize": 661478832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53a7e82788fde54bbe362f9dab744f8f",
+        "sha1": "ca6211c0a18111646c8f18d4a73b50d810c7e704",
+        "crc32": "47e21b82"
+      }
+    }
+  ]
+}

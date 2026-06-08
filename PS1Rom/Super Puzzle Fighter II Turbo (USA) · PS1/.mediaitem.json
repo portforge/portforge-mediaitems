@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Puzzle Fighter II Turbo (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Puzzle Fighter II Turbo (USA).cue",
+      "filesize": 369,
+      "ext": "cue",
+      "checksums": {
+        "md5": "35efa54234ec46508359415bbbb47695",
+        "sha1": "5e0bbe1cd9897303b94ba8691b0a9267b3b46b11",
+        "crc32": "ccab9119"
+      }
+    },
+    {
+      "filename": "Super Puzzle Fighter II Turbo (USA) (Track 1).bin",
+      "filesize": 523682208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4dc27af095f6ea6b8218a0425027396a",
+        "sha1": "b299aec6e6d4c005b3b9f2917d280a8e842b8c67",
+        "crc32": "ed5cc99b"
+      }
+    },
+    {
+      "filename": "Super Puzzle Fighter II Turbo (USA) (Track 2).bin",
+      "filesize": 45334800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29049d178a31b766a489a57f389d6333",
+        "sha1": "8804b5e77bdae20cf1ec4b78e5f67a2c004347e3",
+        "crc32": "9c4fc90d"
+      }
+    },
+    {
+      "filename": "Super Puzzle Fighter II Turbo (USA) (Track 3).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

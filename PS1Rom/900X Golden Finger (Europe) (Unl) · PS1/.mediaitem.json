@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "900X Golden Finger (Europe) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "900X Golden Finger (Europe) (Unl).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb9e17ed933a3cacd24ec2daab013768",
+        "sha1": "f87fc6e5fbd337a025e15e223a526bd5f2ac6626",
+        "crc32": "5de51d65"
+      }
+    },
+    {
+      "filename": "900X Golden Finger (Europe) (Unl).bin",
+      "filesize": 49958832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc98a019296e0a355e25ea51be056e2c",
+        "sha1": "d9100f27db0d38eccec51b5b747f9df4978a67f6",
+        "crc32": "219bef12"
+      }
+    }
+  ]
+}

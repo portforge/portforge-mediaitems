@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "American Pool (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "American Pool (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "abf7c51763918d16dc047c0a167f1db9",
+        "sha1": "265b1b63a0d63d3c590075215612f8e64a1f15e9",
+        "crc32": "bad9640f"
+      }
+    },
+    {
+      "filename": "American Pool (USA).bin",
+      "filesize": 33715920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31453acaf12f7d870f5964c5f0e34029",
+        "sha1": "dffd5ead32687565c8a1aae03185048d3fc00faa",
+        "crc32": "380cba28"
+      }
+    }
+  ]
+}

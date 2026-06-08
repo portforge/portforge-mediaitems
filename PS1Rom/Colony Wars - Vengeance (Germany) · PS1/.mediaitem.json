@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars - Vengeance (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars - Vengeance (Germany).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0de198dafea1de6266aaa5b420d26c32",
+        "sha1": "1a881b17c556d2fc9adc745e5548d2fdcfe81f61",
+        "crc32": "1dab2697"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (Germany) (Track 1).bin",
+      "filesize": 574786464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f4cbc4fded2d951ec8e16dcea890899",
+        "sha1": "0fd8c19bbfbaf7ed92d6f73039f7ffcda4a5545a",
+        "crc32": "429c21cd"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (Germany) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

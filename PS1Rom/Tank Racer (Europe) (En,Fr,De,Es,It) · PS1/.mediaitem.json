@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tank Racer (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 1423,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d98e3b69ab4e8127055ae834e3a0ac1",
+        "sha1": "0bc3944581e794a5ef06d16dfd66e9172af05c78",
+        "crc32": "895a0613"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 01).bin",
+      "filesize": 132034224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "458df4960658dfdd6f1e6d8d817857a9",
+        "sha1": "872920e7d770960a67d3a606c74cf396d431b62a",
+        "crc32": "01b55e36"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 02).bin",
+      "filesize": 48105456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9d865e778517f43f06c41eeb31aea51",
+        "sha1": "57260651a7e35cb701e8fcba4f132c4db3b19038",
+        "crc32": "bd2a9764"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 03).bin",
+      "filesize": 44798544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f04b737f613f73804b0b55bd191a887",
+        "sha1": "1b7a1a896fe35815b53179cb3e4071c65cd57010",
+        "crc32": "ae519cbb"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 04).bin",
+      "filesize": 65531424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e2f487b1585fdda143bf70f0b2c7a5e",
+        "sha1": "f3a8d9dd5f1de79d1f0cbe0851ddccfb3a501476",
+        "crc32": "076b69cf"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 05).bin",
+      "filesize": 46308528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9188265a7c4b4595bd61510d1e663893",
+        "sha1": "6a5fcefd417ecb32c84736f378405deb1c4b7ed6",
+        "crc32": "a7d1f42e"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 06).bin",
+      "filesize": 53089344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ea377cef404b343bdca6057a77ce453",
+        "sha1": "4336b4676ec900a0e7d24015d5f783001f20817d",
+        "crc32": "db2e0f87"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 07).bin",
+      "filesize": 54561696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b5b4e10d8350388777151920aa0d120",
+        "sha1": "9e47f3e76f7c63750974f750da28ccfd5281a276",
+        "crc32": "7b0a0a55"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 08).bin",
+      "filesize": 58226112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40f4732f3085464a4320927594a176f2",
+        "sha1": "388cb79d9fe555a68854705c6d5d443de96e5998",
+        "crc32": "e00e0430"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 09).bin",
+      "filesize": 54648720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d7121b5f60b5fc8198e3f8910378b33",
+        "sha1": "035eb24213dacf5315d57410b3c32d4fedd30695",
+        "crc32": "51cddbe0"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 10).bin",
+      "filesize": 54352368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92a5e3def9674a98dc48506a98ef74b5",
+        "sha1": "6fe2457302c20100ecfe66e04a31d7ed98314b2a",
+        "crc32": "a04a4b48"
+      }
+    },
+    {
+      "filename": "Tank Racer (Europe) (En,Fr,De,Es,It) (Track 11).bin",
+      "filesize": 47571552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98590fae110cb218f9b1d6c54ce91ddc",
+        "sha1": "aaea2447aa814eb8ace00d0b60d5f621beea899c",
+        "crc32": "cfffaf78"
+      }
+    }
+  ]
+}

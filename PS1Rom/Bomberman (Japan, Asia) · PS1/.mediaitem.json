@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bomberman (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bomberman (Japan, Asia).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef8fe39b725b169ff4cc0822b1f43311",
+        "sha1": "7e4cab705f22d53ec61de819c553b67d108914b3",
+        "crc32": "89e8d053"
+      }
+    },
+    {
+      "filename": "Bomberman (Japan, Asia).bin",
+      "filesize": 622028736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "279549f3bb7412e6bf5bc43b67567f9a",
+        "sha1": "18511af5bbe394f353c0514a6e1df6b556f3446d",
+        "crc32": "7c8917b9"
+      }
+    }
+  ]
+}

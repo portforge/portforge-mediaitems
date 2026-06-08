@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DemoDemo PlayStation Vol. 6 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan).cue",
+      "filesize": 1143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de419dce209c30dbcf5790413630651e",
+        "sha1": "7608ede3322a8feabfecd7610ae27465da367253",
+        "crc32": "200309f1"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 1).bin",
+      "filesize": 383580624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "235f8b72baadfa5a6cb4077905f7aab6",
+        "sha1": "5468bf688eed7e1b3996a78ed3678fe11af42a0f",
+        "crc32": "390dc05c"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 2).bin",
+      "filesize": 18719568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c7c0cc420872c4e7b7f3bc7f66b6c76",
+        "sha1": "8374795580b0adb2e5eb113659015f2ae0a37604",
+        "crc32": "9f6e3585"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 3).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5f8de0a41591f2d4a468fcda3d7920e",
+        "sha1": "ddadb126ddc1f5b9a3b4296b35a4df7481975260",
+        "crc32": "c4ba2580"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 4).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63f5530ee448feb29e90a0258a135ec0",
+        "sha1": "658435cd5e3cb432685de8f58d40b8f135514308",
+        "crc32": "4de1b982"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 5).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee0e705de48489cc60282d6c1a5e912d",
+        "sha1": "1ea663063746ef4929ca85637fd70bcb6e9d87e5",
+        "crc32": "06f2edd8"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 6).bin",
+      "filesize": 1761648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53990579dacddd99ecb9ecee810e57d0",
+        "sha1": "24ec985b7551e198ba7a3372d520bf82d58fb4b5",
+        "crc32": "86b87a79"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 7).bin",
+      "filesize": 1448832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8db3ed515efb6c56218ad2b3931997f",
+        "sha1": "f7bc09cb78c5cebfbd1e6697f73cf6d1eabe2ae8",
+        "crc32": "2ba77c0b"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 8).bin",
+      "filesize": 3932544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c39582746f65b12860e79e0d04caaae5",
+        "sha1": "8623cd855a20783afbb81a29ec48eddd4de7c145",
+        "crc32": "45a8191a"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 6 (Japan) (Track 9).bin",
+      "filesize": 11889360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9953e734ed16d3cc506797891dd2e9b",
+        "sha1": "b98f511fd160031b4d5241f2e6e99b26db5beea9",
+        "crc32": "6bfef2d0"
+      }
+    }
+  ]
+}

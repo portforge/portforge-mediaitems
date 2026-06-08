@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Night Raid (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Night Raid (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ea64f879e350eb34937e9c10598d164",
+        "sha1": "3c09d56ebd1f7ec738f99ad3aec6fa7779e41f47",
+        "crc32": "d5d63585"
+      }
+    },
+    {
+      "filename": "Night Raid (Japan).bin",
+      "filesize": 369835536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a7ce2f62868df0362c5443271f6cc1b",
+        "sha1": "0338055e01e9451c2f112515677727c2d34b4d07",
+        "crc32": "6a87c9c6"
+      }
+    }
+  ]
+}

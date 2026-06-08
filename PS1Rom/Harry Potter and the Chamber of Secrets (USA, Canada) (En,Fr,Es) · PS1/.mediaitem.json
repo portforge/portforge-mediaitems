@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harry Potter and the Chamber of Secrets (USA, Canada) (En,Fr,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harry Potter and the Chamber of Secrets (USA, Canada) (En,Fr,Es).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5887293c23023b06daecbe38432b9d7f",
+        "sha1": "33a8329e8759c76a8f10a08d1b1c8f87f75f8827",
+        "crc32": "b793d61f"
+      }
+    },
+    {
+      "filename": "Harry Potter and the Chamber of Secrets (USA, Canada) (En,Fr,Es).bin",
+      "filesize": 706420848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "835a0390f345a37a8226e696db994b86",
+        "sha1": "1138250c591443c305f6c58a07b8473da1fdec01",
+        "crc32": "65698f33"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kizuna toyuu Na no Pendant with Toybox Stories (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kizuna toyuu Na no Pendant with Toybox Stories (Japan) (Disc 1).cue",
+      "filesize": 296,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b7e58ae9aaf6d3da4de26d82f473ab6",
+        "sha1": "bca11d3a185d0d9a2b8279e8460a57064e250507",
+        "crc32": "3c52cc7c"
+      }
+    },
+    {
+      "filename": "Kizuna toyuu Na no Pendant with Toybox Stories (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 621527760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69c863ffb758feb73561741a4fbabd4d",
+        "sha1": "47bfe5a1b8d809e2b4768b96e8d30bc012c96c8b",
+        "crc32": "c1e4dd94"
+      }
+    },
+    {
+      "filename": "Kizuna toyuu Na no Pendant with Toybox Stories (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 117338928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0640705c42abf9ebc54cb979272b05a",
+        "sha1": "604632ca9e2df15fe81edd3c8fa7236f0befd5ee",
+        "crc32": "59933cff"
+      }
+    }
+  ]
+}

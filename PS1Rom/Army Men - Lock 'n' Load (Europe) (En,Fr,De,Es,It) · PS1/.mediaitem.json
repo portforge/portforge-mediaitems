@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Lock 'n' Load (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Lock 'n' Load (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efeae1e0151b1c509235de1ba1a438c7",
+        "sha1": "2dd8376c4ca56775aa46f1aed25b2312b8a9ed14",
+        "crc32": "1ab90a62"
+      }
+    },
+    {
+      "filename": "Army Men - Lock 'n' Load (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 460834416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44ddd26070c89b2192d5c978ffae62fe",
+        "sha1": "aeaaf18f9cc980868789506b6868e033034cdcc3",
+        "crc32": "489a303f"
+      }
+    }
+  ]
+}

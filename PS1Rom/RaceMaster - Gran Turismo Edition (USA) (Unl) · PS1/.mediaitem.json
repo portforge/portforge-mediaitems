@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RaceMaster - Gran Turismo Edition (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RaceMaster - Gran Turismo Edition (USA) (Unl).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e68ba50febfa09b7acb3cdb29e6e176d",
+        "sha1": "7892744344f30df91ca190a40dff8d8ad9aa0965",
+        "crc32": "b6fb8046"
+      }
+    },
+    {
+      "filename": "RaceMaster - Gran Turismo Edition (USA) (Unl).bin",
+      "filesize": 7930944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7374001ed356c4dfb13dcd667986d531",
+        "sha1": "37febf7c328057a1095d145fa44c16f37638d81a",
+        "crc32": "b847823d"
+      }
+    }
+  ]
+}

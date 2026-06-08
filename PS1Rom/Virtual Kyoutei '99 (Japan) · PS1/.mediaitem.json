@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Virtual Kyoutei '99 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Virtual Kyoutei '99 (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a238698dab5defb7bae2adeb4213de8",
+        "sha1": "86881a0e0019f59c12a0687444e55d8701c938d3",
+        "crc32": "d4c361a9"
+      }
+    },
+    {
+      "filename": "Virtual Kyoutei '99 (Japan).bin",
+      "filesize": 730281888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f62f6fc2289ca1b7fe2a875aee5e858e",
+        "sha1": "c1136f2192899172927e1d97e5415051d1e8cb92",
+        "crc32": "5a843beb"
+      }
+    }
+  ]
+}

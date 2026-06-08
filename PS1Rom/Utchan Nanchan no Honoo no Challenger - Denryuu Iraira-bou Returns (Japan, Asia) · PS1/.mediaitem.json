@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan, Asia).cue",
+      "filesize": 146,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0347a46f0a2dd219ac5aef6e4107648b",
+        "sha1": "9009c28603f15b197aab05202213b6bc2c7f962e",
+        "crc32": "97c7f43e"
+      }
+    },
+    {
+      "filename": "Utchan Nanchan no Honoo no Challenger - Denryuu Iraira-bou Returns (Japan, Asia).bin",
+      "filesize": 153211632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "328be52106a445d493e06804e70d23a8",
+        "sha1": "dc17d060de10e085cd98af91eebf113de5d0d4b5",
+        "crc32": "62411da4"
+      }
+    }
+  ]
+}

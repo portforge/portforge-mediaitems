@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Versalles - Complot en la Corte del Rey Sol (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Versalles - Complot en la Corte del Rey Sol (Spain).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d58b84ba53ffd538a9420df50b10804f",
+        "sha1": "0ff0fea95b218c576b5ed9ac67c54c7cfe9452c4",
+        "crc32": "5a942a0b"
+      }
+    },
+    {
+      "filename": "Versalles - Complot en la Corte del Rey Sol (Spain).bin",
+      "filesize": 716009952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b3fec558fc2674b7d8191f8b8724c12",
+        "sha1": "878a2b9640538298a9acc5b56dfb5c773d0b572f",
+        "crc32": "6d957bc1"
+      }
+    }
+  ]
+}

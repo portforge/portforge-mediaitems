@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bloody Roar 2 - Bringer of the New Age (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bloody Roar 2 - Bringer of the New Age (Europe) (Demo).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a253e364d127a53a9f2553782245ce3b",
+        "sha1": "86ec04760156807c91324b6614c15dfc4f4e3626",
+        "crc32": "4017299c"
+      }
+    },
+    {
+      "filename": "Bloody Roar 2 - Bringer of the New Age (Europe) (Demo).bin",
+      "filesize": 425582640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03f961d46685b4143bf5a316e229c769",
+        "sha1": "d464011dbe911fcd1f1ab0cf1b66193e689bfdb4",
+        "crc32": "dea910a9"
+      }
+    }
+  ]
+}

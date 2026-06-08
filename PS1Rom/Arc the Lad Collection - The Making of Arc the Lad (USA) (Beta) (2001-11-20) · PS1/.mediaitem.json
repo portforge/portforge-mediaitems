@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arc the Lad Collection - The Making of Arc the Lad (USA) (Beta) (2001-11-20)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arc the Lad Collection - The Making of Arc the Lad (USA) (Beta) (2001-11-20).cue",
+      "filesize": 142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "96394964011c1bf458af9d01fe49c359",
+        "sha1": "c85ad0ffb560f0d1d7aeabd9a8c2a6403e943214",
+        "crc32": "a0ca2fe9"
+      }
+    },
+    {
+      "filename": "Arc the Lad Collection - The Making of Arc the Lad (USA) (Beta) (2001-11-20).bin",
+      "filesize": 621297264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31be70782b8e689980d9843e7fc2841f",
+        "sha1": "22d9228e7b8205811deee016cee566945f7e31bf",
+        "crc32": "6d1e608d"
+      }
+    }
+  ]
+}

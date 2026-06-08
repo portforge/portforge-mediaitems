@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "True Love Story Fan Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "True Love Story Fan Disc (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf89a80c14018e2085bbedd9df4e2f06",
+        "sha1": "d4a054e327e51c8bb24b83fb693c73d1c12bf728",
+        "crc32": "f56ac6ab"
+      }
+    },
+    {
+      "filename": "True Love Story Fan Disc (Japan).bin",
+      "filesize": 343787136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7974af96f3bb3168f879775ba7fd010",
+        "sha1": "9488afa1849f118356e9add723a087263deaa770",
+        "crc32": "dca5cd17"
+      }
+    }
+  ]
+}

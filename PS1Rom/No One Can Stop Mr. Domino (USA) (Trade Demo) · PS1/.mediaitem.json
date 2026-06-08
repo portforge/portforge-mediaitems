@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "No One Can Stop Mr. Domino (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "No One Can Stop Mr. Domino (USA) (Trade Demo).cue",
+      "filesize": 265,
+      "ext": "cue",
+      "checksums": {
+        "md5": "63972c4334e96477a3675819a517679a",
+        "sha1": "79fdee70661b7947ac5e1ade1e418c4efbb0a829",
+        "crc32": "64340456"
+      }
+    },
+    {
+      "filename": "No One Can Stop Mr. Domino (USA) (Trade Demo) (Track 1).bin",
+      "filesize": 230959344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "336eb21cca6d0086b17a4585d4e2c243",
+        "sha1": "8e108a5c6c3b056c0e1d755e1b6fbee9d7752de0",
+        "crc32": "8bbc3d9c"
+      }
+    },
+    {
+      "filename": "No One Can Stop Mr. Domino (USA) (Trade Demo) (Track 2).bin",
+      "filesize": 37239216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b66bd1306e80ee8a76fef6f646c9703b",
+        "sha1": "a2ecb6dc15f2b514320b08c9f00be8fba1bbb38f",
+        "crc32": "f9032fed"
+      }
+    }
+  ]
+}

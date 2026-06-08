@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Hoopz (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Hoopz (Europe) (En,Fr,De).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95c6ab51fe01676ba116d364da7d4c0d",
+        "sha1": "8541568921e69f3ec9cd86cc4d5211368617d2c4",
+        "crc32": "bbae6982"
+      }
+    },
+    {
+      "filename": "NBA Hoopz (Europe) (En,Fr,De).bin",
+      "filesize": 395067792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c1633ccef254c35d859e798eb751e3e",
+        "sha1": "42dc882c65279823e72782889a8e8d49b0b60918",
+        "crc32": "3af59d8c"
+      }
+    }
+  ]
+}

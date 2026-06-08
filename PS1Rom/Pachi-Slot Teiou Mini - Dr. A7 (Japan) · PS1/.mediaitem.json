@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou Mini - Dr. A7 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou Mini - Dr. A7 (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d994a19434b7171b8a3585fd860462f",
+        "sha1": "d6b3b12edc1def852e9b8b62aebda254bfc44322",
+        "crc32": "0eee1c42"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou Mini - Dr. A7 (Japan).bin",
+      "filesize": 37443840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa4ac4d4b89be0056a00b4bc51ee3622",
+        "sha1": "74b17f3a170824884e88c2215317bf4ccd48eedb",
+        "crc32": "0f1b6a38"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Demo Codemasters (France) (SLED-02246)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Demo Codemasters (France) (SLED-02246).cue",
+      "filesize": 510,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7926d240b8b860ff30de374e22190af8",
+        "sha1": "2c5d5e3f2f737ca6684459f236de7a3337127e1b",
+        "crc32": "f8d42f71"
+      }
+    },
+    {
+      "filename": "Demo Codemasters (France) (SLED-02246) (Track 1).bin",
+      "filesize": 252404880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec048cd3f91fc2d3097caa4d9d2793df",
+        "sha1": "ff99bf50f984237c3011767b7bfd0bce884e13fb",
+        "crc32": "e11b6dbd"
+      }
+    },
+    {
+      "filename": "Demo Codemasters (France) (SLED-02246) (Track 2).bin",
+      "filesize": 52981152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f20253c114140594ffb8d839113ccec2",
+        "sha1": "dd086e1e4d700c17b8e934428903f60603cb8844",
+        "crc32": "2ac48738"
+      }
+    },
+    {
+      "filename": "Demo Codemasters (France) (SLED-02246) (Track 3).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Demo Codemasters (France) (SLED-02246) (Track 4).bin",
+      "filesize": 55737696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "831b6c66e95e9d6a66783c0cf403a64e",
+        "sha1": "33b24c4229de03dd1b993c538305e7960450a536",
+        "crc32": "b5d8419f"
+      }
+    }
+  ]
+}

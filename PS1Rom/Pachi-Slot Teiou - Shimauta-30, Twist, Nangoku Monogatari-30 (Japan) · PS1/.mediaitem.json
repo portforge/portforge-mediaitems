@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou - Shimauta-30, Twist, Nangoku Monogatari-30 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou - Shimauta-30, Twist, Nangoku Monogatari-30 (Japan).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87ac1ca0dd06facaf2fa254f2c1d2b75",
+        "sha1": "88073fb4690351cc7146f4ccdc9d31d8276d9e40",
+        "crc32": "1887894f"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou - Shimauta-30, Twist, Nangoku Monogatari-30 (Japan).bin",
+      "filesize": 76642272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b801b24f428e1ed5136be8556e9f688f",
+        "sha1": "17aacc3e9139de24610d750c88a0c71b4571d140",
+        "crc32": "60328d05"
+      }
+    }
+  ]
+}

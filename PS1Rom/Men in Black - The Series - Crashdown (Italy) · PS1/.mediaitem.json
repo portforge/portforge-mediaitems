@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Men in Black - The Series - Crashdown (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Men in Black - The Series - Crashdown (Italy).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2aebd74e13b3c5f9a205da6b66afee23",
+        "sha1": "2ef8d3d56d3016b2fd504ebd335a54504fe48c5b",
+        "crc32": "5485c0ac"
+      }
+    },
+    {
+      "filename": "Men in Black - The Series - Crashdown (Italy).bin",
+      "filesize": 647825472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ef6ee5d4a14f2e96bdad58ca149a26e",
+        "sha1": "f00bfb7f432049a8827569f35e659b5664766b24",
+        "crc32": "270c946c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GT Circuit Breaker for Use with GT3 (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GT Circuit Breaker for Use with GT3 (UK) (Unl).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "84b0a9fbc3f99f0d01ba44d7af619bcc",
+        "sha1": "e8d412d64b9b6f65ea0bb352b86e6ecbc14e2aa2",
+        "crc32": "a7408cf3"
+      }
+    },
+    {
+      "filename": "GT Circuit Breaker for Use with GT3 (UK) (Unl).bin",
+      "filesize": 512020992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fa3b20e95c1e848182c252dfd4a7f78",
+        "sha1": "d0f7771a056aa81bc71bbd68cb8145a0cdd2331c",
+        "crc32": "ebc3cece"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Front Mission 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Front Mission 3 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a53bc8d7cf1b87938728636accfdb651",
+        "sha1": "6062f100b6f1691f77e2014996323a8487f47631",
+        "crc32": "0228572b"
+      }
+    },
+    {
+      "filename": "Front Mission 3 (USA).bin",
+      "filesize": 616837872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ef72c80da919babed1404a244b51782",
+        "sha1": "a563b24d13e2c8714d3da6dcb0b3111108ee5fef",
+        "crc32": "f22c541a"
+      }
+    }
+  ]
+}

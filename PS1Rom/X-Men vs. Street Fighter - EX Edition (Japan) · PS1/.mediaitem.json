@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Men vs. Street Fighter - EX Edition (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Men vs. Street Fighter - EX Edition (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "27ab0f8c2d529d66f11d5144e5e35335",
+        "sha1": "d2ae2e0de7887cde91135dee02a21e56f174068e",
+        "crc32": "3668cb90"
+      }
+    },
+    {
+      "filename": "X-Men vs. Street Fighter - EX Edition (Japan).bin",
+      "filesize": 392762832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01759d63918e6fd80dec50fa963006f6",
+        "sha1": "3a5d5503a9a92a01fddb7be55b8e3aee0b636692",
+        "crc32": "7e7d62f4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monkey Magic (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monkey Magic (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74fd6d3a8ea9b215d7ebc3aed98cb1a3",
+        "sha1": "b6598b4e0da5f6d5858d8d83c666350ab80190bb",
+        "crc32": "55546a27"
+      }
+    },
+    {
+      "filename": "Monkey Magic (Japan).bin",
+      "filesize": 702770544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54fc54487f802e818167d7cbc01fb9ce",
+        "sha1": "9b19eb23ed84869b31f3687ba0f5f27257a6b688",
+        "crc32": "367f96a8"
+      }
+    }
+  ]
+}

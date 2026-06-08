@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 89 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 89 (Europe).cue",
+      "filesize": 442,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75428f1e659444f50da2e309184d7df2",
+        "sha1": "0123b55a469643ed648e051b9d850028308ea3c5",
+        "crc32": "3bd9cbbe"
+      }
+    },
+    {
+      "filename": "Euro Demo 89 (Europe) (Track 1).bin",
+      "filesize": 557854416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1a6f5313d74a71fc49606748beb7ec7",
+        "sha1": "1f4a614632aca731c37bc899df772bcbf1e7badb",
+        "crc32": "c01aed4e"
+      }
+    },
+    {
+      "filename": "Euro Demo 89 (Europe) (Track 2).bin",
+      "filesize": 26641104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a23473df5013396bc4fc112c10f3977a",
+        "sha1": "91dc983136f4f3a4a64b29e8caf6bac4363e1744",
+        "crc32": "f62140c1"
+      }
+    },
+    {
+      "filename": "Euro Demo 89 (Europe) (Track 3).bin",
+      "filesize": 39544176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4055517bb3aacd54f89f1d873f602a57",
+        "sha1": "bc62f408c6aef0b57a9574303e02491ab9edddb1",
+        "crc32": "1730e033"
+      }
+    },
+    {
+      "filename": "Euro Demo 89 (Europe) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

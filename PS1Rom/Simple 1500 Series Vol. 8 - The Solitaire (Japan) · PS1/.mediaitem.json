@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 8 - The Solitaire (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 8 - The Solitaire (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8157e5c15ccaf4210d5a47ca4a65b8b8",
+        "sha1": "33a9e7ea1a61c54ec4b50a304509ab74ad3f93a5",
+        "crc32": "b0925cd3"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 8 - The Solitaire (Japan).bin",
+      "filesize": 183467760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1289e78bb4bc5a35eb892b93c9e07e7",
+        "sha1": "e38634f329bcd2fe4a8bfc3fcbb029fc134401ac",
+        "crc32": "29752bc3"
+      }
+    }
+  ]
+}

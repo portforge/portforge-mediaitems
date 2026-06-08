@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xing Entertainment Winter Special '98 Premium Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xing Entertainment Winter Special '98 Premium Disc (Japan).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "540b6015d646bf4beb92e057fe5d3d99",
+        "sha1": "94aececa7045d9cebe018d2914635a0877e2be8b",
+        "crc32": "8c650de8"
+      }
+    },
+    {
+      "filename": "Xing Entertainment Winter Special '98 Premium Disc (Japan).bin",
+      "filesize": 189006720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e2c67d8172c570da80027245ff2084d",
+        "sha1": "4b504d460468f605472b7bf7f6cbb13b1eebcac9",
+        "crc32": "bc4223c7"
+      }
+    }
+  ]
+}

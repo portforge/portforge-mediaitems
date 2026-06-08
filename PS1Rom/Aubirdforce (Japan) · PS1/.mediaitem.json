@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aubirdforce (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aubirdforce (Japan).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50742c09175495e9908bf4cfeb5586e3",
+        "sha1": "50623e18d828b2eff3002a0adb3b925beec42074",
+        "crc32": "89b489d2"
+      }
+    },
+    {
+      "filename": "Aubirdforce (Japan) (Track 1).bin",
+      "filesize": 209619648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "521fc6c74ea8f5939bce10fadc0c1508",
+        "sha1": "7549e9a36d6e49624df00ed03dcf437e3f0ebb6b",
+        "crc32": "ea439f6e"
+      }
+    },
+    {
+      "filename": "Aubirdforce (Japan) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

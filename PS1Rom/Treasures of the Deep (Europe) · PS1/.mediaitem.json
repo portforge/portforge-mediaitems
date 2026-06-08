@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Treasures of the Deep (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Treasures of the Deep (Europe).cue",
+      "filesize": 354,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1e2cb688e77164d446e36dea2fb56ff",
+        "sha1": "8e1073e46b49ab96c08e1763c650f2f6640627a8",
+        "crc32": "64a1a7cb"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Europe) (Track 1).bin",
+      "filesize": 451656912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0db17975fa7e683bfdd4508086d2e6e",
+        "sha1": "5466aa2a0cb36a1d79c5a0d5c602b1bb417fab74",
+        "crc32": "cd4e7105"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Europe) (Track 2).bin",
+      "filesize": 26765760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bdaebd20f84020d17dee50829628ebd2",
+        "sha1": "f1d1320919acbb3bd083279718501c71d634facf",
+        "crc32": "b6a2c6e6"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Europe) (Track 3).bin",
+      "filesize": 28623840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac9e9206f2737cf14b6cfa48038c483b",
+        "sha1": "1565d60d794d59b1b40d9da8f8261e1cca3ce601",
+        "crc32": "b80f53ed"
+      }
+    }
+  ]
+}

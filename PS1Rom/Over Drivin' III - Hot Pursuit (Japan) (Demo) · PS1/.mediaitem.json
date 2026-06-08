@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Over Drivin' III - Hot Pursuit (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Over Drivin' III - Hot Pursuit (Japan) (Demo).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c242ca8b2c49e0d9ae5a10adcba339be",
+        "sha1": "f8702c1e4aaebc6eb23d720dc3fa9846c115dbb5",
+        "crc32": "8f0c5ea0"
+      }
+    },
+    {
+      "filename": "Over Drivin' III - Hot Pursuit (Japan) (Demo).bin",
+      "filesize": 526509312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb6d3c06fef53609a8bb923b8fd961bd",
+        "sha1": "389531ee31e04df4c9f35dee873802c469c09166",
+        "crc32": "7265db0b"
+      }
+    }
+  ]
+}

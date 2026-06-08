@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Armored Core - Project Phantasma (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Armored Core - Project Phantasma (USA).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2e2d18f8ca22546c56735caa89cecc34",
+        "sha1": "5bea5757844b7655249396dd51f9f8ef271bd370",
+        "crc32": "f0a0118c"
+      }
+    },
+    {
+      "filename": "Armored Core - Project Phantasma (USA).bin",
+      "filesize": 454072416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91badb09339ee7e3b6d235609e8da1be",
+        "sha1": "0d3b5bbf3f860fad1482c242566b2ba890f314e2",
+        "crc32": "aaa1ef9c"
+      }
+    }
+  ]
+}

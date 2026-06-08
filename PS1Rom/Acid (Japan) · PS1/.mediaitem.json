@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Acid (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Acid (Japan).cue",
+      "filesize": 78,
+      "ext": "cue",
+      "checksums": {
+        "md5": "095fecd0ee98b50982fcb5e6eda1c92b",
+        "sha1": "8be6571f3c0f9010b585c8b116f9e3ba1d66320d",
+        "crc32": "0999a7d1"
+      }
+    },
+    {
+      "filename": "Acid (Japan).bin",
+      "filesize": 749629440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2000dea8d52fc0fe65a6e02dfefc4cd",
+        "sha1": "5d819615f3c87de3a07defb7cac4a59cb3b2fa72",
+        "crc32": "55ea01bf"
+      }
+    }
+  ]
+}

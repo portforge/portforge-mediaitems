@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spice World (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spice World (Italy).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a63862fbe38c3be56fd8045248adb7ec",
+        "sha1": "e5128f0a87197cae1cd10f6da93e1282928ee9cf",
+        "crc32": "e7fc0ff1"
+      }
+    },
+    {
+      "filename": "Spice World (Italy).bin",
+      "filesize": 411771696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e692fe27633362ab8e6d205ab278b63b",
+        "sha1": "d66199363ffcf4c6970068a60f17901fea64d3d4",
+        "crc32": "8d86066a"
+      }
+    }
+  ]
+}

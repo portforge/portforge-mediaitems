@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gundam Battle Assault 2 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gundam Battle Assault 2 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 268,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50f93f1e252e8c5a176f337b0c995750",
+        "sha1": "2ba7da3c4d5635773053857d023362501b11340d",
+        "crc32": "25314c3d"
+      }
+    },
+    {
+      "filename": "Gundam Battle Assault 2 (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 343796544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59e0c4327916b31a0021a2109684ab29",
+        "sha1": "b4133a87891ba02bb3c119ce427c0876855127cd",
+        "crc32": "0cc0ad92"
+      }
+    },
+    {
+      "filename": "Gundam Battle Assault 2 (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

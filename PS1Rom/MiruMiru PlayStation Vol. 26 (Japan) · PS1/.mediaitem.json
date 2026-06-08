@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MiruMiru PlayStation Vol. 26 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MiruMiru PlayStation Vol. 26 (Japan).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efe2c04dbf6aa82ede0fc28968375c3a",
+        "sha1": "1924b3b620d3db86ca3ba7346c5a0111dc8f91e0",
+        "crc32": "b9915352"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 26 (Japan) (Track 1).bin",
+      "filesize": 615059760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b05f2a0353bc0eaf4479743e86ac29e",
+        "sha1": "e67fdb8b6bad923fb8ea3d14f3a2508576d7b05d",
+        "crc32": "a799a20f"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 26 (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

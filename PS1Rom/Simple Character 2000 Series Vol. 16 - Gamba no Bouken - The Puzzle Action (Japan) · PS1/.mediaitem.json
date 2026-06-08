@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple Character 2000 Series Vol. 16 - Gamba no Bouken - The Puzzle Action (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple Character 2000 Series Vol. 16 - Gamba no Bouken - The Puzzle Action (Japan).cue",
+      "filesize": 148,
+      "ext": "cue",
+      "checksums": {
+        "md5": "abccacc250b965a23cd1dcbaf19ad256",
+        "sha1": "01d80deac350919ac8d553d74405d2caca20aa8e",
+        "crc32": "d36094aa"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 16 - Gamba no Bouken - The Puzzle Action (Japan).bin",
+      "filesize": 127781808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc0d119266ea5c714058bfb1a1cf9e00",
+        "sha1": "ecc565a0df976bd04b4c0d072c5ccd2810ede136",
+        "crc32": "7c598b79"
+      }
+    }
+  ]
+}

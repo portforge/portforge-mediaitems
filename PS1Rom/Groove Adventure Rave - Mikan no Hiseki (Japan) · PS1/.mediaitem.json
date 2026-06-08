@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Groove Adventure Rave - Mikan no Hiseki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Groove Adventure Rave - Mikan no Hiseki (Japan).cue",
+      "filesize": 264,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0c9615d3ec84c2e8c3618c63a387212",
+        "sha1": "ac07a6df2300c340b9b542178e9db0c1bba20ba9",
+        "crc32": "033e9953"
+      }
+    },
+    {
+      "filename": "Groove Adventure Rave - Mikan no Hiseki (Japan) (Track 1).bin",
+      "filesize": 287141568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "322b590c2048cb51dc4f108232e7fc63",
+        "sha1": "3fcd0357b736ce77d019c021ada60a463190a477",
+        "crc32": "cae24cbd"
+      }
+    },
+    {
+      "filename": "Groove Adventure Rave - Mikan no Hiseki (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar A Bug's Life - Atelier de Jeux (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar A Bug's Life - Atelier de Jeux (France).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "090f8adb5d07cbbe0d62cef3f891c6f4",
+        "sha1": "bc5deace29a3fc00c32a154a3ce60e9078efb3e2",
+        "crc32": "9aa7e965"
+      }
+    },
+    {
+      "filename": "Disney-Pixar A Bug's Life - Atelier de Jeux (France).bin",
+      "filesize": 289862832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e24f9fd6594c1e68f4f1030a5ed837d",
+        "sha1": "dcab972bd8ba82549fb6374db9d1c32ff267322e",
+        "crc32": "fa6a38d2"
+      }
+    }
+  ]
+}

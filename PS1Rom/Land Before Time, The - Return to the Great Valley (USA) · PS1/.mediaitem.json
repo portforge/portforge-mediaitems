@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Land Before Time, The - Return to the Great Valley (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Land Before Time, The - Return to the Great Valley (USA).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "58a3080dbe069fe3ecbd5813edd17503",
+        "sha1": "2693d6f648dc738fb35ae42a9008fddcfb688a4b",
+        "crc32": "205c61d0"
+      }
+    },
+    {
+      "filename": "Land Before Time, The - Return to the Great Valley (USA).bin",
+      "filesize": 323696352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "601b8f5e4eb3a06b312d17932a82e90c",
+        "sha1": "28b624712c54f2cdea3a8446285e2e3d0fe20e92",
+        "crc32": "2ba68e51"
+      }
+    }
+  ]
+}

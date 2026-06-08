@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strider 2 (Europe) (Beta) (2000-05-30)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strider 2 (Europe) (Beta) (2000-05-30).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "84587530eba24a97910dddff923659c0",
+        "sha1": "c63239303f803189c3ac368d2b7f03853ea1ebe8",
+        "crc32": "533b7868"
+      }
+    },
+    {
+      "filename": "Strider 2 (Europe) (Beta) (2000-05-30).bin",
+      "filesize": 459625488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "042440e29c5d3fbd565083e44b74995b",
+        "sha1": "1eab423e6434e4afa163f41fe4d1de9493c30949",
+        "crc32": "0e300d6f"
+      }
+    }
+  ]
+}

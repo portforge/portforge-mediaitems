@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Peter Pan - Aventures au Pays Imaginaire (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Peter Pan - Aventures au Pays Imaginaire (France).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f3b399e690cbd4374d5e1f90b2c534bf",
+        "sha1": "f7fc67f7f53d6108b5e35a3cc81f436bc9832532",
+        "crc32": "7a4dfbcf"
+      }
+    },
+    {
+      "filename": "Disney Peter Pan - Aventures au Pays Imaginaire (France).bin",
+      "filesize": 584081568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26afb2c2fc7bfbbc164777a974aa8b3d",
+        "sha1": "01b982ed70c87d1a1af13c5ba72398dbbe19fdcc",
+        "crc32": "49c22a28"
+      }
+    }
+  ]
+}

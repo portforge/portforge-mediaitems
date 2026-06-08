@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenka Touitsu (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenka Touitsu (Japan) (Rev 1).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fe4990d1200dade8f25040a58c893d0c",
+        "sha1": "c22ffa77c9ed2c6ebdaf49fa9be377fd939738c5",
+        "crc32": "0e7ecd49"
+      }
+    },
+    {
+      "filename": "Tenka Touitsu (Japan) (Rev 1).bin",
+      "filesize": 219051168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31dfd015a03e30e52dceda39fd388a2a",
+        "sha1": "65ffc1798180c0cd5271fde052588ea4b81835c8",
+        "crc32": "49b8e584"
+      }
+    }
+  ]
+}

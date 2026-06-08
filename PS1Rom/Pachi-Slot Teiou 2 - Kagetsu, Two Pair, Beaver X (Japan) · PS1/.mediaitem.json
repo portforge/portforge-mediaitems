@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou 2 - Kagetsu, Two Pair, Beaver X (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou 2 - Kagetsu, Two Pair, Beaver X (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ccbcef708186221fa1310e99c0b01609",
+        "sha1": "56e0a6e1e91de68b74e1d2a206ec6cc0686fd04f",
+        "crc32": "6ee44dd7"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou 2 - Kagetsu, Two Pair, Beaver X (Japan).bin",
+      "filesize": 39760560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4748a3ca2461b66f0947a126ebbb1c28",
+        "sha1": "c292cc24fe873888b2c612846f9accb7a243b638",
+        "crc32": "5ffd0535"
+      }
+    }
+  ]
+}

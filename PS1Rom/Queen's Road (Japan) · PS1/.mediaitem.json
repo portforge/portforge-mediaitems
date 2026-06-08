@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Queen's Road (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Queen's Road (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "889e49d9e2cac585592a6697b208f52f",
+        "sha1": "6fdc8b3ede092b729d48142f2a8e46f045abfcf7",
+        "crc32": "3b6cb351"
+      }
+    },
+    {
+      "filename": "Queen's Road (Japan).bin",
+      "filesize": 489314784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8dc550f780d42d599fe2ec08d38b2810",
+        "sha1": "8bc2150bba9b3ff0d313e3a758a2abbd42c3adff",
+        "crc32": "73357dfc"
+      }
+    }
+  ]
+}

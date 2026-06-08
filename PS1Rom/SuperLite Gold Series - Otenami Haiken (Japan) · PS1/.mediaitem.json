@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite Gold Series - Otenami Haiken (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite Gold Series - Otenami Haiken (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa868cc11efb783c23ff5774f8b10537",
+        "sha1": "84a4995d1428ca4ba764aff3563f13e9fa9ebcfb",
+        "crc32": "3a97671b"
+      }
+    },
+    {
+      "filename": "SuperLite Gold Series - Otenami Haiken (Japan).bin",
+      "filesize": 67620000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c902f0e62abd77c2224eef1f201c86f4",
+        "sha1": "be94109b8764aac72a9acef3ef5237dc4a07f22a",
+        "crc32": "73b318cc"
+      }
+    }
+  ]
+}

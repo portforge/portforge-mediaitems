@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dancing Blade Katte ni Momotenshi II - Tears of Eden (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dancing Blade Katte ni Momotenshi II - Tears of Eden (Japan) (Disc 3).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d2ecdfc9a2513007942ac9e18235cf9a",
+        "sha1": "90dd0dce0e9df00b9828c255f87b5d8da71833df",
+        "crc32": "a2fa5f3b"
+      }
+    },
+    {
+      "filename": "Dancing Blade Katte ni Momotenshi II - Tears of Eden (Japan) (Disc 3).bin",
+      "filesize": 579330528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1fe95c01313b3fda8e38f7031da8851",
+        "sha1": "ce82ae3014df0ffcb83b9e2a6d1d1128dcc0a530",
+        "crc32": "28009d74"
+      }
+    }
+  ]
+}

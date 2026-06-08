@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alarmstufe Rot - Gegenschlag (Germany) (Disc 1) (Die Alliierten)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot - Gegenschlag (Germany) (Disc 1) (Die Alliierten).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44a4710746945efdc2f7428eb89cf0be",
+        "sha1": "faee8504040f9084e78aec93acaaf557c47d590a",
+        "crc32": "fdbcc135"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot - Gegenschlag (Germany) (Disc 1) (Die Alliierten).bin",
+      "filesize": 608808144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca7dbfd39f40f9b7c3554143383579b1",
+        "sha1": "f46c81e253a7007a88500897c43f86a6b57a50d8",
+        "crc32": "10373abb"
+      }
+    }
+  ]
+}

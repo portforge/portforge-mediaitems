@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Adventure Rockman (Japan) (Disc 2) (Episode 2 Shitou! Wily Numbers)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Adventure Rockman (Japan) (Disc 2) (Episode 2 Shitou! Wily Numbers).cue",
+      "filesize": 316,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a0e786de84329e5d323bd7dcbc7304e",
+        "sha1": "300fca4a12e403eb9302803487e535d5fca88bca",
+        "crc32": "3a7d89d2"
+      }
+    },
+    {
+      "filename": "Super Adventure Rockman (Japan) (Disc 2) (Episode 2 Shitou! Wily Numbers) (Track 1).bin",
+      "filesize": 564503520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d03022c69b864a0763925e7574bab5e",
+        "sha1": "afa97cf62fd3aa5a81961e65868ea476614b4683",
+        "crc32": "40121502"
+      }
+    },
+    {
+      "filename": "Super Adventure Rockman (Japan) (Disc 2) (Episode 2 Shitou! Wily Numbers) (Track 2).bin",
+      "filesize": 44201136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa75f6e783f2a625f7f603225ccbf40b",
+        "sha1": "b0f7c0ead06fb800d5226e337c7055e09c94f806",
+        "crc32": "8a01329d"
+      }
+    }
+  ]
+}

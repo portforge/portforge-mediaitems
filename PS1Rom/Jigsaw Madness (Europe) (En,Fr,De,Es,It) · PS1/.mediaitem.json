@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jigsaw Madness (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jigsaw Madness (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5c254d336e17b0e887ada6234471883e",
+        "sha1": "a8bf56279b22ff48c765591f03a2d98fa94bf3cd",
+        "crc32": "61938969"
+      }
+    },
+    {
+      "filename": "Jigsaw Madness (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 588750288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42ab59b199fc30d92fdb1a5ec0a817b7",
+        "sha1": "c232d6885bae6a7ed6d8dacbda0a5a133a6ca8e7",
+        "crc32": "8f18ec86"
+      }
+    }
+  ]
+}

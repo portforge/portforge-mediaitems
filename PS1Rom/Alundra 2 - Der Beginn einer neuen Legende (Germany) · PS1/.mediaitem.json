@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alundra 2 - Der Beginn einer neuen Legende (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alundra 2 - Der Beginn einer neuen Legende (Germany).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1183163e02b01aa4b46bfecebe18e06d",
+        "sha1": "6e526fbca5d439c1d0d71493e58c923dffa8885d",
+        "crc32": "5cae8be7"
+      }
+    },
+    {
+      "filename": "Alundra 2 - Der Beginn einer neuen Legende (Germany).bin",
+      "filesize": 631415568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e692bd8f936c4c147cd6d1c1e44a49d",
+        "sha1": "a47fdcecf56f54e77668cc6db915a22662230ca7",
+        "crc32": "b064cb15"
+      }
+    }
+  ]
+}

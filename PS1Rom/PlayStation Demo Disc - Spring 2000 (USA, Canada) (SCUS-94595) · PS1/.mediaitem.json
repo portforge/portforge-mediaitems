@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Demo Disc - Spring 2000 (USA, Canada) (SCUS-94595)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Demo Disc - Spring 2000 (USA, Canada) (SCUS-94595).cue",
+      "filesize": 450,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b64b01cafeeb9648afe5a3f07f705e11",
+        "sha1": "a39b6bb539cc6cad69289d19a3d84f47bfc2b9c4",
+        "crc32": "7f0a98c2"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc - Spring 2000 (USA, Canada) (SCUS-94595) (Track 1).bin",
+      "filesize": 515509008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abad19f7e8be85ec8ffece986eab5605",
+        "sha1": "46642d85ef4a71ffd9ccb53ff0c90f01745ced9f",
+        "crc32": "c5cd5516"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc - Spring 2000 (USA, Canada) (SCUS-94595) (Track 2).bin",
+      "filesize": 35103600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1166e5026f0a5f8cdb3bbf89fb5e780b",
+        "sha1": "5ded4fd4e5df366a4a68a6692d326eda6e48fad9",
+        "crc32": "acbd2e8a"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc - Spring 2000 (USA, Canada) (SCUS-94595) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

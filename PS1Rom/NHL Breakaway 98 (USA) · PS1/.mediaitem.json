@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Breakaway 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Breakaway 98 (USA).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1eec9b1df70fdb297e240061d2862781",
+        "sha1": "b7e74b75a9ebd69ff9808e87d37ca1aeb09e7d45",
+        "crc32": "05ff653d"
+      }
+    },
+    {
+      "filename": "NHL Breakaway 98 (USA) (Track 1).bin",
+      "filesize": 212413824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57882060860f923acbe4f77edd43736e",
+        "sha1": "68d6db3184a8682e2051b1ade280cc07f1a065bb",
+        "crc32": "c3a3d6c5"
+      }
+    },
+    {
+      "filename": "NHL Breakaway 98 (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

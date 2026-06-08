@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 3 - Nemesis (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 3 - Nemesis (USA, Canada).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11b53c03c08d0d6ace693994a12353b0",
+        "sha1": "eb5c7eb070991c195d2f99f82cd3d535c340bc73",
+        "crc32": "c02eab3a"
+      }
+    },
+    {
+      "filename": "Resident Evil 3 - Nemesis (USA, Canada).bin",
+      "filesize": 722165136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03ccf2f717dad9168640f518dd4e3e80",
+        "sha1": "c5993ac3ea6efb4181554aa32d8749a7f728a7ad",
+        "crc32": "132bb3e6"
+      }
+    }
+  ]
+}

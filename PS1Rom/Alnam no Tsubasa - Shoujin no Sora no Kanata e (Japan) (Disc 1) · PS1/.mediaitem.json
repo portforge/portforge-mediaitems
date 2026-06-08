@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alnam no Tsubasa - Shoujin no Sora no Kanata e (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alnam no Tsubasa - Shoujin no Sora no Kanata e (Japan) (Disc 1).cue",
+      "filesize": 296,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a744d1da5d5bcf31f756694253d27b91",
+        "sha1": "4751c11ca83a8bdcdd7a8d0553ecf13ce5174556",
+        "crc32": "4ea85b9f"
+      }
+    },
+    {
+      "filename": "Alnam no Tsubasa - Shoujin no Sora no Kanata e (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 318578400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b355e2997441270df24f478ad4aaee54",
+        "sha1": "2bfc64270f7ecd544340eba6cac94d93f1929d95",
+        "crc32": "3b868f5b"
+      }
+    },
+    {
+      "filename": "Alnam no Tsubasa - Shoujin no Sora no Kanata e (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 33165552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f590598b1e09205f0d6d10f8901dec63",
+        "sha1": "53591861b3485cfc99a3a24e9145ba71d64e0c11",
+        "crc32": "533f90cb"
+      }
+    }
+  ]
+}

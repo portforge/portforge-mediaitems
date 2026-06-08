@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ECW Hardcore Revolution (Germany) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ECW Hardcore Revolution (Germany) (Rev 1).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f32cf48d06b05622cf24c25ddbdbdfd",
+        "sha1": "31b3b1490532c7b14ed40b6a6f6670b4c2677593",
+        "crc32": "14c65e3d"
+      }
+    },
+    {
+      "filename": "ECW Hardcore Revolution (Germany) (Rev 1) (Track 1).bin",
+      "filesize": 340167408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d82ecf424612613984491c83fe9f7f0d",
+        "sha1": "68dee7811b9ff82f26dd868c5a50bd1c4b9457a7",
+        "crc32": "ed0dc3f0"
+      }
+    },
+    {
+      "filename": "ECW Hardcore Revolution (Germany) (Rev 1) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

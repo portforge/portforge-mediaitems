@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ayrton Senna Kart Duel Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan).cue",
+      "filesize": 1038,
+      "ext": "cue",
+      "checksums": {
+        "md5": "732897069e7292964ab887582a3837d7",
+        "sha1": "71de159cda0f5178303cf816fb61c879baa906b9",
+        "crc32": "8fa6ccd8"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 1).bin",
+      "filesize": 99774192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fa07cb39d0599e105cfd42d95d42b55",
+        "sha1": "648ff2abe6c2203d63f553a46420b46a663ef727",
+        "crc32": "010312a0"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 2).bin",
+      "filesize": 23211888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca9d6af4e710826c7d3bfa52cb0fff7a",
+        "sha1": "27d7b1ad21b07447132bee4b5c2c0abac0f270b8",
+        "crc32": "97236094"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 3).bin",
+      "filesize": 54046608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1961b5e1e5d884789351629ff63b5f1",
+        "sha1": "461b77fc68b8b8c49af5b30dccbd3b9ab35cb044",
+        "crc32": "2d3ef50e"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 4).bin",
+      "filesize": 32041296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "924ec1f34f3047559cfdb6407a433fac",
+        "sha1": "dcb5aa50e5761eec25b504352bedfbbb4d486da0",
+        "crc32": "47cbe11c"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 5).bin",
+      "filesize": 34376832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe21881f4ef7b2fb3d9287f01bf7b815",
+        "sha1": "f66cb17fc765e10c466f36e8c2a7e220a7af884b",
+        "crc32": "347ea9fb"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 6).bin",
+      "filesize": 53936064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f2187d15b95ebd95cffc1f8d8000aec",
+        "sha1": "36cce1154f43306466bbc747da9574cac4df6297",
+        "crc32": "5f6ba2ff"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 7).bin",
+      "filesize": 54340608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1b7e84c0e37840ab69d177617c05f4d",
+        "sha1": "740a1b7ddd400b1bc7611a5222fe0ba813eb442f",
+        "crc32": "0b1e6f2a"
+      }
+    },
+    {
+      "filename": "Ayrton Senna Kart Duel Special (Japan) (Track 8).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32772a7d5caba5e3b875a9f003758383",
+        "sha1": "354b3c4d850c45e309a748c834d96a13f112dedf",
+        "crc32": "1428b715"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bishi Bashi Special (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bishi Bashi Special (Europe).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eff18a27b47c0a20c8ba52d08e5dc92f",
+        "sha1": "4a295d6f947187f3bf82e71704aa43ac41bb622d",
+        "crc32": "68432099"
+      }
+    },
+    {
+      "filename": "Bishi Bashi Special (Europe).bin",
+      "filesize": 207658080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c314350fdf2b51b3598acc15d89cd788",
+        "sha1": "54a02c754fc53a2638221dea21b2a24035ac2714",
+        "crc32": "b900a023"
+      }
+    }
+  ]
+}

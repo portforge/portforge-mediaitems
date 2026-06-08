@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Universal-ki Kanzen Kaiseki - Pachi-Slot Simulator (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Universal-ki Kanzen Kaiseki - Pachi-Slot Simulator (Japan).cue",
+      "filesize": 286,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f4a8cc81736da8a31b6e49a1dc29e94",
+        "sha1": "5850b82e1fad3b1182652603ad68b5d77b1dee07",
+        "crc32": "35935df1"
+      }
+    },
+    {
+      "filename": "Universal-ki Kanzen Kaiseki - Pachi-Slot Simulator (Japan) (Track 1).bin",
+      "filesize": 10680432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e025d5c756703c878249020c85fa47d2",
+        "sha1": "8cfaa8fd9f120097c5f241c35375915e1df43e37",
+        "crc32": "be62055c"
+      }
+    },
+    {
+      "filename": "Universal-ki Kanzen Kaiseki - Pachi-Slot Simulator (Japan) (Track 2).bin",
+      "filesize": 60683952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23095e0f43f5fec1002fab97fc975038",
+        "sha1": "f38208cc3121298dc4812fbc585b0fac5f5e4e72",
+        "crc32": "73add936"
+      }
+    }
+  ]
+}

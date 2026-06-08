@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MiruMiru PlayStation Vol. 4 (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MiruMiru PlayStation Vol. 4 (Japan) (Disc 3).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "48fe359a61c91c56f40596a2b9573074",
+        "sha1": "40a6ab44c18bb8e59b0c08277d675ccefa2f01b3",
+        "crc32": "62f59c7d"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 4 (Japan) (Disc 3) (Track 1).bin",
+      "filesize": 472676736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec6c10c11aeee6e6978a8fc732e3adaa",
+        "sha1": "bfcc3eba54c1c8cc7c5feb8ad01eb8c4ce5b2ebb",
+        "crc32": "49de8271"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 4 (Japan) (Disc 3) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

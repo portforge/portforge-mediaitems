@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ichigeki - Hagane no Hito (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ichigeki - Hagane no Hito (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aface7ad8d56d699f245ec56aba95f22",
+        "sha1": "078084f1dfee647c31b6ca8fc6118c451c49698e",
+        "crc32": "498f0423"
+      }
+    },
+    {
+      "filename": "Ichigeki - Hagane no Hito (Japan).bin",
+      "filesize": 543130896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00bc1283ffd4a1ff2195da17c008800c",
+        "sha1": "89a7c659a014acb580457e17e86ca8ef1f2909a4",
+        "crc32": "24e205d5"
+      }
+    }
+  ]
+}

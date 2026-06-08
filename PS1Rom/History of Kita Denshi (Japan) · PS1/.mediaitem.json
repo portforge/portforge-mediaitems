@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "History of Kita Denshi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "History of Kita Denshi (Japan).cue",
+      "filesize": 726,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8a8c8705135107f347e727f4a5f8c0fe",
+        "sha1": "3b1969c20c8a91762f456fe2534e2e4e207f56ca",
+        "crc32": "3a80cb7f"
+      }
+    },
+    {
+      "filename": "History of Kita Denshi (Japan) (Track 1).bin",
+      "filesize": 11381328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4684ddee340b5b0403487aa99a27f31",
+        "sha1": "3675236d253043cffef1d5f731f98ba1ed8cb67c",
+        "crc32": "a4ff156e"
+      }
+    },
+    {
+      "filename": "History of Kita Denshi (Japan) (Track 2).bin",
+      "filesize": 33490128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7162973fb23fef456ec5d65e713a12b7",
+        "sha1": "6cbf489085e9256136f6ff5eb9dfb891103ee1df",
+        "crc32": "7629fd94"
+      }
+    },
+    {
+      "filename": "History of Kita Denshi (Japan) (Track 3).bin",
+      "filesize": 23679936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b012cf3999ffc59f0583ffeef99bc35",
+        "sha1": "7a204354d1e4a54c9d226528b6e3e0dd5804cb64",
+        "crc32": "677f4cc7"
+      }
+    },
+    {
+      "filename": "History of Kita Denshi (Japan) (Track 4).bin",
+      "filesize": 28828464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7f577a1ffe68a24e946f7cb22e03c2f",
+        "sha1": "d417054161e1863e2a9e3cc28fe5e998470881f1",
+        "crc32": "6ac8df30"
+      }
+    },
+    {
+      "filename": "History of Kita Denshi (Japan) (Track 5).bin",
+      "filesize": 23226000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85a9f4f8a124b59467142bf9688662b5",
+        "sha1": "977f56221206c298e94aeaaaca38ca8760fc479d",
+        "crc32": "f616caf6"
+      }
+    },
+    {
+      "filename": "History of Kita Denshi (Japan) (Track 6).bin",
+      "filesize": 31942512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16d1f4ae34adb600dbb7bb9d1329c10c",
+        "sha1": "7093c69a1672d7547d71407137daa3cdf65f2ff3",
+        "crc32": "8adbed44"
+      }
+    }
+  ]
+}

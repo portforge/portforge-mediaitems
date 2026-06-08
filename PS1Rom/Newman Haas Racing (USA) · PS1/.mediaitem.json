@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Newman Haas Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Newman Haas Racing (USA).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0705cfc59ced1efe1d13e39e1590697d",
+        "sha1": "7bfd62b2b9cd1da6d3bf87d93753ee417c6e5a1a",
+        "crc32": "03a805b3"
+      }
+    },
+    {
+      "filename": "Newman Haas Racing (USA) (Track 1).bin",
+      "filesize": 263520432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5d9b85dee9255431ff0c2c2f6f43060",
+        "sha1": "1fb464cc191c1dbe4f5025faef335bfb3a9b2850",
+        "crc32": "acae4677"
+      }
+    },
+    {
+      "filename": "Newman Haas Racing (USA) (Track 2).bin",
+      "filesize": 38111808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6002be3f9e8a58e6e6b2e9dfe0a6cd30",
+        "sha1": "79bdff7464bf46a8b6c0e570b35ec62b19075b12",
+        "crc32": "f3be056b"
+      }
+    }
+  ]
+}

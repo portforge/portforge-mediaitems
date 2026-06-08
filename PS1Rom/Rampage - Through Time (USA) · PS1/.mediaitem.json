@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rampage - Through Time (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rampage - Through Time (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d5c2939129648618e082619bf09bf23",
+        "sha1": "fd9e4598222b017f0f9a0d4696f9f2f2469f2220",
+        "crc32": "8de4d798"
+      }
+    },
+    {
+      "filename": "Rampage - Through Time (USA).bin",
+      "filesize": 482637456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a892b92599694bf9e16408b8faef3bc",
+        "sha1": "42ea00198aaed858413bb1b7ae7a2902f17a59b6",
+        "crc32": "920eb348"
+      }
+    }
+  ]
+}

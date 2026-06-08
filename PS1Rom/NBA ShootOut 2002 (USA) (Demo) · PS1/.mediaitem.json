@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA ShootOut 2002 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA ShootOut 2002 (USA) (Demo).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f465659778d755e7cb8fe481f63f2a6b",
+        "sha1": "7bd66276bd45ce892db7026436a319547ce74e71",
+        "crc32": "d0eac222"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2002 (USA) (Demo) (Track 1).bin",
+      "filesize": 261568272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c254ef812e0451d842d678e4810da28",
+        "sha1": "fb099c8611b1618f03cee08ff043ab60a9eb825e",
+        "crc32": "e0e6c0c5"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2002 (USA) (Demo) (Track 2).bin",
+      "filesize": 52106208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c68bc3c514af82c04001126d9d49038",
+        "sha1": "1f762b7237ec674f5a5f8e6be77a51bc4624f000",
+        "crc32": "09a8b170"
+      }
+    }
+  ]
+}

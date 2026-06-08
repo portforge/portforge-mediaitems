@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mikagura Shoujo Tanteidan (Japan) (Disc 3) (Intermission Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mikagura Shoujo Tanteidan (Japan) (Disc 3) (Intermission Disc).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "76ea09ef2683b174e3a650e64ad9f1f5",
+        "sha1": "0bc1e65d3b4194b4e5d932130c203edeaab88842",
+        "crc32": "5054f743"
+      }
+    },
+    {
+      "filename": "Mikagura Shoujo Tanteidan (Japan) (Disc 3) (Intermission Disc).bin",
+      "filesize": 732398688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1df06fa708bb7791584a7dcc88b54329",
+        "sha1": "846d3586ae55681548b6f0c7628d5906afada6b4",
+        "crc32": "b1095fb7"
+      }
+    }
+  ]
+}

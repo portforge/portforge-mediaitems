@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De).cue",
+      "filesize": 1053,
+      "ext": "cue",
+      "checksums": {
+        "md5": "283ee6d7e8dd0f987ddf7205d53779fd",
+        "sha1": "74b73ce187e809cbad379c07a17932a79dd078f5",
+        "crc32": "38e1543b"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De) (Track 1).bin",
+      "filesize": 44107056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f8bec292128a62ca7ff451d281c38f4",
+        "sha1": "4df18857c44f340a215bbabc42e12ce4396a2c98",
+        "crc32": "37f6f723"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De) (Track 2).bin",
+      "filesize": 7888608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a70c75cee1082b994b66be434c10e35d",
+        "sha1": "9ef79a55725bea41827258083fbfc4de0e825d58",
+        "crc32": "7b223ddf"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De) (Track 3).bin",
+      "filesize": 1921584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ea53cf48d4a801053161265b4ab75eb",
+        "sha1": "fe0b2b01e8b73c44025dede31b69f87c8838295c",
+        "crc32": "19dbfa70"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De) (Track 4).bin",
+      "filesize": 1900416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "861821dc5a35ae9383cf6f6769548c96",
+        "sha1": "5e87626933fe6f4cf8f4d4c270daf1dc58e3c033",
+        "crc32": "f00fa27e"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De) (Track 5).bin",
+      "filesize": 2733024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bb99054b6154c743561bc14cfaf176f",
+        "sha1": "a2ea3e3bcd10c1eeeacbf69394c04aed3573dcda",
+        "crc32": "c1df5352"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De) (Track 6).bin",
+      "filesize": 2737728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "850a9976ba6d01481da0f89156474300",
+        "sha1": "d76522940b195ba6260918e0b1eff9172a085499",
+        "crc32": "c4a8d40a"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De) (Track 7).bin",
+      "filesize": 37874256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f6004f968e4bc686ba7ad6392b62dd8",
+        "sha1": "d510836a6eae9902405fc73a284231a72b051407",
+        "crc32": "5de84afb"
+      }
+    }
+  ]
+}

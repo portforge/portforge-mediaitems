@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hunter, The (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hunter, The (Europe).cue",
+      "filesize": 552,
+      "ext": "cue",
+      "checksums": {
+        "md5": "912aa7a54a1539dc80ade7a0cac4d93d",
+        "sha1": "319de3bf16d2c331efcf9afeb51c79e96b808f23",
+        "crc32": "35cfff21"
+      }
+    },
+    {
+      "filename": "Hunter, The (Europe) (Track 1).bin",
+      "filesize": 9102240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b3bac065d943b5ed7d678b432f661e7",
+        "sha1": "78820701c2771f3e3aa2878794dfcf390334d47e",
+        "crc32": "a110439a"
+      }
+    },
+    {
+      "filename": "Hunter, The (Europe) (Track 2).bin",
+      "filesize": 15826608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4199d0ffbcdfbda590621751d67ade63",
+        "sha1": "98622f5a4509b12ab9538b54d65780c0bdeaabdd",
+        "crc32": "94aba51e"
+      }
+    },
+    {
+      "filename": "Hunter, The (Europe) (Track 3).bin",
+      "filesize": 16513392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2161f9700b260b7fea0570e4fd49b604",
+        "sha1": "5ac9171595e7c39589cc27e0ca7793244403ae5f",
+        "crc32": "46ce90cc"
+      }
+    },
+    {
+      "filename": "Hunter, The (Europe) (Track 4).bin",
+      "filesize": 15826608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cb3db89da3f9d195d4cc7ab561930e0",
+        "sha1": "1c7fc4c8a4b39e2ebfbae69642bcab279c710e1c",
+        "crc32": "88656004"
+      }
+    },
+    {
+      "filename": "Hunter, The (Europe) (Track 5).bin",
+      "filesize": 55657728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "968f82230e03529a73f580b49ae0d494",
+        "sha1": "d8602a5be12ee406ba33398c135d2a6028a9b2c3",
+        "crc32": "504c0fbf"
+      }
+    }
+  ]
+}

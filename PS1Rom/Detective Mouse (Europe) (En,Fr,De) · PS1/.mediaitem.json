@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Detective Mouse (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Detective Mouse (Europe) (En,Fr,De).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "35869760f6b450c5892678fe3ca660a1",
+        "sha1": "c64ae158c45dc8e934eac1cac52764f5d32f5005",
+        "crc32": "59cda9ea"
+      }
+    },
+    {
+      "filename": "Detective Mouse (Europe) (En,Fr,De).bin",
+      "filesize": 370741056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fab299a43ce907fe2f4709c2ea7a3e51",
+        "sha1": "0a31f8ecefd637339d9e303d4799804a23269d00",
+        "crc32": "03d403c0"
+      }
+    }
+  ]
+}

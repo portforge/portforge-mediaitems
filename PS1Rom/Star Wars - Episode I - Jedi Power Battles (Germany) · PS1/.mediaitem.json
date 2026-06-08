@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episode I - Jedi Power Battles (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episode I - Jedi Power Battles (Germany).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b90d06b803573ecd683d266e3f4309d",
+        "sha1": "469da59b803d31c4ea6bcc94164c820c8ebd37f2",
+        "crc32": "1da78679"
+      }
+    },
+    {
+      "filename": "Star Wars - Episode I - Jedi Power Battles (Germany).bin",
+      "filesize": 444081120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0939fe2d4b8ca3c159d96c1e73271723",
+        "sha1": "afb48db71a87c867f2b17d99a3f638a25497c77f",
+        "crc32": "aed40a08"
+      }
+    }
+  ]
+}

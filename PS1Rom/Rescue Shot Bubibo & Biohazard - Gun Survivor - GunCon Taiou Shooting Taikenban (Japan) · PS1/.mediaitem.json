@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rescue Shot Bubibo & Biohazard - Gun Survivor - GunCon Taiou Shooting Taikenban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rescue Shot Bubibo & Biohazard - Gun Survivor - GunCon Taiou Shooting Taikenban (Japan).cue",
+      "filesize": 344,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa700f85faee7a66491233f175b7670b",
+        "sha1": "3707c660374d2b7e38e0ea0b3f7ab72b6fa5f6d2",
+        "crc32": "18c477a1"
+      }
+    },
+    {
+      "filename": "Rescue Shot Bubibo & Biohazard - Gun Survivor - GunCon Taiou Shooting Taikenban (Japan) (Track 1).bin",
+      "filesize": 162483216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ed5cf92f9081cb68aaa87629ce4a3bb",
+        "sha1": "498d8bd3524e350153785830daf3d2f21dc9ffa9",
+        "crc32": "7cf159eb"
+      }
+    },
+    {
+      "filename": "Rescue Shot Bubibo & Biohazard - Gun Survivor - GunCon Taiou Shooting Taikenban (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

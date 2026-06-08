@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DigimonWorld 3 - Aratanaru Bouken no Tobira (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DigimonWorld 3 - Aratanaru Bouken no Tobira (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5ff03124a95e5ab25e4c6eeec23a1e5",
+        "sha1": "fa1082b041e5727d6acab11530a3b87c82c3bc39",
+        "crc32": "2a31a295"
+      }
+    },
+    {
+      "filename": "DigimonWorld 3 - Aratanaru Bouken no Tobira (Japan).bin",
+      "filesize": 690951744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3c8e1e0dfc85eabdcac8d376ae74a56",
+        "sha1": "8594fb44f601da64087a8996ffd89ab26abb11ea",
+        "crc32": "b46f4f43"
+      }
+    }
+  ]
+}

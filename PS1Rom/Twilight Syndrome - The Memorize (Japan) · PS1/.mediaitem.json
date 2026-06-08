@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Twilight Syndrome - The Memorize (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Twilight Syndrome - The Memorize (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bde3bff9d43f5010b132e9d3e1bf2f05",
+        "sha1": "2468893b0756351120784fcf169d42795d6e3e04",
+        "crc32": "271142d4"
+      }
+    },
+    {
+      "filename": "Twilight Syndrome - The Memorize (Japan).bin",
+      "filesize": 689018400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e54387df90cb5a3640b5fd40ff41e25c",
+        "sha1": "d25561c260a7aa4a40aafd3a187be09ddfd97753",
+        "crc32": "b743555a"
+      }
+    }
+  ]
+}

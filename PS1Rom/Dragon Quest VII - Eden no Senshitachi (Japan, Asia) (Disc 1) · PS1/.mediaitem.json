@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fe2d053ad61400947e86f3c55350c5df",
+        "sha1": "50767b3db6d9003696ab7f411eae8940c58cff57",
+        "crc32": "26a80323"
+      }
+    },
+    {
+      "filename": "Dragon Quest VII - Eden no Senshitachi (Japan, Asia) (Disc 1).bin",
+      "filesize": 713189904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f19d7faf39a93fc78b2e18fe63684f7",
+        "sha1": "d7e11e89af01f40ca3f327b2842306f9dc942fb5",
+        "crc32": "040deb1c"
+      }
+    }
+  ]
+}

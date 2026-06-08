@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jingle Cats - Love-Para Daisakusen no Maki (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jingle Cats - Love-Para Daisakusen no Maki (Japan) (Demo).cue",
+      "filesize": 586,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef228221d2d016e2ff60fa5ad4d57f46",
+        "sha1": "38e595a9af9a3d60e95a1d72c1b34197c1307b97",
+        "crc32": "dc3fa81f"
+      }
+    },
+    {
+      "filename": "Jingle Cats - Love-Para Daisakusen no Maki (Japan) (Demo) (Track 1).bin",
+      "filesize": 68680752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e535bcc6b737d845fb02779ae6a9dc4",
+        "sha1": "503a211c80e09c6fe9ea42cb319145803ad074df",
+        "crc32": "1399e977"
+      }
+    },
+    {
+      "filename": "Jingle Cats - Love-Para Daisakusen no Maki (Japan) (Demo) (Track 2).bin",
+      "filesize": 22421616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cbdb1f19136392a751059b689d8268c",
+        "sha1": "3d7c1aee36ab91fa432842071f02c7dfc960dd6e",
+        "crc32": "c0ac0e62"
+      }
+    },
+    {
+      "filename": "Jingle Cats - Love-Para Daisakusen no Maki (Japan) (Demo) (Track 3).bin",
+      "filesize": 22174656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "432960b5f1c3a8dcf2c3363ca2e31784",
+        "sha1": "4029a537149ff1ac85d97af07fdc88a99d2ca1e1",
+        "crc32": "69daf5de"
+      }
+    },
+    {
+      "filename": "Jingle Cats - Love-Para Daisakusen no Maki (Japan) (Demo) (Track 4).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

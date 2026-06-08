@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hot Shots Golf 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hot Shots Golf 2 (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0bfd817691f152103d709f027a4e8f98",
+        "sha1": "374631187f3a0825619520d43558344959ae67e8",
+        "crc32": "020db6d3"
+      }
+    },
+    {
+      "filename": "Hot Shots Golf 2 (USA).bin",
+      "filesize": 288818544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0692a86fec002b23150eda8aea6f5522",
+        "sha1": "dfba20460ff10abdc67f44dbed6c743b775df0c3",
+        "crc32": "7f0b335b"
+      }
+    }
+  ]
+}

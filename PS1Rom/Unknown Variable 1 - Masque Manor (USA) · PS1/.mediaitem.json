@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Unknown Variable 1 - Masque Manor (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Unknown Variable 1 - Masque Manor (USA).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d0872861c454d037a13482e761c5dfa",
+        "sha1": "014c30a30e20011795581ce189f5046fa049d531",
+        "crc32": "1be37440"
+      }
+    },
+    {
+      "filename": "Unknown Variable 1 - Masque Manor (USA).bin",
+      "filesize": 406357392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3090c3a3777c19ac328eeaec672cb84e",
+        "sha1": "80d498c8292d7847a0cc463407049d6e427d18b7",
+        "crc32": "097e8a9a"
+      }
+    }
+  ]
+}

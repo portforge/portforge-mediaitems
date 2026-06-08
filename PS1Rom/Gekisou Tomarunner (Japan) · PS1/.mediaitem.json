@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gekisou Tomarunner (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gekisou Tomarunner (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3762514501c170a40d0abb8eb7b5def3",
+        "sha1": "7f5878c572ccf423d3a636c30e70e8480de1a4de",
+        "crc32": "49f8c4b8"
+      }
+    },
+    {
+      "filename": "Gekisou Tomarunner (Japan).bin",
+      "filesize": 534402624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09b708c3a752d5f9eada1c85d997a8ca",
+        "sha1": "aa565e7ebaf1f3454a97784bf52b9ea7180d1cc9",
+        "crc32": "ed57e006"
+      }
+    }
+  ]
+}

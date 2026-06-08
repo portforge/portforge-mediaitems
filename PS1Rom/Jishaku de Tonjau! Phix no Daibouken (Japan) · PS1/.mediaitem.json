@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jishaku de Tonjau! Phix no Daibouken (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jishaku de Tonjau! Phix no Daibouken (Japan).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d48eab722d686b1296b637b47f0bad3",
+        "sha1": "8d4861190c8e05224369df1ded803f2c0ba356ec",
+        "crc32": "23b68e82"
+      }
+    },
+    {
+      "filename": "Jishaku de Tonjau! Phix no Daibouken (Japan) (Track 1).bin",
+      "filesize": 124818288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e96e7a1d1a30ce38c96674ef8250925",
+        "sha1": "f20b63e0fab41e001d47719070808328419ed99e",
+        "crc32": "72c94b5b"
+      }
+    },
+    {
+      "filename": "Jishaku de Tonjau! Phix no Daibouken (Japan) (Track 2).bin",
+      "filesize": 503351520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58b129cab5b22bd0de2c5b73eb14c087",
+        "sha1": "fe8b3c6468fcb01f60c9bf3c83a83acd9e96a329",
+        "crc32": "2c01b071"
+      }
+    }
+  ]
+}

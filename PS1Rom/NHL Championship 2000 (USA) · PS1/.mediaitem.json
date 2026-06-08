@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Championship 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Championship 2000 (USA).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2aeedab1743cabb1ce1fd62cb8df77e6",
+        "sha1": "0428a7293620363edd128dd3d913e42e4b89a0c9",
+        "crc32": "3272f0eb"
+      }
+    },
+    {
+      "filename": "NHL Championship 2000 (USA) (Track 1).bin",
+      "filesize": 324488976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15c9ffa0bf03e330b727e4b40b19b6e5",
+        "sha1": "411dad6dab79b7751e059eeead39257488415e37",
+        "crc32": "439caf68"
+      }
+    },
+    {
+      "filename": "NHL Championship 2000 (USA) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

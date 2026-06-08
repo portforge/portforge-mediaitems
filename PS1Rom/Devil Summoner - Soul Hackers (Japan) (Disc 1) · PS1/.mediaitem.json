@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Devil Summoner - Soul Hackers (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Devil Summoner - Soul Hackers (Japan) (Disc 1).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb714bafa0eed2d65a8c4f42ef1a223b",
+        "sha1": "3f1136e2d6de6cbdb238b370446dfdb05a7137d2",
+        "crc32": "552b756d"
+      }
+    },
+    {
+      "filename": "Devil Summoner - Soul Hackers (Japan) (Disc 1).bin",
+      "filesize": 699021456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9cc42cb5db56ddc953d4c8385234a419",
+        "sha1": "a76bca34b8a8c919c425662a953afc05d7f0e912",
+        "crc32": "16a89468"
+      }
+    }
+  ]
+}

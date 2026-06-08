@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Global Domination (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Global Domination (Italy).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9256e5f2ff804d8607c9a8e2da561a89",
+        "sha1": "bdbdcc9db19d94605ae4ca7258b558d89f170595",
+        "crc32": "7fefe434"
+      }
+    },
+    {
+      "filename": "Global Domination (Italy).bin",
+      "filesize": 582910272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "175a50eefd228aecaa8f2c7a8c330dd3",
+        "sha1": "082354162a95fef60e6f7750d09b079a530092a0",
+        "crc32": "c6f4fc24"
+      }
+    }
+  ]
+}

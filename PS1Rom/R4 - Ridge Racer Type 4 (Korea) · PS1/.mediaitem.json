@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R4 - Ridge Racer Type 4 (Korea)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R4 - Ridge Racer Type 4 (Korea).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c7c294469ece4c62e508ec1591d983e0",
+        "sha1": "d2e8a11e29d243833657fa9363f3406da010b1d9",
+        "crc32": "2d3c79ab"
+      }
+    },
+    {
+      "filename": "R4 - Ridge Racer Type 4 (Korea).bin",
+      "filesize": 621421920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "924774139bc091b8b7eaff1f64abb414",
+        "sha1": "e0e5ee70bb39a92d9806c4294f48b9d5252649f1",
+        "crc32": "4e94422a"
+      }
+    }
+  ]
+}

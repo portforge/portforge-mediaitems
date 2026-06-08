@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Point Blank 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Point Blank 3 (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6a67a276ccaf9198df1fde8f016cb385",
+        "sha1": "498137e57b3e13846de3232eb6fb9eb81130c7f6",
+        "crc32": "114fb1b0"
+      }
+    },
+    {
+      "filename": "Point Blank 3 (USA).bin",
+      "filesize": 126057792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c0e405c7fb2dd9ae3057a3f93aa3739",
+        "sha1": "c76656b89e708184c3336a5cc323d057d0e4a040",
+        "crc32": "91f80f48"
+      }
+    }
+  ]
+}

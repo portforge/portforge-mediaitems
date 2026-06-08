@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Robot Taisen Alpha Gaiden (Japan) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Robot Taisen Alpha Gaiden (Japan) (Shokai Genteiban).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "870717e982b3c7bfcfe364226aaabc3a",
+        "sha1": "e8e634d9b85372ec0169cbffe47cac88b060eb90",
+        "crc32": "8715a811"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen Alpha Gaiden (Japan) (Shokai Genteiban).bin",
+      "filesize": 718310208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fd05e556b147eaa3d5e1af7a92813c0",
+        "sha1": "546675f35773bdf68a5b24a0fe429443a175cc44",
+        "crc32": "b9bef60c"
+      }
+    }
+  ]
+}

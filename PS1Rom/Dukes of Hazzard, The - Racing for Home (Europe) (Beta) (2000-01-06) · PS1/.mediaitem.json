@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dukes of Hazzard, The - Racing for Home (Europe) (Beta) (2000-01-06)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dukes of Hazzard, The - Racing for Home (Europe) (Beta) (2000-01-06).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68f99d056948077736174ed741325b99",
+        "sha1": "a4aafc7a97ca8803a1fa3d9795c2e5e0a668737e",
+        "crc32": "9ff578fe"
+      }
+    },
+    {
+      "filename": "Dukes of Hazzard, The - Racing for Home (Europe) (Beta) (2000-01-06).bin",
+      "filesize": 705630576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0705857fc0163fe2131676d2f0d59e83",
+        "sha1": "1ad6c9fb6f768c72dd45580226b93332800c1237",
+        "crc32": "baabb51e"
+      }
+    }
+  ]
+}

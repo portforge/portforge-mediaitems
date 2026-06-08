@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 26 - The Tennis (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 26 - The Tennis (Japan).cue",
+      "filesize": 546,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b8192de938e7b4aae4d2be374a0f814a",
+        "sha1": "c5db694830f7497b7442ae7a1271b9bfbcd6dee7",
+        "crc32": "1c1d110f"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 26 - The Tennis (Japan) (Track 1).bin",
+      "filesize": 2749488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b682fb2df2acee42dd594fcc8e13919b",
+        "sha1": "41412fc94c9ae25c76b2cbe739ed01efb9b5733b",
+        "crc32": "7e6da283"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 26 - The Tennis (Japan) (Track 2).bin",
+      "filesize": 30895872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7c2232ebc898e3eb35a61401610a165",
+        "sha1": "510e48b04c732325d98644b0a4f9497a534dafdf",
+        "crc32": "675e322a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 26 - The Tennis (Japan) (Track 3).bin",
+      "filesize": 38140032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a821b5d3fed13d5354042d41ee056f6c",
+        "sha1": "b473cc72da3d15c3b1da0cd539b38e19b58e0d93",
+        "crc32": "ac14b1dd"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 26 - The Tennis (Japan) (Track 4).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

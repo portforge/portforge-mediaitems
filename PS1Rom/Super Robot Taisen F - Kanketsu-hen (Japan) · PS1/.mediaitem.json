@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Robot Taisen F - Kanketsu-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Robot Taisen F - Kanketsu-hen (Japan).cue",
+      "filesize": 256,
+      "ext": "cue",
+      "checksums": {
+        "md5": "744b2f266d9412f4a3b479848a9b22ff",
+        "sha1": "3aba0613fba3aecaef8d7a382024de36d5e52b68",
+        "crc32": "d24cb6e8"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen F - Kanketsu-hen (Japan) (Track 1).bin",
+      "filesize": 525672000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbdd2cdbc756513bf3d11e68cb7df4ff",
+        "sha1": "28b3988d5e405f5bd602ed42113c709b4bc4e0d4",
+        "crc32": "a04ec282"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen F - Kanketsu-hen (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

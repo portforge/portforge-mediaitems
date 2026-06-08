@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Prism Land Story (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Prism Land Story (Europe).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdcbf1ee508091cee604dae53fadf181",
+        "sha1": "cbc51646f34b048ba33f62a51eec1d763c9de7f2",
+        "crc32": "8907336b"
+      }
+    },
+    {
+      "filename": "Prism Land Story (Europe) (Track 1).bin",
+      "filesize": 14528304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff370915626d878ba743e429486a41be",
+        "sha1": "c20d24cd2e9938a969c1f31cfa375c32b67d2830",
+        "crc32": "a795cd22"
+      }
+    },
+    {
+      "filename": "Prism Land Story (Europe) (Track 2).bin",
+      "filesize": 55657728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "968f82230e03529a73f580b49ae0d494",
+        "sha1": "d8602a5be12ee406ba33398c135d2a6028a9b2c3",
+        "crc32": "504c0fbf"
+      }
+    }
+  ]
+}

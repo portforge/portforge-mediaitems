@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Triple Play Baseball 2000 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Triple Play Baseball 2000 (Europe).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60bf5c6ce05e740d06e458106a27422d",
+        "sha1": "4e891ddebb8d4124f9aba5d87d7ce495b84f86f7",
+        "crc32": "4724a148"
+      }
+    },
+    {
+      "filename": "Triple Play Baseball 2000 (Europe).bin",
+      "filesize": 626817408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b06dceb787feebb717f0e914fd8972f1",
+        "sha1": "1d2c4e0d3eaeaf03c64f84ec12ec9414f86c184d",
+        "crc32": "124bf79e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer (Europe) (Beta) (2001-08-01)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer (Europe) (Beta) (2001-08-01).cue",
+      "filesize": 158,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c1da3cb7301204228deb9fa64e5fcb2b",
+        "sha1": "49d3291f17dcdae7ed4ce6eb004fafbd4727fcd2",
+        "crc32": "2cf8c938"
+      }
+    },
+    {
+      "filename": "Disney's Lilo & Stitch - Trouble in Paradise - PSX Model Viewer (Europe) (Beta) (2001-08-01).bin",
+      "filesize": 74513712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1c56bd34e2e6c430cd514d698125e3c",
+        "sha1": "79cfff7a854b045e634f6d7d6bd6679d2bfe7216",
+        "crc32": "80563991"
+      }
+    }
+  ]
+}

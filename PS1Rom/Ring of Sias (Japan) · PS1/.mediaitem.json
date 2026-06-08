@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ring of Sias (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ring of Sias (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "84f8462e65955b3f7e2dca153dc0f5e6",
+        "sha1": "01e83e1f8b9237b2c199eba22f54d714fc3a2b33",
+        "crc32": "e1d2b31b"
+      }
+    },
+    {
+      "filename": "Ring of Sias (Japan).bin",
+      "filesize": 557821488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a66ea9378c074b497e017af05299714",
+        "sha1": "804b12a222656676675236f6b646a86a998f35f3",
+        "crc32": "da7e157c"
+      }
+    }
+  ]
+}

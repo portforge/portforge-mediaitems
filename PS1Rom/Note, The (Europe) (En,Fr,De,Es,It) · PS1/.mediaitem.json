@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Note, The (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Note, The (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 369,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b29da10ff9c385373485ff507ef5916c",
+        "sha1": "cf3e23aadc4491748e7bdc24d1ea696537a9a655",
+        "crc32": "bea45053"
+      }
+    },
+    {
+      "filename": "Note, The (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 513596832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eaa31fc9c731235194a17ab2b6355346",
+        "sha1": "1574445d94bc43b8e731ac37e1563807a81592d2",
+        "crc32": "dccee01f"
+      }
+    },
+    {
+      "filename": "Note, The (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 17230752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccd4b8b1a3c843f8a2545b59057c3ec6",
+        "sha1": "382fc9cd6ce0b829daa606dada106d6d63262813",
+        "crc32": "80b827c9"
+      }
+    },
+    {
+      "filename": "Note, The (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 35414064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "041869809744875751830f4f6e2c2772",
+        "sha1": "c4228438e63bbbcf960c527f1bada70a9319700a",
+        "crc32": "066eb2d9"
+      }
+    }
+  ]
+}

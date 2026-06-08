@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8a15fb71b831e2a2492e853fafae9f05",
+        "sha1": "1907d12df9fbb356fe2e3c7c498be52c78092bfa",
+        "crc32": "3582c7d3"
+      }
+    },
+    {
+      "filename": "Kids Station - Mickey to Nakamatachi - Kazu Asobi Iro Iro (Japan).bin",
+      "filesize": 148451184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "450f3708ddd25dbb52c44620d6b9b5ef",
+        "sha1": "19c3a3ddbbe574dcd362583f8ec1fced5736500c",
+        "crc32": "640bb338"
+      }
+    }
+  ]
+}

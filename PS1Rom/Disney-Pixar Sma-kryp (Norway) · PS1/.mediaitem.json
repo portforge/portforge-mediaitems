@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Sma-kryp (Norway)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Sma-kryp (Norway).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9b2b88149ec72554d7ae49f0b83ab4f",
+        "sha1": "553a4486f70c6b7d9eaf58d509c9c0ee00333ab7",
+        "crc32": "b9e7df76"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Sma-kryp (Norway).bin",
+      "filesize": 740571888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b84bb5e01a2f617a5522500ccff5d6a2",
+        "sha1": "f505bf43fad03305ab75cf376b78ee1acd9dba15",
+        "crc32": "e34a008f"
+      }
+    }
+  ]
+}

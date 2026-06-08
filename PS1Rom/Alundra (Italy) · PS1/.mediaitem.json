@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alundra (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alundra (Italy).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b11c5eabf4778c07a438c2f571ff963",
+        "sha1": "6aa86a0d65bb8bba17b38409a49bdd8305be3ca0",
+        "crc32": "3615768e"
+      }
+    },
+    {
+      "filename": "Alundra (Italy).bin",
+      "filesize": 606110400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a5a3a8cb1658d35194952cc6e555165",
+        "sha1": "684127fdd27734fa91f88917cb938386a367754c",
+        "crc32": "28535294"
+      }
+    }
+  ]
+}

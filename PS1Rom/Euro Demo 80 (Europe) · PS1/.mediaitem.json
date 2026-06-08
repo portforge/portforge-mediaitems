@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 80 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 80 (Europe).cue",
+      "filesize": 1374,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc0194494bcf6483051b55632f4cb19d",
+        "sha1": "ed99b09c21aa1b6469ef705bd7ac009be6dbbd60",
+        "crc32": "c53ed4db"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 01).bin",
+      "filesize": 526387008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd18708590a2f4399a7cab816681cfcc",
+        "sha1": "5412ba83729033010b7f77a8cf8d07cb096e4713",
+        "crc32": "9d36f0c1"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 02).bin",
+      "filesize": 11108496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c428a8c01d52e7e212d5d0c312ed7030",
+        "sha1": "ec4d964a02cabfe5495e1e2c12f015a994ca27b4",
+        "crc32": "cee746b5"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 03).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3baa78d0933dabfbb7f2a5a4952bb8ee",
+        "sha1": "17a0ebe7f4c4770275e660dbde59048a0244abc9",
+        "crc32": "1469c27f"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 04).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09c3ba82e23bc1cf36a133e71af7704c",
+        "sha1": "14fc73f00397809738a0d11cd0cc408dade1386d",
+        "crc32": "ba97911a"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 05).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73de23dcaae61b065e2edf310040fd93",
+        "sha1": "55668cde8fadbcb0ab60b68f5ca87a98c37cdf60",
+        "crc32": "3920e8ef"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 06).bin",
+      "filesize": 9466800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "629ec8d58e0ee95748a307fbf2dc52e5",
+        "sha1": "615ee31779cf2902d24034f9f29fb79f87ec054f",
+        "crc32": "eece87f1"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 07).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97cf5a55da820ff064bde615f142ac0e",
+        "sha1": "8618e11fb651ff1d223cb9f1d617875cb9ca208c",
+        "crc32": "c1094b3d"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 08).bin",
+      "filesize": 29743392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db4d1a78bf627c3049309ba4a9f7137",
+        "sha1": "eae7e7732799438efb2ddb299729232136f1e6ae",
+        "crc32": "4f64b28d"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 09).bin",
+      "filesize": 35912688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a155d5360c376b3e1a8f5e851fc74bbd",
+        "sha1": "aeb3e9e062860f120698f66c67eaf2dfc4987012",
+        "crc32": "0251b551"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 10).bin",
+      "filesize": 35510496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc3f32c3e40a90047a12ed8a463f4e9d",
+        "sha1": "0e015c2c6e8115d57382732511749c3edf85630d",
+        "crc32": "704f1adc"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 11).bin",
+      "filesize": 37116912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d101685396fdb4d643c00e09bcb634d",
+        "sha1": "5bd650a4c52f40c027f1ecb46960f64be35d3d5e",
+        "crc32": "5e1bbaf0"
+      }
+    },
+    {
+      "filename": "Euro Demo 80 (Europe) (Track 12).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

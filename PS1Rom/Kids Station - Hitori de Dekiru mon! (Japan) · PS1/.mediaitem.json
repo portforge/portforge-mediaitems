@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Hitori de Dekiru mon! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Hitori de Dekiru mon! (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6cde4054b080c441506561eb5a1afbae",
+        "sha1": "e3dd5cfc2e9ea5f38f72a3c67cdf7ef651f686ee",
+        "crc32": "0ef1145b"
+      }
+    },
+    {
+      "filename": "Kids Station - Hitori de Dekiru mon! (Japan).bin",
+      "filesize": 650685504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64fb6e1de120967c4f80fbee6d6b7e7b",
+        "sha1": "7fc55badd2ee9ca2ec4cffc63bb02108eaf3b2bd",
+        "crc32": "83ee292b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Minna Atsumare! Igo Kyoushitsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Minna Atsumare! Igo Kyoushitsu (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e02cc42fab06965c4dd59cd05093c406",
+        "sha1": "64808021b0512bb0dce3ad7083276d89986d9bd4",
+        "crc32": "2dfe8a29"
+      }
+    },
+    {
+      "filename": "Minna Atsumare! Igo Kyoushitsu (Japan).bin",
+      "filesize": 39238416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a28c06ce1082c028c6794e603c4434ad",
+        "sha1": "0de80c46616d68dfe706f7ea1f35e8ffaa6dc2fa",
+        "crc32": "16b3a843"
+      }
+    }
+  ]
+}

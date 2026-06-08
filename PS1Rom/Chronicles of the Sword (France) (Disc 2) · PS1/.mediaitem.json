@@ -1,0 +1,507 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chronicles of the Sword (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2).cue",
+      "filesize": 6646,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c169fc01efb5c6b4fa52570b190f2e5",
+        "sha1": "cf20c7ffc9cd0b2aa1b6eb7ba19d64b08f2c48a8",
+        "crc32": "4e3a5b72"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 01).bin",
+      "filesize": 234259200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f3a88a2f8664721f78fe5301514cdae",
+        "sha1": "b5b94eca36da914f3d2676495d59ed0e7f627c5b",
+        "crc32": "c4850861"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 02).bin",
+      "filesize": 2822400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "139aab0bfdefdb9fe1a044445633e36a",
+        "sha1": "0a45e012140d970033ef14e5ec0bb74903a86f54",
+        "crc32": "9c1d7db0"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 03).bin",
+      "filesize": 20109600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18f434f929f31ccf54b4f48a94b64780",
+        "sha1": "1e7f3a884a6a834c2f7f4c831a81911d4535ccc3",
+        "crc32": "6836af78"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 04).bin",
+      "filesize": 7938000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5115a611fa6919d5178b682781ace46",
+        "sha1": "6434efe0d832f35807b3bb7c49e245d2cb7fe41b",
+        "crc32": "a96c6681"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 05).bin",
+      "filesize": 25401600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94f6eae29e5b896c0f2e9ef1cf92df50",
+        "sha1": "88049e24803d09b4a87ef72a31536c4360102e31",
+        "crc32": "c1c7c5a9"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 06).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12a3e6deb0e7e0dbc05ef0ad97de3591",
+        "sha1": "075b59dbfdb897598cb435624c865123665db6c8",
+        "crc32": "b6520525"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 07).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1e201ff5f97e3a441eb3b9adcecb2c1",
+        "sha1": "0ac7feedc1b579fd0964c352796dda5065a64a6b",
+        "crc32": "b9a88355"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 08).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f1f586305b54e711bb60cdc9de703df",
+        "sha1": "21351db3b5be0eb4084aa99535cbadefbbcb09d9",
+        "crc32": "568a7a44"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 09).bin",
+      "filesize": 2998800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eed4e3306bec2500e63493d6704558a3",
+        "sha1": "5ebacc8d79a06c16ae65896942617f8151a91517",
+        "crc32": "5ec2e68b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 10).bin",
+      "filesize": 11642400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c53cbd440afa18a0bb5d8bf14be747b8",
+        "sha1": "a72e54d3d56a4227c128d9469a68f94c41ba3374",
+        "crc32": "3f426a42"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 11).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab9052d6b85c80e594a7958f7f230200",
+        "sha1": "df31e9245cda79cea0cfc7dd4abed1b959015aba",
+        "crc32": "6ba420e2"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 12).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1be2b554462429d1ff0395a632cf6f78",
+        "sha1": "943927db3fc0ee2cb612e6f0a1d6d906c22e508e",
+        "crc32": "0002c893"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 13).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad58442fba39063f827c862312f3584f",
+        "sha1": "a0e6854aa7e817df91c6e4410480f1b0ac0f063f",
+        "crc32": "90c6ec33"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 14).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a6b073db7ba114648bac4a88fbc901d",
+        "sha1": "89288401ef87e0429dd44a392c527c5b377d1287",
+        "crc32": "b6fb1e02"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 15).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "229fabdc1efea738b419b67405880929",
+        "sha1": "7c7d7f4c0691790700815af8353e0f2472900295",
+        "crc32": "1c981661"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 16).bin",
+      "filesize": 5997600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8d88bc6f65257b9abc7459930075e35",
+        "sha1": "e044a77296e193a5d08949a37c267128fafae4b9",
+        "crc32": "7533b068"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 17).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16916f9cc935cc8de304d83a8cdbf59c",
+        "sha1": "47c5630a38cde1bc653681918563bc1d4281f4b0",
+        "crc32": "562362bd"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 18).bin",
+      "filesize": 2646000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d942005d8d56205a6b623baaa67bcc7b",
+        "sha1": "e0ea79b9f3cd36f32a595c9d2aec3faa2230e2f6",
+        "crc32": "44086db5"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 19).bin",
+      "filesize": 49744800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d61692c2deca3d19c6550f697a9fe39a",
+        "sha1": "4f9f58365e9e301ca502047b9f8b0d15714ebee4",
+        "crc32": "f3a705cc"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 20).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21d40feef0de17b58776026c933c9812",
+        "sha1": "97ab57b6f88fd7a54afa8f9599bb89743a145151",
+        "crc32": "431c5df8"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 21).bin",
+      "filesize": 1764000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca766240157ddcf457ae002e48168953",
+        "sha1": "318bcb9dfbbf15fa769352ebbb682e828afe7707",
+        "crc32": "b57e05ee"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 22).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2dabbc3e5171b6115e028c4c7a661f1d",
+        "sha1": "e1fc0e6b789a84f73386696497e63bdc983d8137",
+        "crc32": "f2d4fb20"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 23).bin",
+      "filesize": 1764000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d65f29a1c37569f60ac1df99b1233570",
+        "sha1": "a42d2c153a33db028a51e327b0c3d638fac4c346",
+        "crc32": "b1ee3846"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 24).bin",
+      "filesize": 2469600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ea2186a2672522364fb29a624498381",
+        "sha1": "ed31ed4112648cb12f87a93326778d27f2a2c130",
+        "crc32": "6d6adf77"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 25).bin",
+      "filesize": 9525600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6d0de3376df7a691bfcc00e8ce72aff",
+        "sha1": "e32b01cf056dcb06a219a3ca105dc8c88cd209b2",
+        "crc32": "fe616a0f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 26).bin",
+      "filesize": 2998800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c698c421d11206bcefefa8e412e2b06",
+        "sha1": "21f02f216026ed7382d9b65c23b9eeff1dd385ce",
+        "crc32": "777e4244"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 27).bin",
+      "filesize": 18874800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07dc7feb0cfa17f1451cc51d0f0f1543",
+        "sha1": "1680a2f19c0493738f38f6c3535c6f6d461d031f",
+        "crc32": "eac802e2"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 28).bin",
+      "filesize": 21520800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a15714d4100a40bc6c0a776a1ef32add",
+        "sha1": "bb6a9c10aa9a32e01e2ec08c0b39c94019497830",
+        "crc32": "51bfd85d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 29).bin",
+      "filesize": 4233600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9586361ded659e9bccb9d35e44ce974",
+        "sha1": "feed9d832e425969cdf3c1a5a72afde269347ba4",
+        "crc32": "6ed3c08a"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 30).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b8747c48a3794c54775e41e31111744",
+        "sha1": "32736f70c72d4ba72d09314290d3d4460c6c4922",
+        "crc32": "f4308546"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 31).bin",
+      "filesize": 2998800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89f494d332ec7c933273402c9ad25818",
+        "sha1": "0890bcc46b70b54dcf53d9ac44e45991440a84f1",
+        "crc32": "1d6a52ca"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 32).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89e65b45065a1fa2505450110773ce5f",
+        "sha1": "a7b3b1fdd02d04957d2bcad221cb5bc0becc79f0",
+        "crc32": "233f03f5"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 33).bin",
+      "filesize": 5115600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e6c102736cfc06e615a6bcd958128e6",
+        "sha1": "fb701648665e2aab82c216e306bddc450d3f13b8",
+        "crc32": "ef0cd086"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 34).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b89e20ddd9ed14420ae32f37f952b5c9",
+        "sha1": "8e0798d06ea044816453fb354cb64582b3ad5f51",
+        "crc32": "6d57cbc5"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 35).bin",
+      "filesize": 2646000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "490900158090271857d45b792b8beba2",
+        "sha1": "743dc0a9b21b8fe763920232395a8560b6ad3be3",
+        "crc32": "1b28148b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 36).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "016a1d5b67e953bc9d2c3fcf148701b9",
+        "sha1": "9e293fc538b0cbe54b7b79483a8e14aed72cf8a4",
+        "crc32": "db87e1eb"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 37).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c630a06ca28717e8449f4414793d68f",
+        "sha1": "92cabb24cacb87ddcb10bca1f6d241c34c687712",
+        "crc32": "78de88fd"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 38).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fa273b20a22efabeb9e63a2ebc387b1",
+        "sha1": "327a542628277591d9bc59a68c3fec75f0dd81cd",
+        "crc32": "11289f29"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 39).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d6adf3ef7b9e33e381d28356a5f3654",
+        "sha1": "bdeb69f53c340fe148efffb0e2863605045127c4",
+        "crc32": "ca9c7743"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 40).bin",
+      "filesize": 21344400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78eaa005fc443bda0de578e981973ddd",
+        "sha1": "949a902a3f331b8a9dcc117ffd74979474421771",
+        "crc32": "255c186c"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 41).bin",
+      "filesize": 2469600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae97e7d1db65df2fa0bc19984efba5dc",
+        "sha1": "f270c448a48fb782feb6a28c8ea36403f6d93ad8",
+        "crc32": "15257536"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 42).bin",
+      "filesize": 6526800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a144eac54b7ba884a00911b0df53f24",
+        "sha1": "9d492a171c8bab0280f1e951a6951dbf697693a9",
+        "crc32": "6469aea6"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 43).bin",
+      "filesize": 4057200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7cb66ddbe4e714a8ff9634faeda1da9",
+        "sha1": "b9f0b7f1b2d06359579990998a3538f045b04848",
+        "crc32": "8d477f82"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 44).bin",
+      "filesize": 2822400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0387f5e23d8fa57d363f7fa6a3478c9",
+        "sha1": "430a7a9172cd0bf2271e80dfa7ee9f93a6e2dc5f",
+        "crc32": "9547b85f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 45).bin",
+      "filesize": 1764000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bdf885b08ffcdc65ba34a8217c20068",
+        "sha1": "aa3915de6ecd1df3dc5f1897f82a1e12807a466a",
+        "crc32": "4fb901f8"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 46).bin",
+      "filesize": 7938000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86c63aa1d539402527f9f04dbc45c4a1",
+        "sha1": "bfb199c792169d4349e4bf07f1f616535e71b04f",
+        "crc32": "3a09c704"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 47).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "739d882b60fa19c274ab105f57e7f830",
+        "sha1": "404b982e5ab65549ba5574c654b792911323b6c0",
+        "crc32": "77b9a13d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 48).bin",
+      "filesize": 11466000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "734bb50403c471b234d1d44395feefef",
+        "sha1": "20955f564257fa8e340ace3615d1ae66a4b237d9",
+        "crc32": "63ae2a7b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (France) (Disc 2) (Track 49).bin",
+      "filesize": 33892320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17da510f4c34be9d19c6154e861d80be",
+        "sha1": "f6ef3b3be1c8d4b8741d683a85b62241784ae64c",
+        "crc32": "c62f8faf"
+      }
+    }
+  ]
+}

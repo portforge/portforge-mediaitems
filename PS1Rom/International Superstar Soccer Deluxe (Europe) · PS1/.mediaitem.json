@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Superstar Soccer Deluxe (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Superstar Soccer Deluxe (Europe).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "402afacca13950fcf836d00566b8a9c5",
+        "sha1": "3ee525d29e8281ddd219fec848986ebec93da81a",
+        "crc32": "edbea7e1"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer Deluxe (Europe).bin",
+      "filesize": 282240000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "952cd219e13ca39dba4097d5249590d6",
+        "sha1": "ffadb47cb54bb626caeac0fdfbc1f5bfcfb56b0d",
+        "crc32": "135fc3d2"
+      }
+    }
+  ]
+}

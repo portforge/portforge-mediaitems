@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kamen Rider V3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kamen Rider V3 (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "215963b5d5023878a23cfb899f41f90f",
+        "sha1": "799d7b308df034019afa49576746f352d36047a0",
+        "crc32": "93ee2f06"
+      }
+    },
+    {
+      "filename": "Kamen Rider V3 (Japan).bin",
+      "filesize": 601230000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b55a41672a870f5dccf83fd03f7f410b",
+        "sha1": "68378f469b8e3b98275e08240765e660a75c23f4",
+        "crc32": "9912d7fa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Racing (USA) (En,Fr,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Racing (USA) (En,Fr,Es).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5da01b83003239bba331d8bba3df048a",
+        "sha1": "f6b0545bfc5cc603d77a8895779a5335287c3881",
+        "crc32": "f8e79bd1"
+      }
+    },
+    {
+      "filename": "Racing (USA) (En,Fr,Es).bin",
+      "filesize": 160105344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d09459fa147c3b5e41584660d0d6edb",
+        "sha1": "7ac6ad0e3eef1918084425dbb5ec8dc42462d409",
+        "crc32": "a8743d49"
+      }
+    }
+  ]
+}

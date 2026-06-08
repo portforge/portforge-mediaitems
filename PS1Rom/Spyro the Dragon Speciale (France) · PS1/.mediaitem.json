@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro the Dragon Speciale (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro the Dragon Speciale (France).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "347ad362b74f50a3033c7e0e0a171418",
+        "sha1": "c18611b3461b38f79913ffdc6654f48ce6da24d5",
+        "crc32": "58b4380e"
+      }
+    },
+    {
+      "filename": "Spyro the Dragon Speciale (France) (Track 1).bin",
+      "filesize": 50742048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ba29abda9a05728e7ca6a91465381c6",
+        "sha1": "f56b67bb48598b6e32a68fe400f2767a5fa5f7ce",
+        "crc32": "78829252"
+      }
+    },
+    {
+      "filename": "Spyro the Dragon Speciale (France) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

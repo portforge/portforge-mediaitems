@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Anthology - European Edition - Final Fantasy IV (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Anthology - European Edition - Final Fantasy IV (Europe, Australia).cue",
+      "filesize": 147,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b6675ece9bfab5f09829234926d6d9a",
+        "sha1": "6aa469612058bade23da701f36ed62a17f04576b",
+        "crc32": "2680986b"
+      }
+    },
+    {
+      "filename": "Final Fantasy Anthology - European Edition - Final Fantasy IV (Europe, Australia).bin",
+      "filesize": 385810320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52517211b7856b559dba15eb5966b0c5",
+        "sha1": "eaefb6c29b46b312cae456c491fe38c52dc9a0ca",
+        "crc32": "d3b119f5"
+      }
+    }
+  ]
+}

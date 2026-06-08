@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Psalm 69 (Japan) (Beta) (1996-05-14)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Psalm 69 (Japan) (Beta) (1996-05-14).cue",
+      "filesize": 372,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78358b625d55e309f9f1b1792c503cc2",
+        "sha1": "29cddf7a7698582e0466aee3f11b1bbb4cc674ce",
+        "crc32": "58419886"
+      }
+    },
+    {
+      "filename": "Psalm 69 (Japan) (Beta) (1996-05-14) (Track 1).bin",
+      "filesize": 27092688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfafa64d06e631a06156ea6ac3bf69ec",
+        "sha1": "8f59f2dee77d946f711ccf28e191820d0c17f452",
+        "crc32": "5bfdc3b0"
+      }
+    },
+    {
+      "filename": "Psalm 69 (Japan) (Beta) (1996-05-14) (Track 2).bin",
+      "filesize": 8469552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "176852f5d2ac1121a9e231b5d621fca9",
+        "sha1": "72e25a1970c5638e6ee5228541c31562bfd372d8",
+        "crc32": "cb52da0b"
+      }
+    },
+    {
+      "filename": "Psalm 69 (Japan) (Beta) (1996-05-14) (Track 3).bin",
+      "filesize": 40045152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1264fac3a9a7ed87df2fb9562bdcf714",
+        "sha1": "37d11c227eb6ffcd28ecb94414689d9ecb3e99bc",
+        "crc32": "209896a4"
+      }
+    }
+  ]
+}

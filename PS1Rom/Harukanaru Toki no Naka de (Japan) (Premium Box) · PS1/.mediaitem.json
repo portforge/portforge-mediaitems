@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harukanaru Toki no Naka de (Japan) (Premium Box)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harukanaru Toki no Naka de (Japan) (Premium Box).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb397f46651d068ecb10d5094236831c",
+        "sha1": "999c3212837f667c5ff615d615ca144681ef64a5",
+        "crc32": "66555985"
+      }
+    },
+    {
+      "filename": "Harukanaru Toki no Naka de (Japan) (Premium Box).bin",
+      "filesize": 509680752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c681b1c9177d06f8dd2afc4f798a1af",
+        "sha1": "a4c06d612b1697eb36c5c575da1cb633175f47dd",
+        "crc32": "0f1f802a"
+      }
+    }
+  ]
+}

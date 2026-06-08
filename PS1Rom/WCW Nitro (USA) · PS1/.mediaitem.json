@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WCW Nitro (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WCW Nitro (USA).cue",
+      "filesize": 745,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a414c403ae289384965f41a8000247a5",
+        "sha1": "202d52bf45b6876b376c92a5c8ce52748c5b4363",
+        "crc32": "91849a94"
+      }
+    },
+    {
+      "filename": "WCW Nitro (USA) (Track 1).bin",
+      "filesize": 421932336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1fdd773d456d16b5a18bed170df44fd4",
+        "sha1": "85e98b1adb68511fe6de7419f886052ee312bfea",
+        "crc32": "58249661"
+      }
+    },
+    {
+      "filename": "WCW Nitro (USA) (Track 2).bin",
+      "filesize": 36227856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "531bb9ae6d18056e4719906aad906cc9",
+        "sha1": "c65a344abc2c40004fe590b4975733ee7cb77db5",
+        "crc32": "f5e3e6e6"
+      }
+    },
+    {
+      "filename": "WCW Nitro (USA) (Track 3).bin",
+      "filesize": 38730384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "944d8a6f2ff25d5d7f9723a83b1efc8d",
+        "sha1": "0b18efa3578ab23bb53bc7552af25ca9f0fd91f1",
+        "crc32": "b0679944"
+      }
+    },
+    {
+      "filename": "WCW Nitro (USA) (Track 4).bin",
+      "filesize": 35176512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fadac848b57c3d0bd088d05ea29b043e",
+        "sha1": "8f8a2910ce4eb13292443c1596134fec727a6256",
+        "crc32": "9c4749a3"
+      }
+    },
+    {
+      "filename": "WCW Nitro (USA) (Track 5).bin",
+      "filesize": 44763264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "106d66fcb80c762dd032ce2130947102",
+        "sha1": "8fc9b63c48953837c4a14616aad8dfc778eec4e8",
+        "crc32": "5ec3f9d0"
+      }
+    },
+    {
+      "filename": "WCW Nitro (USA) (Track 6).bin",
+      "filesize": 34550880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abd7160dfb102506aa9e4f2a68d20dbe",
+        "sha1": "ad84f091b3ca237f1d384c39cbb2103ca12e9588",
+        "crc32": "8620ef94"
+      }
+    },
+    {
+      "filename": "WCW Nitro (USA) (Track 7).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "912b926cb18a5c9e46eb30abd67ff492",
+        "sha1": "390c1e0d485a2194f6817357847499d7947b3965",
+        "crc32": "e9327bc4"
+      }
+    }
+  ]
+}

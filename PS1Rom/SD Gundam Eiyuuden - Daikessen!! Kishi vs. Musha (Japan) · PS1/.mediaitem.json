@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SD Gundam Eiyuuden - Daikessen!! Kishi vs. Musha (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SD Gundam Eiyuuden - Daikessen!! Kishi vs. Musha (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c7b567a9a90c3791dc26cf900006498",
+        "sha1": "9b790958bb6ceb5ffa3a0501b7b00336b418832a",
+        "crc32": "20344fb4"
+      }
+    },
+    {
+      "filename": "SD Gundam Eiyuuden - Daikessen!! Kishi vs. Musha (Japan).bin",
+      "filesize": 141795024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e2d93fa74b3cbfcc3712c8cbde1b82b",
+        "sha1": "5ca7a5be5e5f3a2286e95c5191809f63b1c0994d",
+        "crc32": "8c1266ce"
+      }
+    }
+  ]
+}

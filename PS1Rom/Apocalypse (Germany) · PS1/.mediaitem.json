@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Apocalypse (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Apocalypse (Germany).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ae1739d039b0a076f8f558f30bbfb7e",
+        "sha1": "a5f78fa17efd6e0320eedfae9af37573928a6599",
+        "crc32": "04f72e56"
+      }
+    },
+    {
+      "filename": "Apocalypse (Germany) (Track 1).bin",
+      "filesize": 458882256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d7155b8e7153cf59ea5e2d1b40c1831",
+        "sha1": "d8f90f9f59f672f96eadd8af50cee04bccc182e3",
+        "crc32": "d0e65b6d"
+      }
+    },
+    {
+      "filename": "Apocalypse (Germany) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0d4ed65fe41ebf99b2273a3914e3eb5",
+        "sha1": "f7eded280c5d5db877b324693e424690d3f740ab",
+        "crc32": "9d424890"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VIII (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VIII (France) (Disc 2).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d104e46f19513ef4ff7dddd6222b4c19",
+        "sha1": "87ff62376e4569fefc2a80fbdb7c5d7f20527bf7",
+        "crc32": "17aadafe"
+      }
+    },
+    {
+      "filename": "Final Fantasy VIII (France) (Disc 2).bin",
+      "filesize": 692990928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "120243e6b1b7615de1052f97246bd2e0",
+        "sha1": "c70bcd062bb4030afd692017c3afa3fafff1a887",
+        "crc32": "9830972e"
+      }
+    }
+  ]
+}

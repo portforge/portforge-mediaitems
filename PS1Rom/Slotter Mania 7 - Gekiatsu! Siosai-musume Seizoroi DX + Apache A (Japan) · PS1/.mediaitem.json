@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slotter Mania 7 - Gekiatsu! Siosai-musume Seizoroi DX + Apache A (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slotter Mania 7 - Gekiatsu! Siosai-musume Seizoroi DX + Apache A (Japan).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9006b2504d9325e4f0ebd0710eb86a5",
+        "sha1": "e18729f36ade36a94c2f496f38078c414ccd96a8",
+        "crc32": "533f7ffe"
+      }
+    },
+    {
+      "filename": "Slotter Mania 7 - Gekiatsu! Siosai-musume Seizoroi DX + Apache A (Japan).bin",
+      "filesize": 53460960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9f6dd0461000e31cb95d486092ffab8",
+        "sha1": "392472525119281365a82a2513f5ade87266ddd0",
+        "crc32": "2e564363"
+      }
+    }
+  ]
+}

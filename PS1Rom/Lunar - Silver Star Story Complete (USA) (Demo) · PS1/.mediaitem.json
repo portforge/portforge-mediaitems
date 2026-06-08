@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lunar - Silver Star Story Complete (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lunar - Silver Star Story Complete (USA) (Demo).cue",
+      "filesize": 405,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c66a1ca686c56525282ac4f2b7188e13",
+        "sha1": "ab9784db21288fc16a1d31d9ef6bfc11c1a746b9",
+        "crc32": "b131e982"
+      }
+    },
+    {
+      "filename": "Lunar - Silver Star Story Complete (USA) (Demo) (Track 1).bin",
+      "filesize": 263346384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71ea0dbc4b571a40adbf9f1b20d3b78d",
+        "sha1": "7c9920cbfd7955d31d331be87cc555d5e9113ef0",
+        "crc32": "2ff74033"
+      }
+    },
+    {
+      "filename": "Lunar - Silver Star Story Complete (USA) (Demo) (Track 2).bin",
+      "filesize": 26570544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18dc93157e9c0973ea2cd5d037bdbc5c",
+        "sha1": "733c9ae32570590e2dff34e483792b7325f16dd7",
+        "crc32": "242e16cb"
+      }
+    },
+    {
+      "filename": "Lunar - Silver Star Story Complete (USA) (Demo) (Track 3).bin",
+      "filesize": 8041488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3667288bcc30037483b96a5beae33503",
+        "sha1": "4aa2fa14f8cee60cccb308f2380e35d83bc49c7b",
+        "crc32": "c3d61aa5"
+      }
+    }
+  ]
+}

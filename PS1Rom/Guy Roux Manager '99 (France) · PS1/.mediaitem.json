@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guy Roux Manager '99 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guy Roux Manager '99 (France).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "903b21f30fc99dd0cf536d0385e2b1ad",
+        "sha1": "8cf520a86a510f0f7e8b5c7193f1fc216ace6398",
+        "crc32": "c000ed9b"
+      }
+    },
+    {
+      "filename": "Guy Roux Manager '99 (France).bin",
+      "filesize": 146623680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3991dd40aa87041957883a1aed97c714",
+        "sha1": "eac3661864f45390ab011db4cbb8809e9ca2d943",
+        "crc32": "099936a1"
+      }
+    }
+  ]
+}

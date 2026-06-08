@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft (USA) (Demo).cue",
+      "filesize": 328,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f7c46f2da7d639520065c097b8c2beeb",
+        "sha1": "f5338f1df9ab91d0dfdb290cf283b2ff31de8faa",
+        "crc32": "37ddbff7"
+      }
+    },
+    {
+      "filename": "Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft (USA) (Demo) (Track 1).bin",
+      "filesize": 62683152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51ac0bf5b8dfac4400cf6ba84ffdb82f",
+        "sha1": "4890dae42b32d2f6951e16e7c8bdd2591bfd04be",
+        "crc32": "28e0137e"
+      }
+    },
+    {
+      "filename": "Advanced Dungeons & Dragons - Iron & Blood - Warriors of Ravenloft (USA) (Demo) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

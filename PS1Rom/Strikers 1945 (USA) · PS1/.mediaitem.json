@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strikers 1945 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strikers 1945 (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "889534b4d938c48f12a1b8caf7e09ae0",
+        "sha1": "d9177100c62c2dbb3529164f0c5444bb02507e87",
+        "crc32": "7552b8fa"
+      }
+    },
+    {
+      "filename": "Strikers 1945 (USA).bin",
+      "filesize": 139659408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "096ed9f03610f5f721859c42ccd44170",
+        "sha1": "3e44430dc808493f2baf106098c1ff0561ac6b4f",
+        "crc32": "9067abad"
+      }
+    }
+  ]
+}

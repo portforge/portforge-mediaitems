@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hikari no Shima - Seven Lithographs in Shining Island (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hikari no Shima - Seven Lithographs in Shining Island (Japan).cue",
+      "filesize": 292,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdc74bf4cb00a5fb5aee98c5307572bf",
+        "sha1": "2fcc3e87fd8802d5b7328c52c18717a3fd3223ed",
+        "crc32": "692e91ee"
+      }
+    },
+    {
+      "filename": "Hikari no Shima - Seven Lithographs in Shining Island (Japan) (Track 1).bin",
+      "filesize": 698631024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ed67c85b60e212607f891d1e8b175d6",
+        "sha1": "142d83deaf45b8d4ac889ab542434a634eb5e6a1",
+        "crc32": "1df3e671"
+      }
+    },
+    {
+      "filename": "Hikari no Shima - Seven Lithographs in Shining Island (Japan) (Track 2).bin",
+      "filesize": 32111856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59add0a2c8edb31726129efe91e17d40",
+        "sha1": "5304669b0c27ce1d30a07b4c40db3f544f5da65d",
+        "crc32": "23492c6d"
+      }
+    }
+  ]
+}

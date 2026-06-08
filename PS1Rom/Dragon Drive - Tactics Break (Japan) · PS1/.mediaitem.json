@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Drive - Tactics Break (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Drive - Tactics Break (Japan).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8d09414acf54153917c2d08a9a8ed23",
+        "sha1": "87211cac957763ee6284662cabf1521e0490fe3b",
+        "crc32": "0f8c907b"
+      }
+    },
+    {
+      "filename": "Dragon Drive - Tactics Break (Japan) (Track 1).bin",
+      "filesize": 67290720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11b43f96f883416a5a168b70b66c9f80",
+        "sha1": "7354b702304a493b7c230d1fdfdb3c7257a710f9",
+        "crc32": "dcbc8574"
+      }
+    },
+    {
+      "filename": "Dragon Drive - Tactics Break (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

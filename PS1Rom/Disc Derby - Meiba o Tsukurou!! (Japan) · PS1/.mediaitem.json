@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disc Derby - Meiba o Tsukurou!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disc Derby - Meiba o Tsukurou!! (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99b809848e0f9e185d118806739ddffd",
+        "sha1": "c08f5134aca27ece035760d39ef6169263b83f71",
+        "crc32": "a6261f85"
+      }
+    },
+    {
+      "filename": "Disc Derby - Meiba o Tsukurou!! (Japan).bin",
+      "filesize": 400696128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36f1b69aa95fd94025c0754f13a38c9c",
+        "sha1": "9f350db6b74f8c014bb13a0ff5b8ef03a886584f",
+        "crc32": "d5a510e6"
+      }
+    }
+  ]
+}

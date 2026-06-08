@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alerte Rouge - Mission Tesla (France) (Disc 2) (Sovietiques)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alerte Rouge - Mission Tesla (France) (Disc 2) (Sovietiques).cue",
+      "filesize": 146,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e72427121bd881d4ee9814e2849e582",
+        "sha1": "455ed8c3aa29aac832d9da4076eee16ce1da0799",
+        "crc32": "d2adecd9"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alerte Rouge - Mission Tesla (France) (Disc 2) (Sovietiques).bin",
+      "filesize": 628635504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1fe78af628f3153b98ca83f725d1e03",
+        "sha1": "24ffdbc1bccbc60e373c1999d5f1a065605cce84",
+        "crc32": "2449694b"
+      }
+    }
+  ]
+}

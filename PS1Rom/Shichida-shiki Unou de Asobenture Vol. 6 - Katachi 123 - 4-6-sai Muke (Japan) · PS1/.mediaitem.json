@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shichida-shiki Unou de Asobenture Vol. 6 - Katachi 123 - 4-6-sai Muke (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shichida-shiki Unou de Asobenture Vol. 6 - Katachi 123 - 4-6-sai Muke (Japan).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5b8a19eef04b5cfb3e355133e50b260",
+        "sha1": "86895c035fa64c2629f3dd268765de30632bb148",
+        "crc32": "f27c32fa"
+      }
+    },
+    {
+      "filename": "Shichida-shiki Unou de Asobenture Vol. 6 - Katachi 123 - 4-6-sai Muke (Japan).bin",
+      "filesize": 340816560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e56c1fc77db7c920449fde3c0b58231",
+        "sha1": "6e21fe2ecf534d39bfef1a87424d094bf8b01241",
+        "crc32": "e18d1010"
+      }
+    }
+  ]
+}

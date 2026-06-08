@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "OverBlood (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "OverBlood (Japan) (Major Wave).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a08dde8779a0c5c22f25f039f971514e",
+        "sha1": "a4660e1fd72bb5b13e42367d6faeef8129f036c4",
+        "crc32": "0a9ba952"
+      }
+    },
+    {
+      "filename": "OverBlood (Japan) (Major Wave).bin",
+      "filesize": 710903760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ccafee4837ddef84350c05d7a5b990f",
+        "sha1": "41fbd94b17aa5fe177773e677649e1634211bced",
+        "crc32": "d7795b3e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toshiba Emi Egg & Zutto Issho Demo Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toshiba Emi Egg & Zutto Issho Demo Disc (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "063bccc63ab31854b99c255f1c415a9e",
+        "sha1": "2db46ba7eccdcbb73c722a4739c62ec5b89f8fc4",
+        "crc32": "6c498e65"
+      }
+    },
+    {
+      "filename": "Toshiba Emi Egg & Zutto Issho Demo Disc (Japan).bin",
+      "filesize": 501397008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d850401a4e86e8be0036f9c2d92ec667",
+        "sha1": "cc0d107ac35f8395cbf926e066315252521e899c",
+        "crc32": "e4ab90f4"
+      }
+    }
+  ]
+}

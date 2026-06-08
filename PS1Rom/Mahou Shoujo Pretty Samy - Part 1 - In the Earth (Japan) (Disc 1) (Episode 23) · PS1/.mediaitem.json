@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mahou Shoujo Pretty Samy - Part 1 - In the Earth (Japan) (Disc 1) (Episode 23)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mahou Shoujo Pretty Samy - Part 1 - In the Earth (Japan) (Disc 1) (Episode 23).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19dcafe00b65958258b88a8c9248a210",
+        "sha1": "39db95f2a1ce009bc9e796d705c9e835e6344978",
+        "crc32": "9b87507d"
+      }
+    },
+    {
+      "filename": "Mahou Shoujo Pretty Samy - Part 1 - In the Earth (Japan) (Disc 1) (Episode 23).bin",
+      "filesize": 305687088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e50f29303bfdbb19959d274f1cc21529",
+        "sha1": "42644267a69463bad2a38ab747ef997609c94507",
+        "crc32": "2cbd6cac"
+      }
+    }
+  ]
+}

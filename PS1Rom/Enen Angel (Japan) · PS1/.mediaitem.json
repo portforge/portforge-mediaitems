@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Enen Angel (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Enen Angel (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2196d2a2a48796fb502bc0548e236ab",
+        "sha1": "93efe14fd9396b1ac19b78b963b1d85db253850b",
+        "crc32": "9aca62f9"
+      }
+    },
+    {
+      "filename": "Enen Angel (Japan).bin",
+      "filesize": 302152032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d29248592f9fef0bfe7cfd7360f96a9e",
+        "sha1": "4976abfd9384f87e47b42a9c33f98a3dab6b48d9",
+        "crc32": "75f76f5e"
+      }
+    }
+  ]
+}

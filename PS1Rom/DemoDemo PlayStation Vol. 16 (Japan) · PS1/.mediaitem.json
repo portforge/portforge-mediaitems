@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DemoDemo PlayStation Vol. 16 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DemoDemo PlayStation Vol. 16 (Japan).cue",
+      "filesize": 372,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8df0cb817c7d01b9cb486a081341ad2",
+        "sha1": "0fce4d5c753d1dd5d72bb03a51b913c486db911c",
+        "crc32": "ad8936e5"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 16 (Japan) (Track 1).bin",
+      "filesize": 397464480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fb5735f448837eaa250c16643cebf53",
+        "sha1": "d05586be49c179bbd3288c6fd0b80f5f276a72cd",
+        "crc32": "e47481e9"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 16 (Japan) (Track 2).bin",
+      "filesize": 9596160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88accd6c759410b608b08cb620a60f4f",
+        "sha1": "7dbfc6c1c9f934d750b29aac8b43e5e4dd6b6318",
+        "crc32": "d0cd1da6"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 16 (Japan) (Track 3).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

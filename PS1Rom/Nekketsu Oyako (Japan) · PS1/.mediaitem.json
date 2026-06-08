@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nekketsu Oyako (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nekketsu Oyako (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "827a778f9153c741c8854fbcb3ecaf70",
+        "sha1": "9e15985e00c316ddca728b36f6e1d001c0788bef",
+        "crc32": "8364c59e"
+      }
+    },
+    {
+      "filename": "Nekketsu Oyako (Japan).bin",
+      "filesize": 24733632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee7b4c4c74f73475e0b64d27e1088e10",
+        "sha1": "b2134bc8c67aead7359da14700bfaac018a4a0c3",
+        "crc32": "d1b704e0"
+      }
+    }
+  ]
+}

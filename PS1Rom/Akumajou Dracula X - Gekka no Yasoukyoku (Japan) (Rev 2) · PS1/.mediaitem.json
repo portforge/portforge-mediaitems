@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d20dff4a2baf40594c2014b859ff6430",
+        "sha1": "508a124d6e4ed6428a297014d88f659637bb97df",
+        "crc32": "71617956"
+      }
+    },
+    {
+      "filename": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2) (Track 1).bin",
+      "filesize": 545440560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5021f600f109703170486dda1f0f86c1",
+        "sha1": "0d5e8ab839147526ce6eadc412661e2c5b63c7ee",
+        "crc32": "d8114e7d"
+      }
+    },
+    {
+      "filename": "Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (Rev 2) (Track 2).bin",
+      "filesize": 43704864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ea3346af023f84b1413c975d3c530fa",
+        "sha1": "72c4b3896d309b38a7a6285ab5a0226541bffd85",
+        "crc32": "a2579213"
+      }
+    }
+  ]
+}

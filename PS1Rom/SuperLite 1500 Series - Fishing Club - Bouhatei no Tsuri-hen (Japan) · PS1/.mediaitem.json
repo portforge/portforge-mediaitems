@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Fishing Club - Bouhatei no Tsuri-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Bouhatei no Tsuri-hen (Japan).cue",
+      "filesize": 306,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1c2d0b196da697065af9e00252d3c9d",
+        "sha1": "604e7613faa39b5ea0ed355ce8d1bf82fd1204c3",
+        "crc32": "43dca16b"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Bouhatei no Tsuri-hen (Japan) (Track 1).bin",
+      "filesize": 200743200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcd9c24f38501b75718718c8b484fe30",
+        "sha1": "a7c0c1652e790efbfb18d08fe2951d579918400b",
+        "crc32": "f1c9f36e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Bouhatei no Tsuri-hen (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e3952c9ba74cc486ee0a9dd66c1a84",
+        "sha1": "4a5ce8d624b04507f739bb8e647cbb0d8b81a768",
+        "crc32": "c699c622"
+      }
+    }
+  ]
+}

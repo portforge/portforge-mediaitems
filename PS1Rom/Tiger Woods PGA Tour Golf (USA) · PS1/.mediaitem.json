@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiger Woods PGA Tour Golf (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiger Woods PGA Tour Golf (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f56e2c2f39e5dfff6dd4649f53f42f47",
+        "sha1": "9943e8b60940784434529ecc7acb3e83f47f2f34",
+        "crc32": "6e402555"
+      }
+    },
+    {
+      "filename": "Tiger Woods PGA Tour Golf (USA).bin",
+      "filesize": 301371168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd8f3dc5b20bf8de993e9fe805f3b6c9",
+        "sha1": "af35726f58016cfbc793b3a2df5329414f4569e2",
+        "crc32": "30456677"
+      }
+    }
+  ]
+}

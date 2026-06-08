@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eve Zero (Japan) (Disc 3) (Premium Box)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eve Zero (Japan) (Disc 3) (Premium Box).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f6702e8654af00d37ad83d68519ac47b",
+        "sha1": "15cdebb37361c259a28901346013007403b08d92",
+        "crc32": "0c328b75"
+      }
+    },
+    {
+      "filename": "Eve Zero (Japan) (Disc 3) (Premium Box) (Track 1).bin",
+      "filesize": 535002384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64858f3a8f6cbfffd1800b46d57b5366",
+        "sha1": "3e62a3d52f547b6cadfb5d3bf2c3dad1c6ed0033",
+        "crc32": "4ad954ca"
+      }
+    },
+    {
+      "filename": "Eve Zero (Japan) (Disc 3) (Premium Box) (Track 2).bin",
+      "filesize": 36921696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2c567295ab41d5e7b73f63025aef3ac",
+        "sha1": "371ec849d808a2e1820aac5b2f18a6b1fa15cb74",
+        "crc32": "f23ef73e"
+      }
+    }
+  ]
+}

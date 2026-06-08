@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Moto-X (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Moto-X (Japan).cue",
+      "filesize": 1080,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6df3d8e9aac372e138df89fde4fea59",
+        "sha1": "aba1f107825a8ea33a468b477ef7bf0175034eaf",
+        "crc32": "5b1b7062"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 1).bin",
+      "filesize": 149356704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4ffa15ad0038c6b2cd5bf100c239888",
+        "sha1": "24e60d183a613b3145c41d43dea653426a7c3aca",
+        "crc32": "07a8c913"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 2).bin",
+      "filesize": 22395744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6141b58a6e9a1f3645042e00a72b8fee",
+        "sha1": "348d90aee9fff19775348c180febb4493039a522",
+        "crc32": "53d7a2f4"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 3).bin",
+      "filesize": 48806352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84035545ae3752f899c7f4e2d2a11171",
+        "sha1": "3d29fb19c57e39a16346a3416cd972a56a01f3c7",
+        "crc32": "d54735d3"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 4).bin",
+      "filesize": 54056016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fac797190001c5454d570c6af4e76c06",
+        "sha1": "f0e4af00d1aec44e647a7798afbdddd814c3e908",
+        "crc32": "f07e1d8e"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 5).bin",
+      "filesize": 35416416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06363625489f8c2db65c403a4ebe4572",
+        "sha1": "d2a07e05ee34d73bdd34f45a091223a54e4b6921",
+        "crc32": "0453b527"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 6).bin",
+      "filesize": 52943520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5074a73b68f2ffbaecc6a4138515089f",
+        "sha1": "e2a7096a5742dd1995c83f2109a8df7387103777",
+        "crc32": "cf30b4c3"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 7).bin",
+      "filesize": 49587216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1916a26adeb30dfb77b526450cfd8601",
+        "sha1": "124ec3714ee096bdef55f01516a405d9f2a2f225",
+        "crc32": "48621aa2"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 8).bin",
+      "filesize": 43573152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7eea72fa84f700d2ca6596d66e22c6ff",
+        "sha1": "2f673ab1f3b45c95db13ee4599588131816552b0",
+        "crc32": "91431bf7"
+      }
+    },
+    {
+      "filename": "International Moto-X (Japan) (Track 9).bin",
+      "filesize": 28002912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "938cd585633f5c4bff1856b807bfd8de",
+        "sha1": "53bf773f2fd1e9ac3bf219555bf61a36c93a19a9",
+        "crc32": "53138a3e"
+      }
+    }
+  ]
+}

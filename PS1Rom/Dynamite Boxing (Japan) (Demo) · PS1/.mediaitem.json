@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dynamite Boxing (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dynamite Boxing (Japan) (Demo).cue",
+      "filesize": 602,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8962e81614e70290aecc870062ec6a38",
+        "sha1": "e68a9f4ba2cf201002cb3a92cee2ad474484f370",
+        "crc32": "80913033"
+      }
+    },
+    {
+      "filename": "Dynamite Boxing (Japan) (Demo) (Track 1).bin",
+      "filesize": 30721824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3145e7d3edf5a2bc178b6141d094666",
+        "sha1": "0060a3b6ac43af584f07e10d139185bc0481de8b",
+        "crc32": "102c01da"
+      }
+    },
+    {
+      "filename": "Dynamite Boxing (Japan) (Demo) (Track 2).bin",
+      "filesize": 29343552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b58075ec461a62cb1bb4071bbb18433",
+        "sha1": "f6c839c6225648bfd041d41b000e14cbbd1b7aab",
+        "crc32": "0c1f27a4"
+      }
+    },
+    {
+      "filename": "Dynamite Boxing (Japan) (Demo) (Track 3).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13f9035c85075be444e135a05a511682",
+        "sha1": "0eb15c23dc7ae344823c73865ce9a75d5aa709e3",
+        "crc32": "0d4dae67"
+      }
+    },
+    {
+      "filename": "Dynamite Boxing (Japan) (Demo) (Track 4).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f63f0bda34cd8fd37b58e048b1e80327",
+        "sha1": "aba2f37bbf17638c8df90a9e8a51282f1a846c22",
+        "crc32": "9cd75aa3"
+      }
+    },
+    {
+      "filename": "Dynamite Boxing (Japan) (Demo) (Track 5).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

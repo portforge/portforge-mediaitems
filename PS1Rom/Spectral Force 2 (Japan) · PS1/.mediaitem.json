@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spectral Force 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spectral Force 2 (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "38a3d512116bd669998e01aa97ce7427",
+        "sha1": "1b557f7b51212d7db840b1ba45140f608cd2b99d",
+        "crc32": "55157920"
+      }
+    },
+    {
+      "filename": "Spectral Force 2 (Japan).bin",
+      "filesize": 671891136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20641a11e80b311e0f9ab9cb33225617",
+        "sha1": "347cdcdc6b11c63181739ffd77bc9e084cfa9766",
+        "crc32": "56aef9a2"
+      }
+    }
+  ]
+}

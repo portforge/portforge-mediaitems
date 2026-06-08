@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TIZ - Tokyo Insect Zoo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TIZ - Tokyo Insect Zoo (Japan).cue",
+      "filesize": 478,
+      "ext": "cue",
+      "checksums": {
+        "md5": "909494ca63361573fea2ca79a677d2f4",
+        "sha1": "9e76ebfdbd5afbb90a54b998f21d3f72770c2167",
+        "crc32": "6b6d1d6a"
+      }
+    },
+    {
+      "filename": "TIZ - Tokyo Insect Zoo (Japan) (Track 1).bin",
+      "filesize": 698939136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "849edad91ad9435f824a630118e0c936",
+        "sha1": "951143adfcb980b7f58124ce788f037225ed66df",
+        "crc32": "6fc97080"
+      }
+    },
+    {
+      "filename": "TIZ - Tokyo Insect Zoo (Japan) (Track 2).bin",
+      "filesize": 4139520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e12b30a8e4f6539de52afdadc450b0b",
+        "sha1": "432b4f8be8d616fb8d9cb73af4bc3642fe39c0a7",
+        "crc32": "feb1f68e"
+      }
+    },
+    {
+      "filename": "TIZ - Tokyo Insect Zoo (Japan) (Track 3).bin",
+      "filesize": 10374672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73a3152d4aff0bff5598a183f846cc97",
+        "sha1": "bad55c63bf5661e73bd94dd1d3efc8ee7a7e55d8",
+        "crc32": "d1d903f0"
+      }
+    },
+    {
+      "filename": "TIZ - Tokyo Insect Zoo (Japan) (Track 4).bin",
+      "filesize": 33476016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66b83e58834272624929cff992c74376",
+        "sha1": "22a066eed42b2824f37a17f36549f391167fe7f6",
+        "crc32": "746ca712"
+      }
+    }
+  ]
+}

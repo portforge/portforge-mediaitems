@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars (Italy) (Disc 1).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "890624a50b27e41547fecd57ecff7f14",
+        "sha1": "af81cb591cb9348bbaf9f97ac33d631dc90508bb",
+        "crc32": "8e9492d1"
+      }
+    },
+    {
+      "filename": "Colony Wars (Italy) (Disc 1) (Track 1).bin",
+      "filesize": 528447360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "593148bc5873547b182ee868c22f0ad5",
+        "sha1": "277fd38aa9592b605f1fbc62cd8728d0af9d4980",
+        "crc32": "a5226216"
+      }
+    },
+    {
+      "filename": "Colony Wars (Italy) (Disc 1) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

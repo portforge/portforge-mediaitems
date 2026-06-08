@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hanafuda Real 3D (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hanafuda Real 3D (Japan).cue",
+      "filesize": 1172,
+      "ext": "cue",
+      "checksums": {
+        "md5": "105aa77eb83a5214848d1080b24bc89a",
+        "sha1": "65ef68e80f1ff593966ae2119a6b9587fd6e1d1b",
+        "crc32": "17937476"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 01).bin",
+      "filesize": 4398240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a57a977ae40234d1bdc2e6f7996021f",
+        "sha1": "821bbcb1d28b5ee417e770170c2acd73d8fa014e",
+        "crc32": "73c9e014"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 02).bin",
+      "filesize": 32546976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30afbfc4784e2d77256dc17ca99abec",
+        "sha1": "723dc50cb6d4190a9c11a995be7b921e1e031e78",
+        "crc32": "154b9880"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 03).bin",
+      "filesize": 33384288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c6084ffa89e9170b5b6f2b2791a929e",
+        "sha1": "1bbda09aee67fa670a52d57fba7470b5068458c5",
+        "crc32": "d588e23e"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 04).bin",
+      "filesize": 33468960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43e84b2aa798311675bed69d7f5ff371",
+        "sha1": "cc47bcf615088b2df964b25de51a83d8e8f14f4d",
+        "crc32": "34326d13"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 05).bin",
+      "filesize": 33109104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7618353d9b0591afee1ee77d0e599a5",
+        "sha1": "7198328ea745e3b1fb0458abe09e178be863ed4d",
+        "crc32": "4f0937cd"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 06).bin",
+      "filesize": 33174960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52d5ade9ae7c2e03a4e46a7775acd89f",
+        "sha1": "5dde00c4b95413cb5ea6e3e6a6ef41835513adf5",
+        "crc32": "c70be34a"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 07).bin",
+      "filesize": 33365472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "751da81232900510fa2ccf22d9e5ed13",
+        "sha1": "28eb9f426c4889e2842f24317bab4756ad3a20d4",
+        "crc32": "35e80535"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 08).bin",
+      "filesize": 14427168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "012c72a85c3d7b3601d4b875e083609c",
+        "sha1": "d028a793d84ab941bbc4eeb0c9dda64850f0480c",
+        "crc32": "e366b159"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 09).bin",
+      "filesize": 11607120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cec0fd34548a22e9e9b578aa076f7dbe",
+        "sha1": "9692d5b295a74bfc1f122607a8b0fa2e7e321cfb",
+        "crc32": "6da0b525"
+      }
+    },
+    {
+      "filename": "Hanafuda Real 3D (Japan) (Track 10).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Azito 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Azito 2 (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "674bb2c98f7ecfc565b59d8d5187fbf3",
+        "sha1": "3003fe4a32be98f2ef621734d54808d2c93f53e9",
+        "crc32": "b1cada07"
+      }
+    },
+    {
+      "filename": "Azito 2 (Japan).bin",
+      "filesize": 614641104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71674b037ecba9b0b1396c00b98e80c8",
+        "sha1": "ff6c214dc7d8f249319f701f6cec4689385cc357",
+        "crc32": "9a4b16d5"
+      }
+    }
+  ]
+}

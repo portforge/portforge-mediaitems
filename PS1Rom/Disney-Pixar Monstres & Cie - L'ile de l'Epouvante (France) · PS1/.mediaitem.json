@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante (France).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc88ae8baa0da8c19a23fc0cc4828048",
+        "sha1": "bf9c0df9cb498b3aa9467d27df952c3f5b4240be",
+        "crc32": "2e3e821e"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Monstres & Cie - L'ile de l'Epouvante (France).bin",
+      "filesize": 735762048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30063b82ab44a48c31eb33aea453963a",
+        "sha1": "cf40816a36e46ee22c98eca89d4a54815532869f",
+        "crc32": "7dfcd610"
+      }
+    }
+  ]
+}

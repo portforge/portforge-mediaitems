@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Neverland 2 - The Waktic Republic of Pluto (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Neverland 2 - The Waktic Republic of Pluto (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d51607a47b2f9269e3ef24e5b9b1d9e8",
+        "sha1": "16ef0d1b0d8d987352f7d75ab59ee34c997b6249",
+        "crc32": "80792564"
+      }
+    },
+    {
+      "filename": "World Neverland 2 - The Waktic Republic of Pluto (Japan).bin",
+      "filesize": 208944624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cc8b50547c707cef5c7256c6fe6c9ae",
+        "sha1": "e9c5b5103e86c5d3097589b56d8ee1c8d1d3fe07",
+        "crc32": "7720be72"
+      }
+    }
+  ]
+}

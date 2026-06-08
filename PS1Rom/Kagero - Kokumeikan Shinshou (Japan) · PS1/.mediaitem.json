@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kagero - Kokumeikan Shinshou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kagero - Kokumeikan Shinshou (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9ddc0f21cb962def0512b23146f0846",
+        "sha1": "dfecd84c3f08d18b06e3ba35014f43975c7bd934",
+        "crc32": "fb815fc7"
+      }
+    },
+    {
+      "filename": "Kagero - Kokumeikan Shinshou (Japan).bin",
+      "filesize": 419307504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e42b9820f5e2e60d802a09e5efc37926",
+        "sha1": "f5b4a2ac2ee3badf120463ff3a9f17898d822d1b",
+        "crc32": "c0334f08"
+      }
+    }
+  ]
+}

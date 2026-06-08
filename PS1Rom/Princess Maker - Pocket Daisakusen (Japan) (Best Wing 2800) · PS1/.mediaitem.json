@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Princess Maker - Pocket Daisakusen (Japan) (Best Wing 2800)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Princess Maker - Pocket Daisakusen (Japan) (Best Wing 2800).cue",
+      "filesize": 288,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7382e67a941b8c261eb2d40fa0c47a1d",
+        "sha1": "7821f1e521b9da7f25d8b3c51d7db7150dc1c103",
+        "crc32": "e2eb3419"
+      }
+    },
+    {
+      "filename": "Princess Maker - Pocket Daisakusen (Japan) (Best Wing 2800) (Track 1).bin",
+      "filesize": 197986656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8eb9c28ccccfdb058c77b6ad7a257cf",
+        "sha1": "ea7e86e0a938857719f9b4339f0bf7828b2d48e4",
+        "crc32": "ddcf3c3a"
+      }
+    },
+    {
+      "filename": "Princess Maker - Pocket Daisakusen (Japan) (Best Wing 2800) (Track 2).bin",
+      "filesize": 68880672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e4a4a9721ad80a3b36484ba46ca430c",
+        "sha1": "631952ce3d36c115f60749a1abc1698f38417a43",
+        "crc32": "6fb97874"
+      }
+    }
+  ]
+}

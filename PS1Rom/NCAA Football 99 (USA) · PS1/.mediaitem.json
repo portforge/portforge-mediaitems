@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA Football 99 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA Football 99 (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7201c7e644d4c4b5db456e212db3aef3",
+        "sha1": "9f54668665ba3aacc931eeeb2e57589c6f8e2da9",
+        "crc32": "71c9b334"
+      }
+    },
+    {
+      "filename": "NCAA Football 99 (USA).bin",
+      "filesize": 660246384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab8cf406b69c231e36fafac9e8408023",
+        "sha1": "c728433316fd3087de89797ab8f9c91a6f588242",
+        "crc32": "7275ccf5"
+      }
+    }
+  ]
+}

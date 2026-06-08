@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Romance wa Tsurugi no Kagayaki II - Gin no Niji o Sagashite (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Romance wa Tsurugi no Kagayaki II - Gin no Niji o Sagashite (Japan) (Disc 2).cue",
+      "filesize": 142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ac36718eaf61ea8cfb24764e5f0349b",
+        "sha1": "f376204145e3898b8dd9b58900fdfabebe46376a",
+        "crc32": "e1fa0fc4"
+      }
+    },
+    {
+      "filename": "Romance wa Tsurugi no Kagayaki II - Gin no Niji o Sagashite (Japan) (Disc 2).bin",
+      "filesize": 694484448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcbd2a52ec8aefef2c99aab47d76f8b0",
+        "sha1": "1e5fb3216ef20b5a0e4624cbdcb627f9879efeed",
+        "crc32": "d80d5ba5"
+      }
+    }
+  ]
+}

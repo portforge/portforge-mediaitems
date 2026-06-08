@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puzznic (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puzznic (USA).cue",
+      "filesize": 79,
+      "ext": "cue",
+      "checksums": {
+        "md5": "32d10b8a99540406106da965c92f6523",
+        "sha1": "d9f0c21aae94c936e4a9548b2bda6cf1181781a3",
+        "crc32": "4f610980"
+      }
+    },
+    {
+      "filename": "Puzznic (USA).bin",
+      "filesize": 175287504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e68a6e7b0f7b4850667712a390a515f",
+        "sha1": "d9846f8220f99e230fc7cc5cba6dcb4492f7801a",
+        "crc32": "0412a329"
+      }
+    }
+  ]
+}

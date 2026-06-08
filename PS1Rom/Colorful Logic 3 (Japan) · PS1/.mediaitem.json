@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colorful Logic 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colorful Logic 3 (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "25456c05c58b6c064135c126d296b774",
+        "sha1": "1c31187bfa3efa765e90e649855bb3b53bef887b",
+        "crc32": "ada247eb"
+      }
+    },
+    {
+      "filename": "Colorful Logic 3 (Japan).bin",
+      "filesize": 46186224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "419878d41b4d30706455b0b9a90747f1",
+        "sha1": "5dbc9345cf01fbc4911a2133745f0569e9f367fb",
+        "crc32": "3d4b78a2"
+      }
+    }
+  ]
+}

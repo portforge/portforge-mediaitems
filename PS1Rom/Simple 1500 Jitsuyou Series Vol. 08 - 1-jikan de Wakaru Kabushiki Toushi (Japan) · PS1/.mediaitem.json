@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 08 - 1-jikan de Wakaru Kabushiki Toushi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 08 - 1-jikan de Wakaru Kabushiki Toushi (Japan).cue",
+      "filesize": 146,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee7f44fcfea59cc8c1a29d4d58bb69c4",
+        "sha1": "a415e779c94ca71c79e2bac8681a3c5c9761fb5e",
+        "crc32": "1fb25cfb"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 08 - 1-jikan de Wakaru Kabushiki Toushi (Japan).bin",
+      "filesize": 173217744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b30772e78c97b2693681714fd9d1e17d",
+        "sha1": "9b0b11cf991fcf8c29f6ba930c4f0f40890f16f1",
+        "crc32": "72f36b86"
+      }
+    }
+  ]
+}

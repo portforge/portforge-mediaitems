@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Walt Disney El Libro de la Selva - Muevete con Ritmo (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Walt Disney El Libro de la Selva - Muevete con Ritmo (Spain).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03b4e8c6b9ebdf10ea54800123be8759",
+        "sha1": "c57e36c52f94544ab768ea392d0ef5dabc11a9fb",
+        "crc32": "8774e7e7"
+      }
+    },
+    {
+      "filename": "Walt Disney El Libro de la Selva - Muevete con Ritmo (Spain).bin",
+      "filesize": 749333088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4b1ac904e394e69c30e30779d768724",
+        "sha1": "0288e77db2ec4ccfaef35f51feffecf4d1ab2cbe",
+        "crc32": "0dc561a4"
+      }
+    }
+  ]
+}

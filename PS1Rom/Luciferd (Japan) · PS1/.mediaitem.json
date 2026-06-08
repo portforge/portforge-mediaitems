@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Luciferd (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Luciferd (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0341dfbf4068b7e434ded56075ad33db",
+        "sha1": "7b1b08c73076eb298679ce4d769564e5c722761f",
+        "crc32": "399a7f9f"
+      }
+    },
+    {
+      "filename": "Luciferd (Japan).bin",
+      "filesize": 490018032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2a6f613c81c5079f4fc05c01b1574a9",
+        "sha1": "a8ad4947b5e42eb36bcbfad76e1d677e1b4c032f",
+        "crc32": "c611e150"
+      }
+    }
+  ]
+}

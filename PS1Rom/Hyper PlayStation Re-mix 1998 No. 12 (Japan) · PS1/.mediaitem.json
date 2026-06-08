@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix 1998 No. 12 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 12 (Japan).cue",
+      "filesize": 534,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ca0886bd535b6b4953beb8b91a57d488",
+        "sha1": "cc4feb14d906bbdcecb6ce16a9eed6328ce858eb",
+        "crc32": "dcecb7b8"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 12 (Japan) (Track 1).bin",
+      "filesize": 440254416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31f186b339829b51fb7610ef56e57c5e",
+        "sha1": "1c2944f3e47ea44f5f1eff6ed179f0250e94090d",
+        "crc32": "f0b6d7d5"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 12 (Japan) (Track 2).bin",
+      "filesize": 1352400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0eed14d8fd4f0ecdffe598c4d9245a0",
+        "sha1": "c9aa6ddfb1cd36d780c055ffcca86d20a9325c77",
+        "crc32": "5e966240"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 12 (Japan) (Track 3).bin",
+      "filesize": 27090336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81cd44638fa7a3a8bd3e3177c46e5966",
+        "sha1": "b1cb9a62a6651195d21ef358e15c86c65b0bf827",
+        "crc32": "16db9d40"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 12 (Japan) (Track 4).bin",
+      "filesize": 47555088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a67521b39de9a11cce7c4f672a4af26f",
+        "sha1": "550dc98e12488d2aa8232c9a260c05d49daccb75",
+        "crc32": "622c395e"
+      }
+    }
+  ]
+}

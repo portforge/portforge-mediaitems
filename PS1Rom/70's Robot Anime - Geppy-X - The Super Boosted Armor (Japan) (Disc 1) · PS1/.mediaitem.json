@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "70's Robot Anime - Geppy-X - The Super Boosted Armor (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "70's Robot Anime - Geppy-X - The Super Boosted Armor (Japan) (Disc 1).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62826bacbc22181f0cf3f5eb3f8b2b7c",
+        "sha1": "889c0c4e846218301eaf45bc56fed9d095f4b96f",
+        "crc32": "de54e69b"
+      }
+    },
+    {
+      "filename": "70's Robot Anime - Geppy-X - The Super Boosted Armor (Japan) (Disc 1).bin",
+      "filesize": 709026864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e6fc15b377fcd282e611c23bf55e2c1",
+        "sha1": "09af4611392f035c3a770f820e8e66781743d193",
+        "crc32": "18297ddf"
+      }
+    }
+  ]
+}

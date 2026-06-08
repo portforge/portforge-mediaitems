@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LiberoGrande (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LiberoGrande (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "12728a8fb5ae2ed6aa691d229dcc0fdc",
+        "sha1": "e80275877a18f778d856b6802e93a96a5c898a00",
+        "crc32": "91bdcf29"
+      }
+    },
+    {
+      "filename": "LiberoGrande (Japan).bin",
+      "filesize": 399771792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "816df3c0d5777c43cced00461ff2848f",
+        "sha1": "46cc76009c50884b544d46f3d1e64a0aff99f41d",
+        "crc32": "e14a758d"
+      }
+    }
+  ]
+}

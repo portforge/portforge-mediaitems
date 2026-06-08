@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colorful Logic 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colorful Logic 2 (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2126d19715dee28c96e46d0d36006b6d",
+        "sha1": "0252420bfc9fdab3fe2b23bade38e57f957b6d3e",
+        "crc32": "78a73b97"
+      }
+    },
+    {
+      "filename": "Colorful Logic 2 (Japan).bin",
+      "filesize": 206924256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f02ad74b97c730b7224cbcbcef54fb3",
+        "sha1": "5b46c818e6cf5b1d473a4dc5badbd8fa8a7a314b",
+        "crc32": "d95eaa01"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Echo Night (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Echo Night (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f53986abb15a9abfc3156995b952328",
+        "sha1": "f6f6fafb21622b1cf49bde6c3e793d892916a786",
+        "crc32": "3b0f4c73"
+      }
+    },
+    {
+      "filename": "Echo Night (Japan).bin",
+      "filesize": 490255584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2419abcb3736b735a6c914be89b5b79b",
+        "sha1": "9f10139097408b3e62fc8609efda1c11eca89164",
+        "crc32": "60c8d987"
+      }
+    }
+  ]
+}

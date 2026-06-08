@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bishoujo Ren'ai Mahjong Series - Karan Koron Gakuen - Munekyun-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bishoujo Ren'ai Mahjong Series - Karan Koron Gakuen - Munekyun-hen (Japan).cue",
+      "filesize": 486,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5beeb749a072c433bae0e7b74bf3e733",
+        "sha1": "fba806dbe60572c25038e0f419ba841872e19c1f",
+        "crc32": "b1d5ef57"
+      }
+    },
+    {
+      "filename": "Bishoujo Ren'ai Mahjong Series - Karan Koron Gakuen - Munekyun-hen (Japan) (Track 1).bin",
+      "filesize": 67032000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce4c41163ef0f7389f2eef8b0f45cdf0",
+        "sha1": "2e76aa81fe2c54f1e12a0e2ccc43e72ded723a0c",
+        "crc32": "5c987fe4"
+      }
+    },
+    {
+      "filename": "Bishoujo Ren'ai Mahjong Series - Karan Koron Gakuen - Munekyun-hen (Japan) (Track 2).bin",
+      "filesize": 11952864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f2557f80328d504bf638a5674ae0a6a",
+        "sha1": "03047d5d38f146887e8299ac693985bfebc113c7",
+        "crc32": "ebf03e40"
+      }
+    },
+    {
+      "filename": "Bishoujo Ren'ai Mahjong Series - Karan Koron Gakuen - Munekyun-hen (Japan) (Track 3).bin",
+      "filesize": 46746000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85dfea51883ee72fc9a1a5f385a826bb",
+        "sha1": "bf4bf263ce6cef28475fdadbaa91adf9a7ec308f",
+        "crc32": "2851d327"
+      }
+    }
+  ]
+}

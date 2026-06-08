@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Who Wants to Be a Millionaire - 2nd Edition (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Who Wants to Be a Millionaire - 2nd Edition (Europe).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "57803320411df3ea5cd627d52de5cece",
+        "sha1": "c2a02c5ba8c46048b0f39af519a60d1e2ba84011",
+        "crc32": "4bdf35f4"
+      }
+    },
+    {
+      "filename": "Who Wants to Be a Millionaire - 2nd Edition (Europe).bin",
+      "filesize": 441169344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78a7663eae9bc5fa2f379fe36ecb3d50",
+        "sha1": "aae310c2de91f7ebb371ee40e55ddad94b7be1d6",
+        "crc32": "9a97310b"
+      }
+    }
+  ]
+}

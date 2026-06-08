@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hokuto no Ken - Seikimatsu Kyuuseishu Densetsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hokuto no Ken - Seikimatsu Kyuuseishu Densetsu (Japan).cue",
+      "filesize": 278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e9d46609e8da489907c76767186a375",
+        "sha1": "7c318db42827e230c7766972759654c266c0ba65",
+        "crc32": "736b61a5"
+      }
+    },
+    {
+      "filename": "Hokuto no Ken - Seikimatsu Kyuuseishu Densetsu (Japan) (Track 1).bin",
+      "filesize": 659056272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08665db1bad0d01d9bce03e13eab05bb",
+        "sha1": "1f9b064ceafef91641bb3bbcc075a604f478489e",
+        "crc32": "79e9fc16"
+      }
+    },
+    {
+      "filename": "Hokuto no Ken - Seikimatsu Kyuuseishu Densetsu (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

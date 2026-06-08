@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beast Wars - Transformers (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beast Wars - Transformers (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 272,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3b8c344a5734715f83335d7628052c93",
+        "sha1": "84f03d9a789b5ffb3c29b7f0975c068b0be0ac35",
+        "crc32": "ef771413"
+      }
+    },
+    {
+      "filename": "Beast Wars - Transformers (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 587668368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56205be6d0f13775bf800d36e1c6503a",
+        "sha1": "daec3d6fcc26dcb53d1b6e642fb4f1cf7e656887",
+        "crc32": "bc84bb86"
+      }
+    },
+    {
+      "filename": "Beast Wars - Transformers (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 33165552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4dcbd2e4231d7c4c997a43f563b1636",
+        "sha1": "6416e3f7758f8499b5b0004e7549314b1a9fd64e",
+        "crc32": "c891c6bc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Classic Road 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Classic Road 2 (Japan).cue",
+      "filesize": 794,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17336d051f73dcc7ec4886cfceba6e1e",
+        "sha1": "660cfd131cd7b4545c61ea57270bd8467a2952e0",
+        "crc32": "ddd51b5a"
+      }
+    },
+    {
+      "filename": "Classic Road 2 (Japan) (Track 1).bin",
+      "filesize": 54681648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c6d2a4955cdea41483c91d9f8103f35",
+        "sha1": "cf45203b52d81802f739aabd795eba393a2c575a",
+        "crc32": "cad85145"
+      }
+    },
+    {
+      "filename": "Classic Road 2 (Japan) (Track 2).bin",
+      "filesize": 21866544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c4eb69d6aef7bed347ccf39164b01e4",
+        "sha1": "9a1595a0be01e4e0da127f335ad0bd75f20d2d5f",
+        "crc32": "bafd3f51"
+      }
+    },
+    {
+      "filename": "Classic Road 2 (Japan) (Track 3).bin",
+      "filesize": 1136016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90467d05c6ab1e171035d0cda061fdc2",
+        "sha1": "1272a6437905a9772974ee69116d364001c72414",
+        "crc32": "3de26674"
+      }
+    },
+    {
+      "filename": "Classic Road 2 (Japan) (Track 4).bin",
+      "filesize": 26234208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "827511779bcbe6a77028f1716dba7081",
+        "sha1": "4cbf31657357b8399e2a0efd86b56afa4a9b2f4c",
+        "crc32": "1fcf2f0e"
+      }
+    },
+    {
+      "filename": "Classic Road 2 (Japan) (Track 5).bin",
+      "filesize": 9219840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6108cb6066073fbcf7691bb2da895134",
+        "sha1": "ffcfa7c75d2c4dc720ddbc253fb50998afe7e82a",
+        "crc32": "46c5d160"
+      }
+    },
+    {
+      "filename": "Classic Road 2 (Japan) (Track 6).bin",
+      "filesize": 24827712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a25e1059692e4cf5aaee5c8807a313e",
+        "sha1": "0b8aab316552df202bae678af2b6a17df2e8f79e",
+        "crc32": "5fc30e9c"
+      }
+    },
+    {
+      "filename": "Classic Road 2 (Japan) (Track 7).bin",
+      "filesize": 34546176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a50a2653b9b948dd513a1d1cdcaccf9",
+        "sha1": "2075bc6edb98ed97fbfe21d0d0838b8efc635005",
+        "crc32": "c95ac05f"
+      }
+    }
+  ]
+}

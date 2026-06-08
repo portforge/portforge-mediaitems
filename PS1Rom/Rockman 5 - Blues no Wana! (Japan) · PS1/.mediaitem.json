@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rockman 5 - Blues no Wana! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rockman 5 - Blues no Wana! (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1405a428bfc4eed726245bb105675c4d",
+        "sha1": "2a3845f45a2ad9f2320a13c69c275f26feb0dcde",
+        "crc32": "8f658662"
+      }
+    },
+    {
+      "filename": "Rockman 5 - Blues no Wana! (Japan).bin",
+      "filesize": 612832416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "595132859510bf9ba070bf1b4ade6a2f",
+        "sha1": "8fd4e56c08fde898ec9c31724d50d93df0bb7570",
+        "crc32": "cd1e0e40"
+      }
+    }
+  ]
+}

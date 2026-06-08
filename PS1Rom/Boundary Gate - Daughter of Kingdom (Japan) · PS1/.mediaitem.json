@@ -1,0 +1,917 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Boundary Gate - Daughter of Kingdom (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan).cue",
+      "filesize": 12402,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59d689c75e0bc404830f26b787d0abc2",
+        "sha1": "5ca2f99b7d283a1a9ee9ad12430bad2559b2ebdb",
+        "crc32": "c838a402"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 01).bin",
+      "filesize": 75647376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60c4ebf5e30de8dcce7c9575349edd27",
+        "sha1": "f63989d3c28aae49588e5cf402e9bb061d4b947b",
+        "crc32": "af8c9461"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 02).bin",
+      "filesize": 8685936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27724f563291fec14c792e981666591e",
+        "sha1": "2a7ecd915ee19452f6071f3eaa0b94813168b6dc",
+        "crc32": "1f5de63e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 03).bin",
+      "filesize": 1564080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da3638ad02077eb03a8302eda95e850e",
+        "sha1": "79e8e9f3ff71bdaae46fe1c1254b0bcd3362d17a",
+        "crc32": "4066554b"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 04).bin",
+      "filesize": 3803184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c09544cc8145c77c5b495ca81f5d8849",
+        "sha1": "e3f5a9b6527a58b8a6021bdb4608884740bbb20d",
+        "crc32": "89127487"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 05).bin",
+      "filesize": 2370816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0af3f91449f15ec1e394c3f732de745",
+        "sha1": "e503c63bbd28322a48d1a1f1c836a0b50e87628b",
+        "crc32": "ec931d31"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 06).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4dd6c67fbc2cabfb2fa018e16d39fc6a",
+        "sha1": "55876a49053718db1b1749e270b8920aa535231d",
+        "crc32": "382b98d7"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 07).bin",
+      "filesize": 6820800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ae64c8900767aee81a98f1900733498",
+        "sha1": "2e479aab7b48be00f062ee6a2923b91022985af7",
+        "crc32": "4058fed6"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 08).bin",
+      "filesize": 8417808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42bb3cd0447ec0baef8dd324870ad159",
+        "sha1": "ccd9f68e3574365d046cffeceeae2db70be26fc3",
+        "crc32": "bb3d6a91"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 09).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "567c410a47535263db378b50ea99eb38",
+        "sha1": "ed876035d8cde377f18baba90fb865f543021468",
+        "crc32": "4627fa74"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 10).bin",
+      "filesize": 5889408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e42088277ae8e06f59c812ddfe60f6e0",
+        "sha1": "c5cb01a0e8e75a026637eeb5b79351c8e09cc5f2",
+        "crc32": "6a3bfad7"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 11).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7da192a2715c4660f293a3b8fd41c1ba",
+        "sha1": "4b6bbff65f5709d9fe0950a77c197698f29116da",
+        "crc32": "31320ef8"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 12).bin",
+      "filesize": 1204224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "679ba5e32f21ef18e4392e4f5c49f9d0",
+        "sha1": "edd3582a54a8efb0fc905ac6ed904589d7635971",
+        "crc32": "cfdd0b00"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 13).bin",
+      "filesize": 1291248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7304375edd32ef2c98d65765a33745e",
+        "sha1": "b09a806e397ed17d9857a9d06ba7655bf323f0a1",
+        "crc32": "44ac5374"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 14).bin",
+      "filesize": 2147376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5f917b4b9e8edc5527aca921d6bdac6",
+        "sha1": "6f11d9cb4160b3814676ad957a2ca73f2812c0e8",
+        "crc32": "678179b4"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 15).bin",
+      "filesize": 3151680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25cdd9038541ae91dea013122c792664",
+        "sha1": "d09b2ee4350deaa0c498877230b15b542a7916d9",
+        "crc32": "1d3da49d"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 16).bin",
+      "filesize": 3041136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba5aeee71180a7015aa4bdd61377dd57",
+        "sha1": "92cea9bd05c2585bd7d5984e4576a163a9b8d47a",
+        "crc32": "9e7f4272"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 17).bin",
+      "filesize": 5941152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a53bdf17b5aced53a232ff6422cd00c2",
+        "sha1": "45beefdeedc0b1a5557c8204e795271e64d2c3c4",
+        "crc32": "d611eb66"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 18).bin",
+      "filesize": 5760048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be7e154a282923976607713a8881bf4d",
+        "sha1": "4966a382816d105421dd9501753585861717bacb",
+        "crc32": "bc861db9"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 19).bin",
+      "filesize": 6244560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83bb22f6387893106e9d0d5fd9c78172",
+        "sha1": "3828197789b457c35d32b4686ced3e2165a7a73f",
+        "crc32": "ce3d3a24"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 20).bin",
+      "filesize": 2290848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "423004bb881533f20c6096c908eb0eb7",
+        "sha1": "e276eb5d84edaac9c1622b47ca2651877860f658",
+        "crc32": "57f286a6"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 21).bin",
+      "filesize": 3102288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "342ada9afb4eaf84750d304d39a17bad",
+        "sha1": "069ab3beaecb935fd1576f2f03ee74fed8ccaba1",
+        "crc32": "18193cea"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 22).bin",
+      "filesize": 2895312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "691e68579e658769eb80dc5c1d48036d",
+        "sha1": "36bd485eca63921adcb79be3810fec8e70646211",
+        "crc32": "079db2a1"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 23).bin",
+      "filesize": 4694592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "483acc01e402b3a9e9f6824692085569",
+        "sha1": "301b02559f11ecd4f72190b4ba75dfe819149bc7",
+        "crc32": "5a824beb"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 24).bin",
+      "filesize": 6192816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cee86384c7b1bc511eef882f5418b17f",
+        "sha1": "f2d159bb403a9c2e90bd974424dfc4ad8915d7ab",
+        "crc32": "12af0e0c"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 25).bin",
+      "filesize": 6435072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "575cab93ccf503805d7c4f48ba2ee303",
+        "sha1": "ae3cff086ee4dedd0d1fd22740ea114838a679b8",
+        "crc32": "d861afe6"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 26).bin",
+      "filesize": 6667920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d34fefea7b13618c10e4ea711d8b1e6",
+        "sha1": "91b9cafc263cf2ce7490a99a0ba6c3779789b713",
+        "crc32": "b56580f9"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 27).bin",
+      "filesize": 6293952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61eadbf96ae3235b623459e8aeefed77",
+        "sha1": "2005c4782281753be34f582d83aef13bf682974b",
+        "crc32": "2ea997cc"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 28).bin",
+      "filesize": 3154032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b49fbe8d6bc9d6fd0da4f9fcaf2cd11e",
+        "sha1": "968fc947c75eaaede0a032b7499b3e6565037f3a",
+        "crc32": "b14f92bf"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 29).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a7a09cd505987572f6cf122084fe1df",
+        "sha1": "5699a0618729790943cf8ee28bde04a7be0421b0",
+        "crc32": "21a6e639"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 30).bin",
+      "filesize": 11063808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a76ae717b4ff67e4b64b285b4f52d3de",
+        "sha1": "98867fb71710385bf702e0ed16270387dc742ca8",
+        "crc32": "f1c96658"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 31).bin",
+      "filesize": 1552320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8413aef638eaba500fce8d8a2e01d87",
+        "sha1": "f81bc850a4e4c505526a93cae317e4846625354e",
+        "crc32": "2d36cd90"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 32).bin",
+      "filesize": 10727472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b1155be4c684fd15292b9d7d25672d0",
+        "sha1": "1fcc74916e3bd0d29c38411903e04effc97572f2",
+        "crc32": "a79fd9ed"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 33).bin",
+      "filesize": 2521344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c1f122c0a4a1dd40d5a55fc30c94a81",
+        "sha1": "82de9cdf96f1e90addcde6bb2038a795441258fd",
+        "crc32": "f07021fb"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 34).bin",
+      "filesize": 6905472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e18c08598d6ef60c200e693cb13d980",
+        "sha1": "2511f0944e33d3c235ac4fb12c5e555b23f4276b",
+        "crc32": "a55c574a"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 35).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3895f52db7f8c10ba36ab0acb6fec317",
+        "sha1": "a76eb25dc0293d4a9ce1efdea5fa59a4c9f8db90",
+        "crc32": "c3406c86"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 36).bin",
+      "filesize": 5959968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdacce0550e242e350f98af898b70868",
+        "sha1": "fb4d085047d3c8fbecc0ce5d827d7edb9ef07418",
+        "crc32": "ea142f5c"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 37).bin",
+      "filesize": 8029728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61b389aad7abed3f14458bae831fb4fa",
+        "sha1": "f49e402ebb1e74e910ade7f363781432525bf945",
+        "crc32": "368a29ee"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 38).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3878ec88eb853b895083c1be606874d",
+        "sha1": "53e39073adbbfdfc68cb8577100031915c78c9d7",
+        "crc32": "9ac9f3d2"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 39).bin",
+      "filesize": 1467648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7dfc754c95735e9788587fb60946c4f",
+        "sha1": "98ba643469fd6f55db4a34f92fd58fd206538d72",
+        "crc32": "35d0017e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 40).bin",
+      "filesize": 1145424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb98fe13626a05935633d7136c2b3ed3",
+        "sha1": "9c810f1e95be24ab4303fce87ffceb5ef63db36b",
+        "crc32": "ccc47b96"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 41).bin",
+      "filesize": 2093280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8be76f7544d2f4d65cb0766eaeb0787a",
+        "sha1": "e2ec2fc86d3356608ec7d414d84678122f2a0215",
+        "crc32": "14d59103"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 42).bin",
+      "filesize": 1970976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5184fd11c4f7d4b261bf28be0532561c",
+        "sha1": "fcb563a9cc13cf3e530f473499bb7a05f8902008",
+        "crc32": "00a172c0"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 43).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ccd81758f2afb289aa297e8205b24d2",
+        "sha1": "c025d2d23461fb063ffbf617d03fd83c8711633b",
+        "crc32": "84b84cb1"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 44).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c017e990f9e7fba597487c9e373ea27e",
+        "sha1": "4ded36977c314b4578ae47bfc794e1eec2f95fcd",
+        "crc32": "414d3577"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 45).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee7c5a1696bc8dee60d673c342e56bed",
+        "sha1": "e35b588df0629796ffa12a0a7dcf347558644822",
+        "crc32": "b9c63624"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 46).bin",
+      "filesize": 4694592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30d71828268fb98fb498475fbea9250a",
+        "sha1": "79b8fe9f5eb10f5f1d73b63a264fb74f0d193680",
+        "crc32": "ebbb2106"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 47).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c76cbaaa9853062685516dcd27f2b1bb",
+        "sha1": "2b3d3762118d0c1459b957a710fb21768b77524e",
+        "crc32": "126f3ef3"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 48).bin",
+      "filesize": 10445232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c65a9d4488dd4e9b03ca0730cdf9f8f1",
+        "sha1": "d57bf0ab14cf156b583461df6de1a2fa82442e1a",
+        "crc32": "9a79907c"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 49).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d67a88fffd9c16a2da71db45c1e58a8",
+        "sha1": "e92a930ee471274ec9622cad406d7f85ac829651",
+        "crc32": "a06040fe"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 50).bin",
+      "filesize": 1462944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d10f98da0b8c709953ac7e3adcb99b4",
+        "sha1": "0ec2d5206c9b90a5927c21e75225afa40c3665c0",
+        "crc32": "3ff8c91b"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 51).bin",
+      "filesize": 1712256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ad4917846d39dbb7ff8cb45eac54305",
+        "sha1": "030d85f33499b874f74f858227998dc90e35e675",
+        "crc32": "5e44460e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 52).bin",
+      "filesize": 11103792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ad389247dcc92cd0dd0a7b928cdbdb4",
+        "sha1": "1d3b145974df8ac19f821a3013fb757e69d11181",
+        "crc32": "bad97f77"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 53).bin",
+      "filesize": 2528400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa64e53b013e1d3bbc6b6eabb68a1a16",
+        "sha1": "1e7baf99430b41c3b2aabfd2337ae0d4fe564108",
+        "crc32": "f68df8af"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 54).bin",
+      "filesize": 1347696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "344537c517666b97fd6f449ea827dadc",
+        "sha1": "5a9be921adabce1c8ed1b81a4702026043633467",
+        "crc32": "134c1e47"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 55).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c07b67434d604e95b01215c24f5c866e",
+        "sha1": "2873b474536dcde51b64b4b561d9987916f49ee3",
+        "crc32": "6ba55ee0"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 56).bin",
+      "filesize": 1178352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb73d70e716e81e8b4d07099f4bbcc06",
+        "sha1": "07378d662e0cbde5b9c069c9d65e7c983f2b3011",
+        "crc32": "991d5f77"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 57).bin",
+      "filesize": 2940000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a61a6e2cb35d6bcf7bcee09e64a3a1f0",
+        "sha1": "c58b8c8c7da020038cbddfea8f791502dc43b9ac",
+        "crc32": "283fe7e3"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 58).bin",
+      "filesize": 1653456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a13fca27a68b616ab6010c6bffa428a9",
+        "sha1": "48a65f845055f620fe9cdb137210e6aae84357c5",
+        "crc32": "e47b5c2c"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 59).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09d38b98a1675228a6ac16371a18ad29",
+        "sha1": "82a8093724e21d1ab5898545185fa98aa8c8710b",
+        "crc32": "0d42bf14"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 60).bin",
+      "filesize": 2382576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fd53aeaa280203277a0bd86d1cd336e",
+        "sha1": "0426deaaec4f24e702c9a93440185215cc30a243",
+        "crc32": "1b0bcfd5"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 61).bin",
+      "filesize": 3765552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abf898394f9ed18d128ae21aa2d7cd6a",
+        "sha1": "eb2ddae1ba479a5e9df4b3010a2d94fbdc49b692",
+        "crc32": "1cfdfa8e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 62).bin",
+      "filesize": 5927040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68885bdd882008562dcd089b667b3184",
+        "sha1": "0a04fb132303f277d7abde907ca08ad58e5c3616",
+        "crc32": "96fd9f42"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 63).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abb18ee698113b0f07734bd724230b56",
+        "sha1": "5af6cf4d4a4c40d66de330c50d8a469ba979455f",
+        "crc32": "b193b915"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 64).bin",
+      "filesize": 1215984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30520a0e86b2190e45cc06af17f881d6",
+        "sha1": "265bc081d2c03d59fcc43dddad31010e99c05c01",
+        "crc32": "d41bb842"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 65).bin",
+      "filesize": 1143072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b7a261ca8efed992b573c0b399494ea",
+        "sha1": "35b3a88a9e120039006b3172242872259752fa1f",
+        "crc32": "c1ffb6b6"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 66).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "255e318e7d77ea9cd0c2f5c7160e89e9",
+        "sha1": "b9f4a0223c1be8d8e17ad03154c9d83d5c3b7bdb",
+        "crc32": "959340ca"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 67).bin",
+      "filesize": 5713008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5502ff70109d3b209838b8e162fb7533",
+        "sha1": "3bc09d535ca617742af11be4429058c75c450a9f",
+        "crc32": "f98b3585"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 68).bin",
+      "filesize": 9624384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e734837a6e7c66fdd92118db3c6e9ee",
+        "sha1": "b17b62ffb02f97e6c54bd6ff4b82a624b6b58b5c",
+        "crc32": "bbdc7bf3"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 69).bin",
+      "filesize": 17306016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35d32367a2d7dc19e96dba6730d37309",
+        "sha1": "a5c1b13466db7054985b094d6c6473840288bafc",
+        "crc32": "338dce6e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 70).bin",
+      "filesize": 14067312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40763411e48d652d6c5de0a9e9304f4d",
+        "sha1": "8580f5e5381987436b449b1038c89edcc27973f3",
+        "crc32": "1d757786"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 71).bin",
+      "filesize": 6463296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37527bd2c2737a4b01e99892429eacae",
+        "sha1": "190aa4c20532dc690cebc0c15a383b032054090e",
+        "crc32": "148f4bc7"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 72).bin",
+      "filesize": 9464448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6bcfcb31cc083e5e27c331747d920ed",
+        "sha1": "1127010b7f07a3566da995f24ace1f825446f999",
+        "crc32": "6347da24"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 73).bin",
+      "filesize": 4729872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbf73690173f1f657b99f8438840649a",
+        "sha1": "c3065fce770b012df3c25934500ab45ad2a4f451",
+        "crc32": "dc0c4f0f"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 74).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "920bbc519f2064c082d5a882082513c6",
+        "sha1": "e35e2c154c429052e8359efc53e82157b206c01e",
+        "crc32": "6b627ec0"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 75).bin",
+      "filesize": 1404144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab09d5b0d94c63d7696c4c145c9df0c8",
+        "sha1": "6bfe2340ac04b22d0f1b0529083a5f489a7dfe40",
+        "crc32": "0472c673"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 76).bin",
+      "filesize": 9426816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cfebe8f11dcd28a3e15d46539d8a7a7",
+        "sha1": "ab25be9abe2de8c3825e56526bc55e48505a2ec6",
+        "crc32": "3c156ee2"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 77).bin",
+      "filesize": 4922736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7637e05770cb0959abf4ef93c25bc31d",
+        "sha1": "d781b116b91c3297ff97136a94d9a06d4e4bf5b5",
+        "crc32": "e684ff01"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 78).bin",
+      "filesize": 3774960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c966f1c3e1b747422fafb3ee45f38a5",
+        "sha1": "caa1225576d4d940e0a902447c5868915682b616",
+        "crc32": "25cdd1bf"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 79).bin",
+      "filesize": 6691440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c157c237c50b3e896f81f91d4fb7bd84",
+        "sha1": "6b654022df4fa93f4536469b40bb7c07c4f69e96",
+        "crc32": "870305af"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 80).bin",
+      "filesize": 3321024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee0aa4b2dc2ca92f017246d856f8f9ac",
+        "sha1": "8f457ca1a197b09a6e9dc59c41f4a65f22ac5ade",
+        "crc32": "fb4b7975"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 81).bin",
+      "filesize": 7133616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d7fe3990ce3cc7eb77629bac388c52b",
+        "sha1": "6f79bf21c57ac58c749b68ce7d753ee3cd5a9d65",
+        "crc32": "eef5a02c"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 82).bin",
+      "filesize": 7552272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "078b215a261f188c36ecb86796afd2c0",
+        "sha1": "96bb1aaa031cd6d2b5b066438b4be184e6f71eb1",
+        "crc32": "b758d031"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 83).bin",
+      "filesize": 11861136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fa538d7689b54afe7b0e0f71a8969dd",
+        "sha1": "dbd5f765b7f9f48326d0c9e40b292907840531f6",
+        "crc32": "9fcff2da"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 84).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7232c7c354f882d40e177a9f6c8b4613",
+        "sha1": "fd10b68ca967626bdc3387d14eddaf4dad2c4575",
+        "crc32": "a6e5065e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 85).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7232c7c354f882d40e177a9f6c8b4613",
+        "sha1": "fd10b68ca967626bdc3387d14eddaf4dad2c4575",
+        "crc32": "a6e5065e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 86).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7232c7c354f882d40e177a9f6c8b4613",
+        "sha1": "fd10b68ca967626bdc3387d14eddaf4dad2c4575",
+        "crc32": "a6e5065e"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 87).bin",
+      "filesize": 7509936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d5249b77d2e8c3e3882cc76f1e837bf",
+        "sha1": "29d239981e79ca55a36f3d2223bca2b38d083109",
+        "crc32": "ea044235"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 88).bin",
+      "filesize": 7509936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d5249b77d2e8c3e3882cc76f1e837bf",
+        "sha1": "29d239981e79ca55a36f3d2223bca2b38d083109",
+        "crc32": "ea044235"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 89).bin",
+      "filesize": 14848176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a3d88a3367ccb6ec94814915b8d3c71",
+        "sha1": "be54011727844a715b36eb37f01c13a360edb7fc",
+        "crc32": "b30659f9"
+      }
+    },
+    {
+      "filename": "Boundary Gate - Daughter of Kingdom (Japan) (Track 90).bin",
+      "filesize": 40619040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52184e237eac2c04718672fe643b4e88",
+        "sha1": "9de3088ce08aecd82403c7ef4286f6350264df05",
+        "crc32": "33bb1536"
+      }
+    }
+  ]
+}

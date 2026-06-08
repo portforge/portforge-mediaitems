@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Macross VF-X2 & Patlabor - The Game (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Macross VF-X2 & Patlabor - The Game (Japan) (Demo).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1c553aaf57e9b8f6a0480909d036aa87",
+        "sha1": "2032632f74f83a2f85346d219ec251e3851390e6",
+        "crc32": "8dea212d"
+      }
+    },
+    {
+      "filename": "Macross VF-X2 & Patlabor - The Game (Japan) (Demo).bin",
+      "filesize": 169407504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d41ee1457a600845a12a729cdffdbaaa",
+        "sha1": "db9e08d1788a8159e250a7cb2d8c45bc33ce3e66",
+        "crc32": "f22ae1ae"
+      }
+    }
+  ]
+}

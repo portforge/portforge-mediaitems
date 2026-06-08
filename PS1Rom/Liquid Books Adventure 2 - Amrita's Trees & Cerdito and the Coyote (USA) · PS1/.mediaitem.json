@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Liquid Books Adventure 2 - Amrita's Trees & Cerdito and the Coyote (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Liquid Books Adventure 2 - Amrita's Trees & Cerdito and the Coyote (USA).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e65f4022b3a782009daea7635f07a9b",
+        "sha1": "a156ab66b7128718f387b176fe05683ae3333393",
+        "crc32": "7c142473"
+      }
+    },
+    {
+      "filename": "Liquid Books Adventure 2 - Amrita's Trees & Cerdito and the Coyote (USA).bin",
+      "filesize": 548406432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f0836373a7c7c57dfddbd49feb3d773",
+        "sha1": "db31c8a0bc3218613b0f87dce2a8df5d9a863843",
+        "crc32": "f8318c5b"
+      }
+    }
+  ]
+}

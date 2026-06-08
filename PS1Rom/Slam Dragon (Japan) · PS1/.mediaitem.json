@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slam Dragon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slam Dragon (Japan).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60634eb96a57ce100f1221c49fe7cc71",
+        "sha1": "3caff79dc167981f8434a28a2e1af15869a7a6f3",
+        "crc32": "fad50e71"
+      }
+    },
+    {
+      "filename": "Slam Dragon (Japan) (Track 1).bin",
+      "filesize": 126424704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af606522204dd4c31abef288cb05d74f",
+        "sha1": "759ae9ee1727c400ed96e7eac6bb809ad17d4e15",
+        "crc32": "7932ec0e"
+      }
+    },
+    {
+      "filename": "Slam Dragon (Japan) (Track 2).bin",
+      "filesize": 354545184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50f9fb7599d2c5c21c228955e2979392",
+        "sha1": "cfd7cba19a0ae5c1b479d67af0dde5425b13feb1",
+        "crc32": "ec3a7449"
+      }
+    }
+  ]
+}

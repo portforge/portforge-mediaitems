@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zeus - Carnage Heart Second (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zeus - Carnage Heart Second (Japan).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f4d00e06b1ee563731bc8a43d1cabc0",
+        "sha1": "be019074233d3e76cf2b4b4868ec30363f6f67df",
+        "crc32": "44662043"
+      }
+    },
+    {
+      "filename": "Zeus - Carnage Heart Second (Japan) (Track 1).bin",
+      "filesize": 386934576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31470d17eeed6e2347fed4a0079731f0",
+        "sha1": "f3e0e04db67ba3bf1c8874de50610a824c385560",
+        "crc32": "e4bda4b8"
+      }
+    },
+    {
+      "filename": "Zeus - Carnage Heart Second (Japan) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

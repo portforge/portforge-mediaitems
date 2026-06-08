@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rockman (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rockman (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a4216006af7df07c26709e4598d52e9",
+        "sha1": "cd8b051defd61636b0d3e4da6f45df1083e50ab8",
+        "crc32": "75a437cb"
+      }
+    },
+    {
+      "filename": "Rockman (Japan).bin",
+      "filesize": 287407344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc871577bd8ba58576b5e8f3155226a6",
+        "sha1": "d221655f201f0d8d32091337f1ed7ffdd1d90686",
+        "crc32": "ad32e9c8"
+      }
+    }
+  ]
+}

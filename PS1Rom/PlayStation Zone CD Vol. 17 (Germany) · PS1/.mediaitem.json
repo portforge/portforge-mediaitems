@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Zone CD Vol. 17 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Zone CD Vol. 17 (Germany).cue",
+      "filesize": 506,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e5d86c1ff1087992a73aa91b9346994",
+        "sha1": "fb6e84f10d40ddf86074dd3f837b72146e00dfcd",
+        "crc32": "a4f49c41"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 17 (Germany) (Track 1).bin",
+      "filesize": 618787680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a52d8d8f6d227ef56c7b10b5eb552459",
+        "sha1": "6e61dc66a8dd3857039590b70526f0c6ae868fc7",
+        "crc32": "b5253cb4"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 17 (Germany) (Track 2).bin",
+      "filesize": 13220592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b70235f225d08b9daf251cbaf1c9b8c",
+        "sha1": "340a19b6c56ca9c116e13ec033eedba59e5a315a",
+        "crc32": "0da4caa2"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 17 (Germany) (Track 3).bin",
+      "filesize": 20403600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3059ec3b7ff248268386ae8731a87bb",
+        "sha1": "914c48fdaa13cada6ac12b1947458ff39d0a3b88",
+        "crc32": "46635e27"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 17 (Germany) (Track 4).bin",
+      "filesize": 43274448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "464958044dcadb6dd5122054b6523d72",
+        "sha1": "3b0eab797e701b97adcc11bf66f6de08a6bedf7c",
+        "crc32": "6269df44"
+      }
+    }
+  ]
+}

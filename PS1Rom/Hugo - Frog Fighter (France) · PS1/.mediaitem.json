@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo - Frog Fighter (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo - Frog Fighter (France).cue",
+      "filesize": 714,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d7466cca9983ceff7199aa9193971c1",
+        "sha1": "4bf26042043aacf26a0f57c33668ca30baed0826",
+        "crc32": "d6ed7160"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (France) (Track 1).bin",
+      "filesize": 77401968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df8e04a855682b2a74e8c45f35ddd37a",
+        "sha1": "693c63aef5bd83b2bea3e7cfb5ea340b33ea104d",
+        "crc32": "a0d95934"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (France) (Track 2).bin",
+      "filesize": 31215744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4bd28845dcab2fb70b8ceb86d44d0f6",
+        "sha1": "0e4d985f538b50c9f827f8f7435e9116183a889e",
+        "crc32": "b0c125ce"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (France) (Track 3).bin",
+      "filesize": 11195520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b217efa46fa58c275ff744b00d474ac8",
+        "sha1": "55072ed96733f45c087bd4d473ed2b786e225b88",
+        "crc32": "b40bf274"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (France) (Track 4).bin",
+      "filesize": 27125616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6da012f0156f337c2bd50544411a9ded",
+        "sha1": "a96dd1cdd330170eb03884a4c6b32320a1be46bd",
+        "crc32": "a0de1b59"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (France) (Track 5).bin",
+      "filesize": 11336640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e44baec5f22206e3b63a23ebfbb1aa5f",
+        "sha1": "43a6d9c542b44a2404794944e96dfb06cfc4a00a",
+        "crc32": "fa389587"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (France) (Track 6).bin",
+      "filesize": 36891120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98abe0a2b9a38f069f92ffa34cdc3f88",
+        "sha1": "79fa6d25dc761dae00e3d541b368fe756b09755e",
+        "crc32": "cb288cc9"
+      }
+    }
+  ]
+}

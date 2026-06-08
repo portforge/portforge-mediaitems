@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Perfect Fishing - Bass Tsuri (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Perfect Fishing - Bass Tsuri (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89c1815389f9098cf40f2502921787a6",
+        "sha1": "f113df0b13e4223b58a0933e1cca0513dbe4a4aa",
+        "crc32": "76bbf381"
+      }
+    },
+    {
+      "filename": "Perfect Fishing - Bass Tsuri (Japan).bin",
+      "filesize": 104988576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e8dab0a3deb28f75fbcbe5b4ed5ede1",
+        "sha1": "df32c1d4d8b670b067693306c02e88aaf91e66ac",
+        "crc32": "66882d80"
+      }
+    }
+  ]
+}

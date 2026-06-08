@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kick Off World (Greece) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kick Off World (Greece) (Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db1ba483cbe248891855c4ea235d0373",
+        "sha1": "5b8d860caf25dba53a595595425988db0e614b97",
+        "crc32": "6a5d34e3"
+      }
+    },
+    {
+      "filename": "Kick Off World (Greece) (Demo).bin",
+      "filesize": 204238272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab53d963b49af0923744fc6a8da7e6dd",
+        "sha1": "ed823e3d9b28610751ade0c864fb9404ebf3d387",
+        "crc32": "7c790b18"
+      }
+    }
+  ]
+}

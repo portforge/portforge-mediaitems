@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Slammin' Dodgeball (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Slammin' Dodgeball (Europe).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ac904b44e831fe2c259906b9f065080",
+        "sha1": "7f65473e9c6752670bd06a2f5c0ee94ac54bc2cb",
+        "crc32": "c6e73f2e"
+      }
+    },
+    {
+      "filename": "Super Slammin' Dodgeball (Europe).bin",
+      "filesize": 217385952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b35fd1ba4a5b568f88ccddd6d15907",
+        "sha1": "cc41bf2c721b9de2a8ff2542bd7d8d24c70246bc",
+        "crc32": "c260b9f8"
+      }
+    }
+  ]
+}

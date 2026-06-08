@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formula One 2000 (Europe) (Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formula One 2000 (Europe) (Es,It).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dcbcfd5cee90d8fc0a1cf3119a6edcbe",
+        "sha1": "d9dbec7e46013293c9dbdfd2db08662bf6696f88",
+        "crc32": "deb7053b"
+      }
+    },
+    {
+      "filename": "Formula One 2000 (Europe) (Es,It).bin",
+      "filesize": 546261408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbbf3f320eae0dab2c7b374d1868859f",
+        "sha1": "dfccbe6706697450ea17caa422eadfd89cc5ed30",
+        "crc32": "0777bbcf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro Pinball - Timeshock! (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro Pinball - Timeshock! (USA) (Demo).cue",
+      "filesize": 375,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a97fa51bd127b02edd19ee90d69fb94",
+        "sha1": "a3a4aea0caf58beb8724109e70d379f6677fed72",
+        "crc32": "6e831e74"
+      }
+    },
+    {
+      "filename": "Pro Pinball - Timeshock! (USA) (Demo) (Track 1).bin",
+      "filesize": 45170160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25591657f32e6961c7728b21e113f409",
+        "sha1": "0bf47677dc05ad566f012db239c3ccdbd6433085",
+        "crc32": "cd1fdac1"
+      }
+    },
+    {
+      "filename": "Pro Pinball - Timeshock! (USA) (Demo) (Track 2).bin",
+      "filesize": 24750096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7b980d2701b2e88fc0b6debc7a2d924",
+        "sha1": "4e3cb3faff18c81685ed97ec97d9a44f23bafbbd",
+        "crc32": "04033a1c"
+      }
+    },
+    {
+      "filename": "Pro Pinball - Timeshock! (USA) (Demo) (Track 3).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

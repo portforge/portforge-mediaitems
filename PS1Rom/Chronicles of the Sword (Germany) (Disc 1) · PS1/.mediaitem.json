@@ -1,0 +1,477 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chronicles of the Sword (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1).cue",
+      "filesize": 6284,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b7aa470773ec1bff891280830645746",
+        "sha1": "96caa2360c0b8e85a7b531a1db3511e347517869",
+        "crc32": "2820ae59"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 01).bin",
+      "filesize": 235141200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "778c1a20df198eefd5e3e82b6c2d7020",
+        "sha1": "8855a8e0818e015cb2d2d902a47fb4ca50e64afa",
+        "crc32": "ca132b90"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 02).bin",
+      "filesize": 3880800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a72dd35fc3a8ad8fc1704ddd980e783",
+        "sha1": "43ca67e2b41497900a633e6b6137d1ba2eee167d",
+        "crc32": "176091f8"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 03).bin",
+      "filesize": 13406400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ed34588d3424b470579828ac4dbc26a",
+        "sha1": "dae8b4dbbcf9ca054d9d1f3e6ad741307aecf853",
+        "crc32": "4c4056d2"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 04).bin",
+      "filesize": 43570800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea509aeabf1172fc85a854a80e26691d",
+        "sha1": "a66a48a81f7ca987f7ad7d2a3a3c08d87bffdaf8",
+        "crc32": "ef253a0f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 05).bin",
+      "filesize": 2822400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab3eae73c6cdbf30221bed0d82c7a8ee",
+        "sha1": "b573a728ff22f0adafae94ef4d362003c9afd3ca",
+        "crc32": "a5a008aa"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 06).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aee79ca1113a57e0d24ce9b37bac408d",
+        "sha1": "ad6d7bc527b510e2249e01f88253c956c57796fe",
+        "crc32": "bec47c02"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 07).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bc8f47d372db48a4bdf84b6e63e4e13",
+        "sha1": "895fe5f59501ea52be6a7fd91bf853d2f621aba7",
+        "crc32": "13323f2a"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 08).bin",
+      "filesize": 3175200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38e74569543381d4f803ce5f88b3d71a",
+        "sha1": "3a5a08ddd2c981f02985f451f89e3d7487e27d56",
+        "crc32": "fc16a34b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 09).bin",
+      "filesize": 3175200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f61ee5016ff94da6635a35584384fb7e",
+        "sha1": "98b704be31f962d91286f136a706166ea1f59b84",
+        "crc32": "f048daa3"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 10).bin",
+      "filesize": 5115600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5204d39df6b32b01112ab57ab14b138",
+        "sha1": "9762ff66fc3d7dfbe395684de887e99d68943f1e",
+        "crc32": "e4a21ca6"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 11).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05d5a82dc97c4e7534386196e94c989d",
+        "sha1": "0a17f2b79789cdb72f32a15a66cf953d82924515",
+        "crc32": "7bec4637"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 12).bin",
+      "filesize": 3351600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "649ca5368cff65eda2786f1fddc40ec1",
+        "sha1": "fec678622efd3c3a25cdc964f1e0a2d16824076b",
+        "crc32": "fb1ee29e"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 13).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "951a7f4f61f865e3ae94b0f30e146f80",
+        "sha1": "b5a3a861b2b2c8d6fa3fa21d779bc8f0e6d550bb",
+        "crc32": "bdd57089"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 14).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26a3f5c49aae2157e5062adf5ad3a990",
+        "sha1": "cf55aa75e3b4667ee3102d7e7dd7fb5f8d0e4966",
+        "crc32": "2972394f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 15).bin",
+      "filesize": 4762800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dda3af07739d3dde196bd42b2e192293",
+        "sha1": "3bc881162d00bb28c0b11d72d0d64b766370f4ad",
+        "crc32": "bdb7f969"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 16).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f3cee29b1b11d93ba8ae1b84f08794e",
+        "sha1": "afc22e7d9e2b04046b7854ba1a30638461958fb8",
+        "crc32": "9761c196"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 17).bin",
+      "filesize": 42865200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83d173388a34a4d41e5fe9a0e29c60e1",
+        "sha1": "fd27097796aa3f69b1b7c0c99b4f51949bed4443",
+        "crc32": "c45deac0"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 18).bin",
+      "filesize": 43218000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e7241714f64790792e125025efa5fc5",
+        "sha1": "e6840a15deb76b689cdf6646817ad6dc9b0ca03a",
+        "crc32": "939f4031"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 19).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54469188348e06c700f7afad0135add1",
+        "sha1": "4c34c73009884761f9cc4a6adf2fbe3a6206324c",
+        "crc32": "be8e9243"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 20).bin",
+      "filesize": 8643600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a910fa586a087cc9194efaf9e1096e12",
+        "sha1": "23ff32a8b5afce21a7bbf5c53d80be66464279a5",
+        "crc32": "5f06b100"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 21).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d9cd6eab55c9c0e4a8a3fc3855392c7",
+        "sha1": "dbc653bc91f5fa59d60fca567bc8aa6f79f0c49f",
+        "crc32": "e9013d8f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 22).bin",
+      "filesize": 43747200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "343f11e9e1f40f1afedb5221f6d3ba79",
+        "sha1": "9227b57835494d822643b19772254c0eddaff75f",
+        "crc32": "b75d20ae"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 23).bin",
+      "filesize": 101077200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d3501c4685fcda65b02fe9893598198",
+        "sha1": "38e399d3881a9663255cdadb09c9c09a4319d538",
+        "crc32": "3520f97e"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 24).bin",
+      "filesize": 2646000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b93a9e01e45a9b5df590e167ad33fd6",
+        "sha1": "d2e377eee85495c8052504ed9ff41a4a159808c2",
+        "crc32": "114bfd7a"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 25).bin",
+      "filesize": 14464800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22a407d9dc8963859006f11bdba39abc",
+        "sha1": "ad7d3362baedab590d0ec9a8adcdb34b7f4795d3",
+        "crc32": "87cede0a"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 26).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5c0e8e899df98a10a854a5cdd24a975",
+        "sha1": "fe21ef8ef7fd649c240d9c5be0f0ea1f2c3bb0aa",
+        "crc32": "0310756d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 27).bin",
+      "filesize": 8114400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c58ffe1eaa1e361ed67f38a2b7c0dcbc",
+        "sha1": "d02349d3c27ee7fdf75e89596141adec7dfd6cd9",
+        "crc32": "e4b9941b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 28).bin",
+      "filesize": 13053600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d859e4b60ad7f0bb93e4227566d514f",
+        "sha1": "164cada6df8e2ec42a03db5fadf401475ce3072a",
+        "crc32": "555eaf01"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 29).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "473fe9a09c6da4ca0e69c1b2fe6a28c3",
+        "sha1": "16941a21187850669c4ecfe6daa07782a9193391",
+        "crc32": "1b673606"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 30).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a90a5e23addc54f2fbbf7d5f1e12a05a",
+        "sha1": "b062a7f4e8e69d66656733f348736a2fd5e4da24",
+        "crc32": "a2baa759"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 31).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71e4c2c81a516df0c047286768c4a0ba",
+        "sha1": "7f87529a42fb06c9a8879eef1d693aa094cf1460",
+        "crc32": "d75e96c4"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 32).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20ee791b2177c3df943db15d886f3cca",
+        "sha1": "1e82da34eadac7c6e4ef71695c9ebd6d5bdf38d5",
+        "crc32": "7da71b80"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 33).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4cebf736728b9326aadf41bdb4796ff",
+        "sha1": "3b7b41663782fb75b0c96cf68a4bf9396a890b4d",
+        "crc32": "b18a663e"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 34).bin",
+      "filesize": 38631600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14134ec0f385d09bb419eb7022c1a0c4",
+        "sha1": "4c3f108ec6ba86655df945e18eea7ebde01974dd",
+        "crc32": "d763d052"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 35).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb761dfa05619b62dbf48fa22a3bfe35",
+        "sha1": "ba3875c3f465adb8ffa3588ed4bbdd9b737b0f31",
+        "crc32": "d29cfa77"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 36).bin",
+      "filesize": 2646000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce38f440e1e431c33a4b192dfb27a67c",
+        "sha1": "1420fefdea04493df776b9890d1ac58e9291721b",
+        "crc32": "684be702"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 37).bin",
+      "filesize": 6350400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "713a4b660e54b39da362bd4cdf6da594",
+        "sha1": "26eef95bb0b1040817d72c8e34ba9df23c524d47",
+        "crc32": "4ed09ae4"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 38).bin",
+      "filesize": 1764000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5a01f4999dbcd812ee2c1240a610969",
+        "sha1": "a37657e012d49d9d95697bc3a302613ee2e94ff5",
+        "crc32": "62cd69d1"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 39).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ed2fa51fdc09fc228651b121af7e3b5",
+        "sha1": "713d7574d6fc801031383c5b596e4b5a2e36f12a",
+        "crc32": "36d8c713"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 40).bin",
+      "filesize": 4762800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9905a321e39c482f0298c8666200a373",
+        "sha1": "11363730a812f68cb62a344b03da84d03ca6c4c6",
+        "crc32": "b26baa57"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 41).bin",
+      "filesize": 11995200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94086daf69353e178b79bb9298b2aaee",
+        "sha1": "0b97f5ed86100f730f0c72b9ca4c50f0dc66fda0",
+        "crc32": "809c67da"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 42).bin",
+      "filesize": 10054800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d45278c75d86f72b179338f80a661721",
+        "sha1": "31c76f5a968c22cf289836a66164bcd673179728",
+        "crc32": "8292408f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 43).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42f7c0adadb937827d96c7561c68596e",
+        "sha1": "52eeb8a7d6741b3b97285c0c95d23b37242b8ab9",
+        "crc32": "91d1c9e5"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 44).bin",
+      "filesize": 3528000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d46c6f54e6936abfa5874728e296b947",
+        "sha1": "8036d78274fd8702bc044456819799aff57674f0",
+        "crc32": "a6977c77"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 45).bin",
+      "filesize": 4233600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41ac318c6eaf2fba7f50e124a5f438f6",
+        "sha1": "b288b271910b5545e3a3d46ebe788453ade8d8de",
+        "crc32": "6cecc26b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Germany) (Disc 1) (Track 46).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec7a76c381144b9228e836504a5abf71",
+        "sha1": "1c231150d07c78e581e9f067fda835529587205f",
+        "crc32": "5ae43f97"
+      }
+    }
+  ]
+}

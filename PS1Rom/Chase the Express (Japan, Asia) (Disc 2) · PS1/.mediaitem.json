@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chase the Express (Japan, Asia) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chase the Express (Japan, Asia) (Disc 2).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01de9e9691965c1db6604614d54a16ba",
+        "sha1": "10ce7100c223dfbf36382f5d309f195d2d364d72",
+        "crc32": "5eb245e4"
+      }
+    },
+    {
+      "filename": "Chase the Express (Japan, Asia) (Disc 2).bin",
+      "filesize": 676484592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "412cafce6531d3471506f1ca3357236c",
+        "sha1": "b6950522d81cca644c97828a82f1a82042b1d94a",
+        "crc32": "044c6c58"
+      }
+    }
+  ]
+}

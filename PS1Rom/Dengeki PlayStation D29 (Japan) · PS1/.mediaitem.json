@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D29 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D29 (Japan).cue",
+      "filesize": 357,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e6343b91c051bacadd6c097972fffe22",
+        "sha1": "98e470caaf4ccbd2ca1708d13daa1d82e3cd4a76",
+        "crc32": "a8759e4c"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D29 (Japan) (Track 1).bin",
+      "filesize": 710783808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2837b3730a836c4a8d8a4f7c76bf4bd4",
+        "sha1": "a5b4a3aa999eb704b550fc8dfab7cc1aa5a5eea6",
+        "crc32": "e08dfd7c"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D29 (Japan) (Track 2).bin",
+      "filesize": 6402144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f95eb04216384df8b9b7c8943624228",
+        "sha1": "f106ca5aa073c7a1f608256ddc7ea8783c2761a9",
+        "crc32": "e9620e3a"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D29 (Japan) (Track 3).bin",
+      "filesize": 33593616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1a03e929c3667060ac5443540de5511",
+        "sha1": "5a255fb5cd18c493a0f1571069a99bd967c6d224",
+        "crc32": "f85f08cb"
+      }
+    }
+  ]
+}

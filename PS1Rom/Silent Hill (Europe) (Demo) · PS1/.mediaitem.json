@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silent Hill (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silent Hill (Europe) (Demo).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2862ec61ebadfd1606e2f0c018a1e872",
+        "sha1": "e54d63b260b00d5cac8e3c8cf5e86c48fd71a92b",
+        "crc32": "f01e4a56"
+      }
+    },
+    {
+      "filename": "Silent Hill (Europe) (Demo).bin",
+      "filesize": 109008144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3494eda57e8dd9ded618fea8cb19438e",
+        "sha1": "c6c4f4d97f14d2a4a63cccd16c6c75fa81f8d578",
+        "crc32": "2ecad4ec"
+      }
+    }
+  ]
+}

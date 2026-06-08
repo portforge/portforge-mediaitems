@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bass Tsuri ni Ikou! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bass Tsuri ni Ikou! (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88ea18865da51f6aca873736915c3b6f",
+        "sha1": "b3ae608379d0b4f8aa6fcd6cd0012b5ac3364edf",
+        "crc32": "5025d0f8"
+      }
+    },
+    {
+      "filename": "Bass Tsuri ni Ikou! (Japan).bin",
+      "filesize": 399313152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0ea5b929d1666a654607fc4fda70e13",
+        "sha1": "fde89fcad3dce5c226263692070d468f68d5e42c",
+        "crc32": "18f23f4a"
+      }
+    }
+  ]
+}

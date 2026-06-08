@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BrainDead 13 (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BrainDead 13 (Japan) (Disc 2).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc47b51fd9a05476b598991b884ad616",
+        "sha1": "11bb98e68783acd261d6b3bb5ac9a6bc8cbc6e7f",
+        "crc32": "f5526f5c"
+      }
+    },
+    {
+      "filename": "BrainDead 13 (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 574245504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26ba0c246b8ed93db8aacc6dab866dac",
+        "sha1": "45721d1f8bf14b7d7222105fb1540af2c3cac8d8",
+        "crc32": "550ab314"
+      }
+    },
+    {
+      "filename": "BrainDead 13 (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 28242816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36acc771c6fad7db9f0288975f81761e",
+        "sha1": "669eae87a37a02ce7c8f0ef471fd07067583ea24",
+        "crc32": "5b910017"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aubirdforce (Japan) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aubirdforce (Japan) (Shokai Genteiban).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0e73fc39ec2f6a89c2489005be2f7ff",
+        "sha1": "7bfe701d830f708cad98d3334245465fdfd9d816",
+        "crc32": "3c9a0a30"
+      }
+    },
+    {
+      "filename": "Aubirdforce (Japan) (Shokai Genteiban) (Track 1).bin",
+      "filesize": 209619648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "beb64c92b52bbec262b4bb9b793c057e",
+        "sha1": "1e3f9b04b41fdd728622b932e25ff6d47d3d7fd5",
+        "crc32": "ec0bbaf6"
+      }
+    },
+    {
+      "filename": "Aubirdforce (Japan) (Shokai Genteiban) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

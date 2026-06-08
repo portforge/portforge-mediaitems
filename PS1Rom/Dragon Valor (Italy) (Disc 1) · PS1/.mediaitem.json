@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Valor (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Valor (Italy) (Disc 1).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4cb4114cc5884f64b48e954e173ca7b5",
+        "sha1": "4c54b1bf081519e93e77ed04d9f6692514d0d63b",
+        "crc32": "22d807c9"
+      }
+    },
+    {
+      "filename": "Dragon Valor (Italy) (Disc 1) (Track 1).bin",
+      "filesize": 590791824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8c61bce052847f4f4b80f4e6cf54f18",
+        "sha1": "42a69990088b49525ff7c45b0cb8bd329910836f",
+        "crc32": "311f4d7c"
+      }
+    },
+    {
+      "filename": "Dragon Valor (Italy) (Disc 1) (Track 2).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "354582aefda8a55a5482d431e8473070",
+        "sha1": "593d3c91bb09d028ab72c1e839279c65c2108976",
+        "crc32": "a10c459b"
+      }
+    }
+  ]
+}

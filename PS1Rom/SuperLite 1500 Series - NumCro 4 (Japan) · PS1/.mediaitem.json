@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - NumCro 4 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan).cue",
+      "filesize": 920,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e9ec88be15d7570b8075a3ca632984b",
+        "sha1": "46e609d025f31e2cda78d26ceca2cf137f4c1115",
+        "crc32": "a502167f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan) (Track 1).bin",
+      "filesize": 1843968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cf329e737e68b9d29b7625642e29eaa",
+        "sha1": "9d5bf58eae74b108b3c3059529355733586dd987",
+        "crc32": "10ea16f7"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan) (Track 2).bin",
+      "filesize": 22713264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0931d1960571368795a063b54e2eefe5",
+        "sha1": "31c3d465a657c0a916398e8aa31af45aa6826faf",
+        "crc32": "1f6cc58e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan) (Track 3).bin",
+      "filesize": 33294912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cec0ed7040c3e35afb869f4b0d00ef85",
+        "sha1": "ceec16764775dd0b42e57bf219aa3e63189a08fc",
+        "crc32": "1198259c"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan) (Track 4).bin",
+      "filesize": 86111424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb8d9ef18fadcba5fc804016a6260a82",
+        "sha1": "3801f3502b1567bf9203639ca0a8a50b2127d129",
+        "crc32": "0d1c0c00"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan) (Track 5).bin",
+      "filesize": 106538544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "269e737715346adc6a5684f6b451a05d",
+        "sha1": "9d7181aca41a1fa9117e4cc086f3b1574afc69bf",
+        "crc32": "32b195c2"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan) (Track 6).bin",
+      "filesize": 86205504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3744fa6e8a0bdb92e39e06b33bd2e850",
+        "sha1": "42f87ef58583fa85509681bf93bb51884e1fb495",
+        "crc32": "2caf3b25"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro 4 (Japan) (Track 7).bin",
+      "filesize": 86207856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "591baa346be34bebe6fc662c571aa6d9",
+        "sha1": "98bce98adcefb71af168d4b6be7628132a1933ea",
+        "crc32": "ff940eff"
+      }
+    }
+  ]
+}

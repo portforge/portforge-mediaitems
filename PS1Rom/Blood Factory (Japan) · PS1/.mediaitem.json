@@ -1,0 +1,327 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blood Factory (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blood Factory (Japan).cue",
+      "filesize": 3578,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce13c52ef3dd8ffece46f2b96f21714d",
+        "sha1": "4c8afea04224d015c67722229d32af268cb8ca04",
+        "crc32": "76fd605e"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 01).bin",
+      "filesize": 81223968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7b522f0428bd9f1bb08e01e3da8758c",
+        "sha1": "a112012a0d3c020347812ededc475f9b6d34908a",
+        "crc32": "cb0bfe75"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 02).bin",
+      "filesize": 65263296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c3d1b2b3ef77efa73b2b3fcd6486e06",
+        "sha1": "40d64779808df26418d5974405ed3e1f7a99799d",
+        "crc32": "09c22013"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 03).bin",
+      "filesize": 53303376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba4b67666193b95028af5059343922ac",
+        "sha1": "f8d15f66f099bd15a690da720f9d52664b3b3dd5",
+        "crc32": "7ba57319"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 04).bin",
+      "filesize": 39240768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98e18df6032e1a08f847079810536479",
+        "sha1": "03694ed9a84fdfb61490fde3e297e862a5f02fd8",
+        "crc32": "51297626"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 05).bin",
+      "filesize": 37453248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98653e8be237a860247d32082fc573a4",
+        "sha1": "8434c6787b5d1a096a8db2cf85b354de4081be83",
+        "crc32": "f95f6153"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 06).bin",
+      "filesize": 59799600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99d7ba43f1e5a99287e2bcc612a67ffc",
+        "sha1": "66280659478e0ca1b80b8f8490b5e71dc0b4e508",
+        "crc32": "56966874"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 07).bin",
+      "filesize": 55020336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18fd9e6db1db60f3cc9b606170b61aad",
+        "sha1": "30c926e719b0e1caa4cdd422bbd9d5edf0903ca9",
+        "crc32": "4daee3db"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 08).bin",
+      "filesize": 35907984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "932ab767e7fed8710cd7551bcc42463e",
+        "sha1": "9c6946f50944dba22e83aacbb7aaa2308b3db52d",
+        "crc32": "aff3e9e9"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 09).bin",
+      "filesize": 37403856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6328c6cc31039c4fd9d9ee79cb17c28",
+        "sha1": "e096ad2e4747f09da2e10fc18a05fa670485cdbf",
+        "crc32": "3e0190fb"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 10).bin",
+      "filesize": 9932496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0419eed4ec57091d6724692202f87d01",
+        "sha1": "85ca08dbb4d1cf05311b1b879fd1e982fd9a30bf",
+        "crc32": "8d9b67c7"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 11).bin",
+      "filesize": 10104192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e01dd7cae6920ffdfc3c29ff44d92c7",
+        "sha1": "790657bc1b31c853d84f903e3daf8ebba7c7e285",
+        "crc32": "0ac5e8d3"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 12).bin",
+      "filesize": 8836464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b452c2233f85735ab47c2057e728b504",
+        "sha1": "136a0510ebcedad4427a5745d6a6346749ec3916",
+        "crc32": "5f52af2f"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 13).bin",
+      "filesize": 8702400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53737a0ba96caf0b25f2a279f19d2744",
+        "sha1": "89c0ec4cbd7f383e94b7d9e4117a0ef821fdf449",
+        "crc32": "dadb6f1c"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 14).bin",
+      "filesize": 8189664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e6f4510fcb197d57a75688998eaff4d",
+        "sha1": "6407be36d1d6f38ada758fc9fcc7154bd0dd0e3f",
+        "crc32": "ebd0038d"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 15).bin",
+      "filesize": 10614576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccc800445a4f6ec12b7289dc1e373e7f",
+        "sha1": "5bd357c6b42a59ac9e5b3f7ffdf61476bfb3f0ec",
+        "crc32": "d9b27582"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 16).bin",
+      "filesize": 10144176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "225bb7df2fe3f8329d23e8c31d1e5709",
+        "sha1": "131afa238ae82aa526e7dd6a7dfea7c5d20e6ddc",
+        "crc32": "b519862a"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 17).bin",
+      "filesize": 8034432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "023692566be3f20ae08b469df029ae56",
+        "sha1": "a18e37d6eb13eac61611025de6355aa725531baa",
+        "crc32": "b36b8ea4"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 18).bin",
+      "filesize": 13060656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11ce502d7a409fe627d479f308df71e2",
+        "sha1": "d6bee74e3901f2cac522d5f4a27adcc98073bcb3",
+        "crc32": "750fd472"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 19).bin",
+      "filesize": 6110496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "489b34ac0cfdb14bf00ba6ec93551b23",
+        "sha1": "11740048b3c53a566658d45b422fbbe1886913b1",
+        "crc32": "a73ba4e9"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 20).bin",
+      "filesize": 8147328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd91ff569064fb57366ca6451e858efd",
+        "sha1": "477e870cc8f6e12d290c81d7732a91174a4c8feb",
+        "crc32": "b33fd1d3"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 21).bin",
+      "filesize": 10125360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da90c774c073021782b657d46cac33f0",
+        "sha1": "2ceb2a0ed84303d611b81a34630067043d327c02",
+        "crc32": "5caf4b8e"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 22).bin",
+      "filesize": 12966576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cee7e217aa2acd0bb52b7815eeb4e805",
+        "sha1": "5a9a4e2510b783c270cb8cabce9c7fff4f3c177f",
+        "crc32": "ddb29e1d"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 23).bin",
+      "filesize": 12599664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31dbb6b931b649b024462437f5f22b21",
+        "sha1": "95fec2f617418fe3a6eec8b51380d481bf08535f",
+        "crc32": "83f3fab1"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 24).bin",
+      "filesize": 9868992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "357a9a8c38c47df746f6cb37a41a2960",
+        "sha1": "cdcbe3d5d058732f6dc48594a4d27236fb03bbdc",
+        "crc32": "9636e143"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 25).bin",
+      "filesize": 13018320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4acdf9094bc69ee34cde6913cf3f45a0",
+        "sha1": "17a89f166b951284d78f93acc355b4541d0941a6",
+        "crc32": "9d99f06e"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 26).bin",
+      "filesize": 16459296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "931051619455dd14d7f5e82138aceb7e",
+        "sha1": "0306e94df4a0bf3e690eb6fffe817349a5bb7adc",
+        "crc32": "e803a835"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 27).bin",
+      "filesize": 9356256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83a698dcec2251fc30e68936695aa0ee",
+        "sha1": "496cc8784ae7c1c8dd4008baf5d4929b2b950c8c",
+        "crc32": "3ed7534d"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 28).bin",
+      "filesize": 5212032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a036b1ffeea494700962d9e9cd396f6",
+        "sha1": "d580ff5a5213f8af14091b47754275e4c0005e10",
+        "crc32": "0463d3e4"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 29).bin",
+      "filesize": 6101088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f464339f4273aa10390ab2e467924af4",
+        "sha1": "989626227f1d665b52838f4010d69b23d418ca58",
+        "crc32": "4b72d11e"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 30).bin",
+      "filesize": 6580896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d996febce4c31f83d13d4a56029e1db0",
+        "sha1": "5c48a47dc658bbb353af39757f8dbaf765319b23",
+        "crc32": "ead47d10"
+      }
+    },
+    {
+      "filename": "Blood Factory (Japan) (Track 31).bin",
+      "filesize": 37453248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98653e8be237a860247d32082fc573a4",
+        "sha1": "8434c6787b5d1a096a8db2cf85b354de4081be83",
+        "crc32": "f95f6153"
+      }
+    }
+  ]
+}

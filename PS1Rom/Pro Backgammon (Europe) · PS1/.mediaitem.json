@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro Backgammon (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro Backgammon (Europe).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "005fc8f54f59104e5259483a72883fca",
+        "sha1": "c85ea72142e804c33f2ea2aca96e013fd2c59ba5",
+        "crc32": "5fcc1518"
+      }
+    },
+    {
+      "filename": "Pro Backgammon (Europe) (Track 1).bin",
+      "filesize": 265124496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2ede0c21effded31df10f657f8fcaf7",
+        "sha1": "6ed2d9f3c105c5006b53e27e964eaa6374c12bc7",
+        "crc32": "14d1e6fb"
+      }
+    },
+    {
+      "filename": "Pro Backgammon (Europe) (Track 2).bin",
+      "filesize": 36884064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9104ec009c988305e4640d6e010c52dd",
+        "sha1": "0ab288d17986a1ce374de862115a86ad4e478bc1",
+        "crc32": "4a851ae0"
+      }
+    }
+  ]
+}

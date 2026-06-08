@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MiruMiru PlayStation Vol. 35 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MiruMiru PlayStation Vol. 35 (Japan).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1cb36bdb0c8dc6ff5f20a6b99c2a3521",
+        "sha1": "16a703e0e3f06f2ddccf9666bd51514b837d4657",
+        "crc32": "3365229b"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 35 (Japan) (Track 1).bin",
+      "filesize": 452611824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1e4aa6883f167e461a16fcbab9201e8",
+        "sha1": "0f719640341861f7fe44f335ad9c32cb4042daed",
+        "crc32": "46c2dd84"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 35 (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

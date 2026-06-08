@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doukyuu - Billiard Master (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doukyuu - Billiard Master (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5712e4f88604ff632029346138f796bd",
+        "sha1": "cb43a4d101a759dab938298dddc256cb1d753af0",
+        "crc32": "018807c8"
+      }
+    },
+    {
+      "filename": "Doukyuu - Billiard Master (Japan).bin",
+      "filesize": 580301904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57fb624fc84e0f49886d9e4c9a00f443",
+        "sha1": "797af5378c6ecff99d04c7abd87150e5569cc6a7",
+        "crc32": "87775c1e"
+      }
+    }
+  ]
+}

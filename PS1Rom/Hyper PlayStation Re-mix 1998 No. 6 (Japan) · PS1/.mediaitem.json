@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix 1998 No. 6 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 6 (Japan).cue",
+      "filesize": 804,
+      "ext": "cue",
+      "checksums": {
+        "md5": "70e9e61b3f1c602c04a499f96473f699",
+        "sha1": "9885b96f1b8de99b0ca46ce2bfb7ef1904d36ac8",
+        "crc32": "6008f246"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 6 (Japan) (Track 1).bin",
+      "filesize": 414991584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c71b4ff96f07535ef4c2f537e8c8a967",
+        "sha1": "2640ce09ce4727c18e24788e92701c6ddf8115c2",
+        "crc32": "0b755625"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 6 (Japan) (Track 2).bin",
+      "filesize": 1352400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0eed14d8fd4f0ecdffe598c4d9245a0",
+        "sha1": "c9aa6ddfb1cd36d780c055ffcca86d20a9325c77",
+        "crc32": "5e966240"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 6 (Japan) (Track 3).bin",
+      "filesize": 29519952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6cb8c0b9723ba45b8d1354b03be3ef3",
+        "sha1": "205c2e2209d66a326e5e223d94a266c8f58ec9f6",
+        "crc32": "691eaff0"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 6 (Japan) (Track 4).bin",
+      "filesize": 2034480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "233b7f11dece6925de140218cf658fb1",
+        "sha1": "706c0065199343d07acee4ec28616ee9ffc9e344",
+        "crc32": "d94ee27f"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 6 (Japan) (Track 5).bin",
+      "filesize": 2196768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e10be61f7642f3ea4b6cae0700ed258",
+        "sha1": "1ac38bf4801eb07711ed4b6a99844d0c04ecabb5",
+        "crc32": "ba6d7950"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 6 (Japan) (Track 6).bin",
+      "filesize": 47907888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10f77bb97c2cbf57f5a0ac9ffe46ad14",
+        "sha1": "2e7ccabc135813d683415e2dbc3b23481497590b",
+        "crc32": "96977c34"
+      }
+    }
+  ]
+}

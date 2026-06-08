@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bomberman Land (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bomberman Land (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "311e9ef4bf1ea62ce309a183bf10d68f",
+        "sha1": "61fe7c13425bf5f3431460dd16b9c156cd3729ed",
+        "crc32": "c97ec3ee"
+      }
+    },
+    {
+      "filename": "Bomberman Land (Japan).bin",
+      "filesize": 267850464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12b7f32757ce7b5a9ad70eeff82bb979",
+        "sha1": "e29eaf6a5f111699e1aa98922be72a547f9c92a8",
+        "crc32": "2c94cd69"
+      }
+    }
+  ]
+}

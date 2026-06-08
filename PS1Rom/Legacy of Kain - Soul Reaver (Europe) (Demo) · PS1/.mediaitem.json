@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legacy of Kain - Soul Reaver (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legacy of Kain - Soul Reaver (Europe) (Demo).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1edd90f17f2669c0c6c0b3f02091c30c",
+        "sha1": "dcea78ad32986d986cf0d95e3315c3d0f48e9c42",
+        "crc32": "0d7a8579"
+      }
+    },
+    {
+      "filename": "Legacy of Kain - Soul Reaver (Europe) (Demo).bin",
+      "filesize": 100792608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2dbcfb32b5639a5eb680115e99b45fa8",
+        "sha1": "f4528728072bfd2d01ecb891acaf9342b344ab12",
+        "crc32": "5167a273"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 3 - Nemesis (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 3 - Nemesis (France).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "442a9a78b27d5802fbabbdce58286b28",
+        "sha1": "34b04fbd6022db42d0c742a682062eeb003f8ac8",
+        "crc32": "8f48c82b"
+      }
+    },
+    {
+      "filename": "Resident Evil 3 - Nemesis (France).bin",
+      "filesize": 714387072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d66e5413d0164d05a1140bcaf88c0f80",
+        "sha1": "41abb17929ba910e9680a57c512c35e99e389a6c",
+        "crc32": "a0d38acc"
+      }
+    }
+  ]
+}

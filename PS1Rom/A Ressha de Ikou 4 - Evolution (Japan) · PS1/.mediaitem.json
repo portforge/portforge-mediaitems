@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "A Ressha de Ikou 4 - Evolution (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19d93a008562b6cdef88db85904c0bbb",
+        "sha1": "4ff5ba804406875890fd0c9f1f88ec484d76c923",
+        "crc32": "6685a10d"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution (Japan).bin",
+      "filesize": 28129920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eeb933aee1ac7fd314d9881ec8c07351",
+        "sha1": "07ebea959119056aae4ab86862efaf7128a530b0",
+        "crc32": "97adb113"
+      }
+    }
+  ]
+}

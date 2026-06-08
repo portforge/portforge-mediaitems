@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dream Circus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dream Circus (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "58f89d25b431c4997714617b8c655c3e",
+        "sha1": "07267f06dc3e68f1ad9588d8a349608aa0ccda8c",
+        "crc32": "d2f33885"
+      }
+    },
+    {
+      "filename": "Dream Circus (Japan).bin",
+      "filesize": 106594992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8eaaa923d2fc4511703b2f319bd889d",
+        "sha1": "299827e73c88d003ad2543e5f4a2e6c82da120ec",
+        "crc32": "a111b527"
+      }
+    }
+  ]
+}

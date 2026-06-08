@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Esto Es Futbol 2 (Spain) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Esto Es Futbol 2 (Spain) (Demo).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "06c99f91657aad19298ceb6ec869f92a",
+        "sha1": "1369734571b7d7fd524b2012880571579d104119",
+        "crc32": "98cca668"
+      }
+    },
+    {
+      "filename": "Esto Es Futbol 2 (Spain) (Demo).bin",
+      "filesize": 54827472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27cb1c3c44588c4a158a35f49d031252",
+        "sha1": "dc4714064b4db1444dcefdfc96de60b8a7b67468",
+        "crc32": "7261a58d"
+      }
+    }
+  ]
+}

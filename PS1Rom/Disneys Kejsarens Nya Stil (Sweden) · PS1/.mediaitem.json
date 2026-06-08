@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Kejsarens Nya Stil (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Kejsarens Nya Stil (Sweden).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e96962c4804372c2e524545cde2ea65e",
+        "sha1": "5f949a1835b8b155e9d4b563641198a63986a81e",
+        "crc32": "8f8b7d61"
+      }
+    },
+    {
+      "filename": "Disneys Kejsarens Nya Stil (Sweden).bin",
+      "filesize": 623597520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d307cf12d80b9217d756330e4c74264",
+        "sha1": "822ebe04b4b5a3ae4bcce2c1bc89466bcf301f4c",
+        "crc32": "025a94a7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rockman Dash - Hagane no Boukenshin (Japan) (Digest-ban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rockman Dash - Hagane no Boukenshin (Japan) (Digest-ban).cue",
+      "filesize": 282,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f313317576495920ce83d4dc7678d705",
+        "sha1": "b4f1ce49d50baefdc0cfd46cb64bcd1650ebeef2",
+        "crc32": "deeb17f7"
+      }
+    },
+    {
+      "filename": "Rockman Dash - Hagane no Boukenshin (Japan) (Digest-ban) (Track 1).bin",
+      "filesize": 460319328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6ef38dfe06e472dffda0abaf94e97cd",
+        "sha1": "bc03c68411a322e3ccf8f01da38a69b6942437d9",
+        "crc32": "decbd7c6"
+      }
+    },
+    {
+      "filename": "Rockman Dash - Hagane no Boukenshin (Japan) (Digest-ban) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

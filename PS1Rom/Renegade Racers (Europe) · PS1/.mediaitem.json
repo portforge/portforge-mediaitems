@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Renegade Racers (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Renegade Racers (Europe).cue",
+      "filesize": 1044,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14a70522f451e32fc4ed946adb57f001",
+        "sha1": "e2cbdc205ea9fa941c11e42e6d43e937cf2f4dbc",
+        "crc32": "a028a2b3"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 1).bin",
+      "filesize": 349144992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cfa5d039946743e482cd6abf6116893",
+        "sha1": "2f770b60ce30728bb9eb36d5001f57dd2a37bdf2",
+        "crc32": "ae8a53c8"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 2).bin",
+      "filesize": 22127616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4a8a3e3f2d4fe7a0414c9efb0176591",
+        "sha1": "032fab688a27767b20c878dec7f303275fc65855",
+        "crc32": "3b68d7a0"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 3).bin",
+      "filesize": 20881056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d15569bb382c398f10710fe9bb659cd7",
+        "sha1": "63f1ba8fbac6df73bdfc032a6809ce5c433745ef",
+        "crc32": "1424ad33"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 4).bin",
+      "filesize": 34221600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a476bc572c10b6869be4dc9ad851fd52",
+        "sha1": "750f6d1584fd016b3531f3e22df30d8bb3a66777",
+        "crc32": "a927f527"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 5).bin",
+      "filesize": 25754400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "667697e90ea0d29827ede7e832847bad",
+        "sha1": "94d808135ac2fb435cbe6cba3d2486cea78eae25",
+        "crc32": "9e09bb0d"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 6).bin",
+      "filesize": 23383584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85687c54af799a880671d0c6d9c89584",
+        "sha1": "53cd2acb87455d48dccce8d371bd6d39f03475a3",
+        "crc32": "2c4e5d95"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 7).bin",
+      "filesize": 22127616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07589a0692a29aeb6f6c5a7eb9c9e7a9",
+        "sha1": "fa73bcacd09874479238baa25619ecb5184019d6",
+        "crc32": "551ed2b3"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 8).bin",
+      "filesize": 22127616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4a8a3e3f2d4fe7a0414c9efb0176591",
+        "sha1": "032fab688a27767b20c878dec7f303275fc65855",
+        "crc32": "3b68d7a0"
+      }
+    },
+    {
+      "filename": "Renegade Racers (Europe) (Track 9).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

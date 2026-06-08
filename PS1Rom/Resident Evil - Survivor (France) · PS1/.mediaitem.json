@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil - Survivor (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil - Survivor (France).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a149ec79d0c6aad2a9ec6c32db652b01",
+        "sha1": "b9d6574f8c36efc7e76c2e74b3f619892883062d",
+        "crc32": "04eb13b8"
+      }
+    },
+    {
+      "filename": "Resident Evil - Survivor (France).bin",
+      "filesize": 425728464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9feb46c2c6532a98ea8b7547c5597495",
+        "sha1": "f2d1878b73d399e7f24372ab90b5ded6654e8708",
+        "crc32": "dc7da253"
+      }
+    }
+  ]
+}

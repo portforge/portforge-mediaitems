@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Volfoss (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Volfoss (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d83265ed059152362ecd1a36f9d413e",
+        "sha1": "37efe29aed86a5098d235bd8ea38c847e3c15830",
+        "crc32": "1f7e0011"
+      }
+    },
+    {
+      "filename": "Volfoss (Japan).bin",
+      "filesize": 622282752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f08b344797155553df71b8dc840dfb00",
+        "sha1": "e62f2ba05751a0ceed977a35eaa735c3f7446f6b",
+        "crc32": "207df109"
+      }
+    }
+  ]
+}

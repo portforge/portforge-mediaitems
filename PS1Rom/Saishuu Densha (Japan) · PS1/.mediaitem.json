@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saishuu Densha (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saishuu Densha (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "33e61a95a638916e7fbfa5a860d566c3",
+        "sha1": "082c34daf1783290d6499c4d2948ccc9c11086c2",
+        "crc32": "0f404cb9"
+      }
+    },
+    {
+      "filename": "Saishuu Densha (Japan).bin",
+      "filesize": 630594720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03b571fdf6b88acd9de2a16abb945c2d",
+        "sha1": "3a5d2f7881881a7bf3aa19a12c85f034ecd4567d",
+        "crc32": "6e717dc4"
+      }
+    }
+  ]
+}

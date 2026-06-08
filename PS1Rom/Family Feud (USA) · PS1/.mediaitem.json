@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Family Feud (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Family Feud (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94b45026fcb107667032c48686203428",
+        "sha1": "acddeca8552bd396c836621c08a6be15c779b1d8",
+        "crc32": "27294ae0"
+      }
+    },
+    {
+      "filename": "Family Feud (USA).bin",
+      "filesize": 587049792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f59b5e398530f2aefe8932f25253313",
+        "sha1": "fd2bdafa1411d33687a19ec73d3b935f6fb4df30",
+        "crc32": "a51437da"
+      }
+    }
+  ]
+}

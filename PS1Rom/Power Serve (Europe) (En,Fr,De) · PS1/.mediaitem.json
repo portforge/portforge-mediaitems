@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Serve (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De).cue",
+      "filesize": 1107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "959bb87d468f52c2fee70fa2bd1c95b1",
+        "sha1": "01ef4a8a68fb858a41149915fd92c400c03a6a78",
+        "crc32": "c0283e23"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 16355808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc55d2b47ea9e59b0f6dab355113937c",
+        "sha1": "29a432ae84f93f3e1fc7e96fb4a577efe22aac8b",
+        "crc32": "6440d2a4"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 33017376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ae8ca9a014ccdc6c3fa9f644f602152",
+        "sha1": "6419d01cd35211559ade7b603fa5cb498c0bb84e",
+        "crc32": "f749958f"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 3).bin",
+      "filesize": 35461104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e56506ee81462c09cedef4685a338a2",
+        "sha1": "3ba4b53d4e066073d84e6d36c02476a4d43b0f25",
+        "crc32": "e49d5ef8"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 4).bin",
+      "filesize": 31909584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ad1f83322eded405c792a2d5fca9118",
+        "sha1": "89dc9db9d55e68df550ba314e8cd313cec965169",
+        "crc32": "84e30f2a"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 5).bin",
+      "filesize": 34226304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5bf72e2791fb9fdb741a506ad963572",
+        "sha1": "111672e6b95f86c8fe35423b77627e486e1cd54a",
+        "crc32": "7bc6837a"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 6).bin",
+      "filesize": 34776672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b5d1620cdc955232ef94be7ecbd87ec",
+        "sha1": "9d19b209119e877c72a85147fb30e8cf8c1e826f",
+        "crc32": "59cf6fcb"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 7).bin",
+      "filesize": 35058912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "375e7ca617df0d32e04fb97a29225ec5",
+        "sha1": "a3e9e6ad649204a4c7aa432cbd4c0593387e76d6",
+        "crc32": "9d8d1d10"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 8).bin",
+      "filesize": 34416816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d3fca6a089bca689de36ec29ee9fbce",
+        "sha1": "1ce69977d07c5f75cc0bf9206a95290f3e4f8418",
+        "crc32": "0ce73e61"
+      }
+    },
+    {
+      "filename": "Power Serve (Europe) (En,Fr,De) (Track 9).bin",
+      "filesize": 38723328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f1a252c346a808daaec9c2c0789c3d6",
+        "sha1": "323b6baff7db5f399d85c365133ecbc8871065d5",
+        "crc32": "869dbc92"
+      }
+    }
+  ]
+}

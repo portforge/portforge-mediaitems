@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "997272e374a0cf7104181df5fc633d44",
+        "sha1": "8aa5b8371141a159f2a6636902ccfb512676f231",
+        "crc32": "b154db9a"
+      }
+    },
+    {
+      "filename": "Densetsu-juu no Ana - Monster Complete World Ver. 2 (Japan).bin",
+      "filesize": 510924960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d23905ceff5d92798ffcf43947e29343",
+        "sha1": "21519e1b6854e45f0210508f919f895dbbf8546d",
+        "crc32": "cd973067"
+      }
+    }
+  ]
+}

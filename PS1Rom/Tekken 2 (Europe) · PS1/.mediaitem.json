@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tekken 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tekken 2 (Europe).cue",
+      "filesize": 315,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5330c7279ae31a5e2c49eaaa759e4c6",
+        "sha1": "6f645b890212680cc71a98542e58d112574cb1ed",
+        "crc32": "2a6e7d48"
+      }
+    },
+    {
+      "filename": "Tekken 2 (Europe) (Track 1).bin",
+      "filesize": 717971520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1e39ab19c8ff3739a28c5be03c95642",
+        "sha1": "753f1dc149d2ae4aaaf065ebf182b1dcd7f1bccf",
+        "crc32": "a5d68460"
+      }
+    },
+    {
+      "filename": "Tekken 2 (Europe) (Track 2).bin",
+      "filesize": 26554080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f64359d59fa921a68dea3300bd54ac2",
+        "sha1": "5faad8d827cc9390dc097e75822e23c2f4953364",
+        "crc32": "9a0d6a04"
+      }
+    },
+    {
+      "filename": "Tekken 2 (Europe) (Track 3).bin",
+      "filesize": 6350400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "131bb82eb1ba56b4991091f1717770a2",
+        "sha1": "47eb5ef6093e80099f710b7e221b461ca3ab3c26",
+        "crc32": "d387cac5"
+      }
+    }
+  ]
+}

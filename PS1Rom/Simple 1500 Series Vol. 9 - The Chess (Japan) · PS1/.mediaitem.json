@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 9 - The Chess (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 9 - The Chess (Japan).cue",
+      "filesize": 816,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69d6ef2c041ec82a273a7bb83fe1bd8f",
+        "sha1": "035182489b44547000d88e4bb890dd20fcc7b28b",
+        "crc32": "aec0f895"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 9 - The Chess (Japan) (Track 1).bin",
+      "filesize": 16162944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a82f3d1520105a5b56834be397adeab1",
+        "sha1": "c4a7debbbb11cc47f2b47a8175ee01858363035e",
+        "crc32": "afeac7b1"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 9 - The Chess (Japan) (Track 2).bin",
+      "filesize": 41371680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c25275e1511f0bb25468a85ee99d1ee",
+        "sha1": "e44eb24c475f1d1d0d64a4cd6c27a54a68dcdd27",
+        "crc32": "679c92fd"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 9 - The Chess (Japan) (Track 3).bin",
+      "filesize": 27565440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78e3489c57f6ccd79d6ad8959018f9a9",
+        "sha1": "47f2c1dae8ee07c89dfa4cd2cb8384dae0e46b59",
+        "crc32": "b4af00fc"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 9 - The Chess (Japan) (Track 4).bin",
+      "filesize": 28962528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee6756f7f275ab5b0915d69c2113edb9",
+        "sha1": "7c490c87df9d4fa0486177b7c796275fa2e5e631",
+        "crc32": "4f653be8"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 9 - The Chess (Japan) (Track 5).bin",
+      "filesize": 22033536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb9b877c55213da38e6ac26c3830c788",
+        "sha1": "297d8c74d393ba9d650f22bfd43316e829fa4fc5",
+        "crc32": "9a277590"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 9 - The Chess (Japan) (Track 6).bin",
+      "filesize": 30733584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f4c288176d4c4ff8a0dd9047790b9d2",
+        "sha1": "3b02c05b004312ee070c3a9396a0a4dde3906c05",
+        "crc32": "22785581"
+      }
+    }
+  ]
+}

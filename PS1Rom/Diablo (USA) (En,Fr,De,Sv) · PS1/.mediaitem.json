@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Diablo (USA) (En,Fr,De,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Diablo (USA) (En,Fr,De,Sv).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0474c645fefbcbe2aa9a2505edbce0fd",
+        "sha1": "0789d354e661ae88facb3f22fc2cf39e0bc771e6",
+        "crc32": "b939e7ee"
+      }
+    },
+    {
+      "filename": "Diablo (USA) (En,Fr,De,Sv).bin",
+      "filesize": 653239776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f252563de50dbdf0d54dd6da5e8cb057",
+        "sha1": "5e3669fd2920b953f9a164426e044c21e109fd26",
+        "crc32": "bdfccdc3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Patriotic Pinball (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Patriotic Pinball (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e70f2cc11e51ce92822676c030f80840",
+        "sha1": "0f287920baf0d5f6fe4fe805650eb6ed2b1c4714",
+        "crc32": "0cb6731c"
+      }
+    },
+    {
+      "filename": "Patriotic Pinball (USA).bin",
+      "filesize": 238718592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cac3653634f5346cf4cb9be3dc33c24",
+        "sha1": "b9280bf29e5d9573e6d4e435a9ed3942996e4eca",
+        "crc32": "2cbfda48"
+      }
+    }
+  ]
+}

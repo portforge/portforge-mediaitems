@@ -1,0 +1,277 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blockids (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blockids (USA).cue",
+      "filesize": 2816,
+      "ext": "cue",
+      "checksums": {
+        "md5": "63f8fd740386a270b0070bb986646234",
+        "sha1": "f89b7ff4f4499308bacf89a592c07a64adbd73c4",
+        "crc32": "677e4670"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 01).bin",
+      "filesize": 14890512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ece2d8aef03d263eae9703a61e9d71c7",
+        "sha1": "386ea6f5b8375e1cf4d28729b15bf39b4584d0f6",
+        "crc32": "48e5397a"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 02).bin",
+      "filesize": 11350752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6c5171cc1a9931b1ca02c942b195c39",
+        "sha1": "13bad219229ba251f486ce045868c8616f07c2db",
+        "crc32": "6a0118b8"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 03).bin",
+      "filesize": 37389744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "871a1abf2c9e5e4b8bc374da35aabb9a",
+        "sha1": "b7d99499c37ceca0d7a5803b96364e4244ebd72f",
+        "crc32": "0fe9e99d"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 04).bin",
+      "filesize": 38142384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0719339602810df162ae311b30cc856",
+        "sha1": "c38a93579192c07ec00d70c81f18c64d8d107eba",
+        "crc32": "fae279b8"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 05).bin",
+      "filesize": 32942112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8172572fd0c4859211f9861d74121e92",
+        "sha1": "932fb50f61f0e5c9146901b7882d97877ad88b60",
+        "crc32": "4f497d27"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 06).bin",
+      "filesize": 34543824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1476fc67f047c22b5a2bd4cf7b55be3d",
+        "sha1": "356c791d9f5aca2af8b2702806f7cafc44bbdc4a",
+        "crc32": "7a888d2e"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 07).bin",
+      "filesize": 35811552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa8074bd0003159b5d9c53fa3dc0ebb6",
+        "sha1": "3d93c545267446902b80a930b66bc72279379001",
+        "crc32": "14887ec4"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 08).bin",
+      "filesize": 34219248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1e69e3ff6eb280d524ed9993dc194bb",
+        "sha1": "94a0179b04d14b6851c54d89bbcc7637ebfe5e62",
+        "crc32": "dbc391ef"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 09).bin",
+      "filesize": 35813904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "253a4e948716017c6c5a65b98d173f3c",
+        "sha1": "742191bbd75183b4cb8e507c3746cd7119c5009f",
+        "crc32": "d7111cbc"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 10).bin",
+      "filesize": 35070672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cffdc48a16beaca9231bace5e7661d2c",
+        "sha1": "529f1f525e53831996ba87103aaf901d74a9a433",
+        "crc32": "61589188"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 11).bin",
+      "filesize": 35070672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99dabd67260a8fbc8abf2cf0bbf4aac2",
+        "sha1": "d9e84995e7b8e7f47e5b1b006b6884cb432a54b1",
+        "crc32": "cb58ca16"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 12).bin",
+      "filesize": 34964832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e839c910d2e36c99f1df88cabdf486a",
+        "sha1": "20f56666815f3dc7e16efd9ef84954789fbaba41",
+        "crc32": "81ac646a"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 13).bin",
+      "filesize": 23322432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28e9f8274a21bcb7a6816c697233bcab",
+        "sha1": "0236f183f04a9a90df02c284bf87879ac39dfab9",
+        "crc32": "07906e91"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 14).bin",
+      "filesize": 35816256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63de3296903f9bec2efae174c161ba7b",
+        "sha1": "5dd0da63ab1eec07e6a13982eda2aaad9ffe0da6",
+        "crc32": "0af919cf"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 15).bin",
+      "filesize": 29249472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1e8bbe45e450b3645a9c95eb7132bfd",
+        "sha1": "febb91ef4dbb4d531006e43bc171d21f86763618",
+        "crc32": "b3b3ff90"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 16).bin",
+      "filesize": 36023232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3e97a36ed6a5aac59a98e80bb679d83",
+        "sha1": "1f0244ae8069ec1fd0f0d3c7f4f95086ceaa8a51",
+        "crc32": "2605eaa1"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 17).bin",
+      "filesize": 21523152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f03d651ae2779edb56e9f967a5fa3c6a",
+        "sha1": "f1ca897853bc6ec366b0970e63f08eb72014874d",
+        "crc32": "02ce714b"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 18).bin",
+      "filesize": 1347696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c7cbddc008552ed3e4a047a7f2b5566",
+        "sha1": "969c47f772260da51ce0b7fbf158019ce814834b",
+        "crc32": "0a9431fb"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 19).bin",
+      "filesize": 1502928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e4e69c07e0db9efca6ae4f87ce920dd",
+        "sha1": "bfba73b00284bd652d94f123532bcf6438353ffe",
+        "crc32": "99aa391b"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 20).bin",
+      "filesize": 36646512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "429f4eb7290be87a75cf420b8753981e",
+        "sha1": "3b3e93493a6e7ca40bb5d878f42b99e81a1ceb4a",
+        "crc32": "149861d4"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 21).bin",
+      "filesize": 6818448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1745abc0416c6a692d0dbeb45b106f53",
+        "sha1": "4e8acd5961cd0292206593960c05e65a7a5197dd",
+        "crc32": "9cd87794"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 22).bin",
+      "filesize": 6705552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5a6757a4af60a237133de11d16ce7d5",
+        "sha1": "1d7d9830ed48ed5aed399b607b6c180699a365ba",
+        "crc32": "d18e39e5"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 23).bin",
+      "filesize": 6004656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a4d042d2942479aea5d1aa246ec20e7",
+        "sha1": "9a23a059d83e21991e4fa130b4f21f2dc95c0f73",
+        "crc32": "90a967ef"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 24).bin",
+      "filesize": 54121872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dac5b414ece90c622028fee6c2efc1d0",
+        "sha1": "6ba26b1e6f21dae0bbd492832a406aab5a81587a",
+        "crc32": "d512c6f5"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 25).bin",
+      "filesize": 40045152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bc82864eff537db22516d4adb19c2e2",
+        "sha1": "1c00de30cf15b4bc173d0c0b3716a99957e606d0",
+        "crc32": "3f266fcd"
+      }
+    },
+    {
+      "filename": "Blockids (USA) (Track 26).bin",
+      "filesize": 40047504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fdd7c1090ba308594395a6c27dc4e8d",
+        "sha1": "4161cdb05e12cab759b2db69144656228b655254",
+        "crc32": "d8936172"
+      }
+    }
+  ]
+}

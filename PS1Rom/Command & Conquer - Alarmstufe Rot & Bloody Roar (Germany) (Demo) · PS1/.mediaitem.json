@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alarmstufe Rot & Bloody Roar (Germany) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot & Bloody Roar (Germany) (Demo).cue",
+      "filesize": 459,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce235193497939d8f87012b5c0e0148f",
+        "sha1": "48bfa53195653db1936e7ed49868d33757459dc0",
+        "crc32": "7d5e3512"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot & Bloody Roar (Germany) (Demo) (Track 1).bin",
+      "filesize": 92941632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aba457666efd8fe66b60e31165d1f0c4",
+        "sha1": "e389b93effd645bdcd1443275b543d835c35827d",
+        "crc32": "8522a373"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot & Bloody Roar (Germany) (Demo) (Track 2).bin",
+      "filesize": 7921536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e18ad65c3d930af24c75f354bdee537a",
+        "sha1": "ffb819bf6bb653a06ee363a2b5ff01bd7afcbdaa",
+        "crc32": "6a739190"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot & Bloody Roar (Germany) (Demo) (Track 3).bin",
+      "filesize": 40143936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7472e3878e444adcf601436dd3c89b72",
+        "sha1": "287bae3482cd887d6710c61a85a018771dec3da8",
+        "crc32": "e8cddeba"
+      }
+    }
+  ]
+}

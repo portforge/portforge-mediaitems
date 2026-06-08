@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Persona 2 - Eternal Punishment (USA) (Bonus Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Persona 2 - Eternal Punishment (USA) (Bonus Disc).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "572efbd290fda4928f25e74aee20e940",
+        "sha1": "f1bb3d5f3b72a0b932d5777aa69b7ece9ef00160",
+        "crc32": "8eb8e149"
+      }
+    },
+    {
+      "filename": "Persona 2 - Eternal Punishment (USA) (Bonus Disc).bin",
+      "filesize": 315930048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89a093f301ed5e9f52cd7caaf6fc1ba0",
+        "sha1": "6394671b85f87a7a44016675c02c4d442015cdcd",
+        "crc32": "52cc7507"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kaikata - Sekai no Inu Catalog (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kaikata - Sekai no Inu Catalog (Japan).cue",
+      "filesize": 149,
+      "ext": "cue",
+      "checksums": {
+        "md5": "562194d78f29ba9d00319953f19fcacb",
+        "sha1": "32a47d355f0486b6a561fccb38e678c9d26464bf",
+        "crc32": "f471b855"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 15 - Inu no Kaikata - Sekai no Inu Catalog (Japan).bin",
+      "filesize": 705000240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "675c26f6fe72abdfe5ded01030905721",
+        "sha1": "17f5616750ad48093a19a86ddb6966acf3408f74",
+        "crc32": "6328e557"
+      }
+    }
+  ]
+}

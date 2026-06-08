@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bushido Blade 2 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bushido Blade 2 (Japan, Asia).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "774c5189af201e1158275e51d9f9f5f0",
+        "sha1": "4cbe4877131a520d51784e111df9a690350358f8",
+        "crc32": "f0be03dc"
+      }
+    },
+    {
+      "filename": "Bushido Blade 2 (Japan, Asia).bin",
+      "filesize": 688889040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1278dad3677f0d37ce6d681d0ccf7064",
+        "sha1": "a1ebead9a8977e31b87442eaccb485732689daa6",
+        "crc32": "38441c55"
+      }
+    }
+  ]
+}

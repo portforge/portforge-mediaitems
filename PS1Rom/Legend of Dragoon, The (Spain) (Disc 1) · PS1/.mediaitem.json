@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Dragoon, The (Spain) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Dragoon, The (Spain) (Disc 1).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a96d0fcf3cb9c5c4ed27c5f070b3d1c7",
+        "sha1": "1a14073ce1fea49df767c8c3d6a3ab6e9785cfa7",
+        "crc32": "385e497d"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (Spain) (Disc 1).bin",
+      "filesize": 462393792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb994389f7a6e9c3b5454d2131d98118",
+        "sha1": "3621dc1550df7fd3ade3289c02df616e9f5eb36c",
+        "crc32": "22eb6a83"
+      }
+    }
+  ]
+}

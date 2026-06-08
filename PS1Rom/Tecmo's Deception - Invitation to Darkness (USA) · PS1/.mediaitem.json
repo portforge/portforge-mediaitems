@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tecmo's Deception - Invitation to Darkness (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tecmo's Deception - Invitation to Darkness (USA).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7a8cb283b2e983010341535d1e07867",
+        "sha1": "e9b59d78f39544f7227d13f1ff9231b166ce607c",
+        "crc32": "0d97d78c"
+      }
+    },
+    {
+      "filename": "Tecmo's Deception - Invitation to Darkness (USA) (Track 1).bin",
+      "filesize": 340818912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b9b35d7b5a6d46d0c79d203a7c869d7",
+        "sha1": "c00ba0bc46c5e274728fd812081d2a5152ce7695",
+        "crc32": "284864fb"
+      }
+    },
+    {
+      "filename": "Tecmo's Deception - Invitation to Darkness (USA) (Track 2).bin",
+      "filesize": 39226656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e91b776bd770249f19d60af08912d351",
+        "sha1": "6b59def1a6389ea9744751f26d658082fefb1171",
+        "crc32": "bb5a741d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kurushi Final (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kurushi Final (Europe).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "135c1c8e204f3e49e285d82776b4ff0d",
+        "sha1": "d9eba7cc1cd98e747a6a4e583e7cc7719dc7c548",
+        "crc32": "8db6b697"
+      }
+    },
+    {
+      "filename": "Kurushi Final (Europe).bin",
+      "filesize": 539431200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8777046902ade2b9e5e8fda5e12d967",
+        "sha1": "4c93ff3e0d7a1d294078995274dc973ef14317fe",
+        "crc32": "55a0b46b"
+      }
+    }
+  ]
+}

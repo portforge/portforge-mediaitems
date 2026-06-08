@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lethal Enforcers I & II (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lethal Enforcers I & II (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50fbc312ec774282fc14a6aaaa313399",
+        "sha1": "93c45e196c24985f4fef29df66767bf151d7e70c",
+        "crc32": "17de7f26"
+      }
+    },
+    {
+      "filename": "Lethal Enforcers I & II (USA).bin",
+      "filesize": 437262672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53aecb86f7d1841036c4ea271bc56dc6",
+        "sha1": "cf042fc7122532242f93f5f2f9f8ca6b7172c2de",
+        "crc32": "e3a516f9"
+      }
+    }
+  ]
+}

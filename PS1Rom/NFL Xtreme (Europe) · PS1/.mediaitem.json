@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL Xtreme (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL Xtreme (Europe).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f96a667edd3dc71f79f2f0e851e78db",
+        "sha1": "ff2484d8a29d874bddb0f14734e9e26a9379d105",
+        "crc32": "ddc54647"
+      }
+    },
+    {
+      "filename": "NFL Xtreme (Europe) (Track 1).bin",
+      "filesize": 214744656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6434af160f4ee8867b8386d174a39141",
+        "sha1": "c88a31b3f0f53dbdd0d24f17e6353aebbf73c6b1",
+        "crc32": "815e366c"
+      }
+    },
+    {
+      "filename": "NFL Xtreme (Europe) (Track 2).bin",
+      "filesize": 129105984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc7fd6efe38523a05284603325b71f61",
+        "sha1": "c9128feb01a800e79626dc0227f3909b7129f649",
+        "crc32": "bcc7db89"
+      }
+    }
+  ]
+}

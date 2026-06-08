@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver (Germany).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b942a3c8c2e3c0b30aa6191b136f7f77",
+        "sha1": "7494df69896b8be4371c171af3e0ece43f848f28",
+        "crc32": "246c0edc"
+      }
+    },
+    {
+      "filename": "Driver (Germany).bin",
+      "filesize": 742893312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c2b1495877019fee2d3903bedcee7d9",
+        "sha1": "b63b5a06fc476991cb4bb602e8489e590877eeb3",
+        "crc32": "b5e9e1c1"
+      }
+    }
+  ]
+}

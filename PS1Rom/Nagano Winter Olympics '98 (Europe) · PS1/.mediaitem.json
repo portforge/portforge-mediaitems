@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nagano Winter Olympics '98 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nagano Winter Olympics '98 (Europe).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8aac3c120791a3c4d5584d5ae6e9a3dc",
+        "sha1": "1eb78adcceb64b9ee9190691d973f7dc897ca274",
+        "crc32": "08b4fb5f"
+      }
+    },
+    {
+      "filename": "Nagano Winter Olympics '98 (Europe).bin",
+      "filesize": 399637728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7af6f1e08597ef7a583578d57f384687",
+        "sha1": "87df4acb10c219e032caf9f20ddd47bcad635def",
+        "crc32": "bdee37d9"
+      }
+    }
+  ]
+}

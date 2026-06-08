@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ski Air Mix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ski Air Mix (Japan).cue",
+      "filesize": 999,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c6fbadbef292798b684b1388ffd7df4",
+        "sha1": "3aa5f568586bf208f783c4f159ac5fa09ff03e5a",
+        "crc32": "fddde5fd"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 1).bin",
+      "filesize": 49547232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8dca877d8813d1662d8e880e989c8ca",
+        "sha1": "fc32b81070443b5e207fa63596d967cab6ebf28c",
+        "crc32": "afae1443"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 2).bin",
+      "filesize": 29517600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a9cd94ba6c0c4cd9810563cca2653e0",
+        "sha1": "5fcf659672b4a000b6a16504588f72fc88a58818",
+        "crc32": "113a5a11"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 3).bin",
+      "filesize": 31815504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b480adb6c6053c8227bbcf10b0a8d11",
+        "sha1": "efc5767f9bdca9b360c88d1f6ae89de4d6b0b8c8",
+        "crc32": "9eef9f8e"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 4).bin",
+      "filesize": 32584608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "453e7c260c54a7d0e678d8243887dcb2",
+        "sha1": "dfa16c2bedf7a3d23e4ee3eaa57d685530270ee0",
+        "crc32": "2e42b528"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 5).bin",
+      "filesize": 31770816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02243a49fe62635d5ea2dee1e8b37793",
+        "sha1": "ba44150af882d40c4f349987436e6aeb2ae55b74",
+        "crc32": "0ba43a9a"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 6).bin",
+      "filesize": 32102448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b2a533aa36a9c3a003a262258ba669f",
+        "sha1": "bdbe2dcb9ae47e60ad3c0934095dbe9a08c0159d",
+        "crc32": "ca00cc9e"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 7).bin",
+      "filesize": 32088336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ee2ca65ea3d5b8201f9a366404af809",
+        "sha1": "c8c1b2d6be3a749195d4e3b824920fa4758f8c28",
+        "crc32": "5a187850"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 8).bin",
+      "filesize": 41795040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff18f970c5c97b429ff1fd1ef9100f76",
+        "sha1": "cec6532397b5cec0091f215d2854084006f0df3d",
+        "crc32": "e1d2bdf7"
+      }
+    },
+    {
+      "filename": "Ski Air Mix (Japan) (Track 9).bin",
+      "filesize": 41795040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff18f970c5c97b429ff1fd1ef9100f76",
+        "sha1": "cec6532397b5cec0091f215d2854084006f0df3d",
+        "crc32": "e1d2bdf7"
+      }
+    }
+  ]
+}

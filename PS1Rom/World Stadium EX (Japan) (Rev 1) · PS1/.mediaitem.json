@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Stadium EX (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Stadium EX (Japan) (Rev 1).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "320aeb0ecad72a9c89e1e1bc95b3bd2e",
+        "sha1": "498327153c31b2d355cbaf274fab7ba221857d1f",
+        "crc32": "31934d01"
+      }
+    },
+    {
+      "filename": "World Stadium EX (Japan) (Rev 1) (Track 1).bin",
+      "filesize": 690457824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4844bcaf200c2b2824b1f7b3739db6e",
+        "sha1": "70d0271cbbb17c9127d14a324be4ecc08538ee91",
+        "crc32": "dab56c07"
+      }
+    },
+    {
+      "filename": "World Stadium EX (Japan) (Rev 1) (Track 2).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "390a5426e97050683cab60005d2eb4fc",
+        "sha1": "f7006658a8b6ea429535aea25508f7cc4380b6d3",
+        "crc32": "a4c038c6"
+      }
+    }
+  ]
+}

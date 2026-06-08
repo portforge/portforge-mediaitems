@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yu-Gi-Oh! Forbidden Memories (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yu-Gi-Oh! Forbidden Memories (Italy).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f60c29220f467a5fcec525a813c55d3e",
+        "sha1": "e28bb541e5949475f5aaf0136fbcada505d8f913",
+        "crc32": "3dab00bf"
+      }
+    },
+    {
+      "filename": "Yu-Gi-Oh! Forbidden Memories (Italy).bin",
+      "filesize": 548427600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6ab8c562dd98487407f77fd1890a341",
+        "sha1": "b24fbf083b11dd6b6413cf0cf7af847bd283f7fa",
+        "crc32": "260df093"
+      }
+    }
+  ]
+}

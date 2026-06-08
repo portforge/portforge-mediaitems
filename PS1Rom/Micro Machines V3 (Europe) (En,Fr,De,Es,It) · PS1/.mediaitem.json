@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Micro Machines V3 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Micro Machines V3 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cfb4014b447966692cd3b2603dd4cdff",
+        "sha1": "1d4941f85025632a2ae21a1a31473dec7ed9f577",
+        "crc32": "6e424f7e"
+      }
+    },
+    {
+      "filename": "Micro Machines V3 (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 674461872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20c316c640a3e6ecb64b03128619b372",
+        "sha1": "8119efe51563708714b76552a3cbc93407cb5b01",
+        "crc32": "4ee6cf0a"
+      }
+    }
+  ]
+}

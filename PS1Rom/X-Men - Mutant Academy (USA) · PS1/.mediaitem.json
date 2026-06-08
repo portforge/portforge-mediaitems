@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Men - Mutant Academy (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Men - Mutant Academy (USA).cue",
+      "filesize": 1458,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f72b177ca6bc4aa2a977db733096ddf",
+        "sha1": "ec13319b94a5ae3577547b150965eb8d2e106e3b",
+        "crc32": "78abd8bb"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 01).bin",
+      "filesize": 463289904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3dcae46ab7f36f2256ab993e93b3d40e",
+        "sha1": "29a258a82f1915e60fd41e2c7cdef40324d5baf7",
+        "crc32": "42734eb9"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 02).bin",
+      "filesize": 20034336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8d23a8bea8323e3cc949f282472e7e1",
+        "sha1": "b36308820c30d8ddc15226c67c59deda821830a8",
+        "crc32": "496461b9"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 03).bin",
+      "filesize": 18453792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d2d63368385705eb203cdd6d7026270",
+        "sha1": "e82e556fc6df142356cd2fff38e57791a3331d45",
+        "crc32": "bb2653c6"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 04).bin",
+      "filesize": 18510240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8164bf97f8f614ea5669d8e8f1bf88e",
+        "sha1": "c8bb7729734307d5a8adb0a31d8098e4eab0d1d8",
+        "crc32": "e678ea05"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 05).bin",
+      "filesize": 16094736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91bccb985a6cb32667a6c94a28674fbb",
+        "sha1": "6573b7349e9588c47732db877a8756255869ea3e",
+        "crc32": "7d0a7b71"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 06).bin",
+      "filesize": 17181360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45c724da67e82abfaef9f069543afff9",
+        "sha1": "83d7e902372d03694506ec358bfb6bd509f86ae8",
+        "crc32": "f097b0e7"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 07).bin",
+      "filesize": 17357760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9297a54383f5d797216d54b5afc03586",
+        "sha1": "76e43cb6f0bc9aeac5b019282d2cbd074bbbb8b2",
+        "crc32": "69bd5628"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 08).bin",
+      "filesize": 20547072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0255384a5d81ccaadfa26765b79fecae",
+        "sha1": "8e3813c5d55e5a18f3e7d6309eeee213c37b9960",
+        "crc32": "57368df1"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 09).bin",
+      "filesize": 19841472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "755083a21ce8bbf70b1ed983034b6f59",
+        "sha1": "e161c6b6af1362a2ab12033e154769faafe4663c",
+        "crc32": "49f721d3"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 10).bin",
+      "filesize": 14812896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89e6547a676a02a1eb50ce53e1a30b86",
+        "sha1": "299f13537af23a76f9c13e052f01066e8b7d5637",
+        "crc32": "aca83fae"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 11).bin",
+      "filesize": 19131168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d3df8c23a02a60cc3d093553812f0ba",
+        "sha1": "c18209d76ea1b3f11c7b546d08773a4aad8901ae",
+        "crc32": "ffd2e6b2"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Track 12).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

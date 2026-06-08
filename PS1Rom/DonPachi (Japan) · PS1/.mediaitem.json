@@ -1,0 +1,167 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DonPachi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DonPachi (Japan).cue",
+      "filesize": 1647,
+      "ext": "cue",
+      "checksums": {
+        "md5": "98acf6b4298bc34a0a26efb4cf185984",
+        "sha1": "fa2919507063b0795b99ee6ae65a2b2b98e8acff",
+        "crc32": "0ab72c2c"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 01).bin",
+      "filesize": 13479312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2eb498c617896347ee3b5468893bf003",
+        "sha1": "863c593d943de88aac6c95fc484b7b0e3ec604e7",
+        "crc32": "3059beb4"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 02).bin",
+      "filesize": 10913280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "beb3b0ecd3d973e65e321e994e1933f5",
+        "sha1": "7fc7a10db93a09f8bfc1378f00c2acc59d6d898b",
+        "crc32": "4db0d1e9"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 03).bin",
+      "filesize": 28967232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b31a7f48a6dfead68a9d03c6c50bafc0",
+        "sha1": "5bd96244e45be44e63391e69024271a2a18589ba",
+        "crc32": "05f4287b"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 04).bin",
+      "filesize": 22414560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8cfe057105ad6e739fcc8eb62b0ea80",
+        "sha1": "955108b454dafd4f25989f826deb976ddc5179da",
+        "crc32": "9015703e"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 05).bin",
+      "filesize": 22419264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "337c6575947fbc1bda134e87a25a436b",
+        "sha1": "de3dbff0799782df2b21970bef6c63241709a2bf",
+        "crc32": "1dda669e"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 06).bin",
+      "filesize": 17496528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d71d6127f5a56883eec08d2a5906e5f5",
+        "sha1": "ddbd1b427f1c05e2fb79d19379d4b8b45aa0a7d7",
+        "crc32": "89ca05a8"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 07).bin",
+      "filesize": 21309120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15dcff6ec92cbd879da2720fd0e8213d",
+        "sha1": "1dfe6c474eb5081f1d8e248155712b5c43f0470f",
+        "crc32": "0abc9fe0"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 08).bin",
+      "filesize": 24333792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e60f15ee0febc1a2d4d8c08e383f29f",
+        "sha1": "55c3bb5049d339427b571e006e80390275105579",
+        "crc32": "38c20946"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 09).bin",
+      "filesize": 2102688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b14fd22bf5a825c80db4deb0a142f42",
+        "sha1": "d80bf80e43a84e154fa88d55cb9e0cd5d0a7e414",
+        "crc32": "baf6aa70"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 10).bin",
+      "filesize": 4047792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "858b8fbd72eec9f820573dd9e64183e4",
+        "sha1": "7b6bb9498ee47596eb6066d12738cb92d71d8896",
+        "crc32": "ad23a4e3"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 11).bin",
+      "filesize": 7368816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "777fa0d962327958e3f01b69a7439907",
+        "sha1": "3334d98a3964e0d1e44ed6bc9acaceab1e852f7b",
+        "crc32": "ec71c81b"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 12).bin",
+      "filesize": 10311168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4960e697ff89d0f1990b9f06a4d02231",
+        "sha1": "d15a7ed0c8bf6de4e71ea17afc84ddf76341f6c2",
+        "crc32": "41f6b799"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 13).bin",
+      "filesize": 9796080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e5a7353f5368ef0121007c7fe11eb03",
+        "sha1": "3fe8eee621f88948c0e2024c794ea0edd2c66d94",
+        "crc32": "b12123d7"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 14).bin",
+      "filesize": 20031984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "783f93ba573bae849357d79e300d711f",
+        "sha1": "24d83edcbef2f52d63287e1fd4035bcc69f37dbc",
+        "crc32": "e99f8297"
+      }
+    },
+    {
+      "filename": "DonPachi (Japan) (Track 15).bin",
+      "filesize": 44429280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb1939605465d8b6a40156e7ffd46f60",
+        "sha1": "2d3dcb03372e279c01812c54842b0785ec2c1856",
+        "crc32": "06f241a3"
+      }
+    }
+  ]
+}

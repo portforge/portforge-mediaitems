@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Darkstalkers 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Darkstalkers 3 (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "63969a3dc70ef1b28f0c0664a827d9db",
+        "sha1": "6e9f3b5448617cb504d8c38f08e437ac91445e54",
+        "crc32": "1f1f57ac"
+      }
+    },
+    {
+      "filename": "Darkstalkers 3 (USA).bin",
+      "filesize": 749838768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29f407ecbd17f8e4ac78de3e52ed6d4a",
+        "sha1": "b2fba37c142e532eee1e1816705726f2ad0d23ed",
+        "crc32": "7db5c7a6"
+      }
+    }
+  ]
+}

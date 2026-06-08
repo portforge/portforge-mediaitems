@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b91e5b916be9bb4bb1c15551af0b4417",
+        "sha1": "028dc886f50451b612f8f1b2863b6f0a9b3aff3c",
+        "crc32": "7420271e"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot (USA).bin",
+      "filesize": 632083536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4aeaf0c0bb2f2000f31d12e7b59f8f9",
+        "sha1": "61ff4c9e8dcfb9e5d94d37f66330b69d08d6c914",
+        "crc32": "41b5f211"
+      }
+    }
+  ]
+}

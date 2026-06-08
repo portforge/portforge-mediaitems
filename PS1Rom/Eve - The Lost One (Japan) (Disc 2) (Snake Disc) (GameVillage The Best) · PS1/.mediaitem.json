@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (GameVillage The Best)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (GameVillage The Best).cue",
+      "filesize": 137,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1833521f46fcda297800080f3e35444c",
+        "sha1": "dbd1c5617a00f5b5372e144705ce5df175818e80",
+        "crc32": "ef706fe5"
+      }
+    },
+    {
+      "filename": "Eve - The Lost One (Japan) (Disc 2) (Snake Disc) (GameVillage The Best).bin",
+      "filesize": 652901088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f160637de53e5cdbdef483bb609a228",
+        "sha1": "e6d544eac9566b097b9d26adc622fc88bd6304c4",
+        "crc32": "7f75c0b9"
+      }
+    }
+  ]
+}

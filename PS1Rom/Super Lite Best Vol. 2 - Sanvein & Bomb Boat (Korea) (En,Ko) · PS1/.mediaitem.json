@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Lite Best Vol. 2 - Sanvein & Bomb Boat (Korea) (En,Ko)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Lite Best Vol. 2 - Sanvein & Bomb Boat (Korea) (En,Ko).cue",
+      "filesize": 598,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67ef139b87b5e997802c32d5dac03d8a",
+        "sha1": "dc7f61c1487e0b4609b0e067a6b98cf0dd758018",
+        "crc32": "dc56dc02"
+      }
+    },
+    {
+      "filename": "Super Lite Best Vol. 2 - Sanvein & Bomb Boat (Korea) (En,Ko) (Track 1).bin",
+      "filesize": 198038400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "252174096b52d267fa7b1f988ef74834",
+        "sha1": "7d18d99ba45055791587f523b23884331f12884c",
+        "crc32": "838f42c1"
+      }
+    },
+    {
+      "filename": "Super Lite Best Vol. 2 - Sanvein & Bomb Boat (Korea) (En,Ko) (Track 2).bin",
+      "filesize": 10993248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67be88825ebd5a24ef41d2806ee16bf3",
+        "sha1": "62fb88720a91bd9070491a0a475e114d50c076b2",
+        "crc32": "3e231496"
+      }
+    },
+    {
+      "filename": "Super Lite Best Vol. 2 - Sanvein & Bomb Boat (Korea) (En,Ko) (Track 3).bin",
+      "filesize": 23712864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68a8dada5a8b83c6d47939d1d0c60e4e",
+        "sha1": "50f1e5d83959ac588910b1cb9ee51b05e2c6416d",
+        "crc32": "5c64688c"
+      }
+    },
+    {
+      "filename": "Super Lite Best Vol. 2 - Sanvein & Bomb Boat (Korea) (En,Ko) (Track 4).bin",
+      "filesize": 33882912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "100a2e7cec31a1ea2bc33125a533d294",
+        "sha1": "9277dffc8656b49589aa3a7c4e0000546a1bfa63",
+        "crc32": "9983b30b"
+      }
+    }
+  ]
+}

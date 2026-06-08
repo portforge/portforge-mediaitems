@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kouni Shougun (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kouni Shougun (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "24cce346f4d54fc9a9246bdeabf8ca7f",
+        "sha1": "a0ff9f87334ef838ec5e1b98a6b134e988cf0c94",
+        "crc32": "72bd1081"
+      }
+    },
+    {
+      "filename": "Kouni Shougun (Japan).bin",
+      "filesize": 370487040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7194566cf51291d5828899ccd2bc13d",
+        "sha1": "aadfa2e883f140242d4b273fbe1856c2f35ef258",
+        "crc32": "e900a7a6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Frank Thomas Big Hurt Baseball (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Frank Thomas Big Hurt Baseball (Japan).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a259b00d0ce1202db533369ad31ba33",
+        "sha1": "8f4c8173459ab8ca9170e8b00ab8b1841239a396",
+        "crc32": "9f345d2b"
+      }
+    },
+    {
+      "filename": "Frank Thomas Big Hurt Baseball (Japan) (Track 1).bin",
+      "filesize": 157311168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30792cc959fcb5ef161972b23c4fca44",
+        "sha1": "83309e18ed0b21f2f886875200072bebe024bdc8",
+        "crc32": "bddc1550"
+      }
+    },
+    {
+      "filename": "Frank Thomas Big Hurt Baseball (Japan) (Track 2).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32772a7d5caba5e3b875a9f003758383",
+        "sha1": "354b3c4d850c45e309a748c834d96a13f112dedf",
+        "crc32": "1428b715"
+      }
+    }
+  ]
+}

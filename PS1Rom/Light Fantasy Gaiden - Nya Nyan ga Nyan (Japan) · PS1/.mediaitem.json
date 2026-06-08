@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Light Fantasy Gaiden - Nya Nyan ga Nyan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Light Fantasy Gaiden - Nya Nyan ga Nyan (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "186a31c03d42f2c4a7a4dcd4731eaba8",
+        "sha1": "2de82de0d3e4767dd820c7f22259bbd812230286",
+        "crc32": "6c8deb6d"
+      }
+    },
+    {
+      "filename": "Light Fantasy Gaiden - Nya Nyan ga Nyan (Japan).bin",
+      "filesize": 609092736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "897cbc65de6a5cf8a64fc4195fb9622a",
+        "sha1": "003c354fcc63dc7c7fb1cdd141b9433b60224ec3",
+        "crc32": "31f2ac9c"
+      }
+    }
+  ]
+}

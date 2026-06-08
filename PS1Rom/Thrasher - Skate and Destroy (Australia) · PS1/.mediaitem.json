@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thrasher - Skate and Destroy (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thrasher - Skate and Destroy (Australia).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9fb81524d2d1cc2560b1572e669598b9",
+        "sha1": "da5efa18b9479a9aa7662112457e31e739844717",
+        "crc32": "b1489b87"
+      }
+    },
+    {
+      "filename": "Thrasher - Skate and Destroy (Australia).bin",
+      "filesize": 364647024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d441e56439825ff7b811efefb212a50d",
+        "sha1": "caf7cf8024ac986c32772e499176b4040275bdd3",
+        "crc32": "034ed3a0"
+      }
+    }
+  ]
+}

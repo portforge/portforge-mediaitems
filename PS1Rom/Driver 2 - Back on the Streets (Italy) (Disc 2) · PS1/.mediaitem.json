@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver 2 - Back on the Streets (Italy) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver 2 - Back on the Streets (Italy) (Disc 2).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb106d91ad9ac61723dcdbe0ef46adff",
+        "sha1": "7efaa419f1be4e89a6321bad23ea847c3b2c4177",
+        "crc32": "fa84a926"
+      }
+    },
+    {
+      "filename": "Driver 2 - Back on the Streets (Italy) (Disc 2).bin",
+      "filesize": 622649664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7420721313105c4d100440cf1b2a9645",
+        "sha1": "7937603c3021b111654ca01c206d845e1008344d",
+        "crc32": "ac3b6803"
+      }
+    }
+  ]
+}

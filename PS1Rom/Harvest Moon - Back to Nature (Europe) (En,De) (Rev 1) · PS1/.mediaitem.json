@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harvest Moon - Back to Nature (Europe) (En,De) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harvest Moon - Back to Nature (Europe) (En,De) (Rev 1).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "49330c27c11f0eb72830e436d63fdcfb",
+        "sha1": "9c6c1872ee187f5aa8e0c57e5b3fbf32e859442f",
+        "crc32": "b9c40757"
+      }
+    },
+    {
+      "filename": "Harvest Moon - Back to Nature (Europe) (En,De) (Rev 1).bin",
+      "filesize": 270468240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fbaea4200717c193a7934cfd8a73f68",
+        "sha1": "aa214c601ce52df0623a2843f4ad559fe068d286",
+        "crc32": "1f5a3a82"
+      }
+    }
+  ]
+}

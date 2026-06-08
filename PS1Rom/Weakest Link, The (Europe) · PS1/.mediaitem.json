@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Weakest Link, The (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Weakest Link, The (Europe).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1a8fdf3aada92d1f3c47d172614bc8a",
+        "sha1": "8c1c377dd2643bbd1d40006912ad33200be43dc4",
+        "crc32": "000ba6fe"
+      }
+    },
+    {
+      "filename": "Weakest Link, The (Europe).bin",
+      "filesize": 747244512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "622e36df91c72af1089524c4f3ddbb98",
+        "sha1": "e67a009f7cf42ad0cc2d2165d27e8584907cb5c4",
+        "crc32": "797c106d"
+      }
+    }
+  ]
+}

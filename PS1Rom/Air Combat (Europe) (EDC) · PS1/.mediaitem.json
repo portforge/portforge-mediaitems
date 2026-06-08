@@ -1,0 +1,647 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Air Combat (Europe) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Air Combat (Europe) (EDC).cue",
+      "filesize": 7542,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f4fcaa4e0edc582642184b8f1036c7eb",
+        "sha1": "6509de37b7338511b30b49aba87ee858abb27a94",
+        "crc32": "abbbca9e"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 01).bin",
+      "filesize": 106968960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a99723acc80a3f0605e36e787f3cc230",
+        "sha1": "ee99101b8468966919169fe1172c032397761c49",
+        "crc32": "41d03f71"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 02).bin",
+      "filesize": 36738240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8dcf08c11bb7e1c3bc62be52e953617a",
+        "sha1": "e4baf5fd8fddbf6f32f4591a4683ca8af9079837",
+        "crc32": "f6c605d4"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 03).bin",
+      "filesize": 28652064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aacf455cc958881b59c8dcb32f914795",
+        "sha1": "3145cf3d0941a1e77e0571e044eb2d6f24a60313",
+        "crc32": "0f6701d5"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 04).bin",
+      "filesize": 27024480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16bcefc9c61b8a9d17b7ce0d4ac6108a",
+        "sha1": "d5b398a93051ac439c27d8d90536340e35cc5340",
+        "crc32": "cf61aa8c"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 05).bin",
+      "filesize": 28993104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13936f87b8da8f3a9ac1d24abef4bdb5",
+        "sha1": "8bd55b8169ec0196a8d7bd1d4b0882ac259ffc5a",
+        "crc32": "ea1cd5bf"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 06).bin",
+      "filesize": 13373472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d06326373a8a5bd31dc2fc59ce5dbee",
+        "sha1": "da9105bf61487f097213e890dfe983e6615f1885",
+        "crc32": "6aa8fd26"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 07).bin",
+      "filesize": 21010416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cfecdb79fec51231768635b99228438",
+        "sha1": "faacbae8645e145df304b79f4dfcc1e242dac8b5",
+        "crc32": "eb04f063"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 08).bin",
+      "filesize": 29425872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "385384e85df39927d9cfd1127aa56d8c",
+        "sha1": "08c543621cc771ade7bca8df22c4f02126db3720",
+        "crc32": "11b28580"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 09).bin",
+      "filesize": 31634400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fb0f303ede9be31a89b742f2f697ee5",
+        "sha1": "5c6d5df4939d65b0abbae7c82a756dd38c32dc48",
+        "crc32": "b61e737e"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 10).bin",
+      "filesize": 26391792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a76fc0f777e9e6c896c295c4fef3863a",
+        "sha1": "eb923566aaaa5472405cd4ee790daf35d171a8de",
+        "crc32": "cb74a154"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 11).bin",
+      "filesize": 21946512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a72b4412bd5bd3f1e20e39566aae228f",
+        "sha1": "dacb4eca0cae0b524f5730826593225c71b24420",
+        "crc32": "3cd15eb4"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 12).bin",
+      "filesize": 15066912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "303ab27d5542347c7a05a0391b76ecd1",
+        "sha1": "d941c6a80c6ac5128598e7f24030ace374a24936",
+        "crc32": "3d35b1d1"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 13).bin",
+      "filesize": 15172752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b31cde62fe7133f42d8fdacc2ee75919",
+        "sha1": "ef5183602a4dbab15026c4ea4eae7d2b410280c9",
+        "crc32": "d87bad30"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 14).bin",
+      "filesize": 2253216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d27b3305c1c69dcc50a1362e19c26f60",
+        "sha1": "8e4679d2df38e9c72ea4ce45933d847c86d1d951",
+        "crc32": "3c7d513d"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 15).bin",
+      "filesize": 12103392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf61c30619c034019b6e88442fdae7cd",
+        "sha1": "6ab473fae0527795e5d847483aed86ede62f150c",
+        "crc32": "84470724"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 16).bin",
+      "filesize": 2471952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8c2f509e5239929d23d6e170ccba54c",
+        "sha1": "107cd28bae69d7b88c399f9e67a9484948b47a63",
+        "crc32": "60b6e445"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 17).bin",
+      "filesize": 21417312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369fb06d6994b179beafd063b5f2013d",
+        "sha1": "8006e3729b39ce27ae71ed09030637781431feb5",
+        "crc32": "d3762ce9"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 18).bin",
+      "filesize": 26709312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4adbfe9484be843c2450f5f7f811aaf7",
+        "sha1": "cbe1962a23ba60f481f1dbc480642b9ab2cdfbd4",
+        "crc32": "411e09bc"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 19).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46d5adc2698ccfd4b6a4d4bdab693312",
+        "sha1": "656bdf71b7454f47446bb69de42adef61568774e",
+        "crc32": "a9eaf5e0"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 20).bin",
+      "filesize": 16061808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cea845e6c588c944166ab974bcd95866",
+        "sha1": "90a4f48da841a2a891c73f275d13c3f2ca7e9fcd",
+        "crc32": "b4966391"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 21).bin",
+      "filesize": 2775360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b79ab3c712a64effb70e193905eb1a82",
+        "sha1": "8f538d7f8eebac5b8343c0f3f683f5ee9aa1d910",
+        "crc32": "7c786180"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 22).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed0a874de146de38f8587ac688585c05",
+        "sha1": "1a5ef326ddc7db0ef9f0b4e4403c674eed10a334",
+        "crc32": "d8202a47"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 23).bin",
+      "filesize": 2105040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "953e1b554a6b6bfd79ada795519a80e5",
+        "sha1": "cc96c7211612d1c3563c04b1070bcc425dec3b6c",
+        "crc32": "2c256d18"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 24).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34f9c4c5fced0127bf1bbdb20fb0a85b",
+        "sha1": "83f409e81eb1c205a1688c9926cf7023e1c7f6c6",
+        "crc32": "78b4214f"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 25).bin",
+      "filesize": 1846320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bc69e1b47398a5afa2303effaa23a65",
+        "sha1": "f3909d4697b8745449f3988d7d8149908c2c9dda",
+        "crc32": "e3de689d"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 26).bin",
+      "filesize": 1192464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50cdada8e5dfd4a8d14fff457250286d",
+        "sha1": "3a649da59fcf05ab98a45bde2375897a542fd807",
+        "crc32": "fd4c36a0"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 27).bin",
+      "filesize": 1150128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d75cad1518c2690a4c96c5fbd5149120",
+        "sha1": "01f559f021dec45ec29a587047ff1b1717b51c41",
+        "crc32": "b8bbd8a3"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 28).bin",
+      "filesize": 2243808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "231016221ab4da7565e0d21a7977f494",
+        "sha1": "2c1bcd2f0cc738c255eafa407b3e717aefaf3807",
+        "crc32": "df6f9331"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 29).bin",
+      "filesize": 1514688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac2fa6cfefb802f588f35938c76b1ac5",
+        "sha1": "33c7dc9d3477a66a4ccacaa6bffdad45726b7429",
+        "crc32": "58f7ce79"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 30).bin",
+      "filesize": 2907072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f86db2accbf4252a859f7a5e26c0c15",
+        "sha1": "a3cec882f90d67cc465a7f086d8959c8a9e63dbc",
+        "crc32": "da3e15ad"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 31).bin",
+      "filesize": 2145024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0376f113bed73232c806ed9be43bbec4",
+        "sha1": "8dfe2829d134dc6d27c212cc0e1d17f5703f06f7",
+        "crc32": "7bd50570"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 32).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38f605122cc3d2dd1dbb08c868bbff7b",
+        "sha1": "7a867faf60112d095b12d157bd51357ac0567c09",
+        "crc32": "1bb1abed"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 33).bin",
+      "filesize": 1161888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c209520cea18dc4e8766d8c232e8efd5",
+        "sha1": "d1d47a7ef6a6897d8344ddcd384cce8eca2c2794",
+        "crc32": "26592556"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 34).bin",
+      "filesize": 2036832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1fb7ea1440c7843e5bbbc13cb86cdbc",
+        "sha1": "3c8e4e026d1ed223e3a7f4fc9fbed772adb2583c",
+        "crc32": "55862c53"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 35).bin",
+      "filesize": 1190112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3154c96c1e8503b022f05b0686b2097",
+        "sha1": "5f2f952949e8c1b9975c4b476018052129094f37",
+        "crc32": "f2d28286"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 36).bin",
+      "filesize": 1698144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bc4fe2392049d3244b862eed5c81382",
+        "sha1": "7c90d79a83f39da81f3e42d184c0ad1c82a8e681",
+        "crc32": "fd183aef"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 37).bin",
+      "filesize": 4370016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38323091c03c721360846c5951d88dbf",
+        "sha1": "2a45b42b9b9979883a8f32e6a4d483bff5657059",
+        "crc32": "52b5129f"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 38).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db215586c3b230e46d9099179e8cb596",
+        "sha1": "1e81abe3251e81725b696c5400bda42387a92b01",
+        "crc32": "48404490"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 39).bin",
+      "filesize": 1333584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ec0cb084eea2dd65b368e77c7d710cb",
+        "sha1": "3f365e9bd4ef45e1379fdfba5e4323d320e712be",
+        "crc32": "144c010f"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 40).bin",
+      "filesize": 1851024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dee049eee59b61ccf7e6ad4ba4c29d53",
+        "sha1": "69723c4d6e446caf1f2dd44d5a927f4d8f5370c0",
+        "crc32": "dfaf557b"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 41).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c879a2641d1949cbd5abd539c1baeaa",
+        "sha1": "886f2f974ec9d221755be9b394dba1dc16ed2c8e",
+        "crc32": "5319e9ad"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 42).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "850fe28fac8618e3252ffada421323bc",
+        "sha1": "37628ba6cfa1b4e3198562bec8bc2c38f4cab1d6",
+        "crc32": "36297c54"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 43).bin",
+      "filesize": 4235952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d97080a15231e256e14b5fb622f43f51",
+        "sha1": "ae96df9a4e79c226700ac0ff6032542152e0df48",
+        "crc32": "3c1ffc3d"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 44).bin",
+      "filesize": 2330832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1508be12c54912109bd35709f7ba250",
+        "sha1": "a379551448e5b0b5c2d0d5da1b21946b8851a5e8",
+        "crc32": "5dd8dc38"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 45).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f95b25044c37753141f452f44f825373",
+        "sha1": "4652a93deae63b2028c41215937adaedd3e61545",
+        "crc32": "fcc81032"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 46).bin",
+      "filesize": 1183056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2f3326d0671fa391103855037a9c106",
+        "sha1": "0d171cd5e0decb1fe614983e1cced4a6d332727d",
+        "crc32": "e8e5a26b"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 47).bin",
+      "filesize": 3229296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01dcba8e8ada0c378146212e250ac60e",
+        "sha1": "2ed4d54a459a75606e941119ddfa017b6d1de42c",
+        "crc32": "a995bc5e"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 48).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1316263ad9afe97193a9cda7331ff720",
+        "sha1": "058dc8fd19f259723dc803da101afca7925ec840",
+        "crc32": "f99be18a"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 49).bin",
+      "filesize": 2613072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98742db1c5d79c62e3c0719e0cfa1406",
+        "sha1": "298f0379f054a553276851a5b15de323c32c59e3",
+        "crc32": "a22b6fc7"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 50).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c4d67ef89f9a7f72345c7cae4d6ad6f",
+        "sha1": "bfbc5d8e3d6431623992db76c60c4e230d283fbc",
+        "crc32": "70902137"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 51).bin",
+      "filesize": 1905120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9db8171f7498ec274ca19232dd86dba",
+        "sha1": "a694f3951dcdedf5f73044ac9dc5c986f93aab81",
+        "crc32": "3d3d6a8e"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 52).bin",
+      "filesize": 1350048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4909e52e6d5c44b7fd4e7dbb6dce05d",
+        "sha1": "7200b9bc866352ea58f1b3d64ba93fb42790b6fe",
+        "crc32": "369de36f"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 53).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2754992b8fbade93c32017bc3b95dd77",
+        "sha1": "fc412daaec9276612f17a7a85f8a3ec02b8bf872",
+        "crc32": "a2ff2935"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 54).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71eb6684438e531996db51e45fcc3ad3",
+        "sha1": "9b69afd05692db3461a8c771896ef566bcbf2f0d",
+        "crc32": "5f9c111d"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 55).bin",
+      "filesize": 1150128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e3a672ebdaae05d38fe2fff50f91060",
+        "sha1": "9baa63630768f235785c306cd46368435c396fb4",
+        "crc32": "e329791d"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 56).bin",
+      "filesize": 1150128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0302a556ba41293289460315c21b68d6",
+        "sha1": "cbe7fa6d9bc0f07c14062ea41683076f554aaa00",
+        "crc32": "0b11133c"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 57).bin",
+      "filesize": 1178352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8ece5fe25f1ef59b71364c8adcfb1ad",
+        "sha1": "8cd9a9a22c20be8c829173841d6e81a61993310f",
+        "crc32": "32813fc0"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 58).bin",
+      "filesize": 2196768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f12de3f43137ba044eb0af80afb398f4",
+        "sha1": "5ca366743fd4c6853622c9a438b63a48382e0b60",
+        "crc32": "a9f48da4"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 59).bin",
+      "filesize": 1190112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff9b3033f25869b2f8b6e8de6ae79e60",
+        "sha1": "043c3b75f8f3b00179d010f22ccd010806bed3e2",
+        "crc32": "c64ba9c2"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 60).bin",
+      "filesize": 1484112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "630de595a7fb21bef033cbff78f6fb9c",
+        "sha1": "43592e0985dac93a71479470318bb6304abf7c12",
+        "crc32": "9861cdae"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 61).bin",
+      "filesize": 3532704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "571ffa7534c8c8e0001822ed0dd1a415",
+        "sha1": "7473f2433a19b1a3561a4f163148c47f37d50e64",
+        "crc32": "8cc6941f"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 62).bin",
+      "filesize": 2100336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e92bb9eaa319ef4c5aea1e99bdfc0b66",
+        "sha1": "2d5cc1e3e8ffa44789f305517b5d5adcba39fc31",
+        "crc32": "7d423523"
+      }
+    },
+    {
+      "filename": "Air Combat (Europe) (EDC) (Track 63).bin",
+      "filesize": 42796992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6887669cfabddcf7c71fbca7821951c3",
+        "sha1": "7d5b95a36a5194f6391dd57a234a515db2e671da",
+        "crc32": "bfdf8a56"
+      }
+    }
+  ]
+}

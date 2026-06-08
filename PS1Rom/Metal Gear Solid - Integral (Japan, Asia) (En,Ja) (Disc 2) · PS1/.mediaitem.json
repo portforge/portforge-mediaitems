@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid - Integral (Japan, Asia) (En,Ja) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid - Integral (Japan, Asia) (En,Ja) (Disc 2).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad4a35d27dcf05da14ef07d70cee4518",
+        "sha1": "d9ad4e6ba99294ce0c352e23b0df08a7e8afe34e",
+        "crc32": "664f7e42"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid - Integral (Japan, Asia) (En,Ja) (Disc 2).bin",
+      "filesize": 745788624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7421e5bf758bd921f7ac39d8f4584f76",
+        "sha1": "bbc39508c20daf6cc6ced6725d93fb06f105c7a1",
+        "crc32": "b86566fd"
+      }
+    }
+  ]
+}

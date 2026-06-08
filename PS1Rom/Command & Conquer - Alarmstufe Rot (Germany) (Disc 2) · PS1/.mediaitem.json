@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alarmstufe Rot (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot (Germany) (Disc 2).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0ba04ce2a3aabbf532682b513db63caf",
+        "sha1": "45324fadc83471e6e33ec0f8205b4e86d942565d",
+        "crc32": "50a73791"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot (Germany) (Disc 2).bin",
+      "filesize": 731693088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37b5769816afd7726646841fe5f78670",
+        "sha1": "47b7ff8f6db993e8211eb51fb0a18e8e993e0ff9",
+        "crc32": "01a396b5"
+      }
+    }
+  ]
+}

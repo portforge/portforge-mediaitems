@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Klonoa - Door to Phantomile (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Klonoa - Door to Phantomile (Europe).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce045b1e60819b50f1437c258e2f221b",
+        "sha1": "2a6dede2c6a969015bfa135c12bbdee2bc02c6b9",
+        "crc32": "7e05595f"
+      }
+    },
+    {
+      "filename": "Klonoa - Door to Phantomile (Europe).bin",
+      "filesize": 741994848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68a636721afd9d3cc4923e924df5f6ae",
+        "sha1": "503e4b54011a6cf7f5437e537367f234871ceade",
+        "crc32": "91e34324"
+      }
+    }
+  ]
+}

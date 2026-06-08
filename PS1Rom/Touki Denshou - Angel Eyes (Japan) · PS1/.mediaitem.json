@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Touki Denshou - Angel Eyes (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Touki Denshou - Angel Eyes (Japan).cue",
+      "filesize": 494,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e8f392b8e8e0c7fa7f0ca3c9eb8b89e",
+        "sha1": "705aefdb6d48201d9677a585c7e0bc5d50b4dd43",
+        "crc32": "5e77a037"
+      }
+    },
+    {
+      "filename": "Touki Denshou - Angel Eyes (Japan) (Track 1).bin",
+      "filesize": 385864416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5263f5c4255d9775687b827f57d9c7a",
+        "sha1": "a26618665c9edf7456df9f764f663e9fa74d2741",
+        "crc32": "f55d48ad"
+      }
+    },
+    {
+      "filename": "Touki Denshou - Angel Eyes (Japan) (Track 2).bin",
+      "filesize": 14909328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddb00e84069bacfa86544eac21c772ff",
+        "sha1": "2ab8542f0fbdf631f8513003b1080331484246d4",
+        "crc32": "02f4c42c"
+      }
+    },
+    {
+      "filename": "Touki Denshou - Angel Eyes (Japan) (Track 3).bin",
+      "filesize": 2620128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55dc618b98f03c0613c129adc1702b2d",
+        "sha1": "ffde3bd7a2d2ee903109b1d3a2f3257cf4986260",
+        "crc32": "177160a3"
+      }
+    },
+    {
+      "filename": "Touki Denshou - Angel Eyes (Japan) (Track 4).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947f682e2ceb918118e1bfe6b6355105",
+        "sha1": "d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0",
+        "crc32": "24cad39b"
+      }
+    }
+  ]
+}

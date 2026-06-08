@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Umihara Kawase Shun - Second Edition (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Umihara Kawase Shun - Second Edition (Japan).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c149f207341e1ab8cee1d44ba2c10b4",
+        "sha1": "a47ce693be66a113353e0d501bc7305acf89ccce",
+        "crc32": "17c987a9"
+      }
+    },
+    {
+      "filename": "Umihara Kawase Shun - Second Edition (Japan) (Track 1).bin",
+      "filesize": 82291776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "497b864f44a0578f7cdcbc4a54fe5577",
+        "sha1": "08f681f71ad41a46ce3b8c4b1246b6a5f8f8210e",
+        "crc32": "b8374d2a"
+      }
+    },
+    {
+      "filename": "Umihara Kawase Shun - Second Edition (Japan) (Track 2).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a57d0c0c00a1df88934c3e2eec6f8d0",
+        "sha1": "db68bf3349ece8300d06e45037431773edd5ae25",
+        "crc32": "72dbee1e"
+      }
+    }
+  ]
+}

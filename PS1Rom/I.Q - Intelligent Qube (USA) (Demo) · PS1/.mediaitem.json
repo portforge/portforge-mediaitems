@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "I.Q - Intelligent Qube (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "I.Q - Intelligent Qube (USA) (Demo).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7718cfb1eb0d5cc710cae90f376a3362",
+        "sha1": "d1ead4ff7030bcca7b372c29c760e76e9140fec8",
+        "crc32": "47b17c6f"
+      }
+    },
+    {
+      "filename": "I.Q - Intelligent Qube (USA) (Demo).bin",
+      "filesize": 49787136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99ea20cba3d500e09bdb80126e1ed206",
+        "sha1": "e6be274a4cab73d07eef90ea73c34f8a26893650",
+        "crc32": "354cb360"
+      }
+    }
+  ]
+}

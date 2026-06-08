@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider - The Last Revelation (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider - The Last Revelation (Europe, Australia).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a627d99493d566a40d4bab94a656344",
+        "sha1": "849eaf86246f4c5b4752d878a750fb7c0eb0e594",
+        "crc32": "7d6ae88b"
+      }
+    },
+    {
+      "filename": "Tomb Raider - The Last Revelation (Europe, Australia).bin",
+      "filesize": 737951760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0e980d38bbb4b40b27b4ee2fbbefb06",
+        "sha1": "79ee303cb8c34bbc150c55ce02f90297918d6f5f",
+        "crc32": "6d33bf1c"
+      }
+    }
+  ]
+}

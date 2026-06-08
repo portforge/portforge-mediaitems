@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Goofy's Fun House (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Goofy's Fun House (Germany).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "198e6179bedc89b3d36071341ba0138d",
+        "sha1": "c6ea87bf06e921f6f12724d48e490165980acbe8",
+        "crc32": "f62b5c09"
+      }
+    },
+    {
+      "filename": "Disney's Goofy's Fun House (Germany).bin",
+      "filesize": 675913056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "198813a523d5faacac8065518f964b4b",
+        "sha1": "4159004c77997942ed79c8b038347391e6d9b765",
+        "crc32": "6a6b9b2e"
+      }
+    }
+  ]
+}

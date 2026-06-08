@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zen Nihon Pro Wres - Ouja no Tamashii (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zen Nihon Pro Wres - Ouja no Tamashii (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "76e20b964e383a44bd7bb7b040111cf3",
+        "sha1": "6d923fe0b45fd832504d1f6c8d31640550e6362d",
+        "crc32": "0eb66037"
+      }
+    },
+    {
+      "filename": "Zen Nihon Pro Wres - Ouja no Tamashii (Japan).bin",
+      "filesize": 498751008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3f0cbf189938792f4af0b5356a75950",
+        "sha1": "1bc41b753496de3487538a68bbf49714001d7f03",
+        "crc32": "8ae69263"
+      }
+    }
+  ]
+}

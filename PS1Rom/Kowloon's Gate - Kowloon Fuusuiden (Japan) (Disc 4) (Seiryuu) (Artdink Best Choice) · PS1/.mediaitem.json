@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 4) (Seiryuu) (Artdink Best Choice)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 4) (Seiryuu) (Artdink Best Choice).cue",
+      "filesize": 149,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c25d7bd81a493410f277296b3734cea",
+        "sha1": "676e9b3f0b16221dfed2efec141b9f609c61b884",
+        "crc32": "4a257d94"
+      }
+    },
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 4) (Seiryuu) (Artdink Best Choice).bin",
+      "filesize": 718841760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4648d9f1135623e232a0ec9c07fbb6b7",
+        "sha1": "49d74a0b60d6358b13ac937a0fc4d2549c1cb3be",
+        "crc32": "834e48cf"
+      }
+    }
+  ]
+}

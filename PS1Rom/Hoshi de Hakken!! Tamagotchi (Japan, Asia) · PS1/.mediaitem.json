@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hoshi de Hakken!! Tamagotchi (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hoshi de Hakken!! Tamagotchi (Japan, Asia).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a2d54941e0b6c2611e4bff699b18ea9",
+        "sha1": "f3f5db0e29065e7947213a9a7dd75b39cc433d7a",
+        "crc32": "6684827a"
+      }
+    },
+    {
+      "filename": "Hoshi de Hakken!! Tamagotchi (Japan, Asia).bin",
+      "filesize": 200277504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e43b224f09f19e46a31d29b712f5dc0d",
+        "sha1": "e806b6c0ba8654e0367103031db8deeadceeca6a",
+        "crc32": "c3832377"
+      }
+    }
+  ]
+}

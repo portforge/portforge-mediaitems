@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De).cue",
+      "filesize": 462,
+      "ext": "cue",
+      "checksums": {
+        "md5": "222e67a229c201a7176a2aecc28817d0",
+        "sha1": "e270c84a624599936958ec77032d84978e5eaa24",
+        "crc32": "68eb2edc"
+      }
+    },
+    {
+      "filename": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 75548592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edc7628d650f9b137a5cbda2935c00ce",
+        "sha1": "ae3e6e5f1d48fc3451842c99ec78a0e2bdbfdeb3",
+        "crc32": "28fb1da4"
+      }
+    },
+    {
+      "filename": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 7564032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4006812ebe8d8c1db5f72b1e1e2e9615",
+        "sha1": "612a4459a93d3f8f344cd96ee5bcd77e0d702638",
+        "crc32": "04106c08"
+      }
+    },
+    {
+      "filename": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De) (Track 3).bin",
+      "filesize": 618105600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8ef4aa0abc807ce56c66bc675cdf633",
+        "sha1": "5f3a937b61a71ce6fc8b00f6e89d6ff8a5db3e19",
+        "crc32": "965cf585"
+      }
+    }
+  ]
+}

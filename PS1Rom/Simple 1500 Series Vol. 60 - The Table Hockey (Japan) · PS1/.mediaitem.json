@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 60 - The Table Hockey (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 60 - The Table Hockey (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e63772bfa4033facf2f93cf86a4470fe",
+        "sha1": "37a28278c0f94ea35d47d81cc3143a978980925f",
+        "crc32": "116df190"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 60 - The Table Hockey (Japan).bin",
+      "filesize": 97299888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "879578491cf6def3b6dc349235e03fd5",
+        "sha1": "0d414a0868c812848ee88a9ae8df8176db5bc486",
+        "crc32": "4fc1269f"
+      }
+    }
+  ]
+}

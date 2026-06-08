@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vampire Hunter D (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vampire Hunter D (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a01bff08046324d1839d6f4f80fc07f",
+        "sha1": "b121e0925c1530d75a6054a1d212172c495e0ea3",
+        "crc32": "0f1e420c"
+      }
+    },
+    {
+      "filename": "Vampire Hunter D (USA).bin",
+      "filesize": 480090240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd407c8ed63f6e1e69f95769946b32d0",
+        "sha1": "a4b43839e2abd4ac626434c801fbea0a09ab3f88",
+        "crc32": "3b3a7e3a"
+      }
+    }
+  ]
+}

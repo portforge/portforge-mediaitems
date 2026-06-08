@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bio Hazard (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bio Hazard (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b954aa99bdf88068ea9d27693ce24094",
+        "sha1": "1cac7b9e7093f3a471cd11fdb3fae35888281d50",
+        "crc32": "ab679678"
+      }
+    },
+    {
+      "filename": "Bio Hazard (Japan).bin",
+      "filesize": 736832208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "928aa5caacee19d3c2720c6cb0acd941",
+        "sha1": "17aa7888ea5f7cd8680b8fdef35a8c7f63001c73",
+        "crc32": "c3279de1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pocke-Kano - Aida Yumi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pocke-Kano - Aida Yumi (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4152b09050b0dc699acda8f14a0ffe27",
+        "sha1": "42013a7fc7fa8af08508bd8967d409167fc982a9",
+        "crc32": "667b634b"
+      }
+    },
+    {
+      "filename": "Pocke-Kano - Aida Yumi (Japan).bin",
+      "filesize": 405103776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e90c7c9752e77cd07d36a37dc0a4204",
+        "sha1": "05afb105eadefcc1a2288c26aa75a4547798a072",
+        "crc32": "237ddd14"
+      }
+    }
+  ]
+}

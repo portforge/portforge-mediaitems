@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Daisenryaku - Player's Spirit (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Daisenryaku - Player's Spirit (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61a0caef65390d7d1e42db038de98925",
+        "sha1": "bfb6ad2b9182d69c4992505d42bdc44298743f1e",
+        "crc32": "2b1d37de"
+      }
+    },
+    {
+      "filename": "Daisenryaku - Player's Spirit (Japan).bin",
+      "filesize": 259879536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bdaf2b444a9744799d65e995759a7d3b",
+        "sha1": "db68e3cc9ab353ddd3a5e6272514ca5416d0c9c8",
+        "crc32": "251cce7a"
+      }
+    }
+  ]
+}

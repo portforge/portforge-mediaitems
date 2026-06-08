@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monster Punish (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monster Punish (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f2184138fb5326939b766bc9540fd93",
+        "sha1": "25fff890da913efb2987afa3c78ffaf8b36ccae0",
+        "crc32": "b2c25f91"
+      }
+    },
+    {
+      "filename": "Monster Punish (Japan).bin",
+      "filesize": 119361648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75c79de8252a175c446c54355333452b",
+        "sha1": "3c5ddee1e27bf0bd534aa6f9c0bd7b20f5faf17f",
+        "crc32": "014191ec"
+      }
+    }
+  ]
+}

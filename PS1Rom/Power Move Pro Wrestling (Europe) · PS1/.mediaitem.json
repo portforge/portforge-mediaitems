@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Move Pro Wrestling (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Move Pro Wrestling (Europe).cue",
+      "filesize": 871,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5cca22654b53ef54b0cd8eb92ec866ad",
+        "sha1": "75f68f345ddc0c69f8575743cda2d1b2ed757734",
+        "crc32": "0f1ef16e"
+      }
+    },
+    {
+      "filename": "Power Move Pro Wrestling (Europe) (Track 1).bin",
+      "filesize": 167866944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2053f43b93a978175b71352d06233ca5",
+        "sha1": "cd1ef8c5beb5334ce17d2b0c7a4bbd35d5b05ccd",
+        "crc32": "8881e569"
+      }
+    },
+    {
+      "filename": "Power Move Pro Wrestling (Europe) (Track 2).bin",
+      "filesize": 11089680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76568de691dfbed39a14c2a230322d2e",
+        "sha1": "038e2841d994e3ab23d15593312eac9bb714daf1",
+        "crc32": "cb7daa33"
+      }
+    },
+    {
+      "filename": "Power Move Pro Wrestling (Europe) (Track 3).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a5c3ec12403be615529b7be4f6a2f9b",
+        "sha1": "98206a6464785900d95993d9a7503e5897151e41",
+        "crc32": "751132ea"
+      }
+    },
+    {
+      "filename": "Power Move Pro Wrestling (Europe) (Track 4).bin",
+      "filesize": 26551728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba191bdc793a4e88c3666fc3aa643ac5",
+        "sha1": "4e023cc1ae4d5a665fd58f0f0e1d949309044376",
+        "crc32": "dc4d972e"
+      }
+    },
+    {
+      "filename": "Power Move Pro Wrestling (Europe) (Track 5).bin",
+      "filesize": 21400848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c0c2e6f7e78cc2685b3f78a28491bea",
+        "sha1": "ccba3862304aed3448b8a35d141e605c85a98797",
+        "crc32": "710ac651"
+      }
+    },
+    {
+      "filename": "Power Move Pro Wrestling (Europe) (Track 6).bin",
+      "filesize": 25916688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f92276e4d1f405d12a36e2c43ecbb313",
+        "sha1": "2876ae1b1f760c7d810f9d4c6fd1820e9f4eb85b",
+        "crc32": "57ce467d"
+      }
+    },
+    {
+      "filename": "Power Move Pro Wrestling (Europe) (Track 7).bin",
+      "filesize": 34216896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0698b7d2dda951e9cb9a29a21515095a",
+        "sha1": "4cc85af8c110ff7f4b223d259f3a6207486b6560",
+        "crc32": "865c7c33"
+      }
+    }
+  ]
+}

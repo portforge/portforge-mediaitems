@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Equalizer Xtreme Ver 4.2 (Germany) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Equalizer Xtreme Ver 4.2 (Germany) (Unl).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c26b384cbb7cdff4d6682ab34d060a55",
+        "sha1": "4bb7ffaaf8082131f693838c640c3ae15409cd33",
+        "crc32": "7541cea6"
+      }
+    },
+    {
+      "filename": "Equalizer Xtreme Ver 4.2 (Germany) (Unl).bin",
+      "filesize": 97647984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d2303d371beb7a349ca628fdc909cac",
+        "sha1": "defa9572dbf077bcae2aa16acc66054eabf3d656",
+        "crc32": "dbed5b03"
+      }
+    }
+  ]
+}

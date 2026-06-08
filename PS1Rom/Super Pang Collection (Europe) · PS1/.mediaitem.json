@@ -1,0 +1,627 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Pang Collection (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Pang Collection (Europe).cue",
+      "filesize": 7607,
+      "ext": "cue",
+      "checksums": {
+        "md5": "156eb61afbef00581e70c5c0f5f1302e",
+        "sha1": "c11d680e6aae2119a2ed584df677ba3871da6e7a",
+        "crc32": "c023b014"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 01).bin",
+      "filesize": 15960672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7e7e7db671c5d26edc37716464d4400",
+        "sha1": "29085ca529b2b503cb9867e646a1b112b4fb3e95",
+        "crc32": "e63e1c6a"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 02).bin",
+      "filesize": 6722016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a59e2d07d1f03e3d06ed7f77c664a49",
+        "sha1": "c6c2ab5a02a2767329c28b8c104aa26829f47983",
+        "crc32": "d32e6e73"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 03).bin",
+      "filesize": 5355504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e6464f927cd3c1ffeea3700e41bdb6f",
+        "sha1": "c98d5d980b04e0c0f47d3479fac2796b247756ff",
+        "crc32": "ad945edd"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 04).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb1691d56eade7d0d07ec1c9dbde239a",
+        "sha1": "44c0284d0ff0b2a386a5556d8c87c3f38161f606",
+        "crc32": "a029acb0"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 05).bin",
+      "filesize": 1843968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55e2df0671114169a0ac3c9849b4a6d8",
+        "sha1": "f2479a12cb7b7b1a8b060521758108ade25fde6c",
+        "crc32": "c9d3469e"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 06).bin",
+      "filesize": 9694944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "886fa5ac739c33ec0fa7028a12fff7d7",
+        "sha1": "0b0b55778f66c8968415d2529c7c8588c712d6f9",
+        "crc32": "b026a7a4"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 07).bin",
+      "filesize": 1333584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1f2535b571bcd9e0fca601883cf51fe",
+        "sha1": "731137d5ac48f12086504853e1cc36de754103fa",
+        "crc32": "c59489cf"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 08).bin",
+      "filesize": 10217088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5420f712fd885c2711f7ca39a8e80794",
+        "sha1": "94af425280ec58746bfa7967cd5225d313423d04",
+        "crc32": "6f0289af"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 09).bin",
+      "filesize": 9699648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f09088d0b70011ce5ba16af0f51b15a4",
+        "sha1": "77a85ce5b0fedd54e1956fea37265ca599a8a451",
+        "crc32": "1588e2b5"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 10).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "349d111d07051ccb5c9adda73a45f5a0",
+        "sha1": "4df75adfcaf8c57563aa4820b535c269ef0d5299",
+        "crc32": "bd742565"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 11).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebf51b0e0123bd50b0f44ed2c65edc3a",
+        "sha1": "e8815c2f2f51dcfbe7d82947098fb1087abb4e26",
+        "crc32": "fb90249b"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 12).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df1c22c05b2eada613670aeb27f8a880",
+        "sha1": "5493dc7df69360f17649afd446ca80d037be1c20",
+        "crc32": "07fb0bbc"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 13).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76e74ec7e998c86919c9e3a82ed3964a",
+        "sha1": "6801948fe30511073f0f66f4f7bb482fe5c74f4d",
+        "crc32": "0190990b"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 14).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5882fe45f515e5d2bb8ab40932e97af2",
+        "sha1": "4deafc8116fdb4cd8c984947a2e0fc0cd7524895",
+        "crc32": "728ca7a3"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 15).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6315caf05a12d65a7a6c4970f42a5c14",
+        "sha1": "bd04fa112a961027a7edd5598bf6f7a133df72ce",
+        "crc32": "4be40cdc"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 16).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebefd1ccddc385ce265e6b586fe43737",
+        "sha1": "556969004ff7ff17ea0b13b19a2a7d61ab54c885",
+        "crc32": "e5dfa366"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 17).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1fc32b2a5a66e8d925124e1c78ba1b9",
+        "sha1": "6f61bd0fa303445745811ac812d0c68d5a3b62ad",
+        "crc32": "635f950d"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 18).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c466dd2e04103a55417a34398c1eb50b",
+        "sha1": "8e52376ed394f5e89c8a13be541ff7038bdf7c77",
+        "crc32": "6e85f18a"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 19).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07458b17576fddf67eb471317dff46ea",
+        "sha1": "580a69308feef733281ad3f882a5689a11877620",
+        "crc32": "cbc168e0"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 20).bin",
+      "filesize": 9177504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cc14c8389297eb3937ff02680cd9ac7",
+        "sha1": "eeabfd0d0ab9391e30bc398c3dfb3f65574171f2",
+        "crc32": "cc57d857"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 21).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9511944ca95ac886b61a2d5b853afb1c",
+        "sha1": "f3237d206a255e2437292c22a2743822a647d2b9",
+        "crc32": "a138153a"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 22).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2968b1d5b0536abd466f890fa3aaa5ec",
+        "sha1": "99737a249121c9d3f59796fecf159937a88ee488",
+        "crc32": "702a6127"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 23).bin",
+      "filesize": 9170448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe26cd57973f11c51d690f01ca55d736",
+        "sha1": "d1a3c2686d044e8b85a2968734b2ae45f756ebb6",
+        "crc32": "b9178cd2"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 24).bin",
+      "filesize": 8991696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe2cbee56c383578031951e500aa6f95",
+        "sha1": "fb71e2a869e97bac14a3f1b375f6e073507201d4",
+        "crc32": "def7243a"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 25).bin",
+      "filesize": 9177504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c6b6633cea1c4b7a60e24c6bbc35e6a",
+        "sha1": "37f80e17a155e1646a0831ad32bbf8fc9a555b8a",
+        "crc32": "9b6cf04c"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 26).bin",
+      "filesize": 9177504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "add1ee11b26d17ebe0b000144361579f",
+        "sha1": "756532c9472c08b02c0b686725ad54344870fbe1",
+        "crc32": "1183c3f0"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 27).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15eb9b2ecb24257505d51d22b8112cef",
+        "sha1": "6b565103d69c286d2333437fbe1307a4b15fa075",
+        "crc32": "20d84c0d"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 28).bin",
+      "filesize": 9177504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6ead9c89e9159a7ec0165fca63fd32a",
+        "sha1": "92a6a340801ac7c9655a9c6a7d4821929395321c",
+        "crc32": "0157e25d"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 29).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "def0ad3065cbca9b5d1751c4062ad69b",
+        "sha1": "9a0bf9be494920e8214d13e1aa7e832a48dac313",
+        "crc32": "766cc64a"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 30).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69eaa737a5a54d702fccb2d427a37b68",
+        "sha1": "80d31be5230aa9134ed6a0a6a1230bcf4094f931",
+        "crc32": "62fe384f"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 31).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34b4126ad98cdca27e00da1c9a83dbd1",
+        "sha1": "bcf015b7310daf613dcffb0b57d6e9d0ef281a9b",
+        "crc32": "10668acf"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 32).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d02a91be8e6ce6a822e0bef915f23a17",
+        "sha1": "60bafa63285eda7df13d001db8bef46bde09526b",
+        "crc32": "25e78cd0"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 33).bin",
+      "filesize": 9184560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b01e0b2f0324974a461dc38c72b89de",
+        "sha1": "a86afa9c37659551f6c7e433b9142fbae64a6aae",
+        "crc32": "5a5e3e04"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 34).bin",
+      "filesize": 6319824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47fa6194aba5392d97e0999ca688171a",
+        "sha1": "610830a6e37e7eda8d279368e8ecc4ad931afbc6",
+        "crc32": "93ec8994"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 35).bin",
+      "filesize": 3224592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e95955b573b61c2a481acdd3c1fdccb0",
+        "sha1": "fb1405a0a3c74841bf936b75e35cc17788554289",
+        "crc32": "98f2d41f"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 36).bin",
+      "filesize": 1359456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19fdd64e2f34e140154553cd7169fff0",
+        "sha1": "d3c8f3f0e720722a37b80907129c3f377343cb0a",
+        "crc32": "b5780185"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 37).bin",
+      "filesize": 6197520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2d856e67e60d30ca9fcba2bb3e21a0e",
+        "sha1": "c2eb4fc5b66f8e4362b11a3222f88d20c09cf34a",
+        "crc32": "87714719"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 38).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8e36f3dbcaad8f6145553b681317287",
+        "sha1": "8c3191157a3c1d565e97583a06ae23a58a1e858e",
+        "crc32": "c9359c25"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 39).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "696de3cad94086e86d64cbacdadadc8c",
+        "sha1": "581d56eefe515a4912f494fcc6f024409ae85153",
+        "crc32": "b6f147a8"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 40).bin",
+      "filesize": 1491168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbec46fe16098a0d0c1f9fcb7d1ce2e6",
+        "sha1": "6129a173f939c8cff12508e1bfd479a5a0cf7695",
+        "crc32": "db9b926d"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 41).bin",
+      "filesize": 10123008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81540ef0c25e58c2cb23571c95075383",
+        "sha1": "57a5d4e73c08bfd3a322836358f1957ad0f67ff3",
+        "crc32": "e86d6331"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 42).bin",
+      "filesize": 22804992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b44630d47a82d870822e236540a43920",
+        "sha1": "56c8bd6cdf37f66b6042a56e3ae3221e32804b01",
+        "crc32": "6995d2dc"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 43).bin",
+      "filesize": 9666720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56bb726373b1869b28feece36f576a13",
+        "sha1": "9e3395f257d59c16ad3fb9a94e69c67449d33be5",
+        "crc32": "da9568f3"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 44).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfc7d2383d09d936b8593aad89830152",
+        "sha1": "ddcbb622b893df718073ec0fe0610c37b955baeb",
+        "crc32": "d9d65e3a"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 45).bin",
+      "filesize": 2399040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ef1531efc33f59301044b334cf70f3f",
+        "sha1": "a90cec9b13ceb41030b4c58c3487a208e0a6c70a",
+        "crc32": "7da46b1c"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 46).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "247b33ef19298c1195c7ed2f75d305a2",
+        "sha1": "7b417526cef64143e662708d2a899583cb827eae",
+        "crc32": "4704ea4e"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 47).bin",
+      "filesize": 12703152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0821a17f218520412d828fa1e9a3ab0e",
+        "sha1": "7c10e29e857591a28b19f44ad01ba79054fdf18b",
+        "crc32": "5f28ef71"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 48).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba94c4e2ff205a1afa96d307a7963556",
+        "sha1": "8e693e4dd91b9fa00fe7fb892a61b302642d8f6b",
+        "crc32": "3a3ced3e"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 49).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da02abdf10f3b25ce6bd937a54502a3b",
+        "sha1": "40aa1731729716d324296abe4262519945bbe6d5",
+        "crc32": "59c93b4d"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 50).bin",
+      "filesize": 4191264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a252b4572f79c103dd0069c12071bf4f",
+        "sha1": "7c846b242a9fbbbd73d0f3a4b5c8666e9d59ff69",
+        "crc32": "4eab8cf3"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 51).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46ee538d342f803452aafcbd4be6b88c",
+        "sha1": "c0963f77693ccd117f0739735ed47406a40e545b",
+        "crc32": "20b7ab39"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 52).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c74eebd8a7841ad03c002e46040aa188",
+        "sha1": "fbee1add868644d91efb0024cf9dde7854f6f246",
+        "crc32": "7bf4bf9a"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 53).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eef504f0d095a75bbfaee75e97262161",
+        "sha1": "07e282f240c11a0222c82e7637e21995e30cdfd1",
+        "crc32": "7a1a39e4"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 54).bin",
+      "filesize": 12794880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ae63264cc33da57f0fceb0591e227dd",
+        "sha1": "d87ba5ef9f06f9a6459315598e904a853af3bd55",
+        "crc32": "5dcaaf8c"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 55).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1b2fccb9672cae5f48936fe6d65e780",
+        "sha1": "9ed0cf97048539d6298ac13aaebc69c26471086e",
+        "crc32": "d84d2400"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 56).bin",
+      "filesize": 9172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c103aacb93b2f216a818b2799ed15683",
+        "sha1": "d33100015a4d7ec2e56bc435d425013028295aed",
+        "crc32": "27eff367"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 57).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfdd7accbeaf0ec7df8a5f4320a937c7",
+        "sha1": "2f78f90653a9813ed75d404ef6e56778c4bd6698",
+        "crc32": "b0933f44"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 58).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbeaab8615a5244ea569bc247459f881",
+        "sha1": "a300e5b49e98db6d4ce017f5b37fd76641cca1f4",
+        "crc32": "7777ce03"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 59).bin",
+      "filesize": 9175152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "530416d364e34b7a6338b916925077d8",
+        "sha1": "c58dd6bf64750778b56f33a7f849912a45add138",
+        "crc32": "83a2944f"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 60).bin",
+      "filesize": 7408800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9794ff2b508fe18f70921bf587dc7b2",
+        "sha1": "21d468c3d7dbadcaf5acab547a67107484319d2c",
+        "crc32": "3bd18a9d"
+      }
+    },
+    {
+      "filename": "Super Pang Collection (Europe) (Track 61).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

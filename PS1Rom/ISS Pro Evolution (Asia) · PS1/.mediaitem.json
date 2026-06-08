@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ISS Pro Evolution (Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ISS Pro Evolution (Asia).cue",
+      "filesize": 1590,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b653cb66ee7ced1c9b862758f24798f",
+        "sha1": "41280d79f0a50df4d398b7b63cb1de51c738e3ea",
+        "crc32": "b1b2dfcc"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 01).bin",
+      "filesize": 216739152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a68310758dd432b714c23b1c7053ea47",
+        "sha1": "ee1315b3fd1e4fff327793d62b6dbc198a977d07",
+        "crc32": "6bf16e3a"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 02).bin",
+      "filesize": 7023072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01240f63ab163b77dcef47e58a09c738",
+        "sha1": "f215db8574f591dbee8dcc95261513399becf2ee",
+        "crc32": "1fec2e9a"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 03).bin",
+      "filesize": 16962624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee9660bbe28ddb72ece9afe4d80e8b47",
+        "sha1": "de68319827b92ad02dad169058beaf823ee9a931",
+        "crc32": "357f7393"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 04).bin",
+      "filesize": 4534656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01ce18227be1c0743ef7878346c1cd47",
+        "sha1": "9ede3c7701965a21c9c7182e5cbe59c1d7c70968",
+        "crc32": "f3806032"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 05).bin",
+      "filesize": 18084528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8923adddda553a95f719b2b800b5cc27",
+        "sha1": "acfd1c98e1ee512ef9043183fa5f6f7a75ca36ab",
+        "crc32": "a06b85be"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 06).bin",
+      "filesize": 17164896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcd36849bf6bf06b9cd322ec73eb02c6",
+        "sha1": "6b2c5dce1b02c01810631eedaf49074f4ea0f808",
+        "crc32": "8b281741"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 07).bin",
+      "filesize": 19020624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57d9f73166f8f74bd9fd1203aefaae94",
+        "sha1": "aafad822d71fc1fb4164483d43784dbee2c71278",
+        "crc32": "5a217a89"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 08).bin",
+      "filesize": 20556480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14fc9c37b11eaf0d22db6cc210c95015",
+        "sha1": "a122ff7562233ad9456a1174e799f821afd2fa41",
+        "crc32": "a1ef2a4a"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 09).bin",
+      "filesize": 19864992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9aae344bae2c69e8d113147214254c8b",
+        "sha1": "a06e64b599ac5ec132a3532b97ae0962a720a085",
+        "crc32": "da91b98f"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 10).bin",
+      "filesize": 25458048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2490c48d9183d60652118ab767d5ae42",
+        "sha1": "22f91edb96518a0350dd47c19e764351b8beea75",
+        "crc32": "6835bbac"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 11).bin",
+      "filesize": 1100736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a05c1aed7f8eeec09c860ee6adbe9d79",
+        "sha1": "13d7bf70a45dc35df9b4d67c3e00df8890d2e1f7",
+        "crc32": "838f9a7b"
+      }
+    },
+    {
+      "filename": "ISS Pro Evolution (Asia) (Track 12).bin",
+      "filesize": 41164704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "936d6b10fefcccc4e3f624aa6e42192b",
+        "sha1": "d013fe69d313b2406c9b199f413761adf8cf7914",
+        "crc32": "ac481053"
+      }
+    }
+  ]
+}

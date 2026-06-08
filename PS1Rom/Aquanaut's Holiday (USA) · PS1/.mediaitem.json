@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aquanaut's Holiday (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aquanaut's Holiday (USA).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbe6f879d19e2f630eccd97723371b69",
+        "sha1": "5ca548be08101188b2e0f14ef26fa46c30bc44e9",
+        "crc32": "c2a8eaf6"
+      }
+    },
+    {
+      "filename": "Aquanaut's Holiday (USA) (Track 1).bin",
+      "filesize": 170395344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f55d1392dc16ba78d297f8b5685710ca",
+        "sha1": "60c83b7c9e186e7dcb008ee1c40b3a9f2ff1b985",
+        "crc32": "ddafcfd5"
+      }
+    },
+    {
+      "filename": "Aquanaut's Holiday (USA) (Track 2).bin",
+      "filesize": 44800896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "972ba941e45f94498158e596a8f06b51",
+        "sha1": "60ddf5199e76e23726a82d750cf2e59693cdc34f",
+        "crc32": "8cc2aca4"
+      }
+    }
+  ]
+}

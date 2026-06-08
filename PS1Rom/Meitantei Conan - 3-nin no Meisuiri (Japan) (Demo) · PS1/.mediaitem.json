@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Meitantei Conan - 3-nin no Meisuiri (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Meitantei Conan - 3-nin no Meisuiri (Japan) (Demo).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b557a0eb051460dbac17b568b8155c1",
+        "sha1": "468db8530d472e626236ae0ef008e698074f0b96",
+        "crc32": "0b9038c6"
+      }
+    },
+    {
+      "filename": "Meitantei Conan - 3-nin no Meisuiri (Japan) (Demo).bin",
+      "filesize": 340221504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8cb63fbaaa7e5cdebf24a7465f246be",
+        "sha1": "4774bae0944a8b49a4f468608ffaa4b725f86774",
+        "crc32": "578fffff"
+      }
+    }
+  ]
+}

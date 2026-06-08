@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CTR - Crash Team Racing (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CTR - Crash Team Racing (USA) (Demo).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3dddd81ec6c55f2a50e937c7c9160e28",
+        "sha1": "b9db0affb81b246400d6d2ae1ec03b23b9e25a75",
+        "crc32": "a790c345"
+      }
+    },
+    {
+      "filename": "CTR - Crash Team Racing (USA) (Demo) (Track 1).bin",
+      "filesize": 102420192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab350855944c8d5e0614e2273dbfe4c6",
+        "sha1": "24f5750160edde28e352d88fd47db0b94adaaa6d",
+        "crc32": "9087d950"
+      }
+    },
+    {
+      "filename": "CTR - Crash Team Racing (USA) (Demo) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

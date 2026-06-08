@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chevaliers de Baphomet, Les (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chevaliers de Baphomet, Les (France).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1619dfaba7439baf5f442c770a84e0d",
+        "sha1": "4e482c6a509d72662d5597847949125582c2218b",
+        "crc32": "ecb1923b"
+      }
+    },
+    {
+      "filename": "Chevaliers de Baphomet, Les (France).bin",
+      "filesize": 511237776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1050469711087cea46de676a3c9314f6",
+        "sha1": "bb6318d1f1e8c20d8789e69d80523bbcf28cee83",
+        "crc32": "f2dded33"
+      }
+    }
+  ]
+}

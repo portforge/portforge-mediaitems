@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sky Sports Football Quiz - Season 02 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sky Sports Football Quiz - Season 02 (Europe).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7c0f74b7ff6dd7f8bbfe20c2d492780",
+        "sha1": "2c1c697914202426b8efe33030ccc81a2dce59b0",
+        "crc32": "49f52c69"
+      }
+    },
+    {
+      "filename": "Sky Sports Football Quiz - Season 02 (Europe).bin",
+      "filesize": 266693280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fedb90b048bb084861891705f6a55148",
+        "sha1": "dfceae96947fe1b4abc3b249d3442989a42a0b08",
+        "crc32": "64118e7c"
+      }
+    }
+  ]
+}

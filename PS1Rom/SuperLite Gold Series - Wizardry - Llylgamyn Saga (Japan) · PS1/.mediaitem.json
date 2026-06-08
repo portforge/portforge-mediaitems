@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite Gold Series - Wizardry - Llylgamyn Saga (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite Gold Series - Wizardry - Llylgamyn Saga (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "07f4d051da7c08f8b3f483d04363d0ba",
+        "sha1": "b212d360db85dcdea2e79a848be66e86926c6208",
+        "crc32": "770b2a58"
+      }
+    },
+    {
+      "filename": "SuperLite Gold Series - Wizardry - Llylgamyn Saga (Japan).bin",
+      "filesize": 436822848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe211472c1b051ebad03f9afab0f666b",
+        "sha1": "e1c1a85e7b22db8a35c7bec96e1c3da7b5c7ff0f",
+        "crc32": "6f311c54"
+      }
+    }
+  ]
+}

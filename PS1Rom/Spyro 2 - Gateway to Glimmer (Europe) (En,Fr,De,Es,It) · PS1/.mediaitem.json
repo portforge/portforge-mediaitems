@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro 2 - Gateway to Glimmer (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro 2 - Gateway to Glimmer (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "76213dc79c2de6861916fc9775e43a7d",
+        "sha1": "755818a3b4967e1e458313711f71d3c973245e7d",
+        "crc32": "1a192ec2"
+      }
+    },
+    {
+      "filename": "Spyro 2 - Gateway to Glimmer (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 747300960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddfa3b76033fa95f424b6f8ea5d972a8",
+        "sha1": "c394b2d061b7ea6f693275f92a622191db57c7e5",
+        "crc32": "d7443009"
+      }
+    }
+  ]
+}

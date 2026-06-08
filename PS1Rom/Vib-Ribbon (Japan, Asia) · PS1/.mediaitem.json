@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vib-Ribbon (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vib-Ribbon (Japan, Asia).cue",
+      "filesize": 926,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a4ef4503de637bf2d36e6a75f74a9af",
+        "sha1": "751d0556710abca84f32718f8898ca863348ce4f",
+        "crc32": "8b4a6f0d"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 1).bin",
+      "filesize": 8104992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e116bccbc0828e45d7b3f19234cd3670",
+        "sha1": "1afb6ccb164627aafb290f88cef0270648b03b75",
+        "crc32": "99111642"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 2).bin",
+      "filesize": 28402752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7c106e648f1bcd50c4cb30bbbe090fc",
+        "sha1": "f5df84834bcde12a138cd4caf7357a93187d3c60",
+        "crc32": "bb75f4b6"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 3).bin",
+      "filesize": 27099744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd0d6d210a4205467a59239e66272684",
+        "sha1": "345d95e6a19d7f08f6d0446fd54dce2a5769dda0",
+        "crc32": "7aad0868"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 4).bin",
+      "filesize": 26885712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d792e7f953eeb38d4e55a8fc7a8e8341",
+        "sha1": "79ed83f13674adb78432d2162c186ec3426b1749",
+        "crc32": "465bc832"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 5).bin",
+      "filesize": 27299664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "886a6dc752e845cea019c2e9a68e46d4",
+        "sha1": "39a2a57f8c0315dd8af218da96d3c64dfc0b470a",
+        "crc32": "65669a7d"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 6).bin",
+      "filesize": 29345904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d69c085840ba91c51addd965b2de2cc7",
+        "sha1": "0bdacd95eb01fe815cba382dcb7c02f2dffc1d32",
+        "crc32": "fb5d0fc6"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 7).bin",
+      "filesize": 27000960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b4ed43ffc86b070b54109f0dfb43b8e",
+        "sha1": "7fd2790acbc48eed500ea88c27e3e35246ce5ab8",
+        "crc32": "b25112d4"
+      }
+    },
+    {
+      "filename": "Vib-Ribbon (Japan, Asia) (Track 8).bin",
+      "filesize": 32403504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9e0cad17a65497509f346fb0a63735b",
+        "sha1": "02e7fc3064bed5afbc88cb911882bcbdb37e4a76",
+        "crc32": "5534d35d"
+      }
+    }
+  ]
+}

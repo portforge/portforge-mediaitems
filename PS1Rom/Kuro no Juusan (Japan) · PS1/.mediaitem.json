@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kuro no Juusan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kuro no Juusan (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f795d4a74d02ca7d9200eec1ef1358f",
+        "sha1": "12bd24a52a378eb031671cd7c2c1f5a75bcfe768",
+        "crc32": "93b3fa8e"
+      }
+    },
+    {
+      "filename": "Kuro no Juusan (Japan).bin",
+      "filesize": 429073008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6baeb9e43dff1cccfe9f94bcdd8f4dc5",
+        "sha1": "a7997386ba6c884f3fce23dd00240a277da1426e",
+        "crc32": "47389730"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Three Decoders 1, The - Riddle of the Ring (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Three Decoders 1, The - Riddle of the Ring (USA).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f83662acac0a8d725448bdce6e154fab",
+        "sha1": "9d472ddd45757db352f0af3e0dc22554010142b5",
+        "crc32": "811008ab"
+      }
+    },
+    {
+      "filename": "Three Decoders 1, The - Riddle of the Ring (USA).bin",
+      "filesize": 253627920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de9e59806b39f61a5383b746141fce1c",
+        "sha1": "2a27670e2286da92a31069f507b041e13fb64fc9",
+        "crc32": "26add367"
+      }
+    }
+  ]
+}

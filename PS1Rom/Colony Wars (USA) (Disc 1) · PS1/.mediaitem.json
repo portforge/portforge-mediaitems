@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars (USA) (Disc 1).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac04912b62b3d5377415d9fc15f45a9b",
+        "sha1": "703ac60fef651e9fe7815501a0de8b7ab6d1bf1f",
+        "crc32": "ad500321"
+      }
+    },
+    {
+      "filename": "Colony Wars (USA) (Disc 1) (Track 1).bin",
+      "filesize": 525650832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d2bf0efa439a02fe95520ebb0ec26ea",
+        "sha1": "5ad8f6a62f9772b0725477e365489f8efabc1371",
+        "crc32": "01ca7e95"
+      }
+    },
+    {
+      "filename": "Colony Wars (USA) (Disc 1) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

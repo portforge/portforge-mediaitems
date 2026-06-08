@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sengoku Mugen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sengoku Mugen (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4fdf3612a003c4a951320222c2dbb184",
+        "sha1": "58a1c926e968e0c97a7e9a1345b3b0ce938b6cc9",
+        "crc32": "46f21aaf"
+      }
+    },
+    {
+      "filename": "Sengoku Mugen (Japan).bin",
+      "filesize": 152741232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "161243165b06c023de53cb1f569f5d0a",
+        "sha1": "f3d2674af4619b09fbbe762b37b215eb1fd64566",
+        "crc32": "f8730278"
+      }
+    }
+  ]
+}

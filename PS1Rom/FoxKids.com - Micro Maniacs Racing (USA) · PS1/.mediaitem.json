@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FoxKids.com - Micro Maniacs Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FoxKids.com - Micro Maniacs Racing (USA).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ca686748bb10b7180ae224b34e36b9c8",
+        "sha1": "02059c37097945d2487bea02167a6da10976b5e5",
+        "crc32": "cffeb8a1"
+      }
+    },
+    {
+      "filename": "FoxKids.com - Micro Maniacs Racing (USA) (Track 1).bin",
+      "filesize": 478756656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8acda6b7d8e414bbd26bf23714139ac",
+        "sha1": "50285d922d69bb2d9fc3cf077087a91c01b93824",
+        "crc32": "d25ca9c5"
+      }
+    },
+    {
+      "filename": "FoxKids.com - Micro Maniacs Racing (USA) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

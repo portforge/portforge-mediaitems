@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monaco Grand Prix (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monaco Grand Prix (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ece4bbcb780c39558dbf542c3020eddc",
+        "sha1": "9ca3186f583c4b9e8c5837a7121dda594a0b234f",
+        "crc32": "600fc19d"
+      }
+    },
+    {
+      "filename": "Monaco Grand Prix (USA).bin",
+      "filesize": 688145808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bf539bb0b53696ca0a272b9fdd1d0d3",
+        "sha1": "85011d1ede35908088cfcc786be5cacdf4490c81",
+        "crc32": "10e494d1"
+      }
+    }
+  ]
+}

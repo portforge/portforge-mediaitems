@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Aladdin in Nasira's Revenge (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Aladdin in Nasira's Revenge (USA).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a34bb5c134f068908440b19e254486e4",
+        "sha1": "7777302265f8caa0aff9e2534b87316bb4bfcf96",
+        "crc32": "31a1a757"
+      }
+    },
+    {
+      "filename": "Disney's Aladdin in Nasira's Revenge (USA).bin",
+      "filesize": 633019632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15e71d518c964a5419104a51700d0182",
+        "sha1": "3b5545bd057ff7182677c68dc5b9e21016f6c86d",
+        "crc32": "d5cb13b3"
+      }
+    }
+  ]
+}

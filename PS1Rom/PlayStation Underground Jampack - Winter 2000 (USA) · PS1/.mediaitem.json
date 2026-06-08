@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Jampack - Winter 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Jampack - Winter 2000 (USA).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4dbcccd362e7e6a347595a2efe7f081f",
+        "sha1": "bf2333c78774339741da4fbfe1868a28fa20e931",
+        "crc32": "bc8c3810"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Winter 2000 (USA).bin",
+      "filesize": 625222752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2727b2f8a5602f93f926c822ef299c6",
+        "sha1": "2d3fde93f170b83756e84a68e0aa7fb8e8792d2e",
+        "crc32": "005dd059"
+      }
+    }
+  ]
+}

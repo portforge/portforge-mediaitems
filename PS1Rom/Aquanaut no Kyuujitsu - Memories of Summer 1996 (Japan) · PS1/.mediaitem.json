@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan).cue",
+      "filesize": 280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae6455c60b3bbcc643eae5de7ce01318",
+        "sha1": "3dfcadbcf08b96b4ad9f46c25c83cf76b258e47f",
+        "crc32": "29944d60"
+      }
+    },
+    {
+      "filename": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan) (Track 1).bin",
+      "filesize": 165018672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c51b552cc132d7e472fcf156dec4345a",
+        "sha1": "e29f362b0487d1fac22dd940c3dc36b178425533",
+        "crc32": "4507b7a1"
+      }
+    },
+    {
+      "filename": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan) (Track 2).bin",
+      "filesize": 44800896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "972ba941e45f94498158e596a8f06b51",
+        "sha1": "60ddf5199e76e23726a82d750cf2e59693cdc34f",
+        "crc32": "8cc2aca4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koudelka (Italy) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koudelka (Italy) (Disc 2).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2419f468ab7327f9bbbac54059c0a6be",
+        "sha1": "977cc238cb518b2c28be7e83def45046d301f251",
+        "crc32": "52f92b13"
+      }
+    },
+    {
+      "filename": "Koudelka (Italy) (Disc 2).bin",
+      "filesize": 527123184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "527ffd91fbb96e7fd81a1faac2a66404",
+        "sha1": "babe74005ca1c728f561e9f18199301e2906acc5",
+        "crc32": "e07ec9d2"
+      }
+    }
+  ]
+}

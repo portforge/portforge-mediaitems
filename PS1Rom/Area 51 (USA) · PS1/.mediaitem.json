@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Area 51 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Area 51 (USA).cue",
+      "filesize": 79,
+      "ext": "cue",
+      "checksums": {
+        "md5": "054705ac50f64bca9671d5a307f1d22c",
+        "sha1": "7d4cd8afc99d1cc586e1f8b20ff0185ea7d31ed0",
+        "crc32": "bf5273e9"
+      }
+    },
+    {
+      "filename": "Area 51 (USA).bin",
+      "filesize": 620904480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fdbaa1145c0cc1aa62c4f6bf2bdc4d2",
+        "sha1": "0e348f5eb7fccdd5de3a3d37394f1759ed045fb0",
+        "crc32": "4212ecf4"
+      }
+    }
+  ]
+}

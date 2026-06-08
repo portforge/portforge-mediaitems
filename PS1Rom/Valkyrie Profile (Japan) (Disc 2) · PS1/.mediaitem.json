@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Valkyrie Profile (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Valkyrie Profile (Japan) (Disc 2).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c55e99f1d252ba4dae4503534db64b1d",
+        "sha1": "20dca2704763c7184a3d89bae4112ed9bcce58e1",
+        "crc32": "9567e7ed"
+      }
+    },
+    {
+      "filename": "Valkyrie Profile (Japan) (Disc 2).bin",
+      "filesize": 733675824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af311d15269af3d9c3d19bda7ca63e25",
+        "sha1": "b992244720af08b97e37c1fba8dc6e86790c7fbc",
+        "crc32": "9140b9db"
+      }
+    }
+  ]
+}

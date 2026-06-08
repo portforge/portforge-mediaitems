@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki no Houkago - Ne Quiz Shiyo (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki no Houkago - Ne Quiz Shiyo (Japan) (Rev 1).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8059551737e043992adaf1025ccc5bf1",
+        "sha1": "ef7d21ce5429dcfeba7211c07ea4dc241d3bfb29",
+        "crc32": "10d6fe41"
+      }
+    },
+    {
+      "filename": "Tokimeki no Houkago - Ne Quiz Shiyo (Japan) (Rev 1).bin",
+      "filesize": 749829360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d80e254a00e7d4a04c280c1a33111e7f",
+        "sha1": "6379f0fe75c47326a7c98467c64b1e3fec34dea2",
+        "crc32": "a7babbd7"
+      }
+    }
+  ]
+}

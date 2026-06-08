@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marranos en Guerra (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marranos en Guerra (Spain).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc52b671f4c0413e8e365429cde3d821",
+        "sha1": "b4d2782db58af2e83e64bbd53ae52cd65a98aeda",
+        "crc32": "ef4620a7"
+      }
+    },
+    {
+      "filename": "Marranos en Guerra (Spain) (Track 1).bin",
+      "filesize": 413062944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11cef4db08c5ea002725b9ecaf3eba66",
+        "sha1": "5af0747a3cf68ad75c5296d780d0b4e16349598d",
+        "crc32": "28356200"
+      }
+    },
+    {
+      "filename": "Marranos en Guerra (Spain) (Track 2).bin",
+      "filesize": 29806896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c44afafe33a6863accc9accb3582e9b",
+        "sha1": "700774165df499c9b1e190d95681a943cb842678",
+        "crc32": "67641583"
+      }
+    },
+    {
+      "filename": "Marranos en Guerra (Spain) (Track 3).bin",
+      "filesize": 12691392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "130459a05923b3a05483d865cb59bc63",
+        "sha1": "68b570c58b67c455bcd32a29216e5dae680c1f66",
+        "crc32": "362f1ff3"
+      }
+    }
+  ]
+}

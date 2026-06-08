@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bubble Bobble also featuring Rainbow Islands (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bubble Bobble also featuring Rainbow Islands (USA).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7a771747180dc29eb5e54725d0b2551",
+        "sha1": "cb253d349d0e5feb14651334be11a15b6d803456",
+        "crc32": "586d4e7a"
+      }
+    },
+    {
+      "filename": "Bubble Bobble also featuring Rainbow Islands (USA) (Track 1).bin",
+      "filesize": 63130032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b52f5445e7bc37453b3d052309e25c7f",
+        "sha1": "7a6e826a8707a64224fcf1e9143e813004ba5cff",
+        "crc32": "37c1b316"
+      }
+    },
+    {
+      "filename": "Bubble Bobble also featuring Rainbow Islands (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

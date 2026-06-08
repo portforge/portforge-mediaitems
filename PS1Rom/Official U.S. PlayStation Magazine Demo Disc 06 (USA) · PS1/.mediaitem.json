@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 06 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 06 (USA).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5ee4ce049eb0cac98d48878106abeaa9",
+        "sha1": "6ab2ce950c33a305dd5e52b7baccc35b68ea8666",
+        "crc32": "a3c1869b"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 06 (USA).bin",
+      "filesize": 297836112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b93bff79db3866d6dd8a3cfda5b89552",
+        "sha1": "4fee6b61702a4c857a0c3ba42517b671a7fe7e0f",
+        "crc32": "6ad16a67"
+      }
+    }
+  ]
+}

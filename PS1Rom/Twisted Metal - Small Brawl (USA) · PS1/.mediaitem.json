@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Twisted Metal - Small Brawl (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Twisted Metal - Small Brawl (USA).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2ffb45008850ca310ddffcd1cb2e5c50",
+        "sha1": "35f1b5bda219f014c0478a0299155812e01b7ab0",
+        "crc32": "72676df7"
+      }
+    },
+    {
+      "filename": "Twisted Metal - Small Brawl (USA).bin",
+      "filesize": 328143984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0320fa8e0d70c37a273c5a248898dc8e",
+        "sha1": "6cbbe621a2ed9114fc59e27aaf72e8cc5c93c017",
+        "crc32": "d463966e"
+      }
+    }
+  ]
+}

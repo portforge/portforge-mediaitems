@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cool Boarders 4 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cool Boarders 4 (Japan) (Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bda009d680b6955b3fee7ff20b4a3a55",
+        "sha1": "6b5fe9edc13d226739ab104626f7c2f2969bf2c2",
+        "crc32": "f908de2d"
+      }
+    },
+    {
+      "filename": "Cool Boarders 4 (Japan) (Demo).bin",
+      "filesize": 145106640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42e82bc7505d2dbbeb736eda283a5803",
+        "sha1": "1c7fbcdb697ef504dceaeae08b6da643a8cd7573",
+        "crc32": "ed12cc0b"
+      }
+    }
+  ]
+}

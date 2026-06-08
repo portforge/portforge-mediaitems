@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mummy, The (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mummy, The (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c8e6cd5ea290d8608825f220ed7b688",
+        "sha1": "ff1088e79b386ea2dd78e4c728c8da4e3f2a1511",
+        "crc32": "8349ff3f"
+      }
+    },
+    {
+      "filename": "Mummy, The (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 458600016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45448fa0cd933ea2cdb2c66823e65fa8",
+        "sha1": "7cdc58c6268633c6b9e2d1bf686c6ac994f75451",
+        "crc32": "18e1ddcc"
+      }
+    }
+  ]
+}

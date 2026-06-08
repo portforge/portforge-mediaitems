@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Total Eclipse Turbo (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Total Eclipse Turbo (Europe).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31f18e78714c30578403a4d4b09a6108",
+        "sha1": "b90f3301d5976c431394595047602d8b6b493c81",
+        "crc32": "60ad5b09"
+      }
+    },
+    {
+      "filename": "Total Eclipse Turbo (Europe).bin",
+      "filesize": 308852880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92de58c59781163d8e774f045f72ce7f",
+        "sha1": "a1ae4802d56462cda8fcf6baaab938340f27174c",
+        "crc32": "960c483f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Treasures of the Deep (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Treasures of the Deep (Germany).cue",
+      "filesize": 357,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aab50e7891519d8c7bcccc768455f8a4",
+        "sha1": "fd8b52d1882ebb336dd87171ec61a152621ba9e5",
+        "crc32": "e2783984"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Germany) (Track 1).bin",
+      "filesize": 452501280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a95d03d2dee947976867966909997e37",
+        "sha1": "b37a85b395336c1eea9d195028ab92808b0a995e",
+        "crc32": "abc3b133"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Germany) (Track 2).bin",
+      "filesize": 27118560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db49061ad2aae6acda9245657d24b65d",
+        "sha1": "1c374632413634a0d7f5a18e05ca2b498983c5c7",
+        "crc32": "430df303"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Germany) (Track 3).bin",
+      "filesize": 20709360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66b809bae4f4a8c1045e201d49d6dc2b",
+        "sha1": "4713fb95cf70216b0da545a93993d5ad3c9ab7bb",
+        "crc32": "a1defd07"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spec Ops - Covert Assault (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spec Ops - Covert Assault (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a59c7a5d5a8a50f22f137ac273577973",
+        "sha1": "aec34c7cead43a6aa3079029560f62df219f13dc",
+        "crc32": "7a5e1d27"
+      }
+    },
+    {
+      "filename": "Spec Ops - Covert Assault (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 167829312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6fa435a3fbd6a870dc159178f2d962a8",
+        "sha1": "08e96bb3315280b69248c0ed12f19c689f4a4e59",
+        "crc32": "207d3110"
+      }
+    }
+  ]
+}

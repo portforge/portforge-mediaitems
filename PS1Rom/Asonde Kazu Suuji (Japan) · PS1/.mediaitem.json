@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asonde Kazu Suuji (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asonde Kazu Suuji (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f7f9f12da566fb9ba8b6d03b3439c452",
+        "sha1": "daa88b0cd1db980a2e0a1824b7710adef0c30079",
+        "crc32": "589a1f00"
+      }
+    },
+    {
+      "filename": "Asonde Kazu Suuji (Japan).bin",
+      "filesize": 356271552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bdfbb50ba1fd2c701605df6adaeff44c",
+        "sha1": "c7fe9b8217d1fd77b99ed8ee7da24b47adccbb27",
+        "crc32": "816b9c9e"
+      }
+    }
+  ]
+}

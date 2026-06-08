@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "True Love Story (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "True Love Story (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a3a24464a91542e212652bba2c5244c",
+        "sha1": "cc20918a1d07e643a4e85d82ff43f62ff9bafd41",
+        "crc32": "727eb29a"
+      }
+    },
+    {
+      "filename": "True Love Story (Japan).bin",
+      "filesize": 511903392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f43f52351e01a3830243681df3f86d9d",
+        "sha1": "2c66ed118000d945ca9c6f726390d141e80f1ce8",
+        "crc32": "5704af1a"
+      }
+    }
+  ]
+}

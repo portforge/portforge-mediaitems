@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Love Hina - Ai wa Kotoba no Naka ni (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Love Hina - Ai wa Kotoba no Naka ni (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "82b9c39ea4f99810dcbf1070a6bf4b97",
+        "sha1": "93cf94e853604a29b08d57282ced42f5528fdf17",
+        "crc32": "e24f00a6"
+      }
+    },
+    {
+      "filename": "Love Hina - Ai wa Kotoba no Naka ni (Japan).bin",
+      "filesize": 418119744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2215822deead8ff7cbb00301e296cb55",
+        "sha1": "e63575a57e91309ceb5b7ff96cd36b62f57b39f7",
+        "crc32": "35047b67"
+      }
+    }
+  ]
+}

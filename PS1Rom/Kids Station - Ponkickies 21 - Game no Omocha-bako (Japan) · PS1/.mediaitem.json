@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fbaea2f4780e3ef1f4c2f0fc51825209",
+        "sha1": "fafb3c6f96bfff792e4b43d34a5596f7f608859f",
+        "crc32": "dd9c7d0a"
+      }
+    },
+    {
+      "filename": "Kids Station - Ponkickies 21 - Game no Omocha-bako (Japan).bin",
+      "filesize": 70084896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07e4d73612adcc0178219e1e994cd332",
+        "sha1": "e487ac1958c33c8404e3e5d7688ee74c2feed5a0",
+        "crc32": "68a0beac"
+      }
+    }
+  ]
+}

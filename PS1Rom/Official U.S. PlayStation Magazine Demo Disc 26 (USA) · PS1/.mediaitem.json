@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 26 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 26 (USA).cue",
+      "filesize": 570,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db8098ef0ba40a37e9e99fa29c8a6976",
+        "sha1": "996c2da04721c21db38260953202f06026c8a901",
+        "crc32": "3c640edc"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 26 (USA) (Track 1).bin",
+      "filesize": 639301824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "834679e97db992f4fac077dddcdbf288",
+        "sha1": "8f4f4458b3812d3c4625aca13b766460376f569b",
+        "crc32": "cc7be74f"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 26 (USA) (Track 2).bin",
+      "filesize": 25450992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "321f25bc04658d98aacfe0af42d434b7",
+        "sha1": "1ea2c5dd860f9ff77534490e28d9a93b6a795d85",
+        "crc32": "871aa487"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 26 (USA) (Track 3).bin",
+      "filesize": 50796144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ab07c5e0cd7937b2e3c930ff916c345",
+        "sha1": "25adff5cd2f721657674f32343faa3e5a6351934",
+        "crc32": "3055fd13"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 26 (USA) (Track 4).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

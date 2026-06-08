@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eurasia Express Satsujin Jiken (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eurasia Express Satsujin Jiken (Japan) (Disc 1).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf5314ca6d7a5e277bb36c7ba4ede70d",
+        "sha1": "ce3d0bfd6782ae33a423e501f859ce16d294311e",
+        "crc32": "d2570048"
+      }
+    },
+    {
+      "filename": "Eurasia Express Satsujin Jiken (Japan) (Disc 1).bin",
+      "filesize": 748305264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1466254a7b4b55f02794ea53e696399b",
+        "sha1": "27cac249e5f055168d9f420cb63a27b4415e4014",
+        "crc32": "29cdd429"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MediEvil (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MediEvil (Germany).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2cc259a759a2878e8110751cabd3a0c4",
+        "sha1": "2858b311d46c3045b7d7ffeb6d03591957b05cd9",
+        "crc32": "13d9eb69"
+      }
+    },
+    {
+      "filename": "MediEvil (Germany) (Track 1).bin",
+      "filesize": 525015792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa7e2bb143267bbb8f69983cf811d686",
+        "sha1": "b4be8db7e0974e43d718492fdb0a795d7f85bf48",
+        "crc32": "4f74180d"
+      }
+    },
+    {
+      "filename": "MediEvil (Germany) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

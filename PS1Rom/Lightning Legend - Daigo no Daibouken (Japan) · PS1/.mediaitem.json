@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lightning Legend - Daigo no Daibouken (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan).cue",
+      "filesize": 1368,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ee8fbe440b9da606033dc06e9d7c4be",
+        "sha1": "d0a8494caabff25ed218814099e7bf556d26c434",
+        "crc32": "5e6cfdb7"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 1).bin",
+      "filesize": 381452064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "525f23acbbee406a4d312a8b19fa5304",
+        "sha1": "5d6e2e360ebf0bcf917153e95a22222842273387",
+        "crc32": "e3734761"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "687118acf6496372786027cd5e244f80",
+        "sha1": "33d7a52413574b7c0f37c5ab3afd3262140d2de1",
+        "crc32": "5fd8db68"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 3).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5644c179f9c9ce17a152f4db19bbc295",
+        "sha1": "141115b55c528b92090cbb1bfc899fff618dc919",
+        "crc32": "be96ac8e"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 4).bin",
+      "filesize": 21520800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a11e6e128fefc341e32151cda62627da",
+        "sha1": "70851d13220b020cf8aa84c13cf62f8a91f1cc24",
+        "crc32": "55f9d8c2"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 5).bin",
+      "filesize": 16579248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "beb97336b92b3bc2caba359cdc86cc6e",
+        "sha1": "c744c7c0b6259d033ee43cad471c62d5c3ee5e31",
+        "crc32": "b198e2d2"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 6).bin",
+      "filesize": 29207136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad1a1ff0426ce521c42a6ae213d77925",
+        "sha1": "638e738a610e88cc2436c206f671f7dcad412f05",
+        "crc32": "389b7e02"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 7).bin",
+      "filesize": 21523152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3c53dd1d05cdc8f61c40682b7e5a186",
+        "sha1": "d322fb72f30dbef8db99ced506ec9a8abbd90d8d",
+        "crc32": "d0252585"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 8).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "097820fe745d6e4cfe139a9a4a51bffb",
+        "sha1": "46e63b29e168666d4f480a9812df2c519f3c1e58",
+        "crc32": "3c9f7f86"
+      }
+    },
+    {
+      "filename": "Lightning Legend - Daigo no Daibouken (Japan) (Track 9).bin",
+      "filesize": 33212592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2987c3242fc9dc2b76c0a20eb1c5b9a",
+        "sha1": "0ffc15fd090fbdfc0f69bc8e4d4151f5def61ee4",
+        "crc32": "1a036073"
+      }
+    }
+  ]
+}

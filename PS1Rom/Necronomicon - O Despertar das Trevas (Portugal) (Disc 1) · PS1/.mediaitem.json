@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Necronomicon - O Despertar das Trevas (Portugal) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Necronomicon - O Despertar das Trevas (Portugal) (Disc 1).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fbb2fff390c12e3089974bae55101556",
+        "sha1": "892f5ce07bc145a12741c63de59a627da310ed3f",
+        "crc32": "c3179c12"
+      }
+    },
+    {
+      "filename": "Necronomicon - O Despertar das Trevas (Portugal) (Disc 1).bin",
+      "filesize": 703770144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcc60062f6f1d082f6a9195da6c95d71",
+        "sha1": "18be423d169f9a9598d9d1321aa6e97a162b343a",
+        "crc32": "65b42d27"
+      }
+    }
+  ]
+}

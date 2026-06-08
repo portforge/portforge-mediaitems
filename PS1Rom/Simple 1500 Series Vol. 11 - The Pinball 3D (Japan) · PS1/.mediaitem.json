@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan).cue",
+      "filesize": 997,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e43704e6359b142c8468934bf9297af2",
+        "sha1": "b5d925cd34f468394e449bcfe77296b4b7cb9fea",
+        "crc32": "a36e4b14"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Track 1).bin",
+      "filesize": 42639408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdecc0d2a9c03f148cba76125ce97dd7",
+        "sha1": "96d19841d193a5fae171536d005d5b71778a90cd",
+        "crc32": "94f86d41"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Track 2).bin",
+      "filesize": 10308816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c3acd04192fa3f2846bee301d865a6f",
+        "sha1": "aa69b8e108653eda0b42208705d742338a9262da",
+        "crc32": "27777fa8"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Track 3).bin",
+      "filesize": 13796832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a943c1840770562119909a1e25955d5",
+        "sha1": "b3736e55185dabbf1fb4526d3d589295057597bd",
+        "crc32": "e053d1c0"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Track 4).bin",
+      "filesize": 27487824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dec08dab3a5a4bb4606500be182de8a8",
+        "sha1": "7fb2fad7c71d39a3f103efea52739c2ffff2b3ae",
+        "crc32": "2fb251d3"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Track 5).bin",
+      "filesize": 20111952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba1440ed9f91d805fda41e8f70e0233b",
+        "sha1": "469c02e9886718456a055ec87ada81a44bbc0ff7",
+        "crc32": "8a429b44"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Track 6).bin",
+      "filesize": 1719312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ae0ab014b2a64516288850f94925ddc",
+        "sha1": "30cb508ee472b459b22bb862c8517f773e6bbb8f",
+        "crc32": "5a7e1e86"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 11 - The Pinball 3D (Japan) (Track 7).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

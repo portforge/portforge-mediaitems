@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slotter Mania 4 - Gekiatsu Youkou! Siolar & King Castle & Kabuto (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slotter Mania 4 - Gekiatsu Youkou! Siolar & King Castle & Kabuto (Japan).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0de31b2a4a81669c1cf30d11878498ab",
+        "sha1": "b08c18a63b5941ce3fc5721be27e5cdbbd2883f1",
+        "crc32": "1542df3d"
+      }
+    },
+    {
+      "filename": "Slotter Mania 4 - Gekiatsu Youkou! Siolar & King Castle & Kabuto (Japan).bin",
+      "filesize": 48834576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34e4fbc2f613dff8d8c07797b371e4d7",
+        "sha1": "3d3fc24808aa3a137c9ab9c4aaeac5cc4c441b2e",
+        "crc32": "9f8e98dd"
+      }
+    }
+  ]
+}

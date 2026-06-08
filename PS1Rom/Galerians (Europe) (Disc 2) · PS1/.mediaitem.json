@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (Europe) (Disc 2).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c1d995bd63540c920e555dcf680c64b",
+        "sha1": "201db45ac46539449f0aecd55d477f218ab0d4c8",
+        "crc32": "99ab5dd3"
+      }
+    },
+    {
+      "filename": "Galerians (Europe) (Disc 2).bin",
+      "filesize": 672867216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdc2d4e05af3a9cded3c667c77544fc5",
+        "sha1": "77637261f9b2c61979c0be735fa43dc7a5457512",
+        "crc32": "b6b5fe85"
+      }
+    }
+  ]
+}

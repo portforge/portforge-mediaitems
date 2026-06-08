@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Akagawa Jirou - Yasoukyoku (Japan) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Akagawa Jirou - Yasoukyoku (Japan) (Shokai Genteiban).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb8232560c6c3d6a8bece87a3f507cf4",
+        "sha1": "264d20b63bc11f36199a3c90fe56c598fd61f609",
+        "crc32": "95de3360"
+      }
+    },
+    {
+      "filename": "Akagawa Jirou - Yasoukyoku (Japan) (Shokai Genteiban).bin",
+      "filesize": 325385088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc07c8d24cd3000167ca9701ab52cc33",
+        "sha1": "5d76f4e7935115fb96a315f6fda8f68acbd6be02",
+        "crc32": "24a3bd41"
+      }
+    }
+  ]
+}

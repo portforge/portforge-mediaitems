@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Morita Kazurou no Hanafuda (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Morita Kazurou no Hanafuda (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "124738ebf4a21e94b53ed0881ba2bb4c",
+        "sha1": "02f1ddfbd83d5bc74de591d7f8ccf6e532de7cc4",
+        "crc32": "e85fc8ab"
+      }
+    },
+    {
+      "filename": "Morita Kazurou no Hanafuda (Japan).bin",
+      "filesize": 58374288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a960ce45a6dfda1c35dd32f1367de302",
+        "sha1": "a22c1cfe9fff52370ddca189728eaa77b5eee45a",
+        "crc32": "47fd5034"
+      }
+    }
+  ]
+}

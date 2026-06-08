@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ATV Racers (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ATV Racers (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac8ad9eb535a73655a0a0c7eb86b58e3",
+        "sha1": "1db1f42cd039dac08d50ba74bbd118d80e328ef1",
+        "crc32": "572cc516"
+      }
+    },
+    {
+      "filename": "ATV Racers (Europe).bin",
+      "filesize": 169421616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07a1c4438c6a7a1edc6f288a73248553",
+        "sha1": "dd7352371cdbf6e7b985c4d89d6efa5c4db69e2f",
+        "crc32": "a4180391"
+      }
+    }
+  ]
+}

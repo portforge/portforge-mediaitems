@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Medal of Honor (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Medal of Honor (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cfea536b3aacc4bdb80b687663bd1ed6",
+        "sha1": "6f6fb7fd15d91c455d21c76d84be9db76c5c9b26",
+        "crc32": "0f29bbc3"
+      }
+    },
+    {
+      "filename": "Medal of Honor (USA).bin",
+      "filesize": 742611072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7512c944cfdb8d1394873377df4a4cf6",
+        "sha1": "cf503f1dab8d6f9ae25d11b324b7c251651f5fff",
+        "crc32": "d155c3f4"
+      }
+    }
+  ]
+}

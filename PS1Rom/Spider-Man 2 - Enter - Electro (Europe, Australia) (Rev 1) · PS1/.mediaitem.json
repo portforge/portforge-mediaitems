@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider-Man 2 - Enter - Electro (Europe, Australia) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider-Man 2 - Enter - Electro (Europe, Australia) (Rev 1).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a336355f5eda5ca28a4525b752547c5",
+        "sha1": "f1da81e6ead26fb47e6995968411c2ec88e198ef",
+        "crc32": "5f3157dd"
+      }
+    },
+    {
+      "filename": "Spider-Man 2 - Enter - Electro (Europe, Australia) (Rev 1).bin",
+      "filesize": 719888400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06aaba908cd9b0cd3152bbd073ce7ef4",
+        "sha1": "4411b3de700fd091c6c7fdb71510e92af5e5542e",
+        "crc32": "2c68d779"
+      }
+    }
+  ]
+}

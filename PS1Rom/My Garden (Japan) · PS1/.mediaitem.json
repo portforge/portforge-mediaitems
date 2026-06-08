@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "My Garden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "My Garden (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f62b6ab4ef992fc26af1c1fc4fc3119",
+        "sha1": "07ff2c7a082bc93190a0287e28b6a688fa3fe9cf",
+        "crc32": "e0b84c29"
+      }
+    },
+    {
+      "filename": "My Garden (Japan).bin",
+      "filesize": 192125472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7e9abadcf9e19011c9f0d2b799c631d",
+        "sha1": "0ac874c5938248e14d55a1e08d00a128c2db092d",
+        "crc32": "9d01de77"
+      }
+    }
+  ]
+}

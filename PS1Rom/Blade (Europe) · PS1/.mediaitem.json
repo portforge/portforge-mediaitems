@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blade (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blade (Europe).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d2d4706308ada36f01208484ae2fbb6",
+        "sha1": "d9070c3ecce61d59f7ab6d5dc89fffc5ae9d1e50",
+        "crc32": "1b17ffce"
+      }
+    },
+    {
+      "filename": "Blade (Europe).bin",
+      "filesize": 625001664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da4e8ea3e0c91997de81ee0c28232c96",
+        "sha1": "5aa3ac5de3d5ca221de89aa9ee8e9dd09cc29979",
+        "crc32": "7a3953f3"
+      }
+    }
+  ]
+}

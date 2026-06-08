@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Les Razmoket a Paris - Le Film (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Les Razmoket a Paris - Le Film (France).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa33a3a61c201fdeb70a76ec636eb918",
+        "sha1": "e3892c811f08fd7cb61e4c82fd53c6d49c94fcdc",
+        "crc32": "ccabf286"
+      }
+    },
+    {
+      "filename": "Nickelodeon Les Razmoket a Paris - Le Film (France).bin",
+      "filesize": 173838672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2cdf14f42eeadd94bba65ef23adbef0",
+        "sha1": "e311a2dc13f86027dc82f8868f71502aff7a5b1f",
+        "crc32": "68eb397c"
+      }
+    }
+  ]
+}

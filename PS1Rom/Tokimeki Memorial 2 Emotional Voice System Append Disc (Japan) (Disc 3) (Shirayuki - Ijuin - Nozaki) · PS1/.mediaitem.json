@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 3) (Shirayuki - Ijuin - Nozaki)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 3) (Shirayuki - Ijuin - Nozaki).cue",
+      "filesize": 181,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c61fed76bce4da9868029fca564a7467",
+        "sha1": "a0b699449124b77f6162a96d51182023534cfda6",
+        "crc32": "c46d932e"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Emotional Voice System Append Disc (Japan) (Disc 3) (Shirayuki - Ijuin - Nozaki).bin",
+      "filesize": 294759696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e909829e455966a75584157a5d3bb57e",
+        "sha1": "b41b8038aace904b6d2cfd62d91da65b413d09fe",
+        "crc32": "94f39b12"
+      }
+    }
+  ]
+}

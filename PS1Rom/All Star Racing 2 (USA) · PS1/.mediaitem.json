@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "All Star Racing 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "All Star Racing 2 (USA).cue",
+      "filesize": 918,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18a3c9d3ae0573a0d0bef3779f947338",
+        "sha1": "03b47fce86b9ae9230b4ff2c8d3b70297963539f",
+        "crc32": "7184a186"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 1).bin",
+      "filesize": 82263552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95810294bfbc3589804820e6265b34c0",
+        "sha1": "5305263db8cc676224c35389933f9e2333c165b6",
+        "crc32": "35cf5bfa"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 2).bin",
+      "filesize": 71493744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d0354df11773e519bdd0d9d09859b17",
+        "sha1": "ed2828f20a3d185c68f321fbb9b82f8fd347fe6f",
+        "crc32": "0648aca5"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 3).bin",
+      "filesize": 58122624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c93de943df02bd99f5a494079aee4406",
+        "sha1": "1b59bcbaf124facb9fa1c80c4c3f4a6972b8f937",
+        "crc32": "028f9195"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 4).bin",
+      "filesize": 65529072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22bb8fc7d02cedcabbf30601ba7e6224",
+        "sha1": "ecc353ab79187eca0f3746974dc8f82449fc0f72",
+        "crc32": "faa9a4f3"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 5).bin",
+      "filesize": 53966640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbcd46c084b11b78559a0e4a4600a114",
+        "sha1": "8403610d643f5a2b11f91b88b741dbd3ad461ef0",
+        "crc32": "243c6daf"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 6).bin",
+      "filesize": 39381888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f725568b126ab55da506f41914f4f5e",
+        "sha1": "fdfc5fbecc49affbb49460d4a6012f95ef6ce901",
+        "crc32": "bfde0cef"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 7).bin",
+      "filesize": 85024800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a4c5d00fa2db63c25f76906a9a35794",
+        "sha1": "b1399d076856470846830c6b9e85a68f53049d9a",
+        "crc32": "e5eb9507"
+      }
+    },
+    {
+      "filename": "All Star Racing 2 (USA) (Track 8).bin",
+      "filesize": 32302368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afadcd27514f92953a2a00448cab31a4",
+        "sha1": "461cd8a7f61a6b36745fd827ffe8696dd75ad742",
+        "crc32": "e6ce5ea3"
+      }
+    }
+  ]
+}

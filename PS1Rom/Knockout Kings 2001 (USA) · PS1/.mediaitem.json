@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Knockout Kings 2001 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Knockout Kings 2001 (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "af40dc2552bb4843c05242c4c2229036",
+        "sha1": "7907696cf65a7b06acb1e6652fd1c032f526aa67",
+        "crc32": "9a2a0b4f"
+      }
+    },
+    {
+      "filename": "Knockout Kings 2001 (USA).bin",
+      "filesize": 603295056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9cd62a857b9b378fb695117a2449071",
+        "sha1": "ba91d5de8153eeb226bc326be4ea07824e097b55",
+        "crc32": "0bbce9b2"
+      }
+    }
+  ]
+}

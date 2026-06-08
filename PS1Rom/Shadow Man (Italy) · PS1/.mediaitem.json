@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shadow Man (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shadow Man (Italy).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ae75514c97fb174a48c891862b52240",
+        "sha1": "bd0d66e25e77b2dcc51595378d3369f6942f83a0",
+        "crc32": "7ee0e228"
+      }
+    },
+    {
+      "filename": "Shadow Man (Italy) (Track 1).bin",
+      "filesize": 534052176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bfc6e78dac7c239eb4b94cb36f58a8d",
+        "sha1": "6ee317f25d87aaf30f8219346514e9efae486fe0",
+        "crc32": "f152e0b3"
+      }
+    },
+    {
+      "filename": "Shadow Man (Italy) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

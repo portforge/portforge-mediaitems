@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro x Sparx - Tondemo Tours (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro x Sparx - Tondemo Tours (Japan) (Demo).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "22c40cb3ba5c599e58afd18add1ba26c",
+        "sha1": "109df6ad8b9d0b61db128bc913f9c2454f73f74b",
+        "crc32": "cfae3512"
+      }
+    },
+    {
+      "filename": "Spyro x Sparx - Tondemo Tours (Japan) (Demo).bin",
+      "filesize": 105564816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b81d13dbd9d946024d7babed9e20ccfb",
+        "sha1": "52ed542771ded489fec3b0db3edb81a8044af6f0",
+        "crc32": "410096dd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MediEvil II (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MediEvil II (USA).cue",
+      "filesize": 204,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa53fe4ce726ebba063c27ef90beb70f",
+        "sha1": "95e75f4cc81c4c7103d38223c662e1d631c2095c",
+        "crc32": "66953ab3"
+      }
+    },
+    {
+      "filename": "MediEvil II (USA) (Track 1).bin",
+      "filesize": 450885456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4bd203f3a59fa92a64c176774919293",
+        "sha1": "017b855353abd86c22aa516690e852b641e4fa71",
+        "crc32": "9ba3ab69"
+      }
+    },
+    {
+      "filename": "MediEvil II (USA) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

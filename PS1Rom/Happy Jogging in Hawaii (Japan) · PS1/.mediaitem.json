@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Happy Jogging in Hawaii (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Happy Jogging in Hawaii (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e31df7138e068e4603b6d9cf98e5fdb0",
+        "sha1": "c7e21c1841b2e554bdd641e58e8e12cbbf99edb9",
+        "crc32": "317806ae"
+      }
+    },
+    {
+      "filename": "Happy Jogging in Hawaii (Japan).bin",
+      "filesize": 45946320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "652368b7cff8745352d1ec6045f54fc1",
+        "sha1": "452d9ef74409946a1dea4095b0c4b0f9639d6821",
+        "crc32": "8f905792"
+      }
+    }
+  ]
+}

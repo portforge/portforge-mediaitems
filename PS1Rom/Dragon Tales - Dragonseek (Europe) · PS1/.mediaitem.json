@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Tales - Dragonseek (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Tales - Dragonseek (Europe).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9dc2233ef47b2beacaea46724513a81c",
+        "sha1": "539a1a46bf5d209053c076ee7a23f9902c05d0e1",
+        "crc32": "d431470f"
+      }
+    },
+    {
+      "filename": "Dragon Tales - Dragonseek (Europe) (Track 1).bin",
+      "filesize": 284843664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f1f3b320ea30d0762cadc6581e0a7ea",
+        "sha1": "94302ca16b36d1fcfeb323f315dcec5b5e924ed9",
+        "crc32": "efc5ae95"
+      }
+    },
+    {
+      "filename": "Dragon Tales - Dragonseek (Europe) (Track 2).bin",
+      "filesize": 32050704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fb21a446ea2655a6948b6222e7e8c59",
+        "sha1": "90e4fe2aead86a9ca90e448d3ff6bf199d75049e",
+        "crc32": "e164f4a7"
+      }
+    }
+  ]
+}

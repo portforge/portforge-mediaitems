@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lone Soldier (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lone Soldier (Japan).cue",
+      "filesize": 1132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04611d46c12e33ee9e40c8d7948c0203",
+        "sha1": "7e5851e557743e8f5059800044ab9d5a9822d3b2",
+        "crc32": "aa0473ea"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 01).bin",
+      "filesize": 166792080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f72cec385d7d31d6d9d1c67225e0b636",
+        "sha1": "fdbc2b6963dbd5d9ae9e078820c323cdc5d8ebe8",
+        "crc32": "03e62ea6"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 02).bin",
+      "filesize": 7916832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0109a5fee883e32b3b17a971820ede36",
+        "sha1": "9baf7758e0b04e932333953da8e2af0f056f41f8",
+        "crc32": "09254f47"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 03).bin",
+      "filesize": 31672032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2015e888765996ad183b7cba6eb397b",
+        "sha1": "8bac689d39420529145d69c69e1e08e744896592",
+        "crc32": "0bbd32b9"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 04).bin",
+      "filesize": 32187120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31d7499a91a9b9c852cf20ae705e299b",
+        "sha1": "f94d858bb60f0f73eb07388fc55f7ff20bf4cde1",
+        "crc32": "43c7be71"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 05).bin",
+      "filesize": 32427024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30bf873ae23694e39a987cbce33ee552",
+        "sha1": "5fa524e99c22e4faefbcbbf7690cb7601c17061e",
+        "crc32": "13590716"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 06).bin",
+      "filesize": 32055408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abd10054d41fa622cf6d460b26a0f70b",
+        "sha1": "5c20f09dfffa7d43da4bcee33917ce22759a210e",
+        "crc32": "11e12c5c"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 07).bin",
+      "filesize": 32130672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bcbb4e26a62fd8f313c6896aaead980",
+        "sha1": "fa76b6a6aa3cd3c799895870cc720b1374d6bc68",
+        "crc32": "0c706f92"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 08).bin",
+      "filesize": 32184768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bd75f027a899a621ed2343ccb74e2ea",
+        "sha1": "01300081827b93cfe9fd4c727ca02f56369e88ba",
+        "crc32": "9e58b06a"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 09).bin",
+      "filesize": 31784928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72ce002c30a3e362f292e4e259708d91",
+        "sha1": "d1a72088bbb014f5218e3ef548eb2cd4ff1be4dd",
+        "crc32": "4f33f32e"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Japan) (Track 10).bin",
+      "filesize": 32594016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cfbc020431769992dc90ad661fd6cbe",
+        "sha1": "cde7ee8eb05846ee9705ab46e165f94142ee6da2",
+        "crc32": "6749d17f"
+      }
+    }
+  ]
+}

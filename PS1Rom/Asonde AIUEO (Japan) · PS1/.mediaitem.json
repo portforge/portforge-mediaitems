@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asonde AIUEO (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asonde AIUEO (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c50b742b5618e64e2c661e693a38ba4",
+        "sha1": "b3f73f47a6b487febdf73fd5365f3f83fdba3c98",
+        "crc32": "37713e4b"
+      }
+    },
+    {
+      "filename": "Asonde AIUEO (Japan).bin",
+      "filesize": 339647616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "217a50ba0b4fc7d982e693f8d9777517",
+        "sha1": "b8d9bbfb35772821b1e70bc3e387a2e3b966d620",
+        "crc32": "26ebfe67"
+      }
+    }
+  ]
+}

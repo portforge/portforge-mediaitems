@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Secret of Googol 7, The - Eggs All Around - Egg Trek & Balloon Picnic (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Secret of Googol 7, The - Eggs All Around - Egg Trek & Balloon Picnic (USA).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "703f8a0e478751c247c7abdb501d0f6b",
+        "sha1": "7d9c88d726ba1b9c4a002fae018f42800de94716",
+        "crc32": "e93da6c3"
+      }
+    },
+    {
+      "filename": "Secret of Googol 7, The - Eggs All Around - Egg Trek & Balloon Picnic (USA).bin",
+      "filesize": 405510672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94d80ffd251a2f19c460878aae4e76a2",
+        "sha1": "2c8c0554ebb658f6535d105c265863a017e0c443",
+        "crc32": "3ed60f8b"
+      }
+    }
+  ]
+}

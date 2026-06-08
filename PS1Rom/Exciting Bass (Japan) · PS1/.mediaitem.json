@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Exciting Bass (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Exciting Bass (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f4cd6c6a28d57677fc64637b40e76f2",
+        "sha1": "3117ef369a173cf8be165fa66b9ac0a286a1e721",
+        "crc32": "170f442d"
+      }
+    },
+    {
+      "filename": "Exciting Bass (Japan).bin",
+      "filesize": 98812224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2abd8f8236b311d6e8ffb9ac238ea025",
+        "sha1": "2475f853a3352c3984201e5c2df8ffb09fb7c34a",
+        "crc32": "ef268c61"
+      }
+    }
+  ]
+}

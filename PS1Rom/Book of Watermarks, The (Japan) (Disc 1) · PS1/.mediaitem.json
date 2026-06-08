@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Book of Watermarks, The (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Book of Watermarks, The (Japan) (Disc 1).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90ee6984c4547f41d7e1e39d17029735",
+        "sha1": "57051276c133d8f87271e2275a92934234c23f20",
+        "crc32": "78375ba0"
+      }
+    },
+    {
+      "filename": "Book of Watermarks, The (Japan) (Disc 1).bin",
+      "filesize": 730279536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82f512ed23a18eafce2597a9d4cad802",
+        "sha1": "1f2f94be4970d9064885e343def4d3bb7afc4108",
+        "crc32": "e6e697b5"
+      }
+    }
+  ]
+}

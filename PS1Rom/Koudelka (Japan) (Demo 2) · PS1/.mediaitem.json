@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koudelka (Japan) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koudelka (Japan) (Demo 2).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc6b8e47078e32c204871177bb394f4a",
+        "sha1": "6741ec914e8fe8ba000329907c23e76e6cd82362",
+        "crc32": "edbcae9c"
+      }
+    },
+    {
+      "filename": "Koudelka (Japan) (Demo 2).bin",
+      "filesize": 502594176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66aa1ecdf196dea4e27af5152fe4a8a4",
+        "sha1": "06ff66caab3336c4759ebe97d859469c6b6db398",
+        "crc32": "aeca4550"
+      }
+    }
+  ]
+}

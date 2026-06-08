@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kart Challenge (Europe) (En,Fr,De,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kart Challenge (Europe) (En,Fr,De,It).cue",
+      "filesize": 375,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fe3a62aab0deb936716375f16617f054",
+        "sha1": "1719ca7642687cb54d69b2c157b975e622e496fc",
+        "crc32": "00f9ebab"
+      }
+    },
+    {
+      "filename": "Kart Challenge (Europe) (En,Fr,De,It) (Track 1).bin",
+      "filesize": 14363664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7aea64c3ccb125fa10ed4896dc0f032",
+        "sha1": "af8b9a8635030637c6520e4b9f795117f22f0575",
+        "crc32": "7713459f"
+      }
+    },
+    {
+      "filename": "Kart Challenge (Europe) (En,Fr,De,It) (Track 2).bin",
+      "filesize": 60573408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25c78e0ce51343ed189857219b56e388",
+        "sha1": "5b8dd4b3030bd01a6a9d083fd0fc2f8849351837",
+        "crc32": "18fb79a3"
+      }
+    },
+    {
+      "filename": "Kart Challenge (Europe) (En,Fr,De,It) (Track 3).bin",
+      "filesize": 57247680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e19e1e887fc8d199fed42713b6dd4a",
+        "sha1": "2684ab2829aed371913c6f942f5a2024c338523e",
+        "crc32": "bbd67734"
+      }
+    }
+  ]
+}

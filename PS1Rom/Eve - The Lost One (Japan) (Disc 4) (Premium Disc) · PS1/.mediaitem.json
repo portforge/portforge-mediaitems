@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eve - The Lost One (Japan) (Disc 4) (Premium Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eve - The Lost One (Japan) (Disc 4) (Premium Disc).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d30b25d736f55271fe160e72817a153",
+        "sha1": "d78ed206b33b1648e02ba6ef2969b40e5f3cc0fe",
+        "crc32": "06fd0306"
+      }
+    },
+    {
+      "filename": "Eve - The Lost One (Japan) (Disc 4) (Premium Disc).bin",
+      "filesize": 565787712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b106c7e5c3ad0d5f0763e8b96e69f26f",
+        "sha1": "2737eccbff33b15c109201b22853bbb98ae19947",
+        "crc32": "25cf45bd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Winky the Little Bear (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Winky the Little Bear (Europe) (En,Fr,De).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a4a18d95694562a5bdc89d549005c8c",
+        "sha1": "2f3e5fabd159c15e2deea724cfb0e020e9a8179c",
+        "crc32": "e9e4d5d2"
+      }
+    },
+    {
+      "filename": "Winky the Little Bear (Europe) (En,Fr,De).bin",
+      "filesize": 592560528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d9a7c38d6065ff4143a53df130b1e9f",
+        "sha1": "0b0ba8872ba30baa8507e84d5296207c4259c42c",
+        "crc32": "200f10eb"
+      }
+    }
+  ]
+}

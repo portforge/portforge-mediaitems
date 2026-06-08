@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soulmaster (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soulmaster (Japan).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8357278f930d21d99eddd5860358202c",
+        "sha1": "5ce035d8e9997224be5ed8a33eb3340c0df2844b",
+        "crc32": "beb252e6"
+      }
+    },
+    {
+      "filename": "Soulmaster (Japan) (Track 1).bin",
+      "filesize": 128120496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a76dab06cd299a11353a759cea9254bb",
+        "sha1": "033f7f70c55bb1ae3408a9840dc297c9eefa91e6",
+        "crc32": "aa7f2c34"
+      }
+    },
+    {
+      "filename": "Soulmaster (Japan) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947f682e2ceb918118e1bfe6b6355105",
+        "sha1": "d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0",
+        "crc32": "24cad39b"
+      }
+    }
+  ]
+}

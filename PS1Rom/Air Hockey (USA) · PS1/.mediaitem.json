@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Air Hockey (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Air Hockey (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f765735b4c1e8b393c5bf66d7db974c",
+        "sha1": "9c9e9d36b63a1769adf0a660372da00a13a31e22",
+        "crc32": "c2df3c01"
+      }
+    },
+    {
+      "filename": "Air Hockey (USA).bin",
+      "filesize": 157318224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c59e1f2da1d09a495f04541225ec705",
+        "sha1": "4cdba4e968f03fe26ebe57d4cc02186ddccab64f",
+        "crc32": "b453fcb9"
+      }
+    }
+  ]
+}

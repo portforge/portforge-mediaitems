@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "OPSM Best Ever Ever Games Demo (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "OPSM Best Ever Ever Games Demo (Europe).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "595e87f2b8516c57c358ce29feeef6d2",
+        "sha1": "bbea5abd9d562623f3a8aca0fd605f46b435dff2",
+        "crc32": "659376d4"
+      }
+    },
+    {
+      "filename": "OPSM Best Ever Ever Games Demo (Europe) (Track 1).bin",
+      "filesize": 445619328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae7d2635a11d4ed3b4be56eb8b9c61ad",
+        "sha1": "ea1f8be3ad65cc30830d02eb2d265dfd24f8c1bb",
+        "crc32": "f61f322b"
+      }
+    },
+    {
+      "filename": "OPSM Best Ever Ever Games Demo (Europe) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5df0cae406f7a0ec0c6000e93acf81d7",
+        "sha1": "6af7af89eeb16c237fb4be43119b6ba2748fd393",
+        "crc32": "c177ecd2"
+      }
+    }
+  ]
+}

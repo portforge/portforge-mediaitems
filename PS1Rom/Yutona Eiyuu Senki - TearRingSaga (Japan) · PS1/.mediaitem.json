@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yutona Eiyuu Senki - TearRingSaga (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yutona Eiyuu Senki - TearRingSaga (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5049d7a1055ecb5cefca417cfefc0df1",
+        "sha1": "0d6c4849a2575777922192c13565e90b1dac0d61",
+        "crc32": "0c932953"
+      }
+    },
+    {
+      "filename": "Yutona Eiyuu Senki - TearRingSaga (Japan).bin",
+      "filesize": 594054048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9f64a96497c3ca6db81eea06500e3e0",
+        "sha1": "0139d9db18fec21b09f0ff608b8872a5d3819dc7",
+        "crc32": "a0888540"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Theme Park World (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Theme Park World (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aca8d1d67e03e04014e1e39d46f5bdd3",
+        "sha1": "f3fe3ee72b2056c5d341902ded7cebd98d6a812b",
+        "crc32": "21021a43"
+      }
+    },
+    {
+      "filename": "Theme Park World (Japan).bin",
+      "filesize": 502222560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e077173f1bebfd0127caa9b56e0eaf79",
+        "sha1": "6dde0a817fc4691221281967dda35f2bfb6685ca",
+        "crc32": "e2cbb8c5"
+      }
+    }
+  ]
+}

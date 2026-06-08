@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chakushin Melody da mon Gold (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chakushin Melody da mon Gold (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc1adb80fcd81d87e3519a67a63251a0",
+        "sha1": "919ba5ba17f221dd98ee8ed867504aed7fe91305",
+        "crc32": "308d6b06"
+      }
+    },
+    {
+      "filename": "Chakushin Melody da mon Gold (Japan).bin",
+      "filesize": 56276304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36154f07c2e52280a37cddf9555625dd",
+        "sha1": "64fb4638e29c81755fb70b475bc2848e216f0035",
+        "crc32": "1583ce19"
+      }
+    }
+  ]
+}

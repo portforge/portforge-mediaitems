@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Duke Nukem - Total Meltdown (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Duke Nukem - Total Meltdown (USA).cue",
+      "filesize": 490,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e1d8e4e96c6544808f5f156e69a25e3",
+        "sha1": "bcc2b37cc0755fcc3218401b5bdec34219cd7602",
+        "crc32": "66fd7020"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Total Meltdown (USA) (Track 1).bin",
+      "filesize": 564091920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9c1668e906bc97e64aa34edffd03558",
+        "sha1": "54f92d540edefac02f41079dc2002d28f9749e85",
+        "crc32": "e52219ba"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Total Meltdown (USA) (Track 2).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7790497bc299c11cb45dc2a8a6bb6497",
+        "sha1": "2b654a72895ddac74f6cc0cac7900353d2453394",
+        "crc32": "6fb23f7e"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Total Meltdown (USA) (Track 3).bin",
+      "filesize": 32808048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecbdf296e49e301d7055a9494858f930",
+        "sha1": "fd8b51240b2c0af2adbfbae6801eba5145329e41",
+        "crc32": "831aed2c"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Total Meltdown (USA) (Track 4).bin",
+      "filesize": 67758768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffb1e3edd8fcd19955898fd9d3807b35",
+        "sha1": "08384c526e34b8f82067c4de4078ed1b46170909",
+        "crc32": "666b5591"
+      }
+    }
+  ]
+}

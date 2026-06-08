@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toushinden Otanoshimi-Ban (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toushinden Otanoshimi-Ban (Japan) (Demo).cue",
+      "filesize": 384,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16f8f0b019aec2a55b08f95012805ef1",
+        "sha1": "ac0e35566db8db44ef698752cdcc5beeb4ba69e5",
+        "crc32": "7d40a7db"
+      }
+    },
+    {
+      "filename": "Toushinden Otanoshimi-Ban (Japan) (Demo) (Track 1).bin",
+      "filesize": 14662368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7af6b9d096ad74f27ef8c844ca4fca3",
+        "sha1": "5ae970d281b26ebe0b27072af06139c08d7e6d1e",
+        "crc32": "3f728921"
+      }
+    },
+    {
+      "filename": "Toushinden Otanoshimi-Ban (Japan) (Demo) (Track 2).bin",
+      "filesize": 34169856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57f1fd64aaf7e8528b7d1643e5ca2cd3",
+        "sha1": "523fc4dcd9fd1d1e44e4c678f7cf44d62f5d34bc",
+        "crc32": "36eb0614"
+      }
+    },
+    {
+      "filename": "Toushinden Otanoshimi-Ban (Japan) (Demo) (Track 3).bin",
+      "filesize": 31975440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f740a32031fd7fd7f2aed50e9e3eec0e",
+        "sha1": "aa0dbb55c7b3f1d8ecebb38f11bb582d27c4cca7",
+        "crc32": "93c0af9a"
+      }
+    }
+  ]
+}

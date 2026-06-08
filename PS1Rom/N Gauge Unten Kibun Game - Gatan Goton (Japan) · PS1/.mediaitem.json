@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "N Gauge Unten Kibun Game - Gatan Goton (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "N Gauge Unten Kibun Game - Gatan Goton (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6affba79b29aa079b7d2b9de15b782c9",
+        "sha1": "384de052c1ed852197952ac43c795edfd204041f",
+        "crc32": "d747fa80"
+      }
+    },
+    {
+      "filename": "N Gauge Unten Kibun Game - Gatan Goton (Japan).bin",
+      "filesize": 531815424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e4c22044f09cc0254850d6f5b46d1d7",
+        "sha1": "92f42aa763021563ae0998118836a51e609969e1",
+        "crc32": "4e8439c5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Men in Black - The Series - Crashdown (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Men in Black - The Series - Crashdown (Germany).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34f400162db0b2dcebb1ceec5dd093a6",
+        "sha1": "93f0dae6f32a98e33f7b20859350e89d2451c53c",
+        "crc32": "06bac586"
+      }
+    },
+    {
+      "filename": "Men in Black - The Series - Crashdown (Germany).bin",
+      "filesize": 648486384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5363b1add2b43665d79382599b4356d7",
+        "sha1": "2818d981bc25f1e7da4b20961ccce5873ea7d0f9",
+        "crc32": "566f5c22"
+      }
+    }
+  ]
+}

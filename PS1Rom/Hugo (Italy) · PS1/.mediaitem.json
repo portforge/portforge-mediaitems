@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo (Italy).cue",
+      "filesize": 512,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc56eb1fff9ebaed1ca1d51ff641cbb6",
+        "sha1": "2a0e13c1f36350771175643980e13b445e11d5b4",
+        "crc32": "165b4b9e"
+      }
+    },
+    {
+      "filename": "Hugo (Italy) (Track 1).bin",
+      "filesize": 257548704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ac6c37e5a605f48942f64a4e25985cf",
+        "sha1": "eccb0140e2890c8c58c24b6f8132b895c5a2d38f",
+        "crc32": "f21bc837"
+      }
+    },
+    {
+      "filename": "Hugo (Italy) (Track 2).bin",
+      "filesize": 23176608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7579d978216f84c15b2ebb7f1c0f767b",
+        "sha1": "c48f7dbd03c963153d903f51a302d111a57634f7",
+        "crc32": "4b9a74ce"
+      }
+    },
+    {
+      "filename": "Hugo (Italy) (Track 3).bin",
+      "filesize": 17752896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e96466e1f624c0f997710aba4b8e1d3b",
+        "sha1": "8dd29f846dacb0b63449ca1c3dd4a86af9233e8b",
+        "crc32": "4b0947c3"
+      }
+    },
+    {
+      "filename": "Hugo (Italy) (Track 4).bin",
+      "filesize": 13107696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4ebf596002e19fac3520075dab3fe37",
+        "sha1": "f9346d2864ddced9003e560f70a518faabe8e86f",
+        "crc32": "496d7fa6"
+      }
+    },
+    {
+      "filename": "Hugo (Italy) (Track 5).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "582388bb43094c9ef0c88f1c1aea0e0a",
+        "sha1": "dd5a88f1f17c9f4fa715a0d3286753af60b1c6d0",
+        "crc32": "a98886d2"
+      }
+    }
+  ]
+}

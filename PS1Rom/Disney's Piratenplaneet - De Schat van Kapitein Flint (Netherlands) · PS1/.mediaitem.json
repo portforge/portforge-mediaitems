@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Piratenplaneet - De Schat van Kapitein Flint (Netherlands)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Piratenplaneet - De Schat van Kapitein Flint (Netherlands).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6006a02f105ce654e5b4c6b7d1a9cfde",
+        "sha1": "cb795656e8b3dc85c899e90f2325941008f1f04c",
+        "crc32": "35d9cc22"
+      }
+    },
+    {
+      "filename": "Disney's Piratenplaneet - De Schat van Kapitein Flint (Netherlands).bin",
+      "filesize": 462083328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e08d43a72cfb75fa6c625d0f2d9de66",
+        "sha1": "f9b868b172676565b271ad37b0ac6a1dfd6d776d",
+        "crc32": "c47e9057"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Six (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Six (UK) (Unl).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9db87f28e421abad3dd6bfcf367ae8bb",
+        "sha1": "6fde45661154ea0733cc87e97ebaf32b67bcc944",
+        "crc32": "90b3bf27"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Six (UK) (Unl).bin",
+      "filesize": 517110720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1add872b7ff4fca609bf00a1ca8ddba",
+        "sha1": "852adb90b8f358f845c5a184d6c495243c04c629",
+        "crc32": "92f70b78"
+      }
+    }
+  ]
+}

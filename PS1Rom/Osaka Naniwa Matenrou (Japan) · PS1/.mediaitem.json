@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Osaka Naniwa Matenrou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Osaka Naniwa Matenrou (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2194d12892a1648b5bb2947e05aae78",
+        "sha1": "46291100dab69668c665919c253ad9d401c34a5d",
+        "crc32": "43a37803"
+      }
+    },
+    {
+      "filename": "Osaka Naniwa Matenrou (Japan).bin",
+      "filesize": 338283456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ed0a4bbec0830947a020a789b807d75",
+        "sha1": "23cbf106405eb1eaf2106502d699dc4399a82468",
+        "crc32": "0df6b746"
+      }
+    }
+  ]
+}

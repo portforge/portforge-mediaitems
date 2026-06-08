@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parasite Eve II (USA, Canada) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parasite Eve II (USA, Canada) (Disc 1).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f1e8d5cbc5dd4aeceb3236c2d556b93a",
+        "sha1": "a5063e361a5f9df258440846d26c72ee739ad66e",
+        "crc32": "36395122"
+      }
+    },
+    {
+      "filename": "Parasite Eve II (USA, Canada) (Disc 1).bin",
+      "filesize": 588978432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2528bbcd164efad25c0aaccd8f6982b",
+        "sha1": "e8c7e3c93ea2a0e7d73a170af646fd132ac5b984",
+        "crc32": "4d6a9cbb"
+      }
+    }
+  ]
+}

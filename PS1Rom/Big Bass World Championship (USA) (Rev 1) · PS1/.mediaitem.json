@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Big Bass World Championship (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1).cue",
+      "filesize": 1342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ca1f1e8dc169eb7ee064de982d55451",
+        "sha1": "12124a7a8c6dbb6d7dd8ea293131796e9f2819fe",
+        "crc32": "53caa213"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 01).bin",
+      "filesize": 248940384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54e69777150f5049bdcb2cd12ec32efc",
+        "sha1": "ccf57a8227cd6181eedec5a3190b8d3089eb34f6",
+        "crc32": "7ee7cf76"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 02).bin",
+      "filesize": 27165600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1eaf56520b46158b489bf721080ca24",
+        "sha1": "6d55fcf2ffa0561d8681ad780a7b4a561c03457e",
+        "crc32": "873cc927"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 03).bin",
+      "filesize": 7321776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b4dd8c83ef89100cd4757f4e72c56c8",
+        "sha1": "38b5e64fea5f455d0fe96d1fd4e28ae059319b4b",
+        "crc32": "c30981b6"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 04).bin",
+      "filesize": 2911776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e044a0f7a294bef91c5bca7ab7d4850e",
+        "sha1": "c1f7c11c2acb487033bc1bd331ea20d0f537ba65",
+        "crc32": "1a85df2b"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 05).bin",
+      "filesize": 8467200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a6b730ac5536bb5a65a823bae0af600",
+        "sha1": "fb3ff8a2ef443c0cfa4109c28a3a8cf18a316512",
+        "crc32": "99bd1d2c"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 06).bin",
+      "filesize": 16682736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce6cafbc2b8bd88093402f2af581f1b1",
+        "sha1": "8037404bf6fb9172213a8bfa23332bba62e1c5e0",
+        "crc32": "86d535a2"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 07).bin",
+      "filesize": 16750944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "451f66d4e6d70d3086e6f2910f6e451a",
+        "sha1": "281faa4f0db5cc6fe53c0a28db6e11a54b2676fa",
+        "crc32": "56617811"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 08).bin",
+      "filesize": 12359760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79b16dcd0920df57006bf261d59083a8",
+        "sha1": "32425a4a78a5f2ad62f05af919b1ab76ea3ffaca",
+        "crc32": "9d08fa38"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 09).bin",
+      "filesize": 21873600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80048333ecd346b5ed0130ea0e4b839a",
+        "sha1": "9bac59702720956e9eb6e86b941bf520b40ecae3",
+        "crc32": "d6d3550f"
+      }
+    },
+    {
+      "filename": "Big Bass World Championship (USA) (Rev 1) (Track 10).bin",
+      "filesize": 53272800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e0780125290c5f1c615bed12e03e066",
+        "sha1": "037d1a3d7a4af7465f3a5c8f3492b80aae63ab96",
+        "crc32": "9d741f5e"
+      }
+    }
+  ]
+}

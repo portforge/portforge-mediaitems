@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sound Qube (Japan) (Best of the Best)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sound Qube (Japan) (Best of the Best).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c89460e2cd7caeaf5c0c165c42ecdd07",
+        "sha1": "6a539888a02557d8efcae2b536e932271f7e1f1e",
+        "crc32": "95174549"
+      }
+    },
+    {
+      "filename": "Sound Qube (Japan) (Best of the Best).bin",
+      "filesize": 35395248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4110c65a41b96d8dfeec3f4f06194c13",
+        "sha1": "ccff78500dc6bb7fbdebd76d7fc4aebf25160ce9",
+        "crc32": "ea045294"
+      }
+    }
+  ]
+}

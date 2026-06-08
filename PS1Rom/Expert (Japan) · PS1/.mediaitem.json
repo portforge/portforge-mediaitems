@@ -1,0 +1,227 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Expert (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Expert (Japan).cue",
+      "filesize": 2271,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f147559b360b2fbb9dbb9e6631e9fa1",
+        "sha1": "5c1e1036e9debb70fb7544678cb7136d7375947c",
+        "crc32": "66fbd1a7"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 01).bin",
+      "filesize": 66860304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06eb25570489879890bf4a61bc91fa1a",
+        "sha1": "4e6190e333c6b6c3582f895a9b703138ff3b9ab7",
+        "crc32": "679a18ff"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 02).bin",
+      "filesize": 26730480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bc385ba1788aae17155b8d4a7193447",
+        "sha1": "0aaefe6856a0ce1a2b786eac5f2d4ef39c0aba6a",
+        "crc32": "9436ba82"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 03).bin",
+      "filesize": 30392544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afca107f6633338c46503f250afcc315",
+        "sha1": "059d5f10965469989c1d09e093520e91e3a21766",
+        "crc32": "a89827ca"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 04).bin",
+      "filesize": 6213984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0000c6943c97eab2a08a3a3ae0490f41",
+        "sha1": "437cb464b8d093cf70cfb6cf58899e464648313e",
+        "crc32": "b83dec97"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 05).bin",
+      "filesize": 28529760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6010cad1471f82ac1eff34c529d0603",
+        "sha1": "523c90da132aad95bb113684d0ebad2f75bb700d",
+        "crc32": "a3d65c1a"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 06).bin",
+      "filesize": 19013568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "840e0d5e4ed5c437fbbf9c385bfe4201",
+        "sha1": "d86abe87b3faa3b2c452fa434705d9d696bd7a0d",
+        "crc32": "895ac2fc"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 07).bin",
+      "filesize": 1446480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b8c7afa8316999909a465aa013f848a",
+        "sha1": "10008ebb7a4e652a6dacdd65080a463564bc7468",
+        "crc32": "660f49f9"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 08).bin",
+      "filesize": 26784576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15722f1c7af1068a3fc6534617ddc110",
+        "sha1": "b3c046cf5a6ecf1850f55fa438fb5ff44bd942c3",
+        "crc32": "975b5c46"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 09).bin",
+      "filesize": 36531264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98324ae171d6e33fcc7f46f59e2fe4cc",
+        "sha1": "6c3dba2c697c66ff141c9297b54ec57fadbe511b",
+        "crc32": "01aa2cbe"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 10).bin",
+      "filesize": 28981344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a2768a9e28662c2cec0529c176c6d2d",
+        "sha1": "e9b2841c1d04bb10b7b55a3c800b22efd348baec",
+        "crc32": "3279571f"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 11).bin",
+      "filesize": 35665728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f863cbbd896aa30299391a14e71fffab",
+        "sha1": "e6986262ac99d1a4a8238dfdb538b9c62ad30996",
+        "crc32": "817f8355"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 12).bin",
+      "filesize": 33080880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46e791bdb3c76cf91273147ef17b1102",
+        "sha1": "0ccbc422ae07315dda4253ca4d1a7f797058edad",
+        "crc32": "db9d4c3e"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 13).bin",
+      "filesize": 24371424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f1140d5c0c757ef4757575f306ce662",
+        "sha1": "6bd02a341d5004484f9395b4a0e5dd3b989b9bb0",
+        "crc32": "b7af575b"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 14).bin",
+      "filesize": 29614032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "620753c7583cfdfa65b905711266ae04",
+        "sha1": "1b521e46c65212b1c9e6de92fe2bd860c30c5f0f",
+        "crc32": "2f0b7d60"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 15).bin",
+      "filesize": 32485824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5b319e7c9a3b61b9dfaf995476d62f7",
+        "sha1": "051620603251a1d5130a66a075c66bab769a5833",
+        "crc32": "ceebb4fe"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 16).bin",
+      "filesize": 14255472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "436dd45ec6da19c3b9227c042cc1aa5e",
+        "sha1": "7662d2f73ed46e8f9ed044b9b26925cc77505e2f",
+        "crc32": "b32ec936"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 17).bin",
+      "filesize": 12667872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cd57d71adec99609bb96e22489efeb3",
+        "sha1": "206710ceeb48d640689f4485071aae60cda001b0",
+        "crc32": "cb515970"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 18).bin",
+      "filesize": 14109648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e101d4ca0bc0e09d3584b31155fae97",
+        "sha1": "b2bc5e4a6cad7f674a25d3076e6e12cf64dee701",
+        "crc32": "c6d8354e"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 19).bin",
+      "filesize": 11651808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4115400530e04e2ddcbfb233fb7feaf9",
+        "sha1": "cdbcbc197de8a26dbc6c126eac5b31c99bb768cc",
+        "crc32": "6e0f3c8c"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 20).bin",
+      "filesize": 12458544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f2e2efb187f69956b73a62bf5418ad1",
+        "sha1": "c92aeb7de4b3bc2b0f5de407a2a649afa297d30f",
+        "crc32": "f5881b64"
+      }
+    },
+    {
+      "filename": "Expert (Japan) (Track 21).bin",
+      "filesize": 44671536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b13bf6b49c77fc6175e8a421839bb559",
+        "sha1": "5e9e066fa3a01a16f452cb37d5f23d9b87b0ae8d",
+        "crc32": "b1ab9122"
+      }
+    }
+  ]
+}

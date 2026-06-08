@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "South Park - Chef's Luv Shack (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "South Park - Chef's Luv Shack (Europe) (Demo).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "767711de6892b6c497ab7bb1e8025525",
+        "sha1": "2e262f41ca3fc7bafacc61e875bbc1ec1ba7d3db",
+        "crc32": "acfd98ab"
+      }
+    },
+    {
+      "filename": "South Park - Chef's Luv Shack (Europe) (Demo) (Track 1).bin",
+      "filesize": 27953520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "728fecc19f9f0e418ac344405526d038",
+        "sha1": "22be8e7c9c315e2096f3ec50f28fcf74de076ec2",
+        "crc32": "dc6b06f4"
+      }
+    },
+    {
+      "filename": "South Park - Chef's Luv Shack (Europe) (Demo) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

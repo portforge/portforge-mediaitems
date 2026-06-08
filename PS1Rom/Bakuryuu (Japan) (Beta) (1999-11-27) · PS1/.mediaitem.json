@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bakuryuu (Japan) (Beta) (1999-11-27)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bakuryuu (Japan) (Beta) (1999-11-27).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a2d473f3b10560fd8a900635745b74c4",
+        "sha1": "f4a97838e65776a7704c9fb6af1e1b12f1b75d7f",
+        "crc32": "e4d624b8"
+      }
+    },
+    {
+      "filename": "Bakuryuu (Japan) (Beta) (1999-11-27).bin",
+      "filesize": 163901472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "747a0071378f38ec5305080198eb41c7",
+        "sha1": "5efc98744e38c541078ffcccd68a6646a8f6b5da",
+        "crc32": "d2f3284a"
+      }
+    }
+  ]
+}

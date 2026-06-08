@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Omega Soldier (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Omega Soldier (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d22a839a7952e1ad2874c67f9dfe2f8c",
+        "sha1": "17c0a979ad329d5cd12de5f42435dff61bdda7c0",
+        "crc32": "11b0cab3"
+      }
+    },
+    {
+      "filename": "Army Men - Omega Soldier (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 447853728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec8866c9ebf5b99790b94a5b56af16b1",
+        "sha1": "6591d4204ad48d0e17d8fbfce7e2373d55f5b919",
+        "crc32": "2208bdc8"
+      }
+    }
+  ]
+}

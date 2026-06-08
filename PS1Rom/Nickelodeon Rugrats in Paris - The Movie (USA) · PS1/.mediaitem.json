@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Rugrats in Paris - The Movie (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Rugrats in Paris - The Movie (USA).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "803d2610b5b49ea2f0015bf3bc1b8b0d",
+        "sha1": "f612cdef6b8ba8d6262061897920a13617167996",
+        "crc32": "e8700d16"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats in Paris - The Movie (USA).bin",
+      "filesize": 124938240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7e89bdeae47788e15a74e2631d36432",
+        "sha1": "3e7ee1bc2b8d18bdeec7bafea5c98e978ebf6681",
+        "crc32": "d1f2a7b6"
+      }
+    }
+  ]
+}

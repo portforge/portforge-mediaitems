@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 1) (Joukan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 1) (Joukan).cue",
+      "filesize": 148,
+      "ext": "cue",
+      "checksums": {
+        "md5": "48834516094cf817dd08abd6008afc63",
+        "sha1": "3d8771b9b824f3c541305d6a5ccd936f5af8f146",
+        "crc32": "e708cbc5"
+      }
+    },
+    {
+      "filename": "Cinema Eikaiwa Series Dai-1-dan - Tengoku ni Ikenai Papa (Japan) (Disc 1) (Joukan).bin",
+      "filesize": 548789808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "deca9532442e0550dd2a0080eb91592e",
+        "sha1": "9cfd51493829092fc6b58cbf45ddc43896e44c55",
+        "crc32": "e6bb71bd"
+      }
+    }
+  ]
+}

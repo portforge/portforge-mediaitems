@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Registered Users Demo 08 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Registered Users Demo 08 (Europe).cue",
+      "filesize": 871,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb0054e4de974b1deafe2b7db8a5d1d0",
+        "sha1": "906d76c447527311b36c054b3e99767b699dc542",
+        "crc32": "f4b05a23"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 08 (Europe) (Track 1).bin",
+      "filesize": 492083088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3bfa8287a3739df46547308d3c116d5",
+        "sha1": "f2dbcd93a4e1c2e3682cbcf412663b9845c68029",
+        "crc32": "09ca5f4a"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 08 (Europe) (Track 2).bin",
+      "filesize": 46341456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e820092aed687314aeddcb2871d6ec9",
+        "sha1": "df232564a4fdb5cd837353437859d342908c310c",
+        "crc32": "f04f958d"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 08 (Europe) (Track 3).bin",
+      "filesize": 14288400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29e0a8fcef76806ff2a371ed6651ef36",
+        "sha1": "1fe45eaf8bfc9bfe9ee997ebacab48b9005d6e02",
+        "crc32": "55de6683"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 08 (Europe) (Track 4).bin",
+      "filesize": 20452992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ebf5435a4157d3ebef0f62349f5035e",
+        "sha1": "3c7f44dd6e25259908f88d2d01a2146194fd4f06",
+        "crc32": "9e7d0e0e"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 08 (Europe) (Track 5).bin",
+      "filesize": 18404400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf54518a34947eb7de09acdad2e91a90",
+        "sha1": "119b8d26ee809a9be60473e16bc01a29c39cc223",
+        "crc32": "089183d6"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 08 (Europe) (Track 6).bin",
+      "filesize": 12691392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e5422e54d7e70a15fe5026b0ec8f093",
+        "sha1": "120d3c3fdfba0adb3270efcb5a0779b164377888",
+        "crc32": "56a35c1e"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 08 (Europe) (Track 7).bin",
+      "filesize": 32358816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e75f54dd64f85303f3e868b6ea785b0b",
+        "sha1": "d5b898bdfb618198abaadd5909a69d31531cda79",
+        "crc32": "51a13815"
+      }
+    }
+  ]
+}

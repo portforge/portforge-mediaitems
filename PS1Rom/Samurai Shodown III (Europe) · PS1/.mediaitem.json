@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Samurai Shodown III (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Samurai Shodown III (Europe).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d2eba49bccb323b785779aa4a640801",
+        "sha1": "d074a2b7d5cee77aeffb60f33c47c62193ea270b",
+        "crc32": "e84a524b"
+      }
+    },
+    {
+      "filename": "Samurai Shodown III (Europe).bin",
+      "filesize": 415795968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddd2abb6e47c555135497de909c8bb59",
+        "sha1": "2e55c01a7ca0b621e088bbe9599d00758c4fc1ad",
+        "crc32": "b84ed087"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Air Attack (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Air Attack (USA).cue",
+      "filesize": 466,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c3299cb0a36421ccc87ec588b8c25e4d",
+        "sha1": "f5db3ed76a66bdcfaaf0c1b501ebadd6a2396878",
+        "crc32": "0131f5b7"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack (USA) (Track 1).bin",
+      "filesize": 470087184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee6561a956bac8a0111cb0e2ebc1cd3a",
+        "sha1": "15320b454ee0956cd6ff0d4e0813e0c6f0485736",
+        "crc32": "9b56842e"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack (USA) (Track 2).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ad67c10f707c0e12fd20081c8410364",
+        "sha1": "46f81dd603a1e525cf2d0a95985aa00bf1ffad86",
+        "crc32": "89baf761"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack (USA) (Track 3).bin",
+      "filesize": 11211984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d47f3f5e77772baac2484e1cf0117fcf",
+        "sha1": "b1332cbdd0a4d1d7d5389ccb02457f86c16ee0b5",
+        "crc32": "33afe2a6"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack (USA) (Track 4).bin",
+      "filesize": 32109504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d222c012e0358bcda70abbe0dba52c14",
+        "sha1": "d5418ed8ce063fbda475beba6eaa588cd1e6e21a",
+        "crc32": "cdf24b1c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tantei Jinguuji Saburou - Tomoshibi ga Kienu Ma ni (Japan) (Fukyuuban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tantei Jinguuji Saburou - Tomoshibi ga Kienu Ma ni (Japan) (Fukyuuban).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5be17cf83743dc7e2aca303644a2a71c",
+        "sha1": "96e1783454a3eab6609803c8bb5c46e2e8d42bc9",
+        "crc32": "5df0684b"
+      }
+    },
+    {
+      "filename": "Tantei Jinguuji Saburou - Tomoshibi ga Kienu Ma ni (Japan) (Fukyuuban).bin",
+      "filesize": 738819648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08a8e4f588360c40289cc43d488eb6cb",
+        "sha1": "ed49bcf5cb969e4719a11ffeaadd5c42d5357664",
+        "crc32": "f708a694"
+      }
+    }
+  ]
+}

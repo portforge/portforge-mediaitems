@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "JailBreaker (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "JailBreaker (Japan) (Disc 2).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7fffe63b11c3155b52b6794e5ee90830",
+        "sha1": "1add8cc831baa0946727a912a12e7028d721f5d8",
+        "crc32": "6359b666"
+      }
+    },
+    {
+      "filename": "JailBreaker (Japan) (Disc 2).bin",
+      "filesize": 645504048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de6d89f577a5da76e64dfafe50dac733",
+        "sha1": "72499b963c6ae4bf9fb8626f3102e1544424d837",
+        "crc32": "23b2164a"
+      }
+    }
+  ]
+}

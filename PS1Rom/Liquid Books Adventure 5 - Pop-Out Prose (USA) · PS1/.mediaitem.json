@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Liquid Books Adventure 5 - Pop-Out Prose (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Liquid Books Adventure 5 - Pop-Out Prose (USA).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f102710644b87695ef8d18370219c166",
+        "sha1": "6740d5fd3251fe620f25816372aab526a5bd8a62",
+        "crc32": "3c7a858b"
+      }
+    },
+    {
+      "filename": "Liquid Books Adventure 5 - Pop-Out Prose (USA).bin",
+      "filesize": 227779440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "367f9817746c61a498d361bcd8aa7d30",
+        "sha1": "adf1fd37ce9022fc29dce9557b2000a8a26b8bc8",
+        "crc32": "bf3bd20a"
+      }
+    }
+  ]
+}

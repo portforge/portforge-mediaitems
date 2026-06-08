@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sony Music Entertainment - PlayStation Title Digest (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sony Music Entertainment - PlayStation Title Digest (Japan).cue",
+      "filesize": 747,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c1bcc1521c8f7112b4ca8c816e396312",
+        "sha1": "68a927c9827780cde01b0c90a06997cbe97ce565",
+        "crc32": "0d4a09e7"
+      }
+    },
+    {
+      "filename": "Sony Music Entertainment - PlayStation Title Digest (Japan) (Track 1).bin",
+      "filesize": 198186576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff1fb89ad365249f6375bb0ba81d4c09",
+        "sha1": "e5812eb326fe7434478b6306d9755fa9878c292e",
+        "crc32": "3dcf710b"
+      }
+    },
+    {
+      "filename": "Sony Music Entertainment - PlayStation Title Digest (Japan) (Track 2).bin",
+      "filesize": 24020976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46ebb1070e58215be15974bc4c0a2245",
+        "sha1": "b75f8bd29be74212524ba4e5b4f621ea4aaa01c0",
+        "crc32": "0d64b91a"
+      }
+    },
+    {
+      "filename": "Sony Music Entertainment - PlayStation Title Digest (Japan) (Track 3).bin",
+      "filesize": 23856336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c1d252485a3c6093a7a4d61987dd118",
+        "sha1": "2439376114e2683924a04a7e6fbb24a4e2e9a04c",
+        "crc32": "dd074959"
+      }
+    },
+    {
+      "filename": "Sony Music Entertainment - PlayStation Title Digest (Japan) (Track 4).bin",
+      "filesize": 35352912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6de2b64fe143409dfad1a8edf82181b",
+        "sha1": "318bc2b1ab7e5478095988f8a604831e5975b722",
+        "crc32": "7b053883"
+      }
+    },
+    {
+      "filename": "Sony Music Entertainment - PlayStation Title Digest (Japan) (Track 5).bin",
+      "filesize": 39685296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b0b0d132958e62b066486a2f5fea75c",
+        "sha1": "04f80bef01ec38085bb3965fc882abb8d96ee03b",
+        "crc32": "6c382e57"
+      }
+    }
+  ]
+}

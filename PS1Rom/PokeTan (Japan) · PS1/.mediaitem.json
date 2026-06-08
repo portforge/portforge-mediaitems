@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PokeTan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PokeTan (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d6985628d478b8a5ee4101762740935",
+        "sha1": "4fa5a499f2ab8c849372efa2781344d0ffda7119",
+        "crc32": "92316deb"
+      }
+    },
+    {
+      "filename": "PokeTan (Japan).bin",
+      "filesize": 44638608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4e4d34c6cf872bdb58bc3509049c64f",
+        "sha1": "2dbfbd7557414510cabf1bd3b53827d97ecec85c",
+        "crc32": "81e558c1"
+      }
+    }
+  ]
+}

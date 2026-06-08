@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suikoden (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suikoden (Europe).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1441e61628ba36bf1db73ce37dd01e84",
+        "sha1": "227d29eb57bb7b0ac3eb8b192f62f91e27f42eef",
+        "crc32": "13e52ff9"
+      }
+    },
+    {
+      "filename": "Suikoden (Europe).bin",
+      "filesize": 590843568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa873f86edf4811aca51395218f704f0",
+        "sha1": "7654c3040813c737472445e4d9ef046a1d7af76a",
+        "crc32": "66176db6"
+      }
+    }
+  ]
+}

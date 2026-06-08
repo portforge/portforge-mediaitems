@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ronaldo V-Football (Europe) (De,Es,It,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ronaldo V-Football (Europe) (De,Es,It,Pt).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "80e655d547bd13da85931aa5a2e9bf39",
+        "sha1": "46f351815c7636d597c049d139178e63497aa43e",
+        "crc32": "11c2815c"
+      }
+    },
+    {
+      "filename": "Ronaldo V-Football (Europe) (De,Es,It,Pt).bin",
+      "filesize": 657572160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d13286949d620ff9718acbab8f51e3a",
+        "sha1": "1ad469c966f8325e5a7964f007e31b79b4d06954",
+        "crc32": "74b6058e"
+      }
+    }
+  ]
+}

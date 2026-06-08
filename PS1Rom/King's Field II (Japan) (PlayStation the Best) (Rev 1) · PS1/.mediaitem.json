@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King's Field II (Japan) (PlayStation the Best) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King's Field II (Japan) (PlayStation the Best) (Rev 1).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "edee3716b560b53292e5df3bdeaf24ed",
+        "sha1": "3b26f369a1d1c1b0665dbc61dcc4615f0b678e5c",
+        "crc32": "f818c20a"
+      }
+    },
+    {
+      "filename": "King's Field II (Japan) (PlayStation the Best) (Rev 1).bin",
+      "filesize": 125479200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87b5af86b15c99f5d42c1ddc5a5e864c",
+        "sha1": "54fc0bd9100b273c70d8a334915c7a15dfd9aecc",
+        "crc32": "11fbcd36"
+      }
+    }
+  ]
+}

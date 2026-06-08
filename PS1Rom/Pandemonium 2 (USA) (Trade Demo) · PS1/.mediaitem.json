@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pandemonium 2 (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pandemonium 2 (USA) (Trade Demo).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0789a85a6f665c7413439f7bb3e84cd4",
+        "sha1": "9b061ab4d2da8418294cae1ca6a9f12e9bfdb3b8",
+        "crc32": "fbdec91a"
+      }
+    },
+    {
+      "filename": "Pandemonium 2 (USA) (Trade Demo).bin",
+      "filesize": 346840032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f8570cd23c904826e84433fc318f095",
+        "sha1": "d4a3b7cf3ab91cfd36c36cae4056a421a26631af",
+        "crc32": "0387d583"
+      }
+    }
+  ]
+}

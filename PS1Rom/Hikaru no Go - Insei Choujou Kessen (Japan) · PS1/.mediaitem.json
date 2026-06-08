@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hikaru no Go - Insei Choujou Kessen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hikaru no Go - Insei Choujou Kessen (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08f2323f99b921abf2544638c1e3eedc",
+        "sha1": "c972c4e28f37797bccaeff687ee5ad577b5c3798",
+        "crc32": "e32118c7"
+      }
+    },
+    {
+      "filename": "Hikaru no Go - Insei Choujou Kessen (Japan).bin",
+      "filesize": 539821632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6632be068491f07983218c64bde5202b",
+        "sha1": "05eb4266fa0139482aadd3ba4f7cbb70754712a9",
+        "crc32": "7f88e34c"
+      }
+    }
+  ]
+}

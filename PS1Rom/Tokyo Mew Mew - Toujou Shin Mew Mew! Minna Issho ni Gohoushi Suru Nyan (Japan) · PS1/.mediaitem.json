@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Mew Mew - Toujou Shin Mew Mew! Minna Issho ni Gohoushi Suru Nyan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Mew Mew - Toujou Shin Mew Mew! Minna Issho ni Gohoushi Suru Nyan (Japan).cue",
+      "filesize": 326,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba39e75d5f3e179958368bd1b12b99da",
+        "sha1": "1b500864d933b7e3a74509077e1f788c60959951",
+        "crc32": "603d6957"
+      }
+    },
+    {
+      "filename": "Tokyo Mew Mew - Toujou Shin Mew Mew! Minna Issho ni Gohoushi Suru Nyan (Japan) (Track 1).bin",
+      "filesize": 589989792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c77e4360b931dba18c7f08600a79136",
+        "sha1": "98d396f93c5fa25232ae5c54a046350dd4c09d47",
+        "crc32": "ddc80ce1"
+      }
+    },
+    {
+      "filename": "Tokyo Mew Mew - Toujou Shin Mew Mew! Minna Issho ni Gohoushi Suru Nyan (Japan) (Track 2).bin",
+      "filesize": 32546976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "531ec7e124752d7185b1dad6a0bdb9cd",
+        "sha1": "c034fbdde2e571ba380ad233ac75e35780643df9",
+        "crc32": "92134ac7"
+      }
+    }
+  ]
+}

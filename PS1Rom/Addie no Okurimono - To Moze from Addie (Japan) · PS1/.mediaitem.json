@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Addie no Okurimono - To Moze from Addie (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan).cue",
+      "filesize": 546,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75db3c1982e72ebe843dc602dd104d36",
+        "sha1": "9b5afca64d992cc17767c93c7c7088d91833b055",
+        "crc32": "549fee82"
+      }
+    },
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Track 1).bin",
+      "filesize": 101011344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "131e6cbda2a6a2805ac96aa5589cf6b6",
+        "sha1": "a897213ae6ef830fb89f5e193223956cac9b566d",
+        "crc32": "8785f7c0"
+      }
+    },
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Track 2).bin",
+      "filesize": 24794784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a02a3938e5ef45491b892049868ca401",
+        "sha1": "bf5bf38e718b615ad3d55ffdd9ffbabdf6884492",
+        "crc32": "1effbec4"
+      }
+    },
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Track 3).bin",
+      "filesize": 29247120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf5e38d6683b14b1353e19c9f688de36",
+        "sha1": "e36bc2ee410358b180dad539bce18a904655ec80",
+        "crc32": "c13d44a7"
+      }
+    },
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Track 4).bin",
+      "filesize": 28002912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6d9c9a3e35905cbafa3408d3a921539",
+        "sha1": "39f3710fae10cbf1ad38269244b760fed241c896",
+        "crc32": "1c4886dd"
+      }
+    }
+  ]
+}

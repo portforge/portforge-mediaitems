@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighter Maker (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighter Maker (USA).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f27f00b6b40a391d965cfd4122a1ee66",
+        "sha1": "2d2730aa4914f52899f2bdb74467c30865d0a0f5",
+        "crc32": "e7274407"
+      }
+    },
+    {
+      "filename": "Fighter Maker (USA) (Track 1).bin",
+      "filesize": 10329984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54f2e7417859dc1abb22436c6ca00542",
+        "sha1": "b0df35fed4493866f9c748dffd1f85a15177e20e",
+        "crc32": "ba2da5a0"
+      }
+    },
+    {
+      "filename": "Fighter Maker (USA) (Track 2).bin",
+      "filesize": 480212544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54550879a29fba580194967a2ba863fb",
+        "sha1": "d822b15b522bc882479109d41c62b45b83e10b26",
+        "crc32": "37e1f393"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Four (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Four (UK) (Unl).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8607fb7bd7425b25cb37403cb4b0b9ce",
+        "sha1": "9769a66597a0882e7deceb71d6d3f7e60d330453",
+        "crc32": "22451eb2"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Four (UK) (Unl).bin",
+      "filesize": 450563232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21af1723a51652f05b47a8fea882ebd6",
+        "sha1": "be2adad92c23651bae7ee5311c24be69a099d4db",
+        "crc32": "c9b0bf73"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Robot Taisen Alpha (Japan) (Limited Edition)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Robot Taisen Alpha (Japan) (Limited Edition).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ebc70a70ba17d76fe44ab58c17db7a62",
+        "sha1": "485dc9a6ffc44e1c7196ce6b681b67b206fe1754",
+        "crc32": "0014dcee"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen Alpha (Japan) (Limited Edition).bin",
+      "filesize": 646374288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a18795fe95c43f9e799edbfba2a8656",
+        "sha1": "914a07e58ed4b68ea7a2b732372a565f532fab0d",
+        "crc32": "b6550e08"
+      }
+    }
+  ]
+}

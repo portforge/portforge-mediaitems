@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "XS Junior League Dodgeball (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "XS Junior League Dodgeball (USA).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a3de7bf3d15041747bb362f309b54f73",
+        "sha1": "644c35bfee8e0d44723e25c49b2c8887a27232a8",
+        "crc32": "e76bb33c"
+      }
+    },
+    {
+      "filename": "XS Junior League Dodgeball (USA).bin",
+      "filesize": 540962352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a560ee4ef530611e566524280fd52d6e",
+        "sha1": "e702a3bb68e14624802398c1ce374db36c7f1581",
+        "crc32": "79bde12b"
+      }
+    }
+  ]
+}

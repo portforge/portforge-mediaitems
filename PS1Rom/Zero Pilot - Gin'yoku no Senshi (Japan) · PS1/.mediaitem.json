@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zero Pilot - Gin'yoku no Senshi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zero Pilot - Gin'yoku no Senshi (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b08332d0878e3886e183bf151419a191",
+        "sha1": "13629123a1de1120d7b366e31b4ac080ee090a66",
+        "crc32": "46eb2c22"
+      }
+    },
+    {
+      "filename": "Zero Pilot - Gin'yoku no Senshi (Japan).bin",
+      "filesize": 548199456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f059d25a43136a03422846cab33379b",
+        "sha1": "f4d42885456bce698d1b0ae1cf2cbf62bed5b520",
+        "crc32": "53559f16"
+      }
+    }
+  ]
+}

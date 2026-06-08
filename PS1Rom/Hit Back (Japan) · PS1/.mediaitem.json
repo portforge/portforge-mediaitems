@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hit Back (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hit Back (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61c586c3dfddeb979c35856abd00d053",
+        "sha1": "d85a2b49b8261168191c5e557e7fbfcb70600ff4",
+        "crc32": "9ee61720"
+      }
+    },
+    {
+      "filename": "Hit Back (Japan).bin",
+      "filesize": 634943568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1953739a8d1c5034fead9a0b82fe96bb",
+        "sha1": "b9a4b45ad7d99fc5556e79f51d5b2e3dcb70fbcc",
+        "crc32": "47c5a79f"
+      }
+    }
+  ]
+}

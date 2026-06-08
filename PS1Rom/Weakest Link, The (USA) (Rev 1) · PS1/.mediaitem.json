@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Weakest Link, The (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Weakest Link, The (USA) (Rev 1).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d0f678d72a75268f0582a771d6daa5e",
+        "sha1": "eea58d9d74cd12b8914f3fa84596d302736c4889",
+        "crc32": "4329e8ef"
+      }
+    },
+    {
+      "filename": "Weakest Link, The (USA) (Rev 1).bin",
+      "filesize": 722289792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "532d2e35b5122b95d25c3359b7450eb6",
+        "sha1": "ba9e7cbc8f8674f5aab0de21b60a45238e68ec0d",
+        "crc32": "83843427"
+      }
+    }
+  ]
+}

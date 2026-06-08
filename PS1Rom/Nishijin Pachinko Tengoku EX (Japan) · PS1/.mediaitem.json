@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nishijin Pachinko Tengoku EX (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nishijin Pachinko Tengoku EX (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f334d2b47d0d8658c13f9d6cf33afbfb",
+        "sha1": "e61c611b1b2a11cdfb9e6b075de59ea2465a7d5a",
+        "crc32": "9f2144c6"
+      }
+    },
+    {
+      "filename": "Nishijin Pachinko Tengoku EX (Japan).bin",
+      "filesize": 98480592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc71926ac237b914d3d2b9ea83d5ceec",
+        "sha1": "890b7ad2dcf1c952bf4d6d5d1c6b83031cfe3396",
+        "crc32": "d3b93edf"
+      }
+    }
+  ]
+}

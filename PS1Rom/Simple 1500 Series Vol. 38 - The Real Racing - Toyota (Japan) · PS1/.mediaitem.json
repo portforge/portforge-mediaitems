@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 38 - The Real Racing - Toyota (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 38 - The Real Racing - Toyota (Japan).cue",
+      "filesize": 292,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8925916559027d404d1df313ee0fd7d3",
+        "sha1": "d75a9b90c16be388a8b4512d8d93d4414ca31909",
+        "crc32": "6ae6550c"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 38 - The Real Racing - Toyota (Japan) (Track 1).bin",
+      "filesize": 219641520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e538a5c274331c81347ff9f348222e51",
+        "sha1": "bc29977cfb96d14d0c52c3d4f2d3fd2e85b82a54",
+        "crc32": "a003282f"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 38 - The Real Racing - Toyota (Japan) (Track 2).bin",
+      "filesize": 34009920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d23374cbcc369e44ccc72aa28778ec1",
+        "sha1": "2075a5258c461d30944839758ba2c290a2c456d4",
+        "crc32": "027d3086"
+      }
+    }
+  ]
+}

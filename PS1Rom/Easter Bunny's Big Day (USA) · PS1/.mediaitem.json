@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Easter Bunny's Big Day (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Easter Bunny's Big Day (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "019c201fd314068f50afe7753befeb22",
+        "sha1": "30651a0d74d391b513d9ba0fcb570d31db8286f3",
+        "crc32": "7dad825f"
+      }
+    },
+    {
+      "filename": "Easter Bunny's Big Day (USA).bin",
+      "filesize": 308554176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50659d25302821569acedb669b541b23",
+        "sha1": "0601dd0a1999945e125af4c518e826ee6c398b48",
+        "crc32": "2e303b9a"
+      }
+    }
+  ]
+}

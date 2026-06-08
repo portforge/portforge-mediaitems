@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bakusou Kyoudai Let's & Go!! Eternal Wings (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bakusou Kyoudai Let's & Go!! Eternal Wings (Japan).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e519de0f2c3fcb220c0b8b764494698",
+        "sha1": "43545e24c7dd3de25126d05b0db3d47e513109dd",
+        "crc32": "1e8dba1a"
+      }
+    },
+    {
+      "filename": "Bakusou Kyoudai Let's & Go!! Eternal Wings (Japan) (Track 1).bin",
+      "filesize": 474381936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fc049b468b882cfabbea547be02b18f",
+        "sha1": "cb8b80dc39ca3336590a15e54e2629cc892b8cc9",
+        "crc32": "d2fcc640"
+      }
+    },
+    {
+      "filename": "Bakusou Kyoudai Let's & Go!! Eternal Wings (Japan) (Track 2).bin",
+      "filesize": 36060864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "311e8d2e2f31f2cf37329f558b86ec93",
+        "sha1": "892e8b236da3fc115c2f43ad461ff8e837775028",
+        "crc32": "81b6b6e5"
+      }
+    }
+  ]
+}

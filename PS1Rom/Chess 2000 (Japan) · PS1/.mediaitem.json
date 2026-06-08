@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chess 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chess 2000 (Japan).cue",
+      "filesize": 430,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34cf6f32e0ef5ee64670f1366a2e2de1",
+        "sha1": "888d1f66db7439362450ff7f76904d8872c2bf5a",
+        "crc32": "89fe502b"
+      }
+    },
+    {
+      "filename": "Chess 2000 (Japan) (Track 1).bin",
+      "filesize": 2069760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bf82889b4d86e40a3c2ddefb2a8e0c4",
+        "sha1": "7971dfe15993b7594deab82fc8072f2cdff10a16",
+        "crc32": "08a07a85"
+      }
+    },
+    {
+      "filename": "Chess 2000 (Japan) (Track 2).bin",
+      "filesize": 68111568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16481209879d2994ed30a7b7782458e1",
+        "sha1": "46929d6a1bdbee6425fa03e34c5550ac562b460b",
+        "crc32": "e072889f"
+      }
+    },
+    {
+      "filename": "Chess 2000 (Japan) (Track 3).bin",
+      "filesize": 80036208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2432e1bf131395d2642358f20710faf",
+        "sha1": "81d5bc25fae6c221f2152f7c805fd19e43e0873b",
+        "crc32": "373a98aa"
+      }
+    },
+    {
+      "filename": "Chess 2000 (Japan) (Track 4).bin",
+      "filesize": 54564048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce9c89b8013024d8788edb3ac6aa0cde",
+        "sha1": "8a0b812bfff2c1f5a5c48ec00cdce3bfcf50f08f",
+        "crc32": "5baf174c"
+      }
+    }
+  ]
+}

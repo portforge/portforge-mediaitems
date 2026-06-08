@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sesame Street Sports (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sesame Street Sports (Europe).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "81bc086a01cf938046bcf6cd9d9d30b7",
+        "sha1": "d1e58ec9b23527e31a205d8a877040bb9f51d074",
+        "crc32": "4967a5b2"
+      }
+    },
+    {
+      "filename": "Sesame Street Sports (Europe).bin",
+      "filesize": 371035056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63e5b55335c7e19dc41ea5132187d535",
+        "sha1": "f72d66821a65c6289eddbbdd71e3302d89b409b1",
+        "crc32": "b564c190"
+      }
+    }
+  ]
+}

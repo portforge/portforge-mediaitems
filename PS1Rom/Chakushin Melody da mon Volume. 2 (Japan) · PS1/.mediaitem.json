@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chakushin Melody da mon Volume. 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chakushin Melody da mon Volume. 2 (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ddb42badf2e48fabc5dfa11641f33ca2",
+        "sha1": "4dc650b294293a4a7bd86fd6ee43094f2a58891a",
+        "crc32": "5e5622b5"
+      }
+    },
+    {
+      "filename": "Chakushin Melody da mon Volume. 2 (Japan).bin",
+      "filesize": 49227360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "999382e2cbe9f1f513a44f849c3a3904",
+        "sha1": "130e615027a760bcd534cdd2618a8c560f7ce1b5",
+        "crc32": "af6a0f78"
+      }
+    }
+  ]
+}

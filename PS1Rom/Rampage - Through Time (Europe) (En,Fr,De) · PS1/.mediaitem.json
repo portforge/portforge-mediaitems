@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rampage - Through Time (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rampage - Through Time (Europe) (En,Fr,De).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "456c8cc39e0b8bf7e7cdea5d3070a8ff",
+        "sha1": "8b6f9ebbe38a2b97da23c3936e6fe0b89b4b571e",
+        "crc32": "4ebae48e"
+      }
+    },
+    {
+      "filename": "Rampage - Through Time (Europe) (En,Fr,De).bin",
+      "filesize": 485737392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ceca9bb5f0d007913d0043dd7627949",
+        "sha1": "34f1e8338a4fb0e401f26a6e72d1b955e0e1ff0d",
+        "crc32": "52e3e788"
+      }
+    }
+  ]
+}

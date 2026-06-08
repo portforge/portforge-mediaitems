@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zoids - Battle Card Game - Seihou Tairiku Senki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zoids - Battle Card Game - Seihou Tairiku Senki (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21a74c90370aa65e971951431b2a831d",
+        "sha1": "abf8ab9c219c5d076111c6da3fd1372512d0bb5f",
+        "crc32": "3a560299"
+      }
+    },
+    {
+      "filename": "Zoids - Battle Card Game - Seihou Tairiku Senki (Japan).bin",
+      "filesize": 384996528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9aa7091114fe9b17fc06e8effd5d6039",
+        "sha1": "2a1f07769dcf092e182cbbc3e6900a6124b9d418",
+        "crc32": "9615552b"
+      }
+    }
+  ]
+}

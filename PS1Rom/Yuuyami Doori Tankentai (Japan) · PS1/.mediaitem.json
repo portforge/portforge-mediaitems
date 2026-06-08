@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yuuyami Doori Tankentai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yuuyami Doori Tankentai (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d05c1b823eb46b0c008cd3c43de159a",
+        "sha1": "9342bde5661d23b86aca1b1425560fc987e1dbc6",
+        "crc32": "d8373752"
+      }
+    },
+    {
+      "filename": "Yuuyami Doori Tankentai (Japan).bin",
+      "filesize": 723656304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e594e58115aa8e2967d985371ca264e",
+        "sha1": "a6025151bddbf2c48157f0f5b91a27e03301a6f9",
+        "crc32": "9d2b1afe"
+      }
+    }
+  ]
+}

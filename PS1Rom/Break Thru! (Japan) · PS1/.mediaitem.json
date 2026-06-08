@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Break Thru! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Break Thru! (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b162f137648ef0b644a6cdcc606d668",
+        "sha1": "8d4da9e8d3b4b51f78314fa6fcdf3b1e7a5106cd",
+        "crc32": "306d0568"
+      }
+    },
+    {
+      "filename": "Break Thru! (Japan).bin",
+      "filesize": 31940160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97c62eea52abf9d70312f1f70787a650",
+        "sha1": "c0cfd3fdc8f885df39e61785ee63dbe11a2abdc7",
+        "crc32": "c0a352db"
+      }
+    }
+  ]
+}

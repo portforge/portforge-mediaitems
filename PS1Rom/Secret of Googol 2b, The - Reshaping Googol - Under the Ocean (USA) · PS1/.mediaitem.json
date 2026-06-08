@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Secret of Googol 2b, The - Reshaping Googol - Under the Ocean (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Secret of Googol 2b, The - Reshaping Googol - Under the Ocean (USA).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d824d16ab48f9efc51ca816706ab096",
+        "sha1": "50ba57baa9d8bbfbd74290d76897dfdcdd7fb7b1",
+        "crc32": "f1b3744e"
+      }
+    },
+    {
+      "filename": "Secret of Googol 2b, The - Reshaping Googol - Under the Ocean (USA).bin",
+      "filesize": 741369216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bfa7563e8045d78049447a62c50886b",
+        "sha1": "2c5472ca473b278737050a0696353add625005ee",
+        "crc32": "93d63a3a"
+      }
+    }
+  ]
+}

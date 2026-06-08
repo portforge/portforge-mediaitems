@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Power Dunkers 3 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Power Dunkers 3 (Japan, Asia).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ab91a5fe46d8604b3c441a6482d63273",
+        "sha1": "3d56216aafca50a148502438cfaa20b8d5b14f4d",
+        "crc32": "c744de07"
+      }
+    },
+    {
+      "filename": "NBA Power Dunkers 3 (Japan, Asia).bin",
+      "filesize": 475141632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22fc7c822534e0f418c1a56697fe3242",
+        "sha1": "8e5eb6392d1552427336e43fa8eb09f309ca4ad8",
+        "crc32": "a1d8855e"
+      }
+    }
+  ]
+}

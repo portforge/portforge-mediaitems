@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cyberia (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cyberia (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a82b34c3437ce2359b2984ca15a6de63",
+        "sha1": "fdbe397098b6ac113e9d27cbd1c7a05862e56a0b",
+        "crc32": "34b58120"
+      }
+    },
+    {
+      "filename": "Cyberia (Japan).bin",
+      "filesize": 522383904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c684330d0d0a566aced6e352037ecd5b",
+        "sha1": "f76a51d6114b17f1d67255bd14b758d0f975a97a",
+        "crc32": "85dc68ff"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kenshou Akou Jiken - Chuushingura - Rekishi Adventure (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kenshou Akou Jiken - Chuushingura - Rekishi Adventure (Japan).cue",
+      "filesize": 292,
+      "ext": "cue",
+      "checksums": {
+        "md5": "91042b0332b0f5d337fa412c7257f782",
+        "sha1": "69a3ec865106a4ba2331c4c40dfaf2c1d3ec6616",
+        "crc32": "0f2dd3c0"
+      }
+    },
+    {
+      "filename": "Kenshou Akou Jiken - Chuushingura - Rekishi Adventure (Japan) (Track 1).bin",
+      "filesize": 435341088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b087391a7aa83eff4fd0dc8936f5882",
+        "sha1": "c323b2468789fd3b3be2a6905262d555a15ec348",
+        "crc32": "d0264c36"
+      }
+    },
+    {
+      "filename": "Kenshou Akou Jiken - Chuushingura - Rekishi Adventure (Japan) (Track 2).bin",
+      "filesize": 36112608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc14b270ef880408f3c214dd74255470",
+        "sha1": "fe93b19ad5b227447ed23c43b6198eff5c08850c",
+        "crc32": "589d96f9"
+      }
+    }
+  ]
+}

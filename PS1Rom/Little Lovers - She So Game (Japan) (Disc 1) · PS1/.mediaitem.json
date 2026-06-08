@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Little Lovers - She So Game (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Little Lovers - She So Game (Japan) (Disc 1).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29fdd8ac145aadf6256e5936c2f32404",
+        "sha1": "f3b74d7eb9713db3b32b47e279060fb29e18d28c",
+        "crc32": "439ff81f"
+      }
+    },
+    {
+      "filename": "Little Lovers - She So Game (Japan) (Disc 1).bin",
+      "filesize": 603339744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26dfd84a3714945afb7670876d6f1fa0",
+        "sha1": "c35d4474899708ad4950862b9042da3a8a1605b6",
+        "crc32": "e7a39b11"
+      }
+    }
+  ]
+}

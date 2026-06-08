@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "This Is Soccer (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "This Is Soccer (Australia).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c2b207c729e9c67077d3548a9ad508c",
+        "sha1": "3e5dab2721b47c1d67e51fb048a86b9e949fb71c",
+        "crc32": "1d76d100"
+      }
+    },
+    {
+      "filename": "This Is Soccer (Australia).bin",
+      "filesize": 342140736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea86dfac7607e1eac247cd9e11fe0287",
+        "sha1": "ff3425ffc8b680c75f40682647bce04ede70f36e",
+        "crc32": "5f15f3c3"
+      }
+    }
+  ]
+}

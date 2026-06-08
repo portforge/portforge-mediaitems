@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider - The Last Revelation (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider - The Last Revelation (France) (Demo).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cc60b338db3a0efd2305bcdef61bce31",
+        "sha1": "3970e46d621f58aacd867e60b9cd577ef8bce907",
+        "crc32": "7abd370c"
+      }
+    },
+    {
+      "filename": "Tomb Raider - The Last Revelation (France) (Demo).bin",
+      "filesize": 37888368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4c83d42df96f93a5ed7309f16bfcecf",
+        "sha1": "55d7edf38a762b31c7eaa35df7a76b2395c4ef9d",
+        "crc32": "3c5ca86c"
+      }
+    }
+  ]
+}

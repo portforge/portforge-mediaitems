@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Namco Museum Vol. 4 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Namco Museum Vol. 4 (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f64a17316d3b122ec2405a3b11009543",
+        "sha1": "0602fa6be0f195583a415eb428cf77e30ad50b8f",
+        "crc32": "de7ca55c"
+      }
+    },
+    {
+      "filename": "Namco Museum Vol. 4 (Japan).bin",
+      "filesize": 693635376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b6f03d6cc199a675ba5036a43971e6d",
+        "sha1": "31347a68aba44014c583ab649e48e91a1d58498d",
+        "crc32": "2f3a56dd"
+      }
+    }
+  ]
+}

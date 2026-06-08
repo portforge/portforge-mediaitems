@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vandal Hearts - Ushinawareta Kodai Bunmei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vandal Hearts - Ushinawareta Kodai Bunmei (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8bf95872e6280bf55694d3e1b5343f24",
+        "sha1": "10f933a9455f52980e81a7c88005e4d44adf974d",
+        "crc32": "f28b4c34"
+      }
+    },
+    {
+      "filename": "Vandal Hearts - Ushinawareta Kodai Bunmei (Japan).bin",
+      "filesize": 667638720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a061ab222e7739b9f691f0184e43e37",
+        "sha1": "a9dd357bc0f6a93cf3880cdeaf8b029146e752bd",
+        "crc32": "81b1d6a7"
+      }
+    }
+  ]
+}

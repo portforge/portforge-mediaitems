@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 34 - The Quiz Bangumi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 34 - The Quiz Bangumi (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "26a7c28f4bb16a76bbbe64fe89268eb9",
+        "sha1": "f620ee4aa39f8bdc13a95d11d93d954149d89b29",
+        "crc32": "8d401aa2"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 34 - The Quiz Bangumi (Japan).bin",
+      "filesize": 42996912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80d4afb61f9881cfc53cbb12e587acf3",
+        "sha1": "a93a5a16efca7103b66eed8672a5895a56f50265",
+        "crc32": "29f80d30"
+      }
+    }
+  ]
+}

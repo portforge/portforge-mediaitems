@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DBZ - Dead Ball Zone (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DBZ - Dead Ball Zone (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae59f00241866af05c61b08e93b21d21",
+        "sha1": "af610a12a8ce6113fe82dbbbf02a547e54d727f0",
+        "crc32": "b4c63a1f"
+      }
+    },
+    {
+      "filename": "DBZ - Dead Ball Zone (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 372916656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02701bd068c726b39f952fcdb8847e74",
+        "sha1": "ad2753606f9c9d239f5bdb1a6bd49c024e97de48",
+        "crc32": "85b31390"
+      }
+    }
+  ]
+}

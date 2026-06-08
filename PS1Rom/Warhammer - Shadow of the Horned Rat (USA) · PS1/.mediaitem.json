@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warhammer - Shadow of the Horned Rat (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warhammer - Shadow of the Horned Rat (USA).cue",
+      "filesize": 798,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d08cdc2b312206210f494ca770ab4fa3",
+        "sha1": "382e0d28ed879cf8a0f0e806374cbbc5706caafb",
+        "crc32": "19b8bd35"
+      }
+    },
+    {
+      "filename": "Warhammer - Shadow of the Horned Rat (USA) (Track 1).bin",
+      "filesize": 570150672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43c32572c3f1afcd9df5cf6a6114654b",
+        "sha1": "b8d1a4f395edb6c045edf40bdae6c4b6d53d1315",
+        "crc32": "e7af2d3e"
+      }
+    },
+    {
+      "filename": "Warhammer - Shadow of the Horned Rat (USA) (Track 2).bin",
+      "filesize": 29501136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33c1ce8eff04f0bcf54fb602813f483e",
+        "sha1": "34e83fcfb0befa21a4789837743f5fa12d90ebe0",
+        "crc32": "1b3da4ca"
+      }
+    },
+    {
+      "filename": "Warhammer - Shadow of the Horned Rat (USA) (Track 3).bin",
+      "filesize": 7018368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2961307bc83b540b286c0a2610c7dd9e",
+        "sha1": "4ffa9ec7d860fc41deb7346abbb75d83a4f5bd9d",
+        "crc32": "30c73f81"
+      }
+    },
+    {
+      "filename": "Warhammer - Shadow of the Horned Rat (USA) (Track 4).bin",
+      "filesize": 40908336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dac0923376dbe80b4fb582fc3b00cd71",
+        "sha1": "678add7441a56f17e94db27cb7a6810495512799",
+        "crc32": "10e37439"
+      }
+    },
+    {
+      "filename": "Warhammer - Shadow of the Horned Rat (USA) (Track 5).bin",
+      "filesize": 61963440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3c7cc5d87a736217ff51fa73c2938ee",
+        "sha1": "680e87d0d51deac83bb8abd2e2d7fa1890099689",
+        "crc32": "c313330a"
+      }
+    },
+    {
+      "filename": "Warhammer - Shadow of the Horned Rat (USA) (Track 6).bin",
+      "filesize": 33889968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fadd596551fa53188b74269c18358ea",
+        "sha1": "4b0a67c1db2a8a65f78865f1e86d75c7be37545e",
+        "crc32": "cd281d75"
+      }
+    }
+  ]
+}

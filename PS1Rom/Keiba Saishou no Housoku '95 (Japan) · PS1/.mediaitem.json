@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Keiba Saishou no Housoku '95 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Keiba Saishou no Housoku '95 (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31c7a77307fcd617592f79c26e8a2aad",
+        "sha1": "c33d7e9ce8b43475aef08f1063cc74bc2b930494",
+        "crc32": "dfa6d5c0"
+      }
+    },
+    {
+      "filename": "Keiba Saishou no Housoku '95 (Japan).bin",
+      "filesize": 434797776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86831f4bb070ac198323c6cc376edc6a",
+        "sha1": "d9462aa6438bfbb9fb6797f795fa384c634f63a7",
+        "crc32": "ced2fbef"
+      }
+    }
+  ]
+}

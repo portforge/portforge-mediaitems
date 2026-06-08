@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Miracle Space Race (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Miracle Space Race (Europe).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f12879d4257cee77281bed240f238337",
+        "sha1": "c4a00370ddd88068187f2c27bac5031d9095836e",
+        "crc32": "d3def394"
+      }
+    },
+    {
+      "filename": "Miracle Space Race (Europe).bin",
+      "filesize": 165877152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb961dd0ad34e784a60def0f82e4efbe",
+        "sha1": "c4e12d13fa813acc783693af35795511e4b5cf69",
+        "crc32": "7d738bd0"
+      }
+    }
+  ]
+}

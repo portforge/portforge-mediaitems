@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Transformers - Beast Wars Metals (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Transformers - Beast Wars Metals (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88f5aefad5f9978ddcd3d0d5d8da8d8c",
+        "sha1": "9b41219ecb069fdde36555abd9b4301221dd0d7a",
+        "crc32": "311a3406"
+      }
+    },
+    {
+      "filename": "Transformers - Beast Wars Metals (Japan).bin",
+      "filesize": 618100896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1836754f1f6c801cafb5afb024c726c",
+        "sha1": "eb97e7748c65cfb918a6558cc83347e91b3524c5",
+        "crc32": "d3dd380c"
+      }
+    }
+  ]
+}

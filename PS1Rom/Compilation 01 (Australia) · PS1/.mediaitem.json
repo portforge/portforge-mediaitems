@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Compilation 01 (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Compilation 01 (Australia).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6eecdefad72529f97940698ac6bf4add",
+        "sha1": "7df1fd2459a004e289f674ef3e102b1414b06268",
+        "crc32": "f133466d"
+      }
+    },
+    {
+      "filename": "Compilation 01 (Australia) (Track 1).bin",
+      "filesize": 244036464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "793d5720a5e5463207afc0cae0f31a72",
+        "sha1": "18519f6bcaf2104c8f5a26d7814211cc1b5b36b8",
+        "crc32": "c28a084c"
+      }
+    },
+    {
+      "filename": "Compilation 01 (Australia) (Track 2).bin",
+      "filesize": 37323888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21166abbbd4286623183b6b0c6812eba",
+        "sha1": "ca798df6dbcb7bc31a1640404ff93fcf4ff189a7",
+        "crc32": "54e6cf52"
+      }
+    }
+  ]
+}

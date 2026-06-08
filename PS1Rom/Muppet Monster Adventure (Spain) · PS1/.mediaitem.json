@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Muppet Monster Adventure (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Muppet Monster Adventure (Spain).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "028b2ed2aabe853ffd1f5c91b0127d62",
+        "sha1": "0d5b7616bf0482454e8b3b23fdb8879ff2201fde",
+        "crc32": "18ec8c18"
+      }
+    },
+    {
+      "filename": "Muppet Monster Adventure (Spain) (Track 1).bin",
+      "filesize": 527454816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "171448ddec32a3e87218041a0a08b3d1",
+        "sha1": "d121559b1688addbb28aaed262d36f59fc6a572a",
+        "crc32": "2bc69564"
+      }
+    },
+    {
+      "filename": "Muppet Monster Adventure (Spain) (Track 2).bin",
+      "filesize": 48724032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05e14eecd5ea306e91d78c2ff2b3496a",
+        "sha1": "b9e39541fc23489f489f45f6f7d2cb655278e92a",
+        "crc32": "4808d1ea"
+      }
+    }
+  ]
+}

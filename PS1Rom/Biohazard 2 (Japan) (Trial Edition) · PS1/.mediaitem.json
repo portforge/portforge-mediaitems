@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Biohazard 2 (Japan) (Trial Edition)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Biohazard 2 (Japan) (Trial Edition).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "181a90bc255a3c34bbb7618aae4df581",
+        "sha1": "52710aba8c16edf7fd3d3bccffa9c3b75fdd6111",
+        "crc32": "fa815a10"
+      }
+    },
+    {
+      "filename": "Biohazard 2 (Japan) (Trial Edition).bin",
+      "filesize": 318792432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d24c7c21e9e98c55afa8fbe757741ffb",
+        "sha1": "f52a751b8c81d7d5409aad9ce64c3437a3b5c7a7",
+        "crc32": "59e88a8e"
+      }
+    }
+  ]
+}

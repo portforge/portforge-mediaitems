@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan) (Omake Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan) (Omake Disc).cue",
+      "filesize": 149,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b2e4942de59dd3eb5d96a1ca1ea3f40",
+        "sha1": "954c15f084205d6c656b50642e4e4b6e2b02e5ba",
+        "crc32": "87af6c2f"
+      }
+    },
+    {
+      "filename": "Marl Oukoku no Ningyou-hime - The Adventure of Puppet Princess (Japan) (Omake Disc).bin",
+      "filesize": 325194576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95af1c40e44523a518946b2a18af571d",
+        "sha1": "60d68137c78b79f3614cccdcb6245e292f65328a",
+        "crc32": "79f8ac7f"
+      }
+    }
+  ]
+}

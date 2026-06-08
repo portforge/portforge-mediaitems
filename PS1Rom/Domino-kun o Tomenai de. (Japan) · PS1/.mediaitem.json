@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Domino-kun o Tomenai de. (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Domino-kun o Tomenai de. (Japan).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "083e568111681c02651ae1d806715dae",
+        "sha1": "7d080204b620bd8d2add9b61f449dac712026ee9",
+        "crc32": "f3c8b5a7"
+      }
+    },
+    {
+      "filename": "Domino-kun o Tomenai de. (Japan) (Track 1).bin",
+      "filesize": 216774432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be3a59e9f0efebddf8c843ee006d9792",
+        "sha1": "3ac1432a159b5506934d57f8b616c58785b738a8",
+        "crc32": "10c82c5f"
+      }
+    },
+    {
+      "filename": "Domino-kun o Tomenai de. (Japan) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

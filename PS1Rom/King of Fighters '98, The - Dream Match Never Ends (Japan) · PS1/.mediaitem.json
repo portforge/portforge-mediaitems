@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Fighters '98, The - Dream Match Never Ends (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Fighters '98, The - Dream Match Never Ends (Japan).cue",
+      "filesize": 286,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0c190c94a6fce03d7d710f9c7a7625e",
+        "sha1": "efb59cbda66f9319a79ba4eb6826989aa54a87d4",
+        "crc32": "bc3ad664"
+      }
+    },
+    {
+      "filename": "King of Fighters '98, The - Dream Match Never Ends (Japan) (Track 1).bin",
+      "filesize": 244422192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b3cca3b8e5a3490e31629eb2839af86",
+        "sha1": "4c6e804425cef0ed11e9170a2435c537febadb57",
+        "crc32": "ac0fea1b"
+      }
+    },
+    {
+      "filename": "King of Fighters '98, The - Dream Match Never Ends (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

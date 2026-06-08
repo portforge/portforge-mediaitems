@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Need for Speed - High Stakes (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Need for Speed - High Stakes (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb49eca764e7ff9d0e3657f48779bddf",
+        "sha1": "14f63632065acac451e619bef3b67b700416267b",
+        "crc32": "2d355ed6"
+      }
+    },
+    {
+      "filename": "Need for Speed - High Stakes (USA).bin",
+      "filesize": 733165440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4080f2fe29a179a6f20c8581dcdd3fd2",
+        "sha1": "72e5fc9254903797a08d56babbef689e30514fb8",
+        "crc32": "81456f7b"
+      }
+    }
+  ]
+}

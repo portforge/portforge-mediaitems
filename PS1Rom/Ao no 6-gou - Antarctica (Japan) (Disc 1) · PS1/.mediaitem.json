@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ao no 6-gou - Antarctica (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ao no 6-gou - Antarctica (Japan) (Disc 1).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aac0b5bcb74a7f95439f638b2764aa96",
+        "sha1": "e42c64ac191e67f27b0e712d3ae08828e3d82d96",
+        "crc32": "3252bd3e"
+      }
+    },
+    {
+      "filename": "Ao no 6-gou - Antarctica (Japan) (Disc 1).bin",
+      "filesize": 544231632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7e6916b347e6f1f2572f75aa6fe96ee",
+        "sha1": "b4dc09e3f3664ecff89b3c6de908496388267f98",
+        "crc32": "384784a4"
+      }
+    }
+  ]
+}

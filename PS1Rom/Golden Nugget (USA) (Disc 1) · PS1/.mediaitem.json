@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Golden Nugget (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Golden Nugget (USA) (Disc 1).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c0367b6b5287d0a56e22066eef0faac",
+        "sha1": "ba6c057cac0ec82a5ebcd53c56d48259b73b471f",
+        "crc32": "bcd7ed9e"
+      }
+    },
+    {
+      "filename": "Golden Nugget (USA) (Disc 1).bin",
+      "filesize": 540809472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0574f88963fb3659ebd58baddc94128a",
+        "sha1": "3d4de35096922141d2a2434da18ae2b990f3f746",
+        "crc32": "a8827433"
+      }
+    }
+  ]
+}

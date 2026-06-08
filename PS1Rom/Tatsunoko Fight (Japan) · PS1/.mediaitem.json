@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tatsunoko Fight (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tatsunoko Fight (Japan).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "894836707ec51f2a030951a7eaf74b56",
+        "sha1": "36b9de7ba281e68909f954cab8667ebfdebe4aa5",
+        "crc32": "dd8e9bb9"
+      }
+    },
+    {
+      "filename": "Tatsunoko Fight (Japan) (Track 1).bin",
+      "filesize": 508678800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69577b0318ab9b61c6a1954b1300b095",
+        "sha1": "5a1ddffe9838d932e13fbb447db223c62a494d55",
+        "crc32": "935caf67"
+      }
+    },
+    {
+      "filename": "Tatsunoko Fight (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

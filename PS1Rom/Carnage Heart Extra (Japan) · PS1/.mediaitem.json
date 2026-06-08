@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Carnage Heart Extra (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Carnage Heart Extra (Japan).cue",
+      "filesize": 345,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83e340749d2e35db211807736a909f0e",
+        "sha1": "5e6c854739813f17911ca5dcf28f6112cf759b4d",
+        "crc32": "8f5ba14d"
+      }
+    },
+    {
+      "filename": "Carnage Heart Extra (Japan) (Track 1).bin",
+      "filesize": 97612704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55de17f14348cf0cbedbf04a13eb86d4",
+        "sha1": "15b293c33f9f5ff6632e4951d050b4986b44bc0c",
+        "crc32": "bc16b61d"
+      }
+    },
+    {
+      "filename": "Carnage Heart Extra (Japan) (Track 2).bin",
+      "filesize": 24199728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a30262235325a9488bc63d2c27b59a3",
+        "sha1": "63ee7fcf998cf68fc5ea875cd1deefe137208c88",
+        "crc32": "355cbcf3"
+      }
+    },
+    {
+      "filename": "Carnage Heart Extra (Japan) (Track 3).bin",
+      "filesize": 48046656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c2c2f6636442fea063edebdbe7ca776",
+        "sha1": "0fa4f790a1933cb33e74079b46d054b14035b93b",
+        "crc32": "b61487ab"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Judge Dredd (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Judge Dredd (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c988d9afca41a1aac3381bd1904a5d5",
+        "sha1": "6fece53774764f4a0384d3339697be54471c09b5",
+        "crc32": "6b47a30a"
+      }
+    },
+    {
+      "filename": "Judge Dredd (Europe).bin",
+      "filesize": 749685888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23e248caeaed3c5012a456da3af614c5",
+        "sha1": "b9610017826ab6aad79ede0f436acacde087c228",
+        "crc32": "c0913557"
+      }
+    }
+  ]
+}

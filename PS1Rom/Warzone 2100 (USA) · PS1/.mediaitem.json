@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warzone 2100 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warzone 2100 (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c875bc9573df0d49f42c75a7e0d2c1e7",
+        "sha1": "1f63a91aabd2704823309f04ffe324572157be72",
+        "crc32": "ac9ab750"
+      }
+    },
+    {
+      "filename": "Warzone 2100 (USA).bin",
+      "filesize": 703911264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "531da2fee44eb221dc30efa367aea62e",
+        "sha1": "715d65d8a7488fabf825a6d8271d8e612cce20ba",
+        "crc32": "d26480d9"
+      }
+    }
+  ]
+}

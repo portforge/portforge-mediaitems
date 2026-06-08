@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jet Ace (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jet Ace (Europe).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d2ede1adf805e20af4d6a4b06b1b819",
+        "sha1": "6598cb7ae533325bf49a3f88956bd1c020d41e1c",
+        "crc32": "c3abc051"
+      }
+    },
+    {
+      "filename": "Jet Ace (Europe) (Track 1).bin",
+      "filesize": 100211664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75762ec8fc5a2850a405a8a1953740aa",
+        "sha1": "cc9842c5981c979a5d7bfdd7bbaf4a7cb3539c8a",
+        "crc32": "9807e17f"
+      }
+    },
+    {
+      "filename": "Jet Ace (Europe) (Track 2).bin",
+      "filesize": 30463104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a08071d31f7714c1424c8a4d0baf377",
+        "sha1": "61ecbcd1162046b99bb98f24feeb50a7b9c8a8be",
+        "crc32": "fc1a947e"
+      }
+    },
+    {
+      "filename": "Jet Ace (Europe) (Track 3).bin",
+      "filesize": 82844496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfb3b68c8afda6106a289d3ab313f771",
+        "sha1": "1753f7187ebe56360d1a656623fcccf701d413eb",
+        "crc32": "9135769e"
+      }
+    }
+  ]
+}

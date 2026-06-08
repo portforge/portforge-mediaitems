@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puyo Puyoon - Car-kun to Issho (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puyo Puyoon - Car-kun to Issho (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c914ac0585d4a0acf297d728d81a6fd",
+        "sha1": "065bd919a38c64c7c8815905720153f719bd822a",
+        "crc32": "9ab50b05"
+      }
+    },
+    {
+      "filename": "Puyo Puyoon - Car-kun to Issho (Japan).bin",
+      "filesize": 493214400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f275efeb0b76c0452556ffa581e23476",
+        "sha1": "b68c69f670d67d1cdaf32412c42520c549d47346",
+        "crc32": "c2122c0a"
+      }
+    }
+  ]
+}

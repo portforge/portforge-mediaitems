@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2004 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2004 (Germany).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1a1846791e915cd7e22c8774585bef3",
+        "sha1": "d63562615dff9454e56c87cc5538be55a46c7d4b",
+        "crc32": "a310090d"
+      }
+    },
+    {
+      "filename": "FIFA Football 2004 (Germany).bin",
+      "filesize": 603224496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6fefc0dd87708525fe6ddba81cb311fe",
+        "sha1": "8d1fae69a1a19ee0b209c2066ad567fe692ee6ca",
+        "crc32": "e2d24255"
+      }
+    }
+  ]
+}

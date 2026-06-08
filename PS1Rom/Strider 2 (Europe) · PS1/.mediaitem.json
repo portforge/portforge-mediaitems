@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strider 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strider 2 (Europe).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a54f6e9bce7d92008f62f1c0679dc310",
+        "sha1": "8e0dc717ceda8abf4d4df33e9146dd63fa5bcd10",
+        "crc32": "b7ace635"
+      }
+    },
+    {
+      "filename": "Strider 2 (Europe).bin",
+      "filesize": 459625488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34b94361b3e44d7abef790a2f4f4eaf5",
+        "sha1": "41ca5a69b57b2eeaa52bfb95819725ac8cf8cb5c",
+        "crc32": "6d726bfe"
+      }
+    }
+  ]
+}

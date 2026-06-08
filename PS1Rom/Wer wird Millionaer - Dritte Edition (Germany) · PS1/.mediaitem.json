@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wer wird Millionaer - Dritte Edition (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wer wird Millionaer - Dritte Edition (Germany).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "09c6be804bd159150c5a69981c8650eb",
+        "sha1": "32859247b218bd6ba087d14e98cf7aa8f44fa005",
+        "crc32": "40662be2"
+      }
+    },
+    {
+      "filename": "Wer wird Millionaer - Dritte Edition (Germany).bin",
+      "filesize": 432982032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3777d998f4c7b65aa7e29d596a31e4c9",
+        "sha1": "04637a71b61c4fc5ef80e049667bc3c94b6f863c",
+        "crc32": "498372ea"
+      }
+    }
+  ]
+}

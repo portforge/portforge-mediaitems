@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Destrega (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Destrega (Germany).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4f5365ad62f897dea400a68c5bfa3829",
+        "sha1": "0c5983e6884570de8caebfdf3eb15c842c923fca",
+        "crc32": "9ab5f053"
+      }
+    },
+    {
+      "filename": "Destrega (Germany).bin",
+      "filesize": 568346688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2d7d21ea1260bfb010892ea950a3171",
+        "sha1": "c8d2db8dfda7dc922ab726cab991c50b23f46c48",
+        "crc32": "6c5aec89"
+      }
+    }
+  ]
+}

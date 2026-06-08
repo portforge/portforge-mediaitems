@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mars Moose Adventure - WalkAbout 3 - World Sports Day (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mars Moose Adventure - WalkAbout 3 - World Sports Day (USA).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9c834ac11d30f86c0e414b906e79a33",
+        "sha1": "bf68edbdf95dcad6a3a623ec081698253238fbb0",
+        "crc32": "71671d0f"
+      }
+    },
+    {
+      "filename": "Mars Moose Adventure - WalkAbout 3 - World Sports Day (USA).bin",
+      "filesize": 266356944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93184a12d40fb9a3c233f3ac76983436",
+        "sha1": "3f74c960f7860f195113b3939adeda37cc09a3df",
+        "crc32": "1ec2c16a"
+      }
+    }
+  ]
+}

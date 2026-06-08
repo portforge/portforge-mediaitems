@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tunnel B1 + X2 - No Relief + Break Point + Cheesy (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tunnel B1 + X2 - No Relief + Break Point + Cheesy (Europe).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99f9768b9e37f29dbd0d0b3ad6b3166a",
+        "sha1": "85d0e11c96d7bd1b334f38a369efb1b181715bcb",
+        "crc32": "da80ab78"
+      }
+    },
+    {
+      "filename": "Tunnel B1 + X2 - No Relief + Break Point + Cheesy (Europe).bin",
+      "filesize": 178305120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60746440236d96ecfb8c41eecab6c8b0",
+        "sha1": "565852ce068fe372ae8e7bb89f5b40075e42279f",
+        "crc32": "6d87e20b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 74 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 74 (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f8bec25dcaea9b57d74600d0f156e54",
+        "sha1": "22d81d0cc575b8e461356423ddef77eb386861be",
+        "crc32": "483106db"
+      }
+    },
+    {
+      "filename": "Euro Demo 74 (Europe).bin",
+      "filesize": 682844400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da1f55154573a40541f55f6daa2b8f52",
+        "sha1": "c56f04758b4d59ba04772db15c96b14c17883275",
+        "crc32": "db77e2e8"
+      }
+    }
+  ]
+}

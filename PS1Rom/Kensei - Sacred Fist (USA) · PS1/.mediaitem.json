@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kensei - Sacred Fist (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kensei - Sacred Fist (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "daf4e1fe785dbe24573cf062b1e321fe",
+        "sha1": "1c86b93a4b7d2ae44b7f37220abf2c39307430b2",
+        "crc32": "d67408cc"
+      }
+    },
+    {
+      "filename": "Kensei - Sacred Fist (USA).bin",
+      "filesize": 369654432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89028ab8fa5768e6fce6b8753d76ecd0",
+        "sha1": "0087a15fb07e35af8752efb33753f894165a300b",
+        "crc32": "90dc3dd1"
+      }
+    }
+  ]
+}

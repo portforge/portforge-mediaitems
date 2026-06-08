@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wing Commander IV - The Price of Freedom (Europe) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wing Commander IV - The Price of Freedom (Europe) (Disc 1).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e9f70848844260cca743f411a60ddf90",
+        "sha1": "aa36179eb7261c075ef01e26c9f1c592326968cc",
+        "crc32": "b8398262"
+      }
+    },
+    {
+      "filename": "Wing Commander IV - The Price of Freedom (Europe) (Disc 1).bin",
+      "filesize": 735049392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8166f0ca3d5942b7e4a6b9daac4b07a2",
+        "sha1": "c30e5f027f0625d76f4f8e7f2f6fd843e9ac1de7",
+        "crc32": "d834fca6"
+      }
+    }
+  ]
+}

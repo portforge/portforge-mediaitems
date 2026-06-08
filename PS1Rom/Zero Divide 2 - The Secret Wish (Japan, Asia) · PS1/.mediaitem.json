@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zero Divide 2 - The Secret Wish (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (Japan, Asia).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee1bbdad87c568ea3035a6ab898b61c4",
+        "sha1": "86fe89c5b22ee06eaa1dda2c220d79a0262abf80",
+        "crc32": "a453e544"
+      }
+    },
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (Japan, Asia).bin",
+      "filesize": 503709024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e83b177ea1469fb4fc10f05395fd337",
+        "sha1": "ce682dfb8787b08bb501cd770ce4d2de2019b69e",
+        "crc32": "62b17692"
+      }
+    }
+  ]
+}

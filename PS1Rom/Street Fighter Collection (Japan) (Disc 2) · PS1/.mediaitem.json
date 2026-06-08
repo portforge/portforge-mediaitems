@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Collection (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Collection (Japan) (Disc 2).cue",
+      "filesize": 259,
+      "ext": "cue",
+      "checksums": {
+        "md5": "819425f70b13c4350384c1d904c424f9",
+        "sha1": "0d9e990f23e3e3c30958adfca3f8497d7859de2c",
+        "crc32": "1cb78636"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 594366864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3bbc7f6b94c427b7689f15b0d6d9a07",
+        "sha1": "bbf9345b9516b8bee41fc983fbed09052585ce76",
+        "crc32": "0e57675c"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b7d56196188ff76f8ee03d052383b46",
+        "sha1": "afb84847a605d7efb5c3b47667cda16aa8b8885c",
+        "crc32": "1999119d"
+      }
+    }
+  ]
+}

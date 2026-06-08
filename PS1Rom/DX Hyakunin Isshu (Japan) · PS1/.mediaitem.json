@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DX Hyakunin Isshu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DX Hyakunin Isshu (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "081c59344be958e19f54fe93e6dbdab1",
+        "sha1": "f3e0fadc85f370bd156ef2a767703e83d38885cc",
+        "crc32": "b4327f70"
+      }
+    },
+    {
+      "filename": "DX Hyakunin Isshu (Japan).bin",
+      "filesize": 167189568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee769aaaf9d5c3e2a1e1517f7d81b7d8",
+        "sha1": "bda80983888d59b5986f9412c91bcfd1624d98ec",
+        "crc32": "1665306f"
+      }
+    }
+  ]
+}

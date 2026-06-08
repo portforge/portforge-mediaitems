@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 2 (Europe) (Disc 2) (Beta) (2000-02-18)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 2 (Europe) (Disc 2) (Beta) (2000-02-18).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "feeebb296cae6d6ecdb463bf35a6ffe8",
+        "sha1": "9601670f4498f7b5aefb99ac66f46e27fa912dc5",
+        "crc32": "c1af320b"
+      }
+    },
+    {
+      "filename": "Syphon Filter 2 (Europe) (Disc 2) (Beta) (2000-02-18).bin",
+      "filesize": 736321824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08538a9772c7f08b666c5e74ab5fe199",
+        "sha1": "99a671adef6bf5b77fc6b9c27a5d0f822091b4b3",
+        "crc32": "b79eae19"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Anna Kournikova's Smash Court Tennis (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Anna Kournikova's Smash Court Tennis (Europe).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e8cb429395b59273382b2c720a9a4df",
+        "sha1": "49a592cbf2b899e4c483f7226c6dbb40bbfc1e71",
+        "crc32": "dd7252e5"
+      }
+    },
+    {
+      "filename": "Anna Kournikova's Smash Court Tennis (Europe).bin",
+      "filesize": 379662192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "468a6974027cdb4771acda3daa432bb6",
+        "sha1": "a53cea5320ee73cb31ebde5b74d653a1c2183e36",
+        "crc32": "ae16491c"
+      }
+    }
+  ]
+}

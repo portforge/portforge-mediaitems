@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puzzle Arena Toushinden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puzzle Arena Toushinden (Japan).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf35b2fe51166f319c59ec653d44e165",
+        "sha1": "efd641c11712ba689ba5991f61b87d0e66847709",
+        "crc32": "261e65ed"
+      }
+    },
+    {
+      "filename": "Puzzle Arena Toushinden (Japan) (Track 1).bin",
+      "filesize": 675207456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20f1cf3b4f9203f7c3a043c3325ce39a",
+        "sha1": "36bbf361ed16baa3b66e8f6ea94194ae0cedca5f",
+        "crc32": "279346f6"
+      }
+    },
+    {
+      "filename": "Puzzle Arena Toushinden (Japan) (Track 2).bin",
+      "filesize": 42279552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5090de7d77b6527220e149ef46a501d2",
+        "sha1": "3a5d25dd94c3611d4eaf975764dc356772920692",
+        "crc32": "01162d5e"
+      }
+    }
+  ]
+}

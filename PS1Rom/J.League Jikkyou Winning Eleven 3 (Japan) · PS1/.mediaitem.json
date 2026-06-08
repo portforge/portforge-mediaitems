@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "J.League Jikkyou Winning Eleven 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "J.League Jikkyou Winning Eleven 3 (Japan).cue",
+      "filesize": 882,
+      "ext": "cue",
+      "checksums": {
+        "md5": "956b69027f6a7e457c94cc321c8a4dd6",
+        "sha1": "ce458a74e236cb7072fd30916985a7bdccbef7e8",
+        "crc32": "485a6e33"
+      }
+    },
+    {
+      "filename": "J.League Jikkyou Winning Eleven 3 (Japan) (Track 1).bin",
+      "filesize": 201157152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0dbf0d817a3841502c593c86ebaafb8f",
+        "sha1": "20d3620d52c88203f8f03e5c023f51fc36d3dd35",
+        "crc32": "0a47512f"
+      }
+    },
+    {
+      "filename": "J.League Jikkyou Winning Eleven 3 (Japan) (Track 2).bin",
+      "filesize": 12209232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e53638e54e416bf6f58eb7b2d2f6d5a",
+        "sha1": "a54771f1a9a8355ef3195c0a569203ed9f0de915",
+        "crc32": "595d42e9"
+      }
+    },
+    {
+      "filename": "J.League Jikkyou Winning Eleven 3 (Japan) (Track 3).bin",
+      "filesize": 12371520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29ef0a5417a11821d910ba22a7006be0",
+        "sha1": "566a5e49870ded686ed82b60bff5d243b6c6e82c",
+        "crc32": "6db6f9fc"
+      }
+    },
+    {
+      "filename": "J.League Jikkyou Winning Eleven 3 (Japan) (Track 4).bin",
+      "filesize": 12300960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "373c9f3d5b2992653cc222deab28e305",
+        "sha1": "e891bfb74603b8d57529cd5678166071fa7f7c0c",
+        "crc32": "ff8a6eaa"
+      }
+    },
+    {
+      "filename": "J.League Jikkyou Winning Eleven 3 (Japan) (Track 5).bin",
+      "filesize": 12220992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccbfc548beae8e9b9bc818df6dea1943",
+        "sha1": "90deb9f2c66847235c962f84625625bfc65a135d",
+        "crc32": "10d83b08"
+      }
+    },
+    {
+      "filename": "J.League Jikkyou Winning Eleven 3 (Japan) (Track 6).bin",
+      "filesize": 32208288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "399550722aaf4d89807ff67c3a123920",
+        "sha1": "d8f658abf1020efb987e04f81ac5a9f01eb7c86f",
+        "crc32": "9d715c8b"
+      }
+    }
+  ]
+}

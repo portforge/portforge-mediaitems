@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Majokko Daisakusen - Little Witching Mischiefs (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Majokko Daisakusen - Little Witching Mischiefs (Japan).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "24214e9afe6c60a8f138e86cd90c390c",
+        "sha1": "62b11819fc183d2a0bb6a385fd4e2f401e1a8831",
+        "crc32": "56bb2eed"
+      }
+    },
+    {
+      "filename": "Majokko Daisakusen - Little Witching Mischiefs (Japan).bin",
+      "filesize": 211607088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f75f275d50cf42e677cec31dc4619d99",
+        "sha1": "c4281b1e88a920788f4fee4a172e86dc5ac31512",
+        "crc32": "641cf674"
+      }
+    }
+  ]
+}

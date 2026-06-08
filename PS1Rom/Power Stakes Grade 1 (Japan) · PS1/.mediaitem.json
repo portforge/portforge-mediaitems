@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Stakes Grade 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Stakes Grade 1 (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b290f1f81cf5d5ca5a636ec246d00f62",
+        "sha1": "40b19884308132221ad08bd359c43332bbd8267a",
+        "crc32": "d76321dc"
+      }
+    },
+    {
+      "filename": "Power Stakes Grade 1 (Japan).bin",
+      "filesize": 581252112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f63c42ad3b588bf3c5235fbc0a180b8",
+        "sha1": "e70a84f90db724ce6342438e9b99031ee55d5287",
+        "crc32": "92359138"
+      }
+    }
+  ]
+}

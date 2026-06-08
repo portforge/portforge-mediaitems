@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oddworld - Abe's Oddysee (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oddworld - Abe's Oddysee (Germany).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f79484e2427d5b1f74e9e3025427eb77",
+        "sha1": "6071bbd4935ea06c7ffe6cb7d7e0f031030a45c0",
+        "crc32": "4f382c22"
+      }
+    },
+    {
+      "filename": "Oddworld - Abe's Oddysee (Germany).bin",
+      "filesize": 702173136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cceac7d6c9b7f5a986facfcdcec1c7b4",
+        "sha1": "1db7f2b08119e39fee5689d5770031e6e4c8b161",
+        "crc32": "c68e60ba"
+      }
+    }
+  ]
+}

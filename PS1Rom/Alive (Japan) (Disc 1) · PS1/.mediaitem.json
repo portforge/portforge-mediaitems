@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alive (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alive (Japan) (Disc 1).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f889446827575537d70b72634a3eeeaa",
+        "sha1": "10c2804f78fa4d81fe364f5ed7dad88178f2ec8b",
+        "crc32": "2dd8addc"
+      }
+    },
+    {
+      "filename": "Alive (Japan) (Disc 1).bin",
+      "filesize": 726314064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d43c87d7714874c0e4a20bc720d01f7d",
+        "sha1": "85af83f53db08e60eafd18e5e557f265ad171a31",
+        "crc32": "558c21d6"
+      }
+    }
+  ]
+}

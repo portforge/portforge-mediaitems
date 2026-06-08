@@ -1,0 +1,697 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Frenzy! (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Frenzy! (Europe).cue",
+      "filesize": 7530,
+      "ext": "cue",
+      "checksums": {
+        "md5": "392a9814a9de17bab8684fd3de9ba1d6",
+        "sha1": "1fc0472320aa6beb717a1ff35fb908ddf1c8fb0b",
+        "crc32": "5cd8aa03"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 01).bin",
+      "filesize": 78909600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b77d766279037b9fd704acd64203748",
+        "sha1": "525bc8e79f807e9b1928a0e01da0a5b00ef25571",
+        "crc32": "7e5a1eb0"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 02).bin",
+      "filesize": 3760848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6647ae47273b847ab996a4fd4bdc0329",
+        "sha1": "828016da43c360c5dbb7b94f28fc9d59ac75e291",
+        "crc32": "ce840972"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 03).bin",
+      "filesize": 3798480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dbfdd79ee3eae08dd51b562be47d49c6",
+        "sha1": "e12647aa3cab9079f72d9947f0d1b452523c2be4",
+        "crc32": "c32d9791"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 04).bin",
+      "filesize": 4344144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4bfe773bfbc9555e712da0d79e43153",
+        "sha1": "fda507285d27823e41b1efeab1ba340f1d77d7b4",
+        "crc32": "6c647ac7"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 05).bin",
+      "filesize": 4118352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1893c8a0da756cd99e433892c1e08af9",
+        "sha1": "2797dcbd035d6f12a769dc39838da08db64b2f66",
+        "crc32": "a4556b20"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 06).bin",
+      "filesize": 4534656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e79f99dc95561370ed68b6b3990203b7",
+        "sha1": "ceba8b5ce89126855cd46c12c34bec7da4c256cc",
+        "crc32": "ae7ad203"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 07).bin",
+      "filesize": 4499376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2b2d707f153a5bf412b5fdd2be2799e",
+        "sha1": "8bf1e8ce556ae9ad002db7ce255e85a2dd4ab46e",
+        "crc32": "ab6239fb"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 08).bin",
+      "filesize": 4464096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24feb24c5d55b1479c8fca0943bc39cb",
+        "sha1": "2d0a51aac5e894885c3748cb6e4eea9c4aeb5fd8",
+        "crc32": "8dfea7b6"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 09).bin",
+      "filesize": 3899616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52fce2793f0d87f5c9aeedc6b400b8c9",
+        "sha1": "175f80268aa4e0380a8af03d29a9466f79d99d06",
+        "crc32": "d70ed476"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 10).bin",
+      "filesize": 4111296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23ae5e332c8febfa342cd2388ec67bc5",
+        "sha1": "4508eac7ec36c6a8779e7f66826859f467199061",
+        "crc32": "f71ee094"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 11).bin",
+      "filesize": 3864336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9a637c00c5c909ab39ee357904ee8eb",
+        "sha1": "77286b484638a74b45af9175659906362b3f38ba",
+        "crc32": "3f81cee8"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 12).bin",
+      "filesize": 4116000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f671483207fa8fa4cd7df0a4f10e7dba",
+        "sha1": "3c2951661250a3a3cd1a913786ddaa9e8196f1ff",
+        "crc32": "bc1a9890"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 13).bin",
+      "filesize": 4598160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15c2e25e1c50775ee5fd574b2acdf230",
+        "sha1": "b6f40121e51d7fe3c15bef13ffc8335528869d69",
+        "crc32": "962e12f9"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 14).bin",
+      "filesize": 4558176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "231f854b580e591bcd732eb700732adb",
+        "sha1": "b6648de75523847af59097e5dc0434ba5072e0a0",
+        "crc32": "5fe5c50a"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 15).bin",
+      "filesize": 4388832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b53b19938ebd7cbf6bffa43f9ce637fd",
+        "sha1": "93f2e35a9a2da356e0ee226b3300909aef16c29f",
+        "crc32": "a54ca9ae"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 16).bin",
+      "filesize": 4819248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a5e2314c2ebf52e23510a42e94f06e2",
+        "sha1": "1791ce7bcc100a8320f6808b09a083db41525553",
+        "crc32": "2a6178d9"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 17).bin",
+      "filesize": 5162640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c3ed317140396a4b8e2ea8feaaa7a97",
+        "sha1": "37cbfe644fc4a9ce9b15e99b436d094f5373cc5d",
+        "crc32": "b1664453"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 18).bin",
+      "filesize": 4019568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac76161e97b76b77af0b2be87f3fa759",
+        "sha1": "2085b66f81ce2cd073542ef2e5119996101aba74",
+        "crc32": "8e0749db"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 19).bin",
+      "filesize": 3499776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3faaa85c8b65123172389e88c87e6e2",
+        "sha1": "d431e9384e49d7c3bc223d4d165c7c467e55fc46",
+        "crc32": "87414df7"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 20).bin",
+      "filesize": 4706352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b4598b3354f90bef99edb8b9b070658",
+        "sha1": "127826ff71824707fc3b0dd8ee9381411b94441e",
+        "crc32": "f67a0a46"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 21).bin",
+      "filesize": 2387280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77fc097d40b82d56af86f4c8c22600d8",
+        "sha1": "3fc9fd08a77e5f000b3176689656d26dc69ff255",
+        "crc32": "a626ffb3"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 22).bin",
+      "filesize": 4435872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75f31d3f3feb5de509931d7f2f1a7e32",
+        "sha1": "eae96044b6a700d5b13a5a6f2de5e4e682363556",
+        "crc32": "5df708d9"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 23).bin",
+      "filesize": 4360608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c713cff667112f27055e3f74ba1668a4",
+        "sha1": "e698b390a3e2925361e98bbb115dfc8484347eb1",
+        "crc32": "8b3dcd64"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 24).bin",
+      "filesize": 4889808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b703607fb23ef776c14ccbf8f2982eba",
+        "sha1": "07c8f931f6d7da50b06e29292b8d552ebd9a522b",
+        "crc32": "8c2a31f3"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 25).bin",
+      "filesize": 5684784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3f7592661e45724ea550f577aa26128",
+        "sha1": "9f906ef4271b74276f4f64baa3e2aba00176eb5c",
+        "crc32": "24d368d0"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 26).bin",
+      "filesize": 6997200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c9f09183080855302add0ac53948fd0",
+        "sha1": "9d7b6d15b0451a3299a2f18d1b495a94505bd87a",
+        "crc32": "afa33634"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 27).bin",
+      "filesize": 6310416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8528260690c971900eb243cc475d8bef",
+        "sha1": "1fd67ac7aab995bba2fefafee5055346c3482a2c",
+        "crc32": "097e7210"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 28).bin",
+      "filesize": 6651456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94133a1735df1b17f13632f3e3627603",
+        "sha1": "e3c35b8a00001983ced30a0b3d752f919c201fd0",
+        "crc32": "5740ad44"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 29).bin",
+      "filesize": 5005056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfb940f99abf3783e855b87f03ac1c7c",
+        "sha1": "1940732f7f8c924a4abab7a27112b1b758c96481",
+        "crc32": "a7a39f76"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 30).bin",
+      "filesize": 5169696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "157d19a8a4fb40ced2e57e68a5adda3a",
+        "sha1": "54497817bd798cf524364e36fce83df704f272a2",
+        "crc32": "4f17b924"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 31).bin",
+      "filesize": 3342192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72d2cd2fd9f6f94ea5c2a4c07b4f98da",
+        "sha1": "3a84c6136a5378f8e3506e1cd6fee8f04828dc7e",
+        "crc32": "cd382a7c"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 32).bin",
+      "filesize": 3725568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40a7deeb83338401cc03f2ac5b28d3ca",
+        "sha1": "6f285e92b48b7308f1fe47ba630f775888c5d591",
+        "crc32": "98d8e7c5"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 33).bin",
+      "filesize": 4861584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d2b2f88667b94db905de09bc8755130",
+        "sha1": "1052d30926b2eb70e1694bcc1c52f1663be0042e",
+        "crc32": "728c46ad"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 34).bin",
+      "filesize": 4798080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ff2004495cbdabea15da84af504a626",
+        "sha1": "7b504f6832ef5c42d78af6c62baac76a79a174bc",
+        "crc32": "4b4451d1"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 35).bin",
+      "filesize": 5157936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5dce3cace515bb70242fe068b7c6df3",
+        "sha1": "099568227999eb9b9fad0ecbe9ae82713f89f2d8",
+        "crc32": "854c81d8"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 36).bin",
+      "filesize": 5400192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2faf2b007b2aeaa8e2e24d722aab5f8",
+        "sha1": "93006905c1a36d326da9de454a7e456e4280f8e5",
+        "crc32": "de706650"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 37).bin",
+      "filesize": 4901568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72abaef5145e56ff386dcb4667cd65e3",
+        "sha1": "1408379343d63c9146ddf21c1aeb9da8b0f13b79",
+        "crc32": "8591ca20"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 38).bin",
+      "filesize": 5447232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ff10d36cfd084afb728544b41e0fd5d",
+        "sha1": "8d6aad9086ca596b22c624eebaf4a1f0079cbdd8",
+        "crc32": "1c7dc4ac"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 39).bin",
+      "filesize": 4367664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fdd2e3b96e75dd17b40e7e6a3e1d0a7",
+        "sha1": "46662c93a213aeedd628cb4f5c1c76f98730debf",
+        "crc32": "fd1635a9"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 40).bin",
+      "filesize": 4899216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "271e4e455afe126fb2187b91ee28ab2d",
+        "sha1": "5ab1d424808140af1e4637052c52be557aa68806",
+        "crc32": "75e255f2"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 41).bin",
+      "filesize": 3142272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "969af31dbc3ca9e757a53540edfff5a5",
+        "sha1": "0bcff59bedc5cc8a65049c9e60e34009f5da2ee4",
+        "crc32": "64ddbb7c"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 42).bin",
+      "filesize": 5014464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28326c4705b5a7d9569990b70c20cd1e",
+        "sha1": "5b863c4813cb1daa8e0a25c8856aeae7b20f90c1",
+        "crc32": "fad01729"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 43).bin",
+      "filesize": 5012112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa8c877f6ceebb7e5f6a1dde5507e43d",
+        "sha1": "e274881f4cd5f7db5d8438f7396e0afbd4f17b3d",
+        "crc32": "d8f079ef"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 44).bin",
+      "filesize": 5546016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13d3119ccdfc248ec2f18648de2c1482",
+        "sha1": "f3f9692453fd6558179c8c00c8e51c3a42af047e",
+        "crc32": "d152fcad"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 45).bin",
+      "filesize": 5042688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3781c25f69f1674e3a07857e11ce2b44",
+        "sha1": "7b0c164427a0c4f22d802a3708a577d0f3a2a00d",
+        "crc32": "499c7d3b"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 46).bin",
+      "filesize": 5242608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61854ebeea33132691ec3bf200e171e5",
+        "sha1": "55a264054f24d2787a75199fb429dc55021dd9df",
+        "crc32": "c38e3969"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 47).bin",
+      "filesize": 4892160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "902705a3de4ca008d6050a4356c199ac",
+        "sha1": "be17494233ddb9714e7f2fbc3f5c9d686d69ac2f",
+        "crc32": "f54433e7"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 48).bin",
+      "filesize": 5616576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e892122c23cf54f431ae5d614d1fee3",
+        "sha1": "eb0678144521d246376adf497b7bf157a77f7217",
+        "crc32": "f6291c1c"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 49).bin",
+      "filesize": 4656960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab0804cc1c5271f7a5582d423d6c7fcf",
+        "sha1": "29dc756c27f86ba9a3adb82873dd850b576bba3f",
+        "crc32": "6ecfda44"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 50).bin",
+      "filesize": 4774560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9690daa69d988384b314ba7e08b0299",
+        "sha1": "d15aec232bdb7c3a32bc3dd886ab599966288e00",
+        "crc32": "4b404773"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 51).bin",
+      "filesize": 3751440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0038448ea6f9d13431f87ba16f26a5e8",
+        "sha1": "c2ac5e88e5edc3f7977039ac053db68d0b04f87b",
+        "crc32": "64b3fe88"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 52).bin",
+      "filesize": 7674576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02f9c83b5a5c4fb83eb26c564ea58fd6",
+        "sha1": "058908b9a0c5ed98f8f2dab2be39172d148df9ff",
+        "crc32": "5a3657fe"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 53).bin",
+      "filesize": 7966224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75844772cee877f66cd882967b166ad8",
+        "sha1": "15a1b31ddd9c336e09488b960abe11a8454e726f",
+        "crc32": "f654772c"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 54).bin",
+      "filesize": 7935648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ecf602cba4cdbd34956f7b7a37814f1",
+        "sha1": "e6cf1e33961e305402e61a6d9279b5558d886986",
+        "crc32": "5b4f0508"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 55).bin",
+      "filesize": 8297856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b71de74ac2324e0e150a70081223887",
+        "sha1": "50787adc374b1f9df12f326adda4025add95abd4",
+        "crc32": "a14d47f9"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 56).bin",
+      "filesize": 12903072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "201f78153cf56abcfd1d4fd43acb1d11",
+        "sha1": "ba45d9bfdf0542c0451246b45ac37c256ad4f333",
+        "crc32": "218cef82"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 57).bin",
+      "filesize": 6613824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba3db0f1ab7ef1d9a6b4233a9bcbcdb3",
+        "sha1": "9c3a3b4190e06ba334852ae04e445f89e6038af5",
+        "crc32": "e1876853"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 58).bin",
+      "filesize": 6566784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d980263565fc98de807ca080981badec",
+        "sha1": "3824601bc48f3d3782523ccb0aab2310dde3926a",
+        "crc32": "d6450623"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 59).bin",
+      "filesize": 15713712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c46704d67af15e4a32139a326d43b144",
+        "sha1": "69ff0f066a07429128e9928954d4eafdbd3b6ddd",
+        "crc32": "7aac433d"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 60).bin",
+      "filesize": 8678880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04bf9c02ac4bf8f963ba3692774e7bd1",
+        "sha1": "1c36a16500611631248831a24b6c8beab17a9adb",
+        "crc32": "334d6ebb"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 61).bin",
+      "filesize": 29821008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55c96dad0d047990f2df544f024dd3b4",
+        "sha1": "ef87398add1c079bc6e785ebf6cf3f1bb14af09d",
+        "crc32": "0fbde1b7"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 62).bin",
+      "filesize": 20711712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d39cb9e7d177502b7e502a08f48a3c99",
+        "sha1": "7faa8219993e2dbee322154a7ea43e88d6ecfa02",
+        "crc32": "812770b3"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 63).bin",
+      "filesize": 5755344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52e03363ebf283c614221b050ee0d86a",
+        "sha1": "88e0f683fa8626fd1156587f74ffb7171f5bf025",
+        "crc32": "cc46abd3"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 64).bin",
+      "filesize": 12745488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59a6cf5ce0b0940a7d62dfc154f52050",
+        "sha1": "5e3cdc68c8e2a697a1c7f84b2196273980623598",
+        "crc32": "b8d3473f"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 65).bin",
+      "filesize": 7204176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16ef1974b8f208489dad77d39034154b",
+        "sha1": "e56e7394d019b9ab19deecce098eb1478d9d1688",
+        "crc32": "efb3af97"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 66).bin",
+      "filesize": 1361808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cfd099a63e34aa0e7f0aab64294fb8b",
+        "sha1": "b882289f3f9756159176b1b6672bcc9b01c6f8c5",
+        "crc32": "3234841e"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 67).bin",
+      "filesize": 10885056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb0160c10cb03dd6b24716eaa5cbad67",
+        "sha1": "eef57f6da3a6e32216a25d205e2b15413ef5f806",
+        "crc32": "a58601f6"
+      }
+    },
+    {
+      "filename": "Frenzy! (Europe) (Track 68).bin",
+      "filesize": 33955824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d8b120d97408ebf81a01b84e904c9b4",
+        "sha1": "7fdd2c05ed5efbe244df9a6d5c06b201475e4975",
+        "crc32": "81ba4140"
+      }
+    }
+  ]
+}

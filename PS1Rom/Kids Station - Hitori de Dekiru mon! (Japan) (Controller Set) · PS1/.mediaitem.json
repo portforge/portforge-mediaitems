@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Hitori de Dekiru mon! (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Hitori de Dekiru mon! (Japan) (Controller Set).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dba043f19c88f444d86107abf5b116cf",
+        "sha1": "84ad3a9a8f77e0ac822717e0764a19067794224f",
+        "crc32": "26448a6c"
+      }
+    },
+    {
+      "filename": "Kids Station - Hitori de Dekiru mon! (Japan) (Controller Set).bin",
+      "filesize": 650685504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9df7f3fb7e22e9e6d692cce642b94bc4",
+        "sha1": "404a0f6ae87d99fd74286b7ae2ce384738144c6a",
+        "crc32": "8d951e24"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 14 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 14 (Europe).cue",
+      "filesize": 557,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc06d8062cda0b3b3ad64b413aac7e07",
+        "sha1": "066d61bed8a93f8e0e7b16457b18a643a745d3b3",
+        "crc32": "7a0f2f08"
+      }
+    },
+    {
+      "filename": "Euro Demo 14 (Europe) (Track 1).bin",
+      "filesize": 140103936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cb000a17d999d1ddb425ffd58a5e9a1",
+        "sha1": "a0ebef1ff921785fe214e026784eb33576cd440c",
+        "crc32": "98f805cb"
+      }
+    },
+    {
+      "filename": "Euro Demo 14 (Europe) (Track 2).bin",
+      "filesize": 36611232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8446e15de683617492958f16d5e35cf",
+        "sha1": "bebd2886ebaffe77b20efa9177fc14cc9ccfa381",
+        "crc32": "78568986"
+      }
+    },
+    {
+      "filename": "Euro Demo 14 (Europe) (Track 3).bin",
+      "filesize": 33638304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90e8e1cf13e32ced4c9c2a9d3750a07d",
+        "sha1": "46d4267005d086af840114b9e9bb767f68b3af80",
+        "crc32": "1b934f9e"
+      }
+    },
+    {
+      "filename": "Euro Demo 14 (Europe) (Track 4).bin",
+      "filesize": 20086080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ee1542bf415d7eaf38552bf0e81e96d",
+        "sha1": "1bfadce914fb9fb4e0691e3193a6653403df3628",
+        "crc32": "48085ec7"
+      }
+    },
+    {
+      "filename": "Euro Demo 14 (Europe) (Track 5).bin",
+      "filesize": 48608784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d65e173dd0f761498ed665a57b6a27de",
+        "sha1": "61bcdbf0573f2c2f687a58db42070b5b3e16379a",
+        "crc32": "0ee64810"
+      }
+    }
+  ]
+}

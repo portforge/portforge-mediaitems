@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 33 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 33 (France).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90782c9f393e1e7cefb4d3340c8cc3ef",
+        "sha1": "da75d8a220e8adc496fab63264b0e7cfa8c2df09",
+        "crc32": "f7f49953"
+      }
+    },
+    {
+      "filename": "Euro Demo 33 (France) (Track 1).bin",
+      "filesize": 496086192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19bca593ec8706b34ddcbd1f005e8287",
+        "sha1": "747e4ac941dea8364b3c56dc15982d16bdf79b93",
+        "crc32": "b4023c02"
+      }
+    },
+    {
+      "filename": "Euro Demo 33 (France) (Track 2).bin",
+      "filesize": 33064416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af68c436d42ee7c128df4406ec1883f9",
+        "sha1": "9a990b5abbe1e95258dfd4d83e9076b0136525d6",
+        "crc32": "31cb4c4d"
+      }
+    },
+    {
+      "filename": "Euro Demo 33 (France) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

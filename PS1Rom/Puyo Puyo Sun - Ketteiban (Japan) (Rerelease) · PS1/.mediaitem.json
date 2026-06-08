@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puyo Puyo Sun - Ketteiban (Japan) (Rerelease)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puyo Puyo Sun - Ketteiban (Japan) (Rerelease).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f45594dedd057348f958ae83b2cbab3",
+        "sha1": "dcda9959dfccc6da9d14af88ca11076607106311",
+        "crc32": "f3c57aec"
+      }
+    },
+    {
+      "filename": "Puyo Puyo Sun - Ketteiban (Japan) (Rerelease).bin",
+      "filesize": 354549888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd45247bed76cd65e20f9877a429bebb",
+        "sha1": "1c01216826699f1b35815052e3c71651ac9e48f2",
+        "crc32": "93d9f6aa"
+      }
+    }
+  ]
+}

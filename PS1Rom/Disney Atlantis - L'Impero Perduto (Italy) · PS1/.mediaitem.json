@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Atlantis - L'Impero Perduto (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Atlantis - L'Impero Perduto (Italy).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88af4bcc8a3710ec7522f74d6830b57e",
+        "sha1": "5a6b68578a4fd489f529a44d6d48dd333c5c159e",
+        "crc32": "b52c2b79"
+      }
+    },
+    {
+      "filename": "Disney Atlantis - L'Impero Perduto (Italy) (Track 1).bin",
+      "filesize": 338043552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce903e0b9493823ba80637f0682da4e5",
+        "sha1": "5484e8e2eac5c298978705b718d92e9afee4a0de",
+        "crc32": "9bcd674e"
+      }
+    },
+    {
+      "filename": "Disney Atlantis - L'Impero Perduto (Italy) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

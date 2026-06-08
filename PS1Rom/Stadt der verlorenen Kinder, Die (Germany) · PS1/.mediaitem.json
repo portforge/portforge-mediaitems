@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Stadt der verlorenen Kinder, Die (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Stadt der verlorenen Kinder, Die (Germany).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "009bbfad28ff4c3ae300f7dd261532ec",
+        "sha1": "4c4edfe29fb05fd7dbf38fefdf50212d5326ec71",
+        "crc32": "71927a23"
+      }
+    },
+    {
+      "filename": "Stadt der verlorenen Kinder, Die (Germany) (Track 1).bin",
+      "filesize": 326876256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e76788d94c30e0ad20f69d935b353389",
+        "sha1": "4eaf511ca0106613f0de126c2d46e83a76587c90",
+        "crc32": "f6d0aa93"
+      }
+    },
+    {
+      "filename": "Stadt der verlorenen Kinder, Die (Germany) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

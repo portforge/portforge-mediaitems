@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sven-Goeran Eriksson's World Manager (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sven-Goeran Eriksson's World Manager (Europe).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f33d6ce847d53e86284146b6ce05455",
+        "sha1": "fa3db7fdd8289e7bb478aff898adbc6e56ac20c4",
+        "crc32": "bebe4e79"
+      }
+    },
+    {
+      "filename": "Sven-Goeran Eriksson's World Manager (Europe).bin",
+      "filesize": 78109920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b5faa4a6152c08cbacb5dec9a864070",
+        "sha1": "c910efb6e2617892e2039c7a55f5d746b6e5a462",
+        "crc32": "a225b296"
+      }
+    }
+  ]
+}

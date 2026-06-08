@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Farland Story - Yottsu no Fuuin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Farland Story - Yottsu no Fuuin (Japan).cue",
+      "filesize": 767,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b883ce6de4b86ef3c281e4b027953318",
+        "sha1": "0bbcbc82b3ae4376416c2a2361c87447f2b57d4e",
+        "crc32": "f42cf64e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Farland Story - Yottsu no Fuuin (Japan) (Track 1).bin",
+      "filesize": 542361792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fda696749586240b0a5847415ce4105c",
+        "sha1": "bb779573cd333adc52eb14644d1909531e131470",
+        "crc32": "e26a54f3"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Farland Story - Yottsu no Fuuin (Japan) (Track 2).bin",
+      "filesize": 9702000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3a171c95230cb7d3650b77fbe25b0b2",
+        "sha1": "e5b2c63e8d7c601095b92f7bcc8acf258e61aeec",
+        "crc32": "9014acc6"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Farland Story - Yottsu no Fuuin (Japan) (Track 3).bin",
+      "filesize": 5395488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "428dd87524ecf212cb19eb9726bfc3dc",
+        "sha1": "24f7747d7f2f982d1381b15f1ceea5515c898663",
+        "crc32": "a20b077a"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Farland Story - Yottsu no Fuuin (Japan) (Track 4).bin",
+      "filesize": 10202976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42e3371e70d99336e58a8e086072defb",
+        "sha1": "c16ac34d7ec881072d031d6ee3d72302e9976d7d",
+        "crc32": "50d10970"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Farland Story - Yottsu no Fuuin (Japan) (Track 5).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

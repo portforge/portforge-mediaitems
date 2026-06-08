@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MiruMiru PlayStation Vol. 24 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MiruMiru PlayStation Vol. 24 (Japan).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a0cd9cedfabf084a05706e48392cedc",
+        "sha1": "3394a806170baf489839ed97f10e974b81e52b7c",
+        "crc32": "459df089"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 24 (Japan) (Track 1).bin",
+      "filesize": 444859632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2002be590207d42559fc5d9d9da19d46",
+        "sha1": "70c4f996d34ac56696a3c1eea8499c149c50cc74",
+        "crc32": "f46f8948"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 24 (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

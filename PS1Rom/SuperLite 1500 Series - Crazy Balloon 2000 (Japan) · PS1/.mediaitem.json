@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Crazy Balloon 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Crazy Balloon 2000 (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2b7bd530ea6f8777ae7f33149338d5b",
+        "sha1": "a269ebb1b42e5909beb0e802c456d8105be4d2cc",
+        "crc32": "a13ce156"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crazy Balloon 2000 (Japan).bin",
+      "filesize": 62083392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "008b4fa36b1c6935037971a40bec6339",
+        "sha1": "a93a9d500855fb7b10ee4f4eafcd7410a940d377",
+        "crc32": "496d4cd4"
+      }
+    }
+  ]
+}

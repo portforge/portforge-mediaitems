@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Favorite Dear - Junpaku no Yogensha (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Favorite Dear - Junpaku no Yogensha (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8df186ee18a0f1708c819e1ef21bd3fe",
+        "sha1": "ae891b47cba820959bf4c8585ee134b171f97711",
+        "crc32": "6a71995a"
+      }
+    },
+    {
+      "filename": "Favorite Dear - Junpaku no Yogensha (Japan).bin",
+      "filesize": 567401184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8be97d515553773081ece79ece7c8c42",
+        "sha1": "b948c46436cb2290c5a87903336e0d404705c73d",
+        "crc32": "b433678a"
+      }
+    }
+  ]
+}

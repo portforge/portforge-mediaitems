@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heart of Darkness (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heart of Darkness (Italy) (Disc 1).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ecbc2a32913a891dee5a297b711ee5e2",
+        "sha1": "ddb8454d869feb9f1f81d4a1013c5dfc83dce5d6",
+        "crc32": "6d1dd02a"
+      }
+    },
+    {
+      "filename": "Heart of Darkness (Italy) (Disc 1).bin",
+      "filesize": 577599456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6308993286e8b7ebfad651f6fc1fb46",
+        "sha1": "77ec8a2528054b52a1793d378847a8b443daff39",
+        "crc32": "d2179fd9"
+      }
+    }
+  ]
+}

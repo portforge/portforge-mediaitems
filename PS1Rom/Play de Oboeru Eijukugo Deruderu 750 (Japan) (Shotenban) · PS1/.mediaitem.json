@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play de Oboeru Eijukugo Deruderu 750 (Japan) (Shotenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play de Oboeru Eijukugo Deruderu 750 (Japan) (Shotenban).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4eea693d5e7c3053ad19055b4f57e0c0",
+        "sha1": "d2cc97784f844d9b10f735991849e4b17a32353d",
+        "crc32": "1c3117b5"
+      }
+    },
+    {
+      "filename": "Play de Oboeru Eijukugo Deruderu 750 (Japan) (Shotenban).bin",
+      "filesize": 155201424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05b250e2184ea9b9c3f8364e93a8f4b0",
+        "sha1": "8f05fcb1cc9c9330b9891dcdcc22d270b42e905a",
+        "crc32": "48590900"
+      }
+    }
+  ]
+}

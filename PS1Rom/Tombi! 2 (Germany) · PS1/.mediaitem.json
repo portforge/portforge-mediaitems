@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tombi! 2 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tombi! 2 (Germany).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5dee0ba55b50e0beae2589aa96979b5",
+        "sha1": "9edced7389dd6f7cf2abfad57f164529b1c79944",
+        "crc32": "61c9fe79"
+      }
+    },
+    {
+      "filename": "Tombi! 2 (Germany) (Track 1).bin",
+      "filesize": 371420784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52a143dbed27c00eb25fdc0288b4fb02",
+        "sha1": "4af77b0c3e0cec8fa826a28fd95d67819dc3790c",
+        "crc32": "9d87a9d3"
+      }
+    },
+    {
+      "filename": "Tombi! 2 (Germany) (Track 2).bin",
+      "filesize": 37218048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a239dd0afb00b2ce214c64f306a5333f",
+        "sha1": "c2af7bebba8e18a963c432a16fbb1a2501257db7",
+        "crc32": "ef40c368"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Video IDU Demo 1F (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Video IDU Demo 1F (France).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45d7b0cc951273fdd992a189ac05fa27",
+        "sha1": "42851ef42174eacffdad00e9b04b52b5ae5bb9c3",
+        "crc32": "eff6ac43"
+      }
+    },
+    {
+      "filename": "Video IDU Demo 1F (France) (Track 1).bin",
+      "filesize": 656894784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "905c51f637ca49858770d71707bb043f",
+        "sha1": "af9358feee1d3a2be5ff9ff3f526f28b5f2de3cc",
+        "crc32": "68354f18"
+      }
+    },
+    {
+      "filename": "Video IDU Demo 1F (France) (Track 2).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b4f7e3d2833d04d28b2a88ec8d8d0feb",
+        "sha1": "943b14595ad9ee619e1adf0742c990036c47010e",
+        "crc32": "de9d50cd"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Toy Story 2 - Buzz l'Eclair a la Rescousse ! (France).bin",
+      "filesize": 633259536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae7ffc211679802cf06c9da147d92561",
+        "sha1": "dee0edb80a6dde8a1498babb501e23b74d63857c",
+        "crc32": "33823850"
+      }
+    }
+  ]
+}

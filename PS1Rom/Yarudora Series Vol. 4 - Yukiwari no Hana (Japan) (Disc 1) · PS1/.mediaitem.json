@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yarudora Series Vol. 4 - Yukiwari no Hana (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yarudora Series Vol. 4 - Yukiwari no Hana (Japan) (Disc 1).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67f61003cc14bf3f6580682f726714cf",
+        "sha1": "21ed6e25eadb576206ef1d4064f88748f0b7712e",
+        "crc32": "5818dcbd"
+      }
+    },
+    {
+      "filename": "Yarudora Series Vol. 4 - Yukiwari no Hana (Japan) (Disc 1).bin",
+      "filesize": 666467424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6add0d388656fc35d4b16a5e472402a2",
+        "sha1": "bd9e9685f57b24bc6ed14344e53ce7136ffa8d71",
+        "crc32": "93d44422"
+      }
+    }
+  ]
+}

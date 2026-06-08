@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Invaders (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Invaders (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "77288f50c5d95f442590e06b77c86e25",
+        "sha1": "d1fd0c6c061f3620597d6665e86806492df6bb2c",
+        "crc32": "f2bc6be7"
+      }
+    },
+    {
+      "filename": "Space Invaders (Japan) (Track 1).bin",
+      "filesize": 60086544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3478ef928cdeea486e675b255fc77b95",
+        "sha1": "58dbce01a6fe566794a19fa13e1788c045076da1",
+        "crc32": "7c3fd630"
+      }
+    },
+    {
+      "filename": "Space Invaders (Japan) (Track 2).bin",
+      "filesize": 118206816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21f07537ce4594805a33c37495dd6237",
+        "sha1": "fd0697171360ba49b42d1de24bf4063712876987",
+        "crc32": "2da1cee1"
+      }
+    }
+  ]
+}

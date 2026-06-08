@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dexter's Laboratory - Mandark's Lab (Europe) (Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (Europe) (Fr,De).cue",
+      "filesize": 420,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f8336efe2f896d8c6889d6e8bff43f75",
+        "sha1": "39e9ee24b252994e422c232aca0f5bdc776290bb",
+        "crc32": "d42971c5"
+      }
+    },
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (Europe) (Fr,De) (Track 1).bin",
+      "filesize": 369254592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edaf0294fbcd06538f3017bdca35218b",
+        "sha1": "6e50c57bf399e1efc74ad6e8e7210dba0f2e83d1",
+        "crc32": "70d63191"
+      }
+    },
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (Europe) (Fr,De) (Track 2).bin",
+      "filesize": 3177552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4e7260e7693712e2b950febe393969c",
+        "sha1": "d74b262b7f538bff12f477961f6af8e1049bb7fa",
+        "crc32": "97e0ec3f"
+      }
+    },
+    {
+      "filename": "Dexter's Laboratory - Mandark's Lab (Europe) (Fr,De) (Track 3).bin",
+      "filesize": 317696400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ff0b2a07f99fc287bd286743e7fb6bb",
+        "sha1": "787c0ff2d04deec2653a3b525130fd9294eec1bd",
+        "crc32": "58403ac9"
+      }
+    }
+  ]
+}

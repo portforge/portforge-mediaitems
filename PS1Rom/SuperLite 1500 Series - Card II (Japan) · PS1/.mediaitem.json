@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Card II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Card II (Japan).cue",
+      "filesize": 780,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6accab38309c587f0392bc1770709abc",
+        "sha1": "5f53401fc65287be59845983c85ebbd2bfc92082",
+        "crc32": "b46a2c79"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Card II (Japan) (Track 1).bin",
+      "filesize": 2142672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5835e7f867618210917a56963cbe6c43",
+        "sha1": "c04c2da6dc23d35f44bf76ee3afc0e11d5921c24",
+        "crc32": "cce4494a"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Card II (Japan) (Track 2).bin",
+      "filesize": 33882912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de38c12e03acc05f5358bb4c7740ac9f",
+        "sha1": "c6b0cd7ee8328342e6168e7f901a3bd8c439a944",
+        "crc32": "ecc9ecf3"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Card II (Japan) (Track 3).bin",
+      "filesize": 36510096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce9ba2ea7549e6b8ac68b8eddc3222e2",
+        "sha1": "59798a7984e5540da6836007c1fbdee37014f787",
+        "crc32": "006f9e0d"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Card II (Japan) (Track 4).bin",
+      "filesize": 37646112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b365b15037c893d6a8243ad9b6952fb1",
+        "sha1": "7cb3fcbb529388c8e7409398a369716e8d4d6c77",
+        "crc32": "e520e222"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Card II (Japan) (Track 5).bin",
+      "filesize": 57706320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db0db80dee92bb92c7f7e6a92d9e0d8",
+        "sha1": "91accea4d72ee11d24099b094d3d13c3de408275",
+        "crc32": "bd4f8846"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Card II (Japan) (Track 6).bin",
+      "filesize": 33882912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de38c12e03acc05f5358bb4c7740ac9f",
+        "sha1": "c6b0cd7ee8328342e6168e7f901a3bd8c439a944",
+        "crc32": "ecc9ecf3"
+      }
+    }
+  ]
+}

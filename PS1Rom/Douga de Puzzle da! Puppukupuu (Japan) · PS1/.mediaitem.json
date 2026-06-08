@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Douga de Puzzle da! Puppukupuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Douga de Puzzle da! Puppukupuu (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5cdb263fae1a387edcb90aac28095b4d",
+        "sha1": "5eb044373c551e21c3e4eabd2dcdb0185a409e5c",
+        "crc32": "5e155fab"
+      }
+    },
+    {
+      "filename": "Douga de Puzzle da! Puppukupuu (Japan).bin",
+      "filesize": 631700160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ee771659ee28f952a84507d8c1881be",
+        "sha1": "8bd72b0cbf441c61ae6c56d30329661553ff5187",
+        "crc32": "20dd85bd"
+      }
+    }
+  ]
+}

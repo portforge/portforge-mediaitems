@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rally de Europe (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rally de Europe (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16b882f64a30f9a137b0612e48b8a12e",
+        "sha1": "becae678ade8624235e334d3d329a2198b1b0787",
+        "crc32": "261a336a"
+      }
+    },
+    {
+      "filename": "Rally de Europe (Japan).bin",
+      "filesize": 318138576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a77631dc808d0f49ef3a74a8a14a4fb7",
+        "sha1": "2e6b74775e2dadf6dc164bf40f5454502c7e1018",
+        "crc32": "d5ffa886"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rurouni Kenshin - Meiji Kenkaku Romantan - Juuyuushi Inbou-hen (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rurouni Kenshin - Meiji Kenkaku Romantan - Juuyuushi Inbou-hen (Japan) (Rev 1).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54d7bcea05e7552c8ac0f1cd067dadcb",
+        "sha1": "b60a85b8cd57f4eee80ee17d8621fed2594d2d3b",
+        "crc32": "a4fed6ef"
+      }
+    },
+    {
+      "filename": "Rurouni Kenshin - Meiji Kenkaku Romantan - Juuyuushi Inbou-hen (Japan) (Rev 1).bin",
+      "filesize": 534856560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e171d96a81d50e3e3c9d3b71e4a71f8",
+        "sha1": "1feaf22d66dea64ddb8e4482dec8d2bbfecc5e60",
+        "crc32": "4fefc02f"
+      }
+    }
+  ]
+}

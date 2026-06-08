@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "McDonald's - Demo 03 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "McDonald's - Demo 03 (Europe).cue",
+      "filesize": 597,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54a5baba9a38b598826fae9828fecb88",
+        "sha1": "e046e6b2fc00341adf39b3c63c5b529bd8d58abf",
+        "crc32": "9de4d8fc"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 03 (Europe) (Track 1).bin",
+      "filesize": 134249808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a753b148639ed272de6d7719d59ffeb9",
+        "sha1": "7b9b524c578a3cc29924104e190f96d11c4c034c",
+        "crc32": "c05c830f"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 03 (Europe) (Track 2).bin",
+      "filesize": 17969280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09bf451859ec11852c77c00b22511068",
+        "sha1": "52c5832481db4f42626447571261ed0b8ca56cdc",
+        "crc32": "904d228c"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 03 (Europe) (Track 3).bin",
+      "filesize": 19465152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19f123181f7a6ae0487cccd2a3fb4b1f",
+        "sha1": "693c7ea3b336438738a07345290a22d465f3b371",
+        "crc32": "fad5f6a3"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 03 (Europe) (Track 4).bin",
+      "filesize": 46341456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad24de8bbb40795d97b76a344962f58a",
+        "sha1": "7055d1042a2136e5bf7a8b93a2e9593af3ccb183",
+        "crc32": "9c5eef8e"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 03 (Europe) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

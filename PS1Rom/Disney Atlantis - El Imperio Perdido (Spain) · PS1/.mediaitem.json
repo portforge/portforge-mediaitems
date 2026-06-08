@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Atlantis - El Imperio Perdido (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Atlantis - El Imperio Perdido (Spain).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d25ab53a5c35c792e641f718700277a6",
+        "sha1": "9fe3fd8222f6a4bb0ba5e2c07376c61640421298",
+        "crc32": "75f8bca6"
+      }
+    },
+    {
+      "filename": "Disney Atlantis - El Imperio Perdido (Spain) (Track 1).bin",
+      "filesize": 337516704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84495e6ca5c6ea298773fd3700b6ba54",
+        "sha1": "dbf669799dcbffe5866619dc3a8c98ecf053c17c",
+        "crc32": "0d50ee43"
+      }
+    },
+    {
+      "filename": "Disney Atlantis - El Imperio Perdido (Spain) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

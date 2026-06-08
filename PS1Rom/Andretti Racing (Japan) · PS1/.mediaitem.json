@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Andretti Racing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Andretti Racing (Japan).cue",
+      "filesize": 684,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce60b0c3b654fa4c3ad93668228d3c94",
+        "sha1": "46274f129a743edbf6f3e4a2737f376536c0ca0d",
+        "crc32": "578162f2"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Japan) (Track 1).bin",
+      "filesize": 586473552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf4c617c444f8ffaf1b0fcee1d5ced54",
+        "sha1": "9b8397e2c91cbcf2bb11e6d3a16e02c29bf6cb2a",
+        "crc32": "093befe4"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Japan) (Track 2).bin",
+      "filesize": 23475312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "969b8a951e451a099027d122cba3a327",
+        "sha1": "c05b2f0f7f0a0c3cfba7fd294fa24ad9bcf0ce52",
+        "crc32": "1b1bfc1c"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Japan) (Track 3).bin",
+      "filesize": 26516448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "565d59c5f37b7b0da0e177df31a2ed9f",
+        "sha1": "bee68dd9f27ea98b8a52f42192b6321ccb3e4559",
+        "crc32": "ded4644f"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Japan) (Track 4).bin",
+      "filesize": 27805344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bea918ff84d17986d4283102d5feb6c4",
+        "sha1": "e58d04fee0a44ac9e4f5dbee2431e59240be69bd",
+        "crc32": "6f60fb5e"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Japan) (Track 5).bin",
+      "filesize": 25495680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bb287e4759eb6a6d2bd6fc2d6b092e0",
+        "sha1": "6e48796d1065f9b03f34776f0b94dd101ae852c4",
+        "crc32": "3989426f"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Japan) (Track 6).bin",
+      "filesize": 31074624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01900b517eba213dad871f5992b577a9",
+        "sha1": "19176f27bab77674c6295d7beaed04e773743920",
+        "crc32": "da1f2d55"
+      }
+    }
+  ]
+}

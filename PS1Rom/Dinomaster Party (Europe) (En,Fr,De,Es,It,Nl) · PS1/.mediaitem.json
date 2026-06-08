@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 1094,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89fb291d8abf3126be425145f7ddca2e",
+        "sha1": "8224d1ca4803c13050cf58176a05ecd7f77992e3",
+        "crc32": "743fede1"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 1).bin",
+      "filesize": 49780080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5bd7d2ad37e701113966648e023c4cc",
+        "sha1": "198980fad00283dbd0ee1c8b519004ca3db352de",
+        "crc32": "37e94b1a"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin",
+      "filesize": 28929600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e1ec107eb4431c84cbe49ed6100a58e",
+        "sha1": "b35cf2fa2fbc8f54faf626936a5dff89c3efc18e",
+        "crc32": "0a84b42c"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 3).bin",
+      "filesize": 33800592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b278eabb7be1b184cbcc40f73f5f5f5",
+        "sha1": "0250b1e5b7eb8855cbe446f63743021e6c5dba8e",
+        "crc32": "35703ec6"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 4).bin",
+      "filesize": 26408256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c56d6aac8713495ad1a26573ed05ba62",
+        "sha1": "299726fe55fa1b982e003c0f5c9042653908fb51",
+        "crc32": "d13880e4"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 5).bin",
+      "filesize": 32932704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba28736e445667d6c50c6556f425f850",
+        "sha1": "cfee7e77aea67556bb9c314c501d3e264fc2dba3",
+        "crc32": "435e18e5"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 6).bin",
+      "filesize": 28228704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9cba0750f529757c6c9b1df5e5e051dc",
+        "sha1": "192611ad0a07fea1e813112ee57b53591440155b",
+        "crc32": "daeaa680"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 7).bin",
+      "filesize": 39598272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a95ce683ef0753aeaed56c2794049a4",
+        "sha1": "c00b05b9d3a3f71672a460c87c10545ac7de553f",
+        "crc32": "94073ccd"
+      }
+    },
+    {
+      "filename": "Dinomaster Party (Europe) (En,Fr,De,Es,It,Nl) (Track 8).bin",
+      "filesize": 44107056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98f73d1370302601aed08357ff6a176d",
+        "sha1": "fd96684424b47b40653301bb29e657fdde5eec6f",
+        "crc32": "efc33fd3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Kaette kita Pachio-kun - Dream Collection (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Kaette kita Pachio-kun - Dream Collection (Japan).cue",
+      "filesize": 316,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a1e02e957605a846b6078c258f84329",
+        "sha1": "8fec0dc917e7ce2af913036ca76ce4e331f68b5f",
+        "crc32": "db54ba1e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Kaette kita Pachio-kun - Dream Collection (Japan) (Track 1).bin",
+      "filesize": 8610672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b81f0ad4556102be2de691d4b4caf2e",
+        "sha1": "978241de98581fbd4e2d61dbc3c9dda1b6cced97",
+        "crc32": "770cf5d5"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Kaette kita Pachio-kun - Dream Collection (Japan) (Track 2).bin",
+      "filesize": 39506544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5639f377c520686cfd3614116f1caf9",
+        "sha1": "24cef15c6ef2f893436914e61516c5037b5be95a",
+        "crc32": "edccad35"
+      }
+    }
+  ]
+}

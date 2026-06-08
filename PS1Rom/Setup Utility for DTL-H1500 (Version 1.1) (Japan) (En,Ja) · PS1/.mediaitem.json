@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Setup Utility for DTL-H1500 (Version 1.1) (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Setup Utility for DTL-H1500 (Version 1.1) (Japan) (En,Ja).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0abdc32aa7125a3e1c2104109b5b7d3",
+        "sha1": "7aa7f2eecce5887681e96fa4aadcfd75b6fe4d22",
+        "crc32": "6a8dc0ba"
+      }
+    },
+    {
+      "filename": "Setup Utility for DTL-H1500 (Version 1.1) (Japan) (En,Ja).bin",
+      "filesize": 39621792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74d14cd35a4e7f837fc3d5b8f174ef6b",
+        "sha1": "4f20084fe9e601aae9ac93232c0da3a6791eccc6",
+        "crc32": "558c139a"
+      }
+    }
+  ]
+}

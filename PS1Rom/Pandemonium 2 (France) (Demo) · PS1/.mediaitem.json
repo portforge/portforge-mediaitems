@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pandemonium 2 (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pandemonium 2 (France) (Demo).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e84ff83555e5ccdfe010750de91aeff",
+        "sha1": "7d51c2c4f04bee957c81dec7d3f2b9605c85061c",
+        "crc32": "278f2bf4"
+      }
+    },
+    {
+      "filename": "Pandemonium 2 (France) (Demo).bin",
+      "filesize": 178267488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f70d6269b2aa9e30cf70777893dc2a1",
+        "sha1": "3992bcaee1b1b227a6981fd742801c710733e6f9",
+        "crc32": "60138e70"
+      }
+    }
+  ]
+}

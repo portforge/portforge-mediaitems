@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F1 Racing Championship (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "05759f85dd0e237d8756218ccff486aa",
+        "sha1": "ecf8d5878604ecd5dc31e0a21ab2450dd3d7f286",
+        "crc32": "285be3f2"
+      }
+    },
+    {
+      "filename": "F1 Racing Championship (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 597431520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09d641dc639a14df1c7ae08b597bca61",
+        "sha1": "6cc1c2a3c24a472d2823031d13c0be490ec98bbe",
+        "crc32": "4b849c46"
+      }
+    }
+  ]
+}

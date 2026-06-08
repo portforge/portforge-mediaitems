@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cybernetic Empire (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cybernetic Empire (Japan) (Disc 2).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c1b7e9362ab83972c8875174441d1491",
+        "sha1": "603a698610039a0d32d0cbca0c7b1500f2bc486c",
+        "crc32": "bacba054"
+      }
+    },
+    {
+      "filename": "Cybernetic Empire (Japan) (Disc 2).bin",
+      "filesize": 712366704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65556e901ee6d84a4d89d3f5e3d14f12",
+        "sha1": "b60549251058a2c78756647b0ae45ce56c7c477c",
+        "crc32": "cdb59477"
+      }
+    }
+  ]
+}

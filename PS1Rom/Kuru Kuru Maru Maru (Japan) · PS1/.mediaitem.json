@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kuru Kuru Maru Maru (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kuru Kuru Maru Maru (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d5b9451ca40df94bb23e872def6500f4",
+        "sha1": "4fbd326fa0466bb37abbd21c753ebf35da599572",
+        "crc32": "280a97cb"
+      }
+    },
+    {
+      "filename": "Kuru Kuru Maru Maru (Japan).bin",
+      "filesize": 608370672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfe6ef8aaff209f83b0447238c0a8f8c",
+        "sha1": "930f91a19dfb8ab837973c42e9b1c7dc5c9efee2",
+        "crc32": "884e8164"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Panzer Front bis. (Europe) (En,Fr,De) (Proto) (2002-01-20)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Panzer Front bis. (Europe) (En,Fr,De) (Proto) (2002-01-20).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b23ecd8cacf1c2c23270a69a6c097fbc",
+        "sha1": "98cd79f82b60fda8901fa32d2763461f407756d5",
+        "crc32": "9983d179"
+      }
+    },
+    {
+      "filename": "Panzer Front bis. (Europe) (En,Fr,De) (Proto) (2002-01-20).bin",
+      "filesize": 438236400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e07a7a7543bf12c4e1bcac51bc2ead49",
+        "sha1": "43bca6fb6cef5042ac9bf8d5df8d71dddbfaff0e",
+        "crc32": "528a9e71"
+      }
+    }
+  ]
+}

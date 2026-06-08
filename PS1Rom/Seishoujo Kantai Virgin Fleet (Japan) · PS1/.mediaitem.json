@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Seishoujo Kantai Virgin Fleet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Seishoujo Kantai Virgin Fleet (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17023d468b33cf75ce6e6f515c954379",
+        "sha1": "2baaf18af671acf505e2d1041ae3fe79edc86948",
+        "crc32": "86f366f2"
+      }
+    },
+    {
+      "filename": "Seishoujo Kantai Virgin Fleet (Japan).bin",
+      "filesize": 701486352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb5a0f0dc7da45c80e02e2abbf7fdfbf",
+        "sha1": "40edd7ef238b404c245def752d846e3d74979188",
+        "crc32": "f37993e5"
+      }
+    }
+  ]
+}

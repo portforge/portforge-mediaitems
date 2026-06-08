@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Classic 2 - Tsui ni yomigaeru!! Bakuretsu Meiki Fukkatsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Classic 2 - Tsui ni yomigaeru!! Bakuretsu Meiki Fukkatsu (Japan).cue",
+      "filesize": 156,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e1e20f8b3ae6e5f6dd67acda2ff03c60",
+        "sha1": "9e55fb9ddd566fa8977d0988871e415d1227dec2",
+        "crc32": "757fa42b"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic 2 - Tsui ni yomigaeru!! Bakuretsu Meiki Fukkatsu (Japan).bin",
+      "filesize": 53818464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1d67bd892d5fd3b0bced880aee27ea5",
+        "sha1": "23b13a91bd81ed687ae594f7366cf90df64b8e58",
+        "crc32": "b9818ca6"
+      }
+    }
+  ]
+}

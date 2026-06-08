@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Shot (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Shot (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5739b5d42036845775be0ff3c72aaee",
+        "sha1": "d8b435a3c39e50f2aa158f4574d2172e7f5c380d",
+        "crc32": "ea6866e4"
+      }
+    },
+    {
+      "filename": "Space Shot (USA).bin",
+      "filesize": 615043296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cbc0d59313ba01b9b7bf17e70854128",
+        "sha1": "4f7cb58192e9a82025bef12fc26cd5dd4bf40605",
+        "crc32": "ae1f9c03"
+      }
+    }
+  ]
+}

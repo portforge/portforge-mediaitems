@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ECW Hardcore Revolution (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ECW Hardcore Revolution (USA) (Trade Demo).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "615fdb379b50e6a342d6dfd3a1af404d",
+        "sha1": "b327d2bf579ecefeee3cae288f476e650d16eab4",
+        "crc32": "9b7c1d5d"
+      }
+    },
+    {
+      "filename": "ECW Hardcore Revolution (USA) (Trade Demo) (Track 1).bin",
+      "filesize": 340209744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b24a8f3542517ec11b86f80d11269546",
+        "sha1": "c82a859ff1f3d14939537848218a89273c6ea369",
+        "crc32": "126de1b3"
+      }
+    },
+    {
+      "filename": "ECW Hardcore Revolution (USA) (Trade Demo) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

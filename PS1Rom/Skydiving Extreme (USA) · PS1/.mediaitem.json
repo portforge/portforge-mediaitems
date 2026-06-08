@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Skydiving Extreme (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Skydiving Extreme (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "530b410fd592790be404d9d5177218a4",
+        "sha1": "cecf659d6ac6d8a152a843c21f54f70b6a9f6caa",
+        "crc32": "e1070e03"
+      }
+    },
+    {
+      "filename": "Skydiving Extreme (USA).bin",
+      "filesize": 549147312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc744afc32993fe32245ac864ebaffc7",
+        "sha1": "03e3c92a0e694347f862c06fa06831ca0b032470",
+        "crc32": "f029cea1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pandora Max Series Vol. 5 - Gochachiru (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pandora Max Series Vol. 5 - Gochachiru (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "029cfe1e5baa586b72b86364f00ccfd1",
+        "sha1": "3466128457d61487a90a8b4cc812eba61cf71f1b",
+        "crc32": "51c38485"
+      }
+    },
+    {
+      "filename": "Pandora Max Series Vol. 5 - Gochachiru (Japan).bin",
+      "filesize": 392273616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a0c0afcb29846f78dde13426c57111f",
+        "sha1": "04f3bbfaa0ea844ae39485bfe29817b69ebaecab",
+        "crc32": "daba0895"
+      }
+    }
+  ]
+}

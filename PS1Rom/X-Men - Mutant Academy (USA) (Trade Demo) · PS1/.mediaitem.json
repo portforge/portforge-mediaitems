@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Men - Mutant Academy (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Trade Demo).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5c947891c32d85787843d02e051e9d07",
+        "sha1": "42f2e5b4e1c3df2449feacb44a6f4fc085d7014a",
+        "crc32": "8ba8896b"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Trade Demo) (Track 1).bin",
+      "filesize": 9530304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e69b497ae843a74263cf55b963cc038d",
+        "sha1": "00f4fa3c318f458c5447b6984978e0b23d0441e0",
+        "crc32": "d56e9efb"
+      }
+    },
+    {
+      "filename": "X-Men - Mutant Academy (USA) (Trade Demo) (Track 2).bin",
+      "filesize": 18453792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cd0ba39fb87b4c088f92633738fdd8c",
+        "sha1": "f8ff9261479285d5946ea4fb9a9a3f984828e0a0",
+        "crc32": "6dcc81c9"
+      }
+    }
+  ]
+}

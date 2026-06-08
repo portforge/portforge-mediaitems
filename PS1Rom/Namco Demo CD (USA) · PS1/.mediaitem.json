@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Namco Demo CD (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Namco Demo CD (USA).cue",
+      "filesize": 321,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d3df74648e3c44f880eac5ea70bf7bb",
+        "sha1": "b34d70d6bb815723ffa6626923519564d55f8e76",
+        "crc32": "3b52d84d"
+      }
+    },
+    {
+      "filename": "Namco Demo CD (USA) (Track 1).bin",
+      "filesize": 451304112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "489b8f4a043dadb93e02b2e28af99949",
+        "sha1": "bdea62fefcd7bd81a39bb48e89c8ab5172b0e763",
+        "crc32": "a15c3079"
+      }
+    },
+    {
+      "filename": "Namco Demo CD (USA) (Track 2).bin",
+      "filesize": 9612624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b33d2fc8553f1f5423eb791faa16d5cc",
+        "sha1": "045ea569495fb62df508c93f7979fddbc31ccc00",
+        "crc32": "9640717a"
+      }
+    },
+    {
+      "filename": "Namco Demo CD (USA) (Track 3).bin",
+      "filesize": 28576800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f2d6725ab65cb97158f4dcfea8562ee",
+        "sha1": "12db2e38730ac8f622efecf7ab0c7d50ca9995be",
+        "crc32": "d733988b"
+      }
+    }
+  ]
+}

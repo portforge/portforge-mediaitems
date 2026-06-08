@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rock & Roll Racing 2 - Red Asphalt (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe).cue",
+      "filesize": 1362,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eeeb15df662d1a5a8a0564d8f66e0092",
+        "sha1": "ded4b50dc5cd15af26c83a0c03b2390a619dc830",
+        "crc32": "507b74e2"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 01).bin",
+      "filesize": 457623936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b90062ca77c7708515c46a93266aaa1",
+        "sha1": "ce5565e46c7040d3e23f364c4786e2afa9fd1683",
+        "crc32": "75a32e19"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 02).bin",
+      "filesize": 31970736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2898343e6cfb8c57623455edaf5074b0",
+        "sha1": "fe2070b5a050332aefd54f14898721b442a1621d",
+        "crc32": "b77960a6"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 03).bin",
+      "filesize": 32956224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "157abf4c94372357c911a9be6abd214d",
+        "sha1": "f18f9d2094f1c770a732bfe52f1f6861f7159a2c",
+        "crc32": "ea3bb095"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 04).bin",
+      "filesize": 30401952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74e99e17dae53e21ef5d6e20f28a22ea",
+        "sha1": "a368abf140e85a23b9e38dedaead9d6497c3227f",
+        "crc32": "4a4e7f1a"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 05).bin",
+      "filesize": 33833520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e93430e72e8bdd5152964177f86735f",
+        "sha1": "f8b4d554e8b516709209e592ee0e70a4667d382f",
+        "crc32": "0b5fac31"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 06).bin",
+      "filesize": 32984448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1fdecf46512797fe168dc7b838faf762",
+        "sha1": "bf24fc7e34af4c6f636456a7f926d536d9349be1",
+        "crc32": "bd1915fe"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 07).bin",
+      "filesize": 35190624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db0e2beaf28af8c879ca1684479e5514",
+        "sha1": "ea421c36019b7d61a242eaa90aab4224a3609fdc",
+        "crc32": "e123a2e5"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 08).bin",
+      "filesize": 31648512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20763458856eceb73fbe106946c7cfa3",
+        "sha1": "4efc74a0b9b9cb2a5a60c0c0c01a6e27ab9921a1",
+        "crc32": "9e7b037b"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 09).bin",
+      "filesize": 21791280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8603ea1c8c88ac8bda627559a1768455",
+        "sha1": "065eba94e80b45fec495d275e4c25f3b801391fe",
+        "crc32": "0766df27"
+      }
+    },
+    {
+      "filename": "Rock & Roll Racing 2 - Red Asphalt (Europe) (Track 10).bin",
+      "filesize": 35345856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0bc1aa036228a76a0ee9aacc183c0397",
+        "sha1": "d832606c2b4797e4caa32e1728be331d224d51da",
+        "crc32": "61767398"
+      }
+    }
+  ]
+}

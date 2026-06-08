@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thousand Arms (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thousand Arms (Japan) (Disc 1).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5b1bb644dfb0f8e5591554ade39d6a28",
+        "sha1": "0f54f75eea9b73c17e222c0f09e5c6eb33aad914",
+        "crc32": "0aada683"
+      }
+    },
+    {
+      "filename": "Thousand Arms (Japan) (Disc 1).bin",
+      "filesize": 745908576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "023387e23f15d387893fd7d04ebc0f68",
+        "sha1": "30c34d967e53314d508f4f493132d8b50f3f1523",
+        "crc32": "97d12123"
+      }
+    }
+  ]
+}

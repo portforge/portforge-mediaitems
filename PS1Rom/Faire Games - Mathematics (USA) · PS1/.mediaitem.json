@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Faire Games - Mathematics (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Faire Games - Mathematics (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ff6d1d6d1f0a14f85b47cc7e8be62109",
+        "sha1": "cff66fea4dfc4ab604def79384e2bca55ecce02b",
+        "crc32": "45404e33"
+      }
+    },
+    {
+      "filename": "Faire Games - Mathematics (USA).bin",
+      "filesize": 315534912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bcc8955c61f8781a963f82a144c89e6b",
+        "sha1": "06de88a44cd21696dd85d95447464e04f8d13816",
+        "crc32": "68e4024a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Worms (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Worms (USA).cue",
+      "filesize": 822,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd03915daef302385a8104406f369326",
+        "sha1": "4eea4fb1c07c6227581faaed42e97d4f0d7cf890",
+        "crc32": "1b2291c8"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 1).bin",
+      "filesize": 131340384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10ff9ee0752eb92090220578a2eb32d0",
+        "sha1": "069e0c52c4ed6357183dd41684ab312dbcd95bf9",
+        "crc32": "dffbfc3e"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 2).bin",
+      "filesize": 50676192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51a2bc66ece3e1c00c83246eec6ac8d8",
+        "sha1": "cb6188f2095a440dea88b6af65d4ddf2f6e2906e",
+        "crc32": "52a22a36"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 3).bin",
+      "filesize": 72688560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "344984a5855ac6051ef440db2d23a123",
+        "sha1": "6601630d7519061be1717ae120957e3a93b32379",
+        "crc32": "782c2250"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 4).bin",
+      "filesize": 69217008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d123371df82369333544881d081712f",
+        "sha1": "7004e4dd261f9f9c762b7ad7641eda2d74e66b44",
+        "crc32": "7c213aa5"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 5).bin",
+      "filesize": 70611744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88a8849af6c323b0334aba3217a8670b",
+        "sha1": "647db42b34b56df6b17b6622c677401424db0a3d",
+        "crc32": "e8e6af14"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 6).bin",
+      "filesize": 69833232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b522a05f111f7d705fac1fbdc4baa28",
+        "sha1": "506b5f86fb38731c17d73eea85ccc759fa9c92e8",
+        "crc32": "f32f706e"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 7).bin",
+      "filesize": 73674048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9390b954af3680e79bec6e13c437093",
+        "sha1": "4b88775c72a5e1fc3a11dcc39d00a5e65f5708c7",
+        "crc32": "0a127a0d"
+      }
+    },
+    {
+      "filename": "Worms (USA) (Track 8).bin",
+      "filesize": 2366112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fb01d26c55e86eb7e658e6cc1d1426d",
+        "sha1": "bf08c7d7675d649c7d5ec8c914ca7edb51e26f12",
+        "crc32": "3732f4d4"
+      }
+    }
+  ]
+}

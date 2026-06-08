@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2002 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2002 (France).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "51fd94c637ff06f2f8a85a4685f077f4",
+        "sha1": "bae6be7566fc7ef4388b1901bda1d19909b629f1",
+        "crc32": "0d6e7b12"
+      }
+    },
+    {
+      "filename": "NBA Live 2002 (France).bin",
+      "filesize": 453035184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a055be69b77570a86e19b83b6198f91b",
+        "sha1": "235c6e731e41a6dd73d6ee21da455141df969df4",
+        "crc32": "1a28f912"
+      }
+    }
+  ]
+}

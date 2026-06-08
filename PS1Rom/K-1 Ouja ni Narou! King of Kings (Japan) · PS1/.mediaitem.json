@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "K-1 Ouja ni Narou! King of Kings (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "K-1 Ouja ni Narou! King of Kings (Japan).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0bd01d1d82f4386570e25a3e619324be",
+        "sha1": "039b2dcc54c38039c9d25e877b77bf2992ff3a2b",
+        "crc32": "cc0ab418"
+      }
+    },
+    {
+      "filename": "K-1 Ouja ni Narou! King of Kings (Japan) (Track 1).bin",
+      "filesize": 308723520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9f747baa1e2aaca03a68534e80e994f",
+        "sha1": "7e8c99f3a2addbf3ed652e95d2f16e37d953d0f9",
+        "crc32": "9b4020ed"
+      }
+    },
+    {
+      "filename": "K-1 Ouja ni Narou! King of Kings (Japan) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

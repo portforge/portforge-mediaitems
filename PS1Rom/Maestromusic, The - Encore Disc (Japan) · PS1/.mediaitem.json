@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maestromusic, The - Encore Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maestromusic, The - Encore Disc (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9883e0b3e0f3d4ce397d3921632a1065",
+        "sha1": "15aedf171ae7a36a3f916ce6418125ef7e176b9b",
+        "crc32": "00b72030"
+      }
+    },
+    {
+      "filename": "Maestromusic, The - Encore Disc (Japan) (Track 1).bin",
+      "filesize": 122007648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3f2e9677a98dcdbbdab69c28a7f24a0",
+        "sha1": "83598146dcb326cc0408b3d61030dad1c313ae9c",
+        "crc32": "452d6b12"
+      }
+    },
+    {
+      "filename": "Maestromusic, The - Encore Disc (Japan) (Track 2).bin",
+      "filesize": 62709024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d4f39089283d88b49a13edf2156ceb9",
+        "sha1": "d64d596eeea7ba40b26b5fae4f74a964598e1a78",
+        "crc32": "c01aeff4"
+      }
+    }
+  ]
+}

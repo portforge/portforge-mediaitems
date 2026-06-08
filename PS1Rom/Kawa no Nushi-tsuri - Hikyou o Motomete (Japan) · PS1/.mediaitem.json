@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kawa no Nushi-tsuri - Hikyou o Motomete (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kawa no Nushi-tsuri - Hikyou o Motomete (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8332ab8cd239ba037112274a843a715",
+        "sha1": "d4b401b7a788975a8d4b4e93d52a890110fe6274",
+        "crc32": "add49a06"
+      }
+    },
+    {
+      "filename": "Kawa no Nushi-tsuri - Hikyou o Motomete (Japan).bin",
+      "filesize": 85412880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d7408aafd131d84af0ff534bf1fe6c4",
+        "sha1": "915522f856709f07b3952a4588a3550729466e6b",
+        "crc32": "98ced29a"
+      }
+    }
+  ]
+}

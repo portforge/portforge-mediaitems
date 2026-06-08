@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Memories Off 2nd (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Memories Off 2nd (Japan) (Disc 1).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a36064b09ffb71599ea2e0c5426908e",
+        "sha1": "cec050a88a347157151113f9a1396aace67dc651",
+        "crc32": "040ea084"
+      }
+    },
+    {
+      "filename": "Memories Off 2nd (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 642434688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88898cb679e85b67c2c0da220b6730d2",
+        "sha1": "ce2eee3d795d95aadb86431121984b34c61d242d",
+        "crc32": "2f8fc549"
+      }
+    },
+    {
+      "filename": "Memories Off 2nd (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 40395600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35d574db5acd915cb16b5fcbbeb7b2c2",
+        "sha1": "e704ffb889224f94765aef7a6fec2e65ce0208dc",
+        "crc32": "17b7ce95"
+      }
+    }
+  ]
+}

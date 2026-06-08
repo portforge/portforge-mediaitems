@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rogue Trip - Vacation 2012 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rogue Trip - Vacation 2012 (USA) (Demo).cue",
+      "filesize": 381,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a191c7f7ff9207cc5b5c12a53d29d61",
+        "sha1": "f298cdfbd9e987490db0d36ccb43bbf9186b5096",
+        "crc32": "8b72a795"
+      }
+    },
+    {
+      "filename": "Rogue Trip - Vacation 2012 (USA) (Demo) (Track 1).bin",
+      "filesize": 56796096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc7c5c040c485fc11b2494a3a143b742",
+        "sha1": "5110278cdd62f844827f23d852b7ae2e7da857e9",
+        "crc32": "71270379"
+      }
+    },
+    {
+      "filename": "Rogue Trip - Vacation 2012 (USA) (Demo) (Track 2).bin",
+      "filesize": 28275744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aaa18b213db97402bb6669f10a555b12",
+        "sha1": "912dd858bf1c87312d31ad54af68fe5df2e8df6b",
+        "crc32": "f9f88ee1"
+      }
+    },
+    {
+      "filename": "Rogue Trip - Vacation 2012 (USA) (Demo) (Track 3).bin",
+      "filesize": 33682992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68ae80895026ed03eb4c1f3bc32fbffa",
+        "sha1": "413170adf69303a9de8c4951731c201a0db52af5",
+        "crc32": "cee32a44"
+      }
+    }
+  ]
+}

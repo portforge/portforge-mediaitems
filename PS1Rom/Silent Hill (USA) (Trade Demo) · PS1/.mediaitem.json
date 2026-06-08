@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silent Hill (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silent Hill (USA) (Trade Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dac9ad165242fbfa88c6dcacae2c6869",
+        "sha1": "856155edc9a432ea6cfb04a529573fcd33c4afef",
+        "crc32": "1c72b17e"
+      }
+    },
+    {
+      "filename": "Silent Hill (USA) (Trade Demo).bin",
+      "filesize": 615045648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd2869d0cacc2237272d84ca2726d0e4",
+        "sha1": "49695af2c2b8b19a31b01da4cd4dbc758445ccef",
+        "crc32": "4f60c3ec"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Civilization II (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Civilization II (France).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "881cc8b17fb4cc1fd5bae2222d9bd8b3",
+        "sha1": "2733397afa3b88408222052be4d6891e3302f545",
+        "crc32": "2f0e0902"
+      }
+    },
+    {
+      "filename": "Civilization II (France) (Track 1).bin",
+      "filesize": 484105104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f7232c7f103d51fc4b535ddc0f90147",
+        "sha1": "ee581a29a2b14e0cfc80e233e7f04a051f1f5fd1",
+        "crc32": "100b3a93"
+      }
+    },
+    {
+      "filename": "Civilization II (France) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

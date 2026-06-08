@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pop'n Music 6 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pop'n Music 6 (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17a7495d56f4caa8eb656ee01a00c336",
+        "sha1": "db0915ccd3ebf5bd24cf476438c518a3fe017d2d",
+        "crc32": "9513323a"
+      }
+    },
+    {
+      "filename": "Pop'n Music 6 (Japan).bin",
+      "filesize": 666792000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22452fb92b05b8c45d40f452a81cc96e",
+        "sha1": "4314b66e816b2d653f40cff0c0454cbed6c75647",
+        "crc32": "f89d20a9"
+      }
+    }
+  ]
+}

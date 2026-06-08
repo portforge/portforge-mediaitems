@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dirt Jockey - Heavy Equipment Operator (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dirt Jockey - Heavy Equipment Operator (USA).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "049e19e372f566ecc58846f688b5c8f9",
+        "sha1": "59d4fb2fc7a55d96807b44d046aea615f0e3926c",
+        "crc32": "221f1594"
+      }
+    },
+    {
+      "filename": "Dirt Jockey - Heavy Equipment Operator (USA).bin",
+      "filesize": 385262304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6eaf8bc75b820854b3db6ebef2b4c816",
+        "sha1": "7af01ec887c73ae33fd5bd36da54111c29f10d69",
+        "crc32": "f6597f04"
+      }
+    }
+  ]
+}

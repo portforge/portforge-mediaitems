@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Ball - Final Bout (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Ball - Final Bout (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b2b7a5d8da03438945dc013d9f4c729",
+        "sha1": "c87ed69366fcd7673c8358429016dd947965613e",
+        "crc32": "5f8c674e"
+      }
+    },
+    {
+      "filename": "Dragon Ball - Final Bout (Japan).bin",
+      "filesize": 160895616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2002b6aca943569de691abd57d055172",
+        "sha1": "c68dd6ef58d78f85b7f292438f839ae32e807d26",
+        "crc32": "0f2e6552"
+      }
+    }
+  ]
+}

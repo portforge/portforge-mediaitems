@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LNF Stars 2001 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LNF Stars 2001 (France).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ebb2d0503fa5a41c0e0a8fb2b0c23cb5",
+        "sha1": "22545ec4ec4d222016c6846ab3513f8d53c423c4",
+        "crc32": "17be7a7d"
+      }
+    },
+    {
+      "filename": "LNF Stars 2001 (France).bin",
+      "filesize": 699992832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d47c178985d4e3df14b69cb3958e3e19",
+        "sha1": "be5dbb45017b9ed6ff1f1569549330646935361e",
+        "crc32": "3de5f346"
+      }
+    }
+  ]
+}

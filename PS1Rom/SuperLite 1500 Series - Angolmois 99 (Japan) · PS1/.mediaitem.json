@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Angolmois 99 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Angolmois 99 (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "da4ad88d4bd560e2fbdffa3cc1be7493",
+        "sha1": "3a662d9694655a1fffbd1677f39b2b570418a42e",
+        "crc32": "c914f615"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Angolmois 99 (Japan).bin",
+      "filesize": 45508848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "938078532b16d2a481f34f81d8c1fcc6",
+        "sha1": "f3cb10ecb4630eb5c7a54d5ea1481b125929c9eb",
+        "crc32": "07428426"
+      }
+    }
+  ]
+}

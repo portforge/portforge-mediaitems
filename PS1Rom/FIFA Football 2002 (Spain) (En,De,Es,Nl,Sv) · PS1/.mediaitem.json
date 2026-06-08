@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2002 (Spain) (En,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2002 (Spain) (En,De,Es,Nl,Sv).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aeca628e794b7e14ab251b527ff7bada",
+        "sha1": "2b85a8b271f4e5738510acd502df63d4872cebed",
+        "crc32": "61fdb931"
+      }
+    },
+    {
+      "filename": "FIFA Football 2002 (Spain) (En,De,Es,Nl,Sv).bin",
+      "filesize": 740807088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "270f483d0ff95417901f8f7c1f0322af",
+        "sha1": "7f9dee14f0ba6c60621634331afdf72b8bb9030f",
+        "crc32": "94db85d1"
+      }
+    }
+  ]
+}

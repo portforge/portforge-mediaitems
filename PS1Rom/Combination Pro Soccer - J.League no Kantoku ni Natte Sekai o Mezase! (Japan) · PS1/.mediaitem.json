@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Combination Pro Soccer - J.League no Kantoku ni Natte Sekai o Mezase! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Combination Pro Soccer - J.League no Kantoku ni Natte Sekai o Mezase! (Japan).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a05808bb09b811b5ab355d05902c9d0",
+        "sha1": "732955e5ae0241f1f305bfa29b371a8199731c21",
+        "crc32": "95b78cc5"
+      }
+    },
+    {
+      "filename": "Combination Pro Soccer - J.League no Kantoku ni Natte Sekai o Mezase! (Japan).bin",
+      "filesize": 236025552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b989f44a4ab104ff460e2bf6ce40ff8e",
+        "sha1": "8210d76a315bc5664b692bf18a7e2974183839e8",
+        "crc32": "a6e29efc"
+      }
+    }
+  ]
+}

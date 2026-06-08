@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Viewpoint (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Viewpoint (USA).cue",
+      "filesize": 309,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a572ec41d701da987234795a247c31d",
+        "sha1": "4bf325c5c8754f25fa238ba26113fa440b88772a",
+        "crc32": "f14e8d27"
+      }
+    },
+    {
+      "filename": "Viewpoint (USA) (Track 1).bin",
+      "filesize": 532655088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d7b7f760479d088cac914613852b3a8",
+        "sha1": "2c4247eb2be36b6ee9442251be6bee4a03f1a02f",
+        "crc32": "91c2ce8e"
+      }
+    },
+    {
+      "filename": "Viewpoint (USA) (Track 2).bin",
+      "filesize": 22082928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf2d6863fbaca464fd3faa932bb453c6",
+        "sha1": "e751bfb51041db7d380cbb95d48bb651ee541b6a",
+        "crc32": "536eff0c"
+      }
+    },
+    {
+      "filename": "Viewpoint (USA) (Track 3).bin",
+      "filesize": 35023632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b754a9429ab9af0b7f0dd49246155978",
+        "sha1": "6f406383cf761b8120efd3d53eca822a54c209d0",
+        "crc32": "af851b9b"
+      }
+    }
+  ]
+}

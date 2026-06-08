@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LiberoGrande (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LiberoGrande (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee9c32d626e3b363f88d81aecfced50b",
+        "sha1": "e84e2a7b246c81d7aae13a42ed0258d754fc7039",
+        "crc32": "635fdab1"
+      }
+    },
+    {
+      "filename": "LiberoGrande (Europe).bin",
+      "filesize": 388973760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64853241adced98198daa53a8d364e65",
+        "sha1": "51e2d002507a6f93de7bc79f58174fb832f103a5",
+        "crc32": "326efe1c"
+      }
+    }
+  ]
+}

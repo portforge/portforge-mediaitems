@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Trap Gunner (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Trap Gunner (Japan) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5179ebf74d6c2803c48ca2d60affb1cb",
+        "sha1": "a252a062df52bca29f3524923f2504b547c4293d",
+        "crc32": "4974a5ca"
+      }
+    },
+    {
+      "filename": "Trap Gunner (Japan) (Demo).bin",
+      "filesize": 710407488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07445bce4de16c5ac48cb2600e503c30",
+        "sha1": "38e1041682b5323871b60b8da7bee5abaab241b7",
+        "crc32": "7b193dd2"
+      }
+    }
+  ]
+}

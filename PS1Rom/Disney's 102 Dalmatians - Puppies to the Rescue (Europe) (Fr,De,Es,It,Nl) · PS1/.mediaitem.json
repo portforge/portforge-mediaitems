@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It,Nl).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d7ac1efd24a885e70dc6799dd6b2f49",
+        "sha1": "9385c44592ab1408dc99a401c4303be7b226d8a7",
+        "crc32": "c5047445"
+      }
+    },
+    {
+      "filename": "Disney's 102 Dalmatians - Puppies to the Rescue (Europe) (Fr,De,Es,It,Nl).bin",
+      "filesize": 510120576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04f977488332d970f861c29301c2dd1c",
+        "sha1": "f8b738b047494c6617d0cc1b5f23adcf1aa4ca90",
+        "crc32": "b743182e"
+      }
+    }
+  ]
+}

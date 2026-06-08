@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Capcom vs. SNK Pro (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Capcom vs. SNK Pro (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "baa4c29d4af438a61aa38578ae5074d2",
+        "sha1": "83b37df841ba8f5f89de73e4e209cc57bea8f2a4",
+        "crc32": "bfdcf023"
+      }
+    },
+    {
+      "filename": "Capcom vs. SNK Pro (USA).bin",
+      "filesize": 616609728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f602c2206632af99ff266963b1f21ca",
+        "sha1": "6f1398891993c67f5ee388eb41c3004644ece180",
+        "crc32": "0d3a0324"
+      }
+    }
+  ]
+}

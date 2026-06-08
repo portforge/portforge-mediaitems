@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game of Life, The - DX Jinsei Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game of Life, The - DX Jinsei Game (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9be8bc65d780a7785bed7d159f769e8",
+        "sha1": "dd408dc6fdfd1a1b3e7ec9527c3e4497e8c8ba37",
+        "crc32": "a76b0d13"
+      }
+    },
+    {
+      "filename": "Game of Life, The - DX Jinsei Game (Japan).bin",
+      "filesize": 397299840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95dfaa6cdebc849394743db86ee914d9",
+        "sha1": "382995a5e60748c815d400836e9945d0d4d1ddfd",
+        "crc32": "7772a970"
+      }
+    }
+  ]
+}

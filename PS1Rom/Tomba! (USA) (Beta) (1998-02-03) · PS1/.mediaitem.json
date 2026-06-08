@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomba! (USA) (Beta) (1998-02-03)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomba! (USA) (Beta) (1998-02-03).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "80984173f52c5bd1cab82dd79443e443",
+        "sha1": "e8de0a8d882cb54fe5ddf6fd91748187528910ae",
+        "crc32": "ce42f761"
+      }
+    },
+    {
+      "filename": "Tomba! (USA) (Beta) (1998-02-03).bin",
+      "filesize": 290253264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "623e46ecc4fe1c98fd2d3cfff151d724",
+        "sha1": "898b603ebfdf018fd274379158f616dc8ab69c63",
+        "crc32": "c5f1b2dd"
+      }
+    }
+  ]
+}

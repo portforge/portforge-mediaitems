@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Play for PlayStation (UK) (Disc 1) (Cheats) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Play for PlayStation (UK) (Disc 1) (Cheats) (Unl).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9c0c5ff43f71a3e515f1d7ca65ac8a4",
+        "sha1": "efb2e0aebcdf0ef4eacfd62f118b210ebade6804",
+        "crc32": "b6125f8a"
+      }
+    },
+    {
+      "filename": "Power Play for PlayStation (UK) (Disc 1) (Cheats) (Unl).bin",
+      "filesize": 97537440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7367f32a0e8ea796971bdedffafebe1d",
+        "sha1": "78bd7fcd60732048d9e75886cd9815497854dbee",
+        "crc32": "70b2ae59"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenshi na Konamaiki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenshi na Konamaiki (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b5bd466ae91a39573f2ba21ee46a1ce",
+        "sha1": "5ac13367f27e052f471afa974d47655d8709caf3",
+        "crc32": "8e96d27a"
+      }
+    },
+    {
+      "filename": "Tenshi na Konamaiki (Japan).bin",
+      "filesize": 555866976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d62a1a534091b4571f3a95c5968c03d3",
+        "sha1": "4f87e1e147c9baabcba27e62d24ea431de014e2b",
+        "crc32": "03786035"
+      }
+    }
+  ]
+}

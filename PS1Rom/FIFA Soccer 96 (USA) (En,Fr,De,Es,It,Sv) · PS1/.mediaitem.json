@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4c2ca7c0ac3bb6f2dc977fd17e50b5a2",
+        "sha1": "5c12eb9bff81642beb65a7fa325ee229eddc22af",
+        "crc32": "06bd3026"
+      }
+    },
+    {
+      "filename": "FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv).bin",
+      "filesize": 580207824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d8ce3381058e6989f8239252b8b36db",
+        "sha1": "6126864c144e44e170b12c862af4c11dd9835d33",
+        "crc32": "61d0fac0"
+      }
+    }
+  ]
+}

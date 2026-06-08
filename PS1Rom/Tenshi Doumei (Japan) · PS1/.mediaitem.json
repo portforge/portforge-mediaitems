@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenshi Doumei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenshi Doumei (Japan).cue",
+      "filesize": 902,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b597276b5636904c3025c36de56732fa",
+        "sha1": "fe1c3d52c61d88320e452edaa2ff198b6ec5f5b5",
+        "crc32": "4bfc2a69"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 1).bin",
+      "filesize": 190337952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "346a9ef3b8579c29d981bbfbb1eed2c9",
+        "sha1": "cf7a1b6e2562103cbc67a4115f1064d18fa11bf3",
+        "crc32": "d4b6a202"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 2).bin",
+      "filesize": 19237008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05df28a8569683a8d99c2459aaa23833",
+        "sha1": "3607ba8b6fd44769f9b96f015763315f837b97e4",
+        "crc32": "b8f86cd5"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 3).bin",
+      "filesize": 20784624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00802d876a60c473a5e94abddd085eb2",
+        "sha1": "a29d24f9d798b5894b275b530dab9c3f8bbf736f",
+        "crc32": "bfbbe991"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 4).bin",
+      "filesize": 37300368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0f92242bae8e0b9d03615416f28a675",
+        "sha1": "3e12f246ef46fc39a3f8316302bc78b4b851bffd",
+        "crc32": "cd40a52e"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 5).bin",
+      "filesize": 30514848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a21d0d58d3ecb5657b19f1cfa50d69fd",
+        "sha1": "b84452dc5b244754b2792fb44bdf01c239ceed89",
+        "crc32": "cb621346"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 6).bin",
+      "filesize": 25175808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08284f03334d0885a7ebd20d2845a024",
+        "sha1": "100f8454b9d32b9dd354c40d7533558a3ee680e3",
+        "crc32": "f5691e5b"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 7).bin",
+      "filesize": 21904176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "905c98d5d7ef0d34fa17c97f7a4ccc65",
+        "sha1": "95b5779a7f3e94190288778dad24acea8880a063",
+        "crc32": "4428ed29"
+      }
+    },
+    {
+      "filename": "Tenshi Doumei (Japan) (Track 8).bin",
+      "filesize": 41028288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55b5551f14aaf0a7d237761de526f6f2",
+        "sha1": "e033d98180f433c0ca1dfde2b322b41a48d70dca",
+        "crc32": "e31bd27a"
+      }
+    }
+  ]
+}

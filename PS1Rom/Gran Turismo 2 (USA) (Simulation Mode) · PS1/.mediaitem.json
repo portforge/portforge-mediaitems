@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo 2 (USA) (Simulation Mode)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo 2 (USA) (Simulation Mode).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e67285481e863471e10eac09578eb070",
+        "sha1": "c1236618c490bae64393e93e074d56f5a5bca781",
+        "crc32": "59020e43"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 (USA) (Simulation Mode).bin",
+      "filesize": 680497104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f3e9b9555556da8638d475fd6e46e01",
+        "sha1": "e3c255b1713d91b00dc8b965098100c6c0eecaca",
+        "crc32": "b2859634"
+      }
+    }
+  ]
+}

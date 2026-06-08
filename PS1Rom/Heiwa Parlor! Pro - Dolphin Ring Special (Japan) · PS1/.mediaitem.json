@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heiwa Parlor! Pro - Dolphin Ring Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heiwa Parlor! Pro - Dolphin Ring Special (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "af0152f019c9bca9f2c31057c87f2cee",
+        "sha1": "f1b03b4409f2127efe7e9ebb249265bf5aeb8f35",
+        "crc32": "48b6ab63"
+      }
+    },
+    {
+      "filename": "Heiwa Parlor! Pro - Dolphin Ring Special (Japan).bin",
+      "filesize": 49483728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6095c1ec572f2403ac7c7f4370d40fa1",
+        "sha1": "71d625e1d6dde3783e4d71c083f0eb34e5bacd5d",
+        "crc32": "6a425a12"
+      }
+    }
+  ]
+}

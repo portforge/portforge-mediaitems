@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dark Tales - From the Lost Soul (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dark Tales - From the Lost Soul (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f0bbb4ba4f9692de6f46cb6a3f2e0328",
+        "sha1": "40314f46ff8777922eb8bdb57fc01e14c8cbeb4a",
+        "crc32": "bc5697cb"
+      }
+    },
+    {
+      "filename": "Dark Tales - From the Lost Soul (Japan) (Track 1).bin",
+      "filesize": 671213760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a14b779139f689a2c0314ef2608c50ad",
+        "sha1": "54b535e8ab3ad5f9dc3699682f681ec2c110b75a",
+        "crc32": "d3f66c33"
+      }
+    },
+    {
+      "filename": "Dark Tales - From the Lost Soul (Japan) (Track 2).bin",
+      "filesize": 32321184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f2277452fa6cf7e37799363a7da94e1",
+        "sha1": "3692741d370f91a680875b91b668f000871af87e",
+        "crc32": "b6248e19"
+      }
+    }
+  ]
+}

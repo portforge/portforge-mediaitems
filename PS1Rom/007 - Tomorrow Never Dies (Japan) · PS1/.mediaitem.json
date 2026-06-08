@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "007 - Tomorrow Never Dies (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "007 - Tomorrow Never Dies (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5b8d0cd434bd790b73d64907f0f31b16",
+        "sha1": "a87f7a645cb57ae467656682773ea1e7a926adec",
+        "crc32": "424cea74"
+      }
+    },
+    {
+      "filename": "007 - Tomorrow Never Dies (Japan).bin",
+      "filesize": 564764592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c29c76010d733417139bc2b41d701cff",
+        "sha1": "b189c39cde5e35cd1d4f20c912de4aa0e2fc5897",
+        "crc32": "da5649d7"
+      }
+    }
+  ]
+}

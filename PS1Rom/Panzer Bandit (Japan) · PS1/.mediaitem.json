@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Panzer Bandit (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Panzer Bandit (Japan).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae9b07854f91bebffcd9087ead1c02c3",
+        "sha1": "8507da696e14277edd511f713d4c6be86bb7464b",
+        "crc32": "8652821b"
+      }
+    },
+    {
+      "filename": "Panzer Bandit (Japan) (Track 1).bin",
+      "filesize": 251504064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bb5fdd226c72137087e10500bff761f",
+        "sha1": "2f7e3b76394c40f8adf943eebb698baa6558cef0",
+        "crc32": "62a5402c"
+      }
+    },
+    {
+      "filename": "Panzer Bandit (Japan) (Track 2).bin",
+      "filesize": 33120864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2152d43371551377e4a2de2608c22b98",
+        "sha1": "e8a05b973bc929757d6686ffa5be225da9ecaa7d",
+        "crc32": "bcdc33c1"
+      }
+    }
+  ]
+}

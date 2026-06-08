@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Kuma no Pooh-san - Mori no Tomodachi (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Tomodachi (Japan) (Controller Set).cue",
+      "filesize": 142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1addc4f22532c195ee1da55556a4164d",
+        "sha1": "bf6d171ae800ee798e449b1917198c6c25937dd6",
+        "crc32": "3280cc46"
+      }
+    },
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Tomodachi (Japan) (Controller Set).bin",
+      "filesize": 685617408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d4cc28e901f69b7f7514473f1129538",
+        "sha1": "2c233061d35d2abaa748cd616b5c80bd74aa0b6e",
+        "crc32": "4bcf371f"
+      }
+    }
+  ]
+}

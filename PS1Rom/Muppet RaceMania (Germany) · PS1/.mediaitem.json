@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Muppet RaceMania (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Muppet RaceMania (Germany).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a414abaf2e2ea15c9695c33079b108a2",
+        "sha1": "482a1e793d12648b3bcfc17bd84e52d62395f1a2",
+        "crc32": "56ef2e52"
+      }
+    },
+    {
+      "filename": "Muppet RaceMania (Germany).bin",
+      "filesize": 501653376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61267a639cd15aedd34e1b9dea921a9c",
+        "sha1": "47272d124992cb169df7d6ae645326bab313c7b1",
+        "crc32": "35682cfe"
+      }
+    }
+  ]
+}

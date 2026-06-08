@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Houshin Engi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Houshin Engi (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61edda015e2de78c15d6db8c339c7f44",
+        "sha1": "966d7c02709fe3ae1dc696cf421c97b9f348362e",
+        "crc32": "88e9ebe7"
+      }
+    },
+    {
+      "filename": "Houshin Engi (Japan).bin",
+      "filesize": 309078672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52ebb5ded160517eda5fb06f712ab940",
+        "sha1": "7aa4323b41c61ea952dbaf948eddc534dce94173",
+        "crc32": "8c49706f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "EQ One (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "EQ One (UK) (Unl).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01b8440ee9fb4c1eb9599d4984b51bbd",
+        "sha1": "92f6c6b044e2fdb093c95c6a8fd5d86031ba0490",
+        "crc32": "aebad94e"
+      }
+    },
+    {
+      "filename": "EQ One (UK) (Unl).bin",
+      "filesize": 97495104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e77396b98463f7cb6ce8f6d74dcac802",
+        "sha1": "f6e4bf8dd40ff9cbcee9a69e5f6edb43f41441da",
+        "crc32": "87583318"
+      }
+    }
+  ]
+}

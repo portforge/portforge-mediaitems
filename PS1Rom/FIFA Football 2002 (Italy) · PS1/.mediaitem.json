@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2002 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2002 (Italy).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44b2b684fedd9aae9de03b0eeab43c61",
+        "sha1": "c0fa805e0b79289270c92ce6c81566b9eb91e8fc",
+        "crc32": "b40b9c87"
+      }
+    },
+    {
+      "filename": "FIFA Football 2002 (Italy).bin",
+      "filesize": 709245600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eadd37d32802c2534d0eada7380ae545",
+        "sha1": "d0d29320b2351b7d317742fc3c22700b64383b9a",
+        "crc32": "8d95169d"
+      }
+    }
+  ]
+}

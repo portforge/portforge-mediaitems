@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "B. L. U. E. - Legend of Water (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "B. L. U. E. - Legend of Water (Japan).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c628b7d1b1da55e1419402ce89a4c02c",
+        "sha1": "d8a206e766828f2a0c395870791c011aaddbbb8d",
+        "crc32": "0dce38f2"
+      }
+    },
+    {
+      "filename": "B. L. U. E. - Legend of Water (Japan) (Track 1).bin",
+      "filesize": 408575328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "970dd26238fcc747c28b97b6553a75a2",
+        "sha1": "c8cc3a60e18e9af2faa51fc74a1d799c08b7385a",
+        "crc32": "f6e1916d"
+      }
+    },
+    {
+      "filename": "B. L. U. E. - Legend of Water (Japan) (Track 2).bin",
+      "filesize": 42223104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "512c8d9d5df5396c0add469358f28ba2",
+        "sha1": "908af3408a74b43c33576379752c0f94fe84a13b",
+        "crc32": "40bd1413"
+      }
+    }
+  ]
+}

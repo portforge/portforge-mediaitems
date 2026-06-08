@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Game de Seishun (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Game de Seishun (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2dfe682f5b890f50b8bdb23c69f8d792",
+        "sha1": "f8994ffe459b5e0c2495f408a6ec8edcd1ca10e4",
+        "crc32": "752e4fb1"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Game de Seishun (Japan).bin",
+      "filesize": 609337344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e301a58154bce3e8067c7c2a6cdcd574",
+        "sha1": "a3b341e4b5a88f29d9b186339f49b6d0c1606cbb",
+        "crc32": "faae121f"
+      }
+    }
+  ]
+}

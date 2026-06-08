@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikkyou Powerful Pro Yakyuu '99 - Ketteiban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu '99 - Ketteiban (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "258b0b4506c90a631f10e8807430240b",
+        "sha1": "dfdd3612eefa7bc7bdb3011d1bdd08d751dddc14",
+        "crc32": "4941518c"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu '99 - Ketteiban (Japan).bin",
+      "filesize": 181219248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00b84c6863fab31987856b7e3bb54984",
+        "sha1": "ac83321e68cdc0dd4e0b1ef83297ff948cf78084",
+        "crc32": "cb612cd7"
+      }
+    }
+  ]
+}

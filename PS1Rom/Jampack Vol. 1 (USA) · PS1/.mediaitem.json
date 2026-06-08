@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jampack Vol. 1 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jampack Vol. 1 (USA).cue",
+      "filesize": 894,
+      "ext": "cue",
+      "checksums": {
+        "md5": "103db9a563e5bb03c5a8451b77f90cfb",
+        "sha1": "420359a82b53523b568513f4dc2fe68650deffdb",
+        "crc32": "a4cd06dc"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 1).bin",
+      "filesize": 500065776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f783320292e1c9b70370e52d80762624",
+        "sha1": "133e8cdbc7c7eaa47b428a8b77a536b7d7b4fd86",
+        "crc32": "7509c735"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 2).bin",
+      "filesize": 25044096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e04b7d6b24852ab70c5bce21799bcf83",
+        "sha1": "309dcd63e3bbf697c43c9341fcc9af212558f6dd",
+        "crc32": "59f96041"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 3).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96af36d92ab02e6836ac5bad92403ff1",
+        "sha1": "cd2472e738d9cc9b95655c756bdf89bff2e948ae",
+        "crc32": "0aaad97d"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 4).bin",
+      "filesize": 22790880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a339c8a9a9cf15ea1ad3ce52764c1d14",
+        "sha1": "d55c2b41f1e5110fd4285ae2a31e1fe44535cbf6",
+        "crc32": "bcd5afb1"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 5).bin",
+      "filesize": 54684000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4267a33fa09d161e56650598f5d46e52",
+        "sha1": "d6e61fe4f84f398e9ac50c4779897f29f55bf9bc",
+        "crc32": "1444e950"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 6).bin",
+      "filesize": 2471952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3c3d3fb81c6477aecac1df42d228a9a",
+        "sha1": "af35bfbd9c64bbdf8f6ed6d3c55836b99ab0e3ab",
+        "crc32": "4344a8ca"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 7).bin",
+      "filesize": 21941808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f881e8449bcbcc96ef7f716cfd01800",
+        "sha1": "75ee586c5c9a80767ad86a1f8d6ff7ab9e985034",
+        "crc32": "6401fd61"
+      }
+    },
+    {
+      "filename": "Jampack Vol. 1 (USA) (Track 8).bin",
+      "filesize": 38220000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac87cf40d6dac774d816077f587e9de9",
+        "sha1": "92c7de897343b22325584ea1309a2241daf0d324",
+        "crc32": "6461b255"
+      }
+    }
+  ]
+}

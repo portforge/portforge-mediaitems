@@ -1,0 +1,27 @@
+{
+  "_itemType": "Xbox360Rom",
+  "title": "Xbox 360 Wireless Speed Wheel Software Disc (USA)",
+  "platform": "Xbox360",
+  "formats": [
+    {
+      "filename": "Xbox 360 Wireless Speed Wheel Software Disc (USA).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d4e7ee628205188c05b0bc5bc5f45c4",
+        "sha1": "45f57233cdf148e5db31dc08905ace6335c4c5e1",
+        "crc32": "b4410ac9"
+      }
+    },
+    {
+      "filename": "Xbox 360 Wireless Speed Wheel Software Disc (USA).bin",
+      "filesize": 121723056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44393a3f5ad4c5999566afeb637bcca7",
+        "sha1": "161767fd5f5ad90e9ec3793917d157f2d5ca6759",
+        "crc32": "bd132ea3"
+      }
+    }
+  ]
+}

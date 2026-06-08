@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Walt Disney World Quest - Magical Racing Tour (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Walt Disney World Quest - Magical Racing Tour (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).cue",
+      "filesize": 149,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5e76109f4cb3bbf839d1d74b3809b8f",
+        "sha1": "e3d5269aab02e59a2139ce01fce3665afc724ad6",
+        "crc32": "a15d68db"
+      }
+    },
+    {
+      "filename": "Walt Disney World Quest - Magical Racing Tour (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).bin",
+      "filesize": 623839776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "288105899c47b9dfb63e5a6b03e5f0fa",
+        "sha1": "e36246557d0613c49af15e9b45806472eebeee98",
+        "crc32": "b078b3ae"
+      }
+    }
+  ]
+}

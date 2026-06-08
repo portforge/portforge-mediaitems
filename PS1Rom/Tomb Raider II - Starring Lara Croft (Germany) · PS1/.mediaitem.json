@@ -1,0 +1,627 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider II - Starring Lara Croft (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany).cue",
+      "filesize": 8583,
+      "ext": "cue",
+      "checksums": {
+        "md5": "77822c397be2cf362be3c34c5a43aa83",
+        "sha1": "58ee91665681f40f673ee6061e665dbf64d18108",
+        "crc32": "22bcefdb"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 01).bin",
+      "filesize": 244495104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99315d43d74e7807e9b1552809e010c8",
+        "sha1": "f011892873f6cc49b8ba1499419c72ee7d880095",
+        "crc32": "cf6700cd"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 02).bin",
+      "filesize": 15426768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cef1e0462f1bf7c6c808496027882b50",
+        "sha1": "768bf2f8d8ce4d063683affc5b880d9ab3649e28",
+        "crc32": "0bb12984"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 03).bin",
+      "filesize": 20521200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77386d1a551cba55f732c19dfc2300ea",
+        "sha1": "3edb6c71ca2db037842df856350b83cf1f267ed3",
+        "crc32": "dc833e65"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 04).bin",
+      "filesize": 24307920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fcd975f7a5bfbf7b09191d99c2db5a5",
+        "sha1": "efeb20499be9fb38f2bb4f5f1a8f5b642e9d63bd",
+        "crc32": "3d95c704"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 05).bin",
+      "filesize": 1775760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78ec837d71b481121c61608680992186",
+        "sha1": "8d7047a091a89fa1690ae24d94354969fb5f0a05",
+        "crc32": "1e634a02"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 06).bin",
+      "filesize": 1669920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e1098b51e4e38de1a90424bac932b59",
+        "sha1": "27f7a59fa11d2c655f5923b1f6b9d621e66bd8eb",
+        "crc32": "b7400c9c"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 07).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4464d7668114c2ad65eab7a950221cb0",
+        "sha1": "b07e10132073b6525b46c507e4402f386d6f4179",
+        "crc32": "edfc16cf"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 08).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19b6d8d41afaff034a6701acc64926ab",
+        "sha1": "33ec9882c7b7595dfa9ac1e85c9074bd5d3b765a",
+        "crc32": "8aaa926d"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 09).bin",
+      "filesize": 1500576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6a37727703b019c782a6f07cf6cf1c3",
+        "sha1": "d5770043b52382e927d497a31325c313fe8fa1b3",
+        "crc32": "cb17d0e0"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 10).bin",
+      "filesize": 2504880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2630ee86f284c4621f62cabe02573ee",
+        "sha1": "9cb7c70bbe4f19da23c11fc164f5a680743bcc7d",
+        "crc32": "741efc27"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 11).bin",
+      "filesize": 3024672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "130adf4aef6d37fe8d59ce3bb2058ca0",
+        "sha1": "13896531ffb2c55ce437176c6ccc6440f9c7bc2e",
+        "crc32": "0ea45925"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 12).bin",
+      "filesize": 2013312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c25f78955d38cc463bcbce5b8ba38abe",
+        "sha1": "c6c827a75a477ea127cc7d84fe576aa1bc257897",
+        "crc32": "06c77548"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 13).bin",
+      "filesize": 2013312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1349893e7a000c9bfaebfa7aa310c7e7",
+        "sha1": "f252da163f1dfad0da0c8a45632add9c8f8795bb",
+        "crc32": "ad5e5a6f"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 14).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e3bbd7b2a7095750f00a96201789e60",
+        "sha1": "11114c835bde4f526f7767a547addf37397e13c1",
+        "crc32": "5be341fd"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 15).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2de9b9e0d73148b24909ff6eac5a5c3",
+        "sha1": "bd32d61799d1eab66e0a93b09f25053b217a896c",
+        "crc32": "3bbe26a8"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 16).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f57f413eb7804cda92dafca52543e00e",
+        "sha1": "bfda3f1f9a227c30ebafe513601b5eb93165b147",
+        "crc32": "d3d1c21d"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 17).bin",
+      "filesize": 2003904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cd91d2c7e2c67f239ec2e638f529acf",
+        "sha1": "bd9fcc97fa2d6ff93d5c52fcc329de577420c726",
+        "crc32": "d4603762"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 18).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3d67f2f3cfd553e41b7c7ef9e490196",
+        "sha1": "ff442f0e9bf4f6f06c49e7a57b2a3d210c17bbb8",
+        "crc32": "64fdc4b3"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 19).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea490fcaf8b9227061a0d543250d549f",
+        "sha1": "91050e7690fb3d8d91ef2e0ec4cddd421cb7eb6e",
+        "crc32": "d9e30671"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 20).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2efd785b2e21c785a45a39da83ef260",
+        "sha1": "2e3e27cf9ca9d23a29dc1b27a94a8dcd8493c704",
+        "crc32": "59b9bf80"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 21).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c651422672b045fb3aa41a6082ecc42",
+        "sha1": "c7dccec497a6fb448434be85c8898fc890c1410e",
+        "crc32": "0edbe98c"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 22).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35c59e57bed6a94403945f17b3056876",
+        "sha1": "54e0fb90012bae394ee0192d37761f24c5938b67",
+        "crc32": "0e21fd16"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 23).bin",
+      "filesize": 3290448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb5ad15473debce0e1c0a3486b7b6a04",
+        "sha1": "11f8d9a06f84ae9db6541d75acd4bd206ae2ce98",
+        "crc32": "76017b74"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 24).bin",
+      "filesize": 1942752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37998dae723b1555b7dbdb9272375237",
+        "sha1": "c981e5e0447c7237d904f90a52ddd6de2c46ad37",
+        "crc32": "f5491bbe"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 25).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "923ac7d67b2122c7f0da04167119999d",
+        "sha1": "4362662f83c8524ddd9e5314199a618a82e984aa",
+        "crc32": "8c3e7793"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 26).bin",
+      "filesize": 9502080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c4fb36e42aaf9e66351007278f298e9",
+        "sha1": "70decd1b14bbd825734296f039051913e9c29e4c",
+        "crc32": "58662361"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 27).bin",
+      "filesize": 21193872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "063b43125684b0e627da92b2a7a76fad",
+        "sha1": "e37f8b87bb9f6bf5939975fe65a41ae350a92ebd",
+        "crc32": "28fd9c44"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 28).bin",
+      "filesize": 21128016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "613f41897f5fc4f07728382083a3b1df",
+        "sha1": "280b6f63a11ab9dfafa860d12488869eae0c696a",
+        "crc32": "dc5665da"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 29).bin",
+      "filesize": 29715168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07a5d3397bff39b2f621a6256d145ab5",
+        "sha1": "0a6b0868789d2914e755fb929b0a6ece43e9910c",
+        "crc32": "e752fd2c"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 30).bin",
+      "filesize": 32775120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65ccf50ed604d06fe1ac8a2d702ac1dc",
+        "sha1": "61b59c7e67c584065d164236e0761c64438aff67",
+        "crc32": "b89eb1b7"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 31).bin",
+      "filesize": 1721664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c9bbd7a7ba5afc30d478ab07e1d9a93",
+        "sha1": "6e8fed46aea0fdfe9522ff2e578a725dd81c6f16",
+        "crc32": "a295b216"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 32).bin",
+      "filesize": 1171296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d47e6c4076dfacc268510fc8d73059c",
+        "sha1": "6d1b46bc823427af8b411b704bbbe0cbae27fd09",
+        "crc32": "0c3caeb7"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 33).bin",
+      "filesize": 3257520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54eba5d9538952e3d410330a332b67e6",
+        "sha1": "66cbebd6d1d71e6905131c33890231a953470920",
+        "crc32": "4df31b88"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 34).bin",
+      "filesize": 9958368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d73ac3ed207407d9f1d8b6b2d8cc1edd",
+        "sha1": "fa88fac6013486654aa4803e621f6701546f03b0",
+        "crc32": "8ac3d4a0"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 35).bin",
+      "filesize": 3859632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfc646b9391b87b8dbb2f1335ebcb62e",
+        "sha1": "4621cbfc50ef56112ed402ef3180da9ddbe1b00a",
+        "crc32": "4048fc40"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 36).bin",
+      "filesize": 28386288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d88f6e35e93ef5f012ed9aba7934cbc",
+        "sha1": "7d67c9ca5c6961f89d3e2beb1c6e0750923b7fbe",
+        "crc32": "c980d46c"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 37).bin",
+      "filesize": 2500176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7536cc3dc65c9f016cd95c21b70d4f02",
+        "sha1": "2b5893d36e5b21100fb9550307f934e3db83ffdc",
+        "crc32": "f1292761"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 38).bin",
+      "filesize": 2368464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c2cb795b10c1d5a26af6741eed59d9a",
+        "sha1": "5dae8401724fbd6600be88f4bd19ce860f96d559",
+        "crc32": "7b9c4815"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 39).bin",
+      "filesize": 2970576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a997b735454cb4889f884c68b0cf99f6",
+        "sha1": "b328d58775419d2cf184a234fcd4ef15316e932a",
+        "crc32": "7e24fa22"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 40).bin",
+      "filesize": 3499776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07662f901a12702ff98682983459c4fa",
+        "sha1": "7235b3088d3de7846d2dabbf40808c9b90fe8c2e",
+        "crc32": "aee8e286"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 41).bin",
+      "filesize": 10774512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3786e64809acc6472325479cb914d5b3",
+        "sha1": "2774ef9399d8b28ddbdc940f4d5b37e48ac4a804",
+        "crc32": "05f78a21"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 42).bin",
+      "filesize": 6244560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89aa22829f76d57d7af14868b687f336",
+        "sha1": "e08d2d2a98c2aaa05aa89ae3a7b2429f9b624b77",
+        "crc32": "a2bf602e"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 43).bin",
+      "filesize": 1126608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2edf8975c1a66e106e89c1f018db155",
+        "sha1": "13b5e6eec3ccb8e2b355efc90ff4183208855aa7",
+        "crc32": "9eb27ee2"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 44).bin",
+      "filesize": 2820048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96a9d9e930e7528a4a9119fd3e26df39",
+        "sha1": "37f259fb4d415a4b069fdcd2fb130b8c360a3e42",
+        "crc32": "c940b9dc"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 45).bin",
+      "filesize": 2112096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "397407bcd7e30809ddd7059749d85548",
+        "sha1": "41f087850f372aa623630af2d50f483b1b12aa37",
+        "crc32": "52068edb"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 46).bin",
+      "filesize": 2533104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0eb0af863f792c2953702cc8687e532",
+        "sha1": "1595740783b524ff83fd28b737f4d374fef4665f",
+        "crc32": "94249f1a"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 47).bin",
+      "filesize": 1841616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b6b726b2ffdc4da8cf50b031f30eda0",
+        "sha1": "40bdff7857fb2b513f801968e06721b67735b130",
+        "crc32": "97c9a533"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 48).bin",
+      "filesize": 29124816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca9be4d801b27caf31ff664251715292",
+        "sha1": "8392ad37b9c102f2d8fbd2c9ec6c7e0415e61ef1",
+        "crc32": "b92229d3"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 49).bin",
+      "filesize": 12936000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0466722e28022c551d24712d3f623989",
+        "sha1": "be1c00d64aea6aad96004199e61daca6460fb6b9",
+        "crc32": "ae4e84af"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 50).bin",
+      "filesize": 1698144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c5f2e3192efc10f3461f9413fc9a465",
+        "sha1": "0145d1312f11819c3aa5e83b32a8e68859e07e6c",
+        "crc32": "59e836ae"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 51).bin",
+      "filesize": 7780416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d4573214c30ca88bf87ec658062bc1c",
+        "sha1": "82be0707687b2487fb38504ef2fd46ce1a4e6d8a",
+        "crc32": "a3e95e7b"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 52).bin",
+      "filesize": 2081520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd19890c153598a06afb515b8e54bbd1",
+        "sha1": "c713ea05ffeef478eb58b2ad46b142b85af98823",
+        "crc32": "be09b35f"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 53).bin",
+      "filesize": 9010512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b9e60083aedd5ed0068f3b87c793861",
+        "sha1": "d5dc983ff7cadd2cf41ad7678bd5053d7f682330",
+        "crc32": "b79e3fab"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 54).bin",
+      "filesize": 37323888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8112663bc77601d8a3f86aa1aba5f7f2",
+        "sha1": "83fc907c6c74115756bdb89874d23dc8e7acfb19",
+        "crc32": "fada1d3a"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 55).bin",
+      "filesize": 37354464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b95f72d279aa352f30c864d6bdb61e2",
+        "sha1": "9f8c3e7a3cafdcc66ad4e84c0a751ce45a628659",
+        "crc32": "15797e41"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 56).bin",
+      "filesize": 18999456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a29bd8224666ed8868524138312b2222",
+        "sha1": "52bf44d3bf4f44d70383ae46b67ea8959649f10b",
+        "crc32": "baa531cd"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 57).bin",
+      "filesize": 4515840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cae5eefc247f361919f38b1e368413c0",
+        "sha1": "f30daff1774b3c6692b749c57a2849decd3b186d",
+        "crc32": "ebf1623d"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 58).bin",
+      "filesize": 4172448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6754e23b88a694c68b573c0f677ec21",
+        "sha1": "3c5fde6e041ae9b53201011c5188988cdba0820a",
+        "crc32": "31af471d"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 59).bin",
+      "filesize": 3478608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f8b716ea25cac93f17e36d435b8928e",
+        "sha1": "bbfa24e35a6acfce438ab8c6c4da74a6b8dec33e",
+        "crc32": "4fcb03a1"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 60).bin",
+      "filesize": 29745744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbe8e549b5f7673d247f8dbe63cebabb",
+        "sha1": "de47fa5bdc6679b3d2c46344297c7f81618b0913",
+        "crc32": "977cdb5e"
+      }
+    },
+    {
+      "filename": "Tomb Raider II - Starring Lara Croft (Germany) (Track 61).bin",
+      "filesize": 3478608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f8b716ea25cac93f17e36d435b8928e",
+        "sha1": "bbfa24e35a6acfce438ab8c6c4da74a6b8dec33e",
+        "crc32": "4fcb03a1"
+      }
+    }
+  ]
+}

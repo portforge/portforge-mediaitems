@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Monsters, Inc. - Monstros e Companhia - Ilha Assustadora (Portugal)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Monsters, Inc. - Monstros e Companhia - Ilha Assustadora (Portugal).cue",
+      "filesize": 146,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3297ca1e67ad592c09f0a2c7929cb239",
+        "sha1": "f5f7a950f7aa40d69aa444bb919239ce1ee52447",
+        "crc32": "1cba87d7"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Monsters, Inc. - Monstros e Companhia - Ilha Assustadora (Portugal).bin",
+      "filesize": 736342992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b1d9ca7f0133859957d6b3b5f220b62",
+        "sha1": "47d381f3ad16eb8a592228aa9b061a2ce98a3142",
+        "crc32": "2046b319"
+      }
+    }
+  ]
+}

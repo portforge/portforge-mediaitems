@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atlantis - Segreti d'un Mondo Perduto (Italy) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atlantis - Segreti d'un Mondo Perduto (Italy) (Disc 3).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3322e6fdb313ee14944971b7bf773a80",
+        "sha1": "072a0680784977e35922a21785de80c8346da0e5",
+        "crc32": "ccb0af3a"
+      }
+    },
+    {
+      "filename": "Atlantis - Segreti d'un Mondo Perduto (Italy) (Disc 3).bin",
+      "filesize": 711230688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2344a487c2b895b9e586f72290c06664",
+        "sha1": "173317b143d4248502ed8c2da54bc2d12bd1e4ae",
+        "crc32": "06863718"
+      }
+    }
+  ]
+}

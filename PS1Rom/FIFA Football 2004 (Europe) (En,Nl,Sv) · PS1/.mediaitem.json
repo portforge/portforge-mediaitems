@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2004 (Europe) (En,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2004 (Europe) (En,Nl,Sv).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f66c475968ee10b4d665512209759e19",
+        "sha1": "88a7aab2d49f0daddd33b4eef15efe340ab85acf",
+        "crc32": "19a6b5cf"
+      }
+    },
+    {
+      "filename": "FIFA Football 2004 (Europe) (En,Nl,Sv).bin",
+      "filesize": 604941456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "886629afbf9237d8a07d1c716c6c8903",
+        "sha1": "66dcd368fabeaea502cbf4d1b901b0018b0511bf",
+        "crc32": "2518b252"
+      }
+    }
+  ]
+}

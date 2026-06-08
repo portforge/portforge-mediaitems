@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harukanaru Toki no Naka de - Banjou Yuugi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harukanaru Toki no Naka de - Banjou Yuugi (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "596fd2d4920c0057f3356e7f2b4f52cc",
+        "sha1": "2b530ff17aa06f7c0a26f194fe44e230273594f3",
+        "crc32": "53d7716e"
+      }
+    },
+    {
+      "filename": "Harukanaru Toki no Naka de - Banjou Yuugi (Japan).bin",
+      "filesize": 688315152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "461ac07b02e65e385a56b61212eaa3a8",
+        "sha1": "bea66a69b10d84613900b0f0e5cc49e1cbee0fcf",
+        "crc32": "cbcc7d77"
+      }
+    }
+  ]
+}

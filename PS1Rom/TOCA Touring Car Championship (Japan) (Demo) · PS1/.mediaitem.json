@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TOCA Touring Car Championship (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TOCA Touring Car Championship (Japan) (Demo).cue",
+      "filesize": 810,
+      "ext": "cue",
+      "checksums": {
+        "md5": "82aa52d9f2936b36221d3097eaaa35ee",
+        "sha1": "300c594984a38c9be338f693649583afdcb95038",
+        "crc32": "aba03a39"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Japan) (Demo) (Track 1).bin",
+      "filesize": 50304576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83ffb2defedd7c4a1e988e6f6e50a6e6",
+        "sha1": "e866c415170d5743d2de664d359bb9bb8d018140",
+        "crc32": "ad871515"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Japan) (Demo) (Track 2).bin",
+      "filesize": 34334496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8ae0756894b8fd643188cfdee1a8dfd",
+        "sha1": "6fef43049d9c0fd8de1753e74db9e5d3bd6d1e1d",
+        "crc32": "6db834fa"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Japan) (Demo) (Track 3).bin",
+      "filesize": 56248080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53f058837467d0dc854e1b636829236e",
+        "sha1": "8566e40448354981dc0a9da31edf9caae0165a0e",
+        "crc32": "1cf7c613"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Japan) (Demo) (Track 4).bin",
+      "filesize": 56248080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53f058837467d0dc854e1b636829236e",
+        "sha1": "8566e40448354981dc0a9da31edf9caae0165a0e",
+        "crc32": "1cf7c613"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Japan) (Demo) (Track 5).bin",
+      "filesize": 59540880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2fdbcd13725453dc75d273b1a0f8de8",
+        "sha1": "2be552a0f5cdb6bbd1a7fa185487e63b0878c806",
+        "crc32": "84a66edd"
+      }
+    },
+    {
+      "filename": "TOCA Touring Car Championship (Japan) (Demo) (Track 6).bin",
+      "filesize": 56248080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53f058837467d0dc854e1b636829236e",
+        "sha1": "8566e40448354981dc0a9da31edf9caae0165a0e",
+        "crc32": "1cf7c613"
+      }
+    }
+  ]
+}

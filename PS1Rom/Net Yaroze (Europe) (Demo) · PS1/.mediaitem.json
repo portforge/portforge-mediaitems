@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Net Yaroze (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Net Yaroze (Europe) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c26f93f35644f25c67cdde02ef195d1e",
+        "sha1": "edaed1d4c84a653c4f4db1cf212082d96b564f58",
+        "crc32": "a25dca46"
+      }
+    },
+    {
+      "filename": "Net Yaroze (Europe) (Demo).bin",
+      "filesize": 82566960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b052640846b2c41029ca0f87d5464004",
+        "sha1": "09d4f479d511f5677b9edc810511534e61ed03bc",
+        "crc32": "c5bf6a5c"
+      }
+    }
+  ]
+}

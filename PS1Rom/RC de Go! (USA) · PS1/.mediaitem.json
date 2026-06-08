@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RC de Go! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RC de Go! (USA).cue",
+      "filesize": 200,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5240340e70d59a6951fd034683e694ef",
+        "sha1": "7556ea0239500e7b19c4a9af8261c2bb4de148c3",
+        "crc32": "8ed03053"
+      }
+    },
+    {
+      "filename": "RC de Go! (USA) (Track 1).bin",
+      "filesize": 306011664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6829acf9f9d504f0bee9da29cd43321f",
+        "sha1": "9e72b45a7922c6381e4a04663a46b2bc99f235e9",
+        "crc32": "ee00dd9e"
+      }
+    },
+    {
+      "filename": "RC de Go! (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

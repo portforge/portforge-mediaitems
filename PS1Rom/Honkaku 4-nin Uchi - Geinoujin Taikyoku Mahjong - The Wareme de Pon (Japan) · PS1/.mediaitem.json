@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Honkaku 4-nin Uchi - Geinoujin Taikyoku Mahjong - The Wareme de Pon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Honkaku 4-nin Uchi - Geinoujin Taikyoku Mahjong - The Wareme de Pon (Japan).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28069c0e5ad254a7094c5b6b251f102c",
+        "sha1": "7700828c23b6b4f23b67a294606ed030202eddaf",
+        "crc32": "09396500"
+      }
+    },
+    {
+      "filename": "Honkaku 4-nin Uchi - Geinoujin Taikyoku Mahjong - The Wareme de Pon (Japan).bin",
+      "filesize": 223392960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33252513e7a1bbf3e22a3cff6568447d",
+        "sha1": "865ed79eb65a5ae19b4e16a42452c27dbdb11c82",
+        "crc32": "5bb2802c"
+      }
+    }
+  ]
+}

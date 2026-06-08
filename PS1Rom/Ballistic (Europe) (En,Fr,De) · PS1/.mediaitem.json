@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ballistic (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De).cue",
+      "filesize": 1222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f0a5d715105e162fc3189cd8599b4c51",
+        "sha1": "616699195ea1ff26439c45256053d8ce3f162f74",
+        "crc32": "6b097b6b"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 01).bin",
+      "filesize": 23265984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c420a32de8c881f10fdeb25e4a03a078",
+        "sha1": "b96698df1b909758f28ff8c2070a5a5688f31ed5",
+        "crc32": "8a881c63"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 02).bin",
+      "filesize": 32920944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "115a2eca290545247e18e2390c7a5466",
+        "sha1": "f17dd94c5e70511bef468734a861c44f2d3e18f6",
+        "crc32": "baddb8ae"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 03).bin",
+      "filesize": 33558336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb387dc36b57dc27eb79861e09fb1d6a",
+        "sha1": "0fc0e62bb773194635de7edf577acba611f66735",
+        "crc32": "cf3a12c7"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 04).bin",
+      "filesize": 32953872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9448101131b7cd5bc7fbdb8de1483545",
+        "sha1": "cc618611f3230f7ce3dab53439ab6b63b01ae305",
+        "crc32": "fbca55f9"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 05).bin",
+      "filesize": 32812752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b13f721e950f2bb56ac0696fb0c3962",
+        "sha1": "682dd52a2ed4799618b1300d90aedf021cc8fc87",
+        "crc32": "018ee59f"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 06).bin",
+      "filesize": 33196128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5845921afbe63d43ea7816fb73eb26ad",
+        "sha1": "71040233ed3e912eebc52240c2d0a2fb825fae34",
+        "crc32": "0f09fd15"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 07).bin",
+      "filesize": 8267280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2f363570942c7719da02d7f4dda22ed",
+        "sha1": "4ab8139641c56777d85f13f4f876efa8c76fd051",
+        "crc32": "de674487"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 08).bin",
+      "filesize": 4800432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31725ca0a7364b8033a97428fea4327c",
+        "sha1": "1337a7d61bc1997838ba3aecbae18d2088151430",
+        "crc32": "4b720a84"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 09).bin",
+      "filesize": 32043648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3859513a0347f0eeb1d9304809fd087f",
+        "sha1": "2e0053d9ee2875224282ede2865c85fc906dd403",
+        "crc32": "395bcede"
+      }
+    },
+    {
+      "filename": "Ballistic (Europe) (En,Fr,De) (Track 10).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

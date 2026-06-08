@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chess (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chess (USA).cue",
+      "filesize": 77,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6bef41ff352b67fc73fca8a654f60eb",
+        "sha1": "8706439aa24eb6e19c58e2bd8474791bfbf6603c",
+        "crc32": "800de8dd"
+      }
+    },
+    {
+      "filename": "Chess (USA).bin",
+      "filesize": 411303648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf6711413ae2ca52f08a239c1daf2eb3",
+        "sha1": "f2771f1aea1514a64f15b18bd012690a98a1ccba",
+        "crc32": "81587698"
+      }
+    }
+  ]
+}

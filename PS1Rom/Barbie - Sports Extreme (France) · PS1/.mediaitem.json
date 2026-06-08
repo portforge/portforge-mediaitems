@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Barbie - Sports Extreme (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Barbie - Sports Extreme (France).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f0194a7b9a75704657eec8a6ab9fdf7",
+        "sha1": "01adcbada5e115a0725449a5c8c6dccf68ecd78f",
+        "crc32": "53ca5b89"
+      }
+    },
+    {
+      "filename": "Barbie - Sports Extreme (France).bin",
+      "filesize": 325046400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "633bc4ad9a0fff69415967d56c4571bc",
+        "sha1": "a40aed268742ab682c1c9707b7bfb48f2d7e87ff",
+        "crc32": "a406cf8a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Straight Victory - Hoshino Kazuyoshi e no Chousen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Straight Victory - Hoshino Kazuyoshi e no Chousen (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88e5a5ea0a89fba350981204c3e0dfc4",
+        "sha1": "9b59d93e67fe96a1ce0ec8f02ff389eebe9cc770",
+        "crc32": "2decc595"
+      }
+    },
+    {
+      "filename": "Straight Victory - Hoshino Kazuyoshi e no Chousen (Japan).bin",
+      "filesize": 573469344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e886cb88059139fd1a25a873e0275cb",
+        "sha1": "12132f1ccf761f4bb2fff3318132cfaebb0fca12",
+        "crc32": "2e8eddda"
+      }
+    }
+  ]
+}

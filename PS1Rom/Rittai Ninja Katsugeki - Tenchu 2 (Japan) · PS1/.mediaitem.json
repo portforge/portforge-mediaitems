@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rittai Ninja Katsugeki - Tenchu 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu 2 (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "37ef5d2e26aaafe42a83e33043877c23",
+        "sha1": "49d89a8cd24148a873c63033b114ac6d505e5dfa",
+        "crc32": "2bee2d02"
+      }
+    },
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu 2 (Japan).bin",
+      "filesize": 750763104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8448f55b969a4d2876404d6c6e3b86ad",
+        "sha1": "b110bea3b93dcbc8aece61bfe05eeed9d4a7877c",
+        "crc32": "7eccdb50"
+      }
+    }
+  ]
+}

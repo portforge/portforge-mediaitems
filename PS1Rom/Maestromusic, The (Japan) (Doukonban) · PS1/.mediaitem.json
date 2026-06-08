@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maestromusic, The (Japan) (Doukonban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maestromusic, The (Japan) (Doukonban).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "336c5732a74e7ccfb0b4733607f766a1",
+        "sha1": "b3b8f13018853bfce9ad3d98ad5d9170116d31ef",
+        "crc32": "4f3c16f3"
+      }
+    },
+    {
+      "filename": "Maestromusic, The (Japan) (Doukonban) (Track 1).bin",
+      "filesize": 249714192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5adf82d302364fe2178345fa077c703e",
+        "sha1": "ee369104df4949694dbd58f9e80866e6cb0ce21b",
+        "crc32": "897156f5"
+      }
+    },
+    {
+      "filename": "Maestromusic, The (Japan) (Doukonban) (Track 2).bin",
+      "filesize": 33264336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91ecb1f49e9ed815dbe698d31566e06d",
+        "sha1": "dcd44f35deaaa350c5c5192e80f9959c44880884",
+        "crc32": "30117ce2"
+      }
+    }
+  ]
+}

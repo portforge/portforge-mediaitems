@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Track & Field (Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Track & Field (Asia).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7277883a0ed6af8d0909e8a24d06beca",
+        "sha1": "81feedec083e653c065f5eed7e8fd5ae1902dd81",
+        "crc32": "d53067a7"
+      }
+    },
+    {
+      "filename": "International Track & Field (Asia).bin",
+      "filesize": 286689984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c83067395a8e127da44d98935fa9072e",
+        "sha1": "882bf0071467e0085e34d3b25d8ec5ea3341db9d",
+        "crc32": "3116c268"
+      }
+    }
+  ]
+}

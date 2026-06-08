@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tamamayu Monogatari - Dennou Bijutsukan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tamamayu Monogatari - Dennou Bijutsukan (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e71ce80398058571a64e281959be998",
+        "sha1": "b19933fa901378b212db8977e130321b412a24d5",
+        "crc32": "f7254eb5"
+      }
+    },
+    {
+      "filename": "Tamamayu Monogatari - Dennou Bijutsukan (Japan).bin",
+      "filesize": 147773808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35ec539741f1fb2fea95af75527ae5e6",
+        "sha1": "e79ad24735bc0b41e6d59a4be66077f066256d9b",
+        "crc32": "574c8815"
+      }
+    }
+  ]
+}

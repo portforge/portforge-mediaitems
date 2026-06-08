@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Peter Pan - Adventures in Never Land (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Peter Pan - Adventures in Never Land (Europe) (Demo).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e99a3fa19cc648b332244f8541a833c4",
+        "sha1": "d9e6c718ea1c3553ea19c69f78475624401713b1",
+        "crc32": "e090bad3"
+      }
+    },
+    {
+      "filename": "Disney's Peter Pan - Adventures in Never Land (Europe) (Demo).bin",
+      "filesize": 75155808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "415b8bbb1d6468346bef1b8e7f7a20a0",
+        "sha1": "5f13b7ba27319ee955e0e157612a0f1347f6f9b4",
+        "crc32": "2c7cf8f3"
+      }
+    }
+  ]
+}

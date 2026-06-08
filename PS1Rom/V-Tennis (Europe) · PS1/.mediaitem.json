@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "V-Tennis (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "V-Tennis (Europe).cue",
+      "filesize": 204,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e4aec68509b714c2b0ef7e2c60f5cfa",
+        "sha1": "b3ffedadc9a61efd60afe5d1b14ec2944d5cb950",
+        "crc32": "bddb14f0"
+      }
+    },
+    {
+      "filename": "V-Tennis (Europe) (Track 1).bin",
+      "filesize": 226812768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f545722fff5e00aa73794ba09e4cdea1",
+        "sha1": "05de012395db04492dab8047ce85e7d22e64d126",
+        "crc32": "14beffe0"
+      }
+    },
+    {
+      "filename": "V-Tennis (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

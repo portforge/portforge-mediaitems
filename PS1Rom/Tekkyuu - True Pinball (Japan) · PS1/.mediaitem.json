@@ -1,0 +1,517 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tekkyuu - True Pinball (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tekkyuu - True Pinball (Japan).cue",
+      "filesize": 6232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "070bd64e2e2b8174e1f42d48f52f7c47",
+        "sha1": "a500dbcfa5ffbe768a9b1ed58646e62c63e3e49a",
+        "crc32": "e2f3d17d"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 01).bin",
+      "filesize": 34221600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53b43d0d46b2a78f196424c8610d5f94",
+        "sha1": "76be72f0bdaa8f6fc246f3b95be24b616f988ea8",
+        "crc32": "327f31e5"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 02).bin",
+      "filesize": 33026784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57de31dd5da91f601fae8075dcb90aa6",
+        "sha1": "eca9a174210d33d3fc09735e213b00f5b5fc8dca",
+        "crc32": "60eb1df2"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 03).bin",
+      "filesize": 35830368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76a5d49035deb0203805e78fdbc8edff",
+        "sha1": "1e81dd2f300356cb752c819a3da069a13c891685",
+        "crc32": "b31fd731"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 04).bin",
+      "filesize": 39043200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa5cbf1477d8e8e7d0b947c0f79b25db",
+        "sha1": "5f06cc7bc7e84e17b8f55ca41849c3299d4ed8dd",
+        "crc32": "8c502924"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 05).bin",
+      "filesize": 20250720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53e3d562bc06cd1cd525b9d9b7de3212",
+        "sha1": "997883c4b9555fa139c0f4cd68f35387096b4cee",
+        "crc32": "e16709ab"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 06).bin",
+      "filesize": 32321184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24bae25720d38a9f947c7d664d278a2d",
+        "sha1": "ef2bf2cf5cf5678a061c12431e7024bc084c713b",
+        "crc32": "50a6edf6"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 07).bin",
+      "filesize": 6874896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5b49b91f04f6ef3df77001d4fe96ab1",
+        "sha1": "7dd6b7a454f6b57fb17aa93f80065dad0280b781",
+        "crc32": "4b816679"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 08).bin",
+      "filesize": 8057952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c460a2dfe2a0ad4f8f689818289d99a",
+        "sha1": "5c9c0ccf8232e5027d2771bde1025ee69da111f7",
+        "crc32": "655104d3"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 09).bin",
+      "filesize": 7208880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec676a9dd51e8b01df4c52cea647a515",
+        "sha1": "0dea790459e7b4c564c495bceac7b477996c8754",
+        "crc32": "b2581bd5"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 10).bin",
+      "filesize": 9292752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1be148729932f35f5c0bc3431aa1c3d6",
+        "sha1": "1a2666abe180413ae81efbe364eadef2b485f872",
+        "crc32": "06d98798"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 11).bin",
+      "filesize": 7208880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bffeecfe4abc350c5f34d67a556c84b3",
+        "sha1": "da27e285a8a4521ac0ad10cb698ee004601ed21a",
+        "crc32": "95b2236f"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 12).bin",
+      "filesize": 5656560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af6fca4365fc07ed88a77b67e53b985f",
+        "sha1": "d969c82018af7013cf5f93e9226452938d448d34",
+        "crc32": "eddad2ca"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 13).bin",
+      "filesize": 6559728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6a7bee37111d2a02812478a5a4de101",
+        "sha1": "7d03ebad743588fdca16ab766842faf5bbdf424c",
+        "crc32": "2866ae3b"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 14).bin",
+      "filesize": 8250816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "558eeee0b41a646d6da82eb8288a1d86",
+        "sha1": "43e1b871ad5ddd72d2501791d04f8c6137098e20",
+        "crc32": "95cd441a"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 15).bin",
+      "filesize": 8834112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "012583298cc0f5a1726a573c0ceea705",
+        "sha1": "b5d40214f5e3aa92f6a1148cc52c3285056485bc",
+        "crc32": "b6605c93"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 16).bin",
+      "filesize": 7451136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b7f9189f65175761253ee9833f803f0",
+        "sha1": "c9fa336bf22bf234a32ae435071153c5fd0d0467",
+        "crc32": "e4758c52"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 17).bin",
+      "filesize": 6839616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32045af00b236c40be52a735a73bf46b",
+        "sha1": "e243f6dae73dd8996da72297e92040ed13b5b641",
+        "crc32": "595799ca"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 18).bin",
+      "filesize": 8490720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "625a07cc49982baa8160f5e005d1a549",
+        "sha1": "b3b4964b0dc32e7b7a51d74ca6507a404e1dbd21",
+        "crc32": "cac24099"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 19).bin",
+      "filesize": 8434272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "001b5347e40e140dbf7bc3c95ffe8324",
+        "sha1": "a54c2cdb25e11eb4115ce5ca8b29931dc41febdc",
+        "crc32": "3c94f921"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 20).bin",
+      "filesize": 7138320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bf8f56415a91db30684177b7bb88378",
+        "sha1": "f362e744d95ed85be9973fba1423ad5324658592",
+        "crc32": "844e2cb8"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 21).bin",
+      "filesize": 10496976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c67e4473b14b4460d7c72bac2f0ae2f0",
+        "sha1": "b68432770d94232c2b16ed6b2aed3c62bcc78e10",
+        "crc32": "5eead0b6"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 22).bin",
+      "filesize": 7996800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4f0afe8ceeb4f79c9a3ffe3ec3dee3c",
+        "sha1": "15c768f087517f58fe99f7b9fabf25ac370eb3f2",
+        "crc32": "6108d139"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 23).bin",
+      "filesize": 7651056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce54e83c1487c6264ebe18846d082bba",
+        "sha1": "335422e77d07beca2ecd069dfe4339a26a80d805",
+        "crc32": "5a62033a"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 24).bin",
+      "filesize": 9436224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33658da8414b10d32e450e9c6c930d25",
+        "sha1": "0432b8bfc2110863a63bf344767d66a4c10be287",
+        "crc32": "e3200338"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 25).bin",
+      "filesize": 7262976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b459e30ce1171544ee5267ce72c4d63e",
+        "sha1": "6aa5e37cb488bf8c269e270cb42f0f6e0a5149f6",
+        "crc32": "395e00d6"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 26).bin",
+      "filesize": 8888208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2355eb49c5d24f6533d3434233bd289f",
+        "sha1": "28c9480440254eb500674d7a382a99a0256cc70c",
+        "crc32": "1d08912c"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 27).bin",
+      "filesize": 6618528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "323cbacf98351eea73e5ccd812cbc375",
+        "sha1": "96d94809a686f4d812692e35235d3a38c0b5afc9",
+        "crc32": "b5b33bed"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 28).bin",
+      "filesize": 8504832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dd2c91ca431cf0fe2f79b42ec4f13f4",
+        "sha1": "9aeca721e6a255d483234fc313f7ed4468162a9b",
+        "crc32": "4311a050"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 29).bin",
+      "filesize": 7742784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c6905210a4001ed3c2ec9031459f908",
+        "sha1": "693b2b16d65688c8d88323728762c89675da7bd5",
+        "crc32": "25c1f928"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 30).bin",
+      "filesize": 8286096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "773ff51b8215e82b8fadadb6c0f10664",
+        "sha1": "2cba8aeace3f95012e75d4a3cae32f03bba67fae",
+        "crc32": "81a031e7"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 31).bin",
+      "filesize": 16896768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b123ce0912bb7d3f66a8a088a84e6c3b",
+        "sha1": "ce95f92200bfd53f5d4d5f99d2285946df72db26",
+        "crc32": "234211d1"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 32).bin",
+      "filesize": 13578096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edba8a32ed520312f4cda878b6201280",
+        "sha1": "b4069e34f34711cbc41715f987e6cd74c6ad2e19",
+        "crc32": "209886c5"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 33).bin",
+      "filesize": 12202176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de7fc2e62daad472ad9bca45df3a8317",
+        "sha1": "41777fcd2856d99e448c1dce07c852546edc7ffe",
+        "crc32": "b853cc26"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 34).bin",
+      "filesize": 11143776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76fef2de9cf9ee08d24df0a1e5dc0615",
+        "sha1": "e2b7a2ac1df5343ce9b963332fd161e5b83135d8",
+        "crc32": "7fc8a7d7"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 35).bin",
+      "filesize": 13693344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37467e4302afd8e4a001a01d73580e2a",
+        "sha1": "5daa1e19c23a757b58f555619989a4fa640fe31d",
+        "crc32": "ed125ffc"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 36).bin",
+      "filesize": 9462096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f256931c62fe019ec5d3067718c7166",
+        "sha1": "dff74e4585462846f0bdc7a7c6adce7657239403",
+        "crc32": "be2dc136"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 37).bin",
+      "filesize": 8502480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dd1be031b1a6e2a65f8df9a0d736f9e",
+        "sha1": "f44bc7d938aae4267161ad603667d8836edc7f59",
+        "crc32": "80ed4c17"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 38).bin",
+      "filesize": 8168496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd73594d6910d3a04f71bbae9ef97764",
+        "sha1": "1c6c38a1ca3ca7f076b6468566472ce7d2bfa76d",
+        "crc32": "bbe2afe4"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 39).bin",
+      "filesize": 10301760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4b9ec5e0b2b4b74f7dad505fc8a0dc3",
+        "sha1": "65e1ac8baf374de9b8a66f18674636768bb5f3b3",
+        "crc32": "db228f13"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 40).bin",
+      "filesize": 10226496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "609272af490298a427a762d5579c584c",
+        "sha1": "f08a879679cc56c728fe831d9c8b584436240732",
+        "crc32": "78621bcc"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 41).bin",
+      "filesize": 14236656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce8217436e037e9472b68f160e0ce52a",
+        "sha1": "53dcfdd47b00f4472d59fb4f27cde8b92a6fe5c2",
+        "crc32": "a624451a"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 42).bin",
+      "filesize": 8535408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "348e7c3a1904be5d077158fbc66020f0",
+        "sha1": "cd6e8bda19fc86075cd08d6ae2855fc7aa73deb9",
+        "crc32": "5af5e130"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 43).bin",
+      "filesize": 9081072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b07c2b8be1b12e5583fcb5c2e99881",
+        "sha1": "40ea70b27082e4c52ca007319243e5eb85b5cad9",
+        "crc32": "c2ab443b"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 44).bin",
+      "filesize": 6086976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fec87bcb763b40beb095e507133d995e",
+        "sha1": "5f1324e4e970bba04ba2550b1867a8921d9a4757",
+        "crc32": "6abc1b36"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 45).bin",
+      "filesize": 13328784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7cb6880377256580c0a3989acb2c251",
+        "sha1": "238c8cb8bc1056d08bd9cbd9f08c7b4bede62fa2",
+        "crc32": "c83249a2"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 46).bin",
+      "filesize": 7446432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "efc908d0115f3e137c92a3fee8e52540",
+        "sha1": "65e61aa1e469901fbb6873ca4453970ca4f24225",
+        "crc32": "89c97864"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 47).bin",
+      "filesize": 6921936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa4d948958aca11d9c0505e3108a4cd1",
+        "sha1": "4498a05da4d893c63fc548fdae1ed2fed9fa39c1",
+        "crc32": "0ed0db30"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 48).bin",
+      "filesize": 7286496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d1bd5bc745adb9873f6589f7bdc877e",
+        "sha1": "8c5a26cb0dc8845f0d542600a17da61d2a9e776d",
+        "crc32": "35efc217"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 49).bin",
+      "filesize": 8478960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f41e1eb6acd3f5ead5ed251781ea490",
+        "sha1": "eb2ffd21cfd431b10b9addbddf1e9715c9730aaa",
+        "crc32": "c39e0ad5"
+      }
+    },
+    {
+      "filename": "Tekkyuu - True Pinball (Japan) (Track 50).bin",
+      "filesize": 69847344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afab6d75b61bac5857edf790aae551fe",
+        "sha1": "f9ba9cf9692086757831c1b7595f3b07cefb4e6f",
+        "crc32": "b66f362a"
+      }
+    }
+  ]
+}

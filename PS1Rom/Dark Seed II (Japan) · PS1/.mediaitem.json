@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dark Seed II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dark Seed II (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "210902e8c888702720155b0cb0a4c365",
+        "sha1": "38ea9419248d65565f0fa98544b37df40ca0ea94",
+        "crc32": "c588daa2"
+      }
+    },
+    {
+      "filename": "Dark Seed II (Japan).bin",
+      "filesize": 496504848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c57de2803b3cd6c75f77813b382b8819",
+        "sha1": "08d2212dffa2592c380bd3671ab619ec73b8c2aa",
+        "crc32": "1633f553"
+      }
+    }
+  ]
+}

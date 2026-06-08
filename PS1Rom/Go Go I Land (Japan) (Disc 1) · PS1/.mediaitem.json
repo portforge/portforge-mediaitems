@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Go Go I Land (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Go Go I Land (Japan) (Disc 1).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ad42702a7adf901b4572f1da3d2ac8e",
+        "sha1": "558f85de5b94147d2d425e35087a9028e269e3aa",
+        "crc32": "11cacc89"
+      }
+    },
+    {
+      "filename": "Go Go I Land (Japan) (Disc 1).bin",
+      "filesize": 677818176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c677b8f7719f5c09017e0d6c01b2966b",
+        "sha1": "cb05d26bacbca215b7e43bce3a143a3785910ad0",
+        "crc32": "deb51216"
+      }
+    }
+  ]
+}

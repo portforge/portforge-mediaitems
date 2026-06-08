@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Game Show '99 Aki Special Taikenban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Game Show '99 Aki Special Taikenban (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "700228b0dcd8cc2c68c18b9b49a86af2",
+        "sha1": "d11a379d80e6a9b4c6e3132aac2e75ad53268698",
+        "crc32": "30e8b993"
+      }
+    },
+    {
+      "filename": "Tokyo Game Show '99 Aki Special Taikenban (Japan).bin",
+      "filesize": 412013952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78f81c6adb48176a41904154c7586a90",
+        "sha1": "c2726c6df3924fd16c53b70da205dfac06b89af3",
+        "crc32": "c4467f4d"
+      }
+    }
+  ]
+}

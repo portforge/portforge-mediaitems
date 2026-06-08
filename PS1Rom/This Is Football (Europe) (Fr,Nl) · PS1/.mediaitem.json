@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "This Is Football (Europe) (Fr,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "This Is Football (Europe) (Fr,Nl).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f918a1285b1a20f824590f95ccfa9056",
+        "sha1": "85566776c79b677807098eb41c6af63941560410",
+        "crc32": "962f6cc7"
+      }
+    },
+    {
+      "filename": "This Is Football (Europe) (Fr,Nl).bin",
+      "filesize": 677884032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab631ac87944a9e470db49f33838c2df",
+        "sha1": "53780f13f877b9b47f5ff23bb207f83c83644814",
+        "crc32": "a500d7ff"
+      }
+    }
+  ]
+}

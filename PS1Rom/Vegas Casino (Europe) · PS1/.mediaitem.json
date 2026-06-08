@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vegas Casino (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vegas Casino (Europe).cue",
+      "filesize": 1490,
+      "ext": "cue",
+      "checksums": {
+        "md5": "960aba9599d4a8f2a4e60efd0c8f12a7",
+        "sha1": "231f9fc9c2968bbf22bcd83a64b24b89f9d84672",
+        "crc32": "2365feb0"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 01).bin",
+      "filesize": 135997344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf9ad35d2860a46aa6cc36d6ec5ef8ce",
+        "sha1": "45ae684ab6a16d1409904ca4e5f2de137a7bae9e",
+        "crc32": "168346b4"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 02).bin",
+      "filesize": 14396592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d6dc77a97a8f969a75f940a924b9675",
+        "sha1": "006c5e05fef227741196e8560f91b3013100c189",
+        "crc32": "5972982e"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 03).bin",
+      "filesize": 20231904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50f0ca65e23307fb544c0eaa155b499d",
+        "sha1": "dff3762e7c81813b5268f334fbfcb4bb48eb8cf2",
+        "crc32": "a20b3a1b"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 04).bin",
+      "filesize": 22689744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e610ce2ed8a475f9e9aa085619174659",
+        "sha1": "49e732651ad2749314cc8c7b97651c2f3a90ee29",
+        "crc32": "282d45a0"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 05).bin",
+      "filesize": 31977792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6020d38bf6c2e3e9a984602e8c572035",
+        "sha1": "e9b4f25da828d920534c8da689466079e1ba6ab3",
+        "crc32": "d9e6530d"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 06).bin",
+      "filesize": 31488576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2edb23ea2b9dca92800ce9581901a122",
+        "sha1": "c77f5c7ad457e1a7db7a647ac6b1d44dd490f431",
+        "crc32": "d18397e1"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 07).bin",
+      "filesize": 32808048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "710b20650da9a0ad24cd5b0755098b94",
+        "sha1": "14a97f5b1a537053c1abad0d63432ba872a78bd3",
+        "crc32": "63e83018"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 08).bin",
+      "filesize": 31149888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02bc246edf7d920347be7946363f775e",
+        "sha1": "7fa97876fd59b6d30c3aa417b58bcac406afbcf4",
+        "crc32": "4bb308cc"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 09).bin",
+      "filesize": 33029136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e033fe564ea83b3a233a0daefa9c7ee2",
+        "sha1": "d33b1245858fa7731b0404546f078f41be3c7032",
+        "crc32": "4a132cc7"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 10).bin",
+      "filesize": 3325728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a112d19ea64fdeef0646c85873b35b5",
+        "sha1": "b10a6732bd408645ae9a7da7f5dae99b2d7bf523",
+        "crc32": "100e1fdd"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 11).bin",
+      "filesize": 5771808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71d969d198a1cf4f4f3cac5dfb4b6272",
+        "sha1": "28328d9417d8710a9edc787a8897bac8611900da",
+        "crc32": "935ba11a"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 12).bin",
+      "filesize": 32102448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73ebd19fde8c8b0dfffb35266085be5b",
+        "sha1": "58607f67d90247733382ff3e45461ad9b9fe7d61",
+        "crc32": "03958bdf"
+      }
+    },
+    {
+      "filename": "Vegas Casino (Europe) (Track 13).bin",
+      "filesize": 32102448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73ebd19fde8c8b0dfffb35266085be5b",
+        "sha1": "58607f67d90247733382ff3e45461ad9b9fe7d61",
+        "crc32": "03958bdf"
+      }
+    }
+  ]
+}

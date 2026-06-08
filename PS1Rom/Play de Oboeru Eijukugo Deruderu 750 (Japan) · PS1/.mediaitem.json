@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play de Oboeru Eijukugo Deruderu 750 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play de Oboeru Eijukugo Deruderu 750 (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40d7ed11bdb2a1451bcf0a8a51ae5d48",
+        "sha1": "823797d081b3f9d4b5311b28eec52ab538d44de4",
+        "crc32": "cdde5c26"
+      }
+    },
+    {
+      "filename": "Play de Oboeru Eijukugo Deruderu 750 (Japan).bin",
+      "filesize": 155201424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21c73d5cd1d344632292bcef2ea19ef4",
+        "sha1": "cd171c0bffbac82fbe0e49deac5f343fe0b00d1b",
+        "crc32": "6903b895"
+      }
+    }
+  ]
+}

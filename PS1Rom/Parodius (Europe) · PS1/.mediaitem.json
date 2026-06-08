@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parodius (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parodius (Europe).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "684570c104a546e2196428df0dba450b",
+        "sha1": "b78043e52786b477cc83d85aaf83306ab5068d32",
+        "crc32": "026fdff2"
+      }
+    },
+    {
+      "filename": "Parodius (Europe).bin",
+      "filesize": 522741408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6876275f34e437a99d1bc07d176dcd38",
+        "sha1": "74d0354150980277407244053e82db8476c58832",
+        "crc32": "3d46aeea"
+      }
+    }
+  ]
+}

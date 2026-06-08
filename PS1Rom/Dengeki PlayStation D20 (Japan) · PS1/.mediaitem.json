@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D20 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D20 (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f198028a02f3acf55f7d1241bc745c19",
+        "sha1": "969283dc065888067333b5852b41983602499797",
+        "crc32": "78afaf64"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D20 (Japan) (Track 1).bin",
+      "filesize": 665674800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c34bd0a01c08cd48290294ea4f5c3b3",
+        "sha1": "44500526b10fd433f91e4e94d7cea593bf0f4873",
+        "crc32": "85919ceb"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D20 (Japan) (Track 2).bin",
+      "filesize": 17578848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4123f17de5aac67373fd09a433198647",
+        "sha1": "df3a17138672743bb7d6d4dd35cba183b85b8e64",
+        "crc32": "9c7131ba"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D20 (Japan) (Track 3).bin",
+      "filesize": 25180512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ad8c6fd18e5b4d3ee23ef3f9baaac16",
+        "sha1": "09a05676fa4a594b3800a6a2137af9e74d081750",
+        "crc32": "f92a4af4"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D20 (Japan) (Track 4).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

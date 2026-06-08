@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "You Don't Know Jack - Mock 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "You Don't Know Jack - Mock 2 (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2e5568e1e99c88a11b5abdfd2a24561d",
+        "sha1": "7766f41653fe3fc3449dca3a28165d28ef2e2efb",
+        "crc32": "2e083fa5"
+      }
+    },
+    {
+      "filename": "You Don't Know Jack - Mock 2 (USA).bin",
+      "filesize": 645414672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2ed992dd11dd617765620a22ae2ee9c",
+        "sha1": "a5bd93177ad7d2f8ce23b378c24395bd5c69a8a6",
+        "crc32": "84233878"
+      }
+    }
+  ]
+}

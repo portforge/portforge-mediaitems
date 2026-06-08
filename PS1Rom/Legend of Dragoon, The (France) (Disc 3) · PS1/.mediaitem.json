@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Dragoon, The (France) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Dragoon, The (France) (Disc 3).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e5f7a7477a503065500fc8d03bc9cee",
+        "sha1": "1c20331f82b4891e07e94deec2f6cb4fee3cbc38",
+        "crc32": "a189e753"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (France) (Disc 3).bin",
+      "filesize": 549855264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f560b1821673b8ac32ca54fde3d9dee2",
+        "sha1": "d6670267ce7f50ce5e6ea604d042fdaf5c5ce172",
+        "crc32": "6d8b0103"
+      }
+    }
+  ]
+}

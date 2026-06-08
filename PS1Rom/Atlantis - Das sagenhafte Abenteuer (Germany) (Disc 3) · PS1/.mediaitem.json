@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9dd0d2a4df30fb4d0252afee19a799bb",
+        "sha1": "8c4befeaa59001b2017065d9e223d124e5a88382",
+        "crc32": "e209943c"
+      }
+    },
+    {
+      "filename": "Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 3).bin",
+      "filesize": 714088368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8430c4ce8a468c939cd9f8c9cf9590d7",
+        "sha1": "dd2164ae95ca372a453f4ee5c960d43f7cd42c5e",
+        "crc32": "ea8792db"
+      }
+    }
+  ]
+}

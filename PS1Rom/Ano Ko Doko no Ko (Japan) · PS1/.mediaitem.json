@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ano Ko Doko no Ko (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ano Ko Doko no Ko (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a136b54f1c2312867340e5d8e75eb379",
+        "sha1": "5ff3a5627b2bdeac3f2347d9104694d85db1cb42",
+        "crc32": "82aa6d15"
+      }
+    },
+    {
+      "filename": "Ano Ko Doko no Ko (Japan).bin",
+      "filesize": 605642352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77dfc3533fe23ee413732b7312365661",
+        "sha1": "d14f6d0afebd8cbcdd4a84443d5443b3ed9a13db",
+        "crc32": "9bba9c3f"
+      }
+    }
+  ]
+}

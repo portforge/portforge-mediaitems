@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X2 - No Relief (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X2 - No Relief (Europe).cue",
+      "filesize": 1398,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd47c339aca9cb88a03caa7f8a1d3f41",
+        "sha1": "b27979845d9de59ec8e67196cbb43f550c95f007",
+        "crc32": "1e1fadbe"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 01).bin",
+      "filesize": 259129248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4075cc31a23dcb2c084a2bad679203b4",
+        "sha1": "c28e94725020b732aa9a3f2b605a94f63005dc28",
+        "crc32": "f5695de4"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 02).bin",
+      "filesize": 22532160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23731d6175415c01b1ce597a89cdfac0",
+        "sha1": "b90d30a8b8e54c791e9a92ce6558d61a2c7c388a",
+        "crc32": "2c62dbf4"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 03).bin",
+      "filesize": 22532160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6e3eff2290fcbaa535ece8522914ed5",
+        "sha1": "44e632a8bf902d7d2ba7641b1e4df250f52545ca",
+        "crc32": "3895610e"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 04).bin",
+      "filesize": 22492176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f182ebec22112a6e1df6813ddd2869ec",
+        "sha1": "b0df61430efc6b0c10c931f703610a8cecc4da98",
+        "crc32": "10485699"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 05).bin",
+      "filesize": 22381632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88059dd4efe5d9aa7ade8aceccd7ec0e",
+        "sha1": "b6a5ac88830357c8479ff949cad6c99fda26e64e",
+        "crc32": "545f8845"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 06).bin",
+      "filesize": 22391040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5b74e0cf5ca359ebe4b07235a55d503",
+        "sha1": "c796299d7fd116b53aaa7379c62c6415235d6107",
+        "crc32": "7a65dbc6"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 07).bin",
+      "filesize": 22304016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cb6dfd4a68cde0e4641d629923b23df",
+        "sha1": "000e8a867b31ea431a43c1a43f5d165a983be96a",
+        "crc32": "e98b1f7f"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 08).bin",
+      "filesize": 21772464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee182ee606c3a269755b06cef653d3b4",
+        "sha1": "e39a27be19d0fcdf01600d6658daf620dd04e079",
+        "crc32": "659d85e1"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 09).bin",
+      "filesize": 22633296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a785f2c79d1ac4556bc15446e437fc12",
+        "sha1": "5148505726eafbace593c90609c13809e03e0699",
+        "crc32": "2a2f3b60"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 10).bin",
+      "filesize": 21833616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72d86aee637691f10d143e3e057b2de4",
+        "sha1": "f49bb26ef697c5700f0c08a13c5feea00dae8d7a",
+        "crc32": "04ca95c5"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 11).bin",
+      "filesize": 37523808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20199193a6578f4b105e48078d04b9ce",
+        "sha1": "8b51083e0d4c96f597b3ed452e11457a43bfd2d3",
+        "crc32": "efd4dafa"
+      }
+    },
+    {
+      "filename": "X2 - No Relief (Europe) (Track 12).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

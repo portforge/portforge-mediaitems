@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Macross Plus - Game Edition (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Macross Plus - Game Edition (Japan) (Demo).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "847a5ab8137feaa83700ad1e59639ac2",
+        "sha1": "06fce3b980994ddd94e462210c5980e0ad179528",
+        "crc32": "dcbe2425"
+      }
+    },
+    {
+      "filename": "Macross Plus - Game Edition (Japan) (Demo).bin",
+      "filesize": 239360688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36a69b98d7ca39824aaa28253d627edb",
+        "sha1": "3c5dcb1a075edda31206adb7a8e636681539e727",
+        "crc32": "6b27272b"
+      }
+    }
+  ]
+}

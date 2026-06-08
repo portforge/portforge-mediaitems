@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Collection (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Collection (Europe) (Disc 2).cue",
+      "filesize": 261,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2edf12260d66bc5a860464f6abec2ae",
+        "sha1": "59e75a99dd52e9f96303d2ea08a6baf6ab7d7907",
+        "crc32": "4c9ea747"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (Europe) (Disc 2) (Track 1).bin",
+      "filesize": 596500128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edf6edbd7e137054e708864290bcc24f",
+        "sha1": "700f2b0979c121dcbf2c1e5665ad481fc2b26b04",
+        "crc32": "0570e142"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (Europe) (Disc 2) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95778ecc86eb912de2662843b7bc51b9",
+        "sha1": "b0b4f44091ac76b0c7106a62e2f5cb8ec70775fc",
+        "crc32": "9ec1265d"
+      }
+    }
+  ]
+}

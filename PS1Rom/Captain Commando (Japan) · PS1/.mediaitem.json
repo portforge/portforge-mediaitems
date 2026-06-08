@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Captain Commando (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Captain Commando (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef46feabbf7e0a7b1d76601ddc909cd4",
+        "sha1": "5e1e81a280d095e0494e2c9980e8b8d02b66bf99",
+        "crc32": "bf1712d6"
+      }
+    },
+    {
+      "filename": "Captain Commando (Japan).bin",
+      "filesize": 658153104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c1c1ea5b222e0c08fe208517d51af2f",
+        "sha1": "9fff49e4ed813054daa997d47d8284fe95c46bf3",
+        "crc32": "8e345234"
+      }
+    }
+  ]
+}

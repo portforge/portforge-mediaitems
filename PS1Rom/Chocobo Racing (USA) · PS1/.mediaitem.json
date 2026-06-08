@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chocobo Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chocobo Racing (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7909bb9327b0972e02a911c18fa111a2",
+        "sha1": "b26badbaf75a9b294f274c99019aa9ac59ecabb0",
+        "crc32": "7603d64c"
+      }
+    },
+    {
+      "filename": "Chocobo Racing (USA).bin",
+      "filesize": 364955136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "338e9200e6f12cf0eea36527c5bda251",
+        "sha1": "32dc25601021ea2c8816eb8c817d31ff25fa84f3",
+        "crc32": "61bf4956"
+      }
+    }
+  ]
+}

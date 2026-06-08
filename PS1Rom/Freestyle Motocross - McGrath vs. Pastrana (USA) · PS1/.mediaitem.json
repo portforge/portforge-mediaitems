@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Freestyle Motocross - McGrath vs. Pastrana (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Freestyle Motocross - McGrath vs. Pastrana (USA).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a74078b5a694ca71e2f64125f1c55ff2",
+        "sha1": "b30322851e8a3c240db3046e7425c204a67b4dbb",
+        "crc32": "8deffae8"
+      }
+    },
+    {
+      "filename": "Freestyle Motocross - McGrath vs. Pastrana (USA) (Track 1).bin",
+      "filesize": 165423216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edcf8dabc9e81b438c99dc0b1e0acb72",
+        "sha1": "9df7a2591c67c25d191b77c72e7bb651a2dcb62a",
+        "crc32": "af163939"
+      }
+    },
+    {
+      "filename": "Freestyle Motocross - McGrath vs. Pastrana (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

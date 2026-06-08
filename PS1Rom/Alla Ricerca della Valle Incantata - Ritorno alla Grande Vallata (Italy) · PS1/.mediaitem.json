@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alla Ricerca della Valle Incantata - Ritorno alla Grande Vallata (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alla Ricerca della Valle Incantata - Ritorno alla Grande Vallata (Italy).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1ea11d0fad08c414a729d6780f2a44f",
+        "sha1": "8303885d82a76658f42d4b1077d0d47d69347548",
+        "crc32": "897619f0"
+      }
+    },
+    {
+      "filename": "Alla Ricerca della Valle Incantata - Ritorno alla Grande Vallata (Italy).bin",
+      "filesize": 323225952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "323b9b4e11419e0626236d57f71e6a95",
+        "sha1": "983b896b96d6e5756f3e8fa176d495ea8853cf37",
+        "crc32": "43368604"
+      }
+    }
+  ]
+}

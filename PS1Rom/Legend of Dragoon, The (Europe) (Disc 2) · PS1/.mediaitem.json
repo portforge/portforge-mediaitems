@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Dragoon, The (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Dragoon, The (Europe) (Disc 2).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1996d74e440ac5f20793845a87b23255",
+        "sha1": "ce17862a105c231d51a2cf08f32c9f134ad20a92",
+        "crc32": "a5433c19"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (Europe) (Disc 2).bin",
+      "filesize": 531806016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50863fc0f489838a68a0a86eb95e4716",
+        "sha1": "c3a2137dcfcbb8911da0f486a89485e49ffd5a27",
+        "crc32": "cbc76d43"
+      }
+    }
+  ]
+}

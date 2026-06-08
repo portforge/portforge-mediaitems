@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Barbie - Explorer (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Barbie - Explorer (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd6c3dd19a911fdbaeedaa6212969923",
+        "sha1": "20a4e9aa45f08a5466c5f41c71766674d9a56835",
+        "crc32": "bf91a4b4"
+      }
+    },
+    {
+      "filename": "Barbie - Explorer (Germany).bin",
+      "filesize": 315607824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f544914adb7ceee0a7cfe4881631f3d",
+        "sha1": "b77dc3ddf8e3d8c6205beb9d8bd30c06225f5794",
+        "crc32": "abf89765"
+      }
+    }
+  ]
+}

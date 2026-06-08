@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ford Truck Mania (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ford Truck Mania (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d20480af482fba5929c343cee77081a",
+        "sha1": "10ff1494a767a80c61eebae89d54ce1d85dd4101",
+        "crc32": "de3387d9"
+      }
+    },
+    {
+      "filename": "Ford Truck Mania (USA).bin",
+      "filesize": 248759280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02cbfd1ef4e110a58f53918fca80cff5",
+        "sha1": "e8f106478af3cef0715bd7bd3c8f467b06563007",
+        "crc32": "a4f40380"
+      }
+    }
+  ]
+}

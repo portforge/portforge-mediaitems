@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Choro Q Marine - Q-Boat (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Choro Q Marine - Q-Boat (Japan) (Demo).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00ba8dd8fe8d64f1900c5292667de04c",
+        "sha1": "ca3634c3d61ce69bd73a8edad2f9c8b50944d6b6",
+        "crc32": "045029e2"
+      }
+    },
+    {
+      "filename": "Choro Q Marine - Q-Boat (Japan) (Demo) (Track 1).bin",
+      "filesize": 331617888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03bc694a01b1e52252dbb23ab73fda90",
+        "sha1": "1413c412379accdb5a629b4248f41d8744b8d73c",
+        "crc32": "58f84c77"
+      }
+    },
+    {
+      "filename": "Choro Q Marine - Q-Boat (Japan) (Demo) (Track 2).bin",
+      "filesize": 35305872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ee0fe03e87d37e5cea821117c3e665f",
+        "sha1": "73f6d736eaa4c71d5afba1a726617808028127b1",
+        "crc32": "29a54482"
+      }
+    }
+  ]
+}

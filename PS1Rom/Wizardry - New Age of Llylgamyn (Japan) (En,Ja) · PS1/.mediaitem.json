@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wizardry - New Age of Llylgamyn (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wizardry - New Age of Llylgamyn (Japan) (En,Ja).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ee09e2ffaf6f326401ee4c1fa6277bf",
+        "sha1": "41b1f3d4bd1e6f47e75c5565912c5616d9b58278",
+        "crc32": "d631c54a"
+      }
+    },
+    {
+      "filename": "Wizardry - New Age of Llylgamyn (Japan) (En,Ja).bin",
+      "filesize": 703974768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9053017c464d1c85c75ee2ba08ab77b4",
+        "sha1": "97941101df7948e6a1f3904bdc887d67acf45134",
+        "crc32": "4cde402c"
+      }
+    }
+  ]
+}

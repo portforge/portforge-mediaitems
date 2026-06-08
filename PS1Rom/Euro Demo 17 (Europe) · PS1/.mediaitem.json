@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 17 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 17 (Europe).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b5641f25fdf58556f079aad0cbebddc",
+        "sha1": "b62ba46e548227afa3cc407fbd8a9c3f69128f1e",
+        "crc32": "3be731fd"
+      }
+    },
+    {
+      "filename": "Euro Demo 17 (Europe) (Track 1).bin",
+      "filesize": 269506272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a39dae6012957c2a73a6305938538090",
+        "sha1": "5ed589f200b01d807bd5194d8131bee5d5ac6408",
+        "crc32": "ffe0e862"
+      }
+    },
+    {
+      "filename": "Euro Demo 17 (Europe) (Track 2).bin",
+      "filesize": 40630800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36d44044ca3d2193b130adf961fc6dfc",
+        "sha1": "d68cf9531668879c0a39a176126f8dbaaeb9e5af",
+        "crc32": "0940876a"
+      }
+    },
+    {
+      "filename": "Euro Demo 17 (Europe) (Track 3).bin",
+      "filesize": 33889968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fadd596551fa53188b74269c18358ea",
+        "sha1": "4b0a67c1db2a8a65f78865f1e86d75c7be37545e",
+        "crc32": "cd281d75"
+      }
+    }
+  ]
+}

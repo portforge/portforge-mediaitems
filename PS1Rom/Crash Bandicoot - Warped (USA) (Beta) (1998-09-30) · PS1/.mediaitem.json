@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot - Warped (USA) (Beta) (1998-09-30)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot - Warped (USA) (Beta) (1998-09-30).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "64b8f9d1ae75c9a8f63ea6a17a55a588",
+        "sha1": "ae6f738088ee2dbdb376e9f8ab563b485acf96df",
+        "crc32": "208666f3"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot - Warped (USA) (Beta) (1998-09-30).bin",
+      "filesize": 237410880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4eae6d57bfedd0704fc66a87947a750e",
+        "sha1": "2dde76a79f7fdfb72931f196b09dbed75bfdd528",
+        "crc32": "5f72aed3"
+      }
+    }
+  ]
+}

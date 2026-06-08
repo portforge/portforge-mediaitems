@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e00ab21dced9d4ca314745fbaa8c091e",
+        "sha1": "48ecb1b036a7ce96373cd33f92d299991b9ac577",
+        "crc32": "77a8e0dc"
+      }
+    },
+    {
+      "filename": "CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 514043712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "198808ce03f373be3d968c6391fb5f06",
+        "sha1": "ff50f910ed1d4cc897d7e883126e1a9e4387e518",
+        "crc32": "274801b4"
+      }
+    }
+  ]
+}

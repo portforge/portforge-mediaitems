@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thrasher - Skate and Destroy (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thrasher - Skate and Destroy (USA) (Demo).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbdc7205f8249d15aa339df5e2dbb435",
+        "sha1": "e643df934de5b34507156fe238e9a361a745ff0f",
+        "crc32": "1e477ff9"
+      }
+    },
+    {
+      "filename": "Thrasher - Skate and Destroy (USA) (Demo).bin",
+      "filesize": 35254128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4feafd01cee6794686a714be68ce526",
+        "sha1": "6181ca097180c0e8a135ffb8ac04a43a66541e69",
+        "crc32": "032dc4c0"
+      }
+    }
+  ]
+}

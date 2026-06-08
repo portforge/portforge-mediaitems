@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kunoichi Torimonochou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kunoichi Torimonochou (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00f1d3e59c8fbd31428f706a1feb5593",
+        "sha1": "dbc93ba868f03f9773f1d5b8480c4380cd7c6671",
+        "crc32": "7fc13f52"
+      }
+    },
+    {
+      "filename": "Kunoichi Torimonochou (Japan).bin",
+      "filesize": 688364544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8453500185b8effeef288f0bf828dff7",
+        "sha1": "64228f4f2ac150b377b9b899c4fe281c1495de04",
+        "crc32": "f7644bf8"
+      }
+    }
+  ]
+}

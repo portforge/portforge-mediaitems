@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pocke-Kano - Houjouin Shizuka (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pocke-Kano - Houjouin Shizuka (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6096ce90fb63978f1650d208dede32c",
+        "sha1": "288337404984a2551fd0449e1677c73f2b310973",
+        "crc32": "3e21e091"
+      }
+    },
+    {
+      "filename": "Pocke-Kano - Houjouin Shizuka (Japan).bin",
+      "filesize": 484617840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f70f627b996a5c35012cf501bdbe482",
+        "sha1": "851a67ae0edc8c22886158193a09064bf5ecf499",
+        "crc32": "6dc19a1a"
+      }
+    }
+  ]
+}

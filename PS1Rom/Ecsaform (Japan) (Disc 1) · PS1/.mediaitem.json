@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ecsaform (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ecsaform (Japan) (Disc 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f3f26776dfb7a3894c4996f737443fb7",
+        "sha1": "82da0845d880e4c22a3b26decf29fb78847fa01d",
+        "crc32": "a1247cbc"
+      }
+    },
+    {
+      "filename": "Ecsaform (Japan) (Disc 1).bin",
+      "filesize": 387830688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71ab85bd8612e0d894d23abadeaaa107",
+        "sha1": "85b07ab489923bca11155ca0831f1a1e9b43bc74",
+        "crc32": "80b633d3"
+      }
+    }
+  ]
+}

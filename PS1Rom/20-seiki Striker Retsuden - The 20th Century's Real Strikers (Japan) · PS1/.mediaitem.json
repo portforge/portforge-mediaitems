@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "20-seiki Striker Retsuden - The 20th Century's Real Strikers (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "20-seiki Striker Retsuden - The 20th Century's Real Strikers (Japan).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04685e886cb39ed8a990308da7ed6043",
+        "sha1": "6d611675bef47d97d3896221c17fdc69977848a2",
+        "crc32": "9b7f6ae6"
+      }
+    },
+    {
+      "filename": "20-seiki Striker Retsuden - The 20th Century's Real Strikers (Japan).bin",
+      "filesize": 567690480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c916beebb9276eea17fde1cef463742",
+        "sha1": "6460961a23168994407c2dec5403a4f4ff4ab08d",
+        "crc32": "71823d4f"
+      }
+    }
+  ]
+}

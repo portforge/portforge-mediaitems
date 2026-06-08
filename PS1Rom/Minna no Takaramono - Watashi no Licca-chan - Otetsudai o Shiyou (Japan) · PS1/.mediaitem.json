@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Minna no Takaramono - Watashi no Licca-chan - Otetsudai o Shiyou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Minna no Takaramono - Watashi no Licca-chan - Otetsudai o Shiyou (Japan).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a3803cf6e06b16bde00b5f86d8e2df28",
+        "sha1": "f49789bc7a994ed6b1bdb97458c2fa5940b8cbdf",
+        "crc32": "249d9cc6"
+      }
+    },
+    {
+      "filename": "Minna no Takaramono - Watashi no Licca-chan - Otetsudai o Shiyou (Japan).bin",
+      "filesize": 228894288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6618a1089eb969fd944ace1c7f76635f",
+        "sha1": "29b7b1ce93078fbd05ce6f1a41ac39934975e67a",
+        "crc32": "bdc39daa"
+      }
+    }
+  ]
+}

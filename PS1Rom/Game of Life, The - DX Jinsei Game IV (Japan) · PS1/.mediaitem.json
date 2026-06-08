@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game of Life, The - DX Jinsei Game IV (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game of Life, The - DX Jinsei Game IV (Japan).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b4fbf5bba6838070ba86e87a8217458",
+        "sha1": "541d6b175715a3b0f4fe7884a4d65ad9269a02b1",
+        "crc32": "eb081773"
+      }
+    },
+    {
+      "filename": "Game of Life, The - DX Jinsei Game IV (Japan) (Track 1).bin",
+      "filesize": 286384224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c535fd7784046f637a3e345c7645b5d2",
+        "sha1": "2b59346f0ebd12e031aa84ac585adf6090abec54",
+        "crc32": "ebf19b47"
+      }
+    },
+    {
+      "filename": "Game of Life, The - DX Jinsei Game IV (Japan) (Track 2).bin",
+      "filesize": 33365472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "820bb7e94928b06f1f7a6237bca80c94",
+        "sha1": "448d5eb9aa20d20bd204a63e6263d8cfd0d5b747",
+        "crc32": "7d963265"
+      }
+    }
+  ]
+}

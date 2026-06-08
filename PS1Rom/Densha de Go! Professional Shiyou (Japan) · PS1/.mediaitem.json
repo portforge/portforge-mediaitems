@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Densha de Go! Professional Shiyou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Densha de Go! Professional Shiyou (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cae0d9b222d35864713cc9be6dde8cb7",
+        "sha1": "1fc437d4f402fa4f7db4165502f17a22626e0a77",
+        "crc32": "ae5852d0"
+      }
+    },
+    {
+      "filename": "Densha de Go! Professional Shiyou (Japan).bin",
+      "filesize": 748921488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e487c1fa9f4e2b886ff24c0ab977606",
+        "sha1": "d543e94f5d311e1ece5d355d69710fc277fd4045",
+        "crc32": "dbf9b589"
+      }
+    }
+  ]
+}

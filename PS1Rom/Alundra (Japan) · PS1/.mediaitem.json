@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alundra (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alundra (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c4b28a281acf4d5e44f0ec072e110f2",
+        "sha1": "15eaebec98aa25d3a18e05aef23432b06d4132da",
+        "crc32": "5ffa5864"
+      }
+    },
+    {
+      "filename": "Alundra (Japan).bin",
+      "filesize": 493049760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c889bc7a10d90a8029ba1390577272c0",
+        "sha1": "073295bb0ccbac738ecabae8c604f32ad20e0b50",
+        "crc32": "116d11c9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Minna no Golf 2 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Minna no Golf 2 (Japan) (Rev 1).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2ff085982c009c8e056b178fb1df6d63",
+        "sha1": "01c85d9c9d671a94063ba7a04a4c540ab739a4ff",
+        "crc32": "98b11cb5"
+      }
+    },
+    {
+      "filename": "Minna no Golf 2 (Japan) (Rev 1).bin",
+      "filesize": 319062912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffba2e7586d774612637c68cf86c4c89",
+        "sha1": "c409f4e64a5718780f4dcca9e32fc82ee9675239",
+        "crc32": "9e7c45e6"
+      }
+    }
+  ]
+}

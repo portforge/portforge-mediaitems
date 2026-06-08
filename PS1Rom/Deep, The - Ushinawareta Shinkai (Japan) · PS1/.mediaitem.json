@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Deep, The - Ushinawareta Shinkai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Deep, The - Ushinawareta Shinkai (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2159ae306b13b5291e8ffb1616176016",
+        "sha1": "74fd2df64af1bd94db97b6edf53722f4755f78ec",
+        "crc32": "d08253a9"
+      }
+    },
+    {
+      "filename": "Deep, The - Ushinawareta Shinkai (Japan).bin",
+      "filesize": 271665408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfb23428337a95f1375e8809a0812d97",
+        "sha1": "f45da0ce000e6b6a83fa0a6c8ac478e1af81db89",
+        "crc32": "6dbc5b64"
+      }
+    }
+  ]
+}

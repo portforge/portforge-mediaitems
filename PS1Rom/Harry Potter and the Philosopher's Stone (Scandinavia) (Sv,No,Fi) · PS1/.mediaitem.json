@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harry Potter and the Philosopher's Stone (Scandinavia) (Sv,No,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harry Potter and the Philosopher's Stone (Scandinavia) (Sv,No,Fi).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0085fd67bedee36546b07f71231a0805",
+        "sha1": "ca78e9d93cf2996b0223138b2bebe3ee9634e000",
+        "crc32": "ddcd4690"
+      }
+    },
+    {
+      "filename": "Harry Potter and the Philosopher's Stone (Scandinavia) (Sv,No,Fi).bin",
+      "filesize": 587482560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "878b676c9904eecc91e103a7baf10e21",
+        "sha1": "9cfdf80708341f09cb88fa741246a916bc5740a3",
+        "crc32": "4cab2987"
+      }
+    }
+  ]
+}

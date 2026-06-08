@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Head to Toe 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Head to Toe 2 (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "91cc90abfe478a05fb65acd315766a66",
+        "sha1": "4141afc7a5e87a772f05c42ab8bde7c320e2ff38",
+        "crc32": "b703d37c"
+      }
+    },
+    {
+      "filename": "Head to Toe 2 (USA).bin",
+      "filesize": 622263936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "351ca08bb536322d99cdfbb91e1764aa",
+        "sha1": "aa778dc50a9ec59484d8651a253619ccd64bb162",
+        "crc32": "b6287eb2"
+      }
+    }
+  ]
+}

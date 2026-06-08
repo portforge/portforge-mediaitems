@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slotter Mania 9 - Gokunetsu 30 Phi! Haibi & Splash Seven (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slotter Mania 9 - Gokunetsu 30 Phi! Haibi & Splash Seven (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "604d70089dbf6f07eb056bae01d1cb85",
+        "sha1": "0e7fafcba3144b2bedef3a7c4281b804707c7035",
+        "crc32": "4d9dda23"
+      }
+    },
+    {
+      "filename": "Slotter Mania 9 - Gokunetsu 30 Phi! Haibi & Splash Seven (Japan).bin",
+      "filesize": 49702464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad0dd64fe1846b5da464cd349cadeaff",
+        "sha1": "6647b80d86a812598d296257e61ebd1651613b91",
+        "crc32": "224a43d8"
+      }
+    }
+  ]
+}

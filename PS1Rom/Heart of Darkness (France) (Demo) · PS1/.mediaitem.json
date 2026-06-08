@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heart of Darkness (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heart of Darkness (France) (Demo).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0b31c53e48fb58e77fa51a29675b887",
+        "sha1": "88a49499572bb86e6fcaca3058faf0e73bdba49c",
+        "crc32": "62287119"
+      }
+    },
+    {
+      "filename": "Heart of Darkness (France) (Demo).bin",
+      "filesize": 312383232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb3857d2bfc3d72bab62f5b17570fd3a",
+        "sha1": "4f19def6c4368abc9e67215f7dc2585cc26585df",
+        "crc32": "d165dfd6"
+      }
+    }
+  ]
+}

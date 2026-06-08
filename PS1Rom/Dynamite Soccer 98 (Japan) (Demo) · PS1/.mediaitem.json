@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dynamite Soccer 98 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dynamite Soccer 98 (Japan) (Demo).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a9fbb3b936acde87a8ed18620d519c0a",
+        "sha1": "ac2f4e499998e006b9d989b01bc0d9ebba902c7a",
+        "crc32": "0bc5d98c"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 98 (Japan) (Demo) (Track 1).bin",
+      "filesize": 3647952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8b4ee41e2fe7e47076702cd77c7469c",
+        "sha1": "ed021e41a3d06d9463d7f67d4f80d508a3e37141",
+        "crc32": "8381f5f7"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 98 (Japan) (Demo) (Track 2).bin",
+      "filesize": 32067168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52345750c72085db9c5761f1f4032c63",
+        "sha1": "ad5b4362ade1fda65c7d55fd37d1910a8bbc7387",
+        "crc32": "6a6b1d4f"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 98 (Japan) (Demo) (Track 3).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32772a7d5caba5e3b875a9f003758383",
+        "sha1": "354b3c4d850c45e309a748c834d96a13f112dedf",
+        "crc32": "1428b715"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Capcom Generations (Germany) (Disc 3) (The First Generation)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Capcom Generations (Germany) (Disc 3) (The First Generation).cue",
+      "filesize": 290,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad1c0421a69aa4b6d18346c990ed835c",
+        "sha1": "62ceb94d4a1b9416f5899eb69c4e34cd1997de55",
+        "crc32": "47e9dbcd"
+      }
+    },
+    {
+      "filename": "Capcom Generations (Germany) (Disc 3) (The First Generation) (Track 1).bin",
+      "filesize": 492628752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5307ea59f9cf22437bf794a87946550",
+        "sha1": "fef59185e30bef9f8c8496e61a78fae5f7d94368",
+        "crc32": "6a2a9b9d"
+      }
+    },
+    {
+      "filename": "Capcom Generations (Germany) (Disc 3) (The First Generation) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

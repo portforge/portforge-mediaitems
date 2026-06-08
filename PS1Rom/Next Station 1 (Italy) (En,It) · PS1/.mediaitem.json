@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next Station 1 (Italy) (En,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next Station 1 (Italy) (En,It).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "91f0f9d1464170b7389f3bfb99d04b8f",
+        "sha1": "43523139731c5ffd6ef38c66bc0514aa85fead80",
+        "crc32": "be831b7a"
+      }
+    },
+    {
+      "filename": "Next Station 1 (Italy) (En,It) (Track 1).bin",
+      "filesize": 543309648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2232b9ac891423709c2ba5f3c159362d",
+        "sha1": "3235c07e1dbdfe391af11eeaf1d5faefc30889a8",
+        "crc32": "2e621439"
+      }
+    },
+    {
+      "filename": "Next Station 1 (Italy) (En,It) (Track 2).bin",
+      "filesize": 42956928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5043a3cdc409952003c195873beecb13",
+        "sha1": "e41364c6cbb0d7c4810d36d63b850dd7ece6af18",
+        "crc32": "e1471ad7"
+      }
+    }
+  ]
+}

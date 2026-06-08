@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Infinity (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Infinity (Japan) (Rev 1).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "02b68cb954950ca1f5d1fd9d4537ba1b",
+        "sha1": "0e7dc514175343858ede5dc083ff45cdd27605f3",
+        "crc32": "f016ecd9"
+      }
+    },
+    {
+      "filename": "Infinity (Japan) (Rev 1).bin",
+      "filesize": 556269168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87933929f72b7f171f9ee4f01c169fcd",
+        "sha1": "486784c56e4541eeefb46ad15262dcde74d0a7e1",
+        "crc32": "e384f09a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31c4d1658a97374f99511cf3c7311a66",
+        "sha1": "022aef24edaccfd0cc69c55656fc766144b05ac2",
+        "crc32": "3373916e"
+      }
+    },
+    {
+      "filename": "Maria - Kimitachi ga Umareta Wake (Japan) (Disc 3).bin",
+      "filesize": 652066128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8ecefd4a70184f40f2922b4850ad42a",
+        "sha1": "b0bd245a704f6c682676ce35d1dd71d22ed93264",
+        "crc32": "4416b372"
+      }
+    }
+  ]
+}

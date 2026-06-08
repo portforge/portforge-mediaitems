@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "StationMaster 1-2002 Xploder (Germany) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "StationMaster 1-2002 Xploder (Germany) (Unl).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4afd4546a04fb7fda974fd3383fa85f7",
+        "sha1": "aee8f20912d1764d530076cbf858e788d3dd23ea",
+        "crc32": "6875c99a"
+      }
+    },
+    {
+      "filename": "StationMaster 1-2002 Xploder (Germany) (Unl).bin",
+      "filesize": 7432320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "478952500e6fce6db4b5a68122a74bc2",
+        "sha1": "ea5e8066810faff246d444fdc46c1c0840198a86",
+        "crc32": "dffb44aa"
+      }
+    }
+  ]
+}

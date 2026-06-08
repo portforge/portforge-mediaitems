@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kotobuki Grand Prix - Mezase! Genchari King (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kotobuki Grand Prix - Mezase! Genchari King (Japan).cue",
+      "filesize": 272,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1914fce9ae08b80898f18f34b3683d8a",
+        "sha1": "3a57f3c0869ac2c6e278f9c1cb68065af01cb912",
+        "crc32": "782f609a"
+      }
+    },
+    {
+      "filename": "Kotobuki Grand Prix - Mezase! Genchari King (Japan) (Track 1).bin",
+      "filesize": 83427792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a163bc68faae40ba0249ac4ff30f4715",
+        "sha1": "efa9d4c7a7f8bf31464121e75257dd44c7a107a3",
+        "crc32": "1c3a227c"
+      }
+    },
+    {
+      "filename": "Kotobuki Grand Prix - Mezase! Genchari King (Japan) (Track 2).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31955d2214c853f99fcc37802ffc8140",
+        "sha1": "3cc86c95f769cfdfdc49d173cce3c87e75c40d9c",
+        "crc32": "641364c2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yuugen Gaisha Chikyuu Boueitai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yuugen Gaisha Chikyuu Boueitai (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a505d4cfd7d71246ab35760eb727c66",
+        "sha1": "4954110aa92e99a4e9a48ee2c54b1cc195efafb0",
+        "crc32": "eb439d37"
+      }
+    },
+    {
+      "filename": "Yuugen Gaisha Chikyuu Boueitai (Japan).bin",
+      "filesize": 481150992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a98c2edc1e4c7eae266bd5b71bd90a8",
+        "sha1": "753921a92d84f93a1a3b6b6397a7813f65e15c0a",
+        "crc32": "c2a268b8"
+      }
+    }
+  ]
+}

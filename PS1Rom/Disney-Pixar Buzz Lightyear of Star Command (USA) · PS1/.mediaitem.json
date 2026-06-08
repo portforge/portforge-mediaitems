@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Buzz Lightyear of Star Command (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Buzz Lightyear of Star Command (USA).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d16b6f46585cd83d71cd93899262de86",
+        "sha1": "b2b244fd23437506c12aecdbe412d2da138ae9a3",
+        "crc32": "e2ba45d1"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Buzz Lightyear of Star Command (USA).bin",
+      "filesize": 545920368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08ee967bda1550e0cb7b42c6b7e9ee84",
+        "sha1": "d9d3fd40148a074da3a15856dabb3339d21642e8",
+        "crc32": "60bb940a"
+      }
+    }
+  ]
+}

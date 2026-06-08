@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachi-Slot Station 4 - New Pulsar R & Hot Rod Queen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachi-Slot Station 4 - New Pulsar R & Hot Rod Queen (Japan).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d216e2bf1b9c74c8978ba3dc02e1f7ae",
+        "sha1": "970ab922e9e0829de9606a4f2871d03be9aa6a5c",
+        "crc32": "5802670a"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachi-Slot Station 4 - New Pulsar R & Hot Rod Queen (Japan).bin",
+      "filesize": 39214896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4a53e3b964dcd614b558997f9a32c7c",
+        "sha1": "5a2e46be82da2b30c11eb5d8a5afb263f4df5c04",
+        "crc32": "0fb20d84"
+      }
+    }
+  ]
+}

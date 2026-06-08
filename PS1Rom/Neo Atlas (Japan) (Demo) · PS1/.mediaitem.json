@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Neo Atlas (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Neo Atlas (Japan) (Demo).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "36571b9915d640563c9ce7706bec5aa7",
+        "sha1": "0614192b87b04a57ed9cc2dd36b9fe68838beefb",
+        "crc32": "031a9339"
+      }
+    },
+    {
+      "filename": "Neo Atlas (Japan) (Demo) (Track 1).bin",
+      "filesize": 49239120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae2c9987f0967c19f390667bcb4eebb6",
+        "sha1": "3fd8e9cc8fe2509ae6990e4aee8cc0754f2d6de0",
+        "crc32": "08cefa62"
+      }
+    },
+    {
+      "filename": "Neo Atlas (Japan) (Demo) (Track 2).bin",
+      "filesize": 32859792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4117f55940792b5550bd8a34a542295a",
+        "sha1": "301003e8d70e342209affa8a9d0f0bda95820fe7",
+        "crc32": "9a7c62f7"
+      }
+    }
+  ]
+}

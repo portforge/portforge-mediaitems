@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shutokou Battle R (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shutokou Battle R (Japan).cue",
+      "filesize": 815,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b36dff314b0954423218c11b605c7b2",
+        "sha1": "c092588766ca671a780da41ab3dba7e48d5c2236",
+        "crc32": "f234d339"
+      }
+    },
+    {
+      "filename": "Shutokou Battle R (Japan) (Track 1).bin",
+      "filesize": 482486928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8049f628366f482cf12508c3ff7f8968",
+        "sha1": "095abf47ac01bade4188a4feb1351872f7fde0a3",
+        "crc32": "4720443d"
+      }
+    },
+    {
+      "filename": "Shutokou Battle R (Japan) (Track 2).bin",
+      "filesize": 45071376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "124dd9c5322b48ad01ceac589e05baa7",
+        "sha1": "8ee9d864dc2535468601ac3fe51955bf9e26cabf",
+        "crc32": "9c48e480"
+      }
+    },
+    {
+      "filename": "Shutokou Battle R (Japan) (Track 3).bin",
+      "filesize": 48246576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b18c25ae4a0e8c90f886015fcf634720",
+        "sha1": "ceb4216635f10abc5c04bed665e2d2d01519dcd9",
+        "crc32": "ff91dd2b"
+      }
+    },
+    {
+      "filename": "Shutokou Battle R (Japan) (Track 4).bin",
+      "filesize": 42989856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37c9eae2272b5e2166bdb0b9d27427a5",
+        "sha1": "d378cfb00cc7608dd99dce3d67944989c0369eb9",
+        "crc32": "c722b568"
+      }
+    },
+    {
+      "filename": "Shutokou Battle R (Japan) (Track 5).bin",
+      "filesize": 43307376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfc45b84da1b929bd344a46ee51763ff",
+        "sha1": "58a1993a6ce76f4c926ed1290cfdf3c7383774d2",
+        "crc32": "a98f463f"
+      }
+    },
+    {
+      "filename": "Shutokou Battle R (Japan) (Track 6).bin",
+      "filesize": 43347360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7254dcaa516de8607e909c09ed464ccd",
+        "sha1": "c58c214409225fd431b4f8e6c834a45cc8e163df",
+        "crc32": "5427cb6c"
+      }
+    },
+    {
+      "filename": "Shutokou Battle R (Japan) (Track 7).bin",
+      "filesize": 45071376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "124dd9c5322b48ad01ceac589e05baa7",
+        "sha1": "8ee9d864dc2535468601ac3fe51955bf9e26cabf",
+        "crc32": "9c48e480"
+      }
+    }
+  ]
+}

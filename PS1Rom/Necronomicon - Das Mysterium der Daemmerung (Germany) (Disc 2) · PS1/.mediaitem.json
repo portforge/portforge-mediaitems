@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Necronomicon - Das Mysterium der Daemmerung (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Necronomicon - Das Mysterium der Daemmerung (Germany) (Disc 2).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a67e2a83d5618a4502e3e9a3e80333dd",
+        "sha1": "609ef6cc5b16d01d2508e59efba6630363248690",
+        "crc32": "21c02b6d"
+      }
+    },
+    {
+      "filename": "Necronomicon - Das Mysterium der Daemmerung (Germany) (Disc 2).bin",
+      "filesize": 722619072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a57cbf666803127a719fe8ca37de67a1",
+        "sha1": "065b709da047947cd7696ed2fcb8faf5a94aceb9",
+        "crc32": "447028a7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Descent (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Descent (USA).cue",
+      "filesize": 79,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c5484814ec4c20cf1132b7f1a15016b",
+        "sha1": "1c84f81f86bc4e2855f1df789711c86cff36a237",
+        "crc32": "9902a43f"
+      }
+    },
+    {
+      "filename": "Descent (USA).bin",
+      "filesize": 543620112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b766b857e47c323eb1e5571a049984a",
+        "sha1": "f0b9ec3a1077f8e0ca751bbdc933e6ea0f96daca",
+        "crc32": "08661f45"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ace Combat 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ace Combat 2 (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e9595f33aeca83354fe664b21aaa6857",
+        "sha1": "4bb2d90ae08650d1667ff1ea667d6dfecc5f8767",
+        "crc32": "28e7db3e"
+      }
+    },
+    {
+      "filename": "Ace Combat 2 (Europe).bin",
+      "filesize": 580831104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0adc79dc69d5be4720825e4b1c1820a7",
+        "sha1": "ba42b2b1486715ef87ef9615d9f29b2eeba28b32",
+        "crc32": "c8dd9a12"
+      }
+    }
+  ]
+}

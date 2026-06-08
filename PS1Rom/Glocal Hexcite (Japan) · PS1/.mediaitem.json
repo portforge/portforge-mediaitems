@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Glocal Hexcite (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Glocal Hexcite (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c71fda71ee9ebe1a529a541b8a29156",
+        "sha1": "b45b7ed0fbf29b8bb39e0b6d5571f013ebb41e59",
+        "crc32": "709b227d"
+      }
+    },
+    {
+      "filename": "Glocal Hexcite (Japan).bin",
+      "filesize": 539346528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b94566d4352f134097ac1548c93a05a",
+        "sha1": "0e107ede4e03f216cb8d7097fdc94ad9e61b38fc",
+        "crc32": "697cd8f0"
+      }
+    }
+  ]
+}

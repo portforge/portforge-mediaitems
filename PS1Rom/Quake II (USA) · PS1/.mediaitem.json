@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Quake II (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Quake II (USA).cue",
+      "filesize": 198,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21de1b6ea2c5238d07dd675645434b1d",
+        "sha1": "1ab829999a0219ee2143d7b8b0a50a0f9071cd3d",
+        "crc32": "b0b1a8b9"
+      }
+    },
+    {
+      "filename": "Quake II (USA) (Track 1).bin",
+      "filesize": 323642256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca6eb702916d24f928a265bbaca00235",
+        "sha1": "f936e7cc477b0daf456c86eff86acc82e7f549ce",
+        "crc32": "efbd3060"
+      }
+    },
+    {
+      "filename": "Quake II (USA) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0bcda18a061e585c3ddf7dbc45bd887",
+        "sha1": "aca5f81a73812e4e5f786edace39376fcc1be4b8",
+        "crc32": "82befabf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Destrega (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Destrega (USA).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e16cd60fff82b887efa91021399103b3",
+        "sha1": "735c088de2cf8cd7978fce728f581a638c0dfd45",
+        "crc32": "ebdfc9e9"
+      }
+    },
+    {
+      "filename": "Destrega (USA).bin",
+      "filesize": 569612064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcb3d888682544b9b0aaf98bcd052e5f",
+        "sha1": "43fd72f69095acb22d6f5d9d72b75943be7307ba",
+        "crc32": "845b9772"
+      }
+    }
+  ]
+}

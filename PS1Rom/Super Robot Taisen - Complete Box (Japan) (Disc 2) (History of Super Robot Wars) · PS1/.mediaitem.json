@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Robot Taisen - Complete Box (Japan) (Disc 2) (History of Super Robot Wars)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Robot Taisen - Complete Box (Japan) (Disc 2) (History of Super Robot Wars).cue",
+      "filesize": 146,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a141d0eec73269f7fa139aaa66070bbd",
+        "sha1": "990fb4f7d6563eacc9b7ee425a4c34105d2404c6",
+        "crc32": "50c54b6d"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen - Complete Box (Japan) (Disc 2) (History of Super Robot Wars).bin",
+      "filesize": 642105408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cbfbaa2543d425e08ad649494714f3f",
+        "sha1": "65ffad2101381dbc4821ef1d152029e99d9f0996",
+        "crc32": "bef35311"
+      }
+    }
+  ]
+}

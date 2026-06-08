@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beyond the Beyond (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beyond the Beyond (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3de65468a1aa0c911b656f9cfdb6fd69",
+        "sha1": "2a03359669afbf5ed05e4339a996efc71418aaee",
+        "crc32": "bf1398ca"
+      }
+    },
+    {
+      "filename": "Beyond the Beyond (USA).bin",
+      "filesize": 144537456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ce9950081ee3fa4fad2962ab90194aa",
+        "sha1": "d384eeddbe657b3d39b6f153c80249a5b8ab08bf",
+        "crc32": "453917af"
+      }
+    }
+  ]
+}

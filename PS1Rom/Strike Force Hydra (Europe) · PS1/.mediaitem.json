@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strike Force Hydra (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strike Force Hydra (Europe).cue",
+      "filesize": 950,
+      "ext": "cue",
+      "checksums": {
+        "md5": "026737e17360efb3ac05cfcbec2a1a6b",
+        "sha1": "f81d112bbbb082786dc2c6157fd81702651ea74c",
+        "crc32": "db488206"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 1).bin",
+      "filesize": 102678912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cd995c7ecc4ab8a7fc4c14581477031",
+        "sha1": "0eade90349db8c4f9c6d0626089b02ebf577b944",
+        "crc32": "b8eab34e"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 2).bin",
+      "filesize": 10233552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "adc24ae51da669829f5ad7a460023f48",
+        "sha1": "f53a1c5893f181199bf7fdfca31e0bcd173f2ff3",
+        "crc32": "bdc1ca31"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 3).bin",
+      "filesize": 9389184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f1ab060bc074b038c1cdbfcba41e249",
+        "sha1": "b0905ba4ea1c22401f4015a1d4205f9f268d117a",
+        "crc32": "fbd8399b"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 4).bin",
+      "filesize": 15647856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c570076da6cc625cdfb54857dafd1121",
+        "sha1": "952de3632209d43a689b7bd3332de9d552d0513e",
+        "crc32": "839a5ef4"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 5).bin",
+      "filesize": 10391136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e821035b9e45cfd7be05c8e06b1c806",
+        "sha1": "7785a8178cc0f8a316e7bb1c9e5cb2dfecd4d395",
+        "crc32": "a0292260"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 6).bin",
+      "filesize": 11644752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1998289a2cf860c8aca7576ef27cae27",
+        "sha1": "cd4f28a434023f7f1cc1d5dc7b939f644ad2f9ce",
+        "crc32": "d49c1551"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 7).bin",
+      "filesize": 5999952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2b6c7ab408fc6f2a06a371ef47f5964",
+        "sha1": "b47de55a3319fc8e5276fbefa81e4ff20f2ec045",
+        "crc32": "98308a37"
+      }
+    },
+    {
+      "filename": "Strike Force Hydra (Europe) (Track 8).bin",
+      "filesize": 42693504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4f62e8802236bdafc4b986e82e2f526",
+        "sha1": "20a927a3e41dec1f855b0e8c5961e84211ffae3f",
+        "crc32": "87129cc0"
+      }
+    }
+  ]
+}

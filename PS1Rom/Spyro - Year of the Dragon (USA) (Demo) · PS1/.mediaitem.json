@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro - Year of the Dragon (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro - Year of the Dragon (USA) (Demo).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "643645b0ceb8d8e77f8010df20e34f5c",
+        "sha1": "07b11899d7bb39ebae2b71999e84c94ffae11ec2",
+        "crc32": "7097f49e"
+      }
+    },
+    {
+      "filename": "Spyro - Year of the Dragon (USA) (Demo) (Track 1).bin",
+      "filesize": 98283024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "192cf25ce49181903cff9fb38e6b2e76",
+        "sha1": "7932532f88e86751aae8a6d7963e18edc6d76c9f",
+        "crc32": "408149bd"
+      }
+    },
+    {
+      "filename": "Spyro - Year of the Dragon (USA) (Demo) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Arms (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Arms (USA).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e04f3bbf59b1bf2ea6cf87a9d6651af",
+        "sha1": "1b636f23d67554518c9987be130297146c016614",
+        "crc32": "56515d97"
+      }
+    },
+    {
+      "filename": "Wild Arms (USA).bin",
+      "filesize": 637163856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19f6de83eb8b7525d7bf8eb27566ce30",
+        "sha1": "428a3678e42c0660697bf43643db1aa566f4821b",
+        "crc32": "53a5248c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tobal 2 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tobal 2 (Japan) (Rev 1).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "192bde3aa679b163e53ea1d85510ba16",
+        "sha1": "77e5cfe35ba9216e5dc1bbebc9980bb85c45f053",
+        "crc32": "9a5378f4"
+      }
+    },
+    {
+      "filename": "Tobal 2 (Japan) (Rev 1).bin",
+      "filesize": 669555600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d583bcc0ee949f42e07fa8613939d8d",
+        "sha1": "50edccaaccf002673a817047905372603e63e208",
+        "crc32": "479f1388"
+      }
+    }
+  ]
+}

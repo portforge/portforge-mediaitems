@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 2 (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 2 (France) (Disc 2).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c018c257eeba753e4dd0ab38d0817e22",
+        "sha1": "3ad4b107dc1ce80e2139361497cbff68996b2ef0",
+        "crc32": "6e1ba215"
+      }
+    },
+    {
+      "filename": "Resident Evil 2 (France) (Disc 2) (Track 1).bin",
+      "filesize": 632495136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "832511cd18cc53a4637796885ec509f5",
+        "sha1": "6416dbcc1288c1ccd726fe71167432948f8e7d35",
+        "crc32": "2a717f11"
+      }
+    },
+    {
+      "filename": "Resident Evil 2 (France) (Disc 2) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

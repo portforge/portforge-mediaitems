@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil (Europe, Australia) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil (Europe, Australia) (Demo).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "80a928d5722b69e90c3014fbea47a10f",
+        "sha1": "0c85d18b1f7ba794215bf734cb541fe32f913cf3",
+        "crc32": "6d531e8a"
+      }
+    },
+    {
+      "filename": "Resident Evil (Europe, Australia) (Demo).bin",
+      "filesize": 68532576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45b47a2a50531d9736b46ca2881ca01f",
+        "sha1": "ce81e7d07545e4a81e0915aff3cf041ef3ad3702",
+        "crc32": "fbe22410"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shellshock (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shellshock (USA).cue",
+      "filesize": 1314,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba16f52ab6ff88ad993130d04cb1f736",
+        "sha1": "77ae8b7558e956ea144d517d358051e86d0121d9",
+        "crc32": "20db3615"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 01).bin",
+      "filesize": 239325408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1660984dd542d5cad97ee05b2e5893f9",
+        "sha1": "c8142f1ba29f66cca495c400dde20343ae2fe2cb",
+        "crc32": "7e665e87"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 02).bin",
+      "filesize": 54310032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba3845393433e3f14cf961b82732c5eb",
+        "sha1": "0470deb0854fb7d08da7ccaa818a405db09a1de4",
+        "crc32": "dd491066"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 03).bin",
+      "filesize": 42498288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29975cde295582fdfc520e9cdfcea87f",
+        "sha1": "6d33fb47e798f329fbe3c09157dcf881a4fae5fb",
+        "crc32": "e43c7096"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 04).bin",
+      "filesize": 38123568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "726a03d4a2a4145e7ab6ddcb74c843f9",
+        "sha1": "e30ec0b7531bd52383960ea95289afca1a6a116b",
+        "crc32": "48377c1f"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 05).bin",
+      "filesize": 38090640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39e03811624be4217b89df285d9e9e7e",
+        "sha1": "84aa4d2a69b6177f8290fed9ffb3593569456bee",
+        "crc32": "a344667b"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 06).bin",
+      "filesize": 43413216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f0f0e18aa5926d1113853a26e40ab6c",
+        "sha1": "090e4536bd3c27cb3343dc9da7684b9fe3de3ed9",
+        "crc32": "4ba4bdd0"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 07).bin",
+      "filesize": 27059760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a39677fcd3ed7004c815d8829a596b0",
+        "sha1": "40e24c448eaa79cb75d80f65b537e1887f5930f3",
+        "crc32": "48169b81"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 08).bin",
+      "filesize": 17442432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acc9b915ae4317af61dc58ed03897be9",
+        "sha1": "9e43aafeac43129423eef7c7e97aa3aa8057354e",
+        "crc32": "c98d36ac"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 09).bin",
+      "filesize": 28962528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6962eb813571c25d0ff8b6fe1be3d1c",
+        "sha1": "83249f23a60e14ab461d0d66122dc29337cf0725",
+        "crc32": "13b4f826"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 10).bin",
+      "filesize": 43100400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5547119a9345f6fdf7bc21bb42f55370",
+        "sha1": "92f4a705d4cabac930c379e49d219e3484c180b0",
+        "crc32": "ff3bc53e"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 11).bin",
+      "filesize": 28557984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1174611ade3b723289d978b06722bd7",
+        "sha1": "7fe262f681e4e238c84a05a4e02623a750fa75d1",
+        "crc32": "6650e05f"
+      }
+    },
+    {
+      "filename": "Shellshock (USA) (Track 12).bin",
+      "filesize": 32248272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "511de24b55d8471c7d0eae4f9d0ef5fc",
+        "sha1": "94b594d0249503c195ea4d5daa469e84bbaf8023",
+        "crc32": "b886c898"
+      }
+    }
+  ]
+}

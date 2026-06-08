@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Goofy's Fun House (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Goofy's Fun House (USA).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d7d6aba2960a833f43ad0ceb8602654",
+        "sha1": "da43a69a969c723f9d6b617f3e7973d87ee0a8bf",
+        "crc32": "3cf3b6ea"
+      }
+    },
+    {
+      "filename": "Disney's Goofy's Fun House (USA).bin",
+      "filesize": 745327632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51d51001b6ae0953c0c3282fc4179ff2",
+        "sha1": "4a961604bb1bb4585e802b6b52dd0ba823447555",
+        "crc32": "24de303e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 Substories - Memories Ringing On (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Memories Ringing On (Japan) (Disc 1).cue",
+      "filesize": 308,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c518238eb3c8a2010ee91826c14ec0c",
+        "sha1": "9724af081029d9122597d384bc91bccbf1976b65",
+        "crc32": "3692456e"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Memories Ringing On (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 717456432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4d16398f9a1f1f4f7d1df2bf853c7a5",
+        "sha1": "5678ac68bf186f2bed3b088cf8a92d2eec327cda",
+        "crc32": "6125d6ea"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Memories Ringing On (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

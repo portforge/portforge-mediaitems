@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fantastic Night Dreams - Cotton Original (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fantastic Night Dreams - Cotton Original (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de5a19a9db24c90bb73215f9abc307e6",
+        "sha1": "3c64e9d95538dd28435d2dc416e48fd87aa7f686",
+        "crc32": "4c63acd9"
+      }
+    },
+    {
+      "filename": "Fantastic Night Dreams - Cotton Original (Japan).bin",
+      "filesize": 39200784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "575dabd69484cfcc6a8a0e64958e8db3",
+        "sha1": "db087eb4d016297f72bc8954734b7faa87936f1d",
+        "crc32": "ebb3ed2c"
+      }
+    }
+  ]
+}

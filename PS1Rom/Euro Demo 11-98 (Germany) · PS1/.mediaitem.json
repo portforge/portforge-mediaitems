@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 11-98 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 11-98 (Germany).cue",
+      "filesize": 577,
+      "ext": "cue",
+      "checksums": {
+        "md5": "33d7eb4630eec5575060a67eb70cd56a",
+        "sha1": "d7e6c61b4b8d04fa6759d554f8c76820cae699cb",
+        "crc32": "11807745"
+      }
+    },
+    {
+      "filename": "Euro Demo 11-98 (Germany) (Track 1).bin",
+      "filesize": 450337440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afd713eabf3322f2d1bb62194f461109",
+        "sha1": "a9870f8f5c27961502f2df4d72a50ba790a3bff8",
+        "crc32": "a601831c"
+      }
+    },
+    {
+      "filename": "Euro Demo 11-98 (Germany) (Track 2).bin",
+      "filesize": 5997600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49900019a8b13be822b3fe9f44ac5535",
+        "sha1": "e06020069add9356f40bc3ffff40fa1355436939",
+        "crc32": "f3c964ec"
+      }
+    },
+    {
+      "filename": "Euro Demo 11-98 (Germany) (Track 3).bin",
+      "filesize": 42865200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a16a76c9249211b61837e3d824e5a97",
+        "sha1": "daaaf015e08226fcec9cdf3d85aac4153c0aedcb",
+        "crc32": "3aaf4221"
+      }
+    },
+    {
+      "filename": "Euro Demo 11-98 (Germany) (Track 4).bin",
+      "filesize": 33073824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a109a7bdfbd3779ecd30cb3029612afe",
+        "sha1": "50845c7bad9445814c340209fd77a02d94c2f7bb",
+        "crc32": "768f65d7"
+      }
+    },
+    {
+      "filename": "Euro Demo 11-98 (Germany) (Track 5).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

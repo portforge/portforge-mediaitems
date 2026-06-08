@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Murakoshi Seikai no Bakuchou Nihon Rettou (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Murakoshi Seikai no Bakuchou Nihon Rettou (Japan) (Demo).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "900493db21125fc3697a74eaa046e3f9",
+        "sha1": "946b887a6e64de71ed3a7bc2979eb1de5b50a141",
+        "crc32": "f2c51e62"
+      }
+    },
+    {
+      "filename": "Murakoshi Seikai no Bakuchou Nihon Rettou (Japan) (Demo).bin",
+      "filesize": 193647216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "796334e3f8d059255e6be2b6093c20ff",
+        "sha1": "665cbe4676d062947feacc2c655aa9b60d881a18",
+        "crc32": "90fbf6a3"
+      }
+    }
+  ]
+}

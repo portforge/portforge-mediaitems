@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Dragoon, The (Japan, Asia) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Dragoon, The (Japan, Asia) (Disc 3).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e7adee8f00b649dc52204725a2694c7f",
+        "sha1": "d0fac0645042d675d665e4e75475ef4919097f92",
+        "crc32": "e104e6ad"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (Japan, Asia) (Disc 3) (Track 1).bin",
+      "filesize": 557856768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5188104eb8dbdd2eed89ad30c56f4874",
+        "sha1": "8d8f771505a9d2867c6d13e87dc54136dc1c0297",
+        "crc32": "bd6b807d"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (Japan, Asia) (Disc 3) (Track 2).bin",
+      "filesize": 32245920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "107cda36360d671e25180946d0fd5490",
+        "sha1": "7c0e2428b46634e43c7ee7ea224df50e9e19cd19",
+        "crc32": "0fd24324"
+      }
+    }
+  ]
+}

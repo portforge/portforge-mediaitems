@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dukes of Hazzard, The - Racing for Home (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dukes of Hazzard, The - Racing for Home (USA).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17ccea83e2834350bd05531ba7ce27d4",
+        "sha1": "3bd9cfc572ce0680e8eda608f0a56bea8c17932d",
+        "crc32": "9c486aaf"
+      }
+    },
+    {
+      "filename": "Dukes of Hazzard, The - Racing for Home (USA).bin",
+      "filesize": 705520032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e186374c65e03630b69203f550bbf72d",
+        "sha1": "82d92a049357b7bfcbae8f51590aceb72100568c",
+        "crc32": "3ff0cce3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Granstream Denki - The Granstream Saga (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Granstream Denki - The Granstream Saga (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41e1f9942c3085f8c62262985767da41",
+        "sha1": "f874f1825fea24b7ae47bc33a1a051c9540cfc51",
+        "crc32": "49ac0869"
+      }
+    },
+    {
+      "filename": "Granstream Denki - The Granstream Saga (Japan).bin",
+      "filesize": 578810736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a314875c9336a7cb631058ff54d2c1be",
+        "sha1": "2ebb52c4c4e51b0dc4aa1ba2b4bc10d3ae8496fb",
+        "crc32": "cc2043b9"
+      }
+    }
+  ]
+}

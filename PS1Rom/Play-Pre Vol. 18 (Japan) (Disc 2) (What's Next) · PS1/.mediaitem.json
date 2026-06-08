@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 18 (Japan) (Disc 2) (What's Next)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 18 (Japan) (Disc 2) (What's Next).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78c064c8a79cf5363321d4c3d8e66142",
+        "sha1": "1303d5427eaa745fc798c60f2f757536de435a19",
+        "crc32": "01c3d5df"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 18 (Japan) (Disc 2) (What's Next).bin",
+      "filesize": 593788272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6d765899cca2bcb67a1ed79b201b23a",
+        "sha1": "8786c303a58397b22cf5fc86dc97e5895da97df5",
+        "crc32": "3fcf54bf"
+      }
+    }
+  ]
+}

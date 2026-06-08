@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bonogurashi - Kore de Kanpeki Disu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bonogurashi - Kore de Kanpeki Disu (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "434ec7dcb2c168675a510505a8efb9e5",
+        "sha1": "9f99dc434125eb93169d0af8be48a557666da43f",
+        "crc32": "6d3197c8"
+      }
+    },
+    {
+      "filename": "Bonogurashi - Kore de Kanpeki Disu (Japan).bin",
+      "filesize": 520323552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbcc6c916f5889a48bec9dbfaeb56c08",
+        "sha1": "b5a6e83080f48f919501de584d3af4d0732c90a6",
+        "crc32": "3ae2c58d"
+      }
+    }
+  ]
+}

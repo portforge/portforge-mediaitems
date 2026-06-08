@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Number 4 (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Number 4 (USA) (Disc 2).cue",
+      "filesize": 828,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a7f48de393bb69dd97afe33c8d9a14b5",
+        "sha1": "90d46b6bb59a7d21651c776961e93bfab7ffc57c",
+        "crc32": "c24f1a2a"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 4 (USA) (Disc 2) (Track 1).bin",
+      "filesize": 405795264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2796edde3759a2401d84ce6d1b81b1f5",
+        "sha1": "8fba47753113dd6f6fe01a0f77288d4be48d335f",
+        "crc32": "26c2371c"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 4 (USA) (Disc 2) (Track 2).bin",
+      "filesize": 59265696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee9f5f7a53846b33eb420f075b22bd94",
+        "sha1": "88de770fee4e5be1803728689491a1a49f60e680",
+        "crc32": "7ebca61c"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 4 (USA) (Disc 2) (Track 3).bin",
+      "filesize": 5941152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a0ba44b89721d33fc024bdca0f028f0",
+        "sha1": "32c4563b3673d8907292bc7d47f39a3e9cb3fb2d",
+        "crc32": "f8d68f20"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 4 (USA) (Disc 2) (Track 4).bin",
+      "filesize": 15612576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77494918297562a14b5496e7b17e9303",
+        "sha1": "c30a2036b75ed6dc85a5ab449a92e5109ff87e04",
+        "crc32": "dc7ee67b"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 4 (USA) (Disc 2) (Track 5).bin",
+      "filesize": 32793936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55b9afe9a64d5695070b14d5c6cfd0c2",
+        "sha1": "0e386886f4809653cd56b599c9d6d9b13110728f",
+        "crc32": "8ddce4bf"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 4 (USA) (Disc 2) (Track 6).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Daikoukai Jidai IV - Porto Estado (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Daikoukai Jidai IV - Porto Estado (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1278df744a45ea9efcbc6fc8a27e38a",
+        "sha1": "07e3eeffb5a74582172084af50ff5667843fe1de",
+        "crc32": "bf7ad63b"
+      }
+    },
+    {
+      "filename": "Daikoukai Jidai IV - Porto Estado (Japan).bin",
+      "filesize": 440898864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7291bac206e8b5428e737337dbdccf0",
+        "sha1": "4978469c13e5dc73f7bdda95fa5cb1a3e998e0a1",
+        "crc32": "b88b7758"
+      }
+    }
+  ]
+}

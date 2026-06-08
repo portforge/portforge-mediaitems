@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fear Effect 2 - Retro Helix (Europe) (En,Fr,De) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fear Effect 2 - Retro Helix (Europe) (En,Fr,De) (Disc 1).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a9c751d0a9f96952a6f776974a4f1d15",
+        "sha1": "0b9db6bc452404d4339e27712be404eb678f5d18",
+        "crc32": "5715157c"
+      }
+    },
+    {
+      "filename": "Fear Effect 2 - Retro Helix (Europe) (En,Fr,De) (Disc 1).bin",
+      "filesize": 746842320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "275454acfb70abc01624cbdfb921513a",
+        "sha1": "af046283511c22fd0c8f4e1f8f95bdae94e4a3a2",
+        "crc32": "68cf6a8f"
+      }
+    }
+  ]
+}

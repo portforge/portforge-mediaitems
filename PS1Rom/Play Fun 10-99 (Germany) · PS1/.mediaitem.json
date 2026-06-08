@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Fun 10-99 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Fun 10-99 (Germany).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ce34df5b7f1d2838a4696eff35c8ac1",
+        "sha1": "e136c6ad5e4f4d3f68c35e43903db20b828ebf02",
+        "crc32": "9cb4f1f6"
+      }
+    },
+    {
+      "filename": "Play Fun 10-99 (Germany).bin",
+      "filesize": 369308688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33ab8f3af231a70144cb3092aa924286",
+        "sha1": "e07f35aeb293370f50aa49c8a53a4613e78f8956",
+        "crc32": "54142c30"
+      }
+    }
+  ]
+}

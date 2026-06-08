@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Witch of Salzburg, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Witch of Salzburg, The (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "402ab467e40359cbc0086d3224fdcbb8",
+        "sha1": "c5b282f2ba8cc5fe740e0b957e7611a1b7a2efb0",
+        "crc32": "38b3e4b0"
+      }
+    },
+    {
+      "filename": "Witch of Salzburg, The (Japan).bin",
+      "filesize": 564853968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d695e82a18bea89901fbacf58fdb8d3d",
+        "sha1": "2a7a22d52a055e2dcf1fee8f580ba892eb556c13",
+        "crc32": "605c63c7"
+      }
+    }
+  ]
+}

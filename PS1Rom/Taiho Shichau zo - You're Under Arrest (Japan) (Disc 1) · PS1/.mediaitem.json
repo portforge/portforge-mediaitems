@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Taiho Shichau zo - You're Under Arrest (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Taiho Shichau zo - You're Under Arrest (Japan) (Disc 1).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b4a78486f2434f5ca497a90ae2678f0",
+        "sha1": "9739f52aa4b8529519907ecb73b0810a0f9f8d3a",
+        "crc32": "834d8dc8"
+      }
+    },
+    {
+      "filename": "Taiho Shichau zo - You're Under Arrest (Japan) (Disc 1).bin",
+      "filesize": 729141168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "024501e8e568f2eaa940118f4860a928",
+        "sha1": "c893fa37b266c617e1ef6f0e3c5b2bace7fd8026",
+        "crc32": "1ad8592e"
+      }
+    }
+  ]
+}

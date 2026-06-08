@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Treasures of the Deep (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Treasures of the Deep (Italy).cue",
+      "filesize": 351,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c982f8d09461bc609280075d3ab9f1a",
+        "sha1": "b6e0dc319041ac46d36a36fc198469cee233a0bc",
+        "crc32": "309d4e8d"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Italy) (Track 1).bin",
+      "filesize": 452430720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "678eb5127f53ff4f5075e6d84c711c09",
+        "sha1": "af4db906f85f497b2eacc0d25ee97e7c038c41e6",
+        "crc32": "b3b0f906"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Italy) (Track 2).bin",
+      "filesize": 27118560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db49061ad2aae6acda9245657d24b65d",
+        "sha1": "1c374632413634a0d7f5a18e05ca2b498983c5c7",
+        "crc32": "430df303"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (Italy) (Track 3).bin",
+      "filesize": 20709360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66b809bae4f4a8c1045e201d49d6dc2b",
+        "sha1": "4713fb95cf70216b0da545a93993d5ad3c9ab7bb",
+        "crc32": "a1defd07"
+      }
+    }
+  ]
+}

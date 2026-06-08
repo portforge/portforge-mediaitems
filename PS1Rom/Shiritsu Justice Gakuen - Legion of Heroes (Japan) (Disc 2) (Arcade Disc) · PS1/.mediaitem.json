@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shiritsu Justice Gakuen - Legion of Heroes (Japan) (Disc 2) (Arcade Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shiritsu Justice Gakuen - Legion of Heroes (Japan) (Disc 2) (Arcade Disc).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5cce2484b1b2f0ec7a60b17f8d8de8b6",
+        "sha1": "09b38fdf48ffc4d59774e01e0bc43ed9e4d0167d",
+        "crc32": "c1c7058d"
+      }
+    },
+    {
+      "filename": "Shiritsu Justice Gakuen - Legion of Heroes (Japan) (Disc 2) (Arcade Disc).bin",
+      "filesize": 732271680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "709937d05909c7dafef8aed98eb6d77f",
+        "sha1": "8401905019890a8f2bc6398c705aa39105c1d639",
+        "crc32": "fbe21912"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dune 2000 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dune 2000 (Germany).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0cb50033b8954ae35f67e4612c283439",
+        "sha1": "b17376716d820e62286b462af2122f61c0bcc5df",
+        "crc32": "7df37a50"
+      }
+    },
+    {
+      "filename": "Dune 2000 (Germany).bin",
+      "filesize": 685036464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a30a9cf4cc165707fb8793c8e7eda1cb",
+        "sha1": "212b190cc52aeb8148b2605a2daa44e617eaca96",
+        "crc32": "f0905e50"
+      }
+    }
+  ]
+}

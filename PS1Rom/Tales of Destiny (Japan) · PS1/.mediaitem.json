@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tales of Destiny (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tales of Destiny (Japan).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d93f3866fb795def4422b1c5714ae3e",
+        "sha1": "540def295a3a384201370504751a15c4b25411da",
+        "crc32": "8001e61b"
+      }
+    },
+    {
+      "filename": "Tales of Destiny (Japan) (Track 1).bin",
+      "filesize": 518719488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "816721cd3224c98f89306b06c06c846c",
+        "sha1": "eb1c41fcb44e5fbc85da7d92f1e2889b69f299f5",
+        "crc32": "2e8deca1"
+      }
+    },
+    {
+      "filename": "Tales of Destiny (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

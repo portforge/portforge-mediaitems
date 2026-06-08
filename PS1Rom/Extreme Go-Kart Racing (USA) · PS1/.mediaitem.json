@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Extreme Go-Kart Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Extreme Go-Kart Racing (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c84525f231ece1ad5562ffdcb975319",
+        "sha1": "21d730f937cc467acb9f95664288fa00b93efeb0",
+        "crc32": "0f6bf9e5"
+      }
+    },
+    {
+      "filename": "Extreme Go-Kart Racing (USA).bin",
+      "filesize": 478735488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "934107eb5e8906c35b9629713ea392ef",
+        "sha1": "b27e1c42af59c5f493d503641a508b31a00b08d1",
+        "crc32": "17f7e664"
+      }
+    }
+  ]
+}

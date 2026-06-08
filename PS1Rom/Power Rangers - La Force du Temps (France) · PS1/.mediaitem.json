@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Rangers - La Force du Temps (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Rangers - La Force du Temps (France).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b477644825ffe05fa4d86f4500f17e2d",
+        "sha1": "1ebb3fd84fcac5349e95fccae23cfa3ce53daf39",
+        "crc32": "59f4c88a"
+      }
+    },
+    {
+      "filename": "Power Rangers - La Force du Temps (France).bin",
+      "filesize": 314104896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfe7952eeb4c568d64f54d2b3bd65984",
+        "sha1": "609f0bf008cab74eefa0a89240645e1cad8b03c7",
+        "crc32": "30218b17"
+      }
+    }
+  ]
+}

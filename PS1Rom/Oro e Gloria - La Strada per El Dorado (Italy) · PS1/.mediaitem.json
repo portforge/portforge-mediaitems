@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oro e Gloria - La Strada per El Dorado (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oro e Gloria - La Strada per El Dorado (Italy).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e82df654066eea06be00903141a58544",
+        "sha1": "ac971d4191c426d9f36394b90dfee6e316e68392",
+        "crc32": "ec8ecf5b"
+      }
+    },
+    {
+      "filename": "Oro e Gloria - La Strada per El Dorado (Italy).bin",
+      "filesize": 537559008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a063c5209c87e2a1c0fe349259801b4",
+        "sha1": "9b563d0c42c973dbfb4c013ffa8d14289ffe3324",
+        "crc32": "8de3e54f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Namco Museum Vol. 4 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Namco Museum Vol. 4 (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a40473ebcd17fa0e74217726209024ae",
+        "sha1": "516998c62564a472de4eda265a23239b1ff0dcb3",
+        "crc32": "9610cf00"
+      }
+    },
+    {
+      "filename": "Namco Museum Vol. 4 (USA).bin",
+      "filesize": 693743568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52e28db05d800b80ba171d332e2141c1",
+        "sha1": "cd2ecec2f6630b7971887dfad641d624ae7a3c3f",
+        "crc32": "aa390a43"
+      }
+    }
+  ]
+}

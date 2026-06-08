@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soukou Kihei Votoms - Koutetsu no Gunzei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soukou Kihei Votoms - Koutetsu no Gunzei (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad5dd27cb7de688c976f112bb9706169",
+        "sha1": "2cec941485ac45447285b05dd007e440c19fe8b1",
+        "crc32": "3329a48f"
+      }
+    },
+    {
+      "filename": "Soukou Kihei Votoms - Koutetsu no Gunzei (Japan).bin",
+      "filesize": 285050640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9be316a790ac448a063850d107fe3e24",
+        "sha1": "5e30eef58bc95222d2128f37e17ce2feaa8444fe",
+        "crc32": "49f36496"
+      }
+    }
+  ]
+}

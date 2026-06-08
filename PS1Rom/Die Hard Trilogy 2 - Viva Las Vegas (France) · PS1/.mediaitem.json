@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Die Hard Trilogy 2 - Viva Las Vegas (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Die Hard Trilogy 2 - Viva Las Vegas (France).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f837f9c5997756cdee02ffcced88f0c",
+        "sha1": "71b897a36a103fa0b1b7a4274bccf1f63038ab9e",
+        "crc32": "89f6c826"
+      }
+    },
+    {
+      "filename": "Die Hard Trilogy 2 - Viva Las Vegas (France).bin",
+      "filesize": 734539008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10783a47e21c564659ea5c11f2e44c97",
+        "sha1": "8a83e70b123b5298df23c94f4dfd5d4a61f7c197",
+        "crc32": "73454512"
+      }
+    }
+  ]
+}

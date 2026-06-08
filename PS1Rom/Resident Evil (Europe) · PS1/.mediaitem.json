@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil (Europe).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a7acdb8d3c9b1d993c376ed21fb3d45",
+        "sha1": "e62b22c95893f82d6cad1fd171ec86f6665c0e49",
+        "crc32": "2046d852"
+      }
+    },
+    {
+      "filename": "Resident Evil (Europe).bin",
+      "filesize": 680849904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "696e02d5f612ca44d634f09c26b7db82",
+        "sha1": "5f008728a4c744671ccda8efdfa49f2a393fd496",
+        "crc32": "4d65103d"
+      }
+    }
+  ]
+}

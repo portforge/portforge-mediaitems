@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Breath of Fire III (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Breath of Fire III (USA).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d9dfbb032076bc86fc82af05dd4bb9f",
+        "sha1": "046ea122a7720d758492ddc2545eb9e78d788461",
+        "crc32": "ad7dc790"
+      }
+    },
+    {
+      "filename": "Breath of Fire III (USA) (Track 1).bin",
+      "filesize": 442938048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9dd9a7c934b8b59d0ce76b0f25d18176",
+        "sha1": "5745d9dde965ed0ec673ba071deb762355fa3e1a",
+        "crc32": "4d5b0d4b"
+      }
+    },
+    {
+      "filename": "Breath of Fire III (USA) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

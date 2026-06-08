@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Dragoon, The (Japan) (Demo 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Dragoon, The (Japan) (Demo 1).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03438d0a459f6d8f05d86ae1651386c2",
+        "sha1": "7a7a0506efa3d4cb8a537ddd65388ab6c2095e25",
+        "crc32": "7e38109b"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (Japan) (Demo 1) (Track 1).bin",
+      "filesize": 42063168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7460f3611ac6658e4e4665893e9fd258",
+        "sha1": "51a690dfaf4ed09da365393770c66669a9816ead",
+        "crc32": "5e07c1fd"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (Japan) (Demo 1) (Track 2).bin",
+      "filesize": 32245920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "107cda36360d671e25180946d0fd5490",
+        "sha1": "7c0e2428b46634e43c7ee7ea224df50e9e19cd19",
+        "crc32": "0fd24324"
+      }
+    }
+  ]
+}

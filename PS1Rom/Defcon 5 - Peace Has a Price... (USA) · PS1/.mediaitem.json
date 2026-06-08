@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Defcon 5 - Peace Has a Price... (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Defcon 5 - Peace Has a Price... (USA).cue",
+      "filesize": 375,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b84786d2debfdecbf0779ef231acec91",
+        "sha1": "fbcb877ef4a38af5fa290dc29a50151a531b6d30",
+        "crc32": "3d65fd6e"
+      }
+    },
+    {
+      "filename": "Defcon 5 - Peace Has a Price... (USA) (Track 1).bin",
+      "filesize": 372109920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f834c7d1787c87c971d2a5a8fbadf9f",
+        "sha1": "fa3ef5f5c2bdf2d121ef98d9418bcceeec8b5b14",
+        "crc32": "ac294a10"
+      }
+    },
+    {
+      "filename": "Defcon 5 - Peace Has a Price... (USA) (Track 2).bin",
+      "filesize": 124601904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2fdb4d35c6accf7623083e9850e4337",
+        "sha1": "291c0c2f34755ea312bbd44eef9ca082d14146c9",
+        "crc32": "4988d527"
+      }
+    },
+    {
+      "filename": "Defcon 5 - Peace Has a Price... (USA) (Track 3).bin",
+      "filesize": 33323136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56a29b30d426ea5e0ccf4605cd634f00",
+        "sha1": "5f2bcfda6ef3a0e41a5003e21e2883cc4f1d82e6",
+        "crc32": "578c45f6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rampage - World Tour (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rampage - World Tour (Europe).cue",
+      "filesize": 351,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb476b4ef37e70c335f68c9f020401db",
+        "sha1": "397eefd8519010d6202aac8c038a11116bbd8e34",
+        "crc32": "03b90646"
+      }
+    },
+    {
+      "filename": "Rampage - World Tour (Europe) (Track 1).bin",
+      "filesize": 265964160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1076f0ff57d16c0282057dc04c9a2904",
+        "sha1": "2636e6c8de3cc41989483a51c073e03b3b0fc47f",
+        "crc32": "ac71df6f"
+      }
+    },
+    {
+      "filename": "Rampage - World Tour (Europe) (Track 2).bin",
+      "filesize": 30599520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de3ab8055c53844306cbd21eb614f6f2",
+        "sha1": "20c16a54cbca8d4ca881c56a7b7eb7ed0e35d85e",
+        "crc32": "ca42c8cc"
+      }
+    },
+    {
+      "filename": "Rampage - World Tour (Europe) (Track 3).bin",
+      "filesize": 30599520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de3ab8055c53844306cbd21eb614f6f2",
+        "sha1": "20c16a54cbca8d4ca881c56a7b7eb7ed0e35d85e",
+        "crc32": "ca42c8cc"
+      }
+    }
+  ]
+}

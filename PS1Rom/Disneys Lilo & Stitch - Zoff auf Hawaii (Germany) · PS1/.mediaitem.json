@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Lilo & Stitch - Zoff auf Hawaii (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Lilo & Stitch - Zoff auf Hawaii (Germany).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e5ef16ce1b7247b2da68bfb960811107",
+        "sha1": "732b2357474a172fce0b473fd36b71552790b5bc",
+        "crc32": "ba47917b"
+      }
+    },
+    {
+      "filename": "Disneys Lilo & Stitch - Zoff auf Hawaii (Germany).bin",
+      "filesize": 476665728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e46b548decb554ba594d5501e941f905",
+        "sha1": "1a9bae999b799a8b3363576307238f6e59008950",
+        "crc32": "93c38697"
+      }
+    }
+  ]
+}

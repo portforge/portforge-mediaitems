@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bomberman World (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bomberman World (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5c7ecbbdbb8dfa39f594140eab6384b2",
+        "sha1": "a0e48a314e4c5349bf37320158981d3af35ee15f",
+        "crc32": "43a5fd16"
+      }
+    },
+    {
+      "filename": "Bomberman World (USA).bin",
+      "filesize": 657809712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c06e80c10474113c76e7d424566c3ddb",
+        "sha1": "18c5172fe0ab64bb80f983791cf735f3f0df918a",
+        "crc32": "18ec8c9b"
+      }
+    }
+  ]
+}

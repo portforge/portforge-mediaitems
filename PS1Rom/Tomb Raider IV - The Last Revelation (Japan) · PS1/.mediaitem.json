@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider IV - The Last Revelation (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider IV - The Last Revelation (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6a1a4667a1b978a63909be4dfec948e4",
+        "sha1": "505d00ec9981b4f796436e8ac395e91f0aade1e4",
+        "crc32": "f68cc907"
+      }
+    },
+    {
+      "filename": "Tomb Raider IV - The Last Revelation (Japan).bin",
+      "filesize": 748554576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a9674e63789b6fc3fa7e4e3a69bdc46",
+        "sha1": "c08e2485ebfa1e0215d46eb0d5ceac3e74cf4831",
+        "crc32": "8b87d8a0"
+      }
+    }
+  ]
+}

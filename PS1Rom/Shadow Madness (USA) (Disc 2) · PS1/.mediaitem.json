@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shadow Madness (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shadow Madness (USA) (Disc 2).cue",
+      "filesize": 474,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0fdbfb709bd9e93b7167e7f24da3b7ba",
+        "sha1": "3bdbb0d529584a01e763c8c6a7a22dc2f5750d1a",
+        "crc32": "06f1f66e"
+      }
+    },
+    {
+      "filename": "Shadow Madness (USA) (Disc 2) (Track 1).bin",
+      "filesize": 608989248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f0b6d4efdc1f935be275c56bc84f4ed",
+        "sha1": "9decef01be238763c57d22814652c5182b5d7f92",
+        "crc32": "1a70ca71"
+      }
+    },
+    {
+      "filename": "Shadow Madness (USA) (Disc 2) (Track 2).bin",
+      "filesize": 43537872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca11840094a4372325d506263af7d598",
+        "sha1": "131036da81391d2acbfa9ecce2282e6b741a7c82",
+        "crc32": "2a875c78"
+      }
+    },
+    {
+      "filename": "Shadow Madness (USA) (Disc 2) (Track 3).bin",
+      "filesize": 33461904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f123ad6db1bdc0132a905426f9f29759",
+        "sha1": "fcda09987faa07551eafefc7b531f99648d8910e",
+        "crc32": "9d173621"
+      }
+    },
+    {
+      "filename": "Shadow Madness (USA) (Disc 2) (Track 4).bin",
+      "filesize": 55566000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1eccb4506d9e7e843dde99e2cb12c795",
+        "sha1": "07eeab9f8c908025cfb244e1db13d9193304eee8",
+        "crc32": "fab9339a"
+      }
+    }
+  ]
+}

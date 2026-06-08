@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Irem Arcade Classics (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Irem Arcade Classics (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e2c83f5a83b44b890dc4fbd67e5e30f",
+        "sha1": "61ef04b3d3f5426bfe9bdb0708b56914705b1f54",
+        "crc32": "cdaf41a5"
+      }
+    },
+    {
+      "filename": "Irem Arcade Classics (Japan).bin",
+      "filesize": 165070416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c7df9ec11480d98fbafa41f4f5b0633",
+        "sha1": "3164aba2a7a845994c732b3c2424b2efc0014337",
+        "crc32": "a49dfcc0"
+      }
+    }
+  ]
+}

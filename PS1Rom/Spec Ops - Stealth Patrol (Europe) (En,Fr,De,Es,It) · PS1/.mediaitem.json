@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spec Ops - Stealth Patrol (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spec Ops - Stealth Patrol (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08d3e92c5d7eaf03b7a0c9f27d7090f5",
+        "sha1": "31377ea2484790115fa4116791736f759b0d5598",
+        "crc32": "0ae5fa73"
+      }
+    },
+    {
+      "filename": "Spec Ops - Stealth Patrol (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 236973408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "981d6f22861840ffe6b4023013eb721b",
+        "sha1": "ceab1c32637a9b5e4aa3a321e9940f5ac700c2e5",
+        "crc32": "c255c651"
+      }
+    }
+  ]
+}

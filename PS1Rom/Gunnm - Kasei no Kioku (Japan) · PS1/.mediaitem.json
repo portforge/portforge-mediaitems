@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gunnm - Kasei no Kioku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gunnm - Kasei no Kioku (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b93d05823e30df3960c62a8c41c47ec4",
+        "sha1": "68215caaef66b6ba12333ef4ef2c44b92af96fb6",
+        "crc32": "eab0d4ad"
+      }
+    },
+    {
+      "filename": "Gunnm - Kasei no Kioku (Japan).bin",
+      "filesize": 530639424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f50f9d35a5f141eb473bf244bda5c1e2",
+        "sha1": "856da69190b13b3a3502006364d5ee13626f5830",
+        "crc32": "156c4055"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 2 (Europe) (Disc 1) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 2 (Europe) (Disc 1) (Rev 1).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d07e24a75b80cb97c19e0e700627481d",
+        "sha1": "cbd7021ffc4d37813689695d5e0a18afe72b1045",
+        "crc32": "3a6c62d5"
+      }
+    },
+    {
+      "filename": "Syphon Filter 2 (Europe) (Disc 1) (Rev 1).bin",
+      "filesize": 732756192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73a7089626649bb9769e78aeb28517f6",
+        "sha1": "27fdb1dbf587e510faffa4409b7b52b0421ef87b",
+        "crc32": "0c721045"
+      }
+    }
+  ]
+}

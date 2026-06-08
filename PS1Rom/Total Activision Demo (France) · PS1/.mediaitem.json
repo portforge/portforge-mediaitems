@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Total Activision Demo (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Total Activision Demo (France).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2a528b6263d1e54abfeb9a533ec736e",
+        "sha1": "26a903304865c4550f9c1ec8a3e4757cd58435e0",
+        "crc32": "9c43cc3d"
+      }
+    },
+    {
+      "filename": "Total Activision Demo (France) (Track 1).bin",
+      "filesize": 711193056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65fcab71c497362061d5020079f2a0fd",
+        "sha1": "30dff3424af44ef4f5baba302e689ee93b40a96b",
+        "crc32": "77dd37ea"
+      }
+    },
+    {
+      "filename": "Total Activision Demo (France) (Track 2).bin",
+      "filesize": 33064416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "643c0a1c5381e85f12a0a693b6eb2abd",
+        "sha1": "cd6ebfdfd3a3baac068fe401b39357d819d1a5f4",
+        "crc32": "51c43fab"
+      }
+    }
+  ]
+}

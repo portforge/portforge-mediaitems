@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R-C Stunt Copter (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R-C Stunt Copter (France).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8bd8d9201fcc5ee720ba3dcee2892d7c",
+        "sha1": "d7f47570cd446d5f0e9a44b314cc44030518eff3",
+        "crc32": "266a6ad7"
+      }
+    },
+    {
+      "filename": "R-C Stunt Copter (France).bin",
+      "filesize": 620615184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7377dc2560695871b4d3728232e516d3",
+        "sha1": "3ee5b1047232d9fa9696c614f9fbd6bd84c77e78",
+        "crc32": "bf6ae7d2"
+      }
+    }
+  ]
+}

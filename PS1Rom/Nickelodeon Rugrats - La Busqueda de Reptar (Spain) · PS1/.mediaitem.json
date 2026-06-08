@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Rugrats - La Busqueda de Reptar (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Rugrats - La Busqueda de Reptar (Spain).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89f6e6afbd8a020dfefcb8b8b5f857b0",
+        "sha1": "96fac3cb52930936c4f6b528caa0b5ec32ce9346",
+        "crc32": "a9997d72"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats - La Busqueda de Reptar (Spain).bin",
+      "filesize": 532791504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4174d5e887796ca1696b1f3d80b79ec8",
+        "sha1": "9568d6474e51f5a7d5fc4aaa39c48b93a1a51bbb",
+        "crc32": "fee75c8c"
+      }
+    }
+  ]
+}

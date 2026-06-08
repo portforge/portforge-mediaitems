@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WWF Attitude (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WWF Attitude (USA).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "717e4c714534bc9db4e552251f665120",
+        "sha1": "a6f4140cb59fa8a72c099abe93eee6fdf81091f4",
+        "crc32": "3738bc08"
+      }
+    },
+    {
+      "filename": "WWF Attitude (USA) (Track 1).bin",
+      "filesize": 654714480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61e9a866d16deebd49aa60e4648d2a71",
+        "sha1": "8239731b28a8175d4263a6e7532dd2f29f3c5f8c",
+        "crc32": "af1e14f6"
+      }
+    },
+    {
+      "filename": "WWF Attitude (USA) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

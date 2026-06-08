@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Winter Releases - '97 Demo 01 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Winter Releases - '97 Demo 01 (Europe).cue",
+      "filesize": 510,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2102c13db6db43ada3c70dbca3ffb0c6",
+        "sha1": "e8a688072fec351cac0d606d3084a485e365961c",
+        "crc32": "fe90e677"
+      }
+    },
+    {
+      "filename": "Winter Releases - '97 Demo 01 (Europe) (Track 1).bin",
+      "filesize": 250384512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b36952c5e73d7d0dbc6f2dfa25af955",
+        "sha1": "94a531aff4a0f9fde889946541e67b2ce0c0e9d2",
+        "crc32": "0d7daa6f"
+      }
+    },
+    {
+      "filename": "Winter Releases - '97 Demo 01 (Europe) (Track 2).bin",
+      "filesize": 59265696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7dd6ef9220b49c2d7ce71ce95cf2d6d",
+        "sha1": "c9b9b1bdadd51d62dc9b9d08e4e250731baa7022",
+        "crc32": "56cc60a0"
+      }
+    },
+    {
+      "filename": "Winter Releases - '97 Demo 01 (Europe) (Track 3).bin",
+      "filesize": 52510752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "042283882b32d3ee8f1705d2e8132c3a",
+        "sha1": "20c3a9fde167e15e126358c111df9eefe138ac16",
+        "crc32": "ae10d6fb"
+      }
+    },
+    {
+      "filename": "Winter Releases - '97 Demo 01 (Europe) (Track 4).bin",
+      "filesize": 35174160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c1a2248fe9854d15f8217456285002",
+        "sha1": "e7996186776d4502e415dc69585c4319f7e624eb",
+        "crc32": "3048c3ee"
+      }
+    }
+  ]
+}

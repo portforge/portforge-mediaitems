@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kensei - Sacred Fist (Europe) (Beta) (1998-11-02)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kensei - Sacred Fist (Europe) (Beta) (1998-11-02).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "667baa8c67a7341f25464f74f20c2165",
+        "sha1": "c3735b2d6011fccbae44061c5175894bdb1a08ce",
+        "crc32": "abca7d6d"
+      }
+    },
+    {
+      "filename": "Kensei - Sacred Fist (Europe) (Beta) (1998-11-02).bin",
+      "filesize": 369654432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fddd1565bad748f24799098b8eb3de78",
+        "sha1": "a213713c546e4ac40aea062f6c03bf7726bf1c60",
+        "crc32": "99ea4389"
+      }
+    }
+  ]
+}

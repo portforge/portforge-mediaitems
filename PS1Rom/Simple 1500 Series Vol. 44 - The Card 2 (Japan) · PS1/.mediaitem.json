@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 44 - The Card 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 44 - The Card 2 (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9006b0bf45ac9ce7b3ed681036ce0d73",
+        "sha1": "2e96039b93d064f797e94f3f4a7d5fd22cc87c15",
+        "crc32": "fb074190"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 44 - The Card 2 (Japan).bin",
+      "filesize": 87677856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7117d2a3dbee6c4d04a7e5a6a4580888",
+        "sha1": "3cd9682e065fb241e803419f1158d113a0c71e4f",
+        "crc32": "8fc26584"
+      }
+    }
+  ]
+}

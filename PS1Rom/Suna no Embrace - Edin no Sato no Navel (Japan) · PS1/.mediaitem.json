@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suna no Embrace - Edin no Sato no Navel (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suna no Embrace - Edin no Sato no Navel (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d5c4eea89fb66488b8782f3b1267c36",
+        "sha1": "49362e07aef85db667f316c93c91b3ad34a1e888",
+        "crc32": "3117299a"
+      }
+    },
+    {
+      "filename": "Suna no Embrace - Edin no Sato no Navel (Japan).bin",
+      "filesize": 320027232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53052b49fc06c5f1c8d8992638a97757",
+        "sha1": "60da3732e25d4a35a11bb02c438f0dc4437187c8",
+        "crc32": "3f3a55cd"
+      }
+    }
+  ]
+}

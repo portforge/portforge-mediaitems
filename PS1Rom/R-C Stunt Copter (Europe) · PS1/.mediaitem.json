@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R-C Stunt Copter (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R-C Stunt Copter (Europe).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b0d35436fe16b15110b5bf5630996978",
+        "sha1": "365667a788df8111b63c95d7d5b592c7850c5072",
+        "crc32": "0062dbd2"
+      }
+    },
+    {
+      "filename": "R-C Stunt Copter (Europe).bin",
+      "filesize": 689679312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10a818f9baa932008e8c294dc27642a6",
+        "sha1": "571e97eebc56732a8090fb64ad61a9f79dc27456",
+        "crc32": "7420a4ec"
+      }
+    }
+  ]
+}

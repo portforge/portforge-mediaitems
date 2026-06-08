@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famitsu Wave 8-gatsugou Vol. 13 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famitsu Wave 8-gatsugou Vol. 13 (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31d81d716eb3c5e49b87cc0434ca8ea4",
+        "sha1": "83ba2c9fc8f81413646d43e99ddedae4357df3f4",
+        "crc32": "c4cf53a9"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 8-gatsugou Vol. 13 (Japan) (Track 1).bin",
+      "filesize": 573730416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72c38b5d3a1a6701867cf737c765181a",
+        "sha1": "ee41a4f10bc9bd722ff8eaf19fa6f03071153666",
+        "crc32": "a607052d"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 8-gatsugou Vol. 13 (Japan) (Track 2).bin",
+      "filesize": 33516000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07488d7d47ede5b5c653df471291b12e",
+        "sha1": "2a61a9adaab8ba1129d3e277cc852995234e0774",
+        "crc32": "530f71ca"
+      }
+    }
+  ]
+}

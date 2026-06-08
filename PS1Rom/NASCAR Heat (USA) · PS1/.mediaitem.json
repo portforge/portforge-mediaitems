@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NASCAR Heat (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NASCAR Heat (USA).cue",
+      "filesize": 426,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9176a5257406ecdcee152f31d23091fb",
+        "sha1": "a36a7d30092fbefb26684eff1814503c80b9b7cd",
+        "crc32": "fabec753"
+      }
+    },
+    {
+      "filename": "NASCAR Heat (USA) (Track 1).bin",
+      "filesize": 714048384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf8c8f9587d52ebd943f88925621c85d",
+        "sha1": "3071aefede736ce2fa040e01ad5283aa477a4d0e",
+        "crc32": "1d6bed8b"
+      }
+    },
+    {
+      "filename": "NASCAR Heat (USA) (Track 2).bin",
+      "filesize": 3281040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edd32ef2a552865a070bf12926c09c00",
+        "sha1": "2b1b1d3d4697fa4d5b78d0bab44356d4d7db1bd9",
+        "crc32": "d04c3f1a"
+      }
+    },
+    {
+      "filename": "NASCAR Heat (USA) (Track 3).bin",
+      "filesize": 24413760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28470d768aa02c340f2f53433f91a652",
+        "sha1": "f9499b56eec6e97078b342353ab692c80e85ffee",
+        "crc32": "029a1928"
+      }
+    },
+    {
+      "filename": "NASCAR Heat (USA) (Track 4).bin",
+      "filesize": 8290800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc479b6d4552e4043fb5cf8b968a35f3",
+        "sha1": "c9a394aacc4e3965a45a9cb0ba0eb95a62551ccd",
+        "crc32": "32091d0f"
+      }
+    }
+  ]
+}

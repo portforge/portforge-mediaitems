@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crime Killer (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crime Killer (USA) (Demo).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ebc68b2031ed875258777817aef0b1e4",
+        "sha1": "a542f472bf46d44baaf1d08a358b422a14e960b3",
+        "crc32": "5d1fba24"
+      }
+    },
+    {
+      "filename": "Crime Killer (USA) (Demo) (Track 1).bin",
+      "filesize": 17195472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df459f397e0c57394333d6392a07fb0c",
+        "sha1": "4650797d3b3aff2bdcd3761dbb76bf80bc8e75b8",
+        "crc32": "50c0772b"
+      }
+    },
+    {
+      "filename": "Crime Killer (USA) (Demo) (Track 2).bin",
+      "filesize": 42594720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1587c621e6ef67c05996dbad3950f9a8",
+        "sha1": "186deef4825d89419e56884aad5570a7e6ddba82",
+        "crc32": "e8496b14"
+      }
+    }
+  ]
+}

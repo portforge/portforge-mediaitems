@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Deep Freeze (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Deep Freeze (Japan).cue",
+      "filesize": 773,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc47edacb1c35552b947291fa7f75240",
+        "sha1": "7b9ee48ba26106702b68e888e637abc14fdcad03",
+        "crc32": "d31bdbfd"
+      }
+    },
+    {
+      "filename": "Deep Freeze (Japan) (Track 1).bin",
+      "filesize": 423334128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "984811221dad969cdbb57b018111a9d3",
+        "sha1": "d7da28c4fe8acbf4619e955e6144d5e6c5381c54",
+        "crc32": "5b1bb9ae"
+      }
+    },
+    {
+      "filename": "Deep Freeze (Japan) (Track 2).bin",
+      "filesize": 2803584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d3e98e7704fffc396e831e5411cad21",
+        "sha1": "cf88ee95f80656a7dc0dac4087d136ffc8db6f80",
+        "crc32": "95a804f1"
+      }
+    },
+    {
+      "filename": "Deep Freeze (Japan) (Track 3).bin",
+      "filesize": 5637744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d05f3372a809fd60970e9e82666e503",
+        "sha1": "8271c9ac3a908aef25a3068f17a3cc87bae64055",
+        "crc32": "b34d7d4d"
+      }
+    },
+    {
+      "filename": "Deep Freeze (Japan) (Track 4).bin",
+      "filesize": 6098736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dcb89edb62cd775fca8cf16db81979e",
+        "sha1": "190545ab5073cd2c9d1286b9f892302863dda016",
+        "crc32": "5b1226e4"
+      }
+    },
+    {
+      "filename": "Deep Freeze (Japan) (Track 5).bin",
+      "filesize": 19006512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a083eca6a9e29349abd0d362a6aec57e",
+        "sha1": "0389ee533debb9c02c86220baf09fcb139f69971",
+        "crc32": "3dfa2135"
+      }
+    },
+    {
+      "filename": "Deep Freeze (Japan) (Track 6).bin",
+      "filesize": 19406352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7ec92235f013127ee5c824ea750d262",
+        "sha1": "9443f24cc3e7f41efd14ae9964f6c19a33345207",
+        "crc32": "57e17121"
+      }
+    },
+    {
+      "filename": "Deep Freeze (Japan) (Track 7).bin",
+      "filesize": 19244064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd990f8d69889c83e0e92c2390e6f07c",
+        "sha1": "389c8f79753338fc512b52338e897f10465e6ada",
+        "crc32": "2ad7dcdb"
+      }
+    }
+  ]
+}

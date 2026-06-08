@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DigimonTamers - Battle Evolution (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DigimonTamers - Battle Evolution (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ab347da466b0cd41261890e8371c0d6",
+        "sha1": "05d9f481d6d68900881070af088c1ac4f8dbca9e",
+        "crc32": "69b46975"
+      }
+    },
+    {
+      "filename": "DigimonTamers - Battle Evolution (Japan).bin",
+      "filesize": 264298944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0387534dcd7220117d22494272748960",
+        "sha1": "52256f16f02dbf1658048193122b6dbb84bdc9be",
+        "crc32": "ad42a948"
+      }
+    }
+  ]
+}

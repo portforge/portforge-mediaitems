@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oumagatoki (Japan) (Premium Fan Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oumagatoki (Japan) (Premium Fan Disc).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f2ea6f890b8044298a06702d41cf86f",
+        "sha1": "c3de6dbedc6d3d56bed80c843baa16ba9c21aca8",
+        "crc32": "9db54037"
+      }
+    },
+    {
+      "filename": "Oumagatoki (Japan) (Premium Fan Disc).bin",
+      "filesize": 603963024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25e02932bf215d0bfa458ba5ee50e579",
+        "sha1": "52537c08f23177ed6222de211e63e43e679e740f",
+        "crc32": "c263ef84"
+      }
+    }
+  ]
+}

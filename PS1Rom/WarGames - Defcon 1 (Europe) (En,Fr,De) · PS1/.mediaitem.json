@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WarGames - Defcon 1 (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De).cue",
+      "filesize": 1456,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ff357195ccd6e6cae26e2f707122b1fb",
+        "sha1": "bf5f32b794d393ba4938de368c98ca1d447629a1",
+        "crc32": "3bedf638"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 01).bin",
+      "filesize": 99113280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7e727ef1dc27a63f80c78289dee05dc",
+        "sha1": "e9c5edc2c7d75c974d9060a2131fa28538dde159",
+        "crc32": "1e35a2df"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 02).bin",
+      "filesize": 33073824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a109a7bdfbd3779ecd30cb3029612afe",
+        "sha1": "50845c7bad9445814c340209fd77a02d94c2f7bb",
+        "crc32": "768f65d7"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 03).bin",
+      "filesize": 43446144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1aee3f1e31e23ac36540fb249e20c3d",
+        "sha1": "2cb14c12946ec61654d1bc7890b7812e6f8485aa",
+        "crc32": "1743ac5c"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 04).bin",
+      "filesize": 43307376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "373def2739b78983644663718053420f",
+        "sha1": "c9bc93efe935e1bbea0b9a9946c6d6512b48c813",
+        "crc32": "829c1e42"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 05).bin",
+      "filesize": 43142736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f86601dbeeeabf1670e83674ad47e8d6",
+        "sha1": "a23364f5a64f2a826a6b75b53cd6fb39515b1a14",
+        "crc32": "5da107cc"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 06).bin",
+      "filesize": 44709168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2510227700ac07f035223d4601737568",
+        "sha1": "04e731ec7e84ea59902bed18e94159b26739547f",
+        "crc32": "e1fcb095"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 07).bin",
+      "filesize": 43060416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a66f41c4f83ca2faf71bbd8c3ed48276",
+        "sha1": "7de901fd065f3c390213e0d60e79ef32668d3a54",
+        "crc32": "17b3efed"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 08).bin",
+      "filesize": 43255632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc34f1cf4ae7d04667ece7dd00791f6c",
+        "sha1": "62307a30338d00e8bf8bff7efa23413c929bce55",
+        "crc32": "c2166fac"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 09).bin",
+      "filesize": 43845984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac6631046686edb0f00fb5ee1f3f9349",
+        "sha1": "3251222de143926f02701064cf28f91f68dc1748",
+        "crc32": "3bc2e722"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 10).bin",
+      "filesize": 43855392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e9739e7ab16f7673c73f9ec2bea370a",
+        "sha1": "ff1a14c8838f8565ebe302617a78ed98df692661",
+        "crc32": "8ffd18d8"
+      }
+    },
+    {
+      "filename": "WarGames - Defcon 1 (Europe) (En,Fr,De) (Track 11).bin",
+      "filesize": 48580560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93a6f397f2b36b4834fd63a9a59a3615",
+        "sha1": "56f3672dbfcf89e3475819a8b48f306d5c960a7d",
+        "crc32": "2b1fbeeb"
+      }
+    }
+  ]
+}

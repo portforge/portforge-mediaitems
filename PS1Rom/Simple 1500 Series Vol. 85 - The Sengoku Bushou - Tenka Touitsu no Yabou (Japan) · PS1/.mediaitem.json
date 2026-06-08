@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 85 - The Sengoku Bushou - Tenka Touitsu no Yabou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 85 - The Sengoku Bushou - Tenka Touitsu no Yabou (Japan).cue",
+      "filesize": 146,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b884cc28da4dcc9bad393f0d8b533c5",
+        "sha1": "52e51e6fb288afc47c7d6f8e028ab002e28b8c40",
+        "crc32": "db14bda5"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 85 - The Sengoku Bushou - Tenka Touitsu no Yabou (Japan).bin",
+      "filesize": 48413568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6b94286e368439f36054bba29369f85",
+        "sha1": "1a800b13dd6474000e6f76480cf8a6b7c136b04d",
+        "crc32": "062d0fe8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Adidas Power Soccer International '97 (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Adidas Power Soccer International '97 (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 302,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ed8700cd91cfb12ad2d6120e54ee70e0",
+        "sha1": "d65a973b1de5e0d61130edfa480ac1dbde33ed61",
+        "crc32": "97809bc2"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer International '97 (Europe) (En,Fr,De,Es,It,Nl) (Track 1).bin",
+      "filesize": 488811456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa1bcf0222b56b49b364d36236abb8e6",
+        "sha1": "cc89acd8bc98457ac2cd05cad04388f831965dae",
+        "crc32": "e856a2bb"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer International '97 (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin",
+      "filesize": 51692256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82cfb5115bd9d403f195596efb54cc23",
+        "sha1": "89fceebbb307514d08875b5b7b3aaa7d79c2d9bd",
+        "crc32": "36103c24"
+      }
+    }
+  ]
+}

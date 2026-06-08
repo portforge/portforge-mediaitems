@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Taxi 2 (France) (En,Fr)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Taxi 2 (France) (En,Fr).cue",
+      "filesize": 1162,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85a3813aa066b72635d431d919c8f757",
+        "sha1": "a88d636d8dc1600545cc2e60049a5354267b742c",
+        "crc32": "8f0ae066"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 01).bin",
+      "filesize": 154126560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad1d835a65cf220f262481c4d62675b9",
+        "sha1": "9f07b49351390cafa36d10c7946336d73a2f3eec",
+        "crc32": "e90b278a"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 02).bin",
+      "filesize": 22216992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa1a96e309aa101e3e2d92c4f717e653",
+        "sha1": "d609ef3900513b5d5711768317e06292180a5175",
+        "crc32": "175d1c44"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 03).bin",
+      "filesize": 21537264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f7eff387c416512600632d9f0dad696",
+        "sha1": "ca278128eb3ed15e12fb655ac8e2594ba90aeb0a",
+        "crc32": "50f61090"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 04).bin",
+      "filesize": 21605472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "688fc26502df003960713d60c013d38b",
+        "sha1": "7a9e1815897bd8673086a725c4642bcaf20c50e3",
+        "crc32": "acc4ebcd"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 05).bin",
+      "filesize": 23381232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d277969bdce1c497f4598783af6beb96",
+        "sha1": "399c2ccc7faaf6df71e627af92a15eef7a0c9bff",
+        "crc32": "e7f28f81"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 06).bin",
+      "filesize": 21734832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75ad3a5d49862a972426873efa5cdc19",
+        "sha1": "1f38bd5051a5fc86e3198a8598b23335d7d853de",
+        "crc32": "cb78b1f7"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 07).bin",
+      "filesize": 21793632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f33143b17618338cf05475c2269b3701",
+        "sha1": "07540667ba0844bbe0de9f13e28c8bebb594e7b4",
+        "crc32": "c4cecbc2"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 08).bin",
+      "filesize": 22856736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38360f58e9e011d2542c2fa75f7335d5",
+        "sha1": "9fbf98c3d6fe08caf817b166457b14b5d05d5333",
+        "crc32": "26ebed4d"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 09).bin",
+      "filesize": 22231104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db1321c96ea208389e9e77c0f1c1ea3b",
+        "sha1": "c23117cee652e3f2d3b930e57d3832d39b5cc050",
+        "crc32": "1ea14df5"
+      }
+    },
+    {
+      "filename": "Taxi 2 (France) (En,Fr) (Track 10).bin",
+      "filesize": 34750800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8728298fb5aa8f9ef09694708b30d4c",
+        "sha1": "1cdd924a2ba38500009d69fd3a7640a01e818bd7",
+        "crc32": "1924e4f3"
+      }
+    }
+  ]
+}

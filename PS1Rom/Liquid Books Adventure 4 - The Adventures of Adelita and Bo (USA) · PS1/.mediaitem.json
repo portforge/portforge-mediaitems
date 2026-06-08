@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Liquid Books Adventure 4 - The Adventures of Adelita and Bo (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Liquid Books Adventure 4 - The Adventures of Adelita and Bo (USA).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efb23b38913f98deb736b8c08f7dc6be",
+        "sha1": "fcd8ebe46b818c416313c983e64d147f346b16c3",
+        "crc32": "8a958e24"
+      }
+    },
+    {
+      "filename": "Liquid Books Adventure 4 - The Adventures of Adelita and Bo (USA).bin",
+      "filesize": 381833088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fccfa3bd2733e39d7035a42d88241dce",
+        "sha1": "dd17d2880e9230fb17e656b0c10af76837e18be9",
+        "crc32": "53752bfe"
+      }
+    }
+  ]
+}

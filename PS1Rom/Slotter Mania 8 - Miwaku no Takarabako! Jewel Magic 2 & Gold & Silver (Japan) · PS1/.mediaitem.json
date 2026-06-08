@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slotter Mania 8 - Miwaku no Takarabako! Jewel Magic 2 & Gold & Silver (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slotter Mania 8 - Miwaku no Takarabako! Jewel Magic 2 & Gold & Silver (Japan).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa876c84dd191b021fe262aecb93ac2f",
+        "sha1": "d09dfbaf38c1cc21227a02b0d39ba5bfb78cd6e3",
+        "crc32": "bb34840c"
+      }
+    },
+    {
+      "filename": "Slotter Mania 8 - Miwaku no Takarabako! Jewel Magic 2 & Gold & Silver (Japan).bin",
+      "filesize": 48895728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "696ac5d4f4982f98934eca00335fa9ba",
+        "sha1": "fe4168f1c58bd7b0066b2c7deb5f07909230e75b",
+        "crc32": "65acff14"
+      }
+    }
+  ]
+}

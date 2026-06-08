@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cheat Master Volume 4 - Strategy Master (Germany) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cheat Master Volume 4 - Strategy Master (Germany) (Unl).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "afbf410b4f1648c8437285db52fca644",
+        "sha1": "46ff337f98ca95cb0a5444221cc3c23829196f79",
+        "crc32": "c5048473"
+      }
+    },
+    {
+      "filename": "Cheat Master Volume 4 - Strategy Master (Germany) (Unl).bin",
+      "filesize": 7559328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08485c66579b55e0e7ca4cb311e60e7c",
+        "sha1": "55ad4959e28893a5cc6f6202f806997124d8a38b",
+        "crc32": "f7796dac"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple Character 2000 Series Vol. 08 - Kagaku Ninja-tai Gatchaman - The Shooting (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple Character 2000 Series Vol. 08 - Kagaku Ninja-tai Gatchaman - The Shooting (Japan).cue",
+      "filesize": 154,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc91cbb5d03d9b9cdc5b163f5a83e40c",
+        "sha1": "ef9b791112ef8231ba55b8388cf1bc2bde5a9539",
+        "crc32": "5c5cdcda"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 08 - Kagaku Ninja-tai Gatchaman - The Shooting (Japan).bin",
+      "filesize": 176863344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2c660722609393075a6c0273803c610",
+        "sha1": "74b22d79a2e572bbf8ecf5da684123683477909a",
+        "crc32": "8e2bd779"
+      }
+    }
+  ]
+}

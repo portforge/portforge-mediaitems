@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hello Kitty no Cube de Cute (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hello Kitty no Cube de Cute (Japan) (Demo).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f35e84626b73adaa0b319439798e499b",
+        "sha1": "beded73f243e5e3d53b1a9b64af9ebab8471a078",
+        "crc32": "9c5c4786"
+      }
+    },
+    {
+      "filename": "Hello Kitty no Cube de Cute (Japan) (Demo).bin",
+      "filesize": 242677008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d7d9abe55d97d7b00772285eb2bb20e",
+        "sha1": "e9c2b5fc8b4d5a9c3d439e7a4870b56eb64e1d1d",
+        "crc32": "5b326efa"
+      }
+    }
+  ]
+}

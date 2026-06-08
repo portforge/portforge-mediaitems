@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shanghai - Shouryuu Sairin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shanghai - Shouryuu Sairin (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a4cddaa6b6d9c92e0c8b78e0996a18e",
+        "sha1": "1681b7f1e8b51ea4b58a300bd15f8087017ee8f5",
+        "crc32": "1c02eb4e"
+      }
+    },
+    {
+      "filename": "Shanghai - Shouryuu Sairin (Japan).bin",
+      "filesize": 185511648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c73e08737dcf65b101bdf32e0e1b5b8f",
+        "sha1": "c9a27dbc17240e5b47bdbd5974e3c2138eb5c0d0",
+        "crc32": "f6940bf5"
+      }
+    }
+  ]
+}

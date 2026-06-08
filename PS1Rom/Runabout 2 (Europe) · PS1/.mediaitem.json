@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Runabout 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Runabout 2 (Europe).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75582a0284a5cbffd29c08db4ee89585",
+        "sha1": "79c481dfe5fad27236676f30728db57ba7426cca",
+        "crc32": "d78d94a1"
+      }
+    },
+    {
+      "filename": "Runabout 2 (Europe) (Track 1).bin",
+      "filesize": 356753712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e102b198bbffe0cc6772af7c05797d1",
+        "sha1": "f8feebe74ba8ea7ae82d327689aa43c7c2cc97d7",
+        "crc32": "a7a6f214"
+      }
+    },
+    {
+      "filename": "Runabout 2 (Europe) (Track 2).bin",
+      "filesize": 32321184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79f9d77f81abeef16df94fb626117f5d",
+        "sha1": "71e571ce9245afd8eaf9945be7189304a770cd3e",
+        "crc32": "7ec512ad"
+      }
+    }
+  ]
+}

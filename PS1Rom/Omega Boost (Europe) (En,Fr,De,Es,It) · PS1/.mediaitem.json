@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Omega Boost (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Omega Boost (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f10ad1bc4373d25de2f283b5b764b6c0",
+        "sha1": "6e5c82a710bfcd9f26d503b961493236ce6184b0",
+        "crc32": "4bf3acc4"
+      }
+    },
+    {
+      "filename": "Omega Boost (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 594420960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e78344605eab8ee86361d22a935496ae",
+        "sha1": "f33cdd8d3305ef6778c7fe7287a0429e88bcfd17",
+        "crc32": "4c403f3c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pet Pet Pet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pet Pet Pet (Japan).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "55147850812d9ad8ae97c02ca0e1a7ef",
+        "sha1": "2f34cd5d3da851a6662f4ad98c4b29911502b3f1",
+        "crc32": "5eeee21e"
+      }
+    },
+    {
+      "filename": "Pet Pet Pet (Japan) (Track 1).bin",
+      "filesize": 446790624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb0bf13522c5cb06a1c208dd824129ad",
+        "sha1": "403736fad8a9b59ffef876a46db40b7c220a5c6d",
+        "crc32": "9feef07f"
+      }
+    },
+    {
+      "filename": "Pet Pet Pet (Japan) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

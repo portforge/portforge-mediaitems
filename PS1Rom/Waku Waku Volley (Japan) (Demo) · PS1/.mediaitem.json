@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Waku Waku Volley (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Waku Waku Volley (Japan) (Demo).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9cbb483dc4d9f1531533b99f325b3dd3",
+        "sha1": "dfed12f1a477d4af9d6d2ec7f1ae5509fab1037d",
+        "crc32": "e64c0c13"
+      }
+    },
+    {
+      "filename": "Waku Waku Volley (Japan) (Demo) (Track 1).bin",
+      "filesize": 18870096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e694cba7c74f255d6afb8427e340d18",
+        "sha1": "d7f750566c3be8cfdf2a50b6d592abe4fe6bbdb5",
+        "crc32": "59a83f90"
+      }
+    },
+    {
+      "filename": "Waku Waku Volley (Japan) (Demo) (Track 2).bin",
+      "filesize": 51508800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be3de088b258fdd27785fc4346408dfa",
+        "sha1": "24f9325d2bb236a855562fa40f906821b7e438b3",
+        "crc32": "cf56cbc1"
+      }
+    }
+  ]
+}

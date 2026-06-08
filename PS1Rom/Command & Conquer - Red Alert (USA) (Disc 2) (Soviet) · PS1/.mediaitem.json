@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Red Alert (USA) (Disc 2) (Soviet)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Red Alert (USA) (Disc 2) (Soviet).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa5fff57614e311df4f56cc2629930b7",
+        "sha1": "68bbf54ae10bb0c50c6495bb1f4ae64a67c4bd3b",
+        "crc32": "212ad411"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Red Alert (USA) (Disc 2) (Soviet).bin",
+      "filesize": 740818848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5c717fb161e26967274b6192f8ce235",
+        "sha1": "f6eeb48a8bcec02a07315bb2c176718474042da6",
+        "crc32": "15aaf6f5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 2).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f4735da7ed3975d25cd84d8975bb55a",
+        "sha1": "5b84ea5d79acc2906f5ed1c2f88d16d23a6a7483",
+        "crc32": "84e1a807"
+      }
+    },
+    {
+      "filename": "Tomoyasu Hotei - Stolen Song (Japan) (Taikenban 2).bin",
+      "filesize": 633842832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fdda61dc63545ee294c767e1206d8f5",
+        "sha1": "7cf8cdfd0d9ba427c52dd31cca4eb4007ce9a31d",
+        "crc32": "bca820de"
+      }
+    }
+  ]
+}

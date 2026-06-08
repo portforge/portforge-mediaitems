@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F.A. Premier League Stars 2001, The (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F.A. Premier League Stars 2001, The (Europe).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad8a626d7e1fa78309b5e24d39c48fd6",
+        "sha1": "49b648ff2a6dc41a5c10784d04224c1953355fe8",
+        "crc32": "70be3228"
+      }
+    },
+    {
+      "filename": "F.A. Premier League Stars 2001, The (Europe) (Track 1).bin",
+      "filesize": 659667792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b28ec20b13690edb9fd49ff0aac1289d",
+        "sha1": "59f2d95cde4ab7527d2b0a1b3cc33929afabfd38",
+        "crc32": "47e4f84d"
+      }
+    },
+    {
+      "filename": "F.A. Premier League Stars 2001, The (Europe) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

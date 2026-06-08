@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TechnoMage - Ritorno all'Eternita (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TechnoMage - Ritorno all'Eternita (Italy).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c5a0a5fc27ae45342b8702f3169ee87",
+        "sha1": "69a1e3cad8753b0e82e1cf5ca434d72706a287bb",
+        "crc32": "3cbf68ca"
+      }
+    },
+    {
+      "filename": "TechnoMage - Ritorno all'Eternita (Italy).bin",
+      "filesize": 672236880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a65bdba63e8a30943912ddae2cf934d2",
+        "sha1": "a84bdb4eab9571a3baa9a663ce7b93c8c3bb6e06",
+        "crc32": "c28f565a"
+      }
+    }
+  ]
+}

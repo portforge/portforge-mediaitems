@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Courier Crisis - The Saga of the Modern Fatalist (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Courier Crisis - The Saga of the Modern Fatalist (USA).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "369105fb7bc5b8f3d02278249659cf24",
+        "sha1": "7e39115c8a3089d439ee25e7a88a32c5a7947995",
+        "crc32": "e07d5027"
+      }
+    },
+    {
+      "filename": "Courier Crisis - The Saga of the Modern Fatalist (USA).bin",
+      "filesize": 377717088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b12ae82174ee512c1ca79326cbc7e01d",
+        "sha1": "128d0808e4ec8b8f84881bda2ea880ee4cfcd89b",
+        "crc32": "4996ad1d"
+      }
+    }
+  ]
+}

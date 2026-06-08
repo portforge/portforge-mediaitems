@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colin McRae - The Rally 02 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colin McRae - The Rally 02 (Japan).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62f8269521b00f2a241eeec67a7f53e2",
+        "sha1": "2e9cac33b14b072d4906c9dce0046ee9b69dab3f",
+        "crc32": "8921f900"
+      }
+    },
+    {
+      "filename": "Colin McRae - The Rally 02 (Japan) (Track 1).bin",
+      "filesize": 315304416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1beaac3b13c8c2e8726a413b9c01acf6",
+        "sha1": "7fa02ca889e1571ac0616c37e86e554a7081a39a",
+        "crc32": "8d73babb"
+      }
+    },
+    {
+      "filename": "Colin McRae - The Rally 02 (Japan) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

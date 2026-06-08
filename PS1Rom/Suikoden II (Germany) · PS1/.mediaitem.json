@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suikoden II (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suikoden II (Germany).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "259fca2c84dceb2d87f6dc913dfb70bd",
+        "sha1": "088a7fdad2fe8690fc58f832ab0673c46dc8f569",
+        "crc32": "6492569d"
+      }
+    },
+    {
+      "filename": "Suikoden II (Germany).bin",
+      "filesize": 514904544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4799eaa4a49436e9332ebf236d7c690",
+        "sha1": "d361ab24942b97e672739f119a794b8cf2494daf",
+        "crc32": "b806d4e7"
+      }
+    }
+  ]
+}

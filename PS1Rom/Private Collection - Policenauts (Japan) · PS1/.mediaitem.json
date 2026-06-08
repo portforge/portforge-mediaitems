@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Private Collection - Policenauts (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Private Collection - Policenauts (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04bce2de0a2e77988d0e82be73525783",
+        "sha1": "5d8515e1414f5b1830b46758683f70504e36467c",
+        "crc32": "2da312ef"
+      }
+    },
+    {
+      "filename": "Private Collection - Policenauts (Japan).bin",
+      "filesize": 597687888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e231ba723a8738ac473827e9789ba76a",
+        "sha1": "973abb5c26662d90ebef61e82188b593a9824df5",
+        "crc32": "f7c2e488"
+      }
+    }
+  ]
+}

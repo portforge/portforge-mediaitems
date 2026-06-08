@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grandia (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grandia (USA) (Disc 2).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a8ca66a58f8ab1062aa465b200c5e7bb",
+        "sha1": "2b9d52b4d98f9ee4cbc8a247d5ddc5f97f1229fb",
+        "crc32": "0e0d44ea"
+      }
+    },
+    {
+      "filename": "Grandia (USA) (Disc 2).bin",
+      "filesize": 678142752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfd84253d3d3e8acac7cc26d6336d3af",
+        "sha1": "c4a5d7528b711990312495719e06d63273974139",
+        "crc32": "b26ba8ca"
+      }
+    }
+  ]
+}

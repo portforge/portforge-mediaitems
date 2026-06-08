@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It).cue",
+      "filesize": 1046,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90289a9f06c897dfdde388a293d6561e",
+        "sha1": "a3c27c71aeaecff82831fc2456a217e318c94147",
+        "crc32": "54db35c9"
+      }
+    },
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It) (Track 1).bin",
+      "filesize": 390246192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4a021a7a0727df8bb30f1703b7c591c",
+        "sha1": "7a498e66fda0b663e37fccdfeddc9aae6eced9e3",
+        "crc32": "6228bbcc"
+      }
+    },
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It) (Track 2).bin",
+      "filesize": 50998416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b16df8e3099cc0da239f0e009fe4881",
+        "sha1": "4cb14569265a47999ccd213e5281e1f7962ca190",
+        "crc32": "eb0a8074"
+      }
+    },
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It) (Track 3).bin",
+      "filesize": 17851680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fc41ba7d625452b1d6b7efb228b31ef",
+        "sha1": "335607af4e76ab3b2d288e8f5f0d2ff5585c85cb",
+        "crc32": "0cf71c8e"
+      }
+    },
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It) (Track 4).bin",
+      "filesize": 33701808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4f8a8d1ec1fd0c6e7ff49e4b3ac518b",
+        "sha1": "980de4355319be8381226a524feb41be3ec7f778",
+        "crc32": "9cae3282"
+      }
+    },
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It) (Track 5).bin",
+      "filesize": 9041088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "419b90282e7609006b638c3aa60908d8",
+        "sha1": "c075e64baac82fc11a1ef981d9221620ce4c89ae",
+        "crc32": "f1443559"
+      }
+    },
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It) (Track 6).bin",
+      "filesize": 4235952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f49dcfdf39005e3384c9e22aa12674f",
+        "sha1": "ebac3ebe76d36e9dcc3429608b1af2772ad0631c",
+        "crc32": "92b41442"
+      }
+    },
+    {
+      "filename": "Michael Owen's World League Soccer '99 (Europe) (En,Fr,It) (Track 7).bin",
+      "filesize": 50379840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b91e52a34a96ffa90b1fefbee03fd6e7",
+        "sha1": "4fcf5e202cb339d1114b5c1261ff648d884dcb30",
+        "crc32": "902a2780"
+      }
+    }
+  ]
+}

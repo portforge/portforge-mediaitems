@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ciudad de los Ninos Perdidos, La (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ciudad de los Ninos Perdidos, La (Spain).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "10f14330f79109c336fc470fb430293f",
+        "sha1": "4f959b278e67935eb103f61ee8244be16d1e9643",
+        "crc32": "a858c290"
+      }
+    },
+    {
+      "filename": "Ciudad de los Ninos Perdidos, La (Spain) (Track 1).bin",
+      "filesize": 327010320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26e273c62d23d0aa4262d4592b3086a8",
+        "sha1": "53df02c377b1a9d6ff9a260b2413c9e2843ba6c1",
+        "crc32": "2e257d9d"
+      }
+    },
+    {
+      "filename": "Ciudad de los Ninos Perdidos, La (Spain) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

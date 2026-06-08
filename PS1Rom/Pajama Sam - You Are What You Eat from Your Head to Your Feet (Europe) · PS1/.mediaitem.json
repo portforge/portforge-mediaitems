@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pajama Sam - You Are What You Eat from Your Head to Your Feet (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pajama Sam - You Are What You Eat from Your Head to Your Feet (Europe).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a93b502557ecd948ae55d71ef0159b7f",
+        "sha1": "ce68161d90b2f5669b08dbb8cbca6db1bcef16d7",
+        "crc32": "ff808cb3"
+      }
+    },
+    {
+      "filename": "Pajama Sam - You Are What You Eat from Your Head to Your Feet (Europe).bin",
+      "filesize": 576204720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be6f429a82c05079ca7d2085501efc52",
+        "sha1": "cf251ce757a911a54ca91e3a0b23c24af950d4a1",
+        "crc32": "82d77a99"
+      }
+    }
+  ]
+}

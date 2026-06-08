@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro Logic Mahjong Haishin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro Logic Mahjong Haishin (Japan).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d76fef325f2f2ff132713164fd5618b",
+        "sha1": "c48ce99992fdb5a14eadd84bd5d1328fa97c5c7c",
+        "crc32": "04ffc5af"
+      }
+    },
+    {
+      "filename": "Pro Logic Mahjong Haishin (Japan) (Track 1).bin",
+      "filesize": 19411056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e58501eed29f90cd05cacd61c5efaa63",
+        "sha1": "329b47139f3d249a10894cbc6038df26d7c487e8",
+        "crc32": "a3b48ee6"
+      }
+    },
+    {
+      "filename": "Pro Logic Mahjong Haishin (Japan) (Track 2).bin",
+      "filesize": 667314144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da4012a62f707558fed6650534776625",
+        "sha1": "d01449d989c80ebc48da4b55383c47f7fc1f41ff",
+        "crc32": "07213239"
+      }
+    },
+    {
+      "filename": "Pro Logic Mahjong Haishin (Japan) (Track 3).bin",
+      "filesize": 39715872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fab37edf0dcca3b989edbe2df26f0bb",
+        "sha1": "663534fcee3128c4c29e79cb1becc92501e8508c",
+        "crc32": "364325fd"
+      }
+    }
+  ]
+}

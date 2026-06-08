@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zero Divide 2 - The Secret Wish (Europe) (Beta) (1997-09-02)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (Europe) (Beta) (1997-09-02).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29b2ed1daede37d625235263b14a3ff3",
+        "sha1": "5eec3c604d5f7938101866028de091605ba6fc86",
+        "crc32": "5dba70b5"
+      }
+    },
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (Europe) (Beta) (1997-09-02).bin",
+      "filesize": 503706672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd0840db7c2fc2e1b7a23a8b4fd31007",
+        "sha1": "ceeef8f4f94af5a0ae7ebd5dbf269f2b1ee159ef",
+        "crc32": "1030bd79"
+      }
+    }
+  ]
+}

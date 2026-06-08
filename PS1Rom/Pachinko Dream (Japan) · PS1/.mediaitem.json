@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachinko Dream (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachinko Dream (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "da6664576ec66cc1d69197ac4cce42c4",
+        "sha1": "33f9eeee15e9828d69de7a06291eb29fe31223c3",
+        "crc32": "74aa94c9"
+      }
+    },
+    {
+      "filename": "Pachinko Dream (Japan).bin",
+      "filesize": 297001152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "822570e1d7835861eb5f5b7a984873f9",
+        "sha1": "af3d24ae4d8d8dc628cd5783afea90750f3bb1fb",
+        "crc32": "9e2b7de5"
+      }
+    }
+  ]
+}

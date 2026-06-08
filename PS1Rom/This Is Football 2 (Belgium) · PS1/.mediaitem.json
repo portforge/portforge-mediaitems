@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "This Is Football 2 (Belgium)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "This Is Football 2 (Belgium).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11a426d051d462ca75348c54c6463539",
+        "sha1": "a85585b8dcfca80efad4bced77654f40f7f4dd64",
+        "crc32": "dc2aca0a"
+      }
+    },
+    {
+      "filename": "This Is Football 2 (Belgium).bin",
+      "filesize": 648448752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38c90dbe4a8c94aa6ace4d8e4bbf2349",
+        "sha1": "4fe12680d06469ffc13af5281076877053275cb2",
+        "crc32": "29d0e118"
+      }
+    }
+  ]
+}

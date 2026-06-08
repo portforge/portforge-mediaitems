@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA ShootOut 2004 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA ShootOut 2004 (USA).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0aa1897b6e41251253348528b711c1b7",
+        "sha1": "699e02f24e640336205a6d962c40acfcddd8eab6",
+        "crc32": "c2038479"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2004 (USA) (Track 1).bin",
+      "filesize": 293463744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ece2c9941dd2fc7c829ed480f0b26215",
+        "sha1": "c31dc03a192e6b1ebe77d2633e99879d7aa197ac",
+        "crc32": "79222875"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2004 (USA) (Track 2).bin",
+      "filesize": 49163856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "086fe7ad55f249eb23d72a7e869e1bfd",
+        "sha1": "385a2ae378d72a8c14b4cbeaa6b2b88684f2e2d9",
+        "crc32": "c98257df"
+      }
+    }
+  ]
+}

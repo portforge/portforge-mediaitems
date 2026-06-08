@@ -1,0 +1,987 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sabrina the Teenage Witch - A Twitch in Time! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA).cue",
+      "filesize": 14144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "795cdbf9025a89a4712516defe61786b",
+        "sha1": "97e710b2bfec0f28e17209808a52ffba5a1b0df1",
+        "crc32": "ec9dcb19"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 01).bin",
+      "filesize": 95484144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bbea5db100947fa36ece18eaa61ca7a",
+        "sha1": "7ea984fb4292e2e96c58eb436ec60539d56f490a",
+        "crc32": "abec82b6"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 02).bin",
+      "filesize": 19582752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b480d2619bca7f274bc31a88af18236e",
+        "sha1": "37aa0dfb0ed11c43b378f7ad674c9b780bda20e9",
+        "crc32": "780cacc6"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 03).bin",
+      "filesize": 19413408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe15eff4b3e998f73482601a61f269d5",
+        "sha1": "089f534052583a29c8e15c5fc7a304546a9f148a",
+        "crc32": "698840a2"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 04).bin",
+      "filesize": 20107248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47e4ea2516ab180b6a72109442ec1ebf",
+        "sha1": "08aa8f87719a503484c6e6c4e3f5ff6582ddf585",
+        "crc32": "48d72d50"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 05).bin",
+      "filesize": 26511744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1a918fe5309f02eab9d2027a500faae",
+        "sha1": "aaab1e17f0368f883b1e5487152e482d74da1535",
+        "crc32": "44407d1a"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 06).bin",
+      "filesize": 21626640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f9e3fc61db5d394132a0db899202849",
+        "sha1": "1c1664f8b1c2c029dec20f36d90b337be78014fc",
+        "crc32": "8cf049a0"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 07).bin",
+      "filesize": 26511744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1a918fe5309f02eab9d2027a500faae",
+        "sha1": "aaab1e17f0368f883b1e5487152e482d74da1535",
+        "crc32": "44407d1a"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 08).bin",
+      "filesize": 21626640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f9e3fc61db5d394132a0db899202849",
+        "sha1": "1c1664f8b1c2c029dec20f36d90b337be78014fc",
+        "crc32": "8cf049a0"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 09).bin",
+      "filesize": 25862592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78e549fe4c9f665f4b19ec55d06b6c19",
+        "sha1": "58a53187a7699a22f1317840e345d8a2ef5d6f03",
+        "crc32": "8a966913"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 10).bin",
+      "filesize": 23200128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9dd7571b231f9d7b2a3e04d47952f38d",
+        "sha1": "c4e6c9ed2e34f017f03365a0fc042d7e38481a36",
+        "crc32": "983d74eb"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 11).bin",
+      "filesize": 25862592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78e549fe4c9f665f4b19ec55d06b6c19",
+        "sha1": "58a53187a7699a22f1317840e345d8a2ef5d6f03",
+        "crc32": "8a966913"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 12).bin",
+      "filesize": 23200128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9dd7571b231f9d7b2a3e04d47952f38d",
+        "sha1": "c4e6c9ed2e34f017f03365a0fc042d7e38481a36",
+        "crc32": "983d74eb"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 13).bin",
+      "filesize": 26511744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6fd32fa6bae3c0b0d219718d1ccfd1e",
+        "sha1": "fdaacfd281b8338ea8ed685e651cf811a610e9e0",
+        "crc32": "4a5676b4"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 14).bin",
+      "filesize": 21962976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d629d3291c78aae4c74876653f8ccf3",
+        "sha1": "f04e62debb2321cf9a1c868f342b6218c5bf39c7",
+        "crc32": "d67695ed"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 15).bin",
+      "filesize": 26511744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6fd32fa6bae3c0b0d219718d1ccfd1e",
+        "sha1": "fdaacfd281b8338ea8ed685e651cf811a610e9e0",
+        "crc32": "4a5676b4"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 16).bin",
+      "filesize": 21962976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d629d3291c78aae4c74876653f8ccf3",
+        "sha1": "f04e62debb2321cf9a1c868f342b6218c5bf39c7",
+        "crc32": "d67695ed"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 17).bin",
+      "filesize": 23037840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a0c327741d7a1f9e3d7e6fee03e7a89",
+        "sha1": "0b494fa6cc4d9772c4831c688ce711bdfd6ffa35",
+        "crc32": "6a54a7bb"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 18).bin",
+      "filesize": 27339648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "739fc06175f26c618b6e5eadb5152c0d",
+        "sha1": "29663849ce1f98fc2c7eeb3b6a711ea41a84b9e2",
+        "crc32": "eb78b7b9"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 19).bin",
+      "filesize": 23037840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a0c327741d7a1f9e3d7e6fee03e7a89",
+        "sha1": "0b494fa6cc4d9772c4831c688ce711bdfd6ffa35",
+        "crc32": "6a54a7bb"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 20).bin",
+      "filesize": 27339648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "739fc06175f26c618b6e5eadb5152c0d",
+        "sha1": "29663849ce1f98fc2c7eeb3b6a711ea41a84b9e2",
+        "crc32": "eb78b7b9"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 21).bin",
+      "filesize": 2076816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13e52ca78cf4c9a15255da70b7dae5cb",
+        "sha1": "4554a8fa91a09cb7ba1ea67c977b2b2c53439b5a",
+        "crc32": "8f0a72bc"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 22).bin",
+      "filesize": 2269680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a3bb5804da2bce1230d6ae8f46f9c42",
+        "sha1": "1ff63dbb2befd96b6d8fb116e149c012b4a387dc",
+        "crc32": "3d3a8a4a"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 23).bin",
+      "filesize": 2213232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6868bd9289abc90b30faf93a6a6e0225",
+        "sha1": "1cd2bd7a87a5f162b364e6f58d995f4a1a00bf5b",
+        "crc32": "c943afd5"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 24).bin",
+      "filesize": 2490768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb26cbf4fbe2efce71ce4e151944b34c",
+        "sha1": "2408dd6e2a4e78044fb3d3cf03a77a35cc0bbf2d",
+        "crc32": "290b9a80"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 25).bin",
+      "filesize": 2100336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b92dd1dd512ab489ffb13d81b10faf9",
+        "sha1": "cc3d2644f7c3d03f4d48c3e14032e7278056fb75",
+        "crc32": "6379d4fb"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 26).bin",
+      "filesize": 1434720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "448f4baa5b98865edab871e6f996ce3f",
+        "sha1": "81365414e2a14cb9a534a67555dd579cebe01c7c",
+        "crc32": "b6eef500"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 27).bin",
+      "filesize": 2156784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "524f869c814e7161901d818f4f1dd0b8",
+        "sha1": "125dbb2aeb0f04e99e3ea6510c576a053ed3c10c",
+        "crc32": "52336075"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 28).bin",
+      "filesize": 2095632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3428f4e694a89a42230c85075b3644d4",
+        "sha1": "44bb57cc26ac9ee99c829413bb0de987a0ddf669",
+        "crc32": "c497f3cd"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 29).bin",
+      "filesize": 2196768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff0bb5478630a2f3e6f465cc431e311c",
+        "sha1": "455883adc400b81f8faf224422f3745123883f25",
+        "crc32": "8f9d4499"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 30).bin",
+      "filesize": 1796928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32270226810401c76dc001ad7e04ac3c",
+        "sha1": "d122792de79b3c79b8592907e310a019b90bf0fe",
+        "crc32": "ff08d4f1"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 31).bin",
+      "filesize": 1627584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "381fcddd4b18dc2a361f27bdd4477cd4",
+        "sha1": "140727e84f364210cbe374c2e06786642b1af16d",
+        "crc32": "480dbed6"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 32).bin",
+      "filesize": 2368464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c70141322d9943d3f6a3869f9d6d818e",
+        "sha1": "b8106f4bcd9de246dd10338b137761bc21f6e0d2",
+        "crc32": "a7d4f226"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 33).bin",
+      "filesize": 1987440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54defd9cfdd6e1ec99510ff8161dc7cf",
+        "sha1": "ef7633446ab4c2158ca2464eb8aee49ebdb3c40e",
+        "crc32": "3648835b"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 34).bin",
+      "filesize": 2441376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a71478cd486aefbcac23e8296fb8197",
+        "sha1": "8d71fbe849321a063ed21c0ffd3fb713ca4b2e91",
+        "crc32": "2710be5a"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 35).bin",
+      "filesize": 1846320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4523b735c9091477084d0a1f74a8c7c",
+        "sha1": "9554516c90ad8f836ecee6b98e7c4262bc4ba7af",
+        "crc32": "ac5df9b7"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 36).bin",
+      "filesize": 1721664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad2578afbab0b1264b0ee0a3ad1a2887",
+        "sha1": "2b1113ab5ee02234615ee1c5d859dbd926ed3241",
+        "crc32": "60f362de"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 37).bin",
+      "filesize": 2168544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a983124007aa694942c9ce778f627bc5",
+        "sha1": "fb239485ffe8711a66115358eb530342dd6a6bed",
+        "crc32": "461a6b4b"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 38).bin",
+      "filesize": 2001552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c506ba47b667f7e3ccf9e2a5afdba9d",
+        "sha1": "c7a62916c11296a7f4750828130605eb1c4eaa99",
+        "crc32": "9fc6c3f8"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 39).bin",
+      "filesize": 1766352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3578a2827a9ca6bebb61159d9d14bb0",
+        "sha1": "1c38d13f80ad95a268953c95e72ee5400e9098f6",
+        "crc32": "6a2ffd64"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 40).bin",
+      "filesize": 1992144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c48a54bcd0ee1c029001268ac015558",
+        "sha1": "aa513124457328d2bf2cb3ac9a749dd4b58eb8c1",
+        "crc32": "a4e52b24"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 41).bin",
+      "filesize": 1855728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fe6bf5d97fe333580db60a9b4903b47",
+        "sha1": "4a755cf9969c996c89187b172b1619ce2451de3d",
+        "crc32": "710cb26b"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 42).bin",
+      "filesize": 2462544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3bf72084d866e9bdc04e7591ddb18c1",
+        "sha1": "97c2e8ae98fa7c98bd2f18be547eca4be77046d9",
+        "crc32": "3dc05817"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 43).bin",
+      "filesize": 2050944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3dd9058f43f6d17f43e22b7f02ce4fc1",
+        "sha1": "c58e158a81d06928bf91a005ab62b224c4bd5add",
+        "crc32": "e44ead5f"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 44).bin",
+      "filesize": 1430016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "425350b5e604d1194c640bea559c0cd2",
+        "sha1": "ec07fe2258633f9eac7f7ccafc944d7a64542e21",
+        "crc32": "25e30e51"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 45).bin",
+      "filesize": 1808688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dd6e9476d856efb6c6e1e2e94a12f30",
+        "sha1": "c78bfcc068c9ef61f3bcd674e54709a46178566b",
+        "crc32": "a036f999"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 46).bin",
+      "filesize": 2850624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87d56833777f0e61e8fd77a01e9919f9",
+        "sha1": "396a0ac254825089c80278bac5014a652e2b179c",
+        "crc32": "f2e553b6"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 47).bin",
+      "filesize": 1557024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d891b2408b4e6f7e56520ac5495c9bd",
+        "sha1": "8fb64ee689c14e3fc09838008d8cd79112f5892e",
+        "crc32": "78f4d007"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 48).bin",
+      "filesize": 1427664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14f27b610ed0a6f10bf154bd8cb75651",
+        "sha1": "bcd746a578f80b21944e816b86c58bf0afb7f1e0",
+        "crc32": "ae9d468a"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 49).bin",
+      "filesize": 1985088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "505055d8ae7f18cb81bf0bd60a7d0bfd",
+        "sha1": "548a28ae6eb75b900e3b3b6cbd53bc6828c0db25",
+        "crc32": "45ef18ad"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 50).bin",
+      "filesize": 1756944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97fb592ec0c21356e6ca78f00ccce930",
+        "sha1": "b752e4347b41d378de7a78c48d5e67a11921a741",
+        "crc32": "670ac1cc"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 51).bin",
+      "filesize": 1441776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb7265067b8ea380d70a1bf2c643dfed",
+        "sha1": "b84688619289162dcf8afd9b513f49b8410ec266",
+        "crc32": "561b60c7"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 52).bin",
+      "filesize": 1406496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c12a785ce4eb33f26b5d2611f10362ac",
+        "sha1": "46b6e5025a894acc5c354a343280851c1e04877a",
+        "crc32": "8e06180e"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 53).bin",
+      "filesize": 1460592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dae41ff6a17477be86defc5e8fb1fb6",
+        "sha1": "6021fde812f2837ac33f7cbb4e3a401d8dc9dba6",
+        "crc32": "70a31a87"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 54).bin",
+      "filesize": 1589952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9acc4468e507182253fe30b3f7a5c10",
+        "sha1": "b437134fc4e35527edd7c0516e764b3e2c949508",
+        "crc32": "8690c635"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 55).bin",
+      "filesize": 1778112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab09e234e54af04b26b17a185d308480",
+        "sha1": "2c1b6582c64e7086be604aabe9435e6b920d68d6",
+        "crc32": "fc3a5609"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 56).bin",
+      "filesize": 1585248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45e81008ca688dcfc4c12590e283b0af",
+        "sha1": "4edc264924dd0375575de7f8b95690124d4ca5e8",
+        "crc32": "47ffbeea"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 57).bin",
+      "filesize": 1646400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a120516bb9455a43a19b73041bceda6f",
+        "sha1": "8067e1409e8992307c12c0c008159e142ad2fdfc",
+        "crc32": "b2f3c2d7"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 58).bin",
+      "filesize": 1655808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dbaf1b72f5a775f5542dfa7079969a2d",
+        "sha1": "515fbcc80963e8507e9957bc190243344eb2e6a3",
+        "crc32": "3372213f"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 59).bin",
+      "filesize": 1792224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2cf815f17891e4794c6ca0ebb810694",
+        "sha1": "dfd746a4292dfb1339b922e8e176bd46e5eac1ba",
+        "crc32": "c62da630"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 60).bin",
+      "filesize": 1731072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3d16f1f45c131cfb53abd4591bfb4fa",
+        "sha1": "94cf076fcc4f2047506df5142b67750d93e95bae",
+        "crc32": "25d498cf"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 61).bin",
+      "filesize": 1441776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fef4f17f9c98bb74385f6c705424045e",
+        "sha1": "cfe38ee0e1df53921cb4b0ec4be52fbfd10651f3",
+        "crc32": "7b3475e7"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 62).bin",
+      "filesize": 1557024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5596dfea4406662ab5306c8ad1724bb8",
+        "sha1": "8fe68e029913f9156e6d55e318cbffa78daec230",
+        "crc32": "a1f4ec84"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 63).bin",
+      "filesize": 1923936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ed025a0991f53140306f7ebd872be10",
+        "sha1": "3f4362060341fdfb3c3ec0d14ab55bea9743aa7e",
+        "crc32": "d7d10410"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 64).bin",
+      "filesize": 1761648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88a8fb9055149fb28e483b80ac08bad0",
+        "sha1": "1c2e1e90986c785e0bcad64903a80c354ed36eb6",
+        "crc32": "be34540c"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 65).bin",
+      "filesize": 1599360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0553697016263bbefc5417cf80361d29",
+        "sha1": "ffeeb147e21c0e4ad98ff60a9d394b71baf81653",
+        "crc32": "44a22733"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 66).bin",
+      "filesize": 1564080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8133512a54d339bfed52010555819977",
+        "sha1": "1e35bbbfc36d8eec3f4061bed0fd6236aee90a9a",
+        "crc32": "936fc6e9"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 67).bin",
+      "filesize": 2039184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4adc6cc6b17a562b66400139547d6a58",
+        "sha1": "da4a9a56fd22d95ea647d07b3c4885b2532886e4",
+        "crc32": "9d450e86"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 68).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15361c14ae7fc8e6b243e8bcdeaa31bc",
+        "sha1": "a6554554deef938025906936a4b7b4fd7ee4f2b6",
+        "crc32": "527ee9dd"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 69).bin",
+      "filesize": 2274384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47b13bdc3091ecb6f5bd7e2b4bc22c80",
+        "sha1": "88db7b989b7f8afa43501806148455f13e66b2cc",
+        "crc32": "ed1b3c5a"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 70).bin",
+      "filesize": 2892960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "048383d4d019526f20e234bd0b4c4001",
+        "sha1": "37c0fbe5206f83b5784825618fe4338e0a77da78",
+        "crc32": "bd6311f7"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 71).bin",
+      "filesize": 1893360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "445974a1ba56b489149f99c0fe1d07ed",
+        "sha1": "f60aac3d2e53ad38a803ce7eecef6265a6c22b8b",
+        "crc32": "5a1a0094"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 72).bin",
+      "filesize": 2573088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "380f04e9fece29c7c92d258536fdd37e",
+        "sha1": "e7a97c153c582b8097b97e806e3afc83a01ed5ac",
+        "crc32": "294e1c39"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 73).bin",
+      "filesize": 1437072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6767a3e59a99e187f5b9185f3c723492",
+        "sha1": "a05a0ed4fe4c9edae50d3319b2cf2cec29797962",
+        "crc32": "725c2688"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 74).bin",
+      "filesize": 1505280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e80c79f501d22b32015cd15db0737b7",
+        "sha1": "cd33735caf85b71be9374757f471623da9de0021",
+        "crc32": "b7dbd04c"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 75).bin",
+      "filesize": 2384928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77a043b4ac91e1b2832efcea5f8917c5",
+        "sha1": "c8d682a9dc3ddcd6506a501e63579859bdeb4b7b",
+        "crc32": "0d95f988"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 76).bin",
+      "filesize": 1432368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "770af29d2f602fc41755cdae162628c7",
+        "sha1": "a6b4cf72ea191d3683e72a9aa90240607cd03ebc",
+        "crc32": "5ee25653"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 77).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d053af584e6d69d32ca7a7602f06b527",
+        "sha1": "9f0efa0280c0dec2b3512eb3b101ea4e9b9b0520",
+        "crc32": "695202c1"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 78).bin",
+      "filesize": 1636992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b60dbdb726d213990b74d419441e304",
+        "sha1": "0777bd4468541e6d202309a2691799c0b90825c3",
+        "crc32": "f1bf80e1"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 79).bin",
+      "filesize": 2140320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd80d8cd9d6ee4207c8aedf5ba1576fb",
+        "sha1": "8c8842def6e149107715c16b0bd95518f3b26391",
+        "crc32": "8ced1ec0"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 80).bin",
+      "filesize": 1425312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faa08fa76d98647dfd09e75251835a60",
+        "sha1": "e12af5ca6c3509780ce31bc9ceaf7d4a16e4ca18",
+        "crc32": "b819343f"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 81).bin",
+      "filesize": 1636992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05e0176fd41adbab9a329fe94ab3cf2a",
+        "sha1": "9d3f4515fb19221039ce7610181aba6b8c1fe3b4",
+        "crc32": "930d536a"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 82).bin",
+      "filesize": 1806336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fce44dbee978d9527af73d2042129289",
+        "sha1": "166a0aa5849c0ae9c6fff3e49e5acbcb45cf1fb3",
+        "crc32": "7a753f22"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 83).bin",
+      "filesize": 3358656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b0ca05740c834e70f9ed02846d14de0",
+        "sha1": "4e926bb0bc1c57c18a480fc15f3eae4a4030f76c",
+        "crc32": "153d99a4"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 84).bin",
+      "filesize": 4139520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2dc88d44c9ee38c6ee9d0d9dfc18be7c",
+        "sha1": "6b82bd20aec022b75b5d81d450e8efed19b37758",
+        "crc32": "c2893499"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 85).bin",
+      "filesize": 4553472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5708260c2e4e611e47423ca71f3f2c60",
+        "sha1": "3e5b47c515d5776aa57e3da02814bcc0276a5427",
+        "crc32": "a41890cb"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 86).bin",
+      "filesize": 4278288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2345db2cf16a271d628a61706d7a764d",
+        "sha1": "0fa78fb0e3f02f33d8736d87ac6a453d1d32d698",
+        "crc32": "e7a51799"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 87).bin",
+      "filesize": 1425312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38dea394787acd8d08e250b8bc1f6319",
+        "sha1": "3cd81b462441a6868e4430ffd62e7e43a728a4ff",
+        "crc32": "bdfbe4fa"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 88).bin",
+      "filesize": 1660512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bde2ab94a52d13d9c361dd06b6210115",
+        "sha1": "aaeeba1fbda0bc067526332b1f4844052d2dc85d",
+        "crc32": "300607f6"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 89).bin",
+      "filesize": 1479408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49a09bd5d0a82d46a02f10108250907c",
+        "sha1": "a4005df68f887792cc6dc210115a310b5822bd11",
+        "crc32": "a92d9166"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 90).bin",
+      "filesize": 3744384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12ce34d552cb0b074eac954de60a5137",
+        "sha1": "6ab7f0d743edb26b5d702221d4a142b2d59107b3",
+        "crc32": "00fd8aeb"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 91).bin",
+      "filesize": 2481360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32fd1b07e22db2d32311b906edee548f",
+        "sha1": "68f41597f87e77732f5bbba13659f50c7bf4d085",
+        "crc32": "7da93919"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 92).bin",
+      "filesize": 2018016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f55b0ca338a4a5a370961166e94219a",
+        "sha1": "520933453d23281f5c34910c6efc9f198986b3ab",
+        "crc32": "b2add8df"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 93).bin",
+      "filesize": 1841616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24127d46842ef18ac2ed82e424f6f0fa",
+        "sha1": "72a8e0fffa6dcbf87f84e202619fcd5404eeb14b",
+        "crc32": "902f0c66"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 94).bin",
+      "filesize": 2250864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94e60723ca35f0d9e9fbaf4e3807775b",
+        "sha1": "42bc000c8ab7a815071b61216e8192af7c457957",
+        "crc32": "fafaad2e"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 95).bin",
+      "filesize": 2497824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77b03442f1b468a20700bdb242544800",
+        "sha1": "65c26d0dcb0ca0a983c69204286830f5345aa43d",
+        "crc32": "4879ca1d"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 96).bin",
+      "filesize": 2486064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1d973ac139065426480a7de4264f82e",
+        "sha1": "6c476681c67c6d89cab3d49c1dbe720a9914cbbc",
+        "crc32": "0855599d"
+      }
+    },
+    {
+      "filename": "Sabrina the Teenage Witch - A Twitch in Time! (USA) (Track 97).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "952d15640b57c777f98881d396c811b9",
+        "sha1": "17eb815534b854c7476ed098571ee8d74c6554a5",
+        "crc32": "bb550936"
+      }
+    }
+  ]
+}

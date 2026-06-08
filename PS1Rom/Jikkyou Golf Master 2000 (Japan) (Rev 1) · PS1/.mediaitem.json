@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikkyou Golf Master 2000 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikkyou Golf Master 2000 (Japan) (Rev 1).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e651a2e9cc25da25744a8fc2cc58771",
+        "sha1": "fe067f7ae1d5f2b5f92e0604ad753ac453454445",
+        "crc32": "4010008d"
+      }
+    },
+    {
+      "filename": "Jikkyou Golf Master 2000 (Japan) (Rev 1).bin",
+      "filesize": 545793360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc19655581b59540b1c641e3006533cf",
+        "sha1": "60e448e642e95314a6bd6f47ac74d96481eff874",
+        "crc32": "5861bbbe"
+      }
+    }
+  ]
+}

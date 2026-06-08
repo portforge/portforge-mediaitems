@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ape Escape (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ape Escape (Germany).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "abf782de6ec92b967e8ca6bfe5e82518",
+        "sha1": "e3f68ed50742646a5a5e2bf9c6cc230fd43fd5bc",
+        "crc32": "57dfb143"
+      }
+    },
+    {
+      "filename": "Ape Escape (Germany).bin",
+      "filesize": 427320768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63710ae74dfc705eddc9d2c20e260d4d",
+        "sha1": "091b3236796f8abf94b084d4d49d2c8b74e78758",
+        "crc32": "b5660f4d"
+      }
+    }
+  ]
+}

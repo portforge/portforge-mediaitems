@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D17 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D17 (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "53ae2b8e0672c01ea5a94d340cb9e8df",
+        "sha1": "340bec7670a36955420b0fed988b45e73110843f",
+        "crc32": "3a7fe7fd"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D17 (Japan) (Track 1).bin",
+      "filesize": 556429104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71eafd64a2c18116650549ea6f54165d",
+        "sha1": "2b603c0ded116e457e8feb3323ca4140ac100729",
+        "crc32": "fcf3b265"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D17 (Japan) (Track 2).bin",
+      "filesize": 18324432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2facc9c5d0bab036b12b88a6029cc042",
+        "sha1": "e5d8349e8b8adb23dcab2f98404e50b7a1828b1b",
+        "crc32": "3e3574c0"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D17 (Japan) (Track 3).bin",
+      "filesize": 38805648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c66b632be07198f788dfd12a62869a5",
+        "sha1": "8336dfe0b4b99c81af0919fb1006536a21bbdbd7",
+        "crc32": "3b2a5675"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D17 (Japan) (Track 4).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

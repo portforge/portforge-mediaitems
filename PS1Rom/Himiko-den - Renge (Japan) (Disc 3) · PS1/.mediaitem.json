@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Himiko-den - Renge (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Himiko-den - Renge (Japan) (Disc 3).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ff5597f3fd21d11a5c535d5f28f2efb",
+        "sha1": "b9727f77d0dac1cb80dc1e32fb5e782926d4eb5f",
+        "crc32": "dc82c729"
+      }
+    },
+    {
+      "filename": "Himiko-den - Renge (Japan) (Disc 3).bin",
+      "filesize": 715269072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "827e09171a024ca92b39e21f40794c7a",
+        "sha1": "23a585d77e9f7e7d7c2ec43b69aa488c3024846f",
+        "crc32": "05f1d77d"
+      }
+    }
+  ]
+}

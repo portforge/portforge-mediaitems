@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Momotarou Dentetsu V (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Momotarou Dentetsu V (Japan) (Rev 1).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14b7ea380157c3cd1fc4adf8cc3a2046",
+        "sha1": "c8121a75ccf83413bb15cda550cc1497a9c0327f",
+        "crc32": "fd301ef1"
+      }
+    },
+    {
+      "filename": "Momotarou Dentetsu V (Japan) (Rev 1).bin",
+      "filesize": 190316784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8ced0e4f2a64d3c2c2733ed2a6d0f68",
+        "sha1": "8700efb2679efca8553fe8481c614cbf06185679",
+        "crc32": "b16e8368"
+      }
+    }
+  ]
+}

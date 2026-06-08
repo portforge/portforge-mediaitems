@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Two (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Two (UK) (Unl).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "671553a3e82e9cc624f7dc3ee1b1bbd4",
+        "sha1": "71ba7386ce65ef1393b587d093ebc349c2f37477",
+        "crc32": "a7a674ff"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Two (UK) (Unl).bin",
+      "filesize": 436470048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecfa5c0d3022972d8aa3c16fe8dfda97",
+        "sha1": "85c1d548a949c16ad338c2ef70a4b9f79d065487",
+        "crc32": "bd4650d1"
+      }
+    }
+  ]
+}

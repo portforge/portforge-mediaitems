@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Umi no Nushi-tsuri - Takarajima ni Mukatte (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Umi no Nushi-tsuri - Takarajima ni Mukatte (Japan) (Demo).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6df998faa8df483b35b2448fffbe8f96",
+        "sha1": "5045f6ba563c6b243ffeb0a983a2bb7d1962c76c",
+        "crc32": "ea6a33d2"
+      }
+    },
+    {
+      "filename": "Umi no Nushi-tsuri - Takarajima ni Mukatte (Japan) (Demo).bin",
+      "filesize": 117823440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bc174ade00587f6f8545c0392f10239",
+        "sha1": "3a5554d1d7afed9ff2a5d6e37d87e38f5cae26ca",
+        "crc32": "849ca734"
+      }
+    }
+  ]
+}

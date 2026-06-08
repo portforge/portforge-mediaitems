@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koukaku Kidoutai - Ghost in the Shell (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koukaku Kidoutai - Ghost in the Shell (Japan, Asia).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de1a82b3f88735da70d26d66f17944ef",
+        "sha1": "eea476995d66168be885232cf78afc815669f676",
+        "crc32": "5d9c5529"
+      }
+    },
+    {
+      "filename": "Koukaku Kidoutai - Ghost in the Shell (Japan, Asia).bin",
+      "filesize": 660211104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3c4bc251171fa44b42b3e247e8fcddf",
+        "sha1": "973eabb8f739b765350cb1a4d15edb8fc97d4f68",
+        "crc32": "c2f78a8b"
+      }
+    }
+  ]
+}

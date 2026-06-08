@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 3in1 Series - Tsuri-shuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 3in1 Series - Tsuri-shuu (Japan).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29b91a9b0067e4a66c1f972a5e66e467",
+        "sha1": "a842aff3d2330601f99cd03b83be1ca73eecbaae",
+        "crc32": "9a6aa074"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - Tsuri-shuu (Japan) (Track 1).bin",
+      "filesize": 201023088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "573021ebcd167c40329854f16f131622",
+        "sha1": "085bdd664ddbf84b14b5668b74a359864692f19b",
+        "crc32": "96f9da08"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - Tsuri-shuu (Japan) (Track 2).bin",
+      "filesize": 50690304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f70b9168fbc35c5e6c41c87dc4b6c7a",
+        "sha1": "00f062e56f7d745ccdb885010ea8b568777b1b2f",
+        "crc32": "4db4c18e"
+      }
+    }
+  ]
+}

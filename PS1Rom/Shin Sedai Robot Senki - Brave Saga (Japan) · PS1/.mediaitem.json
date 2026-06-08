@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shin Sedai Robot Senki - Brave Saga (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shin Sedai Robot Senki - Brave Saga (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7763be151ecc620d735448a864743ed8",
+        "sha1": "0f63d947d102d7c134768d92da1932800ffbc08e",
+        "crc32": "c7039d7e"
+      }
+    },
+    {
+      "filename": "Shin Sedai Robot Senki - Brave Saga (Japan).bin",
+      "filesize": 685528032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17c48c1475fc2151699b31bdc2376b7f",
+        "sha1": "b3ee1defa1c3369c399048d6cf3028f5d8454410",
+        "crc32": "0aa0adc4"
+      }
+    }
+  ]
+}

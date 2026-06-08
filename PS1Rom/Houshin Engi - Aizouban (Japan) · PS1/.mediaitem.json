@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Houshin Engi - Aizouban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Houshin Engi - Aizouban (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "872f16e2218261a2a199329608d64dc8",
+        "sha1": "d1509da7ba210284ce4578b50468370beb78481e",
+        "crc32": "46905007"
+      }
+    },
+    {
+      "filename": "Houshin Engi - Aizouban (Japan).bin",
+      "filesize": 363266400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d3fc6669fa722737c5599a95ce9fdef",
+        "sha1": "81351d74a1623f65a83220bf313df4a36a953361",
+        "crc32": "9a90d845"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BackGuiner - Yomigaeru Yuushatachi - Service Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BackGuiner - Yomigaeru Yuushatachi - Service Disc (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14a82d01ce5427a66258011c8067b185",
+        "sha1": "acb3243081707bb85976fadbf6da14100b707785",
+        "crc32": "8ff7d425"
+      }
+    },
+    {
+      "filename": "BackGuiner - Yomigaeru Yuushatachi - Service Disc (Japan).bin",
+      "filesize": 562951200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a394ce44e34bdb0ecf10f18447080fc5",
+        "sha1": "2036bd26e0544693567ef00a5b92a0cdb28fd6ff",
+        "crc32": "d6e6a75d"
+      }
+    }
+  ]
+}

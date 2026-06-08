@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rat Attack! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rat Attack! (USA).cue",
+      "filesize": 204,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d48175f07f9fd0014c0e460c1af3b416",
+        "sha1": "c5450c0976c8d9004d4f5a2eb22c1fa2d0c897b2",
+        "crc32": "26c6003b"
+      }
+    },
+    {
+      "filename": "Rat Attack! (USA) (Track 1).bin",
+      "filesize": 525065184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "096439dcd7d5e8d75b1ca6c2281f8a57",
+        "sha1": "8775e354d06b10c3d0628eebecb2c5a063f39832",
+        "crc32": "dd36497d"
+      }
+    },
+    {
+      "filename": "Rat Attack! (USA) (Track 2).bin",
+      "filesize": 51005472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7a9918ef36001e61c109529c188fb76",
+        "sha1": "8c88013b507a53d2b4bff75f79e6312bf3ae19ee",
+        "crc32": "912ac302"
+      }
+    }
+  ]
+}

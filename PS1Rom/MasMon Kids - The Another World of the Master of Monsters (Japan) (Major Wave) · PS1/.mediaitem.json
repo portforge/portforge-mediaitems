@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MasMon Kids - The Another World of the Master of Monsters (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MasMon Kids - The Another World of the Master of Monsters (Japan) (Major Wave).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e2e84b7d9d21205c0162a9086138406",
+        "sha1": "8830f5f06e00afbc2492695a6967493eebca2593",
+        "crc32": "772df8b9"
+      }
+    },
+    {
+      "filename": "MasMon Kids - The Another World of the Master of Monsters (Japan) (Major Wave).bin",
+      "filesize": 219947280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d416f85b9d9684944a06e07cc9d047df",
+        "sha1": "7ff0061deda3f2d647e8febc3dc201c6c17e197f",
+        "crc32": "59ff4c6a"
+      }
+    }
+  ]
+}

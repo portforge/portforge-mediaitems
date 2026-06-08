@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Les Aventures de Lara Croft (France) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Les Aventures de Lara Croft (France) (Rev 1).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a7239ad24a98a365597f583e4afce2b4",
+        "sha1": "e0f716ab5e4073249aca928760f2579497dded94",
+        "crc32": "c1b249db"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Les Aventures de Lara Croft (France) (Rev 1).bin",
+      "filesize": 698859168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94743d3b060dfc3b7fbb1c7c85aa9b23",
+        "sha1": "18db02c3da8cadbf685d429c4cabdf1c021117d4",
+        "crc32": "c4cdcfb8"
+      }
+    }
+  ]
+}

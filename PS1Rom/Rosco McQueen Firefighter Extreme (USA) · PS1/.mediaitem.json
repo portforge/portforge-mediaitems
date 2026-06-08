@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rosco McQueen Firefighter Extreme (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rosco McQueen Firefighter Extreme (USA).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f4975dfe99a102b06e693b318d066356",
+        "sha1": "5a6d130ee41239b958a877a0d46eff10823363cd",
+        "crc32": "bb011c52"
+      }
+    },
+    {
+      "filename": "Rosco McQueen Firefighter Extreme (USA).bin",
+      "filesize": 130058544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b585e1c91b5072a7a2026fd241580ef4",
+        "sha1": "4eec4501b117d6a5b5913d62e66adc983f7dfd14",
+        "crc32": "481ba647"
+      }
+    }
+  ]
+}

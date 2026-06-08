@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Demo One (Version 3) (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia).cue",
+      "filesize": 1332,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8e05eef7c7dce2da4f15970d4790b22",
+        "sha1": "6608cdc295a7770fc13c4ff1f1fccbdbdda6a3bc",
+        "crc32": "dc5be3be"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 01).bin",
+      "filesize": 434830704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b5c41efec8cbaf2ab5cb5aebda5e93a",
+        "sha1": "fbad508250c4c266fcc3589da9395724a10cf5f7",
+        "crc32": "f9a0f871"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 02).bin",
+      "filesize": 34296864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0b57866e12eec5338ba5422ec8b490d",
+        "sha1": "64ae52c5ada72a8c9439f2a8b6a295dff502460a",
+        "crc32": "b24d7910"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 03).bin",
+      "filesize": 53272800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84ec1835e560fd810ba1e85cd150dc50",
+        "sha1": "f444b44ec748403afc9be69bb5183a76bb160a61",
+        "crc32": "b3485dff"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 04).bin",
+      "filesize": 24498432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c12a67d86e224b620e3a90498dd414f",
+        "sha1": "5a856b0e27197dd743e4be3273b931b56782e557",
+        "crc32": "c6a199d0"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 05).bin",
+      "filesize": 1963920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c025295612fdd991ad37c044fa99bad8",
+        "sha1": "7ca5752b02f0fab97e814e4084951d4c65ecad5b",
+        "crc32": "6350449a"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 06).bin",
+      "filesize": 18484368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53ff586399668c658b11387dd2c5a13f",
+        "sha1": "81ed8d6dd8ff0156a1bcc93906f37246a8bdd4ab",
+        "crc32": "39c2ea4e"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 07).bin",
+      "filesize": 23355360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de8de43b2c1be4951d675caaafa284e9",
+        "sha1": "ef5d0fc4d7392ee679eb7ac21600dc747abd0e8c",
+        "crc32": "15efb80d"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 08).bin",
+      "filesize": 1582896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a94d10bae8349b8980e5dcf890d89c64",
+        "sha1": "56a9638194e68415099d6260ffcd91e374a24583",
+        "crc32": "e6570310"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 09).bin",
+      "filesize": 14589456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "267b2ba13899792aee461a75d00747ba",
+        "sha1": "70658781e9b08dee7bcc6cb92ddfc6b0e2aecbf5",
+        "crc32": "d8355029"
+      }
+    },
+    {
+      "filename": "Demo One (Version 3) (Europe, Australia) (Track 10).bin",
+      "filesize": 34296864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0b57866e12eec5338ba5422ec8b490d",
+        "sha1": "64ae52c5ada72a8c9439f2a8b6a295dff502460a",
+        "crc32": "b24d7910"
+      }
+    }
+  ]
+}

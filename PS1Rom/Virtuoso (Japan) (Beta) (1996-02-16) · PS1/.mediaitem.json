@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Virtuoso (Japan) (Beta) (1996-02-16)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Virtuoso (Japan) (Beta) (1996-02-16).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbd39c2fcc2dd16f0540179d591965d2",
+        "sha1": "7fe71f5d9cc3605bd9b1cddabcb4c78913a632e4",
+        "crc32": "e8ab16e6"
+      }
+    },
+    {
+      "filename": "Virtuoso (Japan) (Beta) (1996-02-16).bin",
+      "filesize": 4287696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21010bd957b88b68452e9faacd555099",
+        "sha1": "0c032fbe9d0bf2d719b87e1c35d28cdc7cffdead",
+        "crc32": "8163083d"
+      }
+    }
+  ]
+}

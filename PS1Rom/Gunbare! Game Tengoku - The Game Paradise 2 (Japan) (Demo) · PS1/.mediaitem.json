@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gunbare! Game Tengoku - The Game Paradise 2 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gunbare! Game Tengoku - The Game Paradise 2 (Japan) (Demo).cue",
+      "filesize": 286,
+      "ext": "cue",
+      "checksums": {
+        "md5": "57eedd4d01d0e07ec7ea1b6e076b7eba",
+        "sha1": "7a51bf74b822fe4468bfaf5367d3b856b0ac98e0",
+        "crc32": "84d28415"
+      }
+    },
+    {
+      "filename": "Gunbare! Game Tengoku - The Game Paradise 2 (Japan) (Demo) (Track 1).bin",
+      "filesize": 487510800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea32c12a7af493793d706d907e6ba639",
+        "sha1": "512ea19295c359a9b1d7a9f6cefbb799a5f1a147",
+        "crc32": "3ebcc9db"
+      }
+    },
+    {
+      "filename": "Gunbare! Game Tengoku - The Game Paradise 2 (Japan) (Demo) (Track 2).bin",
+      "filesize": 9095184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "886aa880d678fb40929a0fcacee51bfe",
+        "sha1": "1d9d8a193b827a937a43a956f932d600609595ba",
+        "crc32": "c8d0dedd"
+      }
+    }
+  ]
+}

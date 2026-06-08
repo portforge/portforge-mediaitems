@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Over Drivin' II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Over Drivin' II (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f93720113697ce19e3141da0e6cb7c5f",
+        "sha1": "aa98ce8277f59673df704b590b1efd02b13af5a5",
+        "crc32": "e2af666d"
+      }
+    },
+    {
+      "filename": "Over Drivin' II (Japan).bin",
+      "filesize": 443972928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d35ea54c0337e73baf0cb65f09a2021",
+        "sha1": "00b169dd6d124997013ecc3aaa39cb6c60e44211",
+        "crc32": "0cc66663"
+      }
+    }
+  ]
+}

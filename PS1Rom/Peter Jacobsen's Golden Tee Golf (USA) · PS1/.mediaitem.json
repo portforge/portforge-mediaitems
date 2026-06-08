@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Peter Jacobsen's Golden Tee Golf (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Peter Jacobsen's Golden Tee Golf (USA).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1db5d2a3e9857e8b54e99d50b65dedb",
+        "sha1": "57ab196edc94f3c151d41735f15e562a9d0cd3da",
+        "crc32": "d78e7133"
+      }
+    },
+    {
+      "filename": "Peter Jacobsen's Golden Tee Golf (USA).bin",
+      "filesize": 260011248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da0ee8e1dbdf6a1473208c2c62f76b44",
+        "sha1": "7ad2b19de013a1be29171d813b45954cd068299e",
+        "crc32": "17719c32"
+      }
+    }
+  ]
+}

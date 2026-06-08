@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 08 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 08 (Europe).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c4b1ca3e341e68641a8eacf7bba422a",
+        "sha1": "9a38891cf358a4ef73aa216ce349f12ad1b05c10",
+        "crc32": "bf8c3146"
+      }
+    },
+    {
+      "filename": "Euro Demo 08 (Europe) (Track 1).bin",
+      "filesize": 132365856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84f32fea8a7e700733a2f59b3b44dd25",
+        "sha1": "d61171c6358e1ddc452733f9f340a05de7bdf418",
+        "crc32": "9bd873e9"
+      }
+    },
+    {
+      "filename": "Euro Demo 08 (Europe) (Track 2).bin",
+      "filesize": 43100400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5547119a9345f6fdf7bc21bb42f55370",
+        "sha1": "92f4a705d4cabac930c379e49d219e3484c180b0",
+        "crc32": "ff3bc53e"
+      }
+    },
+    {
+      "filename": "Euro Demo 08 (Europe) (Track 3).bin",
+      "filesize": 31408608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9eabd676aabd81e07e5d68eae145b2b6",
+        "sha1": "294a92cc8a415db3ad038da019c474e2d8540872",
+        "crc32": "029d17a4"
+      }
+    }
+  ]
+}

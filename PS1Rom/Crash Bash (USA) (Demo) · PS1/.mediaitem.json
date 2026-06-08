@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bash (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bash (USA) (Demo).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d2a7b30b513b49e826d275b72c6c9de",
+        "sha1": "22dab9f38fb4b5abba3a3634a22ec1c1de0059f4",
+        "crc32": "c764e06b"
+      }
+    },
+    {
+      "filename": "Crash Bash (USA) (Demo) (Track 1).bin",
+      "filesize": 91746816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5250f41c21007f85950bd66ce8fe7c49",
+        "sha1": "b755eb3dfa8d298899422109d013ab906403b0a3",
+        "crc32": "1d8af875"
+      }
+    },
+    {
+      "filename": "Crash Bash (USA) (Demo) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

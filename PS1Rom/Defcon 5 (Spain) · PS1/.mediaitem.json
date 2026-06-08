@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Defcon 5 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Defcon 5 (Spain).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa9f0a912e962151fc46c0786dd0db13",
+        "sha1": "83e6cc31cb4550e9aa18c696a4011cab2fc6f2dc",
+        "crc32": "f228f143"
+      }
+    },
+    {
+      "filename": "Defcon 5 (Spain) (Track 1).bin",
+      "filesize": 371966448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9dea17b12b4cf567a47e5ef580353cda",
+        "sha1": "d18e4004b81c3e1b73ef732b12f624334300ade0",
+        "crc32": "d3ca91f7"
+      }
+    },
+    {
+      "filename": "Defcon 5 (Spain) (Track 2).bin",
+      "filesize": 139386576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04eafce4cfc699ecdcf7bf70abc68aa9",
+        "sha1": "99070fe4b937d98ad8246d6d9ed556c756dd4dfa",
+        "crc32": "6dc9f182"
+      }
+    },
+    {
+      "filename": "Defcon 5 (Spain) (Track 3).bin",
+      "filesize": 33323136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56a29b30d426ea5e0ccf4605cd634f00",
+        "sha1": "5f2bcfda6ef3a0e41a5003e21e2883cc4f1d82e6",
+        "crc32": "578c45f6"
+      }
+    }
+  ]
+}

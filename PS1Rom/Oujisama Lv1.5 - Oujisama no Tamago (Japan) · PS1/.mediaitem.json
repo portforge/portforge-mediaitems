@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oujisama Lv1.5 - Oujisama no Tamago (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oujisama Lv1.5 - Oujisama no Tamago (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d5416d0d97648fdc000984938afb452",
+        "sha1": "83e3f76e4431656a9133c7e57c7b9703b8b38681",
+        "crc32": "6883d490"
+      }
+    },
+    {
+      "filename": "Oujisama Lv1.5 - Oujisama no Tamago (Japan).bin",
+      "filesize": 533936928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "553ee98224fa57b3e245863f3d6df6cf",
+        "sha1": "71e34fc6d530b354a7358312d2e2aff8dc30fad9",
+        "crc32": "6a076623"
+      }
+    }
+  ]
+}

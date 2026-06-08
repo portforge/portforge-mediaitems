@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 2000 - Major League Soccer (USA) (En,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 2000 - Major League Soccer (USA) (En,De,Es,Nl,Sv).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "181e9b2e7bcf3954f038b44692e9e88e",
+        "sha1": "1c7285cde27400a90b63efd7908d6e5a4e39601c",
+        "crc32": "30bb1243"
+      }
+    },
+    {
+      "filename": "FIFA 2000 - Major League Soccer (USA) (En,De,Es,Nl,Sv).bin",
+      "filesize": 493722432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ea9cbb291bf5ddf7fee51b4f1c66358",
+        "sha1": "56113985952d6a2aee9b9289cf6076957c8e1d0c",
+        "crc32": "1d5be41e"
+      }
+    }
+  ]
+}

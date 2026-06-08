@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 77 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 77 (Europe).cue",
+      "filesize": 442,
+      "ext": "cue",
+      "checksums": {
+        "md5": "333b60ca12dd9bc73d452c786d89045d",
+        "sha1": "57748b47ec4e69f31af5e136548412a5aafcef3c",
+        "crc32": "6f502647"
+      }
+    },
+    {
+      "filename": "Euro Demo 77 (Europe) (Track 1).bin",
+      "filesize": 476033040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0df79e09d7fe38cd1923e24e5e86b3a8",
+        "sha1": "ab4a099517b39f44fe68c20b93dc19797fee4c21",
+        "crc32": "7d0babdd"
+      }
+    },
+    {
+      "filename": "Euro Demo 77 (Europe) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    },
+    {
+      "filename": "Euro Demo 77 (Europe) (Track 3).bin",
+      "filesize": 39179616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd9ae9180c56506b0d902bb47d6a4991",
+        "sha1": "883f47577c58fc6a7ce3534ec711941ef442b76c",
+        "crc32": "2e0c69eb"
+      }
+    },
+    {
+      "filename": "Euro Demo 77 (Europe) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

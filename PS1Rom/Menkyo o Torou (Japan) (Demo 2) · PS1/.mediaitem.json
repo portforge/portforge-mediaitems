@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Menkyo o Torou (Japan) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Menkyo o Torou (Japan) (Demo 2).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f07440a5c22129693a6807a0498dca8",
+        "sha1": "28449e5b384f80e944046247f3174911f867b99e",
+        "crc32": "9d986f37"
+      }
+    },
+    {
+      "filename": "Menkyo o Torou (Japan) (Demo 2).bin",
+      "filesize": 272034672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a25ce4b7d0d68d3b4b286e7ce0173634",
+        "sha1": "9c6e56744c9081d83e8ab5160b7d15c0bbd09435",
+        "crc32": "8a600e0b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sentou Kokka Kai - Improved (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sentou Kokka Kai - Improved (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68ad68b27cba78bafd4c4c77157b2c5c",
+        "sha1": "d388f7eb77982a20d41c3ecc9145403fbeb09109",
+        "crc32": "00876346"
+      }
+    },
+    {
+      "filename": "Sentou Kokka Kai - Improved (Japan).bin",
+      "filesize": 423715152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7328e709e06aa7a2496ea6071b237a4d",
+        "sha1": "7b55920e4261ca7ddf245e84b743ba79225706aa",
+        "crc32": "74e0d4ff"
+      }
+    }
+  ]
+}

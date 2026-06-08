@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alone in the Dark - Jack Is Back (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alone in the Dark - Jack Is Back (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89bd39eae7e4028e50e29e5fd11f6b4e",
+        "sha1": "6ea73167cc18018d4cd0372d2a4fb990e7f86fd5",
+        "crc32": "f7ce671d"
+      }
+    },
+    {
+      "filename": "Alone in the Dark - Jack Is Back (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 714170688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3c0ca3cbbdcb942a039c019d0df897e",
+        "sha1": "ac18785261cca340268dbd27ee156ca2436fcff2",
+        "crc32": "74fbb4a8"
+      }
+    }
+  ]
+}

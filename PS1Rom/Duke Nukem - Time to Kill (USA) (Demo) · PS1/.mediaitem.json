@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Duke Nukem - Time to Kill (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Duke Nukem - Time to Kill (USA) (Demo).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3503a807d2c69de5e48c0432e9b9920e",
+        "sha1": "4a2d18dcd9e989e7aa993562eb25058e19fb5f5a",
+        "crc32": "aa45b70c"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Time to Kill (USA) (Demo).bin",
+      "filesize": 139252512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4493bbcf4a2a19e1d366277b1a394b2",
+        "sha1": "7be0248928539529667b99691917b95ea918ef38",
+        "crc32": "be052dcf"
+      }
+    }
+  ]
+}

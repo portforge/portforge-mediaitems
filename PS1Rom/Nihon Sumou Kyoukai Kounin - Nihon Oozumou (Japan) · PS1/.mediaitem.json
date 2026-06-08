@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nihon Sumou Kyoukai Kounin - Nihon Oozumou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nihon Sumou Kyoukai Kounin - Nihon Oozumou (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4c64887526e364108bdc492b650cd3b7",
+        "sha1": "304c7a72409310f782c0928df12d45d6ed74f442",
+        "crc32": "e0214662"
+      }
+    },
+    {
+      "filename": "Nihon Sumou Kyoukai Kounin - Nihon Oozumou (Japan).bin",
+      "filesize": 324999360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccbeabe306c5c508cd82da9e32653f10",
+        "sha1": "1cdc540551e0146630d1c36144d083c3f7fd1bd6",
+        "crc32": "74a163c3"
+      }
+    }
+  ]
+}

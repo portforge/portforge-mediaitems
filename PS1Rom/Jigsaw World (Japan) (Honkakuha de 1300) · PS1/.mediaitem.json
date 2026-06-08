@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jigsaw World (Japan) (Honkakuha de 1300)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jigsaw World (Japan) (Honkakuha de 1300).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a121626f09422030b73af20b380e1e2",
+        "sha1": "6af6a9833b43501dc82e0e779d6ff9b5ffad84df",
+        "crc32": "abce25b1"
+      }
+    },
+    {
+      "filename": "Jigsaw World (Japan) (Honkakuha de 1300).bin",
+      "filesize": 69574512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0efa8c50a528687e24d985f14f4eaa88",
+        "sha1": "28bedf7c5c7f28847221500e09a3acd1fce923c4",
+        "crc32": "00137035"
+      }
+    }
+  ]
+}

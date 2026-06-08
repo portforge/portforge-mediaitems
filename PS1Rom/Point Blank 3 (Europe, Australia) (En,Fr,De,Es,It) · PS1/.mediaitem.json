@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Point Blank 3 (Europe, Australia) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Point Blank 3 (Europe, Australia) (En,Fr,De,Es,It).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e7e6efa499605fb1e4b767f872b84ba",
+        "sha1": "0b870eadec761a83e5d51a41e55e5d1ee9fb79f6",
+        "crc32": "5373f4fd"
+      }
+    },
+    {
+      "filename": "Point Blank 3 (Europe, Australia) (En,Fr,De,Es,It).bin",
+      "filesize": 274591296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "930374f69b213db8ccaa3c16c4c01f4e",
+        "sha1": "cf52ffcdf79297b88174c740364f72323437858f",
+        "crc32": "e5162086"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter II Movie (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter II Movie (Japan) (Disc 1).cue",
+      "filesize": 384,
+      "ext": "cue",
+      "checksums": {
+        "md5": "854f57351a6c9a344151f8fd390aa6d7",
+        "sha1": "6ce2184a87954aa254541cc3030d36f05360f20e",
+        "crc32": "ee151f60"
+      }
+    },
+    {
+      "filename": "Street Fighter II Movie (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 517519968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f0e203826e627ec1cdaf92ecb59f7fb",
+        "sha1": "5de9802ea342360ef571c3627553958b494bbe0b",
+        "crc32": "09514b18"
+      }
+    },
+    {
+      "filename": "Street Fighter II Movie (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 12514992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44d0979fa5dbc3b31eab99d631429b47",
+        "sha1": "fdb264a08461d172986e2e8d0657286d182421d6",
+        "crc32": "133b97ad"
+      }
+    },
+    {
+      "filename": "Street Fighter II Movie (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

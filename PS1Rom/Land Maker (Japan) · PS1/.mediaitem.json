@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Land Maker (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Land Maker (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "adcfca28d1f1e00ab25a075deafb483b",
+        "sha1": "ed7b68dbd7160d02ac810c90b15f5ae575d38070",
+        "crc32": "05e56cc6"
+      }
+    },
+    {
+      "filename": "Land Maker (Japan).bin",
+      "filesize": 573205920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfe91006936e294be0ab07035157a9bf",
+        "sha1": "053a4509408451a51da3e1af3eed52b6f003a4e8",
+        "crc32": "c6176697"
+      }
+    }
+  ]
+}

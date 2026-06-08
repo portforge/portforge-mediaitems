@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eithea (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eithea (Japan) (Disc 1).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8740ed5cd4bf9c77655b08264523e0ac",
+        "sha1": "72117044b53677b6617f9dd7106a30d762790578",
+        "crc32": "64c84700"
+      }
+    },
+    {
+      "filename": "Eithea (Japan) (Disc 1).bin",
+      "filesize": 408001440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8125dfa5b1df8463c7bdfd9cc47b5bd4",
+        "sha1": "47541f3bd8c53ad4b272861955b14ec1d73b0fa1",
+        "crc32": "0a531db7"
+      }
+    }
+  ]
+}

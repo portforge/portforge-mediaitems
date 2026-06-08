@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tombi! 2 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tombi! 2 (Italy).cue",
+      "filesize": 202,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54055d0361f49e6995456de3e8d7f9bf",
+        "sha1": "0fe80247bcfc43f288a34cd123504a4a0d74d8dc",
+        "crc32": "595ec89c"
+      }
+    },
+    {
+      "filename": "Tombi! 2 (Italy) (Track 1).bin",
+      "filesize": 373300032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0da5fa4d4b120fb64f59c28c5670963a",
+        "sha1": "779c427b50b0701798dfefe5c8f8f8c9ecfb21e7",
+        "crc32": "13b8e955"
+      }
+    },
+    {
+      "filename": "Tombi! 2 (Italy) (Track 2).bin",
+      "filesize": 37218048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a239dd0afb00b2ce214c64f306a5333f",
+        "sha1": "c2af7bebba8e18a963c432a16fbb1a2501257db7",
+        "crc32": "ef40c368"
+      }
+    }
+  ]
+}

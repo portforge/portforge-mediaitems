@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Bokura to Asobou! Ultraman TV (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Bokura to Asobou! Ultraman TV (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "895309266e0e80a9e0d5fb3903ce53f9",
+        "sha1": "ab842141eee30e87d0b0a7d14a89be1a8b1510cf",
+        "crc32": "15eae475"
+      }
+    },
+    {
+      "filename": "Kids Station - Bokura to Asobou! Ultraman TV (Japan).bin",
+      "filesize": 729912624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cddf3116c56324384fb4285af69779e0",
+        "sha1": "eb36a2a308992a0bcb159f3b57f4132525501a21",
+        "crc32": "7c5d8fe1"
+      }
+    }
+  ]
+}

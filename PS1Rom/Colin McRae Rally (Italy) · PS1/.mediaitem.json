@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colin McRae Rally (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colin McRae Rally (Italy).cue",
+      "filesize": 458,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7bd730b4c8add93a53932065ba907816",
+        "sha1": "4e03e85ef1d4d288472d3bb039e084ac66452afd",
+        "crc32": "7d11890f"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Italy) (Track 1).bin",
+      "filesize": 213022992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec281b36e60ed91eb983169053fd7321",
+        "sha1": "73603c678bb9d54afb2daab5834313abd757a567",
+        "crc32": "d654fb88"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Italy) (Track 2).bin",
+      "filesize": 55742400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30d6dc7f7731339d948704cf7fe1b5ac",
+        "sha1": "f23e109757a7de8ffc09e584c7ca50c8320aa8b3",
+        "crc32": "d27141de"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Italy) (Track 3).bin",
+      "filesize": 31634400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a8825427ac047728232ce827d1f08e1",
+        "sha1": "d0227c1ccd00cdd76c126ca2dc3fa9d405577934",
+        "crc32": "a9f06ed2"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Italy) (Track 4).bin",
+      "filesize": 55737696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e071f2b27e5252daca1c37f5e0fd731a",
+        "sha1": "d6f4accecef43ecce058729e1b087c008d17dba6",
+        "crc32": "69d80026"
+      }
+    }
+  ]
+}

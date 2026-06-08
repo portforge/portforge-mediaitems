@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Umi no Oh! Yah! (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Umi no Oh! Yah! (Japan) (Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16eaa14f17ffaf9a4fb2b61f2698cb83",
+        "sha1": "08cf569397b389e1b9bd6b90821f4161fb6759d2",
+        "crc32": "19cdb192"
+      }
+    },
+    {
+      "filename": "Umi no Oh! Yah! (Japan) (Demo).bin",
+      "filesize": 256128096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4b5f3384d22ebec6311c84483b03976",
+        "sha1": "256f4b6e909ab357bc13dc21754a69b9782a4c60",
+        "crc32": "4146fe68"
+      }
+    }
+  ]
+}

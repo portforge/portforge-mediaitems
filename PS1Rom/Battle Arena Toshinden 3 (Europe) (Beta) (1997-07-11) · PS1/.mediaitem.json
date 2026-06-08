@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Arena Toshinden 3 (Europe) (Beta) (1997-07-11)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Arena Toshinden 3 (Europe) (Beta) (1997-07-11).cue",
+      "filesize": 253,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d150fe337b16d5b3b7e576bc20371b0e",
+        "sha1": "c951738b653dbff1bd3aa8f92055ee20e9964ae2",
+        "crc32": "df737a46"
+      }
+    },
+    {
+      "filename": "Battle Arena Toshinden 3 (Europe) (Beta) (1997-07-11) (Track 1).bin",
+      "filesize": 604539264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ffb4d910bdc6a9b7502fa833d49d3f7",
+        "sha1": "866467fe0533552000d50f911ca06d8a440cce12",
+        "crc32": "6ac3b1d7"
+      }
+    },
+    {
+      "filename": "Battle Arena Toshinden 3 (Europe) (Beta) (1997-07-11) (Track 2).bin",
+      "filesize": 41914992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89ecafd934a5334a268c916507c25e56",
+        "sha1": "dcc3c512528d0fb5fe67be66c03148416df218e8",
+        "crc32": "75a85b58"
+      }
+    }
+  ]
+}

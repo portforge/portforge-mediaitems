@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bounty Sword - Double Edge (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bounty Sword - Double Edge (Japan) (Major Wave).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "66b910ce62bf518037c449786f3c6b42",
+        "sha1": "7481077d760a51f2ee1175dcff137add65f530f0",
+        "crc32": "43bd33c0"
+      }
+    },
+    {
+      "filename": "Bounty Sword - Double Edge (Japan) (Major Wave).bin",
+      "filesize": 630801696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29686e2e099189fd400b3ca9f3dc60c3",
+        "sha1": "24c2ab79ea7c062171120b23d459e007e57f86bf",
+        "crc32": "079b5c58"
+      }
+    }
+  ]
+}

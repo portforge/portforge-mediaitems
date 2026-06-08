@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Whistle - Fuki Nukeru Kaze (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Whistle - Fuki Nukeru Kaze (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb9e6c6178ebb5ece6618866aaf87564",
+        "sha1": "44101ce1b387cfb0c9d9ad148cdeca5692885516",
+        "crc32": "cb62a2a0"
+      }
+    },
+    {
+      "filename": "Whistle - Fuki Nukeru Kaze (Japan).bin",
+      "filesize": 477611232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63fbe93223d1452e9b21f238f85cd3c5",
+        "sha1": "c3cc20e7812cb20507df3410f1ac11417721d385",
+        "crc32": "3880850a"
+      }
+    }
+  ]
+}

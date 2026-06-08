@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mobile Suit Gundam - Char's Counterattack (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mobile Suit Gundam - Char's Counterattack (Japan).cue",
+      "filesize": 268,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0b161ce53920c001b6fbc261aca93ff",
+        "sha1": "f29b3913b1fc4eff4f31e3d4c748cdaa4a94c4a1",
+        "crc32": "03c7de9c"
+      }
+    },
+    {
+      "filename": "Mobile Suit Gundam - Char's Counterattack (Japan) (Track 1).bin",
+      "filesize": 685170528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dbff2a087f841085a31a7523013bed5b",
+        "sha1": "3fccc3207028672e877083b374cb79bc018cf1ce",
+        "crc32": "cc542b32"
+      }
+    },
+    {
+      "filename": "Mobile Suit Gundam - Char's Counterattack (Japan) (Track 2).bin",
+      "filesize": 32986800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b64e240d91f2a512f9ba0b73f2b75f7c",
+        "sha1": "943992fa0d48f184b9957998660ca2dce28eab92",
+        "crc32": "d2ee8100"
+      }
+    }
+  ]
+}

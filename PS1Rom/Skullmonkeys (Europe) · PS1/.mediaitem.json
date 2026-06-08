@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Skullmonkeys (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Skullmonkeys (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a86f72b086e7dce207d3d779c44fb5a2",
+        "sha1": "29251b7721622870297e19c2ad10ae85f74a6b6a",
+        "crc32": "b9e329f6"
+      }
+    },
+    {
+      "filename": "Skullmonkeys (Europe).bin",
+      "filesize": 657750912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "731b214126782bd1f54d8eddd059a41b",
+        "sha1": "f1784285c7a673e910f7c09bca81100af586ba4c",
+        "crc32": "ded18199"
+      }
+    }
+  ]
+}

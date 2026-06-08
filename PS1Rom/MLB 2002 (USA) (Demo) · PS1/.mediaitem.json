@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MLB 2002 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MLB 2002 (USA) (Demo).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac88f3f407e2198fb778e9040d72328c",
+        "sha1": "ca44c53ca5ec7770e63d3ec09a03af9d165a6162",
+        "crc32": "34d78c6b"
+      }
+    },
+    {
+      "filename": "MLB 2002 (USA) (Demo).bin",
+      "filesize": 634501392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a43bf1b182cd7289042f019206a9861",
+        "sha1": "ce8697022c979e0ca393e13801048f860ada0e55",
+        "crc32": "1f815d7e"
+      }
+    }
+  ]
+}

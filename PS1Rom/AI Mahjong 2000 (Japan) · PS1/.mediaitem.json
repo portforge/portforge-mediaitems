@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "AI Mahjong 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "AI Mahjong 2000 (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b5b2a6d1d21280a9d78304df1157f227",
+        "sha1": "7f92c76fac297f558b9c9bd5ab56506bf36c7e75",
+        "crc32": "8ada413e"
+      }
+    },
+    {
+      "filename": "AI Mahjong 2000 (Japan).bin",
+      "filesize": 99296736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0e317c0e06b67f9d34751d486a8ba34",
+        "sha1": "c8bd9c33d558994f7c48b2ec4cd32af45463a488",
+        "crc32": "81c6a298"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slayers Wonderful (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slayers Wonderful (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "880a768453cc1091c2f39fa03a529b14",
+        "sha1": "3560095fe55c6882c27bca1dd0e1ab978cf96645",
+        "crc32": "67101e01"
+      }
+    },
+    {
+      "filename": "Slayers Wonderful (Japan).bin",
+      "filesize": 523117728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1234aa1820bd0fbc57727574f112391",
+        "sha1": "b4600693c62be80d6964315001c17b179e03feee",
+        "crc32": "3d93c325"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monster Rancher 2 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monster Rancher 2 (USA) (Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "000f13fca1ad49821491cd9991c19ec0",
+        "sha1": "ffdab990c595d662c914aa0efdd3b19c5d1fda80",
+        "crc32": "309666c0"
+      }
+    },
+    {
+      "filename": "Monster Rancher 2 (USA) (Demo).bin",
+      "filesize": 451280592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ca6085fd8bbfbddb396a352fae4a7d3",
+        "sha1": "94db63a03aed73b97241273a2d7fe531c45efb6c",
+        "crc32": "5224ffa3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pastel Muses (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pastel Muses (Japan) (Demo).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72713369810429452eb0eb56609525a8",
+        "sha1": "b49c6b40eac4aaa52f0751fe01d6ba293ffcf6da",
+        "crc32": "4f745e52"
+      }
+    },
+    {
+      "filename": "Pastel Muses (Japan) (Demo) (Track 1).bin",
+      "filesize": 29724576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1923a7662488c76fb4f62b85ce66a5d",
+        "sha1": "0ca53bd050a3ed847162302a5dffc3abde506270",
+        "crc32": "717d6dc0"
+      }
+    },
+    {
+      "filename": "Pastel Muses (Japan) (Demo) (Track 2).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b75d0f2b529a127181146602beec1b5",
+        "sha1": "b7b4e0d5699994ac2f8d98fb37113c780b811841",
+        "crc32": "4030a398"
+      }
+    }
+  ]
+}

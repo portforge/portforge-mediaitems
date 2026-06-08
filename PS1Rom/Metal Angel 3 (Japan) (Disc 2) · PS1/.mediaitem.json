@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Angel 3 (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Angel 3 (Japan) (Disc 2).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6da80d2149164c20b6bbd9799b4755cb",
+        "sha1": "9eda76bca4f986fc62e8fcd884cdd49a55483805",
+        "crc32": "bdded8c4"
+      }
+    },
+    {
+      "filename": "Metal Angel 3 (Japan) (Disc 2).bin",
+      "filesize": 343161504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "976c5ac7242a9c78252e97bef145e0cc",
+        "sha1": "0d7ed9c303825aaccc20dea377ebaaf912613544",
+        "crc32": "2a14a8f7"
+      }
+    }
+  ]
+}

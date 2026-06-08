@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2002 (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2002 (USA, Canada).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "20097b82cc9104b5d5a67c10c46bd5b0",
+        "sha1": "14e38246bd2ad31a4342a77d259c86ad9130f49e",
+        "crc32": "56ad5022"
+      }
+    },
+    {
+      "filename": "NBA Live 2002 (USA, Canada).bin",
+      "filesize": 553044576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd88c415472bc10b2c64327197c3a343",
+        "sha1": "486088865a9a7114f8456411d68aad117dead424",
+        "crc32": "0aa28b8e"
+      }
+    }
+  ]
+}

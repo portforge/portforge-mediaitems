@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "HardBall 5 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "HardBall 5 (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6aeafef85cdbb1d3b72b3539130461dc",
+        "sha1": "ddfd0a74edfee0abb3e7fd705e157cdd42dcdd87",
+        "crc32": "d5fa0dd1"
+      }
+    },
+    {
+      "filename": "HardBall 5 (USA).bin",
+      "filesize": 130152624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "252e1cf845bc3921209bb1fdc9f2e4a7",
+        "sha1": "3900c5037607eb210a215e1e5e6bc4bd4fef7e19",
+        "crc32": "e7244b6a"
+      }
+    }
+  ]
+}

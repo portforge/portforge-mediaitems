@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nice Price Series Vol. 07 - World Tournament Bowling (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nice Price Series Vol. 07 - World Tournament Bowling (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "504f4a407a917de2b171a725ab90bad8",
+        "sha1": "acff38c64de8dc89b7968810c12918d11cde313a",
+        "crc32": "b0bb1c1d"
+      }
+    },
+    {
+      "filename": "Nice Price Series Vol. 07 - World Tournament Bowling (Japan).bin",
+      "filesize": 65601984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c05c8e65c3f78b9d625907448898a39",
+        "sha1": "716ad0b57fc70947d8b336fe6c70f90386e832df",
+        "crc32": "ecf7c169"
+      }
+    }
+  ]
+}

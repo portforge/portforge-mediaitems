@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Interplay Sports Baseball 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Interplay Sports Baseball 2000 (USA).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8febf03fa4347bd3d6a01182be0d9771",
+        "sha1": "7dacf9a21571c10fe1f9a8295197a91cc3c60531",
+        "crc32": "1db782aa"
+      }
+    },
+    {
+      "filename": "Interplay Sports Baseball 2000 (USA) (Track 1).bin",
+      "filesize": 103179888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ca2737740cbe2f219d5392515438e04",
+        "sha1": "dd21ad2cbb6d404b6efd574249ab5599a5e63193",
+        "crc32": "2eaf4b04"
+      }
+    },
+    {
+      "filename": "Interplay Sports Baseball 2000 (USA) (Track 2).bin",
+      "filesize": 67020240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92e482bc3803f7ba1a856e530cbb8454",
+        "sha1": "37e825cfd52a0bb79ec3de4b76022fd29139f070",
+        "crc32": "d1661cde"
+      }
+    }
+  ]
+}

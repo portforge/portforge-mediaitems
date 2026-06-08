@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series - Hello Kitty Vol. 04 - Trump (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series - Hello Kitty Vol. 04 - Trump (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "33e210b8a81face680b048651391c292",
+        "sha1": "c55c08593c6bcc7e180e8c70abdf2ea6ff55e3da",
+        "crc32": "c0f21e34"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series - Hello Kitty Vol. 04 - Trump (Japan).bin",
+      "filesize": 79556400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c782f34a00e179b0fc3c593b42ca7d3",
+        "sha1": "c9ef176bd8daac4a0162a5bbe44d4b8d062cfdc9",
+        "crc32": "de30593b"
+      }
+    }
+  ]
+}

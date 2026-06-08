@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sbornik e'roticheskix igr - Special'naya redakciya (Russia) (Disc 2) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sbornik e'roticheskix igr - Special'naya redakciya (Russia) (Disc 2) (Unl).cue",
+      "filesize": 140,
+      "ext": "cue",
+      "checksums": {
+        "md5": "540a8b1898486430f7395bb95b8bfd17",
+        "sha1": "8b3edb38c521432b05f79bbaca7dc230290c2c79",
+        "crc32": "3267193d"
+      }
+    },
+    {
+      "filename": "Sbornik e'roticheskix igr - Special'naya redakciya (Russia) (Disc 2) (Unl).bin",
+      "filesize": 543956448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6396ec195946b58a136ce260d9d51aa7",
+        "sha1": "cc134465e8be5b1de6d9e2d47121e3f2ee1a6c6e",
+        "crc32": "30f5c5d3"
+      }
+    }
+  ]
+}

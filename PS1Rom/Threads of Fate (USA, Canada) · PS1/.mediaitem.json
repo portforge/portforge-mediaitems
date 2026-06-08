@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Threads of Fate (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Threads of Fate (USA, Canada).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "22308916d61ec3f80af92a6c27d3c89e",
+        "sha1": "052fecf7a9ab5504bf8d0e97ef1895358f5de38e",
+        "crc32": "95d00f21"
+      }
+    },
+    {
+      "filename": "Threads of Fate (USA, Canada).bin",
+      "filesize": 357454608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf49e5e7a09acc46625b5ced33dd45f5",
+        "sha1": "375e4a344c4feef969bef6042ff1f90e350fa5d5",
+        "crc32": "59b2f8a3"
+      }
+    }
+  ]
+}

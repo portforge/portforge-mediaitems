@@ -1,0 +1,27 @@
+{
+  "_itemType": "Xbox360Rom",
+  "title": "Original Xbox Game Support - August 2006 (1.5) (USA)",
+  "platform": "Xbox360",
+  "formats": [
+    {
+      "filename": "Original Xbox Game Support - August 2006 (1.5) (USA).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "465b5fabc4aedede9f9e1a7ea5cb849a",
+        "sha1": "0a86d9fcb7cef87270ddc4eaa99fb39f7fa81e61",
+        "crc32": "4f3bd0c2"
+      }
+    },
+    {
+      "filename": "Original Xbox Game Support - August 2006 (1.5) (USA).bin",
+      "filesize": 7992096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f3c006c84368890a4f33021345f6858",
+        "sha1": "2769f0abac25fe37088e08359d3d45f423897733",
+        "crc32": "19e91407"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GamePro Action Disc 1 (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GamePro Action Disc 1 (USA) (Unl).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6576130e23c08f5b808d35a09264d56b",
+        "sha1": "19800f2a779de940b5e565c0a7cf8289d611e0c7",
+        "crc32": "57827c68"
+      }
+    },
+    {
+      "filename": "GamePro Action Disc 1 (USA) (Unl).bin",
+      "filesize": 455695296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35d1f10dfb80078de144e8c37f4642c3",
+        "sha1": "0658a8d26fb5027c9d09461cabd4b9b24e0eb7bc",
+        "crc32": "16f09cd5"
+      }
+    }
+  ]
+}

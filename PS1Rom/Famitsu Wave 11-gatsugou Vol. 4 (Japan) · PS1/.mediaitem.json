@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famitsu Wave 11-gatsugou Vol. 4 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famitsu Wave 11-gatsugou Vol. 4 (Japan).cue",
+      "filesize": 647,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18af71a23fc5e4d892a5c6cfe4dccbdf",
+        "sha1": "6fa32f3f14a48f78bd4d820cff04a893efdf8b8c",
+        "crc32": "44e52c29"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 11-gatsugou Vol. 4 (Japan) (Track 1).bin",
+      "filesize": 494559744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2053e38785bb282184323c3f06d0f2c9",
+        "sha1": "f5a4a632f296c4168339e77cda18dcd1c8aba118",
+        "crc32": "7e8e7544"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 11-gatsugou Vol. 4 (Japan) (Track 2).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fd7916d11f168be9a6c12b476828bb6",
+        "sha1": "221c764128de49fd9f554e9b1182b106ce9db00a",
+        "crc32": "15e43331"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 11-gatsugou Vol. 4 (Japan) (Track 3).bin",
+      "filesize": 7411152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17f69fd696a218bb51f7039a90eb9550",
+        "sha1": "6642fe6e7245d4710f4ce41fccdc5ae361ab3540",
+        "crc32": "bfb512be"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 11-gatsugou Vol. 4 (Japan) (Track 4).bin",
+      "filesize": 17200176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "209f4bc048e099ad18c2f2de81afc1a4",
+        "sha1": "dbbf7b71b2cd75de46ae3e1b73d73c222d27d150",
+        "crc32": "bd116203"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 11-gatsugou Vol. 4 (Japan) (Track 5).bin",
+      "filesize": 33516000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07488d7d47ede5b5c653df471291b12e",
+        "sha1": "2a61a9adaab8ba1129d3e277cc852995234e0774",
+        "crc32": "530f71ca"
+      }
+    }
+  ]
+}

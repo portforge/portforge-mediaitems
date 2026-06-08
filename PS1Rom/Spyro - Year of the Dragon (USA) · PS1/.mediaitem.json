@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro - Year of the Dragon (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro - Year of the Dragon (USA).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd41bf381fe18b21dafbb5e26f913c83",
+        "sha1": "f1238cc749f07068d02a1f4152be449eecbc6f2c",
+        "crc32": "92bc8ead"
+      }
+    },
+    {
+      "filename": "Spyro - Year of the Dragon (USA).bin",
+      "filesize": 597250416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edd092fecba64c7a79d4412d3b38eba1",
+        "sha1": "9df489e2420988494691c9193fe74dec4b1dbfcd",
+        "crc32": "b515dd0d"
+      }
+    }
+  ]
+}

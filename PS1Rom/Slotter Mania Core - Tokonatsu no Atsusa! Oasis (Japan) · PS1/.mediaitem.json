@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slotter Mania Core - Tokonatsu no Atsusa! Oasis (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slotter Mania Core - Tokonatsu no Atsusa! Oasis (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ed490185625a50b8728270608ed2792",
+        "sha1": "320c76205ea75c8f6a6c95c52cca67f04d2ae334",
+        "crc32": "e7e04d26"
+      }
+    },
+    {
+      "filename": "Slotter Mania Core - Tokonatsu no Atsusa! Oasis (Japan).bin",
+      "filesize": 46614288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12cfed73eb00f06f9c38e43f4fb57024",
+        "sha1": "56b90feff217d7d75d8ccc5cad26cb5452959079",
+        "crc32": "4754ca0d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kiwame Daidougi - Tsumuya Tsumazaruya (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kiwame Daidougi - Tsumuya Tsumazaruya (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e349eef19a684fcba9080d0fbbb0f3ea",
+        "sha1": "6f1a96c7014b8635a749c3ab48fc25a131c29607",
+        "crc32": "f564d184"
+      }
+    },
+    {
+      "filename": "Kiwame Daidougi - Tsumuya Tsumazaruya (Japan).bin",
+      "filesize": 46960032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e06358c7b297cdfdcc45e8591086d0e3",
+        "sha1": "d8085a824bf8c38ab00be82b52d084521ff0747d",
+        "crc32": "1d3b9248"
+      }
+    }
+  ]
+}

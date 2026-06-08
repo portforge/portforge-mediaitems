@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play with the Teletubbies (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play with the Teletubbies (Europe).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d46972a31b0963e71392c5e9c07c2fe4",
+        "sha1": "94fea021774cbd2184905979faaf4a5d233ecb67",
+        "crc32": "87188e89"
+      }
+    },
+    {
+      "filename": "Play with the Teletubbies (Europe) (Track 1).bin",
+      "filesize": 710685024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b46da41dc5eda0df9da1965661958a2",
+        "sha1": "716d4ed24c5594d914616d62bd6aacfdfc595928",
+        "crc32": "60fe9ca5"
+      }
+    },
+    {
+      "filename": "Play with the Teletubbies (Europe) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

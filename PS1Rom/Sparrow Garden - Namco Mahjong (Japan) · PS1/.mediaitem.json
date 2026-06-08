@@ -1,0 +1,467 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sparrow Garden - Namco Mahjong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan).cue",
+      "filesize": 5967,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7393bd66823f79c03cd332b0d46a4fb3",
+        "sha1": "81a7a718247a7621b7b7f56aebf8874d98bc56bb",
+        "crc32": "db7ec632"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 01).bin",
+      "filesize": 54820416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08168f8da6696fec667a351368c95829",
+        "sha1": "1c7544358bbe291f8fcb02f63725c20532ff20cd",
+        "crc32": "956cb019"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 02).bin",
+      "filesize": 11042640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58bb9c099dc2200443434d529c3991aa",
+        "sha1": "3ff71f2e7c84e2f45be84f37bc579e2887c6b67b",
+        "crc32": "d92940a2"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 03).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "244526179826cf1fa18ecb1342589952",
+        "sha1": "0d1588a4ad0636b0e0b7a8bd3f685a9ea976837c",
+        "crc32": "86e97544"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 04).bin",
+      "filesize": 10384080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "331d9be3e9c88ad27a63450ad1a32502",
+        "sha1": "97bb976c5028ebc37a29a5d3303947ac066a759a",
+        "crc32": "0f5d7e52"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 05).bin",
+      "filesize": 15116304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2c65b989d4fdd4428a2fa889e78ddc4",
+        "sha1": "2a1f024028f08f4a592d1fffa108f62aed468a85",
+        "crc32": "90279740"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 06).bin",
+      "filesize": 16329936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "906e3ef1b73b64858862b29f8eea4876",
+        "sha1": "eb27ea815842ab0dc4690f97fed7f184eb7ba5de",
+        "crc32": "30e391db"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 07).bin",
+      "filesize": 21843024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dda7e1f95f6a0a705dee7de182cd8392",
+        "sha1": "075c3da90c0aa2f599b74041f74efb2be9238497",
+        "crc32": "001f8c99"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 08).bin",
+      "filesize": 5880000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ac2a8c31bfec5f24db43f6bbc2e482e",
+        "sha1": "1002de1447f205a83fe9ed5f706c7c074da73705",
+        "crc32": "a7b249db"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 09).bin",
+      "filesize": 7898016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c495daa46cbcb1ab884176b65348c0b5",
+        "sha1": "265462dae84f5e38d4a50e46ed966670a29d9016",
+        "crc32": "64e2758c"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 10).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0b1cfcda645887eea95a8e8c9f64d89",
+        "sha1": "23c4734a9528c99b3a8ea553c6bbe1551583ca9c",
+        "crc32": "2b275f9d"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 11).bin",
+      "filesize": 10645152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62027ca146869af7436bb381dc6e05d5",
+        "sha1": "26779d13aba50c99bed6205dbe73d911b2c42da2",
+        "crc32": "7fd6ef31"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 12).bin",
+      "filesize": 2168544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8597606bbc1145eb084e9adf3b9f713",
+        "sha1": "db080312e4192ff4fb562ebefd26473e76b38e1e",
+        "crc32": "cdc6afad"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 13).bin",
+      "filesize": 2128560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d26b0b8e842013b43ebdb2854f3201e3",
+        "sha1": "548ecb4b01a84e7959dd37845b2d82f53548c5a7",
+        "crc32": "93289df9"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 14).bin",
+      "filesize": 2163840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70f27f17b20a6b75d3cace22916edc7f",
+        "sha1": "28e31b0b4f614cb71632097bae8893d8b99572df",
+        "crc32": "41fa8aeb"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 15).bin",
+      "filesize": 2086224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0685e8de4d5cfa49e4905e173b29f7b",
+        "sha1": "81a80f2dd3c7774a857dd44dabf406b0bbe258cb",
+        "crc32": "f0395573"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 16).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92942b10030a358a9b1e4f8b0d9b590a",
+        "sha1": "ce6fa0a6632b471ba514bd1c6211bd0636335646",
+        "crc32": "9c3759f9"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 17).bin",
+      "filesize": 16546320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c38a64780b5d1971e056147257bbdf0",
+        "sha1": "fd13b9af5e3dd8b1bef29b054aee582df3c163b8",
+        "crc32": "a84e1b71"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 18).bin",
+      "filesize": 2086224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0685e8de4d5cfa49e4905e173b29f7b",
+        "sha1": "81a80f2dd3c7774a857dd44dabf406b0bbe258cb",
+        "crc32": "f0395573"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 19).bin",
+      "filesize": 1434720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94e315f6bd974a22ce854003e790208c",
+        "sha1": "24f5e0446c5353804cfaa9f45ac8eaa28d9c3182",
+        "crc32": "25b72fd0"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 20).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5919985f7d0ae55e00bd38935bd003c",
+        "sha1": "c259ef776d040930c3addb60d2720b524cf84061",
+        "crc32": "ace2e4e9"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 21).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c174ecc329e4ab62537f5c39c4f11cf",
+        "sha1": "195e08adb020befb22f8fd9e5c2e505301a29b8a",
+        "crc32": "ab602851"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 22).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff8a58540cd23a839a7f63d70c1d1da5",
+        "sha1": "a073fec6e4b1627f1bd98f68168c82c6b1f2aacf",
+        "crc32": "1c973632"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 23).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0aef8382b30c85dfaa824fd9b79198d3",
+        "sha1": "67f846a16093477c67390bac72be25624d1b9ca3",
+        "crc32": "c773ef15"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 24).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2178f799e811a1e2a3d9bd436909d22b",
+        "sha1": "d1d8e7fd54e239f973d416445d19106ed40813e1",
+        "crc32": "df89c8da"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 25).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fae60d5b38a2a63529074c0030aaedbe",
+        "sha1": "625babd5adc96c9f1c5c2ec07fdc40b02a4f0e31",
+        "crc32": "a2e73f1b"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 26).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6629e1488c9571024656d3b1b42945b",
+        "sha1": "8b4eecec6ca702351bde71cc53fe243b98a9f2b4",
+        "crc32": "a9949ca1"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 27).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be4d100e99f5740d2428cd4f8c66dc5c",
+        "sha1": "eb5a8f77f5b99859efe6d469803e985401e38ce7",
+        "crc32": "11ecb1c3"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 28).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09e2174ed45c2394bc100eb253c97b32",
+        "sha1": "4c4c50dbcb1de591591f1ce38b65946d76ae5240",
+        "crc32": "7bf12712"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 29).bin",
+      "filesize": 1559376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8526ea047708a942173939a9fa8f6cc0",
+        "sha1": "36dc9dc14682a952604db8a704a6c632d225e0fb",
+        "crc32": "38f3e9ca"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 30).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28b34bdb18ea5e08247927e50aa5b343",
+        "sha1": "11c7a851b2376ea7687f3f97a8960738023c07a6",
+        "crc32": "64bf1222"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 31).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22c69f7e9e22176607cf2f36a7c6acab",
+        "sha1": "d4c8ede61b5bcbf4c9d9305aec1c65d718578d56",
+        "crc32": "2fbf4c37"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 32).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba43a06162ee3ab7b56206559eaa0c2e",
+        "sha1": "8648562d2e766f8ff984866dcb3e0211a84cf96e",
+        "crc32": "c8fe08cb"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 33).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7265ea760b68dfa21b7ced1101d9d0ef",
+        "sha1": "ba19c70c44f000194f4acda759f45f510ac6a0ef",
+        "crc32": "948f5f74"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 34).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f11e8280ccce0fb491025855076be68",
+        "sha1": "a8327323d6c923b922c1a2814d000af2816f36c3",
+        "crc32": "4c1138b4"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 35).bin",
+      "filesize": 1778112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7ce775d4fb3e77586698136d3e74d13",
+        "sha1": "b90213365bb5834285b984361f5be2842f941dac",
+        "crc32": "18a0e752"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 36).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee5bd3055c327865236edb64e713f72f",
+        "sha1": "b65bd306af28bf51942542594c59bdfc4cf5c9c6",
+        "crc32": "f81fec4a"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 37).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e2569e5796783d98a2e08d9505df64f",
+        "sha1": "460a84ac89d5022427caba76a02488c4b9e21249",
+        "crc32": "322efcf6"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 38).bin",
+      "filesize": 1921584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3423c4f875fe8e01a287830b8ad1698",
+        "sha1": "27a3ccfaf872af88c2b1191f1e0fb440606646f6",
+        "crc32": "b4415980"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 39).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d026b2855c9a33a1f7d08c1b6919c347",
+        "sha1": "003f701cd21dc0a6a8c15c5cce50c94b1fe221d1",
+        "crc32": "e79ee2b2"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 40).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f71ff24ba27724da3a8a1ac6d0c5187e",
+        "sha1": "c71aee069a70899e37879b14fceb7f8caa9acbe8",
+        "crc32": "c4ae0015"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 41).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b0938ba1495f7e5591fcf6cf98e5eab",
+        "sha1": "ef615237bc3af664d137f97b23b51f6ce725846d",
+        "crc32": "6712c502"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 42).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe2a6ee08ed7f4f878574dd255995e3f",
+        "sha1": "234ab7e0dff820c2be3892276f3850a0efd9138b",
+        "crc32": "a254db42"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 43).bin",
+      "filesize": 1413552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0b1cfcda645887eea95a8e8c9f64d89",
+        "sha1": "23c4734a9528c99b3a8ea553c6bbe1551583ca9c",
+        "crc32": "2b275f9d"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 44).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "466c321fb5fd4566fc80fa9523f816a3",
+        "sha1": "57de8fc107737835b78550b89a5cd1c9ce142489",
+        "crc32": "3a8f1c14"
+      }
+    },
+    {
+      "filename": "Sparrow Garden - Namco Mahjong (Japan) (Track 45).bin",
+      "filesize": 43333248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5acfecd0402ceaaa538636b00a80bfbc",
+        "sha1": "bbe520651eda976eee76f029ad2d451cea8a242d",
+        "crc32": "5e6f6010"
+      }
+    }
+  ]
+}

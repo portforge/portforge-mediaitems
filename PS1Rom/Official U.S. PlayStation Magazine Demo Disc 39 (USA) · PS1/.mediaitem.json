@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 39 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 39 (USA).cue",
+      "filesize": 570,
+      "ext": "cue",
+      "checksums": {
+        "md5": "92a42296a46aa0d1a774d790b9df3256",
+        "sha1": "646cbeb41824031975b0c98fc6c5636741f5371b",
+        "crc32": "22fe1cf3"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 39 (USA) (Track 1).bin",
+      "filesize": 315231504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5c0ef786631e5111234dc7f2a2e17a1",
+        "sha1": "d0c34a4f003d79bde93b1be0062c3022b80e2d9f",
+        "crc32": "0120685d"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 39 (USA) (Track 2).bin",
+      "filesize": 40242720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcc2d56b117514f4ba4abe70a5cec750",
+        "sha1": "4e4cccdbd3eee80d3c18de214d79a9f4dcd465d2",
+        "crc32": "c804751c"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 39 (USA) (Track 3).bin",
+      "filesize": 12745488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f8fc39c942e8f74cab8abca91a836e4",
+        "sha1": "4359d13856107004868aaeb24c73357c0239484c",
+        "crc32": "2ab4bc9e"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 39 (USA) (Track 4).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

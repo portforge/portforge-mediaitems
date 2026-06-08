@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "StationMaster 2-2001 Xploder (Europe) (En,De) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "StationMaster 2-2001 Xploder (Europe) (En,De) (Unl).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6b7bcf61cb74d113250e08107d5eed9",
+        "sha1": "4ff4e6eb09ae20834a04d968882beac32f769f82",
+        "crc32": "4b1eda12"
+      }
+    },
+    {
+      "filename": "StationMaster 2-2001 Xploder (Europe) (En,De) (Unl).bin",
+      "filesize": 7547568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f53bd052b7f7803e97e835409794626c",
+        "sha1": "4db96875ffda8388390f9c922f72ec687cc44a1f",
+        "crc32": "0cd6f35e"
+      }
+    }
+  ]
+}

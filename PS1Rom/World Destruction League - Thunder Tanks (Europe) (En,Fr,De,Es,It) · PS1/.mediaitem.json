@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Destruction League - Thunder Tanks (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Destruction League - Thunder Tanks (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "734be3678a251d925be8ef2ccc77e239",
+        "sha1": "87c5d76feb5bed39870bda3516d0c38b090cd05c",
+        "crc32": "ed5efbcf"
+      }
+    },
+    {
+      "filename": "World Destruction League - Thunder Tanks (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 580647648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50f71d24aa7864743b4e236b58c49a2e",
+        "sha1": "a60231f9f3ea18ac47de91d6a1f910a8cf99a64d",
+        "crc32": "ef5e01d9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Walt Disney Il Libro della Giungla - Il Ballo della Giungla (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Walt Disney Il Libro della Giungla - Il Ballo della Giungla (Italy).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0018a8dca8c20fbb57b407a5dfed0c9a",
+        "sha1": "7fec3b4203396ec4d3c13d24e1caffa641c7e9b7",
+        "crc32": "b929601a"
+      }
+    },
+    {
+      "filename": "Walt Disney Il Libro della Giungla - Il Ballo della Giungla (Italy).bin",
+      "filesize": 749333088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf219f7f99a24dba065a9f969319fe2f",
+        "sha1": "9829f4322d62778629ad1065510335c026e0fe7f",
+        "crc32": "4153e61e"
+      }
+    }
+  ]
+}

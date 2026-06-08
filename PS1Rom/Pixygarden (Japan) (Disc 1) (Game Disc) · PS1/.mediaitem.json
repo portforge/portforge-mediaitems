@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pixygarden (Japan) (Disc 1) (Game Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pixygarden (Japan) (Disc 1) (Game Disc).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "71cdf237e911ddb04ab118046537e08c",
+        "sha1": "cfe9540995417fa81b7aac13d51617d257687e35",
+        "crc32": "8931ec5f"
+      }
+    },
+    {
+      "filename": "Pixygarden (Japan) (Disc 1) (Game Disc).bin",
+      "filesize": 372439200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "363b904aa492847b996362f54d0c4146",
+        "sha1": "e4d18f36950fb2f20eb13dab978752ed9c101fdc",
+        "crc32": "ced08fae"
+      }
+    }
+  ]
+}

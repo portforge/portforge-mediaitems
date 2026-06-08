@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tech PlayStation 97-4 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tech PlayStation 97-4 (Japan).cue",
+      "filesize": 351,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d8d46efc1db04f4220ac07756ae628f",
+        "sha1": "421edf1b86e1a05c6daa648e5298cc6e1880246d",
+        "crc32": "50ca0e80"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-4 (Japan) (Track 1).bin",
+      "filesize": 616880208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8d88e83b9879ec226e1d85ce692c2b7",
+        "sha1": "8565ded2bb2cdd4f160308885f9a7a529b319e5c",
+        "crc32": "fe72fceb"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-4 (Japan) (Track 2).bin",
+      "filesize": 15796032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c62e5f69e81b5a2d5d16d726efcf4437",
+        "sha1": "4ca76f68194b5d86b02a1b975b457d6bd993aef8",
+        "crc32": "7882e169"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-4 (Japan) (Track 3).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

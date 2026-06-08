@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dice de Chocobo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dice de Chocobo (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "33023218efa2cb124dd53e5d60171a66",
+        "sha1": "48ee41de8428a7dc685e986c9dd68ce007664594",
+        "crc32": "61dca31d"
+      }
+    },
+    {
+      "filename": "Dice de Chocobo (Japan).bin",
+      "filesize": 131817840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec4646998b8bb4ead6037763decbcd5c",
+        "sha1": "bb618fa96be60ba8d88c17772329999f7a074d90",
+        "crc32": "1c9cb0c9"
+      }
+    }
+  ]
+}

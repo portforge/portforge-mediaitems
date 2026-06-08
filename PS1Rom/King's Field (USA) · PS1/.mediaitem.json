@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King's Field (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King's Field (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5735cbd53a9c0443309bbf506a30010",
+        "sha1": "3ee21f24f739f82606b197619cb730b9ab03e0fb",
+        "crc32": "b0c57890"
+      }
+    },
+    {
+      "filename": "King's Field (USA).bin",
+      "filesize": 258183744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f02c846c5d05df144786daad4149ea8b",
+        "sha1": "affd8f7817766ccc25c8d55697a2c541abec333f",
+        "crc32": "345dc81f"
+      }
+    }
+  ]
+}

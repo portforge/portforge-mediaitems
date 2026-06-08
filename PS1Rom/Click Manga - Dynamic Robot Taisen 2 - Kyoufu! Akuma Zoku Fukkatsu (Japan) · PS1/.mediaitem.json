@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Click Manga - Dynamic Robot Taisen 2 - Kyoufu! Akuma Zoku Fukkatsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Click Manga - Dynamic Robot Taisen 2 - Kyoufu! Akuma Zoku Fukkatsu (Japan).cue",
+      "filesize": 140,
+      "ext": "cue",
+      "checksums": {
+        "md5": "58024c39708004575052d631d73b95fd",
+        "sha1": "350366451e201d77ee9fd708e2a094648d541fed",
+        "crc32": "e34718ad"
+      }
+    },
+    {
+      "filename": "Click Manga - Dynamic Robot Taisen 2 - Kyoufu! Akuma Zoku Fukkatsu (Japan).bin",
+      "filesize": 56589120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af10f3aa6c2c4b4960c75baa3dd14734",
+        "sha1": "5e7176c0589caaf7c272c193604637cc9e3488b8",
+        "crc32": "ec2fc6c8"
+      }
+    }
+  ]
+}

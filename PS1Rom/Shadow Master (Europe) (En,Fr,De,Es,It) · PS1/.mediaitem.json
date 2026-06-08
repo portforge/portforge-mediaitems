@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shadow Master (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shadow Master (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 647,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3cf28bc2f5d13b3054c972647836128",
+        "sha1": "53620d9b788f29189b8cf772ae7772231ad3e477",
+        "crc32": "88e8fc8d"
+      }
+    },
+    {
+      "filename": "Shadow Master (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 562922976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d59194df8ad2dba0457288bbcf45377d",
+        "sha1": "b466f090ec1d661dedee1b032e4010686e43fa6a",
+        "crc32": "24c05eec"
+      }
+    },
+    {
+      "filename": "Shadow Master (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 46327344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "167da7b4b5918816c110d9ada0849a54",
+        "sha1": "071533e0be150ed85c0988e308f938365ee92c70",
+        "crc32": "1618d618"
+      }
+    },
+    {
+      "filename": "Shadow Master (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 46470816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "865dfa331f797d8bf188496f66ca662c",
+        "sha1": "cf4282dbb0c488311263d0ae8cd251c8f8f2e0a4",
+        "crc32": "ef974238"
+      }
+    },
+    {
+      "filename": "Shadow Master (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 47030592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2507eb1ba259f3be1879f4436b9d2c5",
+        "sha1": "beab78dbe3bc2092bf8243ada2c18a19016195cc",
+        "crc32": "c4ca2b92"
+      }
+    },
+    {
+      "filename": "Shadow Master (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 47820864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9be1e16cc5d0443e9d97f1e2112d4f0c",
+        "sha1": "1ebf73ac49b5bebee035290b99e83e496f0a579a",
+        "crc32": "ccae4c96"
+      }
+    }
+  ]
+}

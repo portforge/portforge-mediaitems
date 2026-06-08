@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 13 (Japan) (Disc 2) (Yarudora Trial Version)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 13 (Japan) (Disc 2) (Yarudora Trial Version).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28fc8c27ca77c59575e29121193abd03",
+        "sha1": "66a8433dd5f494f9b6bdb55d77af6e5c11b89a4f",
+        "crc32": "def25f85"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 13 (Japan) (Disc 2) (Yarudora Trial Version).bin",
+      "filesize": 469753200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aabb2e91316bc7841e588241fc16f7de",
+        "sha1": "cd87672809d470a115e3c827f023da6ac73ce1ef",
+        "crc32": "53a982a0"
+      }
+    }
+  ]
+}

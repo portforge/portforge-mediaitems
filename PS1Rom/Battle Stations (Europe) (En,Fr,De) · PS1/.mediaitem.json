@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Stations (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Stations (Europe) (En,Fr,De).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d2fe7fb1ca6f842887d01093b25d88a",
+        "sha1": "edd239c7b7cd2976c13c1d28b76d6d3c4cfa3ef4",
+        "crc32": "a03b93ff"
+      }
+    },
+    {
+      "filename": "Battle Stations (Europe) (En,Fr,De).bin",
+      "filesize": 509974752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c6e78e7b9d9c10fb3196208543aaab0",
+        "sha1": "3bfae4cc420ac1c1c4e94fe19690fd2883c27eae",
+        "crc32": "bb2d9ad2"
+      }
+    }
+  ]
+}

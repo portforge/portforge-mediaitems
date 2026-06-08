@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atlantis - The Lost Continent (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atlantis - The Lost Continent (Europe) (En,Fr,De).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "262b3cda31e4edf0a232e150f46cbd22",
+        "sha1": "99f77a9b6dfaaab1fd3a494f9fa3a5d6b402f19d",
+        "crc32": "c47657f2"
+      }
+    },
+    {
+      "filename": "Atlantis - The Lost Continent (Europe) (En,Fr,De).bin",
+      "filesize": 608300112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abadbd4695bb988227bb71baeebd9d2c",
+        "sha1": "8f96854deebcbba8cf55c1f25ebf118f9c64d2b8",
+        "crc32": "82b786af"
+      }
+    }
+  ]
+}

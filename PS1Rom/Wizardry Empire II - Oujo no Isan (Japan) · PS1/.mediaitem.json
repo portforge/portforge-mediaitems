@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wizardry Empire II - Oujo no Isan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wizardry Empire II - Oujo no Isan (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "49c69358670fa19868019a3a30b63369",
+        "sha1": "d230621aec4085b575c9362f8caf1b8e25976dc4",
+        "crc32": "b14b875c"
+      }
+    },
+    {
+      "filename": "Wizardry Empire II - Oujo no Isan (Japan).bin",
+      "filesize": 158353104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70f40a3c8822c874eb4e9e826fd5787f",
+        "sha1": "9c4a9b80ce5c620eb26ceb8d86aacf4e086cd89a",
+        "crc32": "a5e6feed"
+      }
+    }
+  ]
+}

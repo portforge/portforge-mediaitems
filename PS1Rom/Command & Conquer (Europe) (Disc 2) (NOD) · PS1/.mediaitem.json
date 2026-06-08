@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer (Europe) (Disc 2) (NOD)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer (Europe) (Disc 2) (NOD).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d41d3a4ea5c2a79900b48e2206e8d590",
+        "sha1": "9d64578872af9c7315779a1b5c431c29d1850b4a",
+        "crc32": "487935c8"
+      }
+    },
+    {
+      "filename": "Command & Conquer (Europe) (Disc 2) (NOD).bin",
+      "filesize": 711555264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d54b39ce500e55a152fb28966e8e5b0",
+        "sha1": "55fa545b01fedf415a3668abbc8ea75c832c11fc",
+        "crc32": "1d326a91"
+      }
+    }
+  ]
+}

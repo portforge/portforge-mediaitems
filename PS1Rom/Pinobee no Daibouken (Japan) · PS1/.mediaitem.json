@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pinobee no Daibouken (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pinobee no Daibouken (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f72c5c969f158b2239c2eb10192bb0d",
+        "sha1": "f7fc924fc51f8237cc64bbc108f3dc88fbb248e5",
+        "crc32": "d5285a0e"
+      }
+    },
+    {
+      "filename": "Pinobee no Daibouken (Japan).bin",
+      "filesize": 373067184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b47cfe5d5c419c44184bd6c946f13d3",
+        "sha1": "d3a1dcdb3fd29af03b2dc6127468c94535f0d429",
+        "crc32": "011fc498"
+      }
+    }
+  ]
+}

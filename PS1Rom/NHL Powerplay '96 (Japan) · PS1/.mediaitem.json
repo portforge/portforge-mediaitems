@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Powerplay '96 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Powerplay '96 (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "749ca9c9f817f55f2e484f17dd3f19f0",
+        "sha1": "98af139ba73b735fa41c01ece252e16f823edea2",
+        "crc32": "3a7cc6ca"
+      }
+    },
+    {
+      "filename": "NHL Powerplay '96 (Japan) (Track 1).bin",
+      "filesize": 196556640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ff6f356aa660253b7b18c4821847f22",
+        "sha1": "859ab99a8c29f2d657432fb57a669373510a6bcf",
+        "crc32": "e492b4e2"
+      }
+    },
+    {
+      "filename": "NHL Powerplay '96 (Japan) (Track 2).bin",
+      "filesize": 40950672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23cf992b6fe5cbc6901c2d983c7f8136",
+        "sha1": "5d95b022c0cbe634d458daf06053abda8a3e1c2f",
+        "crc32": "1ae718b3"
+      }
+    }
+  ]
+}

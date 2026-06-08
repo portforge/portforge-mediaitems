@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 58 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 58 (Europe, Australia).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88c5f94a91f40e739b5cd48eabcb5385",
+        "sha1": "a85170a3d67801f18e2b609106265198eef43164",
+        "crc32": "922ca271"
+      }
+    },
+    {
+      "filename": "Euro Demo 58 (Europe, Australia) (Track 1).bin",
+      "filesize": 359928912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aeec59d5a597f4df5e8ed4bd2e626962",
+        "sha1": "3f2e6e53b3ddfaf0f4b73262b35d3fa6f64527c0",
+        "crc32": "9f29ab58"
+      }
+    },
+    {
+      "filename": "Euro Demo 58 (Europe, Australia) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

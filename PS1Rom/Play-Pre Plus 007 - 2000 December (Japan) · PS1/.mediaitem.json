@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Plus 007 - 2000 December (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Plus 007 - 2000 December (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "369bf67e75e775f9a1c8d80d8e403e1f",
+        "sha1": "1b75072047d3ec02c15fa8675255d747c7c57287",
+        "crc32": "70a8a55d"
+      }
+    },
+    {
+      "filename": "Play-Pre Plus 007 - 2000 December (Japan).bin",
+      "filesize": 602413056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0c9d195f2e1afc333f2bdc33461b424",
+        "sha1": "3e985ec4d709cf446d3f72287030f8840467cb18",
+        "crc32": "5432e876"
+      }
+    }
+  ]
+}

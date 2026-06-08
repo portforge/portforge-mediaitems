@@ -1,0 +1,217 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Geom Cube (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Geom Cube (USA).cue",
+      "filesize": 2182,
+      "ext": "cue",
+      "checksums": {
+        "md5": "899ee396a818ed266a95a61f14c5a1df",
+        "sha1": "6230440f499d3fdfd0867e74cfdc32a98648e6d7",
+        "crc32": "7923f81a"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 01).bin",
+      "filesize": 11545968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "377efe13a7391d4b9d51a21bbb80f077",
+        "sha1": "36197109dfa74a6c6c18802ecc49a52a727fa99a",
+        "crc32": "54d09538"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 02).bin",
+      "filesize": 32149488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3d368c1e1586ca5d4cee8eb5e838298",
+        "sha1": "6011188c1cfc4b29c2558167b6baf30a41563650",
+        "crc32": "5dccb141"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 03).bin",
+      "filesize": 4861584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02548eea27afdff430f14c004056c7bc",
+        "sha1": "af46ca135923cb4c5a71fb71a47b9b4cc02b2f45",
+        "crc32": "e42e80de"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 04).bin",
+      "filesize": 4861584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02548eea27afdff430f14c004056c7bc",
+        "sha1": "af46ca135923cb4c5a71fb71a47b9b4cc02b2f45",
+        "crc32": "e42e80de"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 05).bin",
+      "filesize": 30695952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a897903a374214b722a1ed6e2aa37f4",
+        "sha1": "315faee047c194aaaf5c6f989a1bd9b72593c022",
+        "crc32": "d6fc403c"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 06).bin",
+      "filesize": 32511696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "177878d8eefaa4a228e0ebd9bf0800d0",
+        "sha1": "ea1e3ddcdcad9584aa6acb8a7cace0c1652af15e",
+        "crc32": "ba007d9a"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 07).bin",
+      "filesize": 31180464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f06a90ce36ecd221fdf746a80f10c3b5",
+        "sha1": "e7c4edee2e2cdb9668b73886567b206edb038926",
+        "crc32": "31a7244f"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 08).bin",
+      "filesize": 1328880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10584b5f0582cc31aba971fc52bc13a6",
+        "sha1": "b3bd608947e14e8efecebca4e9dd71be378008fb",
+        "crc32": "0d4a0a95"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 09).bin",
+      "filesize": 1328880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10584b5f0582cc31aba971fc52bc13a6",
+        "sha1": "b3bd608947e14e8efecebca4e9dd71be378008fb",
+        "crc32": "0d4a0a95"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 10).bin",
+      "filesize": 7778064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17ba172ea28b28700ceb1cb9174d02ae",
+        "sha1": "33b02fdced335f355be9a7fcbfbb9e3581c9b034",
+        "crc32": "b4c2f419"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 11).bin",
+      "filesize": 29157744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36c369cf4d77834dd70f1c10adbf84b8",
+        "sha1": "7c3adfdf36212cc3a65644739a15b9aa60441da0",
+        "crc32": "f391d5a3"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 12).bin",
+      "filesize": 33452496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "804ec5b30802a31c50398c74d34f7933",
+        "sha1": "071c5c716d043bee00b63a47d2a7ff9765bea007",
+        "crc32": "63debe58"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 13).bin",
+      "filesize": 42324240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6c1231b6ca8badc859ada192360e88e",
+        "sha1": "35c78556650d56188933507e47ccc4946b0c999b",
+        "crc32": "a0a99724"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 14).bin",
+      "filesize": 103629120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e92e7429b32437c4504d9b4db4f1f47",
+        "sha1": "d384fb1a92b9a42f3e6c8b4328c023b919df1d8e",
+        "crc32": "f029a0de"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 15).bin",
+      "filesize": 58884672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b5c25bf9a2978a23eb6f9cffced569",
+        "sha1": "2afc30b32aa7e54295a0df21afe3cffcc53162e8",
+        "crc32": "4825fde7"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 16).bin",
+      "filesize": 34419168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "701afc8344c44ffaf9f81081cf642e0f",
+        "sha1": "7727b352fb45fec6788f98a3997124d36708aa89",
+        "crc32": "4d5fe406"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 17).bin",
+      "filesize": 34675536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f97c785382b17c4496acfbda25195688",
+        "sha1": "755f9cd115387a344cb1cd134077e5dbdccf509c",
+        "crc32": "5892e361"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 18).bin",
+      "filesize": 34962480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92879aad9bdecbbbb75f541877d479a9",
+        "sha1": "c129739d2dfdcc50e11dd9d62ae48ee458d7e375",
+        "crc32": "fe43d3b2"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 19).bin",
+      "filesize": 21847728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "183589362b3512a0bbfe86d7dfcc0a4d",
+        "sha1": "8cb7da37dfc2ef6ec5cb55a204592a62719ac7ac",
+        "crc32": "2ed9c216"
+      }
+    },
+    {
+      "filename": "Geom Cube (USA) (Track 20).bin",
+      "filesize": 33911136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3499fd4f1b19b4e91c64a6cc3a53d65c",
+        "sha1": "d58ad14003cb0a42a72d893f458a06fe9cea6f6b",
+        "crc32": "dba3b8d0"
+      }
+    }
+  ]
+}

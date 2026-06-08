@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple Character 2000 Series Vol. 09 - Tsurikichi Sanpei - The Tsuri (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple Character 2000 Series Vol. 09 - Tsurikichi Sanpei - The Tsuri (Japan).cue",
+      "filesize": 142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1505d7adcb2ba4a3565e84f945eabb63",
+        "sha1": "4ab5098a7964761bfd6fc013c1467d237196e4b1",
+        "crc32": "b3ca1737"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 09 - Tsurikichi Sanpei - The Tsuri (Japan).bin",
+      "filesize": 266077056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2206643e63fde10257e22d8d7aedc8d",
+        "sha1": "f31c11a9004e851d6710b9b7c088af1195ea1c65",
+        "crc32": "1463101c"
+      }
+    }
+  ]
+}

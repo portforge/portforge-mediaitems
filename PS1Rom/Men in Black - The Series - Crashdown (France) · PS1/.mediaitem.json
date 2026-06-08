@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Men in Black - The Series - Crashdown (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Men in Black - The Series - Crashdown (France).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19f59e7c101a224b2ea406bf0b6c3ff0",
+        "sha1": "6a4d9c853d92ee0b8f3ce80b4bc1adf8bd69b446",
+        "crc32": "98f6c05c"
+      }
+    },
+    {
+      "filename": "Men in Black - The Series - Crashdown (France).bin",
+      "filesize": 649462464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f40897bc5f41824cd0ce945ecff2f44c",
+        "sha1": "d2221380db3f00c326ccb079822e907707dec47e",
+        "crc32": "4551f5ae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 45 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 45 (Europe).cue",
+      "filesize": 557,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d5433f33a105b895a413c588b0d81e8a",
+        "sha1": "974fca50621bc777c7278f21de5780b8085f7232",
+        "crc32": "5f02c28e"
+      }
+    },
+    {
+      "filename": "Euro Demo 45 (Europe) (Track 1).bin",
+      "filesize": 377564208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8cd9bdef791c70051806df019c81558",
+        "sha1": "d35069728edce838ef9374f8f09b281b9d722fda",
+        "crc32": "a1c65ee8"
+      }
+    },
+    {
+      "filename": "Euro Demo 45 (Europe) (Track 2).bin",
+      "filesize": 10360560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf079e644f051fec70dfc2e3563da176",
+        "sha1": "c8a305bdc355d2fb92e742ebd307163af34b750c",
+        "crc32": "a6c853b9"
+      }
+    },
+    {
+      "filename": "Euro Demo 45 (Europe) (Track 3).bin",
+      "filesize": 26109552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "862ef4655e50f72d1bd4235ff9e8c3e6",
+        "sha1": "fc995a817c3ebc06cfcfa243c4773e21245f77d5",
+        "crc32": "50696ff5"
+      }
+    },
+    {
+      "filename": "Euro Demo 45 (Europe) (Track 4).bin",
+      "filesize": 33064416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af68c436d42ee7c128df4406ec1883f9",
+        "sha1": "9a990b5abbe1e95258dfd4d83e9076b0136525d6",
+        "crc32": "31cb4c4d"
+      }
+    },
+    {
+      "filename": "Euro Demo 45 (Europe) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

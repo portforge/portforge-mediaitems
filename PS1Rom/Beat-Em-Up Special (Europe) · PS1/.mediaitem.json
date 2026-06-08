@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beat-Em-Up Special (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beat-Em-Up Special (Europe).cue",
+      "filesize": 1324,
+      "ext": "cue",
+      "checksums": {
+        "md5": "774d4edaf678e5da398c8529213e825d",
+        "sha1": "2d2a2eb05b938493529b2a1b7e50254958e2937c",
+        "crc32": "7e72a63f"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 01).bin",
+      "filesize": 503930112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01c758c513c024a258312f2fbb6735cd",
+        "sha1": "1fc21f8415c73c79a3de1e81ac1df4a32bdee1fe",
+        "crc32": "ee9125cf"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 02).bin",
+      "filesize": 34296864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0b57866e12eec5338ba5422ec8b490d",
+        "sha1": "64ae52c5ada72a8c9439f2a8b6a295dff502460a",
+        "crc32": "b24d7910"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 03).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3baa78d0933dabfbb7f2a5a4952bb8ee",
+        "sha1": "17a0ebe7f4c4770275e660dbde59048a0244abc9",
+        "crc32": "1469c27f"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 04).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09c3ba82e23bc1cf36a133e71af7704c",
+        "sha1": "14fc73f00397809738a0d11cd0cc408dade1386d",
+        "crc32": "ba97911a"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 05).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73de23dcaae61b065e2edf310040fd93",
+        "sha1": "55668cde8fadbcb0ab60b68f5ca87a98c37cdf60",
+        "crc32": "3920e8ef"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 06).bin",
+      "filesize": 9466800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "629ec8d58e0ee95748a307fbf2dc52e5",
+        "sha1": "615ee31779cf2902d24034f9f29fb79f87ec054f",
+        "crc32": "eece87f1"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 07).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97cf5a55da820ff064bde615f142ac0e",
+        "sha1": "8618e11fb651ff1d223cb9f1d617875cb9ca208c",
+        "crc32": "c1094b3d"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 08).bin",
+      "filesize": 29743392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db4d1a78bf627c3049309ba4a9f7137",
+        "sha1": "eae7e7732799438efb2ddb299729232136f1e6ae",
+        "crc32": "4f64b28d"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 09).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13f9035c85075be444e135a05a511682",
+        "sha1": "0eb15c23dc7ae344823c73865ce9a75d5aa709e3",
+        "crc32": "0d4dae67"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 10).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f63f0bda34cd8fd37b58e048b1e80327",
+        "sha1": "aba2f37bbf17638c8df90a9e8a51282f1a846c22",
+        "crc32": "9cd75aa3"
+      }
+    },
+    {
+      "filename": "Beat-Em-Up Special (Europe) (Track 11).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

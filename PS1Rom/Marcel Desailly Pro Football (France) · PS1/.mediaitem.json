@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marcel Desailly Pro Football (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marcel Desailly Pro Football (France).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b40d165b61e835dabe8e4532f32f746",
+        "sha1": "3d0449d2ade6cbcf6e7b2530c36ff0edf8621fa5",
+        "crc32": "bc639924"
+      }
+    },
+    {
+      "filename": "Marcel Desailly Pro Football (France).bin",
+      "filesize": 119458080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dadfbd176633a33edb6df4e869e43e6f",
+        "sha1": "86d1cd11d904c88c823919089987acf3fa406c62",
+        "crc32": "5569b092"
+      }
+    }
+  ]
+}

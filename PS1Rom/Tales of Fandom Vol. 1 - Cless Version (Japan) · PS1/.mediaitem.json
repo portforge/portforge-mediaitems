@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tales of Fandom Vol. 1 - Cless Version (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tales of Fandom Vol. 1 - Cless Version (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eaf1d9d2a8f53fe37929e37e378407bd",
+        "sha1": "2fd00d54c81e086732c92363f9f698f95ffca672",
+        "crc32": "dc82f27e"
+      }
+    },
+    {
+      "filename": "Tales of Fandom Vol. 1 - Cless Version (Japan).bin",
+      "filesize": 696530688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc94670a38507e8b1e0b9b0a0d2582ed",
+        "sha1": "675a977fd5a64ef4f148313537dedc77e7e3cb88",
+        "crc32": "a785de55"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "St. Luminous Jogakuin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "St. Luminous Jogakuin (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50d6469986faf73b5edea9b7b019a9cd",
+        "sha1": "e8f6ae6fd8894615a98375154262f0eb2b6e8fe5",
+        "crc32": "7801dc4c"
+      }
+    },
+    {
+      "filename": "St. Luminous Jogakuin (Japan).bin",
+      "filesize": 559550208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0c77868a477bf1c94538838a8a3338e",
+        "sha1": "6ababcfc7875044820bd6d6ef03b37ef31f7bc5e",
+        "crc32": "4da84560"
+      }
+    }
+  ]
+}

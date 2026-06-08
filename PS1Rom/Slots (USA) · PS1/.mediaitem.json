@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slots (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slots (USA).cue",
+      "filesize": 77,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc2bacef399121252365fb518eed0c36",
+        "sha1": "6762243f65ddcae7c5eb135fced5111a22793671",
+        "crc32": "7f371389"
+      }
+    },
+    {
+      "filename": "Slots (USA).bin",
+      "filesize": 177298464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15b167c0168f29bd80320fe05f7a8f5b",
+        "sha1": "71f97df1ec2cfc936e7b1906a16054c5ad0d4b99",
+        "crc32": "777b0e21"
+      }
+    }
+  ]
+}

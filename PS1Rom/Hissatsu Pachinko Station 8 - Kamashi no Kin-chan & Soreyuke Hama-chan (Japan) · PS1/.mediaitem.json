@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station 8 - Kamashi no Kin-chan & Soreyuke Hama-chan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station 8 - Kamashi no Kin-chan & Soreyuke Hama-chan (Japan).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ca8bbc5941f846333229496611d6cc48",
+        "sha1": "66a244dcce808a429645c1dc693e4472b131d54e",
+        "crc32": "a47fba20"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 8 - Kamashi no Kin-chan & Soreyuke Hama-chan (Japan).bin",
+      "filesize": 56382144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ae78e27ff731aca1779d95b67ebbd81",
+        "sha1": "9056bc3372b5cd6645fa72c9cc0377172e6c8e5f",
+        "crc32": "5d9310e1"
+      }
+    }
+  ]
+}

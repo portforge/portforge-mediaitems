@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Lilo & Stitch - Trouble in Paradise (Europe) (Beta) (2002-04-09)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Lilo & Stitch - Trouble in Paradise (Europe) (Beta) (2002-04-09).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "108602df45e730d15c6ca5459724aa07",
+        "sha1": "068f33a0993e04a520c4b4b5e11db22a94f6d2ce",
+        "crc32": "43804563"
+      }
+    },
+    {
+      "filename": "Disney's Lilo & Stitch - Trouble in Paradise (Europe) (Beta) (2002-04-09).bin",
+      "filesize": 473434080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a059c1f594cd3ef2e1cb0f78fe743523",
+        "sha1": "5aac4a0ed7767187368ae71df263f157fade17ac",
+        "crc32": "bd8de356"
+      }
+    }
+  ]
+}

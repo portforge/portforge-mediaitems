@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Intellivision Classic Games (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Intellivision Classic Games (USA).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78a3dd818cf79fd2fd7791964d8e4e1b",
+        "sha1": "d1a5729716252c0fc0db693887597ba62be6c681",
+        "crc32": "1aa44196"
+      }
+    },
+    {
+      "filename": "Intellivision Classic Games (USA) (Track 1).bin",
+      "filesize": 323722224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "439c5b391879634a27b9f468cc35ec0b",
+        "sha1": "82b0589581b5d9fd0d6a8817a2cc1935adc4766d",
+        "crc32": "b43d1635"
+      }
+    },
+    {
+      "filename": "Intellivision Classic Games (USA) (Track 2).bin",
+      "filesize": 5322576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c48014f7e1a00c10e00c23c61abe6219",
+        "sha1": "865944fc1a946b3d945abe99a54a18920d01fc83",
+        "crc32": "34f31739"
+      }
+    },
+    {
+      "filename": "Intellivision Classic Games (USA) (Track 3).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0bcda18a061e585c3ddf7dbc45bd887",
+        "sha1": "aca5f81a73812e4e5f786edace39376fcc1be4b8",
+        "crc32": "82befabf"
+      }
+    }
+  ]
+}

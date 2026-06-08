@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Majin Gakuen - Gehouchou (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Majin Gakuen - Gehouchou (Japan) (Demo).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf21e75326dc472edee334c652763bb3",
+        "sha1": "49aca14493047ea203a36f7bd5d193cf8610c935",
+        "crc32": "a2aea1a7"
+      }
+    },
+    {
+      "filename": "Tokyo Majin Gakuen - Gehouchou (Japan) (Demo).bin",
+      "filesize": 167394192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9eecdfdeaba8812fd12f44906eed88dc",
+        "sha1": "2ad3392160a6f4045aafd021b54332e16de0e260",
+        "crc32": "c396ac35"
+      }
+    }
+  ]
+}

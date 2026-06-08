@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monster Farm 2 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monster Farm 2 (Japan) (Rev 1).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0390ac0c97ef97c806f7f41c07117ffa",
+        "sha1": "1fa367dc8504398f37f7f8e52c9f10421c056686",
+        "crc32": "1a03f90b"
+      }
+    },
+    {
+      "filename": "Monster Farm 2 (Japan) (Rev 1).bin",
+      "filesize": 451866240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a56b65a22f02c8b2f9cd278a0469861",
+        "sha1": "2d3db81ccc833923347da9b344835a8fa0b777cf",
+        "crc32": "06e0efd2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 02 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 02 (USA).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c21d339b4dbe80c18fcc67078a6b1cd3",
+        "sha1": "77b291a2a04239b5d01005b85839138441022fcb",
+        "crc32": "fcfc3954"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 02 (USA) (Track 1).bin",
+      "filesize": 323651664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c17eaa9a6528b2a7fa8677ad039a5dbf",
+        "sha1": "db1d3e09b6630006a2917253867ccb299b7045cc",
+        "crc32": "48768017"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 02 (USA) (Track 2).bin",
+      "filesize": 26826912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde70d4c7d91d12de66420acb1b8f27d",
+        "sha1": "ea44fcd76443f714993a758850254f2332efee38",
+        "crc32": "5f16ff59"
+      }
+    }
+  ]
+}

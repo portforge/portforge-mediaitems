@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Katou Hifumi Kudan - Shougi Club (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Katou Hifumi Kudan - Shougi Club (Japan).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f9134658ca95e667583139e29280229",
+        "sha1": "bce482a75cf961bf8ebff9a9a36ef914e2694cea",
+        "crc32": "0102cd2d"
+      }
+    },
+    {
+      "filename": "Katou Hifumi Kudan - Shougi Club (Japan) (Track 1).bin",
+      "filesize": 2434320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d05306cdb218721d9981e86cd16cd1f",
+        "sha1": "05d423597c843e81fa47ce4bd689bc20b2a6d0da",
+        "crc32": "ea0c090f"
+      }
+    },
+    {
+      "filename": "Katou Hifumi Kudan - Shougi Club (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

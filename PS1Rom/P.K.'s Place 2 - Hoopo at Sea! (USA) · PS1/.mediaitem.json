@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "P.K.'s Place 2 - Hoopo at Sea! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "P.K.'s Place 2 - Hoopo at Sea! (USA).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbf7dee1235d7a23acdb0d95087d17f9",
+        "sha1": "bb1063d79c7c020b66bf8bea028b9b7dbd23e85c",
+        "crc32": "cc875f54"
+      }
+    },
+    {
+      "filename": "P.K.'s Place 2 - Hoopo at Sea! (USA).bin",
+      "filesize": 142627632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92389d0f95fd92337a3a53831a5dbfd7",
+        "sha1": "351b5e7c80d8a461c68a053cbe24896e09c69efd",
+        "crc32": "b7c6d86c"
+      }
+    }
+  ]
+}

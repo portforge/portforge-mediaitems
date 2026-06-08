@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 06-99 'Special' (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany).cue",
+      "filesize": 1143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2054c016255dc8829892730873ef6fc8",
+        "sha1": "6bd59892ba9d63e4f7e90e84ad6f113f0b137938",
+        "crc32": "fb892eb0"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 1).bin",
+      "filesize": 438600960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b412c5873fb9d721b7b062501eac5570",
+        "sha1": "8f1e39b47d57e207fc0f68fed83145001fc2b584",
+        "crc32": "129d6d72"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 2).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3baa78d0933dabfbb7f2a5a4952bb8ee",
+        "sha1": "17a0ebe7f4c4770275e660dbde59048a0244abc9",
+        "crc32": "1469c27f"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 3).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09c3ba82e23bc1cf36a133e71af7704c",
+        "sha1": "14fc73f00397809738a0d11cd0cc408dade1386d",
+        "crc32": "ba97911a"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 4).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73de23dcaae61b065e2edf310040fd93",
+        "sha1": "55668cde8fadbcb0ab60b68f5ca87a98c37cdf60",
+        "crc32": "3920e8ef"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 5).bin",
+      "filesize": 9466800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "629ec8d58e0ee95748a307fbf2dc52e5",
+        "sha1": "615ee31779cf2902d24034f9f29fb79f87ec054f",
+        "crc32": "eece87f1"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 6).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97cf5a55da820ff064bde615f142ac0e",
+        "sha1": "8618e11fb651ff1d223cb9f1d617875cb9ca208c",
+        "crc32": "c1094b3d"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 7).bin",
+      "filesize": 29743392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db4d1a78bf627c3049309ba4a9f7137",
+        "sha1": "eae7e7732799438efb2ddb299729232136f1e6ae",
+        "crc32": "4f64b28d"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 8).bin",
+      "filesize": 36439536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a7ac3d7f9ad652951ae03fe157c7c7d",
+        "sha1": "daec33c31013f1dc4f3a1c1b7aad22291aa34bd4",
+        "crc32": "49d92b4b"
+      }
+    },
+    {
+      "filename": "Euro Demo 06-99 'Special' (Germany) (Track 9).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

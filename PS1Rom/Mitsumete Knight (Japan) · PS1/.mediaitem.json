@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mitsumete Knight (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mitsumete Knight (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "91f6fada1775d1a673706babd64d2eb7",
+        "sha1": "db46f77477f0bcd0c9ebd32e277150abdb00ff4c",
+        "crc32": "24513211"
+      }
+    },
+    {
+      "filename": "Mitsumete Knight (Japan) (Track 1).bin",
+      "filesize": 666909600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34f6052d0527c9a97f8208745bc223c4",
+        "sha1": "93652d280a42c73e9b382319101233d61e98a074",
+        "crc32": "ef841ecb"
+      }
+    },
+    {
+      "filename": "Mitsumete Knight (Japan) (Track 2).bin",
+      "filesize": 32391744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d09b4dc6bfcec164af4cda0f3782aa9f",
+        "sha1": "2bfd5a33aaf9bf2d957a31112d939ea992051af8",
+        "crc32": "4573e25a"
+      }
+    }
+  ]
+}

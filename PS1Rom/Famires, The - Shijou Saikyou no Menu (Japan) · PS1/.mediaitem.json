@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famires, The - Shijou Saikyou no Menu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famires, The - Shijou Saikyou no Menu (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8be531a80e1d65e01f82d91e3381cd81",
+        "sha1": "c2ba51eab81e6618bcbc6d1f0861fe882b34db0f",
+        "crc32": "fdb30cf5"
+      }
+    },
+    {
+      "filename": "Famires, The - Shijou Saikyou no Menu (Japan).bin",
+      "filesize": 95366544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d11c0463688329d8552e5cfde43ce9c",
+        "sha1": "91bd67642b22ccd5a98b4140485fb016e5d4688b",
+        "crc32": "e31f79ed"
+      }
+    }
+  ]
+}

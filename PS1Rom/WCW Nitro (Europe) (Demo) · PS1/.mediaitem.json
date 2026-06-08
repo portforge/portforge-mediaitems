@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WCW Nitro (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WCW Nitro (Europe) (Demo).cue",
+      "filesize": 339,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3cf394221a96b514828f0d8b4ea6f14a",
+        "sha1": "12ff929267b6e9745225c41314dd3bf6c570ac78",
+        "crc32": "603629c2"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Demo) (Track 1).bin",
+      "filesize": 36463056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74138c034248c4aeb7b401c7bcb3ce31",
+        "sha1": "d4ab538189a67e4af8f971064632cdcf4c862384",
+        "crc32": "383dfea1"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Demo) (Track 2).bin",
+      "filesize": 7168896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5aa83f163b09bf784ffab161918725a8",
+        "sha1": "a289347dda6bfa2562d90e147f128c8934cd378b",
+        "crc32": "65cd8f3c"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Demo) (Track 3).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "912b926cb18a5c9e46eb30abd67ff492",
+        "sha1": "390c1e0d485a2194f6817357847499d7947b3965",
+        "crc32": "e9327bc4"
+      }
+    }
+  ]
+}

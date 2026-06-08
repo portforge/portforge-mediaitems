@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Atlantis - The Lost Empire (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Atlantis - The Lost Empire (USA, Canada).cue",
+      "filesize": 268,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4aad36f9c5984f0bc2112f6a59905f71",
+        "sha1": "ea85966d181c8c3567553f35b0621b825bfcc4e7",
+        "crc32": "7c6a4717"
+      }
+    },
+    {
+      "filename": "Disney's Atlantis - The Lost Empire (USA, Canada) (Track 1).bin",
+      "filesize": 341004720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1cd0969672d9dfb76fde591f71d3e06",
+        "sha1": "257602756c1d6b2ac5907ec23c6c3ce4993e4ddb",
+        "crc32": "92487734"
+      }
+    },
+    {
+      "filename": "Disney's Atlantis - The Lost Empire (USA, Canada) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

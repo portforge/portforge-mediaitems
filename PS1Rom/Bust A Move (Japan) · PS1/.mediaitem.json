@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bust A Move (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bust A Move (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54580d0e9ddf34b66dc6d9df4f390026",
+        "sha1": "e7de60fd35311e414ace6da1b733cc3bffd4f296",
+        "crc32": "093618f5"
+      }
+    },
+    {
+      "filename": "Bust A Move (Japan).bin",
+      "filesize": 398602848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a890623789fc241f250ae3e85513046",
+        "sha1": "f0c6797a3a4d418afa69200c3fb62813f3457081",
+        "crc32": "a5d75d2d"
+      }
+    }
+  ]
+}

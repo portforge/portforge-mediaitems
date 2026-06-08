@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Soccer 2 (Europe) (En,Fr)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Soccer 2 (Europe) (En,Fr).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "501639843cd248218891ee8ff2b3a108",
+        "sha1": "06c0aba3a0beb08d193819bb32b6ce80158086bd",
+        "crc32": "f568de1b"
+      }
+    },
+    {
+      "filename": "Actua Soccer 2 (Europe) (En,Fr) (Track 1).bin",
+      "filesize": 448404096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be2429f7546926d2e47e00cfde1bdc6f",
+        "sha1": "e26c92a7591d01744707c27461d0111a31c7a4b1",
+        "crc32": "31ad53b7"
+      }
+    },
+    {
+      "filename": "Actua Soccer 2 (Europe) (En,Fr) (Track 2).bin",
+      "filesize": 45123120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a84fafee080fdb60775165c458ef8ee8",
+        "sha1": "6521c5df5f874fc64a8d56d4cd2fc2ae94220917",
+        "crc32": "5b8e2830"
+      }
+    }
+  ]
+}

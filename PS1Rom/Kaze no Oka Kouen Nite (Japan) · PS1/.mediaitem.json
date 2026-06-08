@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kaze no Oka Kouen Nite (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kaze no Oka Kouen Nite (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "92e4f4c5d512a8645420a9d44970b226",
+        "sha1": "4696506e8a10e1ebf5a21e62adc97b60512e1921",
+        "crc32": "117b81fc"
+      }
+    },
+    {
+      "filename": "Kaze no Oka Kouen Nite (Japan).bin",
+      "filesize": 746054400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ead6624445a065f1453af27761a5ee19",
+        "sha1": "0ada349ab966e290169b9494af8c6d1bc680c385",
+        "crc32": "f4cf6125"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Digimon Park (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Digimon Park (Japan) (Controller Set).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ff38bc7e5ce25ab49a04759602c259f",
+        "sha1": "d9238cd255db325a333b526f18bbf85bf49ad80b",
+        "crc32": "02e7faf8"
+      }
+    },
+    {
+      "filename": "Kids Station - Digimon Park (Japan) (Controller Set).bin",
+      "filesize": 409970064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b891a511d609cdadadc056034305ef4",
+        "sha1": "20b71db8d0bb55e90780691840900471260e5b72",
+        "crc32": "a6593097"
+      }
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mahjong Gokuu Tenjiku 99 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan).cue",
+      "filesize": 5189,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c2e30a199ddb13be5e3540db195cadcf",
+        "sha1": "cfb38d828a50f0b3a321d69d310183cd973d61fd",
+        "crc32": "933b9eae"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 01).bin",
+      "filesize": 12279792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a202ec0b93ddb74a645353229e95e6fe",
+        "sha1": "38e5de7a37c3130f78f8b3fc02c1a0eaa13e7320",
+        "crc32": "e7e98205"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 02).bin",
+      "filesize": 7952112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37016231284dc3b75788115476748566",
+        "sha1": "665c16bb6d0a94a86a6931fba9181dee6bc4e744",
+        "crc32": "5c6ce3e9"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 03).bin",
+      "filesize": 19794432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "398d5c4e78a33cf3722ac97083e1639f",
+        "sha1": "6836591f52cfe26717ff82d9dcc24fe075990d69",
+        "crc32": "b1039f23"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 04).bin",
+      "filesize": 10461696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42083f9b82019a70e7066c75649ad3d6",
+        "sha1": "88d5f7bfa528845eefb1bf0743f9f341802c6f80",
+        "crc32": "ea7df32c"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 05).bin",
+      "filesize": 14048496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "950120c683bbcd80095d422921325aa3",
+        "sha1": "d6a2636bbc28139db98effe2f190a822deb88215",
+        "crc32": "7fa093f2"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 06).bin",
+      "filesize": 12075168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d7610aa58e6adf1fba289ff3ab7b36a",
+        "sha1": "d8868b20625398a810e653af9779d0cd73c11830",
+        "crc32": "a2f349a2"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 07).bin",
+      "filesize": 15360912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca24698dbcccf90c23e251e69c96e66c",
+        "sha1": "b8d5c86b3c473071a0d1d66e57ad1f2d206ac250",
+        "crc32": "968feb52"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 08).bin",
+      "filesize": 15509088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b754e5987497370f1103ad5b868b282",
+        "sha1": "b94c5f279ce9df161dcf0762f11eb6b88de87880",
+        "crc32": "4b127304"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 09).bin",
+      "filesize": 15407952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aedbf4712f57a9db689f767d56a132ee",
+        "sha1": "40ece821af09632ef5ba91cb371dca0299d8887f",
+        "crc32": "9fb328d7"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 10).bin",
+      "filesize": 15440880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba2d0a4e4e8345600a304857b1568fc1",
+        "sha1": "a8a66538d4900bb4f594cbff12a015ba7337844f",
+        "crc32": "df8f7130"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 11).bin",
+      "filesize": 15375024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bdb7306eb420c708c37bf925276fa665",
+        "sha1": "690d87fd95be2614c0f7824e853c4c52062a1b03",
+        "crc32": "de81d976"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 12).bin",
+      "filesize": 15384432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa7c9df577e797958e900c6422cdecdd",
+        "sha1": "6efb56e1d79a633ef66f5594402d986009cd7d35",
+        "crc32": "b5ce87ef"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 13).bin",
+      "filesize": 15389136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e24adfb4f1961edc74173e47dffb0112",
+        "sha1": "9a3ba027fc3671fded2c1b4225594a74174f9a2a",
+        "crc32": "b21f0bf3"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 14).bin",
+      "filesize": 15379728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ceb8e6e7855f1fa9ccc64514d1569c2",
+        "sha1": "52fee244e441a282017388f2242ab1740706dd6b",
+        "crc32": "88149fbd"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 15).bin",
+      "filesize": 15393840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85644b781b0fc1994cd0a93b3406bc7d",
+        "sha1": "5fceca3e9f813b8766d637f73fb1e9efe6b6b5ab",
+        "crc32": "ddc66f97"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 16).bin",
+      "filesize": 54223008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8b52774703bce44a838f1eaa4426e05",
+        "sha1": "e4698e9c5c91ea1b910eda67bfdd2a8b67204ac9",
+        "crc32": "3e50e862"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 17).bin",
+      "filesize": 54587568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9737038ff0c06306e72e68d6c4446cb7",
+        "sha1": "d22815b18d701e70d4288c128aba2649cae8f393",
+        "crc32": "916d867f"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 18).bin",
+      "filesize": 54206544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4578f4d9079e902592c3edf86472c764",
+        "sha1": "093041b53c75ea48f680bba7bbcbd996d0e2d7aa",
+        "crc32": "f961a355"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 19).bin",
+      "filesize": 54166560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11f32c468fa9d6ae51b6a950b2ce1659",
+        "sha1": "0a094d398906928d8ccdb59a8929b468bae63948",
+        "crc32": "eae99ae3"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 20).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7905ca9dd915ba0176f527df23321134",
+        "sha1": "9e125b5d104d0789c8b1d6a0a6eaa9a345f90a2f",
+        "crc32": "0292c4b7"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 21).bin",
+      "filesize": 43631952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afc33a246575a3912fea68b9b7dd8ca5",
+        "sha1": "70de0590bb78db1b26490c88d47e01b85fe5a6f4",
+        "crc32": "7070797d"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 22).bin",
+      "filesize": 33102048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e773b56ca5adad1903b158edfaea528",
+        "sha1": "c8ce39b1cea96fc6835379c0d3284a46cd4561a5",
+        "crc32": "265eeb8e"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 23).bin",
+      "filesize": 22494528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4be758310850942dbbdb07f46062e212",
+        "sha1": "cf812afad393cb3c36ed3d1068ee03ff8a15f210",
+        "crc32": "11982c96"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 24).bin",
+      "filesize": 1507632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c171fb74d71736a028a028b1c87dc486",
+        "sha1": "f2acac8307af1b8ca624cfd7bc4184e3ccdb5490",
+        "crc32": "c9fd34e8"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 25).bin",
+      "filesize": 1801632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3665f853ed25753bdeb46df40480712b",
+        "sha1": "b974940fa6dabe81585aed2255ebec9566e2f2e5",
+        "crc32": "e86e6a7d"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 26).bin",
+      "filesize": 1244208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c87465eefdd821609e938f249c573e9e",
+        "sha1": "6fcd0d8a0c04736bf7143561542303e8b1b1cd84",
+        "crc32": "478eb089"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 27).bin",
+      "filesize": 1745184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b842715f1bca395fc2c3a2380cb73ff",
+        "sha1": "d5d52932fe355c8e70ef03a482e506247cc315c5",
+        "crc32": "671734bc"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 28).bin",
+      "filesize": 2580144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6951d56162e2b6ede6b0fe3d8f490738",
+        "sha1": "fbd5fdead6445c5cdad01381c97f07aa30a6327e",
+        "crc32": "3b0eeaab"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 29).bin",
+      "filesize": 1470000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02d31b48e2c5907199de9bea25f59a39",
+        "sha1": "3bd3d17bc5abbbe65fc020c9ca9970dc38f9ff51",
+        "crc32": "cc23d75f"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 30).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a094e985f53c38af663a5ea463b3252a",
+        "sha1": "b259b241eaf6f0b94d63b021d39a98f9350bfc73",
+        "crc32": "e37ae051"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 31).bin",
+      "filesize": 1392384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f15c1dd1b3eb236ae67355d6ca788964",
+        "sha1": "5c5dfd314e9427ccd54f842623a8d89a69b83da5",
+        "crc32": "cad0f3f4"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 32).bin",
+      "filesize": 3876096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b5e16e93e82872b7890b14b4f84cff7",
+        "sha1": "cd05940bdeffd031bcdd37063593b4705c2c9799",
+        "crc32": "6a6ff063"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 33).bin",
+      "filesize": 5066208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af596b8eb0a8694c0ccfb33b05b1cc38",
+        "sha1": "7d73590103a05e0841c1bf8c40ee154af4b2c31a",
+        "crc32": "f1c19e80"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 34).bin",
+      "filesize": 4845120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "859f70de3179f2e0951433210298874f",
+        "sha1": "3823a79b1f63940ccdb832a268253468b2e39140",
+        "crc32": "24ce099a"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 35).bin",
+      "filesize": 3128160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d30c658108c8c4dc0b72bebe73699742",
+        "sha1": "aed9e41fa8ae90dff0e950e74f9ecc12c04e5aef",
+        "crc32": "4e9cf700"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 36).bin",
+      "filesize": 3819648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0af5f3b30ae162857b2d381b1c18eadc",
+        "sha1": "66be1c21af47663a66ec22a48e025a139aa8dbf1",
+        "crc32": "09919fb8"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 37).bin",
+      "filesize": 3563280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1ae7eea3726492832db0eadd1a9e40b",
+        "sha1": "b0e36ab0fb8f49bdfb30b4e63e6175e9bbad3f32",
+        "crc32": "079e2820"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 38).bin",
+      "filesize": 4043088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a67646582b43c008514339f39b7d889",
+        "sha1": "6c8033ceb0e6b21eebf8cc52f3b270c97dfb9994",
+        "crc32": "afbf132f"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 39).bin",
+      "filesize": 3259872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec85ce7f5d9d698fc775331b6e5a8adc",
+        "sha1": "b0a927d6ff15b5778d7d00d86da17779c4e0e98c",
+        "crc32": "c753f8f4"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 40).bin",
+      "filesize": 20540016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d5b919450db5638a9a7ae82e9890009",
+        "sha1": "9fe54fc5aac43e614f466a4eabd17c0fda16d197",
+        "crc32": "216d465c"
+      }
+    },
+    {
+      "filename": "Mahjong Gokuu Tenjiku 99 (Japan) (Track 41).bin",
+      "filesize": 54223008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8b52774703bce44a838f1eaa4426e05",
+        "sha1": "e4698e9c5c91ea1b910eda67bfdd2a8b67204ac9",
+        "crc32": "3e50e862"
+      }
+    }
+  ]
+}

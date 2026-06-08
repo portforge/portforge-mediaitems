@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Civilization II (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Civilization II (USA).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ce9d91aa64391295bb182d4e0f15074",
+        "sha1": "ecf30330ddf56b015705b5e04c90cd1ca04e0ba1",
+        "crc32": "4244fe07"
+      }
+    },
+    {
+      "filename": "Civilization II (USA) (Track 1).bin",
+      "filesize": 484036896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91bd38b3cb8ed9816f15cbdf9444c147",
+        "sha1": "135c0a8e1777be9f58ac261a71a6b0ed67fe6ed1",
+        "crc32": "fadb9e8d"
+      }
+    },
+    {
+      "filename": "Civilization II (USA) (Track 2).bin",
+      "filesize": 22405152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c13b3bad2140dd427050e4baf2d0154c",
+        "sha1": "530774ace9af0683911f91efbeda592dfda875b9",
+        "crc32": "49a77e85"
+      }
+    }
+  ]
+}

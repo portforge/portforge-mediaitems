@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo - The Evil Mirror (Europe) (Es,It,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo - The Evil Mirror (Europe) (Es,It,Pt).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "929d9bb720c0e31b7bd45e7b62cdf33b",
+        "sha1": "675be5b6354f6cfd6b9c57b8a011b165808c57dd",
+        "crc32": "31646e80"
+      }
+    },
+    {
+      "filename": "Hugo - The Evil Mirror (Europe) (Es,It,Pt).bin",
+      "filesize": 687005088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "668523b7f3c73b95d2f110bf079d3a84",
+        "sha1": "8553988933af58121b1877b17570f08981042452",
+        "crc32": "2c19ba9a"
+      }
+    }
+  ]
+}

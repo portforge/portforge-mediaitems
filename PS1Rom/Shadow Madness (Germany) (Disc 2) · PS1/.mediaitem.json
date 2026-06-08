@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shadow Madness (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shadow Madness (Germany) (Disc 2).cue",
+      "filesize": 490,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cc6cecfd652f65d87a315152c7635777",
+        "sha1": "9676c6f49fc8e9babe8c67241d9d010ddd8f464d",
+        "crc32": "2ef8ec0f"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Germany) (Disc 2) (Track 1).bin",
+      "filesize": 608511792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d04408bc2f21ea0437fed5b52f182e5",
+        "sha1": "11c142191e3dd4c0ee9af76cb5df1fb0e9c1b2af",
+        "crc32": "930478ad"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Germany) (Disc 2) (Track 2).bin",
+      "filesize": 43537872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca11840094a4372325d506263af7d598",
+        "sha1": "131036da81391d2acbfa9ecce2282e6b741a7c82",
+        "crc32": "2a875c78"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Germany) (Disc 2) (Track 3).bin",
+      "filesize": 33461904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f123ad6db1bdc0132a905426f9f29759",
+        "sha1": "fcda09987faa07551eafefc7b531f99648d8910e",
+        "crc32": "9d173621"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Germany) (Disc 2) (Track 4).bin",
+      "filesize": 55566000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1eccb4506d9e7e843dde99e2cb12c795",
+        "sha1": "07eeab9f8c908025cfb244e1db13d9193304eee8",
+        "crc32": "fab9339a"
+      }
+    }
+  ]
+}

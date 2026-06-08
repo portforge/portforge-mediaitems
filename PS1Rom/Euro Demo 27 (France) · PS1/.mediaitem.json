@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 27 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 27 (France).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ca58d3de58600e35e4ce9e7927d9327a",
+        "sha1": "07f46d2eef8652073f558945c6b177ff1634c919",
+        "crc32": "b70a3e51"
+      }
+    },
+    {
+      "filename": "Euro Demo 27 (France) (Track 1).bin",
+      "filesize": 375339216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b05a095fe4abdfd087478146ebb04fa",
+        "sha1": "eef5122f3936899c74caa4c9fc2880d9f7734c2e",
+        "crc32": "a24fe605"
+      }
+    },
+    {
+      "filename": "Euro Demo 27 (France) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider (Europe) (Demo).cue",
+      "filesize": 345,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ab23732839dc3e3e4a7670801ffcb67",
+        "sha1": "27a8983aebd2947ce6975763f93b18921b9db129",
+        "crc32": "3fd8eed7"
+      }
+    },
+    {
+      "filename": "Tomb Raider (Europe) (Demo) (Track 1).bin",
+      "filesize": 5428416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "080bdd377e365b4b6266ea08b6bfe4dd",
+        "sha1": "deeb256fb278de26745ef6b902eabe87c536b2da",
+        "crc32": "b7c750b3"
+      }
+    },
+    {
+      "filename": "Tomb Raider (Europe) (Demo) (Track 2).bin",
+      "filesize": 34675536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d9b29532bf6f167fe02bece59baef3b",
+        "sha1": "e55d5a6cccd78b87d885c63ff736d300a881af8a",
+        "crc32": "3561d9d7"
+      }
+    },
+    {
+      "filename": "Tomb Raider (Europe) (Demo) (Track 3).bin",
+      "filesize": 35103600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ece4ee4bd7df81a2b2fe09926ab9b67f",
+        "sha1": "67f6e8792b15f581d256f99eed66cb724dddb329",
+        "crc32": "7d46743f"
+      }
+    }
+  ]
+}

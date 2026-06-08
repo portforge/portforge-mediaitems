@@ -1,0 +1,267 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Extreme Pinball (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Extreme Pinball (Europe).cue",
+      "filesize": 2957,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1291d5923e1eba8b232d68960e5170c7",
+        "sha1": "67f9562e67302de9f497b025df344e902457da9a",
+        "crc32": "e820176b"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 01).bin",
+      "filesize": 15288000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "917583c5b475eb545abb0e60c35a9365",
+        "sha1": "a93ea5592f17e630df3d90088b4f3bb3bb7f64c4",
+        "crc32": "a194a21e"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 02).bin",
+      "filesize": 19321680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06a480a3c3a51faeaaddcc9eed1181d1",
+        "sha1": "b4b481d0d3da8dcb5ee8d64cda865b6e2d478807",
+        "crc32": "43918250"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 03).bin",
+      "filesize": 32572848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f1bb8bab1c0a087c456b9fe333a7707",
+        "sha1": "1fff1fc2706078ef7d18fa2d14e067640f40b9ba",
+        "crc32": "e36caa5a"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 04).bin",
+      "filesize": 1559376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca6d112dfdcdb9b746dcf352153d384a",
+        "sha1": "9e1b00465ab37f726ac87d18bbba623e14628208",
+        "crc32": "a07418ee"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 05).bin",
+      "filesize": 1340640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d8a1cc5740c1329a72336ad1c83ba92",
+        "sha1": "00495f8d1e6333433fb2b9d2eeded1b565ea3c7b",
+        "crc32": "829953a8"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 06).bin",
+      "filesize": 834960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18fdd7ee7e26fb543c09fb06c74736a4",
+        "sha1": "32d3bfefe9a555adcf92220d327baec9a008aff2",
+        "crc32": "84a68660"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 07).bin",
+      "filesize": 672672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25e6ce744662f2e429cb09040edc3a3b",
+        "sha1": "31209fb2ebdff816fec2b5249ba987519097a04d",
+        "crc32": "f862f741"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 08).bin",
+      "filesize": 1081920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f68471381ed29088ec135c2e44909ff1",
+        "sha1": "5d618050d7bee186cde8b23b13f1298473995d63",
+        "crc32": "46531ce4"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 09).bin",
+      "filesize": 23385936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c344154fa1f7953ca6f070e5f091c602",
+        "sha1": "d1bc1e41a6bc46d322c9bd8637714d46c84fddd8",
+        "crc32": "bf19c1b6"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 10).bin",
+      "filesize": 2603664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ddec1894c891c23f0444332fc1eed2a",
+        "sha1": "48b602c979cae560543be42d6fd17d54b94f0b00",
+        "crc32": "7142dc3a"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 11).bin",
+      "filesize": 1270080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07268372af787e9f306c932fb59d21c4",
+        "sha1": "2f3617715ef69965599ea3dd93cb4d855fb90863",
+        "crc32": "0b2e3e49"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 12).bin",
+      "filesize": 806736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff95964f8e842645c2a4823c66782fe1",
+        "sha1": "d90e02ddfb24b623406f653d0c49a87bfbca56e4",
+        "crc32": "e32c3fb5"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 13).bin",
+      "filesize": 1013712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79e2e998d23b6ed2711b2c3362bcf0cc",
+        "sha1": "087768da805ac2a0e6b9a4ddc40a6b01a0a59b7b",
+        "crc32": "fa75cb26"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 14).bin",
+      "filesize": 1034880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a95b44e6a298d217efeb86b2c4ac75f",
+        "sha1": "11a12fdd6b15625dd5218b7f3976ba4a80b372e7",
+        "crc32": "ebc36ead"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 15).bin",
+      "filesize": 18644304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca664866e6074e9de1c14ab6f540327d",
+        "sha1": "edaf5a3f7728cc6f4a1556c4e29641f7a234f1cb",
+        "crc32": "12a6d9ef"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 16).bin",
+      "filesize": 2516640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a660c8dc34c75d7cd714a0b3c7ef8ef",
+        "sha1": "6486e6f739a6bf675dd92e59c3ca56368a26c9d4",
+        "crc32": "f06b76a3"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 17).bin",
+      "filesize": 837312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d40958eb1525c813e34e9a1b992b5a8",
+        "sha1": "95843e371ddadeecf27a54aed3e6769f4c57db7c",
+        "crc32": "10670a50"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 18).bin",
+      "filesize": 2780064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88f487d049766d7f0d3da0d406e16d2e",
+        "sha1": "813112de205b9d0cd00e7c835ebec13f7c61267b",
+        "crc32": "9abf5668"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 19).bin",
+      "filesize": 719712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad9837be1bb63eb27b24f8e9ee0b0b3b",
+        "sha1": "5668f69c350f7eb3b85e9354a5c77e04b5ed0d74",
+        "crc32": "d70467fa"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 20).bin",
+      "filesize": 842016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39da357b7d2eb738599c94cb7da4f274",
+        "sha1": "698b1eb4887057554d7cba0b227784ef976f6295",
+        "crc32": "dad1fbc8"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 21).bin",
+      "filesize": 20405952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "129b1333acef1f941f7ec08aac9dab1f",
+        "sha1": "1c3666b90c7ef9c50b631c1cae0635aba6ee8531",
+        "crc32": "b0b48cb4"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 22).bin",
+      "filesize": 2721264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c4ba126057b6825fae91cb3efcd85e7",
+        "sha1": "b9a7717bbc6da702eb4a7e010f45414a5dee095e",
+        "crc32": "737fdac5"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 23).bin",
+      "filesize": 5752992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "114226fcfca0be6fb71a44c9e327784c",
+        "sha1": "098a510ef316c862eab9bd725d2cdd749a8832b0",
+        "crc32": "e4b29293"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 24).bin",
+      "filesize": 4680480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53337eb71b1a338bec23f05da2f982d2",
+        "sha1": "2d9633879240f537b9dd6521befcdfeecda0b828",
+        "crc32": "958b7953"
+      }
+    },
+    {
+      "filename": "Extreme Pinball (Europe) (Track 25).bin",
+      "filesize": 7808640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0eacef1984c6d5be23c30f7785d0c93",
+        "sha1": "ed8e5648ae4d241567ee040353179b87fceaa486",
+        "crc32": "b8126062"
+      }
+    }
+  ]
+}

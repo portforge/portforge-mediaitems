@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guilty Gear (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guilty Gear (USA).cue",
+      "filesize": 204,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62daf6bd3f59de268bfffb25210d0538",
+        "sha1": "4f1c953064dc5840ad408002d349cea5f4ee6749",
+        "crc32": "9184cdb8"
+      }
+    },
+    {
+      "filename": "Guilty Gear (USA) (Track 1).bin",
+      "filesize": 288120000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e139094322da581eae2726fe8a235b79",
+        "sha1": "43dc2f544b0d15d012800f81434939d659abdeac",
+        "crc32": "0432e103"
+      }
+    },
+    {
+      "filename": "Guilty Gear (USA) (Track 2).bin",
+      "filesize": 59947776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aade6b456d14747c40a9cb56359ed448",
+        "sha1": "7ccdd7060bcb01f01839f3de418b151e5ecc40d0",
+        "crc32": "0f710808"
+      }
+    }
+  ]
+}

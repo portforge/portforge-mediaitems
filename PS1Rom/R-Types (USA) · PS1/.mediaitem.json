@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R-Types (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R-Types (USA).cue",
+      "filesize": 79,
+      "ext": "cue",
+      "checksums": {
+        "md5": "547a983b0d92445285bc5d78797f9cdd",
+        "sha1": "fcf07bb76470da372a3e86a6fce29d72651e2ccf",
+        "crc32": "7fdd5e22"
+      }
+    },
+    {
+      "filename": "R-Types (USA).bin",
+      "filesize": 520989168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8788e91f6a34677d78950b3c6773877",
+        "sha1": "f2cb9bd19590e1035d8437e490a1c0130c30a17a",
+        "crc32": "83c0b206"
+      }
+    }
+  ]
+}

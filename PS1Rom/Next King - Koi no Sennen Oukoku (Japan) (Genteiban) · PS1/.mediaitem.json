@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next King - Koi no Sennen Oukoku (Japan) (Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan) (Genteiban).cue",
+      "filesize": 420,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6bb197d3d7e8637b4e4cb511254491be",
+        "sha1": "2b26ec94c16634a12680eff7738781163fd5704d",
+        "crc32": "3a82ce14"
+      }
+    },
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan) (Genteiban) (Track 1).bin",
+      "filesize": 543643632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06a43eda40eb14f0b8a367e33d9c3f6f",
+        "sha1": "fff25e184d34fbab704d8bd2e49481f05a51e2c4",
+        "crc32": "936a8272"
+      }
+    },
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan) (Genteiban) (Track 2).bin",
+      "filesize": 34964832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c84ddc3f4bcdb2255ed4cf15631eab2d",
+        "sha1": "910f92c931288f7956b01ddcd1409d0ee53c68a6",
+        "crc32": "f1b9eb4e"
+      }
+    },
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan) (Genteiban) (Track 3).bin",
+      "filesize": 34964832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f47f26c8d4a0191b1b4e965795aa096b",
+        "sha1": "6c4f6fb8526aa9a38f6f8ed9ea857ff459d448c1",
+        "crc32": "d75e9457"
+      }
+    }
+  ]
+}

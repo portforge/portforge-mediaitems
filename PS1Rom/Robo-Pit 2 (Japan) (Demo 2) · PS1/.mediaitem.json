@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Robo-Pit 2 (Japan) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Robo-Pit 2 (Japan) (Demo 2).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd3ba931ca9071cf428f14fdefef6ba8",
+        "sha1": "2112fefc5f630cd894db6e207cecad3213e3def3",
+        "crc32": "d5c72158"
+      }
+    },
+    {
+      "filename": "Robo-Pit 2 (Japan) (Demo 2).bin",
+      "filesize": 198426480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0371f0054aa79db4854085557d4e5c0",
+        "sha1": "21cfcf55395f8d27079ba243b41996de028b5b18",
+        "crc32": "d08b11c8"
+      }
+    }
+  ]
+}

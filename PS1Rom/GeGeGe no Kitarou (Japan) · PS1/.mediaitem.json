@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GeGeGe no Kitarou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GeGeGe no Kitarou (Japan).cue",
+      "filesize": 1053,
+      "ext": "cue",
+      "checksums": {
+        "md5": "430fb8bffe6ecffe5c30c9ad8f790e46",
+        "sha1": "95253160f76e39812e7a8943b7cb2c21af56d069",
+        "crc32": "ce9d7315"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 1).bin",
+      "filesize": 466479216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "744ff79cb30cb5287ad50a88f56472e2",
+        "sha1": "80c82f41c8097001589f3eef78752da87318f00e",
+        "crc32": "c24d875e"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 2).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8483522734440137633acfa4fae7f19f",
+        "sha1": "13cc143973319e8d401e4b696f9771c03e8dd790",
+        "crc32": "cf9a3513"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 3).bin",
+      "filesize": 4132464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8c978df741f0d10a60e953fff73fce9",
+        "sha1": "95a47c57e0fd8981431d82ed35d05feec8a135cc",
+        "crc32": "37bfb793"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 4).bin",
+      "filesize": 4040736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f9af538b752bc078aa8a14224590879",
+        "sha1": "ec1dbcd8f6ededa010fe83421a4fce899f07f648",
+        "crc32": "f4772d3c"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 5).bin",
+      "filesize": 4111296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb3d99220dcc8b8ab4eabfa4f6513263",
+        "sha1": "0380534b986085e052940004c2b690c6c97ae50f",
+        "crc32": "b4a4e50c"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 6).bin",
+      "filesize": 12907776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "357e2432ff67076884705ef4a68aa062",
+        "sha1": "d6d774b59fbb93a183f018e184b7555420203ae1",
+        "crc32": "e2d5e776"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 7).bin",
+      "filesize": 11362512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b87d4fb9137d6d665dc7fb0f40eb1e47",
+        "sha1": "d18bc14a51d029d80fd03b986a16b7c1be1792d2",
+        "crc32": "d0e05782"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 8).bin",
+      "filesize": 20135472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56e4cda49a1b0ddcc659ae6325c6c61f",
+        "sha1": "cdf8d517c52d78b0c2106afd66a6d432f847182c",
+        "crc32": "154212c2"
+      }
+    },
+    {
+      "filename": "GeGeGe no Kitarou (Japan) (Track 9).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8483522734440137633acfa4fae7f19f",
+        "sha1": "13cc143973319e8d401e4b696f9771c03e8dd790",
+        "crc32": "cf9a3513"
+      }
+    }
+  ]
+}

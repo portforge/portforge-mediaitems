@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Tank (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Tank (France).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1eac76e20a5759552d6065ca690d22ff",
+        "sha1": "06802d99c651da7916c9719cbd74139dc5c8d9ba",
+        "crc32": "92cbf524"
+      }
+    },
+    {
+      "filename": "Tiny Tank (France) (Track 1).bin",
+      "filesize": 709826544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f1b09683ecc29decc098b9591b1e18e",
+        "sha1": "97c2c8344b1a57f4eb01ae0657f6ac866be61c56",
+        "crc32": "94cbd6f5"
+      }
+    },
+    {
+      "filename": "Tiny Tank (France) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

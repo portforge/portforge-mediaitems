@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fussball Live (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fussball Live (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f05eefa9552703fcaf7b76c738876a2a",
+        "sha1": "364c405729f91c01b3ca07d6aa15e3f55021365f",
+        "crc32": "3016e831"
+      }
+    },
+    {
+      "filename": "Fussball Live (Germany).bin",
+      "filesize": 388030608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "484d037087df665fdb7b02b9c3ea94af",
+        "sha1": "f6e39d70b6658f55cbedff71512c325849caae0b",
+        "crc32": "1243e044"
+      }
+    }
+  ]
+}

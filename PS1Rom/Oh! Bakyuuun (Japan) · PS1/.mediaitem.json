@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oh! Bakyuuun (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oh! Bakyuuun (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad2f7b1b5ea7e96cce2ecbf9edf37ebf",
+        "sha1": "f272be0b445ec9c290d7c6cccc6dc35eebd2c936",
+        "crc32": "5e179fb4"
+      }
+    },
+    {
+      "filename": "Oh! Bakyuuun (Japan).bin",
+      "filesize": 413434560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18f92d1ed0d98c635ecb3098ccc229f8",
+        "sha1": "1f3bdf359831867fd7e7f8c704632fbb0f9978aa",
+        "crc32": "a8fd069a"
+      }
+    }
+  ]
+}

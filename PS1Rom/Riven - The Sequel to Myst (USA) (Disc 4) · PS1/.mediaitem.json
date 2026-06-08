@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Riven - The Sequel to Myst (USA) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Riven - The Sequel to Myst (USA) (Disc 4).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b82bc8f835c0b252fded7be2a72d7e40",
+        "sha1": "bd09a44e880d37ee0d650077b8dba720f1fe6cb3",
+        "crc32": "7d7c1993"
+      }
+    },
+    {
+      "filename": "Riven - The Sequel to Myst (USA) (Disc 4).bin",
+      "filesize": 749624736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a55523ea60132ee187663f266ee4995c",
+        "sha1": "371dcb06949bc47b354040e3def6b713341119c8",
+        "crc32": "b4788d3c"
+      }
+    }
+  ]
+}

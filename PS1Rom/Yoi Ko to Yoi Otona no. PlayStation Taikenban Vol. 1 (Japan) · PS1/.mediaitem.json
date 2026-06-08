@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yoi Ko to Yoi Otona no. PlayStation Taikenban Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yoi Ko to Yoi Otona no. PlayStation Taikenban Vol. 1 (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8610932c3d8085749815548b57c210bd",
+        "sha1": "ad3617dae6af3e0d786b85e945f07200519539d9",
+        "crc32": "49b461b2"
+      }
+    },
+    {
+      "filename": "Yoi Ko to Yoi Otona no. PlayStation Taikenban Vol. 1 (Japan).bin",
+      "filesize": 539807520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccaed8b7ed91adbc0194c030b17a13f2",
+        "sha1": "039134a0231453526a53138b4d37a02c700ee04b",
+        "crc32": "65eaf57b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slap Happy Rhythm Busters (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slap Happy Rhythm Busters (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c47fcfa1b648690974a1152dc469d52c",
+        "sha1": "1e65ac79947fbe0e5990bdcd86e1fc86bee40c72",
+        "crc32": "65e39192"
+      }
+    },
+    {
+      "filename": "Slap Happy Rhythm Busters (Japan).bin",
+      "filesize": 324543072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46c83ae5084c9b45646b995a6d5cf54e",
+        "sha1": "0f4264233d0d7aca5dad80c6845468a723973051",
+        "crc32": "6f30ed81"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tail Concerto (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tail Concerto (France).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62c66befc8c298855787d56424afbdd2",
+        "sha1": "eb958a8697cca13aa7ebf02ac8f5ffa2e66c5d93",
+        "crc32": "9f963dbe"
+      }
+    },
+    {
+      "filename": "Tail Concerto (France).bin",
+      "filesize": 544252800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff4176b78a564ceccb1e073dd1c48f35",
+        "sha1": "0af86c7e3db0bff205717188900fe0b3c40fb218",
+        "crc32": "31b8b5ab"
+      }
+    }
+  ]
+}

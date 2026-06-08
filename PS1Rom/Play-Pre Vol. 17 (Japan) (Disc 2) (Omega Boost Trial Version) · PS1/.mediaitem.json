@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 17 (Japan) (Disc 2) (Omega Boost Trial Version)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 17 (Japan) (Disc 2) (Omega Boost Trial Version).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b65165b26a68843fc259b7889bf20e81",
+        "sha1": "142fa3e3526e79f14edfcbd8e92126e8ac03238f",
+        "crc32": "e56e15c2"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 17 (Japan) (Disc 2) (Omega Boost Trial Version).bin",
+      "filesize": 170162496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38e090819690dc408374649de7abc592",
+        "sha1": "6ff3a66562e3c77e53c08663a68e0dc511b45b1e",
+        "crc32": "4975e64b"
+      }
+    }
+  ]
+}

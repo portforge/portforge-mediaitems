@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Lunar Wing - Toki o Koeta Seisen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Lunar Wing - Toki o Koeta Seisen (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e2769fd1c2729ae9df07ec2ef0ec897",
+        "sha1": "a09357a1c8e89614b552a30bf59d61338aa0d920",
+        "crc32": "19c96c71"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Lunar Wing - Toki o Koeta Seisen (Japan).bin",
+      "filesize": 568421952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e7a587a9c7956d63ab1fa87ff649f44",
+        "sha1": "1ab1963ff98811ee81775f9a36de412f84eadaea",
+        "crc32": "a4b19da8"
+      }
+    }
+  ]
+}

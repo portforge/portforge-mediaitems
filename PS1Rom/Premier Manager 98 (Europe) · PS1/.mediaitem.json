@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Premier Manager 98 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Premier Manager 98 (Europe).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ebe72d15680643a2d0edcf7104db6fe",
+        "sha1": "5d6572235f7706b8b572c3ee50cd838a73f6d5ea",
+        "crc32": "e055465a"
+      }
+    },
+    {
+      "filename": "Premier Manager 98 (Europe) (Track 1).bin",
+      "filesize": 185998512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80f286421bba49d9ca9815706db81116",
+        "sha1": "fc68f23d64319b592ddff949bf963774415c21a9",
+        "crc32": "462bf97a"
+      }
+    },
+    {
+      "filename": "Premier Manager 98 (Europe) (Track 2).bin",
+      "filesize": 38904432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b545482f69d287174c5ac5ce72cf91ee",
+        "sha1": "e966dd67f73d2d9c342521851392535a519785c8",
+        "crc32": "f6c696f3"
+      }
+    }
+  ]
+}

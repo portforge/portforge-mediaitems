@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wonder Trek (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wonder Trek (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6b9af3746481616ebac410aa0de3ca0",
+        "sha1": "efc8b9aa0784c8ff3b28b3a0c3bd24665a2572b7",
+        "crc32": "e255ea5e"
+      }
+    },
+    {
+      "filename": "Wonder Trek (Japan).bin",
+      "filesize": 313860288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8d9ea2e4b1d5e72ba2ed0f3b8d4c5df",
+        "sha1": "5a7d9293ae8e76bacb2804de9468af8577d3f5fd",
+        "crc32": "570869dd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Happy Salvage - Otakara Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Happy Salvage - Otakara Disc (Japan).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fe3eb0a3b1af875e18fd4aa21fdbb641",
+        "sha1": "e683cdd04b9a4ac0b896327ca9104b37bee9fff5",
+        "crc32": "49e5661d"
+      }
+    },
+    {
+      "filename": "Happy Salvage - Otakara Disc (Japan) (Track 1).bin",
+      "filesize": 235345824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48bb06c54840b19832873f49440dd88a",
+        "sha1": "8bb6e0d4325c8b5be640353c71998c98b56b6c8e",
+        "crc32": "66d9f5c2"
+      }
+    },
+    {
+      "filename": "Happy Salvage - Otakara Disc (Japan) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

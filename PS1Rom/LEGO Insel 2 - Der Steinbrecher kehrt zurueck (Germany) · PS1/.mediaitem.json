@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LEGO Insel 2 - Der Steinbrecher kehrt zurueck (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LEGO Insel 2 - Der Steinbrecher kehrt zurueck (Germany).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9276215a66975a63fcafafbf832b9aad",
+        "sha1": "e5a3a042c03b30a03ff7bb8914c7d33d9b9d2552",
+        "crc32": "f6a40394"
+      }
+    },
+    {
+      "filename": "LEGO Insel 2 - Der Steinbrecher kehrt zurueck (Germany).bin",
+      "filesize": 235451664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3372b9b0eb0c8c20fb49daef14ec1837",
+        "sha1": "b232f27d587bd233b988929c0fd99702239635bf",
+        "crc32": "f4906cf4"
+      }
+    }
+  ]
+}

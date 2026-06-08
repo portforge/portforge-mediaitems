@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kileak - The DNA Imperative (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kileak - The DNA Imperative (USA).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba11f73fb8ff0c35d7824dd0c0a21dd1",
+        "sha1": "adea4f4eb4d34a211d7621c8165d5dcc9dbd9e01",
+        "crc32": "ed0be9f8"
+      }
+    },
+    {
+      "filename": "Kileak - The DNA Imperative (USA).bin",
+      "filesize": 545504064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4225b0624241aa45dc856dead7575db3",
+        "sha1": "738ea49947e6a9862ac3b8e3f6b34f7ad1b43348",
+        "crc32": "9da50f2b"
+      }
+    }
+  ]
+}

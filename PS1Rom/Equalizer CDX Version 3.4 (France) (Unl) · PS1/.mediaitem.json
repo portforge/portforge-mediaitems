@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Equalizer CDX Version 3.4 (France) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Equalizer CDX Version 3.4 (France) (Unl).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c96758f61710c943bf85d38e413269e3",
+        "sha1": "2e8bda637c403d2b2bf3d852fb646e315d6128ab",
+        "crc32": "bfebce7c"
+      }
+    },
+    {
+      "filename": "Equalizer CDX Version 3.4 (France) (Unl).bin",
+      "filesize": 97459824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5465acf6a61a492d1329b336ccfd2906",
+        "sha1": "6cf4dbb5b092ebcb323dac5bf139ba358b2918f6",
+        "crc32": "47ab7fce"
+      }
+    }
+  ]
+}

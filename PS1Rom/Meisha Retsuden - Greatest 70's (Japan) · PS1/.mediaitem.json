@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Meisha Retsuden - Greatest 70's (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Meisha Retsuden - Greatest 70's (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "43b91392e94c2b17cc394d1b1010ba23",
+        "sha1": "bacb171bd3838e2eb5fde170296869aae14e3f3b",
+        "crc32": "7cc64a35"
+      }
+    },
+    {
+      "filename": "Meisha Retsuden - Greatest 70's (Japan).bin",
+      "filesize": 628106304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "220c9c8fa98f97f18fd04d0cfee35eaa",
+        "sha1": "8540affeb65af0b81c80a90b3c0cf05d0fbb64ba",
+        "crc32": "bc432823"
+      }
+    }
+  ]
+}

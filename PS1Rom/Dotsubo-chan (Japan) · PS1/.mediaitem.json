@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dotsubo-chan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dotsubo-chan (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0426cb246408a1dbb19af8cf2fb5015",
+        "sha1": "17e2aed522c7d72fe1e2fcd7eb619352ef287007",
+        "crc32": "56752969"
+      }
+    },
+    {
+      "filename": "Dotsubo-chan (Japan).bin",
+      "filesize": 498301776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7bd0d0d35df00c666ba09d766625687f",
+        "sha1": "76259ff63b2ce01034f583bb023cd07d90e04e6e",
+        "crc32": "84b159cf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alarmstufe Rot - Gegenschlag (Germany) (Disc 2) (Die Sowjets)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot - Gegenschlag (Germany) (Disc 2) (Die Sowjets).cue",
+      "filesize": 147,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ab5702078cffa37ec4582f3741d1247",
+        "sha1": "44aa54e51ed569ea752ea7a91451cd846fa96c5e",
+        "crc32": "4bfac45b"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alarmstufe Rot - Gegenschlag (Germany) (Disc 2) (Die Sowjets).bin",
+      "filesize": 617143632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2283afa2bafb757838a60cd0131b83da",
+        "sha1": "f832644f1ee0331e74b091d8f4dfd43c3a64906d",
+        "crc32": "3cdaf7aa"
+      }
+    }
+  ]
+}

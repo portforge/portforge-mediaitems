@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Timeless Math 3 - Maya, King Jaguar's Village (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Timeless Math 3 - Maya, King Jaguar's Village (USA).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "723596ec2a12cb81e37fb89c9493827b",
+        "sha1": "3868b4811ade897018e36f8d1d76884fdd17dded",
+        "crc32": "eef97170"
+      }
+    },
+    {
+      "filename": "Timeless Math 3 - Maya, King Jaguar's Village (USA).bin",
+      "filesize": 635919648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdb247edb626254d9145b45343823dc3",
+        "sha1": "9dbae1d32615386fc90a0b621775349da6f550ae",
+        "crc32": "15f2dba8"
+      }
+    }
+  ]
+}

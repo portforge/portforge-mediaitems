@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Slither Link (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan).cue",
+      "filesize": 948,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67865b49e7e084239d563f9dc8d9633e",
+        "sha1": "554cc60a70a2e2abebdc9838d9077020cd6c4ff7",
+        "crc32": "c4f869cc"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan) (Track 1).bin",
+      "filesize": 1521744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30fc0a06301f7856c8a1f6bcaeef4c28",
+        "sha1": "df242623773e666504ce288171f7555554cf2d24",
+        "crc32": "15936199"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan) (Track 2).bin",
+      "filesize": 107279424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52ecb495a8277eb2d4069b6c26b4e32f",
+        "sha1": "f773c7dc873081feb2e18867ffcca730080023bd",
+        "crc32": "529b3d62"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan) (Track 3).bin",
+      "filesize": 107220624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "496a0056efce1e4ddf1c33e362ca88b4",
+        "sha1": "89a7ace507a78b7a9554a1ad14f54f3f16e5919d",
+        "crc32": "382eb070"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan) (Track 4).bin",
+      "filesize": 107262960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "455c01a6c53b0fbc7a969b819dc41aff",
+        "sha1": "e9d5884212f197964d682fad1cecc927a4bc67d1",
+        "crc32": "eff06670"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan) (Track 5).bin",
+      "filesize": 33189072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02e166589976aefc87c6d0c407e46536",
+        "sha1": "9792eabeb5bdbb528710ca555e469dd99054649f",
+        "crc32": "11792b9f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan) (Track 6).bin",
+      "filesize": 33396048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57daba0c6c88088b33726de0100d4e14",
+        "sha1": "ee2ab02b779914946a8bbc4b427a31c4bcc82cfb",
+        "crc32": "ce47c00b"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Slither Link (Japan) (Track 7).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

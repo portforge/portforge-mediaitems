@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alice in Cyberland (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alice in Cyberland (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "12062d84209633e7906627c710df62fa",
+        "sha1": "8b466c13af2b512a4d3fc788936c990c431e658e",
+        "crc32": "7816df95"
+      }
+    },
+    {
+      "filename": "Alice in Cyberland (Japan).bin",
+      "filesize": 597330384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "159e05f7fae792460cd0af4625dbd131",
+        "sha1": "e4adfc633a6f2931fa224ef7a1798440d06ca7e4",
+        "crc32": "393a14a9"
+      }
+    }
+  ]
+}

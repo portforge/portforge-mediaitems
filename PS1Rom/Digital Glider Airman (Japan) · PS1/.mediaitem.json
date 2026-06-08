@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digital Glider Airman (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digital Glider Airman (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "acb9d0c9dbed2f5eca71a6c316386694",
+        "sha1": "30aaa7955fdfd364e2be386ad7317e13545b401e",
+        "crc32": "0b0295c9"
+      }
+    },
+    {
+      "filename": "Digital Glider Airman (Japan).bin",
+      "filesize": 390726000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da5bcfd138c1bf618f24892aeb1bd7cd",
+        "sha1": "0c5ce7d416fcc36efcc9b9f3ffa4df7200d15afd",
+        "crc32": "761cec2b"
+      }
+    }
+  ]
+}

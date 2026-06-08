@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game of Life, The (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game of Life, The (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b279b8d5c6e6a0f9ff233fd848b0c877",
+        "sha1": "c34ec9614a3b441c08e679fb6ee528286e7c47c5",
+        "crc32": "78583f74"
+      }
+    },
+    {
+      "filename": "Game of Life, The (USA).bin",
+      "filesize": 481529664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde8031e248c7d994c6fe955526d96d5",
+        "sha1": "077657577efabcb4c18b0d787a89377ad5a8033e",
+        "crc32": "9a73f6b0"
+      }
+    }
+  ]
+}

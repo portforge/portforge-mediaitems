@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Jeu d'Action Disney Presente Hercule (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Jeu d'Action Disney Presente Hercule (France).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "22d1f350494a1b621d47bd1fede3ea9c",
+        "sha1": "04f667d47924e05bb621b15bbc5d31d9afc8c1a0",
+        "crc32": "dbd87a89"
+      }
+    },
+    {
+      "filename": "Disney Jeu d'Action Disney Presente Hercule (France).bin",
+      "filesize": 395006640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "816a41623a171a7e48eda5ce2c45a844",
+        "sha1": "ae5033f689f9c3844e4c8aecbabaa48f4fc709bd",
+        "crc32": "4ec6ac43"
+      }
+    }
+  ]
+}

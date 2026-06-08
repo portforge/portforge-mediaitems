@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Touhou Chinyuuki - Halfling Hearts (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Touhou Chinyuuki - Halfling Hearts (Japan).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4c60ac4bc38d0268f2a92586a7116d3f",
+        "sha1": "231eeec431fbb3a3f690473069bca372ce17dc45",
+        "crc32": "f7df4f39"
+      }
+    },
+    {
+      "filename": "Touhou Chinyuuki - Halfling Hearts (Japan) (Track 1).bin",
+      "filesize": 746922288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cc741a17c7321cf60547742778e6e3f",
+        "sha1": "ab1e13b3c79eb63d577d21326f609bf06f915b7a",
+        "crc32": "1d9e4108"
+      }
+    },
+    {
+      "filename": "Touhou Chinyuuki - Halfling Hearts (Japan) (Track 2).bin",
+      "filesize": 2984688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76f3c34655daeb679ca55d0bbc55a090",
+        "sha1": "7ce9dd99886b5290c39b1cd34ced94b493da6484",
+        "crc32": "82b8a5bb"
+      }
+    }
+  ]
+}

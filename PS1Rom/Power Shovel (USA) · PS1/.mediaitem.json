@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Shovel (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Shovel (USA).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e443aa5a776ac28039b9a0bf8ec7cf1",
+        "sha1": "d70e0b8d5676bda07aede75a595aee43b0c9cf51",
+        "crc32": "78f5b061"
+      }
+    },
+    {
+      "filename": "Power Shovel (USA) (Track 1).bin",
+      "filesize": 268151520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f3e587aa6d2fb38bc25676972f2dc4b",
+        "sha1": "86e9ce462a470f50ae09898c35ca78e57da2a0af",
+        "crc32": "631b6d22"
+      }
+    },
+    {
+      "filename": "Power Shovel (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

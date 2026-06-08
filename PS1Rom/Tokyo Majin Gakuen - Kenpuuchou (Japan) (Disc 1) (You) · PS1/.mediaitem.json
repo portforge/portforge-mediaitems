@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Majin Gakuen - Kenpuuchou (Japan) (Disc 1) (You)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Majin Gakuen - Kenpuuchou (Japan) (Disc 1) (You).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a790b8c7482bf5513261a80fd28c9354",
+        "sha1": "180040f1b5c533a33561538f1d5cb9dad86fdf1f",
+        "crc32": "29d7bb63"
+      }
+    },
+    {
+      "filename": "Tokyo Majin Gakuen - Kenpuuchou (Japan) (Disc 1) (You).bin",
+      "filesize": 664228320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61caf251c1f90439f070c452c6b5137c",
+        "sha1": "d070def2df83851bcd6ba9b906e631eb7fb679a4",
+        "crc32": "6c7f923a"
+      }
+    }
+  ]
+}

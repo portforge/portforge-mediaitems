@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper Value 2800 - Hanafuda (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper Value 2800 - Hanafuda (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3fd454fc3f0b8cdec749320209f1cc52",
+        "sha1": "199a2773ad0dc3f00ce36471974c8c83f2e3f29e",
+        "crc32": "e4fa1ce8"
+      }
+    },
+    {
+      "filename": "Hyper Value 2800 - Hanafuda (Japan).bin",
+      "filesize": 153086976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "636d5949b98fb56a75a87fd0c675ca49",
+        "sha1": "f00aa308ac025f8f1598c49f9bac27a3304017b8",
+        "crc32": "1d6f24af"
+      }
+    }
+  ]
+}

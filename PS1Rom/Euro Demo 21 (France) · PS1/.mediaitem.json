@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 21 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 21 (France).cue",
+      "filesize": 1017,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f3b8dbdcaee8d261601ad4e85b6b371",
+        "sha1": "5b170f6b42b2ff2709ce4e7bed97e5e1ccd70b35",
+        "crc32": "8eb64ab2"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 1).bin",
+      "filesize": 379953840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98208afb5cf748e743f2e29f0ed380b0",
+        "sha1": "ee3ce77e133bbf1f5f22d44cc93a3d20e897c16d",
+        "crc32": "93aad2ff"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 2).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3baa78d0933dabfbb7f2a5a4952bb8ee",
+        "sha1": "17a0ebe7f4c4770275e660dbde59048a0244abc9",
+        "crc32": "1469c27f"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 3).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09c3ba82e23bc1cf36a133e71af7704c",
+        "sha1": "14fc73f00397809738a0d11cd0cc408dade1386d",
+        "crc32": "ba97911a"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 4).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73de23dcaae61b065e2edf310040fd93",
+        "sha1": "55668cde8fadbcb0ab60b68f5ca87a98c37cdf60",
+        "crc32": "3920e8ef"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 5).bin",
+      "filesize": 9466800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "629ec8d58e0ee95748a307fbf2dc52e5",
+        "sha1": "615ee31779cf2902d24034f9f29fb79f87ec054f",
+        "crc32": "eece87f1"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 6).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97cf5a55da820ff064bde615f142ac0e",
+        "sha1": "8618e11fb651ff1d223cb9f1d617875cb9ca208c",
+        "crc32": "c1094b3d"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 7).bin",
+      "filesize": 29743392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db4d1a78bf627c3049309ba4a9f7137",
+        "sha1": "eae7e7732799438efb2ddb299729232136f1e6ae",
+        "crc32": "4f64b28d"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 8).bin",
+      "filesize": 24750096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7b980d2701b2e88fc0b6debc7a2d924",
+        "sha1": "4e3cb3faff18c81685ed97ec97d9a44f23bafbbd",
+        "crc32": "04033a1c"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (France) (Track 9).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

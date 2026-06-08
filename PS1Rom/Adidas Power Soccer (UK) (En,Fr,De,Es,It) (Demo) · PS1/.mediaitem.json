@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo).cue",
+      "filesize": 550,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f743d1df2bf1b680b13e0fb489de99ed",
+        "sha1": "a387beb4e0e9dbb2439865ee86fdcc33735e79c3",
+        "crc32": "c5a82315"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo) (Track 1).bin",
+      "filesize": 516106416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3367da1d2a23beb7a9fc52ec3b1c9994",
+        "sha1": "0a0b9e455f419ad47d47139ebdc0230958396739",
+        "crc32": "5fa4caba"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo) (Track 2).bin",
+      "filesize": 43770720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0498f8c17ed89f2d1aadf569ffe9bf7",
+        "sha1": "c8bca8677c75c88c35d06f56e3996af4f879f82b",
+        "crc32": "1034724f"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo) (Track 3).bin",
+      "filesize": 40101600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13928b3a4ad2da3b0ebff049fe43d416",
+        "sha1": "4b1a6e38c6353123b917d702cbd9adbb5357c875",
+        "crc32": "945ffdc2"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer (UK) (En,Fr,De,Es,It) (Demo) (Track 4).bin",
+      "filesize": 33031488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "999de73a72738177a7ad0e07a2e6e484",
+        "sha1": "27cb5e362fac2d04f1a6004578b4d1ce4c369f88",
+        "crc32": "c0d56881"
+      }
+    }
+  ]
+}

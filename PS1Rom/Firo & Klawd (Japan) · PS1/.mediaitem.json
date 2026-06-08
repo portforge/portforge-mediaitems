@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Firo & Klawd (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Firo & Klawd (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ca9d080ac03ce7b8a56171a02204303",
+        "sha1": "fc8a19e3f436b041f3b6f3b065cb05ad15dea659",
+        "crc32": "26774e7b"
+      }
+    },
+    {
+      "filename": "Firo & Klawd (Japan).bin",
+      "filesize": 656852448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f0d149d32aed9a75fb558b21c445acf",
+        "sha1": "1b38edc9dcdfdddf70a852d115d648a7f0189df2",
+        "crc32": "7fe28718"
+      }
+    }
+  ]
+}

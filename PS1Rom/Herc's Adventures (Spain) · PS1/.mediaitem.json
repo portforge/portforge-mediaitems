@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Herc's Adventures (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Herc's Adventures (Spain).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "480af61381492e08fd91192cfa00a7d1",
+        "sha1": "45562d9724db78fee37ce0b8bfe076f7c514a350",
+        "crc32": "2f778430"
+      }
+    },
+    {
+      "filename": "Herc's Adventures (Spain).bin",
+      "filesize": 356459712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de1fb7cb8eb04226ce4ccd0538c831f9",
+        "sha1": "9795e3de9e6c43d08821c88c15fd14fa6533dcce",
+        "crc32": "2bfd917e"
+      }
+    }
+  ]
+}

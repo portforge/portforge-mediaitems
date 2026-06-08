@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 1) (Byakko)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 1) (Byakko).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "436110735563ba6dfaa0f2d02cf72e72",
+        "sha1": "ed3e1a2374ffafc54a0ea59fdb35f46dd49c6eb6",
+        "crc32": "7f056941"
+      }
+    },
+    {
+      "filename": "Kowloon's Gate - Kowloon Fuusuiden (Japan) (Disc 1) (Byakko).bin",
+      "filesize": 734129760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c57724e635ad32605464bb2478d10a0",
+        "sha1": "d508793cb307ed31cc0433cad85a455c360b5233",
+        "crc32": "2107715c"
+      }
+    }
+  ]
+}

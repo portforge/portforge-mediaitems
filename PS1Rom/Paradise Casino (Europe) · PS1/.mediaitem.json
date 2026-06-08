@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Paradise Casino (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Paradise Casino (Europe).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01fc58441a31b40ddfdb8fee289efa66",
+        "sha1": "55db87dc370551d87f6c3c4c1688395e8303bf28",
+        "crc32": "4cad84b2"
+      }
+    },
+    {
+      "filename": "Paradise Casino (Europe).bin",
+      "filesize": 36627696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "821291a6bb267a04a95c7e50c4f159b0",
+        "sha1": "745c4df9304f95623259d9b44e4bd7e8fda5b60a",
+        "crc32": "2dc6c881"
+      }
+    }
+  ]
+}

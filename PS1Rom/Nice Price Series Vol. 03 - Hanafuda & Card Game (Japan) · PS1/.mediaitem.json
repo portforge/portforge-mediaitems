@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nice Price Series Vol. 03 - Hanafuda & Card Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nice Price Series Vol. 03 - Hanafuda & Card Game (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e24b49b7b2d8416ee4cc9913a35b5d08",
+        "sha1": "764dea2579fab25e2541dc990b31c864463793e9",
+        "crc32": "c7b3604c"
+      }
+    },
+    {
+      "filename": "Nice Price Series Vol. 03 - Hanafuda & Card Game (Japan).bin",
+      "filesize": 59858400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df6747718df5df7b816166777bfffc4b",
+        "sha1": "44e4a809bfc5be407438efe8074d75c5a2597aa7",
+        "crc32": "b27966b7"
+      }
+    }
+  ]
+}

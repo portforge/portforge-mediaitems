@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 72 - The Beach Volley (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 72 - The Beach Volley (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9bdfe3969a32fba90a2cd2a27856e543",
+        "sha1": "2befd755fa583c430ac07276718549230746ce2c",
+        "crc32": "6125fd22"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 72 - The Beach Volley (Japan).bin",
+      "filesize": 113994384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88abe0b367d5b4c2749114b7ce3708bb",
+        "sha1": "f99e203a5a69af2329db8c01abc9dbe5c5c5bc7d",
+        "crc32": "e7f8c641"
+      }
+    }
+  ]
+}

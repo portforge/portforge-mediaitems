@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Apocalypse (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Apocalypse (USA).cue",
+      "filesize": 202,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3fe3b918148aaef41a1376031ffaceb3",
+        "sha1": "d4e22404a80fdf921ad83215cd12876151080b3a",
+        "crc32": "1fc2f0b6"
+      }
+    },
+    {
+      "filename": "Apocalypse (USA) (Track 1).bin",
+      "filesize": 459220944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8279dc007b8b516c17d92a86bec96e43",
+        "sha1": "ce76ef0b36f4444d7758a4ca6e6bd1b5ca4e3b9d",
+        "crc32": "961b3eba"
+      }
+    },
+    {
+      "filename": "Apocalypse (USA) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0d4ed65fe41ebf99b2273a3914e3eb5",
+        "sha1": "f7eded280c5d5db877b324693e424690d3f740ab",
+        "crc32": "9d424890"
+      }
+    }
+  ]
+}

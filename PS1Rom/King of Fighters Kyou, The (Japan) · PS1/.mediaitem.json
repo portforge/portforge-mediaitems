@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Fighters Kyou, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Fighters Kyou, The (Japan).cue",
+      "filesize": 494,
+      "ext": "cue",
+      "checksums": {
+        "md5": "299769e1bb1b2b7b9dce6c6634526cc3",
+        "sha1": "b7226d91804eb4282347766d842e2582ff015322",
+        "crc32": "17d4c7f4"
+      }
+    },
+    {
+      "filename": "King of Fighters Kyou, The (Japan) (Track 1).bin",
+      "filesize": 681054528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45067ccb018611f231c3bcdfb2cff56a",
+        "sha1": "766d7073cf91ba620d01b84a8dbbfa5cc927b86d",
+        "crc32": "b29e47da"
+      }
+    },
+    {
+      "filename": "King of Fighters Kyou, The (Japan) (Track 2).bin",
+      "filesize": 16000656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88f5d05a318f9243336dc15d8e08e52b",
+        "sha1": "6757c0a29cb05c1c6db535947f04f7d54cc9d62b",
+        "crc32": "82bbb15f"
+      }
+    },
+    {
+      "filename": "King of Fighters Kyou, The (Japan) (Track 3).bin",
+      "filesize": 16875600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ed99c697d221e5b93bf5936bfb0db03",
+        "sha1": "1146d44ed280ffea786b7636cfeb9b9bca5a2951",
+        "crc32": "b02e57d1"
+      }
+    },
+    {
+      "filename": "King of Fighters Kyou, The (Japan) (Track 4).bin",
+      "filesize": 17564736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "176604bac38f63ccbb773d0214c83ad0",
+        "sha1": "03728aeb467dd17562e4031d26d4cf6ce64b907c",
+        "crc32": "3223e5be"
+      }
+    }
+  ]
+}

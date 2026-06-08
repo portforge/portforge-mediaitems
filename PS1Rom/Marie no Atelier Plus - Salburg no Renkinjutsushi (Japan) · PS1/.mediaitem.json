@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marie no Atelier Plus - Salburg no Renkinjutsushi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marie no Atelier Plus - Salburg no Renkinjutsushi (Japan).cue",
+      "filesize": 435,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a24b971c3d4f8e229b1b01735c6a622c",
+        "sha1": "7ba716ce7c5f9bf10c7f3357b93d10a5fe78a6f6",
+        "crc32": "62f488ad"
+      }
+    },
+    {
+      "filename": "Marie no Atelier Plus - Salburg no Renkinjutsushi (Japan) (Track 1).bin",
+      "filesize": 304071264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6181a4d9963f92972f183c4203a75b35",
+        "sha1": "5681568691697772b1b4f9ad2756b66891a851ff",
+        "crc32": "941d680e"
+      }
+    },
+    {
+      "filename": "Marie no Atelier Plus - Salburg no Renkinjutsushi (Japan) (Track 2).bin",
+      "filesize": 47985504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff667201c84e5c1add8a996c52087db0",
+        "sha1": "cc83dff384194eba98df3917d818fa664d7c049b",
+        "crc32": "39ad7337"
+      }
+    },
+    {
+      "filename": "Marie no Atelier Plus - Salburg no Renkinjutsushi (Japan) (Track 3).bin",
+      "filesize": 26815152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e9ac9ebe34f4e35b619e39ff86816f",
+        "sha1": "71c81575742ad3bd71b061a1de7647ea7f3e08c4",
+        "crc32": "cb2d59e6"
+      }
+    }
+  ]
+}

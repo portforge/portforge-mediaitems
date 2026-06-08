@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Shinsei Toilet no Hanako-san (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Shinsei Toilet no Hanako-san (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f58b960e6542d03cdf56bbf4066112da",
+        "sha1": "c732fdfdc8d315860eba7be6dc7b2195a1f9c076",
+        "crc32": "6a92eb7a"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shinsei Toilet no Hanako-san (Japan).bin",
+      "filesize": 455391888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27abe4b6ac87a0a498072c806a4dd421",
+        "sha1": "e4cb400874a8fd70d71dcfeb84a959caef3c72c9",
+        "crc32": "283ccb13"
+      }
+    }
+  ]
+}

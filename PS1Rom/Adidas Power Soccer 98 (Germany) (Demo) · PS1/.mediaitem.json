@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Adidas Power Soccer 98 (Germany) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Adidas Power Soccer 98 (Germany) (Demo).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "866699b977bb6f7bfd1e7dfe963eaf01",
+        "sha1": "51014ed3792e353261bd045caf92fd16402f3ce9",
+        "crc32": "87d58211"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer 98 (Germany) (Demo).bin",
+      "filesize": 607182912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ca421c003d1598c86897dcf40266cc5",
+        "sha1": "caea9d76a898b7b1f90196eedae96b886abc20fe",
+        "crc32": "6ec002c8"
+      }
+    }
+  ]
+}

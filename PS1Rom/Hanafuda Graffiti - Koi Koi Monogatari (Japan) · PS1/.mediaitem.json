@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hanafuda Graffiti - Koi Koi Monogatari (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hanafuda Graffiti - Koi Koi Monogatari (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "92259e6b7f6695860a436edd0a180e0f",
+        "sha1": "3eb8480a2715d1f6e03765798673d170a20c2cd7",
+        "crc32": "658b97dd"
+      }
+    },
+    {
+      "filename": "Hanafuda Graffiti - Koi Koi Monogatari (Japan).bin",
+      "filesize": 105207312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3703f4a149ba346bb1fa92bbf7c5ea1a",
+        "sha1": "cc00be7dc2e07fe429ac8a2a52fef327db56c122",
+        "crc32": "e0adbe1a"
+      }
+    }
+  ]
+}

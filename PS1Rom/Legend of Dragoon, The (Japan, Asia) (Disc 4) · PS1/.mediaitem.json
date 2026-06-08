@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Dragoon, The (Japan, Asia) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Dragoon, The (Japan, Asia) (Disc 4).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45af9e2537844343efc6bb00462e2d62",
+        "sha1": "497ffaa22474422d759f3afd5dbd8205973d9e52",
+        "crc32": "d64abf3c"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (Japan, Asia) (Disc 4).bin",
+      "filesize": 741533856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "011356d14836901ab4f513a7bd69cb15",
+        "sha1": "bfb427ce7a3716a6ff534b43e8e8c4e99bd8ee85",
+        "crc32": "755a0a21"
+      }
+    }
+  ]
+}

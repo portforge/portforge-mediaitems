@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Walt Disneys Junglebogen - Groove Party (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Walt Disneys Junglebogen - Groove Party (Denmark).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd86dfc309aad398173197f5d83f2978",
+        "sha1": "9c1bde7c40afe4abe6795f7a420de245d266a8ea",
+        "crc32": "07ff221d"
+      }
+    },
+    {
+      "filename": "Walt Disneys Junglebogen - Groove Party (Denmark).bin",
+      "filesize": 749351904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "005fc5d81a2d73d9b4f73ad348d706d4",
+        "sha1": "fdb2115a426040363653633c3de43ad575be5b46",
+        "crc32": "af96d781"
+      }
+    }
+  ]
+}

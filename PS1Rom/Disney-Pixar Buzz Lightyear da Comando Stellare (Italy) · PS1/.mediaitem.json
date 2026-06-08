@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Buzz Lightyear da Comando Stellare (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Buzz Lightyear da Comando Stellare (Italy).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59406aaab7c93c1d0ca4450f3c304a14",
+        "sha1": "cd5b4d4a7ec0f43709373f64dc46dc7657be4713",
+        "crc32": "21aa7dc9"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Buzz Lightyear da Comando Stellare (Italy).bin",
+      "filesize": 546030912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df165efc842434fb60b3a326131e4aa9",
+        "sha1": "5ab03966ea98822e3bb287fbff88f9cd017c72b3",
+        "crc32": "63545166"
+      }
+    }
+  ]
+}

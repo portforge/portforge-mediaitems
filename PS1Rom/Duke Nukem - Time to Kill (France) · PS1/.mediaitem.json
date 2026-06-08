@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Duke Nukem - Time to Kill (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Duke Nukem - Time to Kill (France).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c09763eeb1eb998b57a7d00e56764e94",
+        "sha1": "c0371191611c9f6b2b0453fa3ae8cf87331a39d9",
+        "crc32": "35006849"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Time to Kill (France).bin",
+      "filesize": 441740880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3abe09d330f9094f66b33e28831fbd76",
+        "sha1": "5aef4729e4512e49014fcd78011d1f3e993382bf",
+        "crc32": "756f61d1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D21 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D21 (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34a40cf00993d7d4498d40cf6479c367",
+        "sha1": "a2c4e321cd09548dbbef156ad799359b8eaf6aa5",
+        "crc32": "55ef5617"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D21 (Japan) (Track 1).bin",
+      "filesize": 455754096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf4526ef1e2a0a8f195e53363716dcbe",
+        "sha1": "4d6ec6a0272d937b7a9e7bd65764ba5741423c22",
+        "crc32": "b7d52789"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D21 (Japan) (Track 2).bin",
+      "filesize": 17877552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7f83d82cbe0fc6cd85b46ace569b29e",
+        "sha1": "b0970d89bb38764e0cc8f7e3e43fb301316b6dff",
+        "crc32": "b7fad6a5"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D21 (Japan) (Track 3).bin",
+      "filesize": 28035840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3a2ab098e27df548d635a96c46b76f5",
+        "sha1": "3f517618754b74874cc81d0690b3315c5c2dc816",
+        "crc32": "a4566531"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D21 (Japan) (Track 4).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

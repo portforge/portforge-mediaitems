@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alerte Rouge (France) (Disc 1) (Allies)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alerte Rouge (France) (Disc 1) (Allies).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f441445bd2c98ac0bd1ceafd44bb8dd5",
+        "sha1": "4cf2ed435ff456b1a5b96b9c14cde6a4a45ba9ad",
+        "crc32": "50b252d9"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alerte Rouge (France) (Disc 1) (Allies).bin",
+      "filesize": 735465696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58da453bd99aee7e75d9af4d31f7bc4e",
+        "sha1": "3dfdd494878a725747e690d8d48cff3ccbb08d02",
+        "crc32": "5c2c5eea"
+      }
+    }
+  ]
+}

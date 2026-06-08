@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Hunter (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Hunter (USA).cue",
+      "filesize": 547,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eedaa1bbd4893813f846fd89673392e2",
+        "sha1": "fd859e33df4fb70b0a673880e987559b8462f7a2",
+        "crc32": "80fd592f"
+      }
+    },
+    {
+      "filename": "Battle Hunter (USA) (Track 1).bin",
+      "filesize": 9831360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8846b7e87de226af1bbeaa2dba53898",
+        "sha1": "3e309b75a39aa277c2b22ca969a993e686620006",
+        "crc32": "744d6727"
+      }
+    },
+    {
+      "filename": "Battle Hunter (USA) (Track 2).bin",
+      "filesize": 16513392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5041a25a1473b41c02087b274528f1ff",
+        "sha1": "a5c4960902ad5186530822f345af13e8d6901903",
+        "crc32": "152dc3d8"
+      }
+    },
+    {
+      "filename": "Battle Hunter (USA) (Track 3).bin",
+      "filesize": 15826608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34761feb895ac66fb80bc72482e087a7",
+        "sha1": "a3bf46d7f9f942f34e393bc7237097ba8988878c",
+        "crc32": "8726e3ad"
+      }
+    },
+    {
+      "filename": "Battle Hunter (USA) (Track 4).bin",
+      "filesize": 15826608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4741b13da092bb913779dfc2a1171a88",
+        "sha1": "d14187a3da603b9a67221ea1bd7ad23fde79cc3b",
+        "crc32": "940e408d"
+      }
+    },
+    {
+      "filename": "Battle Hunter (USA) (Track 5).bin",
+      "filesize": 28005264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c61b356d33199b20a3d66c1906f35139",
+        "sha1": "72a331e20e44e65028be69559aa977c5d426660e",
+        "crc32": "d0d6efdc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Dinosauri (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Dinosauri (Italy).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a31b0eec3dc7d463bd4cfed55dc82915",
+        "sha1": "e28c2592275b11fbeb33e40a8c9bd755b9eebca5",
+        "crc32": "247a3911"
+      }
+    },
+    {
+      "filename": "Disney Dinosauri (Italy).bin",
+      "filesize": 496852944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91c73600f40a1924f2541a3ef5732cce",
+        "sha1": "7b2c0b5293390da57389518ab925ad372e2efc29",
+        "crc32": "58e0de93"
+      }
+    }
+  ]
+}

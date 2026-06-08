@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BursTrick - Wake Boarding!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BursTrick - Wake Boarding!! (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04d709ba556532da99de1c663d34363a",
+        "sha1": "d9c77f16e4f733484e49f8e7454f6dae0f1f648a",
+        "crc32": "195658fd"
+      }
+    },
+    {
+      "filename": "BursTrick - Wake Boarding!! (Japan).bin",
+      "filesize": 370251840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4b6d9ebf961fed21684449d77c0e3fd",
+        "sha1": "b9e9b488002c699529ec92fcfb22a6909bb7f492",
+        "crc32": "2f44d516"
+      }
+    }
+  ]
+}

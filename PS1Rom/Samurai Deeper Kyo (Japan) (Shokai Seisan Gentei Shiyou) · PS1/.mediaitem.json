@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Samurai Deeper Kyo (Japan) (Shokai Seisan Gentei Shiyou)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Samurai Deeper Kyo (Japan) (Shokai Seisan Gentei Shiyou).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eebb6e3b2a6ef0a503e0806deb2f7e6b",
+        "sha1": "55e4cff313ab08ed3506c50a46fba7ab37c6c966",
+        "crc32": "96a55354"
+      }
+    },
+    {
+      "filename": "Samurai Deeper Kyo (Japan) (Shokai Seisan Gentei Shiyou).bin",
+      "filesize": 380617104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e4cf7e1f0dd0f7b50cc6ad5b03acb20",
+        "sha1": "a3942b8f81fe5e4cb689a349f859e6d695877c80",
+        "crc32": "cefff506"
+      }
+    }
+  ]
+}

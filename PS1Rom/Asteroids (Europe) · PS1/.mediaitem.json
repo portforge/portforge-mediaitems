@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asteroids (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asteroids (Europe).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "169ead7fbb6956247b985b8ff57f11a8",
+        "sha1": "329fdefe6c75fecd216f1927903b374c26876a4e",
+        "crc32": "9ee5b199"
+      }
+    },
+    {
+      "filename": "Asteroids (Europe) (Track 1).bin",
+      "filesize": 118216224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87728585130268efbeb47960865ae6e9",
+        "sha1": "9e3de51ba879ff856872880b9f98b022c3e9dbcb",
+        "crc32": "de2aabf5"
+      }
+    },
+    {
+      "filename": "Asteroids (Europe) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "034c3867de60622ca603502902968ab8",
+        "sha1": "58c7fc8a14ad29c9f3546e5cca3e19367a39397f",
+        "crc32": "ce6b485b"
+      }
+    }
+  ]
+}

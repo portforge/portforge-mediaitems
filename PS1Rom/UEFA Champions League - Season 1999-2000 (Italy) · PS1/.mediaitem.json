@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Champions League - Season 1999-2000 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Italy).cue",
+      "filesize": 408,
+      "ext": "cue",
+      "checksums": {
+        "md5": "644baad34f30c04b5ee08e9655ac7206",
+        "sha1": "ccd5a6a757cdb0071bf8837f09da71fa977a8d28",
+        "crc32": "092c302e"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Italy) (Track 1).bin",
+      "filesize": 531368544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "776f735d121298fd3fa36a08c4184648",
+        "sha1": "c0b920112449db3c901a461737ae5596519a0632",
+        "crc32": "09a66f10"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Italy) (Track 2).bin",
+      "filesize": 66232320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99121bf9625c14cb2945ea2b2295eb00",
+        "sha1": "2c2b7b2c33566ff907e62c78bd350cabe2a9527f",
+        "crc32": "ebcdba29"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Italy) (Track 3).bin",
+      "filesize": 66232320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99121bf9625c14cb2945ea2b2295eb00",
+        "sha1": "2c2b7b2c33566ff907e62c78bd350cabe2a9527f",
+        "crc32": "ebcdba29"
+      }
+    }
+  ]
+}

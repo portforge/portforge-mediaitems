@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Soccer 2004 (USA) (En,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Soccer 2004 (USA) (En,Es).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "46c8f7cc33287978079fc17ff1c2f71d",
+        "sha1": "4c09d4eeb7372713e6d6d82398d6ae209b7125b9",
+        "crc32": "0a3ed067"
+      }
+    },
+    {
+      "filename": "FIFA Soccer 2004 (USA) (En,Es).bin",
+      "filesize": 620963280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1af8fe27f90106c098a29ec3438d5a45",
+        "sha1": "db741b073ad0b91e42c181712815eba74a8f9ce3",
+        "crc32": "57100963"
+      }
+    }
+  ]
+}

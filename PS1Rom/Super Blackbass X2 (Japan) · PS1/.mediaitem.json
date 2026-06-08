@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Blackbass X2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Blackbass X2 (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "210cdacb2c3c57856f5fceae04b7eb9e",
+        "sha1": "6fa2a83ae6204f66f62a30d80af896414a4599cc",
+        "crc32": "51c6dc0d"
+      }
+    },
+    {
+      "filename": "Super Blackbass X2 (Japan).bin",
+      "filesize": 250368048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84ced9f9452becc2a73e62865f2a78e4",
+        "sha1": "163224a64f7397c1570e128cca7c796c8ffbf175",
+        "crc32": "9ae0c656"
+      }
+    }
+  ]
+}

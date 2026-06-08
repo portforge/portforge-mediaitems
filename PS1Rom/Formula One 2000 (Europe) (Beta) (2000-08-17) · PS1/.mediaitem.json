@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formula One 2000 (Europe) (Beta) (2000-08-17)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formula One 2000 (Europe) (Beta) (2000-08-17).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "385ef82818028b2a7a39c49db3a31f72",
+        "sha1": "68520bdd9eac5f0a53ef90c120000444a3ddd8a3",
+        "crc32": "6f8bcc09"
+      }
+    },
+    {
+      "filename": "Formula One 2000 (Europe) (Beta) (2000-08-17).bin",
+      "filesize": 536140752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89b992055a36e1bb1af1dce5ddaeb14f",
+        "sha1": "87d95f82d3b8ce03e8de2365f4b3745bb708ecfa",
+        "crc32": "5e390127"
+      }
+    }
+  ]
+}

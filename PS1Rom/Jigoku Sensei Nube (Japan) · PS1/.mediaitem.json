@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jigoku Sensei Nube (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jigoku Sensei Nube (Japan).cue",
+      "filesize": 822,
+      "ext": "cue",
+      "checksums": {
+        "md5": "076a1722e48352d55958a9a77bd9a03f",
+        "sha1": "64b759dea0fc8f60bcca7d6fae94a6f7cd40993e",
+        "crc32": "2e32714f"
+      }
+    },
+    {
+      "filename": "Jigoku Sensei Nube (Japan) (Track 1).bin",
+      "filesize": 401874480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd7c91cead0ff076bc21dad0493d52ae",
+        "sha1": "43f61fe5d0f072e6c1c637bf7571eadddd1ae78e",
+        "crc32": "3639fee8"
+      }
+    },
+    {
+      "filename": "Jigoku Sensei Nube (Japan) (Track 2).bin",
+      "filesize": 12618480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83b466d8b4fbcd8045b914bed614e9c1",
+        "sha1": "372af7080fec32abd925415a4febc5f98540cb56",
+        "crc32": "bd585de4"
+      }
+    },
+    {
+      "filename": "Jigoku Sensei Nube (Japan) (Track 3).bin",
+      "filesize": 12910128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0741a8d1eb63afe5982c1c0deb6fba06",
+        "sha1": "85ed9be15d02378c70d58d030da61924cc2234a9",
+        "crc32": "64c494ab"
+      }
+    },
+    {
+      "filename": "Jigoku Sensei Nube (Japan) (Track 4).bin",
+      "filesize": 14276640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b6a50502fdb11bf82076c4a334ad6c6",
+        "sha1": "ba23a42dc69ebb18f3febeec07d0efa80c433e44",
+        "crc32": "b9492d12"
+      }
+    },
+    {
+      "filename": "Jigoku Sensei Nube (Japan) (Track 5).bin",
+      "filesize": 12366816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0947df0e5feae00104b4921ca6c9f51e",
+        "sha1": "5ca765188a084a0120694b4eba2b738a44ff57ce",
+        "crc32": "b2f359be"
+      }
+    },
+    {
+      "filename": "Jigoku Sensei Nube (Japan) (Track 6).bin",
+      "filesize": 30098544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ab466f334e7f7e665aee8068fc7bc3c",
+        "sha1": "5c2a010c36e6da61129a21e17b5b5e1d4adeb36a",
+        "crc32": "1c27f857"
+      }
+    },
+    {
+      "filename": "Jigoku Sensei Nube (Japan) (Track 7).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sammy Sosa High Heat Baseball 2001 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sammy Sosa High Heat Baseball 2001 (USA).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6159d2a8e883df98514a886ba79cc164",
+        "sha1": "860b15d8619e46cb55e93841322f28fa0da12ba7",
+        "crc32": "1f203503"
+      }
+    },
+    {
+      "filename": "Sammy Sosa High Heat Baseball 2001 (USA) (Track 1).bin",
+      "filesize": 139144320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d12e36fe9b6a16cc894268145ab3e028",
+        "sha1": "178be02cf4e997bc13c2b0ab6f065f1d06e62312",
+        "crc32": "a7edb282"
+      }
+    },
+    {
+      "filename": "Sammy Sosa High Heat Baseball 2001 (USA) (Track 2).bin",
+      "filesize": 46539024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf2f6a8b3fb2c94fef1bffe829c9906a",
+        "sha1": "29c70cb81e8fcbf3e7c0c62bfe75e4f4109230d1",
+        "crc32": "815e510f"
+      }
+    }
+  ]
+}

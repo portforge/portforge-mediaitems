@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spriggan - Lunar Verse (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spriggan - Lunar Verse (Japan) (Demo).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34084ec86dfe7cb8f257ddabaea720be",
+        "sha1": "d63cd2ed1d0c8d977457dce9576871757091911d",
+        "crc32": "a97ea9e0"
+      }
+    },
+    {
+      "filename": "Spriggan - Lunar Verse (Japan) (Demo).bin",
+      "filesize": 107648688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb596cb7af7f3b1f0575e0154ba8c866",
+        "sha1": "0b684bc4f185c49d34da2c704bef006c56aaf888",
+        "crc32": "d8b6f1b5"
+      }
+    }
+  ]
+}

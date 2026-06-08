@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gekitou! Crush Gear Turbo - Comic Bom Bom Special Disc (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gekitou! Crush Gear Turbo - Comic Bom Bom Special Disc (Japan) (Demo).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "950aeba703950ede0629fb233fc72429",
+        "sha1": "5c786bf9c85d34a14fa0c50eea4269ceb93e7c11",
+        "crc32": "a2abca1b"
+      }
+    },
+    {
+      "filename": "Gekitou! Crush Gear Turbo - Comic Bom Bom Special Disc (Japan) (Demo).bin",
+      "filesize": 210525168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53a8728a185668ae97605e1e31df0ea4",
+        "sha1": "27c907c733de41d4bd2456d5f508f7c68599f1aa",
+        "crc32": "7e68710a"
+      }
+    }
+  ]
+}

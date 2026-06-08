@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mars Moose Stay and Play 1 - In the Clubhouse (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mars Moose Stay and Play 1 - In the Clubhouse (USA).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72142fc0ee297b33b7204ab323f3dde7",
+        "sha1": "ac1ed5a433377ee06ef355f84349719efcebf19a",
+        "crc32": "860c88c3"
+      }
+    },
+    {
+      "filename": "Mars Moose Stay and Play 1 - In the Clubhouse (USA).bin",
+      "filesize": 367140144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "974569b192a51da771bdb771f691ce12",
+        "sha1": "f7c5a7fe8573a938581c4b9a5edd26c7d0efec54",
+        "crc32": "74ef6acd"
+      }
+    }
+  ]
+}

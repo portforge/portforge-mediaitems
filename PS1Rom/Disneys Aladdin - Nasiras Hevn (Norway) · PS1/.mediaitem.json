@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Aladdin - Nasiras Hevn (Norway)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Aladdin - Nasiras Hevn (Norway).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "38d6d28038e906c1b131bf1b36a44fab",
+        "sha1": "a72085aedde5cbb5a83270e755a9201cd69a8e59",
+        "crc32": "5b3bf13a"
+      }
+    },
+    {
+      "filename": "Disneys Aladdin - Nasiras Hevn (Norway).bin",
+      "filesize": 611759904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea5dbeb9516cffd6fd4a241db65f472d",
+        "sha1": "6172bf923133082fd558bf39943605e57b432e72",
+        "crc32": "beadeb24"
+      }
+    }
+  ]
+}

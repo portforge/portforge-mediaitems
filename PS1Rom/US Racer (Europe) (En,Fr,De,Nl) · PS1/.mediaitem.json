@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "US Racer (Europe) (En,Fr,De,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "US Racer (Europe) (En,Fr,De,Nl).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0cb5f56d2312dfb9cd282275b4eebeab",
+        "sha1": "5744c53f4b5659d255bdc6995d5dfee21a99ee76",
+        "crc32": "85e57e71"
+      }
+    },
+    {
+      "filename": "US Racer (Europe) (En,Fr,De,Nl).bin",
+      "filesize": 362765424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f94f4c9ed7ff4acf92fa830dbdf8c7e",
+        "sha1": "95f5d2f49c73036b0691eeb7dba95d984fdb3b79",
+        "crc32": "545c1432"
+      }
+    }
+  ]
+}

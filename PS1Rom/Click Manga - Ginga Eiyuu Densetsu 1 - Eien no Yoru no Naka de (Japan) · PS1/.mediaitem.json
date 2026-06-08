@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Click Manga - Ginga Eiyuu Densetsu 1 - Eien no Yoru no Naka de (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Click Manga - Ginga Eiyuu Densetsu 1 - Eien no Yoru no Naka de (Japan).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8a3d0a440058d037b66ab607f7c81521",
+        "sha1": "6e13254fba8c7999342fb557445c063f470b551e",
+        "crc32": "78abdb0c"
+      }
+    },
+    {
+      "filename": "Click Manga - Ginga Eiyuu Densetsu 1 - Eien no Yoru no Naka de (Japan).bin",
+      "filesize": 285537504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8c633155bbe611a44b3717c01fb061c",
+        "sha1": "2d48389150c43458142b2fd3f520970b4b557752",
+        "crc32": "f160be39"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Soccer 97 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Soccer 97 (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e84aefab1becf7ea46f4c5eb396ca55f",
+        "sha1": "4c8dcff2bb1e1ac081edbc31c967259b29152418",
+        "crc32": "6006caa4"
+      }
+    },
+    {
+      "filename": "FIFA Soccer 97 (Japan) (Track 1).bin",
+      "filesize": 432862080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f352c1fd345b49529a4aca159e9b88b",
+        "sha1": "0742f612f3f1b6c86b797b170c76634119147f28",
+        "crc32": "d45192b1"
+      }
+    },
+    {
+      "filename": "FIFA Soccer 97 (Japan) (Track 2).bin",
+      "filesize": 136340736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49f19a9b46281cf8f9209cbd7dc4a776",
+        "sha1": "4b98568bfede2bac250c71cefc65c9e33d430eea",
+        "crc32": "1f66771a"
+      }
+    }
+  ]
+}

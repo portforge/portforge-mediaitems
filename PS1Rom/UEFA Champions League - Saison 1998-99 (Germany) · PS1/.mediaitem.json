@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Champions League - Saison 1998-99 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Champions League - Saison 1998-99 (Germany).cue",
+      "filesize": 408,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08989e2eb64442214c7c64d7b7af2285",
+        "sha1": "3729d6a298395a009d11e1e4f7d7f6f8106988ee",
+        "crc32": "1f03c5ba"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Saison 1998-99 (Germany) (Track 1).bin",
+      "filesize": 438151728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cbeae152e54296995eceab0df2fc485",
+        "sha1": "7c4a8571395360ad8e6857b40f6dfea563b38d41",
+        "crc32": "b465dd20"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Saison 1998-99 (Germany) (Track 2).bin",
+      "filesize": 52226160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ff7b1e21339acb9f813debe207099ed",
+        "sha1": "fb6cbb4ed873a06a1da6f41c54364cf6250de54f",
+        "crc32": "c0b85f82"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Saison 1998-99 (Germany) (Track 3).bin",
+      "filesize": 54394704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4faaacaa5c288310941419243b50aeb2",
+        "sha1": "9702b1c7b371c12667a4ab10afe07f76136e8818",
+        "crc32": "d1f8c980"
+      }
+    }
+  ]
+}

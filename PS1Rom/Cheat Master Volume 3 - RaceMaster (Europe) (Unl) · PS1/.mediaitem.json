@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cheat Master Volume 3 - RaceMaster (Europe) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cheat Master Volume 3 - RaceMaster (Europe) (Unl).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c884e8cc4b7bd586c49ea24d5655856",
+        "sha1": "24a4c425a16abced4eb7088238620dfac23055b5",
+        "crc32": "af91ecf1"
+      }
+    },
+    {
+      "filename": "Cheat Master Volume 3 - RaceMaster (Europe) (Unl).bin",
+      "filesize": 7448784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a61196922475da4d4be744b865f07f3",
+        "sha1": "52952d538e661a060138c2a5e115acd1df48ed18",
+        "crc32": "65f33360"
+      }
+    }
+  ]
+}

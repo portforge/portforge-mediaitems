@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA March Madness 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA March Madness 2000 (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2ac54eddb62329c2acbc5e56c8e9dd45",
+        "sha1": "d68fd0ffc0be8d46b4441dad30f24b20d894bb0f",
+        "crc32": "dcd43593"
+      }
+    },
+    {
+      "filename": "NCAA March Madness 2000 (USA).bin",
+      "filesize": 560935536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "417c7ec30c7f1c0c1284ec497c9144aa",
+        "sha1": "25c0a71e9a60c3fdf3bd2b74cecdb809d70864db",
+        "crc32": "59f58ce5"
+      }
+    }
+  ]
+}

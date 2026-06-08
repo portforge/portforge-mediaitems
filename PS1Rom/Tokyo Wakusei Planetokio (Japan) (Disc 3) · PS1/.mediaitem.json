@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Wakusei Planetokio (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Wakusei Planetokio (Japan) (Disc 3).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e771d6e59f9c258e3ab1cd4f7c85338",
+        "sha1": "6cbbeaa1ba4189ad775db99193252826e99951f7",
+        "crc32": "0262eb3b"
+      }
+    },
+    {
+      "filename": "Tokyo Wakusei Planetokio (Japan) (Disc 3).bin",
+      "filesize": 695399376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60d7a1e0e6435bc1bd97765648c0ec51",
+        "sha1": "9a30499d83e5d57ac1fef5506ba1e2365d3aaeff",
+        "crc32": "822ab402"
+      }
+    }
+  ]
+}

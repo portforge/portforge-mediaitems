@@ -1,0 +1,187 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "B-Movie (Europe) (En,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "B-Movie (Europe) (En,Es,It).cue",
+      "filesize": 2056,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01475f658db714421fca09a794f3fa37",
+        "sha1": "a0cbb0c636b332c033455602b01c78c63a1671ef",
+        "crc32": "7ddd58ca"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 01).bin",
+      "filesize": 11531856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369af3e7ce0728d0d137740387497889",
+        "sha1": "218d4a5afb4c1f53600b310b95fbf4dd1259929c",
+        "crc32": "e6f3abf9"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 02).bin",
+      "filesize": 11106144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a3d7cda6f389175c74c5d3f6b19f6fe",
+        "sha1": "f8ce9ac4cbede01a33ef62f73521f1b9fd834c8b",
+        "crc32": "f2259b84"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 03).bin",
+      "filesize": 39243120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b200683427473119a55d7be36efb97ab",
+        "sha1": "0571f4a281e9e9ba399cf1654d2bc5e716fcef1a",
+        "crc32": "040cae34"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 04).bin",
+      "filesize": 8692992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03a0f308a750263493e94b0950c770c3",
+        "sha1": "728fb329fea2b43a178526f4c8e7205556f9abf0",
+        "crc32": "c6420bb6"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 05).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edb61f60ae4b7dbdb9a7d19f667481e2",
+        "sha1": "e3ed4e0ad137d6bc07d24dc1305de88ddf3e3194",
+        "crc32": "152ec820"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 06).bin",
+      "filesize": 15323280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31c0a84d6e8c95b69d9ab47956b15af5",
+        "sha1": "8f64df6ba564f32337ba50bb892ead1a7293262c",
+        "crc32": "7acca964"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 07).bin",
+      "filesize": 20707008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0a9b3904a85665dd8fc1869ab80940c",
+        "sha1": "019cab7cccb1e799f22525ba5087963e8390a73f",
+        "crc32": "8dce8c11"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 08).bin",
+      "filesize": 20953968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f8152fd9e8f1ca94a3b7dfeb585e35e",
+        "sha1": "2c0b3eab4e5117b2724f93c8c0accddfc07fb6d6",
+        "crc32": "5676400a"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 09).bin",
+      "filesize": 17056704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98b7cf00441fd512dba4163b724118cd",
+        "sha1": "bdfe82bc3ed8436549545e60ddc9eff0fa3714e3",
+        "crc32": "276e5c3b"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 10).bin",
+      "filesize": 26572896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2ae2a7f6ececbb856d4fe077eb450c7",
+        "sha1": "77548a83994e3754956596787d31ee8d22931667",
+        "crc32": "f383b9c8"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 11).bin",
+      "filesize": 43269744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a753e9613b95d2445052e029f0d5e85b",
+        "sha1": "0403d5d507eaa1de7c38f4ed7152cb2e56757b9d",
+        "crc32": "710a2a39"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 12).bin",
+      "filesize": 24444336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64e7b3eb22c45b200fb6970f936668ac",
+        "sha1": "645b57b1e8471e8f0bc39a97b5cc5b748c8914f2",
+        "crc32": "0018d3ab"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 13).bin",
+      "filesize": 25088784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f67750d1a3787e935223f2881b5d813",
+        "sha1": "6b9b83b9409c6b7cfa05638cd56b1a83644eb5ab",
+        "crc32": "d1fd9b89"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 14).bin",
+      "filesize": 38248224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37c8e49384db2800e1430469e07135bb",
+        "sha1": "1e9a6a22fc08bb3c5da10aff8afd695494c7e935",
+        "crc32": "b76a925e"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 15).bin",
+      "filesize": 42916944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cae78ffeef6a258f9332df52dd0b3f1",
+        "sha1": "0565c5813a4ff7c0dd3e61db8baab79c26819aa4",
+        "crc32": "324ea527"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 16).bin",
+      "filesize": 51221856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27528741e60494415f5fd8e89fbf4d60",
+        "sha1": "3d4ebe20fed0dd9b684f2efdb8d017ba29274e9c",
+        "crc32": "a01e1213"
+      }
+    },
+    {
+      "filename": "B-Movie (Europe) (En,Es,It) (Track 17).bin",
+      "filesize": 51221856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27528741e60494415f5fd8e89fbf4d60",
+        "sha1": "3d4ebe20fed0dd9b684f2efdb8d017ba29274e9c",
+        "crc32": "a01e1213"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bomberman (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bomberman (Europe).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ab99afefbae37213537b209bfd2463c",
+        "sha1": "1039249a67eeb09d4fc01a7f568d483e6df22287",
+        "crc32": "c47767f1"
+      }
+    },
+    {
+      "filename": "Bomberman (Europe).bin",
+      "filesize": 660770880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55b3d16968420bef57a591dc129ac0e8",
+        "sha1": "359f7df53920f08f2c70cad6a0989117c5ee52ea",
+        "crc32": "f0092cdc"
+      }
+    }
+  ]
+}

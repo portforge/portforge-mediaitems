@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45d20d97723440294ca6ee8de588c982",
+        "sha1": "f3052e82d790de2a5b3a0048b5e6bfc998a184e5",
+        "crc32": "c6e7e39a"
+      }
+    },
+    {
+      "filename": "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc 1).bin",
+      "filesize": 658677600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d24b8e403ec9d27436ab5236c291667b",
+        "sha1": "2990c613fb2b022a8ac098214167841f0fb13d9a",
+        "crc32": "2be99301"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play! '98 Fuyu Taikenban (Japan) (Green Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play! '98 Fuyu Taikenban (Japan) (Green Disc).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ced5332d8dc1177ab44a1fafc1a65853",
+        "sha1": "0a01c7cba9d589c186e6e674afab7a98cd9cd58b",
+        "crc32": "c4f55a01"
+      }
+    },
+    {
+      "filename": "Play! '98 Fuyu Taikenban (Japan) (Green Disc).bin",
+      "filesize": 591739680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e788597005aa52ade0cf7447bd629010",
+        "sha1": "c1da21faf32bebc4c1d1510c9714cd61231c53a6",
+        "crc32": "f6050fed"
+      }
+    }
+  ]
+}

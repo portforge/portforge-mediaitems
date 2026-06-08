@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Choro Q 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Choro Q 3 (Japan).cue",
+      "filesize": 315,
+      "ext": "cue",
+      "checksums": {
+        "md5": "556403e18c15031d64349329d5439557",
+        "sha1": "20059bc538b1b2efa5bf3b38e5d741a171d92399",
+        "crc32": "9ebe1c0b"
+      }
+    },
+    {
+      "filename": "Choro Q 3 (Japan) (Track 1).bin",
+      "filesize": 583766400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9ae04e68d348bf69ab1d532fc7ec5f8",
+        "sha1": "15f310bbf3d1be45fa89db3931577867403f1b79",
+        "crc32": "aabe3128"
+      }
+    },
+    {
+      "filename": "Choro Q 3 (Japan) (Track 2).bin",
+      "filesize": 47877312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f39de954e52acbeb5e8f1a656f4a5c07",
+        "sha1": "7bdc63e2ddbb952a3642b76f73d5d0162c510e4b",
+        "crc32": "b7ae17c3"
+      }
+    },
+    {
+      "filename": "Choro Q 3 (Japan) (Track 3).bin",
+      "filesize": 51160704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bb9668f0017f5540313f7c14f41203e",
+        "sha1": "7278bc7826be6901f1339541e43e2fa49b25be9a",
+        "crc32": "472f6f41"
+      }
+    }
+  ]
+}

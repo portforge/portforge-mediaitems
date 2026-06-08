@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 16 - The Pachi-Slot (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 16 - The Pachi-Slot (Japan).cue",
+      "filesize": 562,
+      "ext": "cue",
+      "checksums": {
+        "md5": "51ccc17577ff53c784bd7cccdb0237e5",
+        "sha1": "43965517c846105f4665cf43537a6332c90864c2",
+        "crc32": "6d94f31a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 16 - The Pachi-Slot (Japan) (Track 1).bin",
+      "filesize": 92040816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f08f42155ef8609483726a4ad34e8329",
+        "sha1": "e303ecd15fb800542897598f59f0d5abddbdd565",
+        "crc32": "f63c4514"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 16 - The Pachi-Slot (Japan) (Track 2).bin",
+      "filesize": 34120464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "482e95388a2cfa7ca96ad027bdc96133",
+        "sha1": "67295cb25c04e7a75a7480735d5d4875c156ff58",
+        "crc32": "ea2cbcfa"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 16 - The Pachi-Slot (Japan) (Track 3).bin",
+      "filesize": 33972288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fa68e7578d6058467da9c75a812dbb6",
+        "sha1": "85a493e0c7432935d254e63f5a10bfb4dd78a021",
+        "crc32": "17e7dd9b"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 16 - The Pachi-Slot (Japan) (Track 4).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76d1247ace938d4021595fdcd4e4dd5d",
+        "sha1": "c9562a235770504f552b002f383c523983e7c0cd",
+        "crc32": "8123e8fd"
+      }
+    }
+  ]
+}

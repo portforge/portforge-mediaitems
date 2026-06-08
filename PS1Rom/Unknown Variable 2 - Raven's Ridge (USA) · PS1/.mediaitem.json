@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Unknown Variable 2 - Raven's Ridge (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Unknown Variable 2 - Raven's Ridge (USA).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac5e9b57f57040e879c0481c4c908fc4",
+        "sha1": "bdd2bb8350b06ed7b285dfd2383157dbbf641712",
+        "crc32": "c3139daa"
+      }
+    },
+    {
+      "filename": "Unknown Variable 2 - Raven's Ridge (USA).bin",
+      "filesize": 447230448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e098af846dffc58ecfee140ab5a8adae",
+        "sha1": "d8c875af8ebc3c13e3e4b14d1ca15630819ba9c5",
+        "crc32": "3a54a1c5"
+      }
+    }
+  ]
+}

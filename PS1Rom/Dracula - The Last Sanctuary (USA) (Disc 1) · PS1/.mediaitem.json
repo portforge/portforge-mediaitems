@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula - The Last Sanctuary (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula - The Last Sanctuary (USA) (Disc 1).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0fa549709681fd4c1a27d80a0dc3e184",
+        "sha1": "d0dc3ad9cceb0fc1947e02f5ae764b4ea013c6ea",
+        "crc32": "416305c0"
+      }
+    },
+    {
+      "filename": "Dracula - The Last Sanctuary (USA) (Disc 1).bin",
+      "filesize": 686920416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98673f93c33f5741ea4dad72063fce5e",
+        "sha1": "8499b1f8b5566d41eafb85aaa32d297afeec9633",
+        "crc32": "a7071d2b"
+      }
+    }
+  ]
+}

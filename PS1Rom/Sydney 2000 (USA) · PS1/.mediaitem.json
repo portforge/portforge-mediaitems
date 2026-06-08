@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sydney 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sydney 2000 (USA).cue",
+      "filesize": 981,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1fc021a0945d178cdf6bea8a90a58590",
+        "sha1": "8338083bb4eba0357a27f025d1a5072694eb0fe6",
+        "crc32": "7adc9558"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 1).bin",
+      "filesize": 396067392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "558d81489c7840a260185110c3857958",
+        "sha1": "3d1a50ded866aee37008273dce33c555f745e424",
+        "crc32": "0599f926"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 2).bin",
+      "filesize": 35185920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "842e8b57e6ccc5e54cba6abc03490305",
+        "sha1": "02ddac0a0d380ec39a4e8917348970e2aedbd467",
+        "crc32": "abd4a852"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 3).bin",
+      "filesize": 42844032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0104f817ff0c62807f0c2aeb36a67fd",
+        "sha1": "207a3998912fab163c3a5032cd95d8b8470ef677",
+        "crc32": "11299571"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 4).bin",
+      "filesize": 11795280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a354b2fec3dc8797ee08c24642c94636",
+        "sha1": "356ecc91cd0662fb5ec1bccdd086033020b6bf5f",
+        "crc32": "2da47a3a"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 5).bin",
+      "filesize": 14533008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a78bdbbaee8fe13f53ea071ef0ded4ab",
+        "sha1": "59ec8955d0468b5231862d548bf3eb451792c8db",
+        "crc32": "766b6bf4"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 6).bin",
+      "filesize": 10191216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08ced038fb46c9e2a053a1d192af0c13",
+        "sha1": "2ec80493b621b7d62556410f84eb9604d2cfcfd6",
+        "crc32": "58a38908"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 7).bin",
+      "filesize": 10478160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a46e6082ea4432ac4a6fd7b912d648a",
+        "sha1": "e0bbc484c3ba06f792457c74ce475b8cdc9e783e",
+        "crc32": "da4d205d"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 8).bin",
+      "filesize": 28527408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6743f926867e7a1092c7ae7af86c0dde",
+        "sha1": "bd9255bd5a7463e6e1eea3f3ec5765e2f6f98873",
+        "crc32": "82054e6a"
+      }
+    },
+    {
+      "filename": "Sydney 2000 (USA) (Track 9).bin",
+      "filesize": 32803344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df31fee8b802d4bcb53ca53b702f22ca",
+        "sha1": "5782566476accd04d0e513f449a527598f96dac1",
+        "crc32": "ce8ffc47"
+      }
+    }
+  ]
+}

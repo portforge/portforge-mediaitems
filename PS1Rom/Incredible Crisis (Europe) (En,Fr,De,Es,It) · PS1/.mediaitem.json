@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Incredible Crisis (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Incredible Crisis (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8592200a9cf342e4aa683ec0fe4f5255",
+        "sha1": "b61ecf9639211eeb1a32d4bba0ef208caab04af7",
+        "crc32": "a0f8b4cf"
+      }
+    },
+    {
+      "filename": "Incredible Crisis (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 721379568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b7acf3ef47574d6e3feadfe63e328de",
+        "sha1": "c51c9739d3d0340a4147fba0e190e3914641567a",
+        "crc32": "4a6dfffa"
+      }
+    }
+  ]
+}

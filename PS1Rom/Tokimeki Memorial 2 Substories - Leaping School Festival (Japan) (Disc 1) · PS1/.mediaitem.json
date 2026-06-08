@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 1).cue",
+      "filesize": 154,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6733f097958fdad0eaa0cbff36a4c309",
+        "sha1": "af0723b15ae9b6ee22eebc1359c5dd6efade6b83",
+        "crc32": "b67ec104"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 Substories - Leaping School Festival (Japan) (Disc 1).bin",
+      "filesize": 629216448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bdd627a9b705f508806007bbdfd4da9",
+        "sha1": "acdd992d2b6b94c7d660027b66c9979684c965a4",
+        "crc32": "8c78c73a"
+      }
+    }
+  ]
+}

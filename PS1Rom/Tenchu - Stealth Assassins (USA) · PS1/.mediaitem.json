@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenchu - Stealth Assassins (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenchu - Stealth Assassins (USA).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "664bbe324fda062339c9114cc56d6fd6",
+        "sha1": "4b9982edc34110ecb7a8cf08a3fe705a087d5892",
+        "crc32": "1b35fea7"
+      }
+    },
+    {
+      "filename": "Tenchu - Stealth Assassins (USA).bin",
+      "filesize": 693299040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "508ab856db26f3c91a871b4fa41f1dd7",
+        "sha1": "37d4948f717a2ce15e03fb79f0a99cc7b4b84194",
+        "crc32": "5d1d79d4"
+      }
+    }
+  ]
+}

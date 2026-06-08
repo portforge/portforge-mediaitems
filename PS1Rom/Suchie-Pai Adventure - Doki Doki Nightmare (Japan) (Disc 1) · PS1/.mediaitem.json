@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1).cue",
+      "filesize": 288,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1edb274aa3fc08cce1ac6e8ad72e4039",
+        "sha1": "609729de4804126a8a7d6609f1f5346e1dc107c9",
+        "crc32": "b98b7d59"
+      }
+    },
+    {
+      "filename": "Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 588961968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae893c8948e868b3a0a5350ba044058f",
+        "sha1": "fb5b29edce314883cc9d2942f3d56e83b99b0c3e",
+        "crc32": "21353a89"
+      }
+    },
+    {
+      "filename": "Suchie-Pai Adventure - Doki Doki Nightmare (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 32283552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8dca2e086e9014285b9e3a32d1ebc09",
+        "sha1": "89a1a4b5aea4200c5bca614e4b04638bdcafe024",
+        "crc32": "8fead6a5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next Demo 6 (Italy) (En,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next Demo 6 (Italy) (En,It).cue",
+      "filesize": 345,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a418396ec77dd6e1e43920ac93dd693",
+        "sha1": "887ffbd36cd7b863c476a73ba556f9219ec51806",
+        "crc32": "1969bc8a"
+      }
+    },
+    {
+      "filename": "Next Demo 6 (Italy) (En,It) (Track 1).bin",
+      "filesize": 637547232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af7d1c3a04205cfb59b2856c1460d4c8",
+        "sha1": "a3c23b95b8518b7b0805acb3f180504479293bb5",
+        "crc32": "138e0597"
+      }
+    },
+    {
+      "filename": "Next Demo 6 (Italy) (En,It) (Track 2).bin",
+      "filesize": 35087136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f1c740a293f3d007d59fd2bae4e53b8",
+        "sha1": "3e0d1186036080af978c12ed4fc59af7228250c6",
+        "crc32": "67d98cf0"
+      }
+    },
+    {
+      "filename": "Next Demo 6 (Italy) (En,It) (Track 3).bin",
+      "filesize": 37667280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3ddc38a81c421f99aefd999da8b6f67",
+        "sha1": "92aea1918f93da050057f26b96685f50d5bbd510",
+        "crc32": "8b0ca44a"
+      }
+    }
+  ]
+}

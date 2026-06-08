@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Walt Disney Le Livre de la Jungle - Groove Party (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Walt Disney Le Livre de la Jungle - Groove Party (France).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4538ccd987a6154f15c0bf7189f533dd",
+        "sha1": "ce126a1395af9a78f6af4a28c721397cfdcc14df",
+        "crc32": "208c2234"
+      }
+    },
+    {
+      "filename": "Walt Disney Le Livre de la Jungle - Groove Party (France).bin",
+      "filesize": 749474208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9b6218845b9f2d2b1b0a8678661ed8c",
+        "sha1": "abea6f61a89e4de6e07d958adb5335a318f35e39",
+        "crc32": "19f3cb4e"
+      }
+    }
+  ]
+}

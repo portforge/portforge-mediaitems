@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Azito (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Azito (Japan) (Major Wave).cue",
+      "filesize": 942,
+      "ext": "cue",
+      "checksums": {
+        "md5": "904fb2920181bf1488574b613f993b8c",
+        "sha1": "2e003f3c75c4af3d8bdd5ffe0a506dfa17a7f424",
+        "crc32": "0e71aab1"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 1).bin",
+      "filesize": 120370656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a352d9e9e3703536b2c955d1ef199bfe",
+        "sha1": "fac3844329c815008e3aa68a9e06019b1dca1082",
+        "crc32": "79a746b9"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 2).bin",
+      "filesize": 159747840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ada4241b05a75fbe35c0066bbb1084f",
+        "sha1": "8a6916bcd2e5e4fbd0d8db4f20dbaa442b27c751",
+        "crc32": "0771ff1c"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 3).bin",
+      "filesize": 31947216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e81b97d59d7a351221cbbee6f24a5044",
+        "sha1": "4a82f02a32fcf51a22b52e2e8dc730d97eb75124",
+        "crc32": "056dc61d"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 4).bin",
+      "filesize": 1989792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06e557056da35423489a2c2a5c2f29a6",
+        "sha1": "9e962104dce51ebc98539537134394c414cab14c",
+        "crc32": "3badffca"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 5).bin",
+      "filesize": 2326128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "559a231d03234ef8000504ef5476d616",
+        "sha1": "2dc061f3c6c2567aa34a21009e9c3f2c20eb3532",
+        "crc32": "d0f7fa99"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 6).bin",
+      "filesize": 4024272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1e5f87ba8f582a61e34038c39a1424a",
+        "sha1": "eba2d69d9a7383888b83a54b145a87ec4914c2cb",
+        "crc32": "d110595f"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 7).bin",
+      "filesize": 3455088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a30f20e6b6b82f7ed361e87ac5ae2085",
+        "sha1": "6435abe8195ef338cabf7645279ba39b379b92a3",
+        "crc32": "9363dff0"
+      }
+    },
+    {
+      "filename": "Azito (Japan) (Major Wave) (Track 8).bin",
+      "filesize": 40470864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd499d475778b2b96039580854ce8067",
+        "sha1": "f2d17f0383740d9b69efb2b6bfad0f4e609d444c",
+        "crc32": "9bb85d76"
+      }
+    }
+  ]
+}

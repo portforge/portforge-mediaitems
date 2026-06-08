@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Football Champ (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Football Champ (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dabe0fbc1b049b66a7ad5c3a0c040853",
+        "sha1": "0612dd7fd1ce3094a1360f792a41fe7cfbf988c9",
+        "crc32": "955d39aa"
+      }
+    },
+    {
+      "filename": "Super Football Champ (Japan).bin",
+      "filesize": 446757696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fd58677f08f7018263394faddf38290",
+        "sha1": "ff1eb05e917bace5f0be78ce6d53539212721fdf",
+        "crc32": "46778bcf"
+      }
+    }
+  ]
+}

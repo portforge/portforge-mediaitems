@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "StarSweep (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "StarSweep (Japan).cue",
+      "filesize": 204,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95c3c389ead12ef63fbcdfd3441db48f",
+        "sha1": "fc42cbfe82b7369823659b4d78b3945433967090",
+        "crc32": "bdc9acd1"
+      }
+    },
+    {
+      "filename": "StarSweep (Japan) (Track 1).bin",
+      "filesize": 153750240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44a4e75c75a63beccd7707b3e642c839",
+        "sha1": "71ec4a21c4726ae34aa464872dc8d1d2c8efd155",
+        "crc32": "9516b211"
+      }
+    },
+    {
+      "filename": "StarSweep (Japan) (Track 2).bin",
+      "filesize": 34275696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6effccb8de2a332bc0e8e7d870f32d02",
+        "sha1": "5405fbd20b81a88a216256e518cad6aeab466253",
+        "crc32": "c1dca668"
+      }
+    }
+  ]
+}

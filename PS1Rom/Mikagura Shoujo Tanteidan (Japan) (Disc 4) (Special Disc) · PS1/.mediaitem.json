@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mikagura Shoujo Tanteidan (Japan) (Disc 4) (Special Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mikagura Shoujo Tanteidan (Japan) (Disc 4) (Special Disc).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f7ecf079b254aaef26dcf849afa9bd2",
+        "sha1": "c17937211d05c641390f453d43de1fc5691c7bb4",
+        "crc32": "40e43a69"
+      }
+    },
+    {
+      "filename": "Mikagura Shoujo Tanteidan (Japan) (Disc 4) (Special Disc).bin",
+      "filesize": 703445568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "074f869e211f0b8f41cc23b2fdff617a",
+        "sha1": "ffcd0d2828caef394d70658ece70edc11fe7ccd4",
+        "crc32": "ab96fb11"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Juego de Accion Disney Presenta Hercules (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Juego de Accion Disney Presenta Hercules (Spain).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9bebe18806f4015d86ac13f91829538",
+        "sha1": "8c0dcdbb8c93551e4df0431acad95d7c7f692b6c",
+        "crc32": "946598ba"
+      }
+    },
+    {
+      "filename": "Disney Juego de Accion Disney Presenta Hercules (Spain).bin",
+      "filesize": 400634976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffab563df21f96e9ee77c40d74a9a00b",
+        "sha1": "de1a1d72114069e536706511b531461fc2c4a285",
+        "crc32": "8115908d"
+      }
+    }
+  ]
+}

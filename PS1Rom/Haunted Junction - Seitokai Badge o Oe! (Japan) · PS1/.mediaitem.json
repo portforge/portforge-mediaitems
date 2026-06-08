@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Haunted Junction - Seitokai Badge o Oe! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Haunted Junction - Seitokai Badge o Oe! (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c15b361024f9f53bda8679f7893a92a",
+        "sha1": "fd41f3725731f5f83597b33d5baea41e2733f410",
+        "crc32": "beb66409"
+      }
+    },
+    {
+      "filename": "Haunted Junction - Seitokai Badge o Oe! (Japan).bin",
+      "filesize": 206218656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e3ea685378fd585f110b8f44345ed47",
+        "sha1": "18b3f1a41ccbee199234e3d9d4a0aa5bb98a22c2",
+        "crc32": "273daa38"
+      }
+    }
+  ]
+}

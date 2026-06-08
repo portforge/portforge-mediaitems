@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arcade Hits - Moon Cresta (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arcade Hits - Moon Cresta (Japan).cue",
+      "filesize": 490,
+      "ext": "cue",
+      "checksums": {
+        "md5": "22134c68ef1f88bbbbf10be17ddf7091",
+        "sha1": "8b9a99c87c1de919a28ff8d067a6a5dd097c5cd4",
+        "crc32": "a588449e"
+      }
+    },
+    {
+      "filename": "Arcade Hits - Moon Cresta (Japan) (Track 1).bin",
+      "filesize": 30002112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d324c788659ebdaedb2369029753310",
+        "sha1": "020c645313bb8470460373c5c828d4eb684dac00",
+        "crc32": "2abaf180"
+      }
+    },
+    {
+      "filename": "Arcade Hits - Moon Cresta (Japan) (Track 2).bin",
+      "filesize": 20601168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e93953ed97e57f755dfc23aad7fa4ebd",
+        "sha1": "975084274bf1a3090e6105ef3eab9c7112e8f03e",
+        "crc32": "b737f9e4"
+      }
+    },
+    {
+      "filename": "Arcade Hits - Moon Cresta (Japan) (Track 3).bin",
+      "filesize": 19469856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "488e3d7f69967fe686181f450b029b8b",
+        "sha1": "61cd70efff2b27aa83b7083f6d3c3822d71e9c44",
+        "crc32": "697cc3e2"
+      }
+    },
+    {
+      "filename": "Arcade Hits - Moon Cresta (Japan) (Track 4).bin",
+      "filesize": 35312928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82c75c9ed89b7b2f1946fa9f9fe8ea56",
+        "sha1": "8abdec198e9b90d2a46a2be42000873d987acc4a",
+        "crc32": "dd6c52cf"
+      }
+    }
+  ]
+}

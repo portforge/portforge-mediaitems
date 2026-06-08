@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MeltyLancer - Re-inforce (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MeltyLancer - Re-inforce (Japan) (Disc 1).cue",
+      "filesize": 387,
+      "ext": "cue",
+      "checksums": {
+        "md5": "542af4ab015eebce34ed92d2ea2b9a1f",
+        "sha1": "2463630b73f7019dc5bbac538717fcb368323786",
+        "crc32": "7fa0716d"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Re-inforce (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 516717936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2e4d643e8b842e64f70128f602800e4",
+        "sha1": "f76b2131811c38ee1705b1813ebd6ae21bcdc318",
+        "crc32": "15951b95"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Re-inforce (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 23463552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f05030ddac148051e16939b3fb707a8",
+        "sha1": "777f6f67d0a5857381b86a8bb3b28992e500e7cf",
+        "crc32": "c129272b"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Re-inforce (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 63518112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecbac3d7c68e481b14b151ec2431bfe4",
+        "sha1": "b5ab2ae112f3eae7b75457f91f909aa9ed10450f",
+        "crc32": "0291245d"
+      }
+    }
+  ]
+}

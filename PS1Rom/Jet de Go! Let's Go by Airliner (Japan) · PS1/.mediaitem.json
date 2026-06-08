@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jet de Go! Let's Go by Airliner (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jet de Go! Let's Go by Airliner (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9245fd47747555628696c4945d1e882a",
+        "sha1": "882f56a6ea1db80566701b88ec1dab88e3ca977a",
+        "crc32": "60458e30"
+      }
+    },
+    {
+      "filename": "Jet de Go! Let's Go by Airliner (Japan).bin",
+      "filesize": 740752992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6592f93e55c978a3fd2edb56480ae8f8",
+        "sha1": "cc75e646f8940bd2d595f84c72d51a09c7246ef7",
+        "crc32": "d75acae2"
+      }
+    }
+  ]
+}

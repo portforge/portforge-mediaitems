@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Junjou de Karen - Meymay Kishidan - Spectral Force Seishoujo Gaiden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Junjou de Karen - Meymay Kishidan - Spectral Force Seishoujo Gaiden (Japan).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f582630365c399e26a4d8d5d8fe1bf7",
+        "sha1": "0f17351008f059d3136403d22d1d1f0638e48f6f",
+        "crc32": "370df672"
+      }
+    },
+    {
+      "filename": "Junjou de Karen - Meymay Kishidan - Spectral Force Seishoujo Gaiden (Japan).bin",
+      "filesize": 713679120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3eb672960bce3ce10ef5135e084a1d9",
+        "sha1": "58a3e02b0ccfc4c5e3b6ffafebd61fb88ee31435",
+        "crc32": "29bd743b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "AirRace Championship (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "AirRace Championship (Japan).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e42b21f4ab56617688097e911b25fb64",
+        "sha1": "073fa73b6ad9ecd93341c4d61d508d75aa450636",
+        "crc32": "53fd7b94"
+      }
+    },
+    {
+      "filename": "AirRace Championship (Japan) (Track 1).bin",
+      "filesize": 582985536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e39df2396cf2f38158e044de972dfa4a",
+        "sha1": "c651e847f69edf2c4fbeb8a32577d27ce34e6077",
+        "crc32": "0b749aa9"
+      }
+    },
+    {
+      "filename": "AirRace Championship (Japan) (Track 2).bin",
+      "filesize": 2020368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "291ded87e676b1217d72ecd41334b1c7",
+        "sha1": "ba97d343824bf559953d1fc0a6c868aedcbe29d4",
+        "crc32": "2896211e"
+      }
+    }
+  ]
+}

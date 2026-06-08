@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Psychic Force (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Psychic Force (Europe).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00d316620e06cf2f7bba779dd8d81788",
+        "sha1": "dfb6d8245f712f3f86facc54cd519bde8a3854f9",
+        "crc32": "71b9c7ee"
+      }
+    },
+    {
+      "filename": "Psychic Force (Europe) (Track 1).bin",
+      "filesize": 533024352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa2b8537c4b808063866ce0054bbcf78",
+        "sha1": "8085c7328d51ff7b22ded13d30ecfb3c9ad2caed",
+        "crc32": "afc1a0c2"
+      }
+    },
+    {
+      "filename": "Psychic Force (Europe) (Track 2).bin",
+      "filesize": 63974400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a75a90ccc96f3f6b34b27ff691469b59",
+        "sha1": "5630a8044419696498632472676cd46e807c707b",
+        "crc32": "6a3b2171"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sammy Sosa Softball Slam (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sammy Sosa Softball Slam (USA).cue",
+      "filesize": 354,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f16a9fa9dc0f539d699aa04e356c1444",
+        "sha1": "55504eb8d7fc5948d265efcec598d909f276c7f3",
+        "crc32": "394a6d08"
+      }
+    },
+    {
+      "filename": "Sammy Sosa Softball Slam (USA) (Track 1).bin",
+      "filesize": 51139536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07ffa635aa38a1138baf96d6d48bb406",
+        "sha1": "eff54151bd89f37bd7a2a051c824f60e17855b44",
+        "crc32": "99aa79a7"
+      }
+    },
+    {
+      "filename": "Sammy Sosa Softball Slam (USA) (Track 2).bin",
+      "filesize": 24632496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "903eba588409a5892e30b34dff27e198",
+        "sha1": "5290b8055d74f35b7b5a7ee5286e22598ce6c931",
+        "crc32": "09b2ce65"
+      }
+    },
+    {
+      "filename": "Sammy Sosa Softball Slam (USA) (Track 3).bin",
+      "filesize": 35576352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bebab0a7170c06b2490debcc824569b",
+        "sha1": "6b9a6528d86f4d5ac4406ec84bc94cfebe7359d5",
+        "crc32": "522dc569"
+      }
+    }
+  ]
+}

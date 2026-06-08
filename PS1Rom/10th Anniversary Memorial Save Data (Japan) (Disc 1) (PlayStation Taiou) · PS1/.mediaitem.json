@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "10th Anniversary Memorial Save Data (Japan) (Disc 1) (PlayStation Taiou)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "10th Anniversary Memorial Save Data (Japan) (Disc 1) (PlayStation Taiou).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bc8ae34248c46ae78db00fc66ea87f2",
+        "sha1": "9c82b1220b15a59416be62d1c6e8dd37dadb42ad",
+        "crc32": "989f51ca"
+      }
+    },
+    {
+      "filename": "10th Anniversary Memorial Save Data (Japan) (Disc 1) (PlayStation Taiou).bin",
+      "filesize": 113110032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b670159d2b47801cf2f38b994cc67265",
+        "sha1": "5b208674754f2039b453322748591dcc49df3edb",
+        "crc32": "4e027125"
+      }
+    }
+  ]
+}

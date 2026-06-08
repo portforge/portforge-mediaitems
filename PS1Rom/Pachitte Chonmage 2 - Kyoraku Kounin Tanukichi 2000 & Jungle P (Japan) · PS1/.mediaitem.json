@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachitte Chonmage 2 - Kyoraku Kounin Tanukichi 2000 & Jungle P (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachitte Chonmage 2 - Kyoraku Kounin Tanukichi 2000 & Jungle P (Japan).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ccbfb5a7662703842ca0046203a9f51f",
+        "sha1": "5199d6f676b02d6279d5f7ff2e22245435810f93",
+        "crc32": "5aaee24b"
+      }
+    },
+    {
+      "filename": "Pachitte Chonmage 2 - Kyoraku Kounin Tanukichi 2000 & Jungle P (Japan).bin",
+      "filesize": 506072784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f89da710bd222934bfee5b892154e5ad",
+        "sha1": "d749814bfef4a6702d43809d0e5c3ef5d53a0e27",
+        "crc32": "05ce720c"
+      }
+    }
+  ]
+}

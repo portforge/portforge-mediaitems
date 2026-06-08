@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Japan, Asia) (Disc 1) (Ichi) (Premium Package)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Japan, Asia) (Disc 1) (Ichi) (Premium Package).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f82eceddc58a33a8941237f5d109274",
+        "sha1": "3ba3feed4098b931c544249ae19f257b642b6c13",
+        "crc32": "88dcf916"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Japan, Asia) (Disc 1) (Ichi) (Premium Package).bin",
+      "filesize": 710005296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3b48095ed5d2a81a51d2b8ccd2ef766",
+        "sha1": "dda0ab75bf4daac22f01b6892aa950585c24e90d",
+        "crc32": "0a293264"
+      }
+    }
+  ]
+}

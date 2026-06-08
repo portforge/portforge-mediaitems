@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Network Rings (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Network Rings (Japan).cue",
+      "filesize": 726,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17be15da39c3521920b265079f13810b",
+        "sha1": "727532fa2c0da4244db8db449fbb04bb4507997f",
+        "crc32": "69dc8bee"
+      }
+    },
+    {
+      "filename": "Fighting Network Rings (Japan) (Track 1).bin",
+      "filesize": 621003264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c0837f8d9defe177e7236de9041ac87",
+        "sha1": "4aef1a752090487655a38d437ba3ba2a10fe1a05",
+        "crc32": "381a6722"
+      }
+    },
+    {
+      "filename": "Fighting Network Rings (Japan) (Track 2).bin",
+      "filesize": 11774112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6893e83735c2d9f28fd784577b22a582",
+        "sha1": "9ed86f53da84e455f0b26f838895981ed2c4c501",
+        "crc32": "b9d7d685"
+      }
+    },
+    {
+      "filename": "Fighting Network Rings (Japan) (Track 3).bin",
+      "filesize": 8293152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "932bcefc4a313e7ee152963a5320345d",
+        "sha1": "515edcd8916f7f657aeee13b8356beafe89aadb3",
+        "crc32": "e5c39336"
+      }
+    },
+    {
+      "filename": "Fighting Network Rings (Japan) (Track 4).bin",
+      "filesize": 6032880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3c35e31dffccff9c5cd1547200b776d",
+        "sha1": "31870efb02d5dc1e7b61c76630a7ec515eeb1fac",
+        "crc32": "beba8f70"
+      }
+    },
+    {
+      "filename": "Fighting Network Rings (Japan) (Track 5).bin",
+      "filesize": 4235952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e49c9c7b693fc68182247eff726fdbb9",
+        "sha1": "722188d18355f952127ef9c1e537887fc7b4ad9a",
+        "crc32": "cde7e0d4"
+      }
+    },
+    {
+      "filename": "Fighting Network Rings (Japan) (Track 6).bin",
+      "filesize": 35352912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84098c475f4387d970ad6fe8649224dd",
+        "sha1": "864e158585104db47cbfe204086dde252157622c",
+        "crc32": "5b1ea5b5"
+      }
+    }
+  ]
+}

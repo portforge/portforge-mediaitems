@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "289b0e8449240be2f71cd0e7065cbbee",
+        "sha1": "0bad027748cc087dd0a0dd48817cd29438501e3d",
+        "crc32": "9e854f0d"
+      }
+    },
+    {
+      "filename": "Syphon Filter (Japan).bin",
+      "filesize": 724477152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b09202b594238bbd8b07dbd45fe30a8",
+        "sha1": "ad48cae4726f38ae12086ec2733875edf96f0585",
+        "crc32": "85f75b4c"
+      }
+    }
+  ]
+}

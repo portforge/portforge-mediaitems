@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Densha de Go! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Densha de Go! (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c3530657d8dd9a74d6b92049aaa283b2",
+        "sha1": "9d16a604553e8ea72f2550a57128f6c15a520050",
+        "crc32": "750db9ad"
+      }
+    },
+    {
+      "filename": "Densha de Go! (Japan).bin",
+      "filesize": 746141424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fc17c7f9ea1d6fc0f4ddae8733808e1",
+        "sha1": "bde19064a9cf496e29ba81be9fcb690dae4119d3",
+        "crc32": "8623d88a"
+      }
+    }
+  ]
+}

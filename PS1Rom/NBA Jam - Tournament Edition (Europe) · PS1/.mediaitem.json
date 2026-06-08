@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Jam - Tournament Edition (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe).cue",
+      "filesize": 1161,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ed88b188393ddcbec12b21f6b1a0128",
+        "sha1": "c63810a724d86a20ae1051f67603acb633f00fc6",
+        "crc32": "78cfc48f"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 1).bin",
+      "filesize": 166364016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aace0454736763a0137b737a3182f9b4",
+        "sha1": "f50615fe392d8470e651783884aae6b6a99d3180",
+        "crc32": "fb832c62"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 2).bin",
+      "filesize": 17393040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f02806871ddb874ed51493bb5c06382",
+        "sha1": "15403ef37d5d8426f8c1fcfdd3c836814e932f99",
+        "crc32": "d316f6c5"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 3).bin",
+      "filesize": 17454192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "473f25731b8a4d30399d447cf44b7eb4",
+        "sha1": "896f8bae0942111f3a0ed38e0eb5b6b49312f37e",
+        "crc32": "1535d061"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 4).bin",
+      "filesize": 14718816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d41bea0f81431ea747bbf5fa10cf6cdf",
+        "sha1": "4b5d0cb9445cc645246f098640e88d9608b01f41",
+        "crc32": "ef153a9e"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 5).bin",
+      "filesize": 16797984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a53ba60b214bd4f00ca2cf057e4039b",
+        "sha1": "21f5c6cff3b3a0dd04e028bb14d1eae9af002ee9",
+        "crc32": "d4d960d0"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 6).bin",
+      "filesize": 64642368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a97993a2d32397afde51e406349b4f3",
+        "sha1": "b82893cbdef514ba7590574f7b8b00746fcf6e6d",
+        "crc32": "4f41569a"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 7).bin",
+      "filesize": 62960688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c67768fbad0a4cf783b12aa482fdc827",
+        "sha1": "d602e10662d44161063b4b7c6ab589195051f27f",
+        "crc32": "233f5583"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 8).bin",
+      "filesize": 58595376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff07d50d1c9f2876f6258835197d9a0b",
+        "sha1": "8874a5c46722997a88e91e0c292d2491576b359d",
+        "crc32": "7665b527"
+      }
+    },
+    {
+      "filename": "NBA Jam - Tournament Edition (Europe) (Track 9).bin",
+      "filesize": 17393040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f02806871ddb874ed51493bb5c06382",
+        "sha1": "15403ef37d5d8426f8c1fcfdd3c836814e932f99",
+        "crc32": "d316f6c5"
+      }
+    }
+  ]
+}

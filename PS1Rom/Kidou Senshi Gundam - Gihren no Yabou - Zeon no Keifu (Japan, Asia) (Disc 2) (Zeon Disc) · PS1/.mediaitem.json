@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan, Asia) (Disc 2) (Zeon Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan, Asia) (Disc 2) (Zeon Disc).cue",
+      "filesize": 346,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b01ecef426299eb272f965e07af648b",
+        "sha1": "616082e3eed4dd1f4eb15496ad3e1782fe57cd06",
+        "crc32": "97dcfe0a"
+      }
+    },
+    {
+      "filename": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan, Asia) (Disc 2) (Zeon Disc) (Track 1).bin",
+      "filesize": 724806432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98b29b08369651861d83f615624c16b7",
+        "sha1": "f70bcacc26209556a61db03d727fa3165735a2aa",
+        "crc32": "b8b8145a"
+      }
+    },
+    {
+      "filename": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan, Asia) (Disc 2) (Zeon Disc) (Track 2).bin",
+      "filesize": 13159440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5d32509d544d4f653b9b06a74df32a1",
+        "sha1": "3b77fa905c3112c95b793a44b134274d30e366ca",
+        "crc32": "83fcba75"
+      }
+    }
+  ]
+}

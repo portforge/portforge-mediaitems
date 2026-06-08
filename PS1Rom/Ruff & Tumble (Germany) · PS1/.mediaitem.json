@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ruff & Tumble (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ruff & Tumble (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "446d313b4f3f88beba59b39c336088ce",
+        "sha1": "03f4bf075d6af9d1c0a4dd8de9e15a0e3558d52f",
+        "crc32": "58417dde"
+      }
+    },
+    {
+      "filename": "Ruff & Tumble (Germany).bin",
+      "filesize": 528988320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ed1a4666972fb933bb2df2d114d7244",
+        "sha1": "9224592bc671d7a6f6a7e919ed5267874e108fac",
+        "crc32": "99864bc3"
+      }
+    }
+  ]
+}

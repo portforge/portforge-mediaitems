@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heroine Dream (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heroine Dream (Japan).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b20c6fd1e34cfa89d6c9916f047e6cd8",
+        "sha1": "155fdedc18ea3b9955867cec5920546ef31e24d3",
+        "crc32": "12d26d93"
+      }
+    },
+    {
+      "filename": "Heroine Dream (Japan) (Track 1).bin",
+      "filesize": 371023296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff3a1abe6ae057af5f1e071a1389b0ff",
+        "sha1": "eebbddbbf5e9ad712455d18be917b7f9e1e06aa9",
+        "crc32": "807488b6"
+      }
+    },
+    {
+      "filename": "Heroine Dream (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

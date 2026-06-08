@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heiwa Parlor! Pro - Western Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heiwa Parlor! Pro - Western Special (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "02330126125554456972ac22b60e5eee",
+        "sha1": "95a7af4412daa9bc9667cf5c2bb704d43d900d40",
+        "crc32": "765404f8"
+      }
+    },
+    {
+      "filename": "Heiwa Parlor! Pro - Western Special (Japan).bin",
+      "filesize": 48286560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a21b9b08230c66f94ff3aefab987ee1b",
+        "sha1": "1fd0ed05b1da4c8f5370432e1b061f5bc8e616f9",
+        "crc32": "5364b747"
+      }
+    }
+  ]
+}

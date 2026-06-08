@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chill (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chill (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11f2a26e082ff54755932e0808b6680f",
+        "sha1": "be059f1cc550cf0be2d88a7f8ac6e9673b6af989",
+        "crc32": "d2cdbb4f"
+      }
+    },
+    {
+      "filename": "Chill (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 140790720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afd152b23c101e4a231f1875838483ef",
+        "sha1": "502c88b305f343a11097a23205f4e8df9bcbb573",
+        "crc32": "8f4038e0"
+      }
+    }
+  ]
+}

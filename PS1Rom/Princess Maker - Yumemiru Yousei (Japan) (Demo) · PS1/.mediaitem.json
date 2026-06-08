@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Princess Maker - Yumemiru Yousei (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Princess Maker - Yumemiru Yousei (Japan) (Demo).cue",
+      "filesize": 264,
+      "ext": "cue",
+      "checksums": {
+        "md5": "43eed1d3542348c8ea012e4403730a4a",
+        "sha1": "b55aec34c3063d590248d83e8075bbc6995738df",
+        "crc32": "09ce9314"
+      }
+    },
+    {
+      "filename": "Princess Maker - Yumemiru Yousei (Japan) (Demo) (Track 1).bin",
+      "filesize": 444626784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0e400317befbd08746aaa129c072da1",
+        "sha1": "36904899cf543b402b28e41cf1183397b042b544",
+        "crc32": "183e1f56"
+      }
+    },
+    {
+      "filename": "Princess Maker - Yumemiru Yousei (Japan) (Demo) (Track 2).bin",
+      "filesize": 44793840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09dd6a556287ede17ef474aa385c34fb",
+        "sha1": "20675499104d03930051f5fe4129730ab5ac79b1",
+        "crc32": "2a5d6389"
+      }
+    }
+  ]
+}

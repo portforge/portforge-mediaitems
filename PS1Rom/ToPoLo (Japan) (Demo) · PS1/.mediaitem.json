@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ToPoLo (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ToPoLo (Japan) (Demo).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5cd8c95585c8bfc7a307fd87a3ac5790",
+        "sha1": "5faacdb742877cb1de9cbb203d798dc114de1306",
+        "crc32": "c3dbd988"
+      }
+    },
+    {
+      "filename": "ToPoLo (Japan) (Demo) (Track 1).bin",
+      "filesize": 31015824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69dc0aad6cb9d55e5e50314d2a2698ac",
+        "sha1": "6beefce646a7c3427f48cf72d0cc6d0240c32247",
+        "crc32": "fb40ab10"
+      }
+    },
+    {
+      "filename": "ToPoLo (Japan) (Demo) (Track 2).bin",
+      "filesize": 33226704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "655238ca2bf0eb6ef05481bc5fdb518d",
+        "sha1": "9d42c806a972f1fb2605cbf4e02efdfe19bdb218",
+        "crc32": "bcd33b1a"
+      }
+    }
+  ]
+}

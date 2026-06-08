@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver 2 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver 2 (USA) (Disc 1).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cbe7741260f4a595c3aa2c757218bc8a",
+        "sha1": "e6700cc6d9065b30cf702955af7a41b79ac477ea",
+        "crc32": "b36abf30"
+      }
+    },
+    {
+      "filename": "Driver 2 (USA) (Disc 1).bin",
+      "filesize": 647265696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca374a6bc3b412aeef9671aaffd11814",
+        "sha1": "a31f11658b41411a412d5f8735b5d7fbfbaef5d7",
+        "crc32": "da799b3f"
+      }
+    }
+  ]
+}

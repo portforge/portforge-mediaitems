@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Les Razmoket - A la Recherche de Reptar (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Les Razmoket - A la Recherche de Reptar (France).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a826d821fd858bf5c6697d3fb9cbdebc",
+        "sha1": "c1e0b9a06b3d4bd846f74c1c4bc0e8629ebcaa52",
+        "crc32": "78b2ad90"
+      }
+    },
+    {
+      "filename": "Nickelodeon Les Razmoket - A la Recherche de Reptar (France).bin",
+      "filesize": 544499760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "080ba1658010e3789bc45265c143345b",
+        "sha1": "4bb8ac29abdf773ae3c10ac0590b5fe56d05bd49",
+        "crc32": "f7fac343"
+      }
+    }
+  ]
+}

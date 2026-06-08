@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chou Jiryoku Senshi Microman - Generation 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chou Jiryoku Senshi Microman - Generation 2000 (Japan).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e44eef3ba27f7da25106914d22e05a30",
+        "sha1": "e90e547308becc0e6c759223f78574a9eef4369b",
+        "crc32": "c51875bc"
+      }
+    },
+    {
+      "filename": "Chou Jiryoku Senshi Microman - Generation 2000 (Japan).bin",
+      "filesize": 669637920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7487b5223f49140abbb20e4f5cdd1e2",
+        "sha1": "e51addd0bb0900425f98d3a487ebff7777ba5ac0",
+        "crc32": "0b4f9b93"
+      }
+    }
+  ]
+}

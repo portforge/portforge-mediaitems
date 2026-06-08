@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Riot Stars (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Riot Stars (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a336d99d9c289a9200b71bb31a7cad0d",
+        "sha1": "7b5f0ef213dcc4b3b306bc6dc1c2a3afe3849f72",
+        "crc32": "ba3524e0"
+      }
+    },
+    {
+      "filename": "Riot Stars (Japan).bin",
+      "filesize": 151713408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4393f2330002608fa880d7782b2b8557",
+        "sha1": "aee23551db3d1f2c3f5a2e2cb6d21130ceb3ca67",
+        "crc32": "3be523a4"
+      }
+    }
+  ]
+}

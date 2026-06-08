@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dino Crisis (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dino Crisis (USA) (Demo).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7305fa1e320d25ed27773689299db516",
+        "sha1": "8cdfd5c04e7b71edf8383a10528e5c292442b34b",
+        "crc32": "af5ede50"
+      }
+    },
+    {
+      "filename": "Dino Crisis (USA) (Demo).bin",
+      "filesize": 27638352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5344138d4701dcbfcc23a5eab078965a",
+        "sha1": "c426d1edd161b328bce63de77e2a5176b4023e10",
+        "crc32": "a247c98b"
+      }
+    }
+  ]
+}

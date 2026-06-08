@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raiden Project (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raiden Project (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19930957ca8619b6519540e34f447085",
+        "sha1": "f72ec889823ee0f25706dc844a6097116241a694",
+        "crc32": "0d9e3230"
+      }
+    },
+    {
+      "filename": "Raiden Project (Japan).bin",
+      "filesize": 58007376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e2efb69cf66ac73aa9ec051d43160fa",
+        "sha1": "173f7580f69365419b69db08ec117483b9b9a01d",
+        "crc32": "88891062"
+      }
+    }
+  ]
+}

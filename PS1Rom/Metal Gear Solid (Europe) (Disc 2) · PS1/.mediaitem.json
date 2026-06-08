@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Europe) (Disc 2).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6cd61955f659cd013f808739270cb8b0",
+        "sha1": "51b6443e17cf87467dfa1f05a473e17256a1ef95",
+        "crc32": "19cf5ccd"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Europe) (Disc 2).bin",
+      "filesize": 718324320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68695af6a80a5f6549fde7280bbe9e32",
+        "sha1": "ed25f748e4419bf2c68a496185537b966a942e1d",
+        "crc32": "43e3b465"
+      }
+    }
+  ]
+}

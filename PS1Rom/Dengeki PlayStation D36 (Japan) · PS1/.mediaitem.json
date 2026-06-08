@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D36 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D36 (Japan).cue",
+      "filesize": 732,
+      "ext": "cue",
+      "checksums": {
+        "md5": "beba770f4ccd843d0ce1051d49003698",
+        "sha1": "f04cad2f8e7cb677de86c8fa4635c316b0a953f7",
+        "crc32": "d1a58331"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D36 (Japan) (Track 1).bin",
+      "filesize": 496751808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e00d38123c197aa93c7d401c43c8007a",
+        "sha1": "024efc0a4fea7735fcd0d8b1ec10299e5ce1f879",
+        "crc32": "a83abf5f"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D36 (Japan) (Track 2).bin",
+      "filesize": 17329536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ca3ffce89356f4c6c74fe9c8b736555",
+        "sha1": "c57701acddf7bb5043cb30fb74a0de4f02133b61",
+        "crc32": "1ff344aa"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D36 (Japan) (Track 3).bin",
+      "filesize": 19055904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c96c891350ccb9ab3d970c373842a53",
+        "sha1": "d0ac538fa3d8d269a67241ed857d2fdc22b4a966",
+        "crc32": "ca056384"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D36 (Japan) (Track 4).bin",
+      "filesize": 10976784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f11e6ff935d3a0de35216e417f96243b",
+        "sha1": "7da83a91cf67999e2ac74536f76909da725d2a76",
+        "crc32": "a85ee256"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D36 (Japan) (Track 5).bin",
+      "filesize": 18296208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7d6f21bcae7f896df3f19c8dd7a48b",
+        "sha1": "b1b02de746c0136224dac881f9c1eae1de1db5a8",
+        "crc32": "e2f0bbd8"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D36 (Japan) (Track 6).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

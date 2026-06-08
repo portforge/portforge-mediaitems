@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Floating Runner (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Floating Runner (Europe).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a62a37400e3a36d412f7f466dd8303c",
+        "sha1": "9294153d00d042043f6b33cfbc0d6abfac65f73c",
+        "crc32": "c4728bc9"
+      }
+    },
+    {
+      "filename": "Floating Runner (Europe) (Track 1).bin",
+      "filesize": 16144128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4da8231836744239c37905155001d41",
+        "sha1": "7e1ac51e8808883c74f5cc99ef29be58c2d31c5d",
+        "crc32": "a43df2e4"
+      }
+    },
+    {
+      "filename": "Floating Runner (Europe) (Track 2).bin",
+      "filesize": 567725760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1fdef581263a204804f2b27c9b973162",
+        "sha1": "9f52293a995a388b6d77250e6b18f639acbd15b5",
+        "crc32": "1af74876"
+      }
+    }
+  ]
+}

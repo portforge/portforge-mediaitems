@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Chronicles - Chrono Trigger (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Chronicles - Chrono Trigger (USA, Canada).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3aecd56cf36e3edf6119e4266e1990f7",
+        "sha1": "737145fc6e2261df5fbde703ea4b9fc586e9a229",
+        "crc32": "c8b35084"
+      }
+    },
+    {
+      "filename": "Final Fantasy Chronicles - Chrono Trigger (USA, Canada).bin",
+      "filesize": 547470336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f3e3d0d4ee8b7ed098dca7855a741ec",
+        "sha1": "7cc5ae691eeb92584d74db45be4d971bc6bb3366",
+        "crc32": "4ca66585"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL 98 (Europe) (En,Sv,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL 98 (Europe) (En,Sv,Fi).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e64f2b6392c560f95856e2aee14bf3b",
+        "sha1": "65ae4ebcbacadaee00a286dd344c4e15db410a8f",
+        "crc32": "f07757fe"
+      }
+    },
+    {
+      "filename": "NHL 98 (Europe) (En,Sv,Fi).bin",
+      "filesize": 672335664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f696d898cd3f7dd0ab3245d3bf81350",
+        "sha1": "91bda8ae17678fcdc54def7b432301d78b721321",
+        "crc32": "7e7e2834"
+      }
+    }
+  ]
+}

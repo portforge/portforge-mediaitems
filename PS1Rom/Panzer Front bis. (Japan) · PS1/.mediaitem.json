@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Panzer Front bis. (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Panzer Front bis. (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87445565037cfb4311f159c4fa74243f",
+        "sha1": "2f18204aacd28e2200342b04bb6ad564228a4dee",
+        "crc32": "2847034f"
+      }
+    },
+    {
+      "filename": "Panzer Front bis. (Japan).bin",
+      "filesize": 627273696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87b0a36f8d2863f4176c6c9691d3bc71",
+        "sha1": "c1a374586cc1766233631d7678fd034a1569243f",
+        "crc32": "0feee054"
+      }
+    }
+  ]
+}

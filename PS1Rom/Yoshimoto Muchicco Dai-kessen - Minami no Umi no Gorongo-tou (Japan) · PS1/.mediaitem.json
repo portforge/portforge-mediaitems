@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yoshimoto Muchicco Dai-kessen - Minami no Umi no Gorongo-tou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yoshimoto Muchicco Dai-kessen - Minami no Umi no Gorongo-tou (Japan).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa6751510f7dc657e4ec1d06617e8ac3",
+        "sha1": "70d9c2f5ace77c957d540b4af654153ef5d2411b",
+        "crc32": "82df7ded"
+      }
+    },
+    {
+      "filename": "Yoshimoto Muchicco Dai-kessen - Minami no Umi no Gorongo-tou (Japan).bin",
+      "filesize": 181031088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "652eaabf4a1d6f71bec050f6b045f558",
+        "sha1": "38df7b597a90c97731252bb78732eaf7e9ea9c05",
+        "crc32": "26c08729"
+      }
+    }
+  ]
+}

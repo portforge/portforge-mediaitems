@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Primera Division Stars (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Primera Division Stars (Spain).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8917784ee7036d039369dab77bd1b974",
+        "sha1": "131f4756b07ef487aba818432992c86f20fb65e8",
+        "crc32": "281730be"
+      }
+    },
+    {
+      "filename": "Primera Division Stars (Spain) (Track 1).bin",
+      "filesize": 422819040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9cccdd29240f8f1fe04e8797821e95c",
+        "sha1": "5fc713fa768cb7d1c0bfb2640bcd9407670f2843",
+        "crc32": "56a575b0"
+      }
+    },
+    {
+      "filename": "Primera Division Stars (Spain) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

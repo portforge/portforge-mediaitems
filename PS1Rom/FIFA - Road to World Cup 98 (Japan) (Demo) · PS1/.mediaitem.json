@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA - Road to World Cup 98 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA - Road to World Cup 98 (Japan) (Demo).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "97e75965ee113f03c1ef757b6848a6e1",
+        "sha1": "024c8f51788b414cc779b698f86253f474d3d5f3",
+        "crc32": "b10f19ea"
+      }
+    },
+    {
+      "filename": "FIFA - Road to World Cup 98 (Japan) (Demo).bin",
+      "filesize": 478855440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e8fe31d80f313336fe0d23530111e3d",
+        "sha1": "1616b1884293ad3da65b162bc694cec8cbc6619e",
+        "crc32": "d1fa1dab"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lunatic Dawn III (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lunatic Dawn III (Japan).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc5efba6cb24c4f80e0f34a48edea5df",
+        "sha1": "d24ae534c5171e61e4ebada16851c9af60f82a9a",
+        "crc32": "4b33782d"
+      }
+    },
+    {
+      "filename": "Lunatic Dawn III (Japan) (Track 1).bin",
+      "filesize": 283695888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a38d9cac0d8a68b6e3723dcdb95d3779",
+        "sha1": "13dc5820d39928eaccfc58269931af7c1c9ba9e3",
+        "crc32": "74493cbf"
+      }
+    },
+    {
+      "filename": "Lunatic Dawn III (Japan) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Twisted Metal III (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1).cue",
+      "filesize": 4644,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e78511ac0372093a3ec47a4e0e7357d4",
+        "sha1": "fd9cc7567958b07b247e81a7f78633715b427edb",
+        "crc32": "b1748dab"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 01).bin",
+      "filesize": 249751824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "290c067cbe3ecea770eb7685fe9e7454",
+        "sha1": "ced9543be09202d3fa28a6a6520a84d0ee256276",
+        "crc32": "1f403249"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 02).bin",
+      "filesize": 39149040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "863477b11a5529ce84c60242a6878f6c",
+        "sha1": "f2eea0c6a1d5fdbe58842846b7243c21e2ebe7a9",
+        "crc32": "859805fd"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 03).bin",
+      "filesize": 36806448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e47499250d3c46b7cc25e3b3c625d22",
+        "sha1": "54294d764f75a68167e39376b1aed9766504dce9",
+        "crc32": "b4206e8f"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 04).bin",
+      "filesize": 39835824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b49c36df2db52261c8eaa686d7c08882",
+        "sha1": "7438d70425386ca48770d4dbdfafa03913accac3",
+        "crc32": "8d74869a"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 05).bin",
+      "filesize": 31107552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b431c34ba29b5b02e6a1c153d729f23b",
+        "sha1": "420fafc02bb51ad12fb29fa3a15960244a482af9",
+        "crc32": "92daa1e1"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 06).bin",
+      "filesize": 35037744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26e47cdd08581aab57df31a757fdcc4f",
+        "sha1": "bb7c3b4778deb4e8aeb90ca68b82d0ad610d6199",
+        "crc32": "70dc9ddf"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 07).bin",
+      "filesize": 30693600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4792f86a8ae9226208ea71664167f46e",
+        "sha1": "c90b44ae5b251052ab4597cb84aaef1a9c125b92",
+        "crc32": "1eff9be8"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 08).bin",
+      "filesize": 33421920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9c7e090fe854d2bb19572f6ce4b362e",
+        "sha1": "070ce8bc2a4878814155075080aa27d94ea829ed",
+        "crc32": "96f03a49"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 09).bin",
+      "filesize": 34395648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ba554f80397cdcfc720786e453df90a",
+        "sha1": "51f94fa00d0e400879d8fa3b1d01ffae0b931d03",
+        "crc32": "b3d43d63"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 10).bin",
+      "filesize": 33565392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a58e35273d14251f0c4ea9b7e9625b4f",
+        "sha1": "2064f0d161b23ff4d14965bcce2118bcefe0011d",
+        "crc32": "137bbedc"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 11).bin",
+      "filesize": 2114448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d44fff7f10c57dfd0d839a64de1aa90",
+        "sha1": "7edae971c742458004dfbebc533c92e5ff1d4323",
+        "crc32": "31e10666"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 12).bin",
+      "filesize": 1585248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d3614654f978f2ee991b07637bfe697",
+        "sha1": "51fb39fecf77f006d31d9371ba8ff1db0a5ad298",
+        "crc32": "fd58629d"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 13).bin",
+      "filesize": 1867488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43c44f2c9260079e1f81ffb9a5b31da8",
+        "sha1": "dc6a104fbe1185d693084a4906ef6ad13e562721",
+        "crc32": "5151b29c"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 14).bin",
+      "filesize": 2697744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e2511d6d0792b91f2faac8d1026a8d6",
+        "sha1": "6caf74b6822274d3c5946f986d631416ff3ff256",
+        "crc32": "8600e05b"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 15).bin",
+      "filesize": 3335136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e022257df580c7f48059ed302d629d0c",
+        "sha1": "5dc08d700594c4622ec85f60947067db5c43e451",
+        "crc32": "79a48cf8"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 16).bin",
+      "filesize": 3690288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41b71f0636c99e486f8d68905a625805",
+        "sha1": "53ce8eaec5170aaeab25717e2326f29059f96996",
+        "crc32": "bf8f0b8e"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 17).bin",
+      "filesize": 3478608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d79a1df9e208662ffe9ef1b923429e99",
+        "sha1": "327fd65e9298abe4cb3ce5559aaad0ac8ea0612f",
+        "crc32": "0c64ccdc"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 18).bin",
+      "filesize": 3332784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bcc88c7c37c3023a0597ef74e79a6794",
+        "sha1": "56e141507e7ed8a081cc5b0a9c8872145852a573",
+        "crc32": "08c658d4"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 19).bin",
+      "filesize": 3892560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57094f0485b250955269305d259001e0",
+        "sha1": "a016871299dae23008facb9703b0206a94ade617",
+        "crc32": "afec1060"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 20).bin",
+      "filesize": 3130512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48f6bd1d293fafa72a3a6adbc0a7b142",
+        "sha1": "de4959d71ba2fff349dd86c1246b1c02e12975b1",
+        "crc32": "4ec397f5"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 21).bin",
+      "filesize": 3869040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73368d54ec976c54617ea1dcfa344c80",
+        "sha1": "1b48d391bf474c3fe9486b8b398e5c6cd120370c",
+        "crc32": "e97c619c"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 22).bin",
+      "filesize": 2824752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0162e93354c9c6351f596e58b4aab396",
+        "sha1": "ec9c2e9aef345e1549452ecaf666ecdcd9ebf6c2",
+        "crc32": "54110cfc"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 23).bin",
+      "filesize": 3090528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7fedcc680095041a01ee6e747cd123b",
+        "sha1": "89fd4fb4c8116d93a449ee1aad839467c09af0fb",
+        "crc32": "8ddb47e3"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 24).bin",
+      "filesize": 2747136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8cb5a74d2191b626efe7542372c6452",
+        "sha1": "88231a8b044998b0f7b77bef6dec2b9bcd7fff49",
+        "crc32": "f98d9d02"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 25).bin",
+      "filesize": 5073264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54a779118b465e1cd6ef70270aa3e825",
+        "sha1": "bee718631d0976372d92bd19cb78d50e3bbd4e10",
+        "crc32": "93b310ab"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 26).bin",
+      "filesize": 2702448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6eb68bd12a763d2f63502abfccf5051a",
+        "sha1": "ede93e09ad8df0edf9c68174293faa67e9dda06d",
+        "crc32": "83b5812d"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 27).bin",
+      "filesize": 3024672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91eead3f48e01a25ac50cc99b1fbe356",
+        "sha1": "5619d747484fbd582b5342871dc7d931afaad654",
+        "crc32": "95be5feb"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 28).bin",
+      "filesize": 2702448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6eb68bd12a763d2f63502abfccf5051a",
+        "sha1": "ede93e09ad8df0edf9c68174293faa67e9dda06d",
+        "crc32": "83b5812d"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 29).bin",
+      "filesize": 2702448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6eb68bd12a763d2f63502abfccf5051a",
+        "sha1": "ede93e09ad8df0edf9c68174293faa67e9dda06d",
+        "crc32": "83b5812d"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 30).bin",
+      "filesize": 3149328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b384be0783a829fcd03a47118ec9e8b",
+        "sha1": "1d4148a1ae7f0d837e38a6673ef57c3ada4d4058",
+        "crc32": "8fb01461"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 31).bin",
+      "filesize": 3480960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5993cf25458cbb2fdc12ae26f0134ce",
+        "sha1": "4bdd4c286d656dfec6cbb8e931f19ae523116feb",
+        "crc32": "208f9e4e"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 32).bin",
+      "filesize": 2991744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48dc2d0bc86cd105711bfd5d3ff629a0",
+        "sha1": "36c84190dd5e6a3862942b41cad802c6f60c88ed",
+        "crc32": "02a549bd"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 33).bin",
+      "filesize": 2121504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30dde2007bd1a5328db4c365f82768b7",
+        "sha1": "9b0394cf329b6b80a07c0d0ae7061a3fbe2daddf",
+        "crc32": "c469e473"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 34).bin",
+      "filesize": 3389232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f92de8380a1ecb79b26665be0f3e358",
+        "sha1": "9b658cd9e5d63f2f3bf632d3d2ec893a10e58d6d",
+        "crc32": "ce1015ea"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 35).bin",
+      "filesize": 2918832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc3aecc57d2e24c5066d4ceb8f02010a",
+        "sha1": "4fbca41868f1b4aabefb1fe03c441ed32ee558a9",
+        "crc32": "74b3370a"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 36).bin",
+      "filesize": 3398640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a75ed087a070e71820d317bf5c4b5ba",
+        "sha1": "90a3c647a9eb36f360498637f5d723a7b25242bb",
+        "crc32": "d7ffc0a5"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Rev 1) (Track 37).bin",
+      "filesize": 2979984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa5249955f5a61569f2069d2075a414b",
+        "sha1": "b75972810d2d9c2ab36fa15b15a37b49ea8ee29e",
+        "crc32": "63c8dd55"
+      }
+    }
+  ]
+}

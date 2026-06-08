@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R4 - Ridge Racer Type 4 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R4 - Ridge Racer Type 4 (Japan, Asia).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdc92787eddf848669386d138da8a0fa",
+        "sha1": "e18013c75369228456db3467dd9693d5b43f14e9",
+        "crc32": "ebc644dd"
+      }
+    },
+    {
+      "filename": "R4 - Ridge Racer Type 4 (Japan, Asia).bin",
+      "filesize": 622452096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "185760b2d69d4b3ee4b8504bd2f23a08",
+        "sha1": "1461372a8220e7838346411995c14de54526bd63",
+        "crc32": "ee6a81be"
+      }
+    }
+  ]
+}

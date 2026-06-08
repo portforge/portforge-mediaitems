@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kamen Rider Kuuga (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kamen Rider Kuuga (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "65319d239f26a132ad2864cb92bbd6c7",
+        "sha1": "f08eb44bcddacb81ac084ad55f2a6b726179a741",
+        "crc32": "6544965a"
+      }
+    },
+    {
+      "filename": "Kamen Rider Kuuga (Japan).bin",
+      "filesize": 228609696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c47bb57d473ef3d5d703c426b60dd080",
+        "sha1": "785720027e0012262351ea400190835f4141ca44",
+        "crc32": "f7e9253e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saban's Power Rangers - Time Force (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saban's Power Rangers - Time Force (Europe).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "869eb7740bce79c2ba9be28d6c75986c",
+        "sha1": "303bb3156e1b064ef890a13107ee563ada8f6550",
+        "crc32": "a4952d47"
+      }
+    },
+    {
+      "filename": "Saban's Power Rangers - Time Force (Europe).bin",
+      "filesize": 320309472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec89f7648c473a74573946c827e32978",
+        "sha1": "090b2526ec18bd89e80343a8e18f40e60833a5c8",
+        "crc32": "3ddb73d0"
+      }
+    }
+  ]
+}

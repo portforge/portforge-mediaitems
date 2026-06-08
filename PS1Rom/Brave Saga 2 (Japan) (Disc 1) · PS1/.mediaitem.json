@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Brave Saga 2 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Brave Saga 2 (Japan) (Disc 1).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "856c474ae23ffa7f39fd55d0fc678caa",
+        "sha1": "315bf8466910b82ad2e2e9eb16914b1e012eab1d",
+        "crc32": "078000ed"
+      }
+    },
+    {
+      "filename": "Brave Saga 2 (Japan) (Disc 1).bin",
+      "filesize": 748655712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0884bed80b63dbe8bd17ef76c7b7eb6",
+        "sha1": "cdb1214374ee70fd9caf4818409e50122779708f",
+        "crc32": "a9af9d4e"
+      }
+    }
+  ]
+}

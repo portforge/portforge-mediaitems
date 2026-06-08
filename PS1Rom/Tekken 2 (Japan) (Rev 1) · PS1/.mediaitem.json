@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tekken 2 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tekken 2 (Japan) (Rev 1).cue",
+      "filesize": 336,
+      "ext": "cue",
+      "checksums": {
+        "md5": "852856a3377e67387428441ad6ab55a2",
+        "sha1": "73cab486e40d3b11d85fbd4ef08a2747dc39a9dd",
+        "crc32": "3e96c4f4"
+      }
+    },
+    {
+      "filename": "Tekken 2 (Japan) (Rev 1) (Track 1).bin",
+      "filesize": 717870384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea2182652787b7b2e964d16f866d912c",
+        "sha1": "fa5de982cb56e66f229f451c570ac242a1d69e85",
+        "crc32": "0e1fad04"
+      }
+    },
+    {
+      "filename": "Tekken 2 (Japan) (Rev 1) (Track 2).bin",
+      "filesize": 26554080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f64359d59fa921a68dea3300bd54ac2",
+        "sha1": "5faad8d827cc9390dc097e75822e23c2f4953364",
+        "crc32": "9a0d6a04"
+      }
+    },
+    {
+      "filename": "Tekken 2 (Japan) (Rev 1) (Track 3).bin",
+      "filesize": 6350400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "131bb82eb1ba56b4991091f1717770a2",
+        "sha1": "47eb5ef6093e80099f710b7e221b461ca3ab3c26",
+        "crc32": "d387cac5"
+      }
+    }
+  ]
+}

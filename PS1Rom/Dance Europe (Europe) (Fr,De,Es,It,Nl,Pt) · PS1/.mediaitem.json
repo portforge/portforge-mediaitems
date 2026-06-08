@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dance Europe (Europe) (Fr,De,Es,It,Nl,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dance Europe (Europe) (Fr,De,Es,It,Nl,Pt).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "84370c5c00548b8ca1d5d059402e09cf",
+        "sha1": "4c75b99e58d6fd655a4061f0cc9eebb53f665dfa",
+        "crc32": "2a74c9c9"
+      }
+    },
+    {
+      "filename": "Dance Europe (Europe) (Fr,De,Es,It,Nl,Pt).bin",
+      "filesize": 247286928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce65bdb06386e26a4fe67528e1513a5a",
+        "sha1": "89930d3d19bb840ad32192dae89f04a4c3f49107",
+        "crc32": "e905f025"
+      }
+    }
+  ]
+}

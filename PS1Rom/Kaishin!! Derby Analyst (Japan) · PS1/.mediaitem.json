@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kaishin!! Derby Analyst (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kaishin!! Derby Analyst (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6519df5211edd9c6f118e05012d8ecbf",
+        "sha1": "830df187b8b0b338a6d659e59436d6b9f77898a3",
+        "crc32": "d139baba"
+      }
+    },
+    {
+      "filename": "Kaishin!! Derby Analyst (Japan).bin",
+      "filesize": 50473920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff4dcd287586b7a5fa4093d2189b4cd1",
+        "sha1": "eae5e727d1c0721e00bc39473bfaebc60e5b39ff",
+        "crc32": "5e08d2d7"
+      }
+    }
+  ]
+}

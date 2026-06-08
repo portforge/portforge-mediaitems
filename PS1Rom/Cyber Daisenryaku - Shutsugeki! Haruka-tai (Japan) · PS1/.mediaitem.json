@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cyber Daisenryaku - Shutsugeki! Haruka-tai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cyber Daisenryaku - Shutsugeki! Haruka-tai (Japan).cue",
+      "filesize": 702,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a4b6a9caec6c1f5c6811d0756810bc70",
+        "sha1": "63fc28ae2609c886f93b0ea62c475b3d6d2260b4",
+        "crc32": "656b3e19"
+      }
+    },
+    {
+      "filename": "Cyber Daisenryaku - Shutsugeki! Haruka-tai (Japan) (Track 1).bin",
+      "filesize": 102876480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5f6d64b4ca58560047c99d6e987f5f5",
+        "sha1": "e0dacbac4b638bdf31d24789d7f7ba13465acc91",
+        "crc32": "0a93123a"
+      }
+    },
+    {
+      "filename": "Cyber Daisenryaku - Shutsugeki! Haruka-tai (Japan) (Track 2).bin",
+      "filesize": 4520544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9eebba5353b82b33db93e90285b86747",
+        "sha1": "d4aa3bc0043ca3c4d034a927b1421c4b5eafc818",
+        "crc32": "d609c4b9"
+      }
+    },
+    {
+      "filename": "Cyber Daisenryaku - Shutsugeki! Haruka-tai (Japan) (Track 3).bin",
+      "filesize": 3988992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ca6a3aa830aec2aa1293c8be271efec",
+        "sha1": "fa202cfc043a4dac4b8a240d39ec52313feeb69d",
+        "crc32": "ed6ed6df"
+      }
+    },
+    {
+      "filename": "Cyber Daisenryaku - Shutsugeki! Haruka-tai (Japan) (Track 4).bin",
+      "filesize": 13309968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4eb47983460c3c639c5715a20ff9317a",
+        "sha1": "f2acee4f19111c545e3fd058a8f1508938091555",
+        "crc32": "9d506b7f"
+      }
+    },
+    {
+      "filename": "Cyber Daisenryaku - Shutsugeki! Haruka-tai (Japan) (Track 5).bin",
+      "filesize": 17070816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b3696136f5f741d85a0843440fb6a3c",
+        "sha1": "b2e0c53f2b4288c6af96bda0ec7cb5893d473b59",
+        "crc32": "f583feb5"
+      }
+    }
+  ]
+}

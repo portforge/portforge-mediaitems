@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yuukyuu Gensoukyoku 2nd Album (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yuukyuu Gensoukyoku 2nd Album (Japan) (Demo).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f451ba5808dae251d83e97643181f9b7",
+        "sha1": "2999f0672dde42c7d2d04354d50c1150a112dde1",
+        "crc32": "73ce31d6"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku 2nd Album (Japan) (Demo) (Track 1).bin",
+      "filesize": 47336352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f463ae217cfd72273da8958d99674a2",
+        "sha1": "2457da690b2a2100ea2a9ee08ef063cadf168c70",
+        "crc32": "37ca6cf9"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku 2nd Album (Japan) (Demo) (Track 2).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76d1247ace938d4021595fdcd4e4dd5d",
+        "sha1": "c9562a235770504f552b002f383c523983e7c0cd",
+        "crc32": "8123e8fd"
+      }
+    }
+  ]
+}

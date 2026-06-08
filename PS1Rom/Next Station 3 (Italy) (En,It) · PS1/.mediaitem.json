@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next Station 3 (Italy) (En,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next Station 3 (Italy) (En,It).cue",
+      "filesize": 478,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6539965ee2193e4579c608313f6e365",
+        "sha1": "f41bf3a6cc9f8686f3df6101d850efa24825e046",
+        "crc32": "32103a1f"
+      }
+    },
+    {
+      "filename": "Next Station 3 (Italy) (En,It) (Track 1).bin",
+      "filesize": 390286176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a3de1880f628c825d1d2abeccc987eb",
+        "sha1": "ca81c98bc1c464c689488769cab2a98aee3ab6ee",
+        "crc32": "4d644aef"
+      }
+    },
+    {
+      "filename": "Next Station 3 (Italy) (En,It) (Track 2).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65eafe17ec28120c0ebddb0d845981ee",
+        "sha1": "743c2ec1035a628488a955c30953c33a059d95d2",
+        "crc32": "85a4fa1e"
+      }
+    },
+    {
+      "filename": "Next Station 3 (Italy) (En,It) (Track 3).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b61b691d53d812e03d68fed4e5325ae",
+        "sha1": "cfdb85c477cf30b79b45f8345c6fee79eb7f5d2d",
+        "crc32": "18d271d3"
+      }
+    },
+    {
+      "filename": "Next Station 3 (Italy) (En,It) (Track 4).bin",
+      "filesize": 40854240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "371464fb919c3f7acc365feae85a2537",
+        "sha1": "81549fe78d96e04a0072d32410ba9d7845f340e3",
+        "crc32": "8c1984dc"
+      }
+    }
+  ]
+}

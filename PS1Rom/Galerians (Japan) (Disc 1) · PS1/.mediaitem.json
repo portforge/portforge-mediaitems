@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (Japan) (Disc 1).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d64c1124adec890d5a177b2811d5cbe7",
+        "sha1": "5217d609f9efb79393e683560509712207423616",
+        "crc32": "d6661c92"
+      }
+    },
+    {
+      "filename": "Galerians (Japan) (Disc 1).bin",
+      "filesize": 693555408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c381a8a17bc73cc7ea8dfa75498a594",
+        "sha1": "0bd816be6c702a3afeef88d71d902504332a319d",
+        "crc32": "331818c5"
+      }
+    }
+  ]
+}

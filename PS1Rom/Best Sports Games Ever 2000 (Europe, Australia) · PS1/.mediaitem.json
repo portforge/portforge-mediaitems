@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Best Sports Games Ever 2000 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Best Sports Games Ever 2000 (Europe, Australia).cue",
+      "filesize": 405,
+      "ext": "cue",
+      "checksums": {
+        "md5": "70b7e500f533796a2cf80d9aa671bb28",
+        "sha1": "dd4ff628c64f53e97457eeb9df6201583ca0d6b8",
+        "crc32": "5e3d1b94"
+      }
+    },
+    {
+      "filename": "Best Sports Games Ever 2000 (Europe, Australia) (Track 1).bin",
+      "filesize": 385121184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c81893fcccd6004673d57591dab09a27",
+        "sha1": "9134553e658825fce80d449ee1b766857228dc2b",
+        "crc32": "093eb1aa"
+      }
+    },
+    {
+      "filename": "Best Sports Games Ever 2000 (Europe, Australia) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    },
+    {
+      "filename": "Best Sports Games Ever 2000 (Europe, Australia) (Track 3).bin",
+      "filesize": 32358816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cd52690e295db3d664acbf8bc12ed36",
+        "sha1": "bfd65a36657368a613b176cb952c3f73340c2698",
+        "crc32": "f950e78e"
+      }
+    }
+  ]
+}

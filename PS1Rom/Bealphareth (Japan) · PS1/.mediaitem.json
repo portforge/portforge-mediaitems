@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bealphareth (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bealphareth (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e58a08b8b6c0e00365e5945d05f5dd8e",
+        "sha1": "08300d2c7323aa031b0e763cfddd4a2f08b35775",
+        "crc32": "69459bf8"
+      }
+    },
+    {
+      "filename": "Bealphareth (Japan).bin",
+      "filesize": 706733664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea74175cdd49ccfb1fa44a38fef2f1d7",
+        "sha1": "81c2845c671f57f8937748b39ba809ac2c050aaa",
+        "crc32": "5bdf9406"
+      }
+    }
+  ]
+}

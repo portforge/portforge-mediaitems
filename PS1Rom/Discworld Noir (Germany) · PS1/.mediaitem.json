@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Discworld Noir (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Discworld Noir (Germany).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "32fc79b574fffa7a97d15e0c49ef8a50",
+        "sha1": "708361cd5d035d3e8a91c9777e02197c2d0f553e",
+        "crc32": "edafea1b"
+      }
+    },
+    {
+      "filename": "Discworld Noir (Germany).bin",
+      "filesize": 692732208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b937d7b1fcc621bd5f7d054796af4654",
+        "sha1": "8edf9c93a02b399765830f6d271760b4758807d3",
+        "crc32": "106a7f51"
+      }
+    }
+  ]
+}

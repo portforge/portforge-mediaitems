@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Invaders (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Invaders (Europe).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0ac5ff07d3a81f000191efd71756fdb0",
+        "sha1": "b69f359d05ac36988820edc6fa774a9d72162a09",
+        "crc32": "bc4d3a96"
+      }
+    },
+    {
+      "filename": "Space Invaders (Europe) (Track 1).bin",
+      "filesize": 170665824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c4bc5fc1e9e34ff28f294f3634c93db",
+        "sha1": "c2214faeae87ace78a179532e05526df0435c275",
+        "crc32": "ad94e1dd"
+      }
+    },
+    {
+      "filename": "Space Invaders (Europe) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0bcda18a061e585c3ddf7dbc45bd887",
+        "sha1": "aca5f81a73812e4e5f786edace39376fcc1be4b8",
+        "crc32": "82befabf"
+      }
+    }
+  ]
+}

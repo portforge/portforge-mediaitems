@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Delta Force Urban Warfare (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Delta Force Urban Warfare (France).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0baaf537daee5e95a6f61232563003d8",
+        "sha1": "069dde99693296de4f36d5f04807dc025049a0b1",
+        "crc32": "b7390bc3"
+      }
+    },
+    {
+      "filename": "Delta Force Urban Warfare (France).bin",
+      "filesize": 274607760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dca22cf811fd051adee3b5e23bcc4274",
+        "sha1": "c7c5ea86c1d539daff6c4fd34c52014ed6c77bcc",
+        "crc32": "fe8931be"
+      }
+    }
+  ]
+}

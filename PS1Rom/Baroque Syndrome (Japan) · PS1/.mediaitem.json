@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Baroque Syndrome (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Baroque Syndrome (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e5256194dca376c3437302730747408e",
+        "sha1": "0db72af9c30d9210e5c1014e45adc7f3eb89c93c",
+        "crc32": "336ebdbb"
+      }
+    },
+    {
+      "filename": "Baroque Syndrome (Japan).bin",
+      "filesize": 556572576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95b5b7b1d8940af2adad7d453809bc0d",
+        "sha1": "9c7cc61f95a588cc47af66f7f7599fc8025838fb",
+        "crc32": "62a058b3"
+      }
+    }
+  ]
+}

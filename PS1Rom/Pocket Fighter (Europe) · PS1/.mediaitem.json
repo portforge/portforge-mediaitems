@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pocket Fighter (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pocket Fighter (Europe).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "414a47e0e2ffef27fb2ba6f7ff8a0005",
+        "sha1": "30a2c40ddfe61a41191b3c82d352c1f3a234523c",
+        "crc32": "c8f9b601"
+      }
+    },
+    {
+      "filename": "Pocket Fighter (Europe) (Track 1).bin",
+      "filesize": 228567360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22ff92e9bdc34087af5e23f61b27ccdd",
+        "sha1": "157193dadb1e0ea81a05223ad945c8b02aa02f30",
+        "crc32": "5aa0db92"
+      }
+    },
+    {
+      "filename": "Pocket Fighter (Europe) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

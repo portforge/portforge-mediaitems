@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Adventures of Lara Croft (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (USA) (Rev 1).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2e3151ee76ed150d444052adbfad67d7",
+        "sha1": "85a2d429cdc8b48747d6ef425673ecbaefc4709f",
+        "crc32": "5bb81f5c"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (USA) (Rev 1).bin",
+      "filesize": 742514640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abf6c68a0366c6935a40f6ece60c1a6e",
+        "sha1": "de878334e0acda8fcf02545c4f4f6be2c10b9f48",
+        "crc32": "fc338fb9"
+      }
+    }
+  ]
+}

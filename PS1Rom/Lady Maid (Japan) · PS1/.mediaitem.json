@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lady Maid (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lady Maid (Japan).cue",
+      "filesize": 426,
+      "ext": "cue",
+      "checksums": {
+        "md5": "523690e330aeb02b3804a6b647f582c2",
+        "sha1": "162a09ce3f7f62007ffbb6f758ac7282da04c73b",
+        "crc32": "86bf39d0"
+      }
+    },
+    {
+      "filename": "Lady Maid (Japan) (Track 1).bin",
+      "filesize": 507865008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "328bac38fdf2eb0de5adb4a426620861",
+        "sha1": "6981e7a6ede408304da1ad8ce1e2aa3fdf729cf5",
+        "crc32": "9f0e84bf"
+      }
+    },
+    {
+      "filename": "Lady Maid (Japan) (Track 2).bin",
+      "filesize": 16214688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f34f12a9f445869342918787402a9ee",
+        "sha1": "8b1fdca69f54121dcbce5da4c1d8def7fb5018b8",
+        "crc32": "bb056ea2"
+      }
+    },
+    {
+      "filename": "Lady Maid (Japan) (Track 3).bin",
+      "filesize": 29075424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60dffe09e8514fbc5c5d1fc228cf499a",
+        "sha1": "3d7b8160044010444bf5b21e4cea5e2baf21984e",
+        "crc32": "fc21884e"
+      }
+    },
+    {
+      "filename": "Lady Maid (Japan) (Track 4).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

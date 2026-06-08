@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bishi Bashi Special 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bishi Bashi Special 2 (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cd6db44e90e69ac0598f9b8211d72f09",
+        "sha1": "854c1b3bffd9a89b1c14b2e37899f80b7aee1d51",
+        "crc32": "31a5dae6"
+      }
+    },
+    {
+      "filename": "Bishi Bashi Special 2 (Japan).bin",
+      "filesize": 241089408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e5914c689437756e7f9b7d95b368bb9",
+        "sha1": "1fe2e7af7983cfd2605eca2e3043f7ab708047d7",
+        "crc32": "17116d30"
+      }
+    }
+  ]
+}

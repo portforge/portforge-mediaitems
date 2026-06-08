@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pilot ni Narou! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pilot ni Narou! (Japan).cue",
+      "filesize": 450,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0cbf87876bc7c7b7e8a9632079a5ad79",
+        "sha1": "850e3594d2b5d7fdd752b99b60dc29220d61d1f3",
+        "crc32": "77491774"
+      }
+    },
+    {
+      "filename": "Pilot ni Narou! (Japan) (Track 1).bin",
+      "filesize": 68626656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4513bc4d6a5c90612fe681d5f7c12d28",
+        "sha1": "db3689e3d93299df5e7a9c49cc290cb94d3aba23",
+        "crc32": "c72a9d48"
+      }
+    },
+    {
+      "filename": "Pilot ni Narou! (Japan) (Track 2).bin",
+      "filesize": 6032880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed6b0d865b3f13bcf64c88d92c96e8ab",
+        "sha1": "f51fef09ee129e6df6dce68814607a9b0938da1c",
+        "crc32": "cf0c5075"
+      }
+    },
+    {
+      "filename": "Pilot ni Narou! (Japan) (Track 3).bin",
+      "filesize": 38523408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f755ecb2ef81ab4f23a8e4e658c00918",
+        "sha1": "e22b2a88b686bacb09cb48c3269ef6ad3169fc82",
+        "crc32": "5ed3c2e4"
+      }
+    },
+    {
+      "filename": "Pilot ni Narou! (Japan) (Track 4).bin",
+      "filesize": 37218048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a239dd0afb00b2ce214c64f306a5333f",
+        "sha1": "c2af7bebba8e18a963c432a16fbb1a2501257db7",
+        "crc32": "ef40c368"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Magical Music - Eigo de One, Two, Three! (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Magical Music - Eigo de One, Two, Three! (Japan) (En,Ja).cue",
+      "filesize": 137,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9146d108f33afbc80c67c34b4ff4e957",
+        "sha1": "67dd485cec4fa6d7f54c218282b09211cbaa5496",
+        "crc32": "ccd530f8"
+      }
+    },
+    {
+      "filename": "Kids Station - Magical Music - Eigo de One, Two, Three! (Japan) (En,Ja).bin",
+      "filesize": 584180352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c0142614d8561f6a4d2afb4e83cbee9",
+        "sha1": "47c8c637a0694e8bdb0e1c5b92c084183e0aa732",
+        "crc32": "a33c05bc"
+      }
+    }
+  ]
+}

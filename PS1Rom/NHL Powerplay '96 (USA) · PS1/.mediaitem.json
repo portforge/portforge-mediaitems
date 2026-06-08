@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Powerplay '96 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Powerplay '96 (USA).cue",
+      "filesize": 333,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cde2e7c074c4a8cedefbcf480d9353f0",
+        "sha1": "6d59e176e8385e4cf5cc8900fc1705dff1198d06",
+        "crc32": "d9b464f7"
+      }
+    },
+    {
+      "filename": "NHL Powerplay '96 (USA) (Track 1).bin",
+      "filesize": 197321040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96afa43d8bddaa4afe5d64db603ad4d4",
+        "sha1": "9922ec1163aad85e777c5b235a48d49f6613cc07",
+        "crc32": "4a409964"
+      }
+    },
+    {
+      "filename": "NHL Powerplay '96 (USA) (Track 2).bin",
+      "filesize": 15450288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91b7986a8cb8913fcdda314198888759",
+        "sha1": "2295ac2a20649f4b78a00ca15152ab6b4a16acbb",
+        "crc32": "0eab09e0"
+      }
+    },
+    {
+      "filename": "NHL Powerplay '96 (USA) (Track 3).bin",
+      "filesize": 25853184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a98a3df76003366255ebc1ef7844d0a",
+        "sha1": "2f55c01b852cbb6814b5ea521a73aa99e86aee9f",
+        "crc32": "b3b7d2ce"
+      }
+    }
+  ]
+}

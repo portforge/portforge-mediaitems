@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mikagura Shoujo Tanteidan (Japan) (Disc 2) (Honpen Disc Ni)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mikagura Shoujo Tanteidan (Japan) (Disc 2) (Honpen Disc Ni).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34d7adb8aa3f245c52ebd8fac54443d1",
+        "sha1": "011b5ed6175d957c22d19ea1aa5923cb32195fb7",
+        "crc32": "79e9c017"
+      }
+    },
+    {
+      "filename": "Mikagura Shoujo Tanteidan (Japan) (Disc 2) (Honpen Disc Ni).bin",
+      "filesize": 701133552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc9207cc782865cdeaecdbceb0a1745d",
+        "sha1": "15f9b55a4df84121c81272e5ce128550fe2ba48a",
+        "crc32": "0ca2ff8b"
+      }
+    }
+  ]
+}

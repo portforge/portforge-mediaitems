@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Retrouve la Magie Disney sur PlayStation (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Retrouve la Magie Disney sur PlayStation (France).cue",
+      "filesize": 411,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69730fbf82a6ec41e8527bbbce1a112a",
+        "sha1": "c425e3f01205c2e02eb1998556cb5d0b6a83c7fb",
+        "crc32": "68ffcd6f"
+      }
+    },
+    {
+      "filename": "Retrouve la Magie Disney sur PlayStation (France) (Track 1).bin",
+      "filesize": 219008832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a162d4cad329f68e96de79313dc73392",
+        "sha1": "d9359cf154438a031a96668f05415e894e7cd5c6",
+        "crc32": "affc35e0"
+      }
+    },
+    {
+      "filename": "Retrouve la Magie Disney sur PlayStation (France) (Track 2).bin",
+      "filesize": 11461296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d79b3e073544969a8d779cd041ff223",
+        "sha1": "4eaff099e6a3570bd13e32ea04efd326b4446462",
+        "crc32": "f4d7babf"
+      }
+    },
+    {
+      "filename": "Retrouve la Magie Disney sur PlayStation (France) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

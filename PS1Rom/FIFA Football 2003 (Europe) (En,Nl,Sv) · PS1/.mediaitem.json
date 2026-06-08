@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2003 (Europe) (En,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2003 (Europe) (En,Nl,Sv).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7c3ac2b3cfe9a92c2e7d5e10ecc8e24a",
+        "sha1": "72d56310dd320682ffa06ed1e4f331d4d66ae8aa",
+        "crc32": "c392fbd7"
+      }
+    },
+    {
+      "filename": "FIFA Football 2003 (Europe) (En,Nl,Sv).bin",
+      "filesize": 632699760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9be6e20d672833a76c35de1b1993fa35",
+        "sha1": "dc1c25155c235bcf0e7bbb53171ab9de86f3cce7",
+        "crc32": "e306bff6"
+      }
+    }
+  ]
+}

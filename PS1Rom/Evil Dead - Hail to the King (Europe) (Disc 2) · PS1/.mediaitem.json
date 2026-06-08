@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Evil Dead - Hail to the King (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Evil Dead - Hail to the King (Europe) (Disc 2).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3fcefa236a1534c54a1f8ee83164cf1",
+        "sha1": "e7d47ff982e1fb7690e63f965dba2df58266966f",
+        "crc32": "c7b62af9"
+      }
+    },
+    {
+      "filename": "Evil Dead - Hail to the King (Europe) (Disc 2).bin",
+      "filesize": 634343808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c292613ab14f92d9b321b3d41d7d0a06",
+        "sha1": "48e701d3ca0a81d56ef17694f3514135834bdaa5",
+        "crc32": "6575e112"
+      }
+    }
+  ]
+}

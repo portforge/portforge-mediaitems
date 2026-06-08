@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Knockout Kings 99 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Knockout Kings 99 (Europe).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78f6882742d14ae0449548877d3b0923",
+        "sha1": "c19671efcfaa12f637ad3305b38da1b4d9de4098",
+        "crc32": "3dbcfbbf"
+      }
+    },
+    {
+      "filename": "Knockout Kings 99 (Europe).bin",
+      "filesize": 300162240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "724a7286f50b04b8713f7f23a2643c74",
+        "sha1": "3a1f03f58cc6fb3bb6b4c40a4afc88d70d77423d",
+        "crc32": "ea46d881"
+      }
+    }
+  ]
+}

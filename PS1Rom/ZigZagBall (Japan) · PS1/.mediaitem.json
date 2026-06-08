@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ZigZagBall (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ZigZagBall (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "96548afcf4f8fc36efdb74f0d8158888",
+        "sha1": "493ed4117737978ad22c5ad03a95989f9b20fe2c",
+        "crc32": "036856f7"
+      }
+    },
+    {
+      "filename": "ZigZagBall (Japan).bin",
+      "filesize": 254766288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "342d3369f1c4027f99d1b6dcf699e615",
+        "sha1": "1b59ecd09d54a5da15d18ba57d9fa5d8013bd68b",
+        "crc32": "f2fb2b69"
+      }
+    }
+  ]
+}

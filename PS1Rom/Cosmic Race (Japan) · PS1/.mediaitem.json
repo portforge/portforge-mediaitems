@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cosmic Race (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cosmic Race (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "faf1df8f1b7ad37a87dbe3b8c31f6775",
+        "sha1": "c64c00ef9280217ab9f329b967764dc8fc80aaaf",
+        "crc32": "1c20b4ae"
+      }
+    },
+    {
+      "filename": "Cosmic Race (Japan).bin",
+      "filesize": 337561392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ebd5a9196886ecd33fe3ed91a17dd9d",
+        "sha1": "23c5c8460246f7845faa8115f9608ad1be87eee0",
+        "crc32": "cc26b1e3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Fighters '99, The (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Fighters '99, The (Japan, Asia).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6fccf2152933de182b1d2ae1a9681b65",
+        "sha1": "dcf051bfca87a3893013a4d74c7f8cbd8862246c",
+        "crc32": "b41fe6d1"
+      }
+    },
+    {
+      "filename": "King of Fighters '99, The (Japan, Asia) (Track 1).bin",
+      "filesize": 248928624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f92e5285a33f968278bb156a48cf6abe",
+        "sha1": "a4e5e1b51807c52f9a002a7d4c283cd4b805bde7",
+        "crc32": "b1904aa4"
+      }
+    },
+    {
+      "filename": "King of Fighters '99, The (Japan, Asia) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

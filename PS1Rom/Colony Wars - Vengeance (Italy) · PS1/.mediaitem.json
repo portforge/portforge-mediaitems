@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars - Vengeance (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars - Vengeance (Italy).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e33a69a259dd1aad6a949079286a4c9",
+        "sha1": "f5e10717e09010fc76c961ce1e57c4a838d9c20b",
+        "crc32": "7dfe837d"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (Italy) (Track 1).bin",
+      "filesize": 576846816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4310525a0c331e545672b0b45429ddf",
+        "sha1": "fae4469c85d505019dd0e7005c853e5abe534d3f",
+        "crc32": "42997762"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (Italy) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

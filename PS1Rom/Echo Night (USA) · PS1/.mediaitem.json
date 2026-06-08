@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Echo Night (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Echo Night (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8c55e6a67981be6b03c39438c83a6b9",
+        "sha1": "ea80fb27cd7f1186363e140a347c6b9b7e624352",
+        "crc32": "7d6565a5"
+      }
+    },
+    {
+      "filename": "Echo Night (USA).bin",
+      "filesize": 514427088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6b968d1037b7c8e3d8384f0dae188ba",
+        "sha1": "df1b14eb432285e453e3e7d7658dd54f3c3279f4",
+        "crc32": "2e977f97"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crime Killer (Germany) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crime Killer (Germany) (Demo).cue",
+      "filesize": 351,
+      "ext": "cue",
+      "checksums": {
+        "md5": "712a037f47e0e149e34b582965fa4e2c",
+        "sha1": "80f5d51564211f57386c8e0eb6c5fb401a0cbe56",
+        "crc32": "6ae5343d"
+      }
+    },
+    {
+      "filename": "Crime Killer (Germany) (Demo) (Track 1).bin",
+      "filesize": 128064048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e528e7bc91cbddceac82db7643452f",
+        "sha1": "bfeb31ebeb28c340a16bb9e8d3b04da869531fa8",
+        "crc32": "25acffd9"
+      }
+    },
+    {
+      "filename": "Crime Killer (Germany) (Demo) (Track 2).bin",
+      "filesize": 20779920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3d1889304b6a4ea1b38bbd1f10dba3e",
+        "sha1": "0fa537c0087c43b01e8ca66088dd45759df60289",
+        "crc32": "d52053eb"
+      }
+    },
+    {
+      "filename": "Crime Killer (Germany) (Demo) (Track 3).bin",
+      "filesize": 32859792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6fe42b2159bdb4135949f4b819bf55e",
+        "sha1": "3b1848737d6c34c0f0a7a34e714431eac1a25908",
+        "crc32": "77b28fa7"
+      }
+    }
+  ]
+}

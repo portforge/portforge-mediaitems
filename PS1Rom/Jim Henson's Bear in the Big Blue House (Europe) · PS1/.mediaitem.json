@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jim Henson's Bear in the Big Blue House (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jim Henson's Bear in the Big Blue House (Europe).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e85fe2457658a752800f07c87148893",
+        "sha1": "088ef0c8baf80eb4b2f8166cf000fa19f67e74dd",
+        "crc32": "e932d4b2"
+      }
+    },
+    {
+      "filename": "Jim Henson's Bear in the Big Blue House (Europe).bin",
+      "filesize": 469525056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a291f7238980da5c4d9070587f93c0b",
+        "sha1": "586eef8697c8e0f1ca5e5839d4e5f98cea3f7001",
+        "crc32": "bad965bd"
+      }
+    }
+  ]
+}

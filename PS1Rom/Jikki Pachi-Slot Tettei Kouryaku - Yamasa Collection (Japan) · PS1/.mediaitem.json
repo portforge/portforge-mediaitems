@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikki Pachi-Slot Tettei Kouryaku - Yamasa Collection (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikki Pachi-Slot Tettei Kouryaku - Yamasa Collection (Japan).cue",
+      "filesize": 598,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cb5840b0f2528c0834fff7a191141ae8",
+        "sha1": "99fed04e010b5569633ccb5fc0ea146c19758137",
+        "crc32": "d608b5bf"
+      }
+    },
+    {
+      "filename": "Jikki Pachi-Slot Tettei Kouryaku - Yamasa Collection (Japan) (Track 1).bin",
+      "filesize": 12011664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b552f5c95ea46d135d941afc225c62df",
+        "sha1": "19e737e9c43b77d5f20438a19667fb7e61182f11",
+        "crc32": "d107b1eb"
+      }
+    },
+    {
+      "filename": "Jikki Pachi-Slot Tettei Kouryaku - Yamasa Collection (Japan) (Track 2).bin",
+      "filesize": 8653008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53604a2fd7d3d9e08fbe571f171b8002",
+        "sha1": "b456266a2af18bfd869850192fbf36f169833b56",
+        "crc32": "ce84b1b0"
+      }
+    },
+    {
+      "filename": "Jikki Pachi-Slot Tettei Kouryaku - Yamasa Collection (Japan) (Track 3).bin",
+      "filesize": 8643600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb80246f12feada3d9b1026647d06ad4",
+        "sha1": "91c632a9f4f0e69309fdc5bfd2318b4c09618cb3",
+        "crc32": "b81983eb"
+      }
+    },
+    {
+      "filename": "Jikki Pachi-Slot Tettei Kouryaku - Yamasa Collection (Japan) (Track 4).bin",
+      "filesize": 40176864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b32308405e2dbe927950c2637508c58c",
+        "sha1": "446e867e17542df06c16ba0d0e200ac3ca711f6d",
+        "crc32": "cb008cb2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ridge Racer Revolution (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1).cue",
+      "filesize": 2642,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a7b08e710d658394aac66aa89774f231",
+        "sha1": "37c88299cf9ed5dec70bada890f6a1ab6a238f2b",
+        "crc32": "ce307709"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 01).bin",
+      "filesize": 11012064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1de3e3e319943ee0e87e4bb7bede4d91",
+        "sha1": "151cec570c6fe2d92637729101aed8daa7fa4482",
+        "crc32": "06e63ca1"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 02).bin",
+      "filesize": 1615824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "514922b97a1595f51ad2a024931632b9",
+        "sha1": "f572133919ce53804eff283ad48939e675ff8e23",
+        "crc32": "6c9d7771"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 03).bin",
+      "filesize": 18171552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65a0da38130a0b65cc70f02536fd80a3",
+        "sha1": "2b1bd8c07458731f92a89199b9912391c338a331",
+        "crc32": "0307dcc3"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 04).bin",
+      "filesize": 24166800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c903452a8561958451258f60bbba6714",
+        "sha1": "1ec5c9f097eede68114656d4b30786fa6bc93510",
+        "crc32": "a3f945b0"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 05).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6596ef05c8197b99fa1fe51cb772a034",
+        "sha1": "4b816cd8db8c9175f0928a3e19894f38f6520e2e",
+        "crc32": "639a2ff8"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 06).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bbe2259e9e974ce1be41c50a462958a",
+        "sha1": "086ec13b9ee45802b17cf544057678af4f2c81e2",
+        "crc32": "34063741"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 07).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8df6ed4c912065e1ff0c724c1e363629",
+        "sha1": "a87faceee9d12089d7e458cd98333737ee3ab5cf",
+        "crc32": "ed13c819"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 08).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c3316b459e6da618cfe921c79f5f2dc",
+        "sha1": "230640ed950e1c028474ff591430656f28452597",
+        "crc32": "4409d410"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 09).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba3d068498ef45ce8bf793e6c62a87ae",
+        "sha1": "b4c842ebc3c80a0dcf0041b1e8ac00b9f51f5274",
+        "crc32": "12fa02cc"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 10).bin",
+      "filesize": 50019984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cc23f28e3426b328cf30a8268f7c19f",
+        "sha1": "e9de188f60103b66001ad18c61179de9a9e4fdb8",
+        "crc32": "cd58b894"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 11).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f893e25d330f9baa0d6e16f15e99c89",
+        "sha1": "3d0b1bddc652196d4267bda19e3cf6344edb6b4c",
+        "crc32": "36bacd24"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 12).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4535430cde11360108f6a388be905d37",
+        "sha1": "9ee1b7edf9c26bccaaab27d2f7e50c6a2aaf7b02",
+        "crc32": "2dcac5f7"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 13).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ac151e736760049ceabf88269c7476d",
+        "sha1": "a9da2dec7c241f227d7284bcf8a75f1afc233fb6",
+        "crc32": "e0667460"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 14).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a4a0f7416acdbba13fbfb162ade370e",
+        "sha1": "f09adc7ad7343fa873d9c7271c67836cf6058b42",
+        "crc32": "c4331f24"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 15).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4d87883c1fbe60a5f8f1dd6e3cd19d5",
+        "sha1": "37cfecfc96548182286fd0e03a9d7a693b23bab0",
+        "crc32": "3e449d22"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 16).bin",
+      "filesize": 3001152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a81afe376d0eca560beee0252be8a2cd",
+        "sha1": "ddae51c6013460fe789deac1f16ccfa16c7c2a62",
+        "crc32": "8964d318"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 17).bin",
+      "filesize": 10673376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3395c7e579514fedaa73fe399d34121f",
+        "sha1": "4b4369ded48d37489c8f42277cda7fcb10738857",
+        "crc32": "9a47ac14"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 18).bin",
+      "filesize": 20678784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cb67739168eb9c21aa885346f42e899",
+        "sha1": "c93f6f884b19ba7ae760815c1d033d79e1321ace",
+        "crc32": "df1fad5d"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 19).bin",
+      "filesize": 33226704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e44d84ee3bfb44e95b73224412f7efc2",
+        "sha1": "4793d68122687317bfe82ab06de408c8f22cd00a",
+        "crc32": "d6163ee5"
+      }
+    },
+    {
+      "filename": "Ridge Racer Revolution (Japan) (Rev 1) (Track 20).bin",
+      "filesize": 33222000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "940c8ecf9347da2d53c311f00c55be50",
+        "sha1": "9dadd5d2b749c3f4201521395494dfcf39d295eb",
+        "crc32": "50b99987"
+      }
+    }
+  ]
+}

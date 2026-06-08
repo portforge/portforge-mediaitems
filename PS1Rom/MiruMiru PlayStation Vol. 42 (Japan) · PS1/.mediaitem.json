@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MiruMiru PlayStation Vol. 42 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MiruMiru PlayStation Vol. 42 (Japan).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c305e494f256c7c02c3a9e30b0ec28b",
+        "sha1": "fb93d15791ccd11c4bbe0f12b1ca36d92db8646d",
+        "crc32": "a8fe1aa4"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 42 (Japan) (Track 1).bin",
+      "filesize": 461450640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65c9278544059e969462b2915bd240ff",
+        "sha1": "5bb9bbbb9c36950ddd59ea10875987e909bc2b8c",
+        "crc32": "07f22219"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 42 (Japan) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

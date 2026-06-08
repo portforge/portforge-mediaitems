@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TwinBee Taisen Puzzle-dama (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TwinBee Taisen Puzzle-dama (Japan).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f54f2866cdb9b8460bfcbbb937b4a4ac",
+        "sha1": "106e65ca904f68ec474bba7dfca3db3f442f9fdf",
+        "crc32": "3207c5f5"
+      }
+    },
+    {
+      "filename": "TwinBee Taisen Puzzle-dama (Japan) (Track 1).bin",
+      "filesize": 70214256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c499c9f1cb93bca74810eb50d2b8b326",
+        "sha1": "3fb79cce51d260a2ec2ef410891ec11cdea99909",
+        "crc32": "57e874a3"
+      }
+    },
+    {
+      "filename": "TwinBee Taisen Puzzle-dama (Japan) (Track 2).bin",
+      "filesize": 632669184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a07f94ef5d866c931aca82fd803d23e9",
+        "sha1": "58df057ca4e513139d6d0bdfa1f8df29eaddcfaa",
+        "crc32": "28ffd34e"
+      }
+    }
+  ]
+}

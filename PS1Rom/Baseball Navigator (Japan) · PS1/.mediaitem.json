@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Baseball Navigator (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Baseball Navigator (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a19604b400e06ed31944c86c0761543",
+        "sha1": "34fa7f4635794668301719b39fa0d3bee9ec4a1c",
+        "crc32": "fe09eb58"
+      }
+    },
+    {
+      "filename": "Baseball Navigator (Japan).bin",
+      "filesize": 359470272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "738ea62eeeb21fb71e1886f797ed173b",
+        "sha1": "8f00ca3cd484fb8a23cd7ca8708ffa1ff0c9b671",
+        "crc32": "e9449747"
+      }
+    }
+  ]
+}

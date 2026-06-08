@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Myst (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Myst (USA).cue",
+      "filesize": 76,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f0bcf500296c33bf725d8a29812be7d8",
+        "sha1": "9b0794dc0e21db7fd061dc8569692ee278b9ceec",
+        "crc32": "bd0ec019"
+      }
+    },
+    {
+      "filename": "Myst (USA).bin",
+      "filesize": 658917504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c6e4814f273fbfe8153bc3c41f76a84",
+        "sha1": "cc95044ca2ca973403ea3b28eff500d90f1e358d",
+        "crc32": "c5a6074f"
+      }
+    }
+  ]
+}

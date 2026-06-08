@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Classic Road (Japan) (Otanoshimi Data Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Classic Road (Japan) (Otanoshimi Data Disc).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bcfbaf1ee9b9b076a0d127aadc2c91d0",
+        "sha1": "b368ed3c3536a965628f2a4e305c1dc1238f76a9",
+        "crc32": "32c71140"
+      }
+    },
+    {
+      "filename": "Classic Road (Japan) (Otanoshimi Data Disc).bin",
+      "filesize": 99781248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef1c49c1fbf24abf83187d475812622c",
+        "sha1": "0afd7010e8af8c5ca54f9336db54e093263cd5bd",
+        "crc32": "9fe2b18e"
+      }
+    }
+  ]
+}

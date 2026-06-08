@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Limited Edition)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Limited Edition).cue",
+      "filesize": 320,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3390d43d457744cf74059924867a6fee",
+        "sha1": "984a4debb35e520e6f6db1c6e456f9a484aa0a91",
+        "crc32": "44ad0abb"
+      }
+    },
+    {
+      "filename": "SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Limited Edition) (Track 1).bin",
+      "filesize": 403723152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd66febe5766310e0e0cddd11b2f7247",
+        "sha1": "b7e67e61b630541854126a52bc729a9218bdebe6",
+        "crc32": "9e2eb4d2"
+      }
+    },
+    {
+      "filename": "SD Gundam - GGeneration-F (Japan) (Disc 4) (Premium Disc) (Limited Edition) (Track 2).bin",
+      "filesize": 37434432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "892892d26d596b0fbc585d04f3613b61",
+        "sha1": "793d1b222ec0653f8ebfb946ddbc42a7036f8d9e",
+        "crc32": "3c370563"
+      }
+    }
+  ]
+}

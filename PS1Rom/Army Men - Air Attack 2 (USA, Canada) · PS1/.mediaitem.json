@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Air Attack 2 (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Air Attack 2 (USA, Canada).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3f7555d2e194b0901f4cf81bdffc4f4e",
+        "sha1": "a0b9e2fa63f5bd1e2c4a2d69b7a33cf05bad3a22",
+        "crc32": "167db0f1"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack 2 (USA, Canada).bin",
+      "filesize": 744036384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "164169e1f12cd082ea38ce3dab82cd1e",
+        "sha1": "7bcaf95d31afda41fd416e02916f8a07be0139ca",
+        "crc32": "69dfe423"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Uki Uki Tsuri Tengoku - Gyoshin Densetsu o Oe (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Gyoshin Densetsu o Oe (Japan).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bafc2ddfb3ece1aaa612af49d6165f8f",
+        "sha1": "8b3899896a67c8de7f6b9e183008d7aee072248f",
+        "crc32": "9ba723ca"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Gyoshin Densetsu o Oe (Japan) (Track 1).bin",
+      "filesize": 167375376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cd103572024f0c6a62119ea0d3fc998",
+        "sha1": "6aa5f7f8d4a5adb300f408f284a5c249955dd118",
+        "crc32": "f1cc92cf"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Gyoshin Densetsu o Oe (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e3952c9ba74cc486ee0a9dd66c1a84",
+        "sha1": "4a5ce8d624b04507f739bb8e647cbb0d8b81a768",
+        "crc32": "c699c622"
+      }
+    }
+  ]
+}

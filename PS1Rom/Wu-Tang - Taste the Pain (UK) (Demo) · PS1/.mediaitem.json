@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wu-Tang - Taste the Pain (UK) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wu-Tang - Taste the Pain (UK) (Demo).cue",
+      "filesize": 502,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc630273844eccf9208f4b4cd9440f94",
+        "sha1": "aaf70f33a4e4ba572a2197299313562b1adc3bce",
+        "crc32": "5265bfad"
+      }
+    },
+    {
+      "filename": "Wu-Tang - Taste the Pain (UK) (Demo) (Track 1).bin",
+      "filesize": 46480224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f560845e0039444f66e23123758ea12b",
+        "sha1": "c4986dcd2188839599620aba1d1aa06bd9fd2f13",
+        "crc32": "fc15e004"
+      }
+    },
+    {
+      "filename": "Wu-Tang - Taste the Pain (UK) (Demo) (Track 2).bin",
+      "filesize": 29599920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e28882b11c3a068e0550ea2543e3728",
+        "sha1": "dc976abddbbabdfdc47855974d1786009c5b6982",
+        "crc32": "23ad7c7d"
+      }
+    },
+    {
+      "filename": "Wu-Tang - Taste the Pain (UK) (Demo) (Track 3).bin",
+      "filesize": 4059552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eaf985a16a701643d973d3d852b8e30b",
+        "sha1": "7c353e374688b6fa57e09307c3e81114cab0f864",
+        "crc32": "42f77b91"
+      }
+    },
+    {
+      "filename": "Wu-Tang - Taste the Pain (UK) (Demo) (Track 4).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

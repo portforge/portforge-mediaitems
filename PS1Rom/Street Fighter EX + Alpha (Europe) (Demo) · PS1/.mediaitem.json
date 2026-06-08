@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter EX + Alpha (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter EX + Alpha (Europe) (Demo).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "836184d7fc1fe1bd62fa356c905ee77a",
+        "sha1": "b2ebfa62b4dd1f47d167cc59e69e09508f95ad34",
+        "crc32": "e66fe539"
+      }
+    },
+    {
+      "filename": "Street Fighter EX + Alpha (Europe) (Demo).bin",
+      "filesize": 317428272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86a6d8e835d24978468cddacdd3c1fa0",
+        "sha1": "839361b2648427e197ededd3924103cb71a80a8c",
+        "crc32": "2ab2b690"
+      }
+    }
+  ]
+}

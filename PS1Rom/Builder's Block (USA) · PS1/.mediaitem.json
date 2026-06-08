@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Builder's Block (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Builder's Block (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7860f724df9cd163c9ac9be60745449c",
+        "sha1": "9384e0ba759fbd9900134320e9e6af3953f91acf",
+        "crc32": "20390de5"
+      }
+    },
+    {
+      "filename": "Builder's Block (USA).bin",
+      "filesize": 589397088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41910a4c7c7ea782d7986390e6a37004",
+        "sha1": "54e78474202c71832c7235f87966022b7294ceaa",
+        "crc32": "a6947e2c"
+      }
+    }
+  ]
+}

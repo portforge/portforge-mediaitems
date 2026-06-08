@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan).cue",
+      "filesize": 1144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01d18ffa686f63882984afcb3aef21a5",
+        "sha1": "f8cefeabc30d91bf5afd39c3b4b3262e5b4e7071",
+        "crc32": "b243b4e4"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan) (Track 1).bin",
+      "filesize": 73365936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e252b30e0348da4c172808339a17b914",
+        "sha1": "f20f848b12dd8a29d6b916efe31d770e27c22407",
+        "crc32": "3f8b36fa"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan) (Track 2).bin",
+      "filesize": 40419120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "162dcd2e3810ad8ec73ce69acbec9730",
+        "sha1": "1a686d3fcec7a467b51f581c2e13fe3b90e7c293",
+        "crc32": "95840eba"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan) (Track 3).bin",
+      "filesize": 40369728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5999369128170db4d33b03f074f3ac8",
+        "sha1": "d1b5978a31370a50a24e386ca38143feb998d9e1",
+        "crc32": "a430582d"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan) (Track 4).bin",
+      "filesize": 31900176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d29370e901f840980a0dd12485f3a5f2",
+        "sha1": "4458c4e3e0f0be774c75377862dbd9da5a9c1a1f",
+        "crc32": "ada56c09"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan) (Track 5).bin",
+      "filesize": 30919392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "335e4782f7c89f7a62be5132b172f759",
+        "sha1": "e09e66d5cc99c3574174c24bc4a4c66b36566d86",
+        "crc32": "afe8850f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan) (Track 6).bin",
+      "filesize": 36625344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19cdd38618f1b1709dbc3f1037d5ab92",
+        "sha1": "148e9f80ae92e0c38e5ab753e8f7056bafc112f5",
+        "crc32": "e577e1f6"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Seiyou Senseijutsu - Mark Yazaki Kanshuu (Japan) (Track 7).bin",
+      "filesize": 44812656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8570f08d3ce626df997ed2528bfbca0",
+        "sha1": "8aa8b0705c5ca2a9f379b2a666351ee59a50bee6",
+        "crc32": "0ccc0738"
+      }
+    }
+  ]
+}

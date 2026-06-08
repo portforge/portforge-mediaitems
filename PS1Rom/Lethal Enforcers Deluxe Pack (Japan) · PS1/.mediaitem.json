@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lethal Enforcers Deluxe Pack (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lethal Enforcers Deluxe Pack (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c58adf76c4803c89065961382925918d",
+        "sha1": "5c67493335465b95944556077452b9e713f1af25",
+        "crc32": "a84d6ef8"
+      }
+    },
+    {
+      "filename": "Lethal Enforcers Deluxe Pack (Japan).bin",
+      "filesize": 438048240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c4cc88ae45969745a87f9b3b94b45a2",
+        "sha1": "d7f19d86e00084785c5b72be21e79884699d0794",
+        "crc32": "571f01fd"
+      }
+    }
+  ]
+}

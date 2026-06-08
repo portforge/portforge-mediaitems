@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Inuyasha (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Inuyasha (Japan) (Rev 1).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "152c5932e4ed67f56becb01338e0fd62",
+        "sha1": "5b20a09343ca7ba5287401b348e153bed167ccf0",
+        "crc32": "45e37fd8"
+      }
+    },
+    {
+      "filename": "Inuyasha (Japan) (Rev 1).bin",
+      "filesize": 675948336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9595fd8938c4dd92831e5c2531bc1c14",
+        "sha1": "227a3371be4164552942476b8089bd2da93ca7af",
+        "crc32": "edf29e2b"
+      }
+    }
+  ]
+}

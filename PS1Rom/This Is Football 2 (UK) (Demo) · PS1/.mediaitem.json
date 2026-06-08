@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "This Is Football 2 (UK) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "This Is Football 2 (UK) (Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dafa3cd17b0e8f202d745abc7ab926ef",
+        "sha1": "b232f259b6dd37f0824fd6f8bf47748366a89f7a",
+        "crc32": "f84bacbd"
+      }
+    },
+    {
+      "filename": "This Is Football 2 (UK) (Demo).bin",
+      "filesize": 54827472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38126952d38464c055fd8a49f52ae2bb",
+        "sha1": "ebf4b5e185e9a94aa0327c137b0851eaaafd631c",
+        "crc32": "ce3fbb86"
+      }
+    }
+  ]
+}

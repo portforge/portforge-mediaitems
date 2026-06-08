@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider-Man (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider-Man (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db4b0569ca7a026280bfca45242591a4",
+        "sha1": "93a6ec931c48980dbd2193338de82bcd7e6d59d5",
+        "crc32": "4cf038aa"
+      }
+    },
+    {
+      "filename": "Spider-Man (Japan).bin",
+      "filesize": 735827904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ca6477e419797509c67bf9e8cfd5f08",
+        "sha1": "3b73ffae58ac3675db6e0ef691ef5f7a5488be4c",
+        "crc32": "b2bb38e5"
+      }
+    }
+  ]
+}

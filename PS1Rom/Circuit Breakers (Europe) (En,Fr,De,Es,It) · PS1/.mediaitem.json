@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Circuit Breakers (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 1206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e29a6401004bc07b76fb2d60ffa63861",
+        "sha1": "470d82ffa1ecb8a65db065fa08f72a62d11e6968",
+        "crc32": "81692d60"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 67540032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "024bd0f0919d755981c53c45b06153e7",
+        "sha1": "fc8c4a9a8e83f50dded26f76236eeccdcf910e74",
+        "crc32": "345577d6"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 28840224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3e027a1ca3bccda3b1a0b502968a808",
+        "sha1": "c8ff643f46f0379a88010c3ca45e7f7a5f1b9a31",
+        "crc32": "6eaf87e5"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 38053008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56c7d21a75e291808b74719560462bb9",
+        "sha1": "c3669d93905b99ac5ee410499c179769c670ab89",
+        "crc32": "04bea5fd"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 39118464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0bd5175fb441b1cd425af70f8e6cc869",
+        "sha1": "60c30b000d1c0064575ea3b5f9023ffba7efcb6a",
+        "crc32": "30faeb68"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 36766464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "397c62d2f90eb27881ea2de70429c2de",
+        "sha1": "d0bcd38f7e24f986b806cf04b97ff3c936425303",
+        "crc32": "262e0149"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 6).bin",
+      "filesize": 36169056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ca2f4835e0e48e9899fa9532f910f32",
+        "sha1": "8db5baa7d6fbf73243c1d473633f14102c219154",
+        "crc32": "95a73af4"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 7).bin",
+      "filesize": 28141680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a17462e9ebb4e8d4f8673f183d3fe2c",
+        "sha1": "3875de90ced2340b670d4408d83137037d3cd4b4",
+        "crc32": "8bcc3788"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 8).bin",
+      "filesize": 16591008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e55496e773d3935e53f71a748a66299d",
+        "sha1": "deb8bde8c07a786a7b49f5e8c14e3617e9897257",
+        "crc32": "62433269"
+      }
+    },
+    {
+      "filename": "Circuit Breakers (Europe) (En,Fr,De,Es,It) (Track 9).bin",
+      "filesize": 39165504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a4016b567e580bce587ee59ff37872a",
+        "sha1": "46efbf13e256d91846f8a8639a99cf3ec9d7fe38",
+        "crc32": "8e3d2c5d"
+      }
+    }
+  ]
+}

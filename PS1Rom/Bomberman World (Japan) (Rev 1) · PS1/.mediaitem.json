@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bomberman World (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bomberman World (Japan) (Rev 1).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78b002f02a1988014b377734c531bfdb",
+        "sha1": "d4e7a65661e0d9d859297feef8ae2cdf14f68856",
+        "crc32": "d73cf20a"
+      }
+    },
+    {
+      "filename": "Bomberman World (Japan) (Rev 1).bin",
+      "filesize": 632424576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdd138b77355d0f138415ad4d4dcafc2",
+        "sha1": "78580b6e73ea2bc610089fcbaf4efa5b8196201e",
+        "crc32": "df621c07"
+      }
+    }
+  ]
+}

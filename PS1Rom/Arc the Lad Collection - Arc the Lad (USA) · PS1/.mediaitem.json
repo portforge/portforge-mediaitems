@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arc the Lad Collection - Arc the Lad (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arc the Lad Collection - Arc the Lad (USA).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d1059669185234cbb75a7a8bdcb7056",
+        "sha1": "8a8c5ab57abe97296e6c2d75e59f57b13c4b0676",
+        "crc32": "2343aa1c"
+      }
+    },
+    {
+      "filename": "Arc the Lad Collection - Arc the Lad (USA).bin",
+      "filesize": 627784080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70e2b965b293af4845e1c0735f2b0ddf",
+        "sha1": "a402e9ea47a7715058f23aa980837aea1ff26e04",
+        "crc32": "cd0ad73b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VIII (USA) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VIII (USA) (Disc 3).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9fa58889a158a8782d57be96abcca584",
+        "sha1": "8b1bc4578b113c30c98f1a0f1721f41359762165",
+        "crc32": "bda14ee2"
+      }
+    },
+    {
+      "filename": "Final Fantasy VIII (USA) (Disc 3).bin",
+      "filesize": 721356048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58461d8ea573b990c7bbcc32d0feb8a8",
+        "sha1": "9417003499803d9a9c3d26783570a967b0e4fba2",
+        "crc32": "d38ee91e"
+      }
+    }
+  ]
+}

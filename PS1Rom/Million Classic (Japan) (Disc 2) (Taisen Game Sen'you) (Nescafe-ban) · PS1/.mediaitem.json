@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you) (Nescafe-ban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you) (Nescafe-ban).cue",
+      "filesize": 306,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eff96222b7036fbf55145de4846ee5a4",
+        "sha1": "8ead0ff80f11ad32e58797873067f633fb1ab8b6",
+        "crc32": "5084376d"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you) (Nescafe-ban) (Track 1).bin",
+      "filesize": 402511872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e0dccd961698f212b7cbe6b653aad6a",
+        "sha1": "dea4b131791d9a268b30f75a49b578268b2117aa",
+        "crc32": "4ad4469b"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you) (Nescafe-ban) (Track 2).bin",
+      "filesize": 42978096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12afa7cf4f33fd21d88b7c3bbfbcb8b8",
+        "sha1": "ed1839d0a92a6b723085511ff8379599e94579b6",
+        "crc32": "598f81ca"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xenocracy - The Ultimate Solar War (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xenocracy - The Ultimate Solar War (Italy).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40568171b6e6d25e7ca7c71515c72d70",
+        "sha1": "7042f3b6619b99c1edb29690fe5b89ec31a5404a",
+        "crc32": "21b6ef12"
+      }
+    },
+    {
+      "filename": "Xenocracy - The Ultimate Solar War (Italy).bin",
+      "filesize": 744271584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03114cdc166c9aa8538dbbd3151db3ee",
+        "sha1": "f92e9d88ba48970574262d907b901d196ca9c107",
+        "crc32": "0c1e71b7"
+      }
+    }
+  ]
+}

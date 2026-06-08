@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Missile Command (Europe) (En,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Missile Command (Europe) (En,It).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68285333ea5acb3d5861018089b933c5",
+        "sha1": "e2a2b78f0f9e158cf7b570ca4d65096958d54118",
+        "crc32": "c8b653e4"
+      }
+    },
+    {
+      "filename": "Missile Command (Europe) (En,It) (Track 1).bin",
+      "filesize": 579123552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa68412c26d71dcdb7bfc7d83997c95c",
+        "sha1": "0689852165bf3c026e261e53638b25627815929c",
+        "crc32": "1c56e354"
+      }
+    },
+    {
+      "filename": "Missile Command (Europe) (En,It) (Track 2).bin",
+      "filesize": 48815760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21111c4d90c26d96965b1ff57056da76",
+        "sha1": "375c4cab6a9ebe9a2d38f13de5ab6ad189c42ae7",
+        "crc32": "8cb7dd99"
+      }
+    }
+  ]
+}

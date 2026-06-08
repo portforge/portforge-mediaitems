@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,Nl,Sv).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1e356c12116f3869c5a82d9123de406a",
+        "sha1": "d6ba62654d2cd9bcdf94537b8b000443dcaadf88",
+        "crc32": "e4444850"
+      }
+    },
+    {
+      "filename": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,Nl,Sv).bin",
+      "filesize": 536100768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82fffc062412faf8725526ea5235f894",
+        "sha1": "7e9f035c102da8ab62726d9d0efdfab0197913bc",
+        "crc32": "ba136e4d"
+      }
+    }
+  ]
+}

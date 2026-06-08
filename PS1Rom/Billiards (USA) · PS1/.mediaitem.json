@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Billiards (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Billiards (USA).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "205e261ffd47df16b1bb9d9699fdf76a",
+        "sha1": "fa7d3015300448bbec6225b131215f2ecea60f2b",
+        "crc32": "65da495a"
+      }
+    },
+    {
+      "filename": "Billiards (USA).bin",
+      "filesize": 159077520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "917bac98d33dc7583e2972a98de653a2",
+        "sha1": "e8bb428d81943a377371219078d16a310474e5a8",
+        "crc32": "ce239f24"
+      }
+    }
+  ]
+}

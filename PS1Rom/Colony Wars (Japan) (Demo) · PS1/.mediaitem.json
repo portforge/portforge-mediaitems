@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars (Japan) (Demo).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a4639ae88586cdc86456a179be1cd73",
+        "sha1": "f6eaf0d863032127f9ab83021652a8411f2def95",
+        "crc32": "9a55ab01"
+      }
+    },
+    {
+      "filename": "Colony Wars (Japan) (Demo) (Track 1).bin",
+      "filesize": 46390848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98d90d12fac92b045c0f78c491a1fcd1",
+        "sha1": "63e9f98f7c2d13574d798bb36cb7aa7518267564",
+        "crc32": "ec0d7b94"
+      }
+    },
+    {
+      "filename": "Colony Wars (Japan) (Demo) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dave Mirra Freestyle BMX (USA) (Beta) (2000-08-21)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dave Mirra Freestyle BMX (USA) (Beta) (2000-08-21).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d5faf658d8b227ecea4bb3b9f36c057",
+        "sha1": "8829ee60028b194b54e41590a28d079a1f093ae8",
+        "crc32": "570930a4"
+      }
+    },
+    {
+      "filename": "Dave Mirra Freestyle BMX (USA) (Beta) (2000-08-21).bin",
+      "filesize": 258101424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37923d2e254e2bb18c7b946b40226b1d",
+        "sha1": "702038dbcb209ca91bb20a4d766860766a83ca87",
+        "crc32": "37fc026a"
+      }
+    }
+  ]
+}

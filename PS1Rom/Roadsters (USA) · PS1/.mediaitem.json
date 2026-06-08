@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Roadsters (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Roadsters (USA).cue",
+      "filesize": 963,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb310a3465bc569d9afbbf7d2c23b68c",
+        "sha1": "619670384d3c98a456ef0d8909feec1fb4ff98fb",
+        "crc32": "531c9903"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 1).bin",
+      "filesize": 120645840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "913dddb97340e6042b87f5df530261d4",
+        "sha1": "6818568c3b352af6d74ae780da4b16d4e4e27a50",
+        "crc32": "67b049a6"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 2).bin",
+      "filesize": 37573200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e88f5213f47e43ab46189d1911f25372",
+        "sha1": "86554d127db29683f4755e6c775a59bc0961091b",
+        "crc32": "63698d7d"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 3).bin",
+      "filesize": 36225504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "638d3b8ab19fddeb4032359804966625",
+        "sha1": "09a1fe14443297c191e277416c6a0348c9bbd6f4",
+        "crc32": "076887b5"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 4).bin",
+      "filesize": 34318032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b8abc584895582ff1cc760870f1f1db",
+        "sha1": "0545b21b306ccffcfb1388aa29e2bcc4210ae70d",
+        "crc32": "429256ad"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 5).bin",
+      "filesize": 37422672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77287d670d0311338dec8dbe7f21b541",
+        "sha1": "085052d5c20daf1e4ef398fe7efcd5b792bf5c1a",
+        "crc32": "f15e928b"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 6).bin",
+      "filesize": 35677488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eda06ba31b265e54140c1d6eab061ccf",
+        "sha1": "e0773230ed4d11d7700471bc240e5106c6e68aef",
+        "crc32": "9f64c67d"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 7).bin",
+      "filesize": 40289760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7168d9976df43596546c56508d02aca",
+        "sha1": "1a80d40add5976d6faea80289315ded13115e261",
+        "crc32": "72f88e75"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 8).bin",
+      "filesize": 33351360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e95b5393ae0fe2a44d75967a3b2d028",
+        "sha1": "2150610385c5cfd4eea597221cf47bfeffaecb29",
+        "crc32": "ab79e5de"
+      }
+    },
+    {
+      "filename": "Roadsters (USA) (Track 9).bin",
+      "filesize": 32986800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4635067b7e9d9cf9aadabe5c7a0809b",
+        "sha1": "1ccdea80b0e2e26b872e60bd7602bc635ba037f3",
+        "crc32": "c317d4be"
+      }
+    }
+  ]
+}

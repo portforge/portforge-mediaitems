@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Konami Antiques - MSX Collection Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Konami Antiques - MSX Collection Vol. 1 (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15d8c73e410f1d72fef4057556544d63",
+        "sha1": "bf95010b71e9e42bb9813fd342a81817265767ab",
+        "crc32": "c67b7a12"
+      }
+    },
+    {
+      "filename": "Konami Antiques - MSX Collection Vol. 1 (Japan).bin",
+      "filesize": 157339392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8935bd3a6c390c4c80590b41662296d",
+        "sha1": "8de1c7afa71526d97b85c2814246f60c79778e84",
+        "crc32": "e63263e0"
+      }
+    }
+  ]
+}

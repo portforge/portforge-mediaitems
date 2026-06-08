@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monaco Grand Prix Racing Simulation 2 (France) (En,Fr,Es,It) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monaco Grand Prix Racing Simulation 2 (France) (En,Fr,Es,It) (Demo).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e7a88a5a8778e134eead5ea02cda6464",
+        "sha1": "3a78712c4632559cc7a9f65f7005cc682fce8175",
+        "crc32": "f265e70e"
+      }
+    },
+    {
+      "filename": "Monaco Grand Prix Racing Simulation 2 (France) (En,Fr,Es,It) (Demo).bin",
+      "filesize": 239624112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8aa6050795548a34f7c06c54a1ef4756",
+        "sha1": "42a2e8898d5758ae11137c10b20b8e5a353c0973",
+        "crc32": "73ee7c21"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Panekit - Infinitive Crafting Toy Case (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Panekit - Infinitive Crafting Toy Case (Japan) (Rev 1).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d9dbbf313fb2ba026d06cbf86a28672",
+        "sha1": "4a27da3d4eb0c301ed7ce9737a3ccc8fb5e19a17",
+        "crc32": "214a0cd8"
+      }
+    },
+    {
+      "filename": "Panekit - Infinitive Crafting Toy Case (Japan) (Rev 1).bin",
+      "filesize": 373285920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75e93e304f5d7777593ea15c464c88ad",
+        "sha1": "74f43f3bcbb1ec30dd5ef10d48266e9471e2ea36",
+        "crc32": "9d9664b7"
+      }
+    }
+  ]
+}

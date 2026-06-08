@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Winning Post 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Winning Post 3 (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19acd3c5bfe59b81c220b93444ce95cb",
+        "sha1": "b115dd5db948fa23a7f334699bb732b1e0081d9c",
+        "crc32": "bc08accd"
+      }
+    },
+    {
+      "filename": "Winning Post 3 (Japan) (Track 1).bin",
+      "filesize": 531453216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d8522a4c964619a672a5cf5c7340223",
+        "sha1": "d1060aa4a6b669739ed9b8c7e7227eb0b6ae50d9",
+        "crc32": "35d7ca02"
+      }
+    },
+    {
+      "filename": "Winning Post 3 (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

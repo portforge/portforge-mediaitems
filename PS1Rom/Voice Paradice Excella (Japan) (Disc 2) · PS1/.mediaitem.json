@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Voice Paradice Excella (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Voice Paradice Excella (Japan) (Disc 2).cue",
+      "filesize": 514,
+      "ext": "cue",
+      "checksums": {
+        "md5": "399c3735e929fe0fa65b40db297c5206",
+        "sha1": "bf5a9b3c69322764c982e169f902988226d5bf74",
+        "crc32": "ea16cee7"
+      }
+    },
+    {
+      "filename": "Voice Paradice Excella (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 182468160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a82c4e837163d6229058d1d7beb54c98",
+        "sha1": "f1592b34a086a2d2650ef042d92809c007edc3bc",
+        "crc32": "3a9193d2"
+      }
+    },
+    {
+      "filename": "Voice Paradice Excella (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 24300864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "176c45b2e9b217ec88fae25d2971a66a",
+        "sha1": "23635afcd93de4c7436dc462ba46c5264613db85",
+        "crc32": "79f17d08"
+      }
+    },
+    {
+      "filename": "Voice Paradice Excella (Japan) (Disc 2) (Track 3).bin",
+      "filesize": 34776672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2291bc5f3f86359039c50b917932cc97",
+        "sha1": "8661cf00bbae7d397d8535624605d8d4dca3971d",
+        "crc32": "1beb33fc"
+      }
+    },
+    {
+      "filename": "Voice Paradice Excella (Japan) (Disc 2) (Track 4).bin",
+      "filesize": 16228800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dc87563b9def3ec0f90efde37d1208f",
+        "sha1": "995b9b5707a59fb7fa42b2128620db544dd47374",
+        "crc32": "8cb1d407"
+      }
+    }
+  ]
+}

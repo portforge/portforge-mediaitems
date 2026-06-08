@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dr. Rin ni Kiite Mite! Koi no Happy Four Seasons (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dr. Rin ni Kiite Mite! Koi no Happy Four Seasons (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ad24086c097bd43e7f3d2150f152331",
+        "sha1": "84bf1ef680c632cb7f123b39906171442fa5601c",
+        "crc32": "3be2ff50"
+      }
+    },
+    {
+      "filename": "Dr. Rin ni Kiite Mite! Koi no Happy Four Seasons (Japan).bin",
+      "filesize": 294444528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "baf781c0a8f7b2054cac4f5069a3ca44",
+        "sha1": "55a0e56c86e93f842a3a860724fa2bb60f7933a3",
+        "crc32": "4067854b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Iceman - Digital PlayStage (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Iceman - Digital PlayStage (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ff3c232bbd656f4ee8fc0eb57cdda313",
+        "sha1": "2d3b4f7e52845e9f5d34ed567b6a456dc1217476",
+        "crc32": "68208ead"
+      }
+    },
+    {
+      "filename": "Iceman - Digital PlayStage (Japan).bin",
+      "filesize": 613121712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9602fe84d2d9a707b283ab2afd5da8b",
+        "sha1": "d44eb9d6cccfa9585bd79562f37b2040aeda40ea",
+        "crc32": "c3ddf808"
+      }
+    }
+  ]
+}

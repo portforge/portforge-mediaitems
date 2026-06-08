@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DemoDemo PlayStation Vol. 9 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DemoDemo PlayStation Vol. 9 (Japan).cue",
+      "filesize": 756,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1776a2ecd19f518e820823907b3c58d7",
+        "sha1": "9a7739b28e55a6dcaae882d1eb78edb066b14cb9",
+        "crc32": "37c507c9"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 9 (Japan) (Track 1).bin",
+      "filesize": 592638144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef2f8594b889ca2219af9d03a714f663",
+        "sha1": "c9bc387bb5b47569741d7e5196a95eb275f9c45b",
+        "crc32": "73fc73ed"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 9 (Japan) (Track 2).bin",
+      "filesize": 24707760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cf334cff2ac98394e1508a1c6826955",
+        "sha1": "0ba7b6d0a00a2bb6b389c6a708b2c65ce4e8a1bb",
+        "crc32": "afc96806"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 9 (Japan) (Track 3).bin",
+      "filesize": 31879008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80474aa2ef2ac76f6baefef6063d581e",
+        "sha1": "1349ca10c2aa3c692647e8aeba7f03d7bbca15cf",
+        "crc32": "7d0ca2c5"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 9 (Japan) (Track 4).bin",
+      "filesize": 3490368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1808a625c9512589b8939dabda673b6",
+        "sha1": "22f4201b3103b2c83b12aef06183370484fbf9a9",
+        "crc32": "488b5846"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 9 (Japan) (Track 5).bin",
+      "filesize": 20925744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0f4315b3f70d028cc3ddb3e5f058e0d",
+        "sha1": "3b63b02b915ebc6bc2579d5fe1841b1f5bdee5e6",
+        "crc32": "b866fda8"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 9 (Japan) (Track 6).bin",
+      "filesize": 4548768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30f3706a0079e651d1604c35a78d4dd",
+        "sha1": "2251135edd2ca9cfc6c4fc114022a7f8dd79ecc0",
+        "crc32": "0d4b679e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars - Red Sun (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars - Red Sun (Germany).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03e669861a57b50800ca65754dadb027",
+        "sha1": "04de475019114e51ef33a6813a8ffbf03bdbff3f",
+        "crc32": "84953ec1"
+      }
+    },
+    {
+      "filename": "Colony Wars - Red Sun (Germany).bin",
+      "filesize": 697459728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d706f4934f70b800ccb68202dfc01e0",
+        "sha1": "3f2be85021af136b7428242ea238e69d5ae53c57",
+        "crc32": "69c5cc3b"
+      }
+    }
+  ]
+}

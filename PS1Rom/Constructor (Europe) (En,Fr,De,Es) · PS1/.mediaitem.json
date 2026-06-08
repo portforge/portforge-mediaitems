@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Constructor (Europe) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Constructor (Europe) (En,Fr,De,Es).cue",
+      "filesize": 243,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba26deabe3ac3b59108daed989bd4e3f",
+        "sha1": "9effc7cf58e9fe0c49335f4e079d141f818a97ca",
+        "crc32": "32646a10"
+      }
+    },
+    {
+      "filename": "Constructor (Europe) (En,Fr,De,Es) (Track 1).bin",
+      "filesize": 191826768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d64a011f8dbc4f5faeae7501681ddc7",
+        "sha1": "0bab23c0d3559cfb764326c2f4af8fc88e830bc1",
+        "crc32": "b82c7ef9"
+      }
+    },
+    {
+      "filename": "Constructor (Europe) (En,Fr,De,Es) (Track 2).bin",
+      "filesize": 37239216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11f65e5c3afa4f72ef10e312271fbb7a",
+        "sha1": "2ad8e35f947e958801bf1a866fc69cf8fc2493f3",
+        "crc32": "d3c44fe7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Atlantida - O Continente Perdido (Portugal)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Atlantida - O Continente Perdido (Portugal).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7bfd70f57248619fa8250709cd4e695",
+        "sha1": "1bbc0e8658a97f13f0cce5bf43d66f2c66539a0a",
+        "crc32": "e3aad549"
+      }
+    },
+    {
+      "filename": "Disney Atlantida - O Continente Perdido (Portugal) (Track 1).bin",
+      "filesize": 336876960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae1bec78160c936c3bdc88a532ee49b8",
+        "sha1": "1d0043bd96b2b3fcd4ded89dfbe00c6e53121f2d",
+        "crc32": "e7e8fdf6"
+      }
+    },
+    {
+      "filename": "Disney Atlantida - O Continente Perdido (Portugal) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

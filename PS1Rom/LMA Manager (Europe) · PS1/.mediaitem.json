@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LMA Manager (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LMA Manager (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fde1d8280acfec1c0b184f47b6647c50",
+        "sha1": "a276291ecf01484b96b7b6c1908aa32f4b4aab64",
+        "crc32": "081f5d14"
+      }
+    },
+    {
+      "filename": "LMA Manager (Europe).bin",
+      "filesize": 672989520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2825ab92cbab5a68703d957e0320dc08",
+        "sha1": "3ac68a3cc827b9f16d419412f4ebe361b9b1107e",
+        "crc32": "5343e2ce"
+      }
+    }
+  ]
+}

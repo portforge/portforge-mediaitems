@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney La Planete au Tresor (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney La Planete au Tresor (France).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7820418a0d85e810f9b697ba48853ce3",
+        "sha1": "7bc1363f8baa1691f36f84eb41a20bb1dfdd7c2d",
+        "crc32": "594e24d3"
+      }
+    },
+    {
+      "filename": "Disney La Planete au Tresor (France).bin",
+      "filesize": 460100592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48f0e98aa3a82df5761403553bd1961f",
+        "sha1": "5b301e77461b703c4dea15787ea57a4bfaa24753",
+        "crc32": "5252f6c8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan).cue",
+      "filesize": 942,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cfb400fed78dd72091e3c52ccee0e72a",
+        "sha1": "4e4a2b95ea9f1a49dbfa26c5566a6fbba5df58fe",
+        "crc32": "c7f9c53d"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan) (Track 1).bin",
+      "filesize": 515050368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf6018a6d94d84a0680ac4346367e04f",
+        "sha1": "48c7eaf3d98b2578c96566bd36686ba41e5382dd",
+        "crc32": "0f0684f2"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan) (Track 2).bin",
+      "filesize": 4833360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e859e27ffcc966da250667394cd6bf46",
+        "sha1": "6efc808c09e05f79b28fd809a324529c14192b7f",
+        "crc32": "733c4bf1"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan) (Track 3).bin",
+      "filesize": 44111760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5694169b51548fef00b3d78bd378be7",
+        "sha1": "feb9decb08c0a0504107de6c4a978555a7dc200b",
+        "crc32": "d525e082"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan) (Track 4).bin",
+      "filesize": 52190880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b631123f01a9658c5fd4125007a369a1",
+        "sha1": "47cf3fc1f067a350d083a68fa4f2da0e9aec9674",
+        "crc32": "a1fd86f8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan) (Track 5).bin",
+      "filesize": 30131472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01d9d1cdcff3ddfa48f66c816e21d205",
+        "sha1": "96e69439d5be4db8a802664264a7dc893f1719ba",
+        "crc32": "cd7a24db"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Ano Ko Doko no Ko - Endless Season (Japan) (Track 6).bin",
+      "filesize": 35679840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f9f1f2cf4c0887d25d37aaa6bbaf98b",
+        "sha1": "5cf6b3733d87cc0f19a6f62a7a155cb4a1adec20",
+        "crc32": "0d728bfc"
+      }
+    }
+  ]
+}

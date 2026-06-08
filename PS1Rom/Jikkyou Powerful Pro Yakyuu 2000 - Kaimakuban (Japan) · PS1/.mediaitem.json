@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikkyou Powerful Pro Yakyuu 2000 - Kaimakuban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 2000 - Kaimakuban (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dddab5baad0116a21b13a12196ff875b",
+        "sha1": "9e7b8284959a11f70500f32a4b079c45fc2719be",
+        "crc32": "106d35f7"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 2000 - Kaimakuban (Japan).bin",
+      "filesize": 232196496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e12b557b9f5f37a3547f8d0917fdde34",
+        "sha1": "32522888646414a352f5739557c109a6ece81ecd",
+        "crc32": "ead36b34"
+      }
+    }
+  ]
+}

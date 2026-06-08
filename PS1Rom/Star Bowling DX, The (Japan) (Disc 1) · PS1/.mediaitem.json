@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Bowling DX, The (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Bowling DX, The (Japan) (Disc 1).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "af360fb6b9858f69dfef3f1332384407",
+        "sha1": "58b92324eb7f7f96c6677c3203c86220b2d86aac",
+        "crc32": "628d48ff"
+      }
+    },
+    {
+      "filename": "Star Bowling DX, The (Japan) (Disc 1).bin",
+      "filesize": 664197744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8405e0b46d67eaeb1bc499fdc1e830d",
+        "sha1": "896b6abcc5a6cb8954a4a8308adbe36d45d42a5d",
+        "crc32": "5a831860"
+      }
+    }
+  ]
+}

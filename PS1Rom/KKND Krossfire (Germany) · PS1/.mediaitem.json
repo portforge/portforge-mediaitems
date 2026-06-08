@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "KKND Krossfire (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "KKND Krossfire (Germany).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8cab94c838fbf80222fab39e8514dc2",
+        "sha1": "4c78b689b9ccb75892b38f88574b4d4c1ef048d9",
+        "crc32": "3444292a"
+      }
+    },
+    {
+      "filename": "KKND Krossfire (Germany).bin",
+      "filesize": 567095424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52ac3d4bb4c7ce5040c7940f3e8bb48c",
+        "sha1": "07a71d932e20b988bb8a0c27f112c96cdda928e9",
+        "crc32": "bc421cd3"
+      }
+    }
+  ]
+}

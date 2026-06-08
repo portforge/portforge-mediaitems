@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Kuma no Pooh-san - Mori no Tomodachi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Tomodachi (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "39de53081daf1f775b8a707790655f1c",
+        "sha1": "2118c11c2c112d2fee5e134bf3ee49366038d45c",
+        "crc32": "9eb68f9d"
+      }
+    },
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Tomodachi (Japan).bin",
+      "filesize": 685617408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "197637f7c68375bdcacdf28426ccbbde",
+        "sha1": "c48bd1ccfe755d25227ff121c37bcda72b8d11c3",
+        "crc32": "9786c6d7"
+      }
+    }
+  ]
+}

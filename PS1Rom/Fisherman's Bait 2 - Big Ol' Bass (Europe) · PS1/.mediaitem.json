@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fisherman's Bait 2 - Big Ol' Bass (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fisherman's Bait 2 - Big Ol' Bass (Europe).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1a2b6871ee7cf4e3afc31d0d6ed749c5",
+        "sha1": "fd067ac9c73c58e0a4448d0ca25114261d039e94",
+        "crc32": "3aa3ad52"
+      }
+    },
+    {
+      "filename": "Fisherman's Bait 2 - Big Ol' Bass (Europe).bin",
+      "filesize": 118752480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c43d0ca4add581ea2336cafb9cd7c82",
+        "sha1": "afabe688d0ff478f5537a785c454b863db143168",
+        "crc32": "ee2f9d26"
+      }
+    }
+  ]
+}

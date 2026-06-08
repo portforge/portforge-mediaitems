@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arc the Lad Collection - Arc the Lad II (USA) (Beta) (2001-09-11)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arc the Lad Collection - Arc the Lad II (USA) (Beta) (2001-09-11).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "da3d805c79ea6dd3a103bfc018190cb3",
+        "sha1": "5e438ca869b22204a2538d17f885448f99b78455",
+        "crc32": "155d0356"
+      }
+    },
+    {
+      "filename": "Arc the Lad Collection - Arc the Lad II (USA) (Beta) (2001-09-11).bin",
+      "filesize": 740760048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0da801b8a3cb2cd02a842f858409dd72",
+        "sha1": "b2bcd24911b1fa80eb18f8a3684d9f6f51efc7b2",
+        "crc32": "101a3eff"
+      }
+    }
+  ]
+}

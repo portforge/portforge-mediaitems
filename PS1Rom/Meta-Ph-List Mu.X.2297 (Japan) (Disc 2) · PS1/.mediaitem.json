@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Meta-Ph-List Mu.X.2297 (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Meta-Ph-List Mu.X.2297 (Japan) (Disc 2).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "565159951a06e0baa84a386a36fd348c",
+        "sha1": "a255444c8756b4a0ce0c865fe5547f5d6fed72a7",
+        "crc32": "210074f9"
+      }
+    },
+    {
+      "filename": "Meta-Ph-List Mu.X.2297 (Japan) (Disc 2).bin",
+      "filesize": 703313856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbc06a2b7dbdea602fe4039050c1f005",
+        "sha1": "49d96e2ea72442c2e0cff2f2d74fe912ef5c5f39",
+        "crc32": "9620a900"
+      }
+    }
+  ]
+}

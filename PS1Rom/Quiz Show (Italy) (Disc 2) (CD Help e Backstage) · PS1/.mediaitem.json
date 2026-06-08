@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Quiz Show (Italy) (Disc 2) (CD Help e Backstage)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Quiz Show (Italy) (Disc 2) (CD Help e Backstage).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "228f561da908f62fe65634a5f15d563b",
+        "sha1": "3bb24867a02d562de5f81113b2e5c4c307b15540",
+        "crc32": "de5777b7"
+      }
+    },
+    {
+      "filename": "Quiz Show (Italy) (Disc 2) (CD Help e Backstage) (Track 1).bin",
+      "filesize": 491887872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e1918590b809d62676ba99afe6545f7",
+        "sha1": "99a690b7a1be2e961082c6bdb2ce61a5744c9515",
+        "crc32": "8624d6c9"
+      }
+    },
+    {
+      "filename": "Quiz Show (Italy) (Disc 2) (CD Help e Backstage) (Track 2).bin",
+      "filesize": 32986800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4635067b7e9d9cf9aadabe5c7a0809b",
+        "sha1": "1ccdea80b0e2e26b872e60bd7602bc635ba037f3",
+        "crc32": "c317d4be"
+      }
+    }
+  ]
+}

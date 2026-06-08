@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eve Zero (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eve Zero (Japan) (Disc 2).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "071068b6af2ba16acce98ec543771047",
+        "sha1": "5fe0d9fcf8303bc70c07fde8e34e2b400183ecf3",
+        "crc32": "d35156cd"
+      }
+    },
+    {
+      "filename": "Eve Zero (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 705237792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e9fddaefc4f9dd080625aee7035f751",
+        "sha1": "e2756b640935366ceb8c35a559356efb827c7f13",
+        "crc32": "3f77827c"
+      }
+    },
+    {
+      "filename": "Eve Zero (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 44121168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51a89e37ccffcf264ce2def5a579d1ff",
+        "sha1": "5d7a8da805561767f4977a909038497ab1d1bc68",
+        "crc32": "06fed1ca"
+      }
+    }
+  ]
+}

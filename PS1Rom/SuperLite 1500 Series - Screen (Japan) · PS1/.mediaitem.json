@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Screen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Screen (Japan).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4f9f382736250e15cbc09550619aeb05",
+        "sha1": "1312b6c9457a04180ea89505437048499a9c300f",
+        "crc32": "6ab4f1b7"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Screen (Japan) (Track 1).bin",
+      "filesize": 709878288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2d5a6e6cb0734a0841be910456e1cd3",
+        "sha1": "73088ac681210ac539958632fb16ac99cab0a38b",
+        "crc32": "2617edfd"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Screen (Japan) (Track 2).bin",
+      "filesize": 34913088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c0afb7a1d89dd6bff974ec289011925",
+        "sha1": "bb7b7e5a5b9c7ae59b95a07ff506f37c0dc9dbba",
+        "crc32": "e2b5af12"
+      }
+    }
+  ]
+}

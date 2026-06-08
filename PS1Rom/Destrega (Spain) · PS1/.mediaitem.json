@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Destrega (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Destrega (Spain).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d6320c4c4430f9b5df23f3bdee394cb",
+        "sha1": "20b5c8c8d727d640548010ba72cd4100b976a580",
+        "crc32": "8c08ea31"
+      }
+    },
+    {
+      "filename": "Destrega (Spain).bin",
+      "filesize": 568358448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddf2024160fbbbd53c0bff3ba446ef2a",
+        "sha1": "0fef47bd545a065fe0b317aac7b399a35e9939b6",
+        "crc32": "4a6c0f6e"
+      }
+    }
+  ]
+}

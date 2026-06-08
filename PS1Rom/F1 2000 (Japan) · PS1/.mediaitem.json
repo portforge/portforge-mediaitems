@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F1 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F1 2000 (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b61564e2f5c8a0c76242d391593aad04",
+        "sha1": "656e34fe74601de38badd07c16495d712c3fd501",
+        "crc32": "9fefcaab"
+      }
+    },
+    {
+      "filename": "F1 2000 (Japan).bin",
+      "filesize": 334564944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8711667076bb8fa90d81114fd3641dd2",
+        "sha1": "1cf397411f8c70e6c8f4e7bdd5d0a7b72c2e1358",
+        "crc32": "a17f774a"
+      }
+    }
+  ]
+}

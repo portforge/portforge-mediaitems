@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Moonlight Syndrome (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Moonlight Syndrome (Japan) (Disc 1).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7270519ddeab13e0878079d66ca87269",
+        "sha1": "abf6d48b4eb27cb3dc1f03c9b2d1fba4cfc1e251",
+        "crc32": "32ab2411"
+      }
+    },
+    {
+      "filename": "Moonlight Syndrome (Japan) (Disc 1).bin",
+      "filesize": 558628224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e12b572739ee4fcb1a1d4a4702b2713",
+        "sha1": "eb4075fe1571a112cedd275113ca4100c086edde",
+        "crc32": "bc234d00"
+      }
+    }
+  ]
+}

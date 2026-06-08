@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ehrgeiz - God Bless the Ring (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ehrgeiz - God Bless the Ring (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b9f18b0aa9094597430c12cf555e215",
+        "sha1": "197d3dafbd9369fee6514c6a5c78306b99375d38",
+        "crc32": "f88f0f28"
+      }
+    },
+    {
+      "filename": "Ehrgeiz - God Bless the Ring (USA).bin",
+      "filesize": 697565568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbf606dc28ee07459c3271010f1e9022",
+        "sha1": "37c5746e0969d159f6b1111a2904e72857c252d0",
+        "crc32": "25031f7d"
+      }
+    }
+  ]
+}

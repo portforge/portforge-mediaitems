@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Honkaku Shougi - Shougi-ou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Honkaku Shougi - Shougi-ou (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78e20ee24898545ecf38224f0c777aa0",
+        "sha1": "dbd2ea9089e56f45e9f4e5214f650ef10cfed79f",
+        "crc32": "131189a7"
+      }
+    },
+    {
+      "filename": "Honkaku Shougi - Shougi-ou (Japan).bin",
+      "filesize": 270475296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0adc3ff01a66f40f3ee7256c796caa53",
+        "sha1": "02b71aa99336135ff46b206b02bbffff52c6b504",
+        "crc32": "4056b291"
+      }
+    }
+  ]
+}

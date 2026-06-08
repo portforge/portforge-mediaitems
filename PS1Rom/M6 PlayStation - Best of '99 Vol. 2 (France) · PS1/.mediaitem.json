@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "M6 PlayStation - Best of '99 Vol. 2 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "M6 PlayStation - Best of '99 Vol. 2 (France).cue",
+      "filesize": 534,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b7c26219d02a4b7fb2e5ef24b6b22e6",
+        "sha1": "7f0c35686fa3274c874465de391b229c6e9dea8b",
+        "crc32": "2b7c7c99"
+      }
+    },
+    {
+      "filename": "M6 PlayStation - Best of '99 Vol. 2 (France) (Track 1).bin",
+      "filesize": 585605664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bb606d5ce5891e25a3a45ce06f61d8b",
+        "sha1": "f9041af639575c53fdcce7ecd52bdd2c42e581da",
+        "crc32": "a2008e4d"
+      }
+    },
+    {
+      "filename": "M6 PlayStation - Best of '99 Vol. 2 (France) (Track 2).bin",
+      "filesize": 39179616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd9ae9180c56506b0d902bb47d6a4991",
+        "sha1": "883f47577c58fc6a7ce3534ec711941ef442b76c",
+        "crc32": "2e0c69eb"
+      }
+    },
+    {
+      "filename": "M6 PlayStation - Best of '99 Vol. 2 (France) (Track 3).bin",
+      "filesize": 49963536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "155e3cf4dacca1972d00ccd5476fe369",
+        "sha1": "54679cf0bf0115286c0158dc721a228ec6aa2c0c",
+        "crc32": "f19cbe95"
+      }
+    },
+    {
+      "filename": "M6 PlayStation - Best of '99 Vol. 2 (France) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

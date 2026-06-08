@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episode I - The Phantom Menace (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episode I - The Phantom Menace (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "737de40e6f3f0b1e6d0630c55084321f",
+        "sha1": "e9443f0a9a74ee9f2906df27ab44a671ff5bc5f5",
+        "crc32": "2472d7c9"
+      }
+    },
+    {
+      "filename": "Star Wars - Episode I - The Phantom Menace (Japan).bin",
+      "filesize": 675108672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c624890bad11f23f24410845ad291d80",
+        "sha1": "5459819b1896ccd1794ae7cf72181b28bf131700",
+        "crc32": "d3d822c3"
+      }
+    }
+  ]
+}

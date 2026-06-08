@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dai-4-ji Super Robot Taisen S (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dai-4-ji Super Robot Taisen S (Japan).cue",
+      "filesize": 375,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0ce1ec9279aeed649e7fcd7ea1e970b9",
+        "sha1": "ff1e5d74b4b210c0720086ac0589d1328213275d",
+        "crc32": "d0d1355d"
+      }
+    },
+    {
+      "filename": "Dai-4-ji Super Robot Taisen S (Japan) (Track 1).bin",
+      "filesize": 392151312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19cfa8cf70853d8a6ab0ef2786ac0828",
+        "sha1": "9e445976b41882bedcddc6384744867ed439b010",
+        "crc32": "1282212b"
+      }
+    },
+    {
+      "filename": "Dai-4-ji Super Robot Taisen S (Japan) (Track 2).bin",
+      "filesize": 3880800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad78288240e874534c16d402dca6bbc5",
+        "sha1": "ce5c859bc6615d4f4784ea952e0f0cc92e811eef",
+        "crc32": "7bbaf09b"
+      }
+    },
+    {
+      "filename": "Dai-4-ji Super Robot Taisen S (Japan) (Track 3).bin",
+      "filesize": 63210000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9f0dd14881b2961e0dd147c21b9cd6e",
+        "sha1": "b7b869670b7440184b7d8b521861851fe2345924",
+        "crc32": "2c0b39ad"
+      }
+    }
+  ]
+}

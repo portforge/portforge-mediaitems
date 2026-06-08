@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Novastorm (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Novastorm (Japan) (Disc 1).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f839917cf49c01b35a3ea58a278f5bd",
+        "sha1": "f2b82aab08cd8f6fceca7b132d37641bfa265554",
+        "crc32": "dc0a8b38"
+      }
+    },
+    {
+      "filename": "Novastorm (Japan) (Disc 1).bin",
+      "filesize": 405607104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "015c084bc66e40bf96e0c766ea12540b",
+        "sha1": "4280d3bbfccea4aada06578d9738d0973e69d83e",
+        "crc32": "acadb4e0"
+      }
+    }
+  ]
+}

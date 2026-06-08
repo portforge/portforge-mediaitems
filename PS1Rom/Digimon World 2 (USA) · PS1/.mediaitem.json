@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digimon World 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digimon World 2 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cc846fba79a92cfafdd0fbfe147a04bc",
+        "sha1": "d09208ad7e4d74f01fa3415e179d948172e464e6",
+        "crc32": "a881e689"
+      }
+    },
+    {
+      "filename": "Digimon World 2 (USA).bin",
+      "filesize": 461993952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8ee6810a33c45273800df07628d816b",
+        "sha1": "d9cb009bc0006e901d8ab1365f764ab71da02115",
+        "crc32": "b0cd9681"
+      }
+    }
+  ]
+}

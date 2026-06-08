@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pac-Man World (USA) (Demo) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1).cue",
+      "filesize": 1530,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bac601c7383206e929f736dea72687d3",
+        "sha1": "4113e2a0e88af46743d83243428e7b3748192e6b",
+        "crc32": "94cb36bc"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 01).bin",
+      "filesize": 57986208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7503990a535466b141b913b5c676113a",
+        "sha1": "be88f5287f125876229b52941b161a0e98cfb3c7",
+        "crc32": "82f0f3a1"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 02).bin",
+      "filesize": 16245264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d5714eaf433e4b2d8df0240491c667b",
+        "sha1": "476e78fc78f0238de91ae66f81e0e08182c0e0ba",
+        "crc32": "a8d7a903"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 03).bin",
+      "filesize": 1298304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed54012364653864275c390f0a7f99c4",
+        "sha1": "edb3854c424c42b63cec0608179c85d7311098f0",
+        "crc32": "a0f01584"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 04).bin",
+      "filesize": 1378272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f417fcd7316c9a1d1494e4e203115a6a",
+        "sha1": "3859c9bd1ae31a2de4fa67c17a8b28bc9e45ba5b",
+        "crc32": "88ca41e3"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 05).bin",
+      "filesize": 1342992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c6e65f761882f50216daec2b92bce79",
+        "sha1": "20dc4b8209cb078c4a48d1523bcc7be86c0ca631",
+        "crc32": "a5ea517a"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 06).bin",
+      "filesize": 1270080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8b301efec7e571799b65ed954cf86a9",
+        "sha1": "cd6e3be2773aa0804c9f7ff96ca52595a13403f2",
+        "crc32": "33f18253"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 07).bin",
+      "filesize": 1397088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "476e206383039325c583342e99847108",
+        "sha1": "fe809aa530e21088c33a172db39276a71cd36026",
+        "crc32": "2957a5f9"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 08).bin",
+      "filesize": 1260672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec37de29561f29cb5699f4e73cf6c735",
+        "sha1": "35fbccaccc2ba0a4bf452ad8ee5ef7f5fa55fb7b",
+        "crc32": "d510eefa"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 09).bin",
+      "filesize": 16623936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08dab45fb35408dc71be75a244a5ecdc",
+        "sha1": "3f2233da47a4e4cff3fb81ba86093b1438beb00d",
+        "crc32": "df5c9f6c"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 10).bin",
+      "filesize": 11117904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0604d830b7a346b88e420d4e0fb0528",
+        "sha1": "c18cc078ca902ee843808e80f8e6808a798bdefd",
+        "crc32": "83d7ace7"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 11).bin",
+      "filesize": 8979936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba542bafaf4f77df85c1d02a793af599",
+        "sha1": "62cba665e8e678c44d3b8285d07702a282fc6d24",
+        "crc32": "e3f637dc"
+      }
+    },
+    {
+      "filename": "Pac-Man World (USA) (Demo) (Rev 1) (Track 12).bin",
+      "filesize": 28002912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "938cd585633f5c4bff1856b807bfd8de",
+        "sha1": "53bf773f2fd1e9ac3bf219555bf61a36c93a19a9",
+        "crc32": "53138a3e"
+      }
+    }
+  ]
+}

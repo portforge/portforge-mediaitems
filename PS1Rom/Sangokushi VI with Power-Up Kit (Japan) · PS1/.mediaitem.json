@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sangokushi VI with Power-Up Kit (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sangokushi VI with Power-Up Kit (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "230220c11210ad98e1ceda2396b25d9b",
+        "sha1": "d01db0f3fb31c8dd81a5d7652ced1b1fe8f8f0e5",
+        "crc32": "4ac8fb4e"
+      }
+    },
+    {
+      "filename": "Sangokushi VI with Power-Up Kit (Japan) (Track 1).bin",
+      "filesize": 139414800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f0dfd3b2cabf1b8ce67a3749b5809f2",
+        "sha1": "e4c4506ce78a8327a27506a7301c910dc185db6e",
+        "crc32": "a656871b"
+      }
+    },
+    {
+      "filename": "Sangokushi VI with Power-Up Kit (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Kanzen Kouryaku - Takasago Super Project (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Kanzen Kouryaku - Takasago Super Project (Japan).cue",
+      "filesize": 747,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c41c8c225241c6e716b9ffad905ac03e",
+        "sha1": "056414e61d59af966823441410ac5e683adeec1d",
+        "crc32": "53af24a5"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Kanzen Kouryaku - Takasago Super Project (Japan) (Track 1).bin",
+      "filesize": 300004656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "885eaa04c80ed0fb828942c07a4e6887",
+        "sha1": "3696ea9ab00be5042273a8d21942fa19e799fb84",
+        "crc32": "6b34327e"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Kanzen Kouryaku - Takasago Super Project (Japan) (Track 2).bin",
+      "filesize": 15784272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5cb372773bbf591aa867ccb1150b971",
+        "sha1": "feba8406c89927740fc7215bd719378af1a2660f",
+        "crc32": "5fdfc8eb"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Kanzen Kouryaku - Takasago Super Project (Japan) (Track 3).bin",
+      "filesize": 16456944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2becc81f38c34eebe6254ad36d6f444",
+        "sha1": "74e635fa43a0def2899cd92565c12bb4e68c42e5",
+        "crc32": "ea306e18"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Kanzen Kouryaku - Takasago Super Project (Japan) (Track 4).bin",
+      "filesize": 27890016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fdf4b490b86365d81754d43c8c1e16e",
+        "sha1": "8a82317e767603f1944490b68ca709c1da692e9c",
+        "crc32": "94b83b34"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Kanzen Kouryaku - Takasago Super Project (Japan) (Track 5).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

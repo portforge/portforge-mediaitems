@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Archer Maclean's 3D Pool (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Archer Maclean's 3D Pool (Europe).cue",
+      "filesize": 744,
+      "ext": "cue",
+      "checksums": {
+        "md5": "887d6f30f597fc13e11512a5c2784c18",
+        "sha1": "ab5fbb7ba2ba2edcf5c0d2b1135d4b9f53475943",
+        "crc32": "b786676a"
+      }
+    },
+    {
+      "filename": "Archer Maclean's 3D Pool (Europe) (Track 1).bin",
+      "filesize": 50323392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c86368d7ba193b30dcb25dcaddf8283c",
+        "sha1": "7699da953e9f1b61c3ac7159d7ea9aa9d2570831",
+        "crc32": "7f01a3b0"
+      }
+    },
+    {
+      "filename": "Archer Maclean's 3D Pool (Europe) (Track 2).bin",
+      "filesize": 21309120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c97f3af822448379eb71ac05ee139786",
+        "sha1": "6fb7fc27ec02f9847848ef4f87c0f379cd94542b",
+        "crc32": "bd07e39d"
+      }
+    },
+    {
+      "filename": "Archer Maclean's 3D Pool (Europe) (Track 3).bin",
+      "filesize": 17120208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82be09f8ffbc2311c1ca38d2f75d7acc",
+        "sha1": "b50bc663fecaefa7032efd9c7a748ccf7e355d29",
+        "crc32": "9f4ff8e5"
+      }
+    },
+    {
+      "filename": "Archer Maclean's 3D Pool (Europe) (Track 4).bin",
+      "filesize": 21309120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "519fd4c54a9464c940aac8d590bbb632",
+        "sha1": "8be67d9b04962e8f4cfce957f9cb54ac3cf6e0e7",
+        "crc32": "5f5c4300"
+      }
+    },
+    {
+      "filename": "Archer Maclean's 3D Pool (Europe) (Track 5).bin",
+      "filesize": 16767408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4aecb64b5c7abc3fe2f43f1e0d2dc4c4",
+        "sha1": "3f5aef598d660bad8598d01708e9f5ebce6a9ba5",
+        "crc32": "8f118a42"
+      }
+    },
+    {
+      "filename": "Archer Maclean's 3D Pool (Europe) (Track 6).bin",
+      "filesize": 42693504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4f62e8802236bdafc4b986e82e2f526",
+        "sha1": "20a927a3e41dec1f855b0e8c5961e84211ffae3f",
+        "crc32": "87129cc0"
+      }
+    }
+  ]
+}

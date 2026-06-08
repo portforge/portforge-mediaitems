@@ -1,0 +1,427 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Magic - The Gathering - BattleMage (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe).cue",
+      "filesize": 5640,
+      "ext": "cue",
+      "checksums": {
+        "md5": "71df0472be8971c9fe4556b2ddf36d80",
+        "sha1": "fad2006fccbec0d414938eac67268b7a55af9d93",
+        "crc32": "8e1ab23c"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 01).bin",
+      "filesize": 221612496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d03350972ef358354e168d8e9949056",
+        "sha1": "12c8b78f8d26c44c5d56f86e79a6b9765476d62d",
+        "crc32": "72e21bdb"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 02).bin",
+      "filesize": 4261824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d40446673e8b746ede8bede16b2aca3",
+        "sha1": "0d839297a179647ca7a19745d4e4acadb78d7a90",
+        "crc32": "c9d2edd0"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 03).bin",
+      "filesize": 5421360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9d55e1d893947e47daad36000059a25",
+        "sha1": "a8735a11ceac7807ef247ef1b03dbfc4e98e44ff",
+        "crc32": "e91d53a1"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 04).bin",
+      "filesize": 3932544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "043456532a41b53cd0b8942f416dea1f",
+        "sha1": "474ce4257a9bcf49d539395cd6758b8c7b664745",
+        "crc32": "ad11c424"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 05).bin",
+      "filesize": 4739280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9773deb94b513b911e1266902f5321e",
+        "sha1": "ae193aab16066343e887c7006ad49864fc1ff640",
+        "crc32": "2c1d83dd"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 06).bin",
+      "filesize": 5181456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0f21555c9c3fdb3d650fed317e7c1a3",
+        "sha1": "7ada6e7ee96a97e209a390e377a575b95f9abc97",
+        "crc32": "de473d80"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 07).bin",
+      "filesize": 2916480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55eb41924980ffaa78cd49d6924022ca",
+        "sha1": "ae605e910002baf284aa34a571346f0fef2b6102",
+        "crc32": "df3c328c"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 08).bin",
+      "filesize": 4675776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5afdae8fe99da3748ce160a7d6e86919",
+        "sha1": "2d1297d27fe86c0efead013415b6a4d68ca906a8",
+        "crc32": "0fb39f57"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 09).bin",
+      "filesize": 3361008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7783cf9f944f4a99754ce30693a675bf",
+        "sha1": "dc60f398abe6a0d42dca64053bb2e9f9f7197671",
+        "crc32": "ae6a4716"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 10).bin",
+      "filesize": 4080720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca5f0d5ac8112ff7df6710ce33d7153c",
+        "sha1": "416503dd452f4cc536ed5f38fec76a26af78c317",
+        "crc32": "c83eaa93"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 11).bin",
+      "filesize": 3988992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aeae4debf31b7de64cdeeca8b5085a3a",
+        "sha1": "a8f0a285a101ce998e4c9efaecf75ac07f59b4ea",
+        "crc32": "dba1f7c4"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 12).bin",
+      "filesize": 3986640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb7f31d3691d026bca02e866e64f5ba9",
+        "sha1": "a59beecb38432baeaad406ba30839cb72f7dc2c1",
+        "crc32": "3d04db02"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 13).bin",
+      "filesize": 3739680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e24586959a54a19f6141eaa1a52dfee1",
+        "sha1": "78979a3d7af73605114fd7e30e93d611fd1aae9d",
+        "crc32": "080307dd"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 14).bin",
+      "filesize": 4134816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47ff3f4b29dfc65e42d72af52c021d98",
+        "sha1": "2d051fe9b4dd7f93031f69c51df80380d4396ee2",
+        "crc32": "80fa3025"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 15).bin",
+      "filesize": 3304560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fc6e1f225a07588f206a8dd63588bec",
+        "sha1": "e46db38e1623716dba4b054b74288c908a77cb81",
+        "crc32": "6d3adc10"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 16).bin",
+      "filesize": 4047792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "896b1be903962839950be6ea11c73d89",
+        "sha1": "e2358ad959a5e012231b36a152a4c67301d54c9b",
+        "crc32": "cf647283"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 17).bin",
+      "filesize": 3290448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fd430db0d4599f2f6a3e18613549978",
+        "sha1": "cdc8dae690df73cb618375a65e2b951a7aa1aaf0",
+        "crc32": "c3c3e6f2"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 18).bin",
+      "filesize": 3055248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e042b2b77d28dbeeb3e5e2b60752d08",
+        "sha1": "b94184961d74cdf1342892b99906a45c56e95736",
+        "crc32": "1396198a"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 19).bin",
+      "filesize": 8476608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2e43e5fd1e84310b24b7b40b55d9694",
+        "sha1": "f516dc526ff9f753dd7761d7afb2067a738bcb72",
+        "crc32": "9571bb8d"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 20).bin",
+      "filesize": 3899616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eba418588921ede02741c35e1e12e05a",
+        "sha1": "c5aba9e5b7f4e9685aa3cf2ad9db05b297924df1",
+        "crc32": "d50b03f7"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 21).bin",
+      "filesize": 3723216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87daef495c205706354a34d7876ba1c2",
+        "sha1": "a794d0eef04415c1189a1bb9b6d1a5d609d7e98e",
+        "crc32": "2c99c919"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 22).bin",
+      "filesize": 3892560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e11c825777500c59df1797b20c20c9bb",
+        "sha1": "c1954359fe936f1cb70992411e8643eff1dbc69f",
+        "crc32": "c0b841b5"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 23).bin",
+      "filesize": 4560528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0eb7a0c9310be71f667f4588a5f27659",
+        "sha1": "0f4e2eaa1ef33040c662afbe478ac993309edc40",
+        "crc32": "c322455a"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 24).bin",
+      "filesize": 3984288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f874a1b136b5d74b323ff3cd8f33a048",
+        "sha1": "7a3430b76ece171b4cc0e9bc16b66dac95d7f116",
+        "crc32": "bec24f93"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 25).bin",
+      "filesize": 5863536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d71dd9f84154d72cfa69111259fd6e66",
+        "sha1": "1b9d73434b53eac739fb5a6ac137f65e36d3bc31",
+        "crc32": "a93e4b94"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 26).bin",
+      "filesize": 4497024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e424be182e9e077974eeb71079fd7909",
+        "sha1": "0f132971655e7eb6220aa9298d24d90481a6613b",
+        "crc32": "d1e68e42"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 27).bin",
+      "filesize": 4433520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4483e5fabb3d63c382ac8a1c637bca9d",
+        "sha1": "8761bcf58e3fdc36ed90a3b1693c84d73bae297d",
+        "crc32": "c94c49f1"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 28).bin",
+      "filesize": 3363360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8d23f1a02965d0b02c618c43bda0e84",
+        "sha1": "3be9d9d5cbaa2fcc61cfbd45e61786b5f83672f7",
+        "crc32": "92d7e97b"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 29).bin",
+      "filesize": 5176752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa0cc2bd204ce4f0025583015b940e56",
+        "sha1": "ac1eeeaae90a50f7863a8d44b251c7cc183ff376",
+        "crc32": "29b3b76b"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 30).bin",
+      "filesize": 3645600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef6d42013b0d08f449b815a797ccbdce",
+        "sha1": "11c0f31b5a8faaa432d03a3645112496a1981f5e",
+        "crc32": "7b7f2b7b"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 31).bin",
+      "filesize": 3972528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0064cba5b70122fa6b593e2ca9f249f",
+        "sha1": "9306d8b689a1dada153fbe14ee96c72ce67d2ee8",
+        "crc32": "cda1ee5d"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 32).bin",
+      "filesize": 20436528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33a461c729d8e7bd4e8a1d5915116a42",
+        "sha1": "72a7ca286769288f9c9918e7e17cb8663eefe18d",
+        "crc32": "9fc39bd3"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 33).bin",
+      "filesize": 14377776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acc618995fba1e9cfd6291ef94ba2f8d",
+        "sha1": "a8949c9d5fe08cfa8ec90a6b5c1a8a1ce2a5c294",
+        "crc32": "e749388f"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 34).bin",
+      "filesize": 16485168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca501e165ae73a55123142ec93e0ab9c",
+        "sha1": "105a482118517753716fa1748811eed073416a64",
+        "crc32": "f61169d8"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 35).bin",
+      "filesize": 22092336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d566d7e72c312e05eefc841952bfeaa5",
+        "sha1": "d4c4bac5a69236ddfc0f9c55f5f70e35c735330e",
+        "crc32": "86dddadf"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 36).bin",
+      "filesize": 25589760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "458d67686fe46f2c2ca3c3a179c7ca70",
+        "sha1": "d22348267a55cba2b79ab62e6ae2850d1fa86ba0",
+        "crc32": "f5615d97"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 37).bin",
+      "filesize": 22071168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89730cd641ee401e5f76dc16fc997688",
+        "sha1": "6f979d4060e0a058d02bdefc419c8899ac1cee6c",
+        "crc32": "37c3164e"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 38).bin",
+      "filesize": 21680736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2a055c3756ae54fcd6f11aaa6e0f7aa",
+        "sha1": "f163bef0d0110473ddb862bd74231c7d3590d317",
+        "crc32": "4b0b4d5b"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 39).bin",
+      "filesize": 30329040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d46667e0612c56600414e142529ac1c",
+        "sha1": "a5de2f022a9a2e2c1a541e120d0ebb459074afd8",
+        "crc32": "16393532"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 40).bin",
+      "filesize": 47990208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4010489a515ba5f44d00d2ff28a5f69a",
+        "sha1": "02333f1cfee90be04c3df711be274463456cfa17",
+        "crc32": "14eae486"
+      }
+    },
+    {
+      "filename": "Magic - The Gathering - BattleMage (Europe) (Track 41).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

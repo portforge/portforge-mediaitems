@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo 2 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo 2 (Japan) (Demo).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5b6ce367ce6a4987c1381cddfabd8bb4",
+        "sha1": "7363dd8bda0d715384e2b2f37e57de13fc8a3eeb",
+        "crc32": "69f5a404"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 (Japan) (Demo).bin",
+      "filesize": 161041440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf6b56134fe8df521dcb8bcc32051698",
+        "sha1": "52e56a12f38d9461ecab03f859cef522149f3b51",
+        "crc32": "ee0d8ea6"
+      }
+    }
+  ]
+}

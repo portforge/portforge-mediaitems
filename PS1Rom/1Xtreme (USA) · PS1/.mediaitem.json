@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "1Xtreme (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "1Xtreme (USA).cue",
+      "filesize": 700,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21715ed6e6471a0eb6b0f85011f8bd1d",
+        "sha1": "1c435695dc2049bc6e6fd863952451cd834c50f5",
+        "crc32": "fe46298f"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 1).bin",
+      "filesize": 106148112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3b5ab6c8e2baf21d5e2350c2f9d4c02",
+        "sha1": "cd5b1d751a29b7438155eed9172fc9e63aea81df",
+        "crc32": "fa91ae7d"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 2).bin",
+      "filesize": 60213552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5f2aeda976a2d838b88e5990911f3fa",
+        "sha1": "209fcd68a66f2d1523f05d3a1b9147a8454f454c",
+        "crc32": "4531bb15"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 3).bin",
+      "filesize": 66371088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5d8552ab743eae5f574f001ccf74771",
+        "sha1": "a9066257cdc1e4ddb9e9d66bf0893c5f78c11344",
+        "crc32": "240ae824"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 4).bin",
+      "filesize": 54460560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f0b0f35f82e1b0b6effcbe015937ee2",
+        "sha1": "901ee2af3f312e7c52825d04f0bc3f1dbe14827c",
+        "crc32": "12d6a5d5"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 5).bin",
+      "filesize": 67222512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d014cbfa47039d05ac7fda432e62a9ff",
+        "sha1": "397ab9e6bf14ddd6018e012de13d13dc9bb8f3c1",
+        "crc32": "78e5eb51"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 6).bin",
+      "filesize": 63391104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "506dcab5884e4d13df177bfbf1700fe7",
+        "sha1": "5ddf648f9ee3eb7a8b780b9383a4ecd7a1b5d2a5",
+        "crc32": "0be5297f"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 7).bin",
+      "filesize": 63035952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9276a8ddb0653016cf6bf9a0d1825b97",
+        "sha1": "b03a441e27ccfd27f72f5330f1e9e2f3cf9665d9",
+        "crc32": "9cee0906"
+      }
+    },
+    {
+      "filename": "1Xtreme (USA) (Track 8).bin",
+      "filesize": 63035952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9276a8ddb0653016cf6bf9a0d1825b97",
+        "sha1": "b03a441e27ccfd27f72f5330f1e9e2f3cf9665d9",
+        "crc32": "9cee0906"
+      }
+    }
+  ]
+}

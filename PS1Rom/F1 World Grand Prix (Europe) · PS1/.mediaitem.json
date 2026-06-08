@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F1 World Grand Prix (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F1 World Grand Prix (Europe).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9833dbb072a2057d4d4d26a1d1e5a52c",
+        "sha1": "a3bdba953ee3ef42db08de12f630312ab0c850b6",
+        "crc32": "a7773cbe"
+      }
+    },
+    {
+      "filename": "F1 World Grand Prix (Europe).bin",
+      "filesize": 595481712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94508e31427ebd3f1cbcdfd7d4981b42",
+        "sha1": "6a133024908dc49da91cff87d02383bb1dd978f7",
+        "crc32": "43137106"
+      }
+    }
+  ]
+}

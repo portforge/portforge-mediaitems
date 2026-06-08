@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple Character 2000 Series Vol. 13 - Shin Kidou Senki Gundam W - The Battle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple Character 2000 Series Vol. 13 - Shin Kidou Senki Gundam W - The Battle (Japan).cue",
+      "filesize": 340,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0dcf1ea93b759b0ff106d1c95433ba6",
+        "sha1": "d0622b01b6c150d50c602242f52208c8480e427a",
+        "crc32": "b3e3f7e0"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 13 - Shin Kidou Senki Gundam W - The Battle (Japan) (Track 1).bin",
+      "filesize": 201949776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf64a2977c21999884f263ffffee6394",
+        "sha1": "9292661b10a7b7e3e6e0f95139ff9577df1487c9",
+        "crc32": "39bbccb1"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 13 - Shin Kidou Senki Gundam W - The Battle (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

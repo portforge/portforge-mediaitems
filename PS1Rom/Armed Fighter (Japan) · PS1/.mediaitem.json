@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Armed Fighter (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Armed Fighter (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "66bdd756365eadd401f13ee7deec5390",
+        "sha1": "201c0517b1eba76c8fa23b973f7ab7e39bbca1dc",
+        "crc32": "aab56cd5"
+      }
+    },
+    {
+      "filename": "Armed Fighter (Japan).bin",
+      "filesize": 421878240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e89e9972bfec07d136ebd331937a1f7",
+        "sha1": "4ad2d60c7b2d8192483815d8da99c7ba346d2d1a",
+        "crc32": "4867251e"
+      }
+    }
+  ]
+}

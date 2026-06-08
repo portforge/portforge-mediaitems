@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars - El Sol Rojo (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars - El Sol Rojo (Spain).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "579272ff202709a394fef6b9469cea57",
+        "sha1": "1481bd53bf9fee6cd05a89bcc6049b6e1d84ff9d",
+        "crc32": "405facce"
+      }
+    },
+    {
+      "filename": "Colony Wars - El Sol Rojo (Spain).bin",
+      "filesize": 697424448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e13954577f7a7c881fef088c258ee1dd",
+        "sha1": "49521b62cf1419f9628756a130624b2c2058d2d1",
+        "crc32": "2ccfcaa2"
+      }
+    }
+  ]
+}

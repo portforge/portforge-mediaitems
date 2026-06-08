@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kurashi Iki! Iki! PlayStation Welcome Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kurashi Iki! Iki! PlayStation Welcome Disc (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e35f8607d879dd4612ba9604b35e8436",
+        "sha1": "65e87f4fd957e187f2cd6d68a23282458b8059ea",
+        "crc32": "537bf58a"
+      }
+    },
+    {
+      "filename": "Kurashi Iki! Iki! PlayStation Welcome Disc (Japan).bin",
+      "filesize": 397276320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba5859544bdba8644d1c8dd0ea4fde04",
+        "sha1": "d0dc04db31279158d2e30116a268ded38c41090c",
+        "crc32": "94e144b1"
+      }
+    }
+  ]
+}

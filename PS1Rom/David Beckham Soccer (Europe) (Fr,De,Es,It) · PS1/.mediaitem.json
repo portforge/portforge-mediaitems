@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "David Beckham Soccer (Europe) (Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "David Beckham Soccer (Europe) (Fr,De,Es,It).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df3c836d464b32fe584df475d72fa8e2",
+        "sha1": "308e8fc9d29c095c9afdc1085bf1ea784567f486",
+        "crc32": "d28bd967"
+      }
+    },
+    {
+      "filename": "David Beckham Soccer (Europe) (Fr,De,Es,It).bin",
+      "filesize": 550243344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7446409ba70b09ee5be8a26e10d6f8ce",
+        "sha1": "cd50bebdd1780b1c5e3d150e2b98389a422a375a",
+        "crc32": "dfdcb1e1"
+      }
+    }
+  ]
+}

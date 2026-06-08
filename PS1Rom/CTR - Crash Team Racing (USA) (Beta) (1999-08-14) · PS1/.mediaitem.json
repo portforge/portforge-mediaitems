@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CTR - Crash Team Racing (USA) (Beta) (1999-08-14)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CTR - Crash Team Racing (USA) (Beta) (1999-08-14).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3ac38103b0b8a80f3d5e2e8ac43b7ac",
+        "sha1": "163dceadb7b56aa17bf4f5ed3ade93018720be34",
+        "crc32": "3b5f5ce4"
+      }
+    },
+    {
+      "filename": "CTR - Crash Team Racing (USA) (Beta) (1999-08-14).bin",
+      "filesize": 305529504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69d14141e270a6bd782aef5d23d72fae",
+        "sha1": "a1cabfcdb175abae488ea5a4a482332a7953c7bf",
+        "crc32": "4edc1ae2"
+      }
+    }
+  ]
+}

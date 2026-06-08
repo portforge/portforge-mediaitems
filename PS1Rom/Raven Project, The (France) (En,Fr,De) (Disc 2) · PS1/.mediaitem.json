@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raven Project, The (France) (En,Fr,De) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raven Project, The (France) (En,Fr,De) (Disc 2).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44732cafe33c7963848d0fbf196144d5",
+        "sha1": "7272b6ddb5340910427397f1f622810bf6111bfc",
+        "crc32": "b94ae250"
+      }
+    },
+    {
+      "filename": "Raven Project, The (France) (En,Fr,De) (Disc 2).bin",
+      "filesize": 708956304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b952053f27f89df2592c5c1c75b35722",
+        "sha1": "78014f69036a3e9b7b277b9be545463087cfa505",
+        "crc32": "dfdc55e2"
+      }
+    }
+  ]
+}

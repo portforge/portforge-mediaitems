@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shinseiden Megaseed - Fukkatsu-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shinseiden Megaseed - Fukkatsu-hen (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d73f9e11c6f0e02090dba7dfadf6064",
+        "sha1": "6726f640e26632564bd06e4431727922773722f1",
+        "crc32": "7660a728"
+      }
+    },
+    {
+      "filename": "Shinseiden Megaseed - Fukkatsu-hen (Japan).bin",
+      "filesize": 390457872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de4e3e3fb49fa35dc9f7e34bab15a8c7",
+        "sha1": "ef93346cbf85989ed00d63405b2af122421ec6aa",
+        "crc32": "99c00db4"
+      }
+    }
+  ]
+}

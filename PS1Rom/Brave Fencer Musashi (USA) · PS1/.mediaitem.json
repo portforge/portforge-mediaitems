@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Brave Fencer Musashi (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Brave Fencer Musashi (USA).cue",
+      "filesize": 462,
+      "ext": "cue",
+      "checksums": {
+        "md5": "661b7e0caf9600adcb4d7cd1b6932c07",
+        "sha1": "550c9069cb14e299621e05333aac59584e5b7527",
+        "crc32": "9a21647f"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashi (USA) (Track 1).bin",
+      "filesize": 364846944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "838e9ecf8b4e4810f3f82228b40e77d8",
+        "sha1": "b44f0f0a19936f23b26188b658e13201a6a9c211",
+        "crc32": "c238191b"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashi (USA) (Track 2).bin",
+      "filesize": 10678080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1101f4e0338390301ddc9f9778b9fe19",
+        "sha1": "0939872cc375a6457326ac9a478265dc59220cc0",
+        "crc32": "7c51bb00"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashi (USA) (Track 3).bin",
+      "filesize": 7328832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9fda92f05c530b1bb6ddd04a6057b66",
+        "sha1": "eae19bf80275fc84a66888582dd362395da1816c",
+        "crc32": "9529a93f"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashi (USA) (Track 4).bin",
+      "filesize": 33167904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d461826ca0da4791f660b4ec54e6080c",
+        "sha1": "4b55f5f2d026d08fb55af9de2ad462fa8b8abd0a",
+        "crc32": "337d3287"
+      }
+    }
+  ]
+}

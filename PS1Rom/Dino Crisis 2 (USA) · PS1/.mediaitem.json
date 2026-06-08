@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dino Crisis 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dino Crisis 2 (USA).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "765356a418a4b28e15aa9368148cda26",
+        "sha1": "44e5321c90ed97d9e249439468e5738d5a8b4c79",
+        "crc32": "9a29d877"
+      }
+    },
+    {
+      "filename": "Dino Crisis 2 (USA) (Track 1).bin",
+      "filesize": 473676336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc8cc9fc5ed761ed5d9cf025df7a6877",
+        "sha1": "f7c71427c4c8726c9114514746c42f10928fbaee",
+        "crc32": "47435b81"
+      }
+    },
+    {
+      "filename": "Dino Crisis 2 (USA) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

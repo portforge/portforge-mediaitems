@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Two-Ten Kaku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Two-Ten Kaku (Japan).cue",
+      "filesize": 324,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa4fa4894d653ecf120d9cba63c3b4c3",
+        "sha1": "4620467e409b2d20ea987983b0daa7c70da8b717",
+        "crc32": "066862d2"
+      }
+    },
+    {
+      "filename": "Two-Ten Kaku (Japan) (Track 1).bin",
+      "filesize": 194432784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b37c3372c5429da5b4bff5d1a5ff2ac",
+        "sha1": "cdfbaa20f997ef6ae44456f430ffb0ea60988f5a",
+        "crc32": "c4030d37"
+      }
+    },
+    {
+      "filename": "Two-Ten Kaku (Japan) (Track 2).bin",
+      "filesize": 5637744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b7dd66faae5cad61e382dd3379e3b4c",
+        "sha1": "d61ef09ba00a3fff092ffe4dafbf76778aa19f78",
+        "crc32": "689552d3"
+      }
+    },
+    {
+      "filename": "Two-Ten Kaku (Japan) (Track 3).bin",
+      "filesize": 41653920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dac0b0c29923c3bb8d880ae38da1f05",
+        "sha1": "644f12306d74ba374414daf2267c6a01ca3a12b0",
+        "crc32": "01fff652"
+      }
+    }
+  ]
+}

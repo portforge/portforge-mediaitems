@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 (Japan) (Disc 4) (Limited Box)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 (Japan) (Disc 4) (Limited Box).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1572c8e5c4faf230bc63ad4f8b11f799",
+        "sha1": "a007c8b1519fa9358422de03733463833d99e5af",
+        "crc32": "ccd45cdc"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 (Japan) (Disc 4) (Limited Box).bin",
+      "filesize": 744814896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abcb4c90c080746f9bdab34ec57c75fe",
+        "sha1": "7e19f1dc9bf1bc8eefbd4f4cc2cee1baec293ffa",
+        "crc32": "63a5d603"
+      }
+    }
+  ]
+}

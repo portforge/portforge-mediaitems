@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Aladdin - Nasiras Rache (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Aladdin - Nasiras Rache (Germany).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "169df38b7058ec4912b54b16dd8ad453",
+        "sha1": "1dff812658f944456fc89517a4f4af431f5d570b",
+        "crc32": "a53e043f"
+      }
+    },
+    {
+      "filename": "Disneys Aladdin - Nasiras Rache (Germany).bin",
+      "filesize": 625648464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a3d1270766a27520c3f35e8b05afb38",
+        "sha1": "974089e3e61fe2eb1f25a0c4ad9fc01c9e632ddd",
+        "crc32": "da3d73dd"
+      }
+    }
+  ]
+}

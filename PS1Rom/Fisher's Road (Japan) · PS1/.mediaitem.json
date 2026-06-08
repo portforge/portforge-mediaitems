@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fisher's Road (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fisher's Road (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f8902737416555222ab4489e9a5c19db",
+        "sha1": "2888e34ea46d283933f1e73c1e60e2c5ba8f10c9",
+        "crc32": "01b9a643"
+      }
+    },
+    {
+      "filename": "Fisher's Road (Japan).bin",
+      "filesize": 116950848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3962858fcef9a4629a97352ddd4b050",
+        "sha1": "4b653f49233fcf9fe8ac0a3e47d2dccb37625cdd",
+        "crc32": "5195a85e"
+      }
+    }
+  ]
+}

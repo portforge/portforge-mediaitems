@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nobunaga no Yabou - Reppuuden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nobunaga no Yabou - Reppuuden (Japan).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cb94f47e0601ed7c5ab06f44c8a780c",
+        "sha1": "c4fc377119d0b5ab52425b13fe1183d8d245776d",
+        "crc32": "c222b32e"
+      }
+    },
+    {
+      "filename": "Nobunaga no Yabou - Reppuuden (Japan) (Track 1).bin",
+      "filesize": 143871840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a6ae0cf7bc5336fa3697beacc2aebad",
+        "sha1": "869332d6e710e591eb8efd7e07dc29f2ce35ee38",
+        "crc32": "f3639954"
+      }
+    },
+    {
+      "filename": "Nobunaga no Yabou - Reppuuden (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

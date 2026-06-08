@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2001 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2001 (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e876cc621d7485a8e3b0d952a4aece40",
+        "sha1": "64f10ea4250b1bc7f0729275297698f7034894ca",
+        "crc32": "227054d3"
+      }
+    },
+    {
+      "filename": "NBA Live 2001 (Germany).bin",
+      "filesize": 414958656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7642b19b98a048bf8dcb76018558062f",
+        "sha1": "8ff56a3c50a39889ddcdbf03ec85226ba8eb94b7",
+        "crc32": "4ff468e9"
+      }
+    }
+  ]
+}

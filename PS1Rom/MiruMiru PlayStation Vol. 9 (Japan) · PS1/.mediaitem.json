@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MiruMiru PlayStation Vol. 9 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MiruMiru PlayStation Vol. 9 (Japan).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0af5258c3daf17ea9907dd50931918a8",
+        "sha1": "e9d27615c0892b8eb2a2b3a4ddc2c39217395ed4",
+        "crc32": "4859bc71"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 9 (Japan) (Track 1).bin",
+      "filesize": 562130352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d365e91a688e3b1ad821fc848017a3c3",
+        "sha1": "8aa0e0b7bb52ccdc76476af0ec1b8f6f24e8e219",
+        "crc32": "68e12f6f"
+      }
+    },
+    {
+      "filename": "MiruMiru PlayStation Vol. 9 (Japan) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

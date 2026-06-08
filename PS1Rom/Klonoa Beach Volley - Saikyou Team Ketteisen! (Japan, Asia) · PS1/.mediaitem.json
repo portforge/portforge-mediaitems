@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e98683dade49eeaa8ccb13d880f48cbc",
+        "sha1": "fe55589474f45663b32c1f74b02da7c759c3a550",
+        "crc32": "3e5bff0a"
+      }
+    },
+    {
+      "filename": "Klonoa Beach Volley - Saikyou Team Ketteisen! (Japan, Asia).bin",
+      "filesize": 661575264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d53b245a3638341779578dee5a73e335",
+        "sha1": "4cd2c71da49e9ae82be3ee41056280134b45c22c",
+        "crc32": "9034da3c"
+      }
+    }
+  ]
+}

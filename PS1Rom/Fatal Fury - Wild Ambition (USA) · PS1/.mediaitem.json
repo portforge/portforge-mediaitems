@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fatal Fury - Wild Ambition (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fatal Fury - Wild Ambition (USA).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "169075f0769e58b10869a4ed9d2a41b0",
+        "sha1": "251f09336adfc83997b01a35150801165b3fad2c",
+        "crc32": "16b3fc24"
+      }
+    },
+    {
+      "filename": "Fatal Fury - Wild Ambition (USA).bin",
+      "filesize": 693830592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6dbb08bcc1f40ae130c8705e4919541b",
+        "sha1": "2a92c10686454526b06c5bbbb924b5e331952485",
+        "crc32": "70c88f0c"
+      }
+    }
+  ]
+}

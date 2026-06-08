@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo (Scandinavia) (Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo (Scandinavia) (Da,Fi).cue",
+      "filesize": 582,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f9a970ffb35bec9f700cc5ec39b2cb40",
+        "sha1": "56d0c1a9d6dfbe76d7bc17635eb101df8171e0cb",
+        "crc32": "af60799a"
+      }
+    },
+    {
+      "filename": "Hugo (Scandinavia) (Da,Fi) (Track 1).bin",
+      "filesize": 499924656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0cd2daf4b98570cf0537d5168d4977e",
+        "sha1": "1075160ef137e38030ed2aaf97be3f34361adf6e",
+        "crc32": "ef72c598"
+      }
+    },
+    {
+      "filename": "Hugo (Scandinavia) (Da,Fi) (Track 2).bin",
+      "filesize": 23176608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7579d978216f84c15b2ebb7f1c0f767b",
+        "sha1": "c48f7dbd03c963153d903f51a302d111a57634f7",
+        "crc32": "4b9a74ce"
+      }
+    },
+    {
+      "filename": "Hugo (Scandinavia) (Da,Fi) (Track 3).bin",
+      "filesize": 17752896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e96466e1f624c0f997710aba4b8e1d3b",
+        "sha1": "8dd29f846dacb0b63449ca1c3dd4a86af9233e8b",
+        "crc32": "4b0947c3"
+      }
+    },
+    {
+      "filename": "Hugo (Scandinavia) (Da,Fi) (Track 4).bin",
+      "filesize": 13107696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4ebf596002e19fac3520075dab3fe37",
+        "sha1": "f9346d2864ddced9003e560f70a518faabe8e86f",
+        "crc32": "496d7fa6"
+      }
+    },
+    {
+      "filename": "Hugo (Scandinavia) (Da,Fi) (Track 5).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "582388bb43094c9ef0c88f1c1aea0e0a",
+        "sha1": "dd5a88f1f17c9f4fa715a0d3286753af60b1c6d0",
+        "crc32": "a98886d2"
+      }
+    }
+  ]
+}

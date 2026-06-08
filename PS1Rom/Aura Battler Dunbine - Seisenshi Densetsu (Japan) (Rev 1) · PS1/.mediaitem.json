@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aura Battler Dunbine - Seisenshi Densetsu (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aura Battler Dunbine - Seisenshi Densetsu (Japan) (Rev 1).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61661dd72b07f7b3552849977f269301",
+        "sha1": "ce83efbc658539c2484f4721a3199caf03b4a704",
+        "crc32": "32bb9605"
+      }
+    },
+    {
+      "filename": "Aura Battler Dunbine - Seisenshi Densetsu (Japan) (Rev 1).bin",
+      "filesize": 651388752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad67901e5fabc3b3edba0ad221d929d6",
+        "sha1": "56d2ce2d817407a863056f4b6b95176897b35aa3",
+        "crc32": "5ad0f8e8"
+      }
+    }
+  ]
+}

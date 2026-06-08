@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Planet PSX Volume 1 (Germany) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Planet PSX Volume 1 (Germany) (Unl).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c1348b0949a93fc784bc4356d68fa87",
+        "sha1": "97e4efe7d7103578cf350908ff6c1f86d86f615a",
+        "crc32": "1dc3b8bd"
+      }
+    },
+    {
+      "filename": "Planet PSX Volume 1 (Germany) (Unl).bin",
+      "filesize": 97391616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "693ed2cd0b71548fcc3b7e38b2eaf33c",
+        "sha1": "257906dba6ceeae76823cbc2a946036a6966bcf5",
+        "crc32": "d87694fe"
+      }
+    }
+  ]
+}

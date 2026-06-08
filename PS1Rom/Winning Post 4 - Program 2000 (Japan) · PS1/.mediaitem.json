@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Winning Post 4 - Program 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Winning Post 4 - Program 2000 (Japan).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "24214173688bd22782203477a399ba3c",
+        "sha1": "f47735eaefc29fd5ff8dc03fa9c8b13f25dda843",
+        "crc32": "e119f33e"
+      }
+    },
+    {
+      "filename": "Winning Post 4 - Program 2000 (Japan) (Track 1).bin",
+      "filesize": 189594720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "173fe3b6f14e1f965e27c203f000ec4c",
+        "sha1": "2cb5fef2a5e4b7a4ba14d0d8a2975dff5ab6bf4b",
+        "crc32": "46940751"
+      }
+    },
+    {
+      "filename": "Winning Post 4 - Program 2000 (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cfa9a3271a784752d63afc8dfe97a40",
+        "sha1": "9eeaa933734dad68cc5f9d0b04be97e7f8f00c27",
+        "crc32": "40b6715d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Ein Koenigreich fuer ein Lama (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Ein Koenigreich fuer ein Lama (Germany).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e19d6a92f12e249d2ac08ff39cc966fd",
+        "sha1": "c12a34a030f1e746d064c920517087f47bcb8ad3",
+        "crc32": "bccadf20"
+      }
+    },
+    {
+      "filename": "Disneys Ein Koenigreich fuer ein Lama (Germany).bin",
+      "filesize": 672123984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f3e53bd01228c395ba529195fab3b39",
+        "sha1": "eb1f445a4ece8c707f26f3cb84f142b9d63d94ef",
+        "crc32": "d08f5c87"
+      }
+    }
+  ]
+}

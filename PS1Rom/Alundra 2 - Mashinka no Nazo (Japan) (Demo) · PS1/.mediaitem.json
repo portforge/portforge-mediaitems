@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alundra 2 - Mashinka no Nazo (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alundra 2 - Mashinka no Nazo (Japan) (Demo).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e507c3deb5ea09c197f8f22b3218be8",
+        "sha1": "a4ccf057d12cfefa4f4bbe0e84399bf83b1ce8ea",
+        "crc32": "aea9ca17"
+      }
+    },
+    {
+      "filename": "Alundra 2 - Mashinka no Nazo (Japan) (Demo).bin",
+      "filesize": 183615936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b572d77e844dbe9a41a5eaad7ea68075",
+        "sha1": "1f55237cd54214a99dfc4cadeaa1aa00f9670b03",
+        "crc32": "d5d570db"
+      }
+    }
+  ]
+}

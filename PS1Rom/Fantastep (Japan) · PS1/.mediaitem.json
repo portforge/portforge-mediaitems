@@ -1,0 +1,567 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fantastep (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fantastep (Japan).cue",
+      "filesize": 6142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f7fa1adb61d3b658f7ae7bf275c8751",
+        "sha1": "7f42364c8cbab5c886b204165b6574062e966515",
+        "crc32": "d12690ba"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 01).bin",
+      "filesize": 397144608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33541a84d139acdccdb248b09fbe5063",
+        "sha1": "a3893a0dfc1c3c9eba051078ba5a7ce9e53f31c1",
+        "crc32": "6a14fc9c"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 02).bin",
+      "filesize": 1888656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35d4cb4d84cff7e9851b74120054a629",
+        "sha1": "e1c26311dbcf938764cfc7359ee1863af4cfb167",
+        "crc32": "773329d2"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 03).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c85bc30b8c2ec131a9904f24bca038b",
+        "sha1": "085ab6252f99366d402205bbc16080eb8f6c6144",
+        "crc32": "a2e75c55"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 04).bin",
+      "filesize": 1973328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fabe6ca5e39842ba722203ef2c4d2ad6",
+        "sha1": "f450ff8b076e1975b304965bf0057c77b8c997da",
+        "crc32": "14c397bd"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 05).bin",
+      "filesize": 1279488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96c2c6780b8a97c2b46ee4c953de4721",
+        "sha1": "4c4be78c9be252fdae712147837b2487c4a9bb7a",
+        "crc32": "d0e55500"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 06).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78e5e59d78c6bd3896a84cffdc5487e7",
+        "sha1": "9c4789112028630d21819403ee1a5e61fabfb627",
+        "crc32": "2d25db9b"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 07).bin",
+      "filesize": 1524096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96f78c1710ada7e6b54da4498e30a6c6",
+        "sha1": "fcaa4f4310a810c0e36601d487371d618312ec17",
+        "crc32": "ff5bd4a6"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 08).bin",
+      "filesize": 1303008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e5d6d7db2bffba15de0175a3621695d",
+        "sha1": "3d33a6dfb4354649b2e1562800cf0e362abe4f4f",
+        "crc32": "299ef704"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 09).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5e806db872b8ad46efe6c7f25938975",
+        "sha1": "bc6edbeb663e3b62988fde378acbc0b4fd0a1f44",
+        "crc32": "9dc3577e"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 10).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1d82388e68c1a621fb5de461aa272f1",
+        "sha1": "54bade9183b0e227871c29407e81544517faf3a6",
+        "crc32": "d5b11468"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 11).bin",
+      "filesize": 1653456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5865560b74bc29827b490e29d57a4851",
+        "sha1": "47c7e84f6edd21b594be97b481486f61ca7f50b5",
+        "crc32": "3130e261"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 12).bin",
+      "filesize": 1606416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "507197fdc8c1236e089024df6ad7b9ce",
+        "sha1": "e9b73c2dffa82159a407711c9627e23016e3af62",
+        "crc32": "38679ce6"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 13).bin",
+      "filesize": 2086224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2ad9b475c776541d37456e466336bf1",
+        "sha1": "88086a1c44a17a385110cce611e9d44bdc3714ee",
+        "crc32": "e93bc96b"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 14).bin",
+      "filesize": 1178352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f022830d9363ac3b59c78a12cd3f70d",
+        "sha1": "a4e26d51147ac2d9e3c698109324a410574cb6a7",
+        "crc32": "5daab9f3"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 15).bin",
+      "filesize": 1592304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c27fa072544e175546b06eab42388a9",
+        "sha1": "c9bd3012f1b1d63784c96a993557256d5c100aee",
+        "crc32": "a4f4351e"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 16).bin",
+      "filesize": 1140720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ebe91fb39df7cdaaf7c56f62f578a2b",
+        "sha1": "0b1a611d2b032a1f1b6757bcee4b04fe8c3749c8",
+        "crc32": "8100991e"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 17).bin",
+      "filesize": 1173648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8716a7d23c81f468f2716ab9c9dc779",
+        "sha1": "7c14305777e2d3735dee3423ebf1e7b0ffff454f",
+        "crc32": "2419acbe"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 18).bin",
+      "filesize": 1220688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "824dd6cd95338190124977cddc90e86a",
+        "sha1": "bf684ed7cbb9487bc87954e6dee1ecbbcaafec47",
+        "crc32": "0df0402a"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 19).bin",
+      "filesize": 1185408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78601a5be092916c70d097f0fae57889",
+        "sha1": "9d9ea1dbee262cba543850d3a43c739b07199602",
+        "crc32": "3ccfec17"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 20).bin",
+      "filesize": 2958816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "828caf1bd3f1b1539e2d1a878e1000b5",
+        "sha1": "483e22e9dbb476dee83b64d1d2bbb4eadc6063bb",
+        "crc32": "8e149e8f"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 21).bin",
+      "filesize": 3222240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d746ab230a11835e9042534721883e0",
+        "sha1": "b64022dce7faa7a266b0d355eed72403342cebf9",
+        "crc32": "e8774256"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 22).bin",
+      "filesize": 1636992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a100aa67b8f698d7a4add35dbdf4eec",
+        "sha1": "4aa7ace3dc80d31ae0d36caabe667ec90d495d98",
+        "crc32": "bd391288"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 23).bin",
+      "filesize": 2916480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6a4a7a8fc1bceb3a5af9b617493ddca",
+        "sha1": "2a662ba6b35a118da346af4967ba8559393835da",
+        "crc32": "e67aad2b"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 24).bin",
+      "filesize": 3184608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6388b94836d59c5531d28666c5f46139",
+        "sha1": "c7cc1ee0a094333e57c148efa650f73e55a8ea2c",
+        "crc32": "bc8064e0"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 25).bin",
+      "filesize": 2224992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8da89733a59a15f5b5de3409a749be7",
+        "sha1": "f46156581933ad5b08fad61e27289fb99b8795f6",
+        "crc32": "98f60050"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 26).bin",
+      "filesize": 1942752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b8abeacdb34193a619dec539d0ff4fe",
+        "sha1": "72d978ca94b84f08b75c90494c6b1e5e7884f3b8",
+        "crc32": "17de2acd"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 27).bin",
+      "filesize": 2417856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fe3dee51312756845584ab629fe1912",
+        "sha1": "e91ebbe16c7d6d1709fe77ba2a4bf8daa7fbbdbd",
+        "crc32": "25a6f4f6"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 28).bin",
+      "filesize": 2533104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "778d0f67e11dc020ef359c82a9c6706d",
+        "sha1": "d67be0a1715e2bec409aa3d60af7e1d257ffed44",
+        "crc32": "9e43e36b"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 29).bin",
+      "filesize": 4132464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5495f4268714c8c57e845838150a4757",
+        "sha1": "128be5c7a8205a21a817605e75b6f8f095464614",
+        "crc32": "a5e694f4"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 30).bin",
+      "filesize": 1923936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8887e024c0dbf4c165672b9c0003efc",
+        "sha1": "53133bdd6a84dc0286bbfef5f57c8159e8bb11d8",
+        "crc32": "74b1a225"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 31).bin",
+      "filesize": 1606416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d83893471693d6fca5c87f389e516140",
+        "sha1": "36e2cdc779fa3d089ff7c8e8813e2ed6b28561d4",
+        "crc32": "c13aa7d2"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 32).bin",
+      "filesize": 2333184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a67a3b5351a3bf1643bf01a67f6f70d",
+        "sha1": "87577722053fb87621b20b642fbb9331008ecd8f",
+        "crc32": "ebbefa76"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 33).bin",
+      "filesize": 1246560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d9ddf62f46118cff996fd0122e10c79",
+        "sha1": "e55869ed8ceb71f34e881ba3cacfaa128b8e3cd6",
+        "crc32": "3062eef2"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 34).bin",
+      "filesize": 1568784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3c5f857a46203f5f29b6201c904c56b",
+        "sha1": "6d84a91eb5fce97fe1ba2350d4c1448af5ae4d16",
+        "crc32": "c0689b64"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 35).bin",
+      "filesize": 1585248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c5eafc5fedabd5e4bb33dccfd5dbe40",
+        "sha1": "1852d5492d3691bc728f17c3ebe2cfd20de07ab8",
+        "crc32": "e06952bc"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 36).bin",
+      "filesize": 2224992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5552523af76ed8537e9fbd53849a066d",
+        "sha1": "4483524365bca833ea8984da08a0d2d92b4e799f",
+        "crc32": "09e16c42"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 37).bin",
+      "filesize": 1215984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14659d547b590929fe450603a9e823f6",
+        "sha1": "8ca2276f82b0f01a38dcb81f0576396ad69e4755",
+        "crc32": "8b1f1af9"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 38).bin",
+      "filesize": 23258928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1401caeee56ea1ed7ce50955881c097c",
+        "sha1": "dfe64490e85de3d47ee5c11f2960aec890725fae",
+        "crc32": "69ea3828"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 39).bin",
+      "filesize": 4141872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86c93169f85f825960a5e08f61af6b88",
+        "sha1": "e9babb9ba7c4bf3eb42317b9c355d6142623ad20",
+        "crc32": "911e966a"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 40).bin",
+      "filesize": 1387680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d61222dfab248e53dbcb4879883dff6f",
+        "sha1": "cec220fe28dfdb2005c2738aaaad57495e9fb644",
+        "crc32": "7d287e0a"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 41).bin",
+      "filesize": 4094832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "081c415a7848f05150e931e39b5c9380",
+        "sha1": "2c094a4c29f7f9ca1c9c18ab50196ea212a9ea33",
+        "crc32": "d83f267a"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 42).bin",
+      "filesize": 3760848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7abfe8ed826c485c5e75d7dfa2e94e35",
+        "sha1": "b14ee28067d654a7e545fbfd7526eb44153baa18",
+        "crc32": "c5474c1e"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 43).bin",
+      "filesize": 1561728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8a34ee03f8a4c2ce485bb2adb2d9128",
+        "sha1": "aafede4a6b35cc6fc9a4061bb6550f27163f0f3c",
+        "crc32": "7accaa63"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 44).bin",
+      "filesize": 1390032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c4708fc23fc10bdfcb576294709b25b",
+        "sha1": "142c4a8aa517a9061edca0b78f8e5d26bd29a6fa",
+        "crc32": "fbb9aaf4"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 45).bin",
+      "filesize": 1211280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31ef3bc6b02084c4eca212aa14b11bf8",
+        "sha1": "9b68cbbe5c672d274e55a5ee2b01bc407334f93a",
+        "crc32": "7c99597b"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 46).bin",
+      "filesize": 1592304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82d02e32238e73b87b195d5067dd1b64",
+        "sha1": "f249c639bbcdc76c0fdcd5486c923df74a65f26f",
+        "crc32": "719a5681"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 47).bin",
+      "filesize": 1171296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11abc6928e83c11a6f3f965ad80b57ce",
+        "sha1": "4bc3de252624659a5d0672068f462f23ab38d1f0",
+        "crc32": "029c5304"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 48).bin",
+      "filesize": 2758896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0d1a4c8b75600dfbcf9be60a78ecbcb",
+        "sha1": "42fea54654ea791e0a2cf9abf1919eda2eb7c1fd",
+        "crc32": "9e7de7a0"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 49).bin",
+      "filesize": 2530752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a18771f1e70bd8fb2ba982d4290d6b6f",
+        "sha1": "2de1d93aa1191e554e4b605e46a72c00e872849a",
+        "crc32": "c91990aa"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 50).bin",
+      "filesize": 2159136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60a830280b5d4ceb76bf1726fb8c0f41",
+        "sha1": "9d359d40c2af7c29d1e7dcff1806de93f0eff903",
+        "crc32": "54b723df"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 51).bin",
+      "filesize": 2159136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8ce6bca911a919e31e41941148260ae",
+        "sha1": "961d27e399627f8edc5b63b7021acd1d3e58da6d",
+        "crc32": "0907a679"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 52).bin",
+      "filesize": 1399440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9043a3c245a643faed46033d8547144",
+        "sha1": "e796637617c8db62928dbdb1e96c08048dc709f6",
+        "crc32": "1adfc4d7"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 53).bin",
+      "filesize": 1319472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bdafd27d50be206616468cb7c8e6304",
+        "sha1": "6f3a336052736c8ee236a24394f35c9f429d4182",
+        "crc32": "143df699"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 54).bin",
+      "filesize": 19759152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56857cc316cebd3d71ea2c7709bab78e",
+        "sha1": "415d9d77291e8c5085a8d141f61bb130153c8f9a",
+        "crc32": "5bb8aa9e"
+      }
+    },
+    {
+      "filename": "Fantastep (Japan) (Track 55).bin",
+      "filesize": 45711120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a792b5c785cc292b95722329edcd3863",
+        "sha1": "3f3fae1929d43d0b0586bd6d1fbe08ea1e71923c",
+        "crc32": "380bdfa4"
+      }
+    }
+  ]
+}

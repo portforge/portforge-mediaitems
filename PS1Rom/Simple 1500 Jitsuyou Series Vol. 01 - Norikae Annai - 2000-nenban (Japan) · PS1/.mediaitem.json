@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 01 - Norikae Annai - 2000-nenban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 01 - Norikae Annai - 2000-nenban (Japan).cue",
+      "filesize": 483,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dde5f44a10eea5b688b38702d45e56b0",
+        "sha1": "df3b654f46bec6bbe8a9eacc8db6fb6752d53c2e",
+        "crc32": "be061357"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 01 - Norikae Annai - 2000-nenban (Japan) (Track 1).bin",
+      "filesize": 7272384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "531220f9f6be9687c375ffa28d24303e",
+        "sha1": "8eaa6790af0c563513e10b08a6bfcc3228716ff1",
+        "crc32": "d199ae03"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 01 - Norikae Annai - 2000-nenban (Japan) (Track 2).bin",
+      "filesize": 22969632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24e7505718024583d574e9e5bf8b6036",
+        "sha1": "6067151abe1f25d484d30f15912f942f7f433a42",
+        "crc32": "11c6d12d"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 01 - Norikae Annai - 2000-nenban (Japan) (Track 3).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

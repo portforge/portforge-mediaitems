@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gex - Enter the Gecko (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gex - Enter the Gecko (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68f3483c474b8582d985fd6283fec66b",
+        "sha1": "5ab918cb0db620cc9f9a261f3974171e01108331",
+        "crc32": "9030839d"
+      }
+    },
+    {
+      "filename": "Gex - Enter the Gecko (USA).bin",
+      "filesize": 266662704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "078092d2434011a12d5c56da4de0eeb4",
+        "sha1": "85d01c18d0087e09dea9abed4aa92148400d2614",
+        "crc32": "11650a57"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Trick'n Snowboarder (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Trick'n Snowboarder (Europe).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "abcfb2b8996f435ff80baa015c31cabb",
+        "sha1": "93c8e02bf81e799324a62f27d4e29ec5c575f07d",
+        "crc32": "a04e01ae"
+      }
+    },
+    {
+      "filename": "Trick'n Snowboarder (Europe).bin",
+      "filesize": 225095808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77a99f9301d00f3efbcfef24ff6c5291",
+        "sha1": "896638a49c338ad36a6e918ab3216de062bfe806",
+        "crc32": "9257d510"
+      }
+    }
+  ]
+}

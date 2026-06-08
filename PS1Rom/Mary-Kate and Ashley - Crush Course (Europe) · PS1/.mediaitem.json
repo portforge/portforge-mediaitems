@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mary-Kate and Ashley - Crush Course (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mary-Kate and Ashley - Crush Course (Europe).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ed480ebe4bc785935d888bb4bd282b5",
+        "sha1": "8120c3b6f754d4052b6591d527a92e09e979849a",
+        "crc32": "e980d3a8"
+      }
+    },
+    {
+      "filename": "Mary-Kate and Ashley - Crush Course (Europe) (Track 1).bin",
+      "filesize": 577460688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d354cdebe4515612553c7b731fc0c12c",
+        "sha1": "18a03e2bb76b1385adf3263df47f35c5af5ab16d",
+        "crc32": "e0004eef"
+      }
+    },
+    {
+      "filename": "Mary-Kate and Ashley - Crush Course (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "London Seirei Tanteidan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "London Seirei Tanteidan (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4586a1ac03c76b2c2271bbea2f14ba35",
+        "sha1": "f325e5b2d7f5d24de4c58a7f0ed5ccc925f9780d",
+        "crc32": "3702ef0e"
+      }
+    },
+    {
+      "filename": "London Seirei Tanteidan (Japan).bin",
+      "filesize": 273721056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d4e5e7bfd472811c0d82fdf128a9d31",
+        "sha1": "b0dedb87ebaf39bcaf16507efc4e9820cc2fb7e8",
+        "crc32": "a86defe7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bases Loaded '96 - Double Header (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bases Loaded '96 - Double Header (USA).cue",
+      "filesize": 378,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2573abe3b127ca1a8f26933fcc8d93cf",
+        "sha1": "c157363d558933d3a9b82477c9d31fe84f5cd19e",
+        "crc32": "3b2d93a4"
+      }
+    },
+    {
+      "filename": "Bases Loaded '96 - Double Header (USA) (Track 1).bin",
+      "filesize": 112797216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6eda0f6576d3295e05d884125f49d04d",
+        "sha1": "aac9d28e80a76297cd87c17982d10833d669297a",
+        "crc32": "268b446c"
+      }
+    },
+    {
+      "filename": "Bases Loaded '96 - Double Header (USA) (Track 2).bin",
+      "filesize": 16433424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99bc2f2a9400abc1ee49982c498d6aa7",
+        "sha1": "eff5bf1b2acd281f5c8e7effdddccdb9fedd5f38",
+        "crc32": "fc5aa60f"
+      }
+    },
+    {
+      "filename": "Bases Loaded '96 - Double Header (USA) (Track 3).bin",
+      "filesize": 32509344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78f1c73f3eca9ee4114d875b5a772e85",
+        "sha1": "639d3fe5c761b03cbd1f9ef5b9745c5b5beec069",
+        "crc32": "f1cec87e"
+      }
+    }
+  ]
+}

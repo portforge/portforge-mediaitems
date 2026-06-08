@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Powerslave (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Powerslave (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ec08ab28d977c26438bb61f663f8294",
+        "sha1": "cf4d8359b1aea770c6dcae10e4f36b9ba054ea93",
+        "crc32": "25de6537"
+      }
+    },
+    {
+      "filename": "Powerslave (USA).bin",
+      "filesize": 367758720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e03b4bd2cf1c65e4c82692365b456677",
+        "sha1": "21badf67769279444e50cae9130406eaf7e334d2",
+        "crc32": "1eb77680"
+      }
+    }
+  ]
+}

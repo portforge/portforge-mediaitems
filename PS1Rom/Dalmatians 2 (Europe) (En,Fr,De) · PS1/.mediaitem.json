@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dalmatians 2 (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dalmatians 2 (Europe) (En,Fr,De).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83508d60dfde223869ed43af8483a126",
+        "sha1": "2b42fcfab58166c68b700fd67aeb15b87f7d76bf",
+        "crc32": "cc860efe"
+      }
+    },
+    {
+      "filename": "Dalmatians 2 (Europe) (En,Fr,De).bin",
+      "filesize": 610275792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "019b60270e8a0cc4dac169e6996fa199",
+        "sha1": "58cbfcf379f5c191bf6b7ed94a1c9134eb7cbe63",
+        "crc32": "e2ab3970"
+      }
+    }
+  ]
+}

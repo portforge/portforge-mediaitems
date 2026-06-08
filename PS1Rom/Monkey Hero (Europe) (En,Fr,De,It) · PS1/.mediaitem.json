@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monkey Hero (Europe) (En,Fr,De,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monkey Hero (Europe) (En,Fr,De,It).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "deab1c85dd9ddf953ca793e37484360b",
+        "sha1": "8e16721dca7f5b532f4b3c05d9885ef6b60cd955",
+        "crc32": "271a601b"
+      }
+    },
+    {
+      "filename": "Monkey Hero (Europe) (En,Fr,De,It).bin",
+      "filesize": 686207760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3335f6a6a6f23dace46d124f26a2b33f",
+        "sha1": "ba54a177c4d9b04463fd1e7f7bb099b134c77ba5",
+        "crc32": "9dceeb00"
+      }
+    }
+  ]
+}

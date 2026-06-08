@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spectral Force - Itoshiki Jaaku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spectral Force - Itoshiki Jaaku (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6083e1c24628e03e0b47be4b6f55050f",
+        "sha1": "b72f4658d6c6f9843419f8f93f2ffb9ef0915621",
+        "crc32": "f2764163"
+      }
+    },
+    {
+      "filename": "Spectral Force - Itoshiki Jaaku (Japan).bin",
+      "filesize": 731194464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "269709629570471394d3da77f9683b52",
+        "sha1": "b188a46d82621e167dbbfc0c7b2e625ceec5f8f0",
+        "crc32": "65c9509c"
+      }
+    }
+  ]
+}

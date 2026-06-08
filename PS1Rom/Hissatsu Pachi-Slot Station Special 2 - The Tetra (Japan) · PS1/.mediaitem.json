@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachi-Slot Station Special 2 - The Tetra (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachi-Slot Station Special 2 - The Tetra (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b2b6d4276a9dd4b090ce073b7085d60",
+        "sha1": "f7b1a7300604e5ce85caf223777511f44667ce55",
+        "crc32": "38c697aa"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachi-Slot Station Special 2 - The Tetra (Japan).bin",
+      "filesize": 38688048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12b7b5e16cbbe4d4197f693a78b4764e",
+        "sha1": "0fdb21e76bce31b4fb89e34b0b7326c7f0caf988",
+        "crc32": "d8b5a57a"
+      }
+    }
+  ]
+}

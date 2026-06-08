@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sentimental Graffiti (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sentimental Graffiti (Japan).cue",
+      "filesize": 348,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90b3534cbddf83d46b6fe79717010148",
+        "sha1": "57539585e85367d2ad2960b87fe5b2510e7749e4",
+        "crc32": "94d8ab08"
+      }
+    },
+    {
+      "filename": "Sentimental Graffiti (Japan) (Track 1).bin",
+      "filesize": 637805952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8c6201018477ea1eb9ac5e9a42dbc2f",
+        "sha1": "dc114822863d6b17a5bca2393a4543217919131d",
+        "crc32": "3a303844"
+      }
+    },
+    {
+      "filename": "Sentimental Graffiti (Japan) (Track 2).bin",
+      "filesize": 22061760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab5e0a3c96d9fe144444239f2dcb0853",
+        "sha1": "34865913eab947f36d89d0dd927491fe72d89e2a",
+        "crc32": "c41a4405"
+      }
+    },
+    {
+      "filename": "Sentimental Graffiti (Japan) (Track 3).bin",
+      "filesize": 22061760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab5e0a3c96d9fe144444239f2dcb0853",
+        "sha1": "34865913eab947f36d89d0dd927491fe72d89e2a",
+        "crc32": "c41a4405"
+      }
+    }
+  ]
+}

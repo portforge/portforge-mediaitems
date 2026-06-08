@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo).cue",
+      "filesize": 324,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9031da535ff814e52540a46f207f4e7f",
+        "sha1": "ea89a62ad65dffdfba0096ec1877a6dce51ab8e3",
+        "crc32": "18fca94f"
+      }
+    },
+    {
+      "filename": "Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (Track 1).bin",
+      "filesize": 94884384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db692e3cacfc4bde1979098563819993",
+        "sha1": "9053516e976a25e6d4a8575f58a2d28074c8b728",
+        "crc32": "2fb53fdc"
+      }
+    },
+    {
+      "filename": "Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

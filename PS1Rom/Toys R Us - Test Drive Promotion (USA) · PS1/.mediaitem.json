@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toys R Us - Test Drive Promotion (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toys R Us - Test Drive Promotion (USA).cue",
+      "filesize": 378,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89f3a011e0cbc13929846f5931ba95ca",
+        "sha1": "ba074d2628b44d507a60e8dfe9f1ba9e8b39163a",
+        "crc32": "ceff338f"
+      }
+    },
+    {
+      "filename": "Toys R Us - Test Drive Promotion (USA) (Track 1).bin",
+      "filesize": 101898048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93c422ddc2b50295ccb7c719734c1baa",
+        "sha1": "76db636f31be138974d362a4ba8e15ff7ff6b5f6",
+        "crc32": "7e622d46"
+      }
+    },
+    {
+      "filename": "Toys R Us - Test Drive Promotion (USA) (Track 2).bin",
+      "filesize": 25530960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "036490fa03602818a106deea8b84427e",
+        "sha1": "e6105fe0e24bd5bd1128d5ad4c136ab72708416a",
+        "crc32": "74f6dff0"
+      }
+    },
+    {
+      "filename": "Toys R Us - Test Drive Promotion (USA) (Track 3).bin",
+      "filesize": 2810640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09607479224f7af39a820636b7cc80b3",
+        "sha1": "3d6927d664fae2469f64cf14cb6fe244aa8e7faa",
+        "crc32": "1cedfbe7"
+      }
+    }
+  ]
+}

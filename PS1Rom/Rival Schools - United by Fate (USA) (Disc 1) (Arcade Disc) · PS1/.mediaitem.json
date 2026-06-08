@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rival Schools - United by Fate (USA) (Disc 1) (Arcade Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rival Schools - United by Fate (USA) (Disc 1) (Arcade Disc).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd76b09ffcf15cc6aac4764505f2150c",
+        "sha1": "cb10281a502b7d5b3526e2fd0ad0fccb61c8d7ba",
+        "crc32": "b5fb2808"
+      }
+    },
+    {
+      "filename": "Rival Schools - United by Fate (USA) (Disc 1) (Arcade Disc).bin",
+      "filesize": 725629632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "742089ecce542ff076d862694e150370",
+        "sha1": "4bc0b5d38806d7836850d869654bf662b00490d9",
+        "crc32": "be1ce7d9"
+      }
+    }
+  ]
+}

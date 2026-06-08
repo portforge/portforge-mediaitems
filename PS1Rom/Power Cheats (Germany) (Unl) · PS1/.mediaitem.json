@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Cheats (Germany) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Cheats (Germany) (Unl).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ba3bc573136b83081d71ff11069cd22",
+        "sha1": "3e020b860872d8dcbc709ae165ec6b065e59d52e",
+        "crc32": "d9fad71e"
+      }
+    },
+    {
+      "filename": "Power Cheats (Germany) (Unl).bin",
+      "filesize": 526939728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6a90d162923fd1ab0c9f1ac270ba1b8",
+        "sha1": "f04574be855f0ba0c70dc585d67e44b0cebd47d1",
+        "crc32": "63169e20"
+      }
+    }
+  ]
+}

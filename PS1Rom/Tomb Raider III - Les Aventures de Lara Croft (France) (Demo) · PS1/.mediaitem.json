@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Les Aventures de Lara Croft (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Les Aventures de Lara Croft (France) (Demo).cue",
+      "filesize": 447,
+      "ext": "cue",
+      "checksums": {
+        "md5": "282edb048259c66d9545b85af3945dfd",
+        "sha1": "d44b666edf90ca41aee101cdaeda5a79ad566ec4",
+        "crc32": "63a88059"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Les Aventures de Lara Croft (France) (Demo) (Track 1).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75bd0bb57e9843b4fc642fa11674f915",
+        "sha1": "2499d189e364099f5601bad5abb33c29408f0e05",
+        "crc32": "76b73786"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Les Aventures de Lara Croft (France) (Demo) (Track 2).bin",
+      "filesize": 24914736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb2c608b2a3ebd330fe760661bb98600",
+        "sha1": "bd90fbe22f8d3e864d77e6fd73eb9883b0779779",
+        "crc32": "2a0fca91"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Les Aventures de Lara Croft (France) (Demo) (Track 3).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

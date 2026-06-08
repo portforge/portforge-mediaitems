@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Eight (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Eight (UK) (Unl).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "889364ee37d5c21ebe8fbd717f30c2af",
+        "sha1": "ef8c265fdb36a23be4f790968f9af84290f1618a",
+        "crc32": "f11b7848"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Eight (UK) (Unl).bin",
+      "filesize": 530547696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f1b20aa4be8073d4928f9e991e74f42",
+        "sha1": "3a12f5c5a17019052da1cb3be504d09867916a90",
+        "crc32": "a87151a1"
+      }
+    }
+  ]
+}

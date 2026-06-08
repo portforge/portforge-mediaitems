@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Conveni 2, The - Zenkoku Chain Tenkai da! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Conveni 2, The - Zenkoku Chain Tenkai da! (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a186fb7dbf869c7aacb387f9aec24c4",
+        "sha1": "f3ea51acadb2894d98cdf4001848962388beca82",
+        "crc32": "69a4645f"
+      }
+    },
+    {
+      "filename": "Conveni 2, The - Zenkoku Chain Tenkai da! (Japan).bin",
+      "filesize": 105823536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3135c5d6194c3654c4541a30305e2a0",
+        "sha1": "cea3f66a69cbe0c54199c3d93b6b858f79e2c38c",
+        "crc32": "265c7c95"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Quiz Darake no Jinsei Game - Un to Atama de Daifugou! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Quiz Darake no Jinsei Game - Un to Atama de Daifugou! (Japan).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "870d092de4f42e33921955f1bf77b997",
+        "sha1": "381214f8772b385755d574491ff10507e3fc240d",
+        "crc32": "38602027"
+      }
+    },
+    {
+      "filename": "Quiz Darake no Jinsei Game - Un to Atama de Daifugou! (Japan).bin",
+      "filesize": 86181984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f9a68f47bf3a002547660e52efb8c76",
+        "sha1": "571a54c380282afe6beb75f1c795d738052cb26a",
+        "crc32": "73ff2eb7"
+      }
+    }
+  ]
+}

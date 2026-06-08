@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 16 (Japan) (Disc 2) (CM Collection IV)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 2) (CM Collection IV).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "047e2582ab43bbe0135a086cc280d1a1",
+        "sha1": "71d9b1d39177c4d747c3b29e8783433483b7126d",
+        "crc32": "f9d5b287"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 2) (CM Collection IV) (Track 1).bin",
+      "filesize": 327102048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c8b1c7f464a734fd6b2d2cf7aa922eb",
+        "sha1": "9aa8c1c99f7ac9458046ba8d06f6a7899eacae1c",
+        "crc32": "00e30505"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 2) (CM Collection IV) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

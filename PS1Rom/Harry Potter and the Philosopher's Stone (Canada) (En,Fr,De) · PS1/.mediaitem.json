@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harry Potter and the Philosopher's Stone (Canada) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harry Potter and the Philosopher's Stone (Canada) (En,Fr,De).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dcb00b615bdbca6c0ce9819368ac0d2a",
+        "sha1": "c6a1ca6ffaeb2713e1fb96cc82c0418bb637bee9",
+        "crc32": "c70f4b00"
+      }
+    },
+    {
+      "filename": "Harry Potter and the Philosopher's Stone (Canada) (En,Fr,De).bin",
+      "filesize": 615628944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acec19cfb01254ff5c9168ec52dc23b8",
+        "sha1": "7cedb1a322f4149eb6c383d5a30fde84912cd044",
+        "crc32": "fefc3d28"
+      }
+    }
+  ]
+}

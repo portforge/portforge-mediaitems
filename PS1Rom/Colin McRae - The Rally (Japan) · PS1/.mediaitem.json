@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colin McRae - The Rally (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colin McRae - The Rally (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "116f186e64dec05df75757386d7b44e4",
+        "sha1": "fdf3c70b9aaed198faf967d19f31f56945076f7e",
+        "crc32": "c3b96b8c"
+      }
+    },
+    {
+      "filename": "Colin McRae - The Rally (Japan) (Track 1).bin",
+      "filesize": 302827056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "182d5bcd417b37233dd8899700444ed8",
+        "sha1": "f16e3909f2a57cab4659130f3215dce1c10453cf",
+        "crc32": "7bb2eb0a"
+      }
+    },
+    {
+      "filename": "Colin McRae - The Rally (Japan) (Track 2).bin",
+      "filesize": 55742400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30d6dc7f7731339d948704cf7fe1b5ac",
+        "sha1": "f23e109757a7de8ffc09e584c7ca50c8320aa8b3",
+        "crc32": "d27141de"
+      }
+    },
+    {
+      "filename": "Colin McRae - The Rally (Japan) (Track 3).bin",
+      "filesize": 31634400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a8825427ac047728232ce827d1f08e1",
+        "sha1": "d0227c1ccd00cdd76c126ca2dc3fa9d405577934",
+        "crc32": "a9f06ed2"
+      }
+    },
+    {
+      "filename": "Colin McRae - The Rally (Japan) (Track 4).bin",
+      "filesize": 55737696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e071f2b27e5252daca1c37f5e0fd731a",
+        "sha1": "d6f4accecef43ecce058729e1b087c008d17dba6",
+        "crc32": "69d80026"
+      }
+    }
+  ]
+}

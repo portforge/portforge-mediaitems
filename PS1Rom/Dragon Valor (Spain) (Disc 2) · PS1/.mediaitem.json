@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Valor (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Valor (Spain) (Disc 2).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd5e02c0664f009eab99e4d95a7390a2",
+        "sha1": "e29e367191d77840cf2e60f8118ea43f025045db",
+        "crc32": "fce85946"
+      }
+    },
+    {
+      "filename": "Dragon Valor (Spain) (Disc 2) (Track 1).bin",
+      "filesize": 657687408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7aaa19ba72cb6cd7a719743c63c8e0e",
+        "sha1": "d7d5614eabb9d1bf69ba51badb348e0a21272874",
+        "crc32": "da17033e"
+      }
+    },
+    {
+      "filename": "Dragon Valor (Spain) (Disc 2) (Track 2).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "354582aefda8a55a5482d431e8473070",
+        "sha1": "593d3c91bb09d028ab72c1e839279c65c2108976",
+        "crc32": "a10c459b"
+      }
+    }
+  ]
+}

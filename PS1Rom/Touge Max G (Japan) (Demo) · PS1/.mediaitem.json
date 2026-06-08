@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Touge Max G (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Touge Max G (Japan) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e445b2eba7c84f0d3412bd05c05a74b2",
+        "sha1": "7ce70b91ede44817ea7a0dab2f6155e6b8c2086d",
+        "crc32": "05a916d1"
+      }
+    },
+    {
+      "filename": "Touge Max G (Japan) (Demo).bin",
+      "filesize": 247881984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3cc4c23654f5cb0bbb226797dfdede8",
+        "sha1": "9314a752ad9fad3aaa310b1979cff025fd94e4d6",
+        "crc32": "be949848"
+      }
+    }
+  ]
+}

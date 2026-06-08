@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ubik (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ubik (Europe) (En,Fr,De).cue",
+      "filesize": 690,
+      "ext": "cue",
+      "checksums": {
+        "md5": "22230f01e43d2f9a2b03dced4d11f42a",
+        "sha1": "9eeb1019a167bdaf2add14653945514a606dd701",
+        "crc32": "3fa3e6e3"
+      }
+    },
+    {
+      "filename": "Ubik (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 574515984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a51a683c11cdd0249fa481c9ffbb4a3c",
+        "sha1": "3d96e5409b64896da8537315031ba299cd3dffdb",
+        "crc32": "0f3d6625"
+      }
+    },
+    {
+      "filename": "Ubik (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 17851680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db1365c092824c50e694ecedfa7520ea",
+        "sha1": "496e74adcc81525c08e9bed738c93c72679df940",
+        "crc32": "e5920299"
+      }
+    },
+    {
+      "filename": "Ubik (Europe) (En,Fr,De) (Track 3).bin",
+      "filesize": 19947312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c4197a6d50db304ff4de40d160bd2d4",
+        "sha1": "6bb960e20ebdbb51caaeb0597ea2c513047b68b2",
+        "crc32": "fc0770e8"
+      }
+    },
+    {
+      "filename": "Ubik (Europe) (En,Fr,De) (Track 4).bin",
+      "filesize": 19359312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b0c23cc5bac3a7551e7879e59af9459",
+        "sha1": "58aab6dcd3a19e748bcb01cf3cd50fc07375df7d",
+        "crc32": "aa04b44a"
+      }
+    },
+    {
+      "filename": "Ubik (Europe) (En,Fr,De) (Track 5).bin",
+      "filesize": 20509440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aad530f16da67c7f12e90bf1bc4c2b68",
+        "sha1": "d3de56926c86968ff562e62350fac586d1ce1ecd",
+        "crc32": "2d609823"
+      }
+    },
+    {
+      "filename": "Ubik (Europe) (En,Fr,De) (Track 6).bin",
+      "filesize": 32335296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddf0a49c3531c5da7ce0a4cd7b035872",
+        "sha1": "429c65833043884fcd8a6b007a2887887a9bcbbe",
+        "crc32": "9cfda9a0"
+      }
+    }
+  ]
+}

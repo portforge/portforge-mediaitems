@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Zero 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Zero 3 (Japan).cue",
+      "filesize": 233,
+      "ext": "cue",
+      "checksums": {
+        "md5": "349414bce8680e9c21b808ec05fe9eb3",
+        "sha1": "9acd1f2da9ebb97dcf0b9ad62ac77cb97b36af25",
+        "crc32": "cfd90040"
+      }
+    },
+    {
+      "filename": "Street Fighter Zero 3 (Japan) (Track 1).bin",
+      "filesize": 484170960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1ca247e0e9ab78ec8ad94be7a2035fb",
+        "sha1": "6bcf09eff4fd7df94c0c65d7e4a40761551decc6",
+        "crc32": "f197bb1f"
+      }
+    },
+    {
+      "filename": "Street Fighter Zero 3 (Japan) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3fbe8a32f6184a19c6892a280f67948",
+        "sha1": "64444b7cb4f7bbe299229ef511af289e48c9559f",
+        "crc32": "2a796ae2"
+      }
+    }
+  ]
+}

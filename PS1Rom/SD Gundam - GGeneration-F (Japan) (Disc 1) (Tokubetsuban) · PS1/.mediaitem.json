@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban).cue",
+      "filesize": 284,
+      "ext": "cue",
+      "checksums": {
+        "md5": "58eb9f72b099d596e44ddf239da87d77",
+        "sha1": "1f4dbbb70b00452cf8c872eb79f79624febdd32f",
+        "crc32": "bf6335be"
+      }
+    },
+    {
+      "filename": "SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban) (Track 1).bin",
+      "filesize": 677895792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1f24828a4fb16bdc69bcc26ad377924",
+        "sha1": "a17e21080997d4bfe40483efb479018e9e95f9f4",
+        "crc32": "91209eab"
+      }
+    },
+    {
+      "filename": "SD Gundam - GGeneration-F (Japan) (Disc 1) (Tokubetsuban) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947ad0a3ec30696b59921b2d36fd452c",
+        "sha1": "416338bc1beb5b8ece399f0c030b48bc0604643c",
+        "crc32": "f6b99569"
+      }
+    }
+  ]
+}

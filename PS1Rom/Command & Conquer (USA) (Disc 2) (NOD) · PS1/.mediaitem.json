@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer (USA) (Disc 2) (NOD)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer (USA) (Disc 2) (NOD).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6448be13ff02324e9970749bf669d205",
+        "sha1": "158d553f35c61563ac530be9eef2dbbc8c8276e1",
+        "crc32": "d46cc885"
+      }
+    },
+    {
+      "filename": "Command & Conquer (USA) (Disc 2) (NOD).bin",
+      "filesize": 696991680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe35b6a7b8512a726a7142a0061036e1",
+        "sha1": "8da9bc38fac194512ca3a0eb85464582b8e10482",
+        "crc32": "86fd6167"
+      }
+    }
+  ]
+}

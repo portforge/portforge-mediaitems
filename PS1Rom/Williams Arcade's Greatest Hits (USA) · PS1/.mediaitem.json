@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Williams Arcade's Greatest Hits (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Williams Arcade's Greatest Hits (USA).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "702eeb73fa41d3cf8d61d66b9fbdd055",
+        "sha1": "d1d3e2cad138ef37583ddec8aa1dc9f7979d1e65",
+        "crc32": "13061f76"
+      }
+    },
+    {
+      "filename": "Williams Arcade's Greatest Hits (USA) (Track 1).bin",
+      "filesize": 321847680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d31d74f1f2896e76c3c46164887d0623",
+        "sha1": "64c0869866b527950f1e4a37acb78ba4c1577d76",
+        "crc32": "8ed6a5ec"
+      }
+    },
+    {
+      "filename": "Williams Arcade's Greatest Hits (USA) (Track 2).bin",
+      "filesize": 56800800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ed67c58ee33f728c0f8a8d4c55af892",
+        "sha1": "3b815b8917f3b935c89cba84204c84a66aa6a5b2",
+        "crc32": "8b23f996"
+      }
+    }
+  ]
+}

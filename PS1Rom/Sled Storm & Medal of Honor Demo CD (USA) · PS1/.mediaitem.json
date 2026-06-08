@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sled Storm & Medal of Honor Demo CD (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sled Storm & Medal of Honor Demo CD (USA).cue",
+      "filesize": 522,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aaf2b75af839f53749e43860d12cf403",
+        "sha1": "6fafa6366ae700eddde6bc4ee24df875a66dc052",
+        "crc32": "2a1e1c28"
+      }
+    },
+    {
+      "filename": "Sled Storm & Medal of Honor Demo CD (USA) (Track 1).bin",
+      "filesize": 67283664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18b13f6ec8f78650ad4225988e13d045",
+        "sha1": "a74c80f87c659c7c879ad98d92b823b92ddf6ea0",
+        "crc32": "ad8b81a4"
+      }
+    },
+    {
+      "filename": "Sled Storm & Medal of Honor Demo CD (USA) (Track 2).bin",
+      "filesize": 49963536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa29084c92bcd4dafc551b5e70aa9b96",
+        "sha1": "e063d0546a5a61892cd19edfc887557e836681f9",
+        "crc32": "a9ab87ac"
+      }
+    },
+    {
+      "filename": "Sled Storm & Medal of Honor Demo CD (USA) (Track 3).bin",
+      "filesize": 44960832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f5886bc2af74a37f8ad69bc96557ec1",
+        "sha1": "38fa513d8b2e0ff0bc050ed555c7d88dd55111df",
+        "crc32": "8812fd00"
+      }
+    },
+    {
+      "filename": "Sled Storm & Medal of Honor Demo CD (USA) (Track 4).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

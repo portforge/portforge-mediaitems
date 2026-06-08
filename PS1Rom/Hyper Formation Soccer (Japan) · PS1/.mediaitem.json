@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper Formation Soccer (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper Formation Soccer (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cc37292f518a4da36be3975efade4b0b",
+        "sha1": "f2cd21a12e5f63996e041714b2d0a474173ba632",
+        "crc32": "5e350419"
+      }
+    },
+    {
+      "filename": "Hyper Formation Soccer (Japan).bin",
+      "filesize": 376559904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90e939ccc37f7ece0a7a2c24db7447bd",
+        "sha1": "d1fa6a71a8d0ac81a0c61d65197a91ba3d75c307",
+        "crc32": "93c91e14"
+      }
+    }
+  ]
+}

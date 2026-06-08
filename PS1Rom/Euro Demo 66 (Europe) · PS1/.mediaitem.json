@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 66 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 66 (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f23549e7c794ec33f68d5cfe971dc42f",
+        "sha1": "a94e54aaa805d01f91c1b3d4d81531ec608f47b1",
+        "crc32": "20c4a8e5"
+      }
+    },
+    {
+      "filename": "Euro Demo 66 (Europe).bin",
+      "filesize": 375656736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed86d7bbf11d47dbfebca43072da4db5",
+        "sha1": "20568ff07b1d5bae581c516504611cc875962dc2",
+        "crc32": "a742177f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Ugoku Tomica Zukan (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Ugoku Tomica Zukan (Japan) (Controller Set).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f66460539695a5e17b32d11da821efa",
+        "sha1": "b87e5be36d1f5bad62bcb4b3d956b0f53d0e9d3d",
+        "crc32": "b8973551"
+      }
+    },
+    {
+      "filename": "Kids Station - Ugoku Tomica Zukan (Japan) (Controller Set).bin",
+      "filesize": 400976016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c5d0c98cad46aa2309904a853bc4ffe",
+        "sha1": "c23e96d291d924d38c8d62f1b2b1a81e7221bc6f",
+        "crc32": "72fe9d24"
+      }
+    }
+  ]
+}

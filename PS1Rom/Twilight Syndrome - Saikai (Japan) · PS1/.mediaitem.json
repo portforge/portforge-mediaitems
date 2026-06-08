@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Twilight Syndrome - Saikai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Twilight Syndrome - Saikai (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "358f9225517c95fec8e282a0d958354e",
+        "sha1": "d998b63e73664c511f267cb0ae43857a77de08cf",
+        "crc32": "914f1468"
+      }
+    },
+    {
+      "filename": "Twilight Syndrome - Saikai (Japan).bin",
+      "filesize": 688042320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef823ae0b66d785151e5cf0edbdbb508",
+        "sha1": "38276cece26ea248cb9bfc856c51aa63475383e4",
+        "crc32": "62959888"
+      }
+    }
+  ]
+}

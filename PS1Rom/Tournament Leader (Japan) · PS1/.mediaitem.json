@@ -1,0 +1,877 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tournament Leader (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tournament Leader (Japan).cue",
+      "filesize": 10302,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1e18d0d7be7b51de764f633cd6861781",
+        "sha1": "016510c7ee2b6d469501ec900f4441c56e237d54",
+        "crc32": "a8018df9"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 01).bin",
+      "filesize": 44132928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f859c7d19ec864e58aac9b7b6daa43a1",
+        "sha1": "1de2e654c214a20a658c56892c6380713d7a83d1",
+        "crc32": "d180e0e1"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 02).bin",
+      "filesize": 27102096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04598c8ad287324021e3b3541a9ebf8e",
+        "sha1": "b116de5739dff4b3135c45bc09fea33d4ee72c88",
+        "crc32": "95216f8d"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 03).bin",
+      "filesize": 25686192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "488be9e047513c2a90466cfd1400a0d9",
+        "sha1": "e4e8614f623e5d22a2dfac21833dbaf51232d1e1",
+        "crc32": "11b25377"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 04).bin",
+      "filesize": 25265184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ec9e7db8731959259daab90fec01165",
+        "sha1": "90f55e661a6a0eacdc717e5e16553b4cc1de1ba4",
+        "crc32": "ecb66bae"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 05).bin",
+      "filesize": 6696144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ca6d6ce8974051def3be5344b3a7fba",
+        "sha1": "e4a99709f0dc61a2ba92f09b3286eb54d3eefcab",
+        "crc32": "9a51cb25"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 06).bin",
+      "filesize": 1359456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffb8f2a947d28d0a25d62f943d96c197",
+        "sha1": "e3bbfc9afba6dba8a529aaa1cd4624e6d8faaf6e",
+        "crc32": "f8080f9e"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 07).bin",
+      "filesize": 2718912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f787c5d08439febe6b3e60169a8d2e6b",
+        "sha1": "036f91c48aa7bbea0f2dbe53d9c8541321b6c4da",
+        "crc32": "a3e5d10c"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 08).bin",
+      "filesize": 3419808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61f5bdb62ba131473a629e3f9fa80f27",
+        "sha1": "85b38b3a37c8c285a3933d3b5c8e31a42c1308a0",
+        "crc32": "9a9dd724"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 09).bin",
+      "filesize": 2598960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "991516f9e4465f175502bc874181a529",
+        "sha1": "180b28e8667b2c90d17a789135493c6d4965d611",
+        "crc32": "77de843c"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 10).bin",
+      "filesize": 2596608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e679855aab14e5f62f62d5f972646137",
+        "sha1": "194a405ceaca606caaf0891e001900f5374affee",
+        "crc32": "27e6dd75"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 11).bin",
+      "filesize": 2657760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e16e50c8147fbc14b3f5fbb6cc0446f",
+        "sha1": "8f11f60270be1a6bcef97700081956060afb3772",
+        "crc32": "36be1957"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 12).bin",
+      "filesize": 2074464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7d92dca14f2328fdd72a160c765c5fb",
+        "sha1": "57eb0d70087e225b35a67935913118a096b184f1",
+        "crc32": "a1bc0a9f"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 13).bin",
+      "filesize": 2523696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2259c47e7dcbc15a50f707f327542161",
+        "sha1": "fb945428495056a8451e16e82f615eb76d1c9153",
+        "crc32": "b3f9fef0"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 14).bin",
+      "filesize": 2937648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98e54b20bcffed0660bff79f5082b443",
+        "sha1": "b259c6770774f353806debe488d99c499d91187a",
+        "crc32": "9b3db84a"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 15).bin",
+      "filesize": 2956464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccf6dc758d38dedf7b52fa490b555af9",
+        "sha1": "ebd2ae288c17e73f9de5afb030c4ace18a0abf77",
+        "crc32": "68c80fc3"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 16).bin",
+      "filesize": 2932944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca7977cb771d4c6c7f149b69ae38a0b9",
+        "sha1": "462622cf93dabb9876eaf098863e3a35487e2683",
+        "crc32": "d8271811"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 17).bin",
+      "filesize": 3182256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e585162a8a03636ec6fb8f67775b464f",
+        "sha1": "d8dc3db0f82e1607e2212d2b8f4464cb8c60b7d3",
+        "crc32": "890d9d8c"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 18).bin",
+      "filesize": 3003504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45b0e21635490d289ceee6248f8c95df",
+        "sha1": "92585c90c533c829e4c3cfec0a85868c771b0986",
+        "crc32": "4ea771cc"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 19).bin",
+      "filesize": 2655408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d1ef1436a15db4a1325c75f7e799a48",
+        "sha1": "637feecf70336d50f281fe80288ce04036411525",
+        "crc32": "ed3b78b1"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 20).bin",
+      "filesize": 2984688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7d97f9109bda2af9b7e30f77b1c09d7",
+        "sha1": "1ec6d7ef07efea75f5a33c3388d2013ea3d6b0f8",
+        "crc32": "167eb479"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 21).bin",
+      "filesize": 2841216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "448ce80cd0ce64d2ac968f3a0e8891d0",
+        "sha1": "740f788307d8696a42419a185c2969ae62e54914",
+        "crc32": "ef40616c"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 22).bin",
+      "filesize": 2871792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08fb7377ff197d611894346ee0e81c44",
+        "sha1": "1cf586ca1d92343e959e58e9658f5a60970a621e",
+        "crc32": "a7afde4d"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 23).bin",
+      "filesize": 2820048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67865ee76158400db4d1090437d57a09",
+        "sha1": "5f516db813371abcd7a862d8341928987b095da2",
+        "crc32": "fcca2037"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 24).bin",
+      "filesize": 2756544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "371449b7c9a984f5caa342d50d93e960",
+        "sha1": "4bb42e7540e8e50984434c52a0af3fea1e7b4d4e",
+        "crc32": "3b17cef1"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 25).bin",
+      "filesize": 1382976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89f4278bc3c8506d3ef8a5f8f76d8711",
+        "sha1": "8a1a12c9b54c2ce9ab489171916b84287b7ddb9e",
+        "crc32": "b71c0901"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 26).bin",
+      "filesize": 3217536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4326cb3468b04d642dc892e04bcd8b43",
+        "sha1": "1fa7ae69ab71d2a82c313f2fcded38ae2f626dfc",
+        "crc32": "a2f989dc"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 27).bin",
+      "filesize": 2662464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "477e5f7eced3bfe7a067e08059b65e6b",
+        "sha1": "ce98927babfb916492a92d832450f4cdb207cfff",
+        "crc32": "51361a1a"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 28).bin",
+      "filesize": 2883552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eef7b235e4ecb3508d99b4e486abcd9d",
+        "sha1": "a57a80ccdb6eed26bdb7a1ec4751eef8e3bdf325",
+        "crc32": "1ddaaee7"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 29).bin",
+      "filesize": 3050544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "551ace3a2cf45224eda585942e730eba",
+        "sha1": "7bf66a1f0e0d27edc0610789bea56b2f962aab9b",
+        "crc32": "02798455"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 30).bin",
+      "filesize": 2382576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ecebfa2df11ae05a12a5b1ad55343ea",
+        "sha1": "d8367f8719314af509d02c5997c976f3b513d3cf",
+        "crc32": "d4391c85"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 31).bin",
+      "filesize": 2982336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f0b9a5a11916cbe1fdb47602c1272cd",
+        "sha1": "ba11daa9544c29da221ebccc6455721071eefe93",
+        "crc32": "7a446005"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 32).bin",
+      "filesize": 3201072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1403ec27831183ec2f5bb62a0cb8982",
+        "sha1": "304681701b638f7ac7b5b171650b22f35cf7e2ac",
+        "crc32": "a7463f2e"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 33).bin",
+      "filesize": 3302208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4494b3c28c9ae5ef2e592db41bffa50",
+        "sha1": "2c2da82763a989aba674b66272e840dcddbc4f6b",
+        "crc32": "7c71c167"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 34).bin",
+      "filesize": 3309264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3795c7b1fc1f6ac92aa3230164dd1752",
+        "sha1": "3653ed2f2a0e03ba16256177185aefba246dae28",
+        "crc32": "0068b6a9"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 35).bin",
+      "filesize": 3782016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e373e6094b36c868af7dc64b0f05039c",
+        "sha1": "2830307d64a985736dd90951ca61ac97376ca3b5",
+        "crc32": "b6fc8006"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 36).bin",
+      "filesize": 3483312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b41f650b62e612bb3eb84d385cc7af9b",
+        "sha1": "ef26a0c933e8fadedcd141c23f5f239ffe2c4aa8",
+        "crc32": "fafbcdd6"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 37).bin",
+      "filesize": 3149328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4955ec7e0e40ccafba48244319b04cf8",
+        "sha1": "9aefc956c7b1213176c64cf4c9c87ffcda387bf5",
+        "crc32": "8de9e0d1"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 38).bin",
+      "filesize": 3116400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "917fa51847eb7ae91f08fd77f4e4d3b2",
+        "sha1": "9fbec64e456fc299ac39ff9129164da74f60ce7f",
+        "crc32": "3783d457"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 39).bin",
+      "filesize": 3318672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30cc62c3ce597ce18a577aad5ac5fc6e",
+        "sha1": "cfe0ad84d646a41ed80eebf4841105483a5414ef",
+        "crc32": "bf08ae5c"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 40).bin",
+      "filesize": 3417456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca6bbdd6b19889c941026044caf807a6",
+        "sha1": "f7ab1236b8e90fdce9b99156cda9751c5d70ea2a",
+        "crc32": "b16cfc0e"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 41).bin",
+      "filesize": 2876496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7f2f6fae922e23d06f10c334d65f036",
+        "sha1": "fce55ea5c6aa49efe7b00d4f6848650fda2814b5",
+        "crc32": "ff9faf70"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 42).bin",
+      "filesize": 2824752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "006ac3a0df040c161c232b06d412b2e7",
+        "sha1": "15def579a343780721dc3de936aa56b023b84771",
+        "crc32": "7d7f44ce"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 43).bin",
+      "filesize": 3683232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d3e621f1acf6b751d3bc0442ad36b86",
+        "sha1": "82cca4ec5c0a64783959bb2ebb37804ca1462a42",
+        "crc32": "96f3fa81"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 44).bin",
+      "filesize": 7660464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2e2b66a686357539255a6ab597e8393",
+        "sha1": "eeb059111ed0d698ca642ef9bf96c7ef0e186814",
+        "crc32": "186b5ebf"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 45).bin",
+      "filesize": 1173648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "befbc243c768858ea15efb1b66334932",
+        "sha1": "57b9c3954fb3da3e34c60ffacef791c1bc2e9066",
+        "crc32": "30d4161f"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 46).bin",
+      "filesize": 2801232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4465abf127fbf33bdc13fe2cb66ef1b",
+        "sha1": "078466b7342edba3735e671998bd8c3a567cb29a",
+        "crc32": "189bc34c"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 47).bin",
+      "filesize": 2029776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9aa1b6493b875ca600fcbfd21641c758",
+        "sha1": "4c470a9d08f4cfc9347171a9e89aa1213989bde5",
+        "crc32": "8e14d584"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 48).bin",
+      "filesize": 2641296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33b1a9405bf09861b5519aa9de8be867",
+        "sha1": "eea5be83a4a0e0dc776542f151f73f5c420933b4",
+        "crc32": "a24ccfe3"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 49).bin",
+      "filesize": 2107392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee715b2e5357b8c633be891f74b63732",
+        "sha1": "bedacce8ded4d991038c2f6ea094557413e3fc9c",
+        "crc32": "2e7f7b94"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 50).bin",
+      "filesize": 2638944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38ad6f0f461f8562660c5431aa52ced4",
+        "sha1": "6365663e35c53f07e978a99d81c407f6ba92d74f",
+        "crc32": "7d2f5d46"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 51).bin",
+      "filesize": 2596608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba1c50b99b40f4e1f026af4d9a77952f",
+        "sha1": "c9d9ad897cc5424adc8d9daf92846f1047ff346d",
+        "crc32": "e5e8e382"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 52).bin",
+      "filesize": 2643648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4a8775b5322d264be3df4d07ed9f153",
+        "sha1": "3d97adb84d00f7acf850ba998d592884990fa4cf",
+        "crc32": "36b5d4be"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 53).bin",
+      "filesize": 2464896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4411bcae44bea1fe21cdbddfa4af9128",
+        "sha1": "45ac6c281b1ae7dbc561ee528329dcb42cf92ee0",
+        "crc32": "3e205135"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 54).bin",
+      "filesize": 2276736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c590decd75697aa33e558f0f331082ea",
+        "sha1": "c7e0782f64f58bb86cdb56ada5922922d8fb2825",
+        "crc32": "4ab9dbbd"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 55).bin",
+      "filesize": 2401392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "754411b9e89ecf6fd83cf54ec37a664e",
+        "sha1": "8d7a4fe5ddd031c32ca35e941a2c9714e9083e35",
+        "crc32": "fc86e6ef"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 56).bin",
+      "filesize": 2269680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ce02cc39519a9ed621f07aceb415e35",
+        "sha1": "ffeba557b6998061ce6c16661f93fb93846985e4",
+        "crc32": "d0f42226"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 57).bin",
+      "filesize": 3704400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "360e12ee13eb1050980f4907c01c165b",
+        "sha1": "81256475a107d4a1160d41c126fe6e5ebd9adb0f",
+        "crc32": "c74b9bd4"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 58).bin",
+      "filesize": 2036832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd6e19529f7742ebcce1e655057aa59d",
+        "sha1": "d7c0672efceec7a67cc73299f77e7bdb19a0d2eb",
+        "crc32": "664c0526"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 59).bin",
+      "filesize": 2112096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef99a8402392f53b2833c6a3463cbd9e",
+        "sha1": "5fa42a0cf23e404e5991f4717de2a9363ea0d2e0",
+        "crc32": "86d38598"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 60).bin",
+      "filesize": 2488416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc4107103e35ded74c296ee8d67daa42",
+        "sha1": "d675f2b2746e9ec46b9b1ef36168f1a38254b842",
+        "crc32": "e1bcb15d"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 61).bin",
+      "filesize": 2876496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df9d13afd9fd48654f76fdc05aad3a58",
+        "sha1": "5875ed12f94d5e1fc2c56113b66698d809675637",
+        "crc32": "1ac2dc61"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 62).bin",
+      "filesize": 2147376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1864c0fb5628b10892ae19fbab5f961",
+        "sha1": "06ca9a45d6fbf716c563f48a635857935ef2f7ab",
+        "crc32": "b1ecc406"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 63).bin",
+      "filesize": 2401392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16356846d8f129690b6ff340f46ba0df",
+        "sha1": "c7a93d19c75d9312de5a438e48e757fe8328c5e4",
+        "crc32": "531771ce"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 64).bin",
+      "filesize": 1274784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb76779899253684c1eca57ad49be05d",
+        "sha1": "64e3005244be818a62dd42954880d99c2d58afa9",
+        "crc32": "9d28964b"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 65).bin",
+      "filesize": 2631888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "085e59022e3ed2a0a955c0b5141a4df0",
+        "sha1": "d6c3a7fd3d3aee988f4df1af3e7617106ff2374a",
+        "crc32": "1f8dbee5"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 66).bin",
+      "filesize": 2575440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74b4167dde0c094d3616ece1ce306bb0",
+        "sha1": "566aec634b066f73641b9321666880ad291deb3c",
+        "crc32": "156be662"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 67).bin",
+      "filesize": 2707152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4e7029d2d3d88fa6caebce641d84c91",
+        "sha1": "aef7ccefa336cc0153b905a4a68d11d88fd5d851",
+        "crc32": "6c0b9737"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 68).bin",
+      "filesize": 2662464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5512e457f6007861281b46f4f2e4609d",
+        "sha1": "9a1f019bbdac63c3cf0c1235ab31eff8e6125b15",
+        "crc32": "012b4283"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 69).bin",
+      "filesize": 2236752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ca85efd4b60731bd278ce26d68cb308",
+        "sha1": "367c2533ff56badacc68e717efb19a316eb041cd",
+        "crc32": "74ab6c83"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 70).bin",
+      "filesize": 3144624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d176cfa56b28e6a535ad2593bf5af22f",
+        "sha1": "718608b1b72ab0121357323b4c8cfbdd6173badd",
+        "crc32": "8c25b189"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 71).bin",
+      "filesize": 3252816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15b13809028075a21112963540e95fa1",
+        "sha1": "beabf10355c174df32068508a6a8a5b3f3434707",
+        "crc32": "6671c4f7"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 72).bin",
+      "filesize": 2474304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b09ee2247a54591615bca43ff9be7553",
+        "sha1": "180d248cfe1a745d947a0069be28da13bfaed4e0",
+        "crc32": "4e9174ad"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 73).bin",
+      "filesize": 2685984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74cc4aba23e99340fd262ef74b4a6db0",
+        "sha1": "ddceac5959371885b969a7fa2e8166fa3731096e",
+        "crc32": "1121e5f1"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 74).bin",
+      "filesize": 2895312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "932868a4d288c3e4952201dbc20c9daf",
+        "sha1": "c30975d18c5e778a9fd4b4038b6cd9e3a9675375",
+        "crc32": "b25daf34"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 75).bin",
+      "filesize": 2518992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e357eaee6fcc805c6eb7eeedf311aa16",
+        "sha1": "5ffbcc7731a370149838b9437ec953b90b88c827",
+        "crc32": "5f7a9340"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 76).bin",
+      "filesize": 2591904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa5a27817ac45470e077e4d1f35ae309",
+        "sha1": "c070e3841ac81a766c5a22972017d97f0f9298fa",
+        "crc32": "db7e3156"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 77).bin",
+      "filesize": 2514288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f7e5994ad9a0fa279d7173815d6ffce",
+        "sha1": "37c3b68c5b5d79def7a81df8e5f40b72c93af641",
+        "crc32": "e250dddf"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 78).bin",
+      "filesize": 2542512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19993074bc72f669d9cd956f219b126e",
+        "sha1": "54da7ba2576b0fb038ddc26a951d9e897e8d9f2d",
+        "crc32": "107f4156"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 79).bin",
+      "filesize": 2544864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c69988818f36117e35a9d95c97875249",
+        "sha1": "5321ebb78336ad11bd92f47f30aa87018711f197",
+        "crc32": "cad6125d"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 80).bin",
+      "filesize": 3542112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "944b50481f505bbdbc317680f9bbf709",
+        "sha1": "9060e7fe15294378d6a09425966bb4ec7deb0358",
+        "crc32": "bc8052d0"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 81).bin",
+      "filesize": 2356704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d3b40f2ef04aeb4ef5e256459c944c7",
+        "sha1": "55b87853739d5367bdb9d6c6bdd094f4d9a1ae0a",
+        "crc32": "b08f29b4"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 82).bin",
+      "filesize": 2798880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4202913a1d54f1c89c78db56f01f706",
+        "sha1": "4c492d2bb18e9c8d6c5965eceb151981fc4930b7",
+        "crc32": "d8bba1f3"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 83).bin",
+      "filesize": 6849024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de41937300d657e37307918610a9f3cf",
+        "sha1": "d0af2d48e171780489c6c278dde44024b6e9a2a0",
+        "crc32": "758b704d"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 84).bin",
+      "filesize": 16734480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "146407886287b0da59043d96c28a1746",
+        "sha1": "c2ea678291419476255f7e32bddeaa9d3d9cf987",
+        "crc32": "12d70266"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 85).bin",
+      "filesize": 18237408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35f0f9b45c9b4118f3f9195e849a028f",
+        "sha1": "e587baf0342fe1cb754d4ca1db37a6e6bd987a45",
+        "crc32": "039a97a9"
+      }
+    },
+    {
+      "filename": "Tournament Leader (Japan) (Track 86).bin",
+      "filesize": 32248272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "511de24b55d8471c7d0eae4f9d0ef5fc",
+        "sha1": "94b594d0249503c195ea4d5daa469e84bbaf8023",
+        "crc32": "b886c898"
+      }
+    }
+  ]
+}

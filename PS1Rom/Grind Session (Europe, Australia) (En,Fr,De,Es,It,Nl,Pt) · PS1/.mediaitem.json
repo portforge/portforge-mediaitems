@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grind Session (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grind Session (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c428e741b0201732a3c279e0decb5ef7",
+        "sha1": "de054923ab09893584f0aacc176fb1a7a8eb06e4",
+        "crc32": "d2a1e547"
+      }
+    },
+    {
+      "filename": "Grind Session (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt).bin",
+      "filesize": 694216320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fdee4655a0a37629e9393785072cb9c",
+        "sha1": "f7e934bf8d9ca8a2e18630109ad3570dfa04ad30",
+        "crc32": "13a8050f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beast Wars - Transformers (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beast Wars - Transformers (USA).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4086829164fa2164f0820252c6ebaa97",
+        "sha1": "37e8852902e4866b54fb69feea8c977743b7981d",
+        "crc32": "2efa9835"
+      }
+    },
+    {
+      "filename": "Beast Wars - Transformers (USA) (Track 1).bin",
+      "filesize": 436023168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c95e67d014e9215fd4e76da37d55f31",
+        "sha1": "2bb3cd6f32d475087f35f5f6fccfc5daf42f4ffd",
+        "crc32": "da2790f0"
+      }
+    },
+    {
+      "filename": "Beast Wars - Transformers (USA) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rival Schools - United by Fate (Europe) (Disc 1) (Evolution Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rival Schools - United by Fate (Europe) (Disc 1) (Evolution Disc).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd8468a3ed5a64a127076898e86fe0a2",
+        "sha1": "5d95735f6668f78c2f1bd9e48dcd204c43cc7da8",
+        "crc32": "d8ac56e5"
+      }
+    },
+    {
+      "filename": "Rival Schools - United by Fate (Europe) (Disc 1) (Evolution Disc).bin",
+      "filesize": 392017248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1e48b1343e2479557a239f73d2e2f9d",
+        "sha1": "de17f7d3e944988a26d5f46b490828c6ba9b6c20",
+        "crc32": "cfee59dd"
+      }
+    }
+  ]
+}

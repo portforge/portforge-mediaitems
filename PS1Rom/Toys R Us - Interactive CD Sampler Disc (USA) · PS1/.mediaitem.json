@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toys R Us - Interactive CD Sampler Disc (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toys R Us - Interactive CD Sampler Disc (USA).cue",
+      "filesize": 399,
+      "ext": "cue",
+      "checksums": {
+        "md5": "026ba5192ac60fd318c1a2f3aa45564d",
+        "sha1": "46eff3bc496379afdc38b534800d6710d5a64e9e",
+        "crc32": "34ef7fba"
+      }
+    },
+    {
+      "filename": "Toys R Us - Interactive CD Sampler Disc (USA) (Track 1).bin",
+      "filesize": 289477104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a38c2844b39bd8529ee72ba4539e13c6",
+        "sha1": "6543326b5a1451fd12a9e2e02e0c1cc851d105fd",
+        "crc32": "fdcde6bd"
+      }
+    },
+    {
+      "filename": "Toys R Us - Interactive CD Sampler Disc (USA) (Track 2).bin",
+      "filesize": 45901632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e22fe96e4cdbfec7e8df5120bcb0016",
+        "sha1": "cde487457b2fcc0e478dbde5ad03ddac7e44cdab",
+        "crc32": "56084ed3"
+      }
+    },
+    {
+      "filename": "Toys R Us - Interactive CD Sampler Disc (USA) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

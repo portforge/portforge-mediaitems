@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pandora Max Series Vol. 1 - Dragon Knights Glorious (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pandora Max Series Vol. 1 - Dragon Knights Glorious (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "befaf475cea11fc780635ed52c01ac05",
+        "sha1": "ddae45c1ac314fd5e557a3b7e4a6333b7090c0dc",
+        "crc32": "d429f997"
+      }
+    },
+    {
+      "filename": "Pandora Max Series Vol. 1 - Dragon Knights Glorious (Japan).bin",
+      "filesize": 196349664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fca8d945da7e1455f55699a2704026c",
+        "sha1": "9542d352a8b8bcc746e9d25afac61fa9ce6adc3e",
+        "crc32": "75871740"
+      }
+    }
+  ]
+}

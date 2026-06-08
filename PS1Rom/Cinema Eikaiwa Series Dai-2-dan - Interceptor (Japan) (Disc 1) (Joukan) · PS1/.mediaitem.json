@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Japan) (Disc 1) (Joukan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Japan) (Disc 1) (Joukan).cue",
+      "filesize": 137,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c2298916273296ce8b7ee2446f094608",
+        "sha1": "db5b341e12ec2c0ed512eaf005b7a952aed0c6f8",
+        "crc32": "06d9ecb2"
+      }
+    },
+    {
+      "filename": "Cinema Eikaiwa Series Dai-2-dan - Interceptor (Japan) (Disc 1) (Joukan).bin",
+      "filesize": 535665648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75fa6817edcbba7702b283b8dafe5b75",
+        "sha1": "0855fcb38e899d2218f11bbf2e2f03e0176e8881",
+        "crc32": "722422f4"
+      }
+    }
+  ]
+}

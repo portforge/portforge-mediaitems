@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (USA).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d3e54595a4b81359908e521bee8e25f",
+        "sha1": "776bc04262900a71180ed5e6988b266b143d0cda",
+        "crc32": "6ae7b399"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (USA).bin",
+      "filesize": 706037472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06c7b61e953f0777803b7d6a90b09f86",
+        "sha1": "757cc517b2d25f6d0112d0d4efa9efdfa2553967",
+        "crc32": "85114182"
+      }
+    }
+  ]
+}

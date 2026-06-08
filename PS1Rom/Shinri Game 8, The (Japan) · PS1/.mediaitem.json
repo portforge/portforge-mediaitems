@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shinri Game 8, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shinri Game 8, The (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f6533cec66e34446b48b39a1edb05d4",
+        "sha1": "8c8ecf41d2673d82cd1e52862b0d254a02df6c6d",
+        "crc32": "a3822e7c"
+      }
+    },
+    {
+      "filename": "Shinri Game 8, The (Japan).bin",
+      "filesize": 52837680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27d75f30993a4c2673a44aa53cc85ea6",
+        "sha1": "d3b2582fd43f7bd79633082b906a08c5536c3aad",
+        "crc32": "41ed33fb"
+      }
+    }
+  ]
+}

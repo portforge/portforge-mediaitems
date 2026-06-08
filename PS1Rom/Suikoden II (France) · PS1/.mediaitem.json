@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suikoden II (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suikoden II (France).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15ff0ed850ea7ddfb4eb5b202031c9d2",
+        "sha1": "b55e1326be588129a33d3d59dc16b0618a801118",
+        "crc32": "7bd89c70"
+      }
+    },
+    {
+      "filename": "Suikoden II (France).bin",
+      "filesize": 514617600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84f096d261d4932da7b17a485f6299df",
+        "sha1": "ceca99addbf834bd7a5615401c8ef55787ac99b4",
+        "crc32": "2023ee61"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Proof Club (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Proof Club (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "07fcf685354f52b322bafab7f7f79d5d",
+        "sha1": "eb68ce6026a11060524ddd5a864a93d9f5c113ec",
+        "crc32": "dcfeeb4a"
+      }
+    },
+    {
+      "filename": "Proof Club (Japan).bin",
+      "filesize": 66775632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcee2745facb0b90dbb2b07315a5b13b",
+        "sha1": "b0245567ec9a56f5be4aee7c863ab1f117e922eb",
+        "crc32": "4ce44a1c"
+      }
+    }
+  ]
+}

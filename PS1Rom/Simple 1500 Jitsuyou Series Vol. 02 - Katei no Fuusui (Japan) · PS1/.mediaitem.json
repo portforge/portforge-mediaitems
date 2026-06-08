@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 02 - Katei no Fuusui (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 02 - Katei no Fuusui (Japan).cue",
+      "filesize": 447,
+      "ext": "cue",
+      "checksums": {
+        "md5": "879eeab979131a6940cc67c17009bfac",
+        "sha1": "e8dd98cc18fa794a5a2d2880648da75c81cc545e",
+        "crc32": "57222213"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 02 - Katei no Fuusui (Japan) (Track 1).bin",
+      "filesize": 3956064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd9a1ff526ffa1f6c1a5c00b5a42faa0",
+        "sha1": "5b9e69900f2b6fe732752c3c8cb34e45d3b8f942",
+        "crc32": "48268f8e"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 02 - Katei no Fuusui (Japan) (Track 2).bin",
+      "filesize": 41616288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b21e254f460bf0e650536b21a2b2ded",
+        "sha1": "a80d0ee2139d99069a7f1ef4d6e3cb2198834f2c",
+        "crc32": "15aad509"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 02 - Katei no Fuusui (Japan) (Track 3).bin",
+      "filesize": 43163904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7feeb1db2e2c573719b258a076f0e8fc",
+        "sha1": "ebb52602adee09aeb8c80349bca7ed8cd39d44a9",
+        "crc32": "b7e84d30"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild 9 & MDK & Crime Killer (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild 9 & MDK & Crime Killer (France) (Demo).cue",
+      "filesize": 667,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ebce2d0b8e7ecdb7175e2b7df95d253",
+        "sha1": "c11adde6bce8bae57546ec2645444a710654c47e",
+        "crc32": "7a1d5014"
+      }
+    },
+    {
+      "filename": "Wild 9 & MDK & Crime Killer (France) (Demo) (Track 1).bin",
+      "filesize": 50452752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5564f1a4e506246511b4c2395d8c423",
+        "sha1": "4b90efe2c429e9fef73da69e280219beb5165944",
+        "crc32": "817ec065"
+      }
+    },
+    {
+      "filename": "Wild 9 & MDK & Crime Killer (France) (Demo) (Track 2).bin",
+      "filesize": 16362864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b902a4b064169cfac8420cac243430b",
+        "sha1": "e36139f9568b9f9e0f05c9664a6ffaf3597c20c2",
+        "crc32": "d48801d6"
+      }
+    },
+    {
+      "filename": "Wild 9 & MDK & Crime Killer (France) (Demo) (Track 3).bin",
+      "filesize": 20467104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5fb0e72a1330e4e205d441852bbfae4",
+        "sha1": "b0a996411c3aeabeb6ee5dbbc76acbeb9b7bd1d2",
+        "crc32": "07f53aaa"
+      }
+    },
+    {
+      "filename": "Wild 9 & MDK & Crime Killer (France) (Demo) (Track 4).bin",
+      "filesize": 20779920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3d1889304b6a4ea1b38bbd1f10dba3e",
+        "sha1": "0fa537c0087c43b01e8ca66088dd45759df60289",
+        "crc32": "d52053eb"
+      }
+    },
+    {
+      "filename": "Wild 9 & MDK & Crime Killer (France) (Demo) (Track 5).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raamen-bashi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raamen-bashi (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b4a9cc2da7644dd24bfcc6908623af5",
+        "sha1": "958ba3913b8a8f6dd2aea5ea334dd77b8dd18746",
+        "crc32": "3d1111e2"
+      }
+    },
+    {
+      "filename": "Raamen-bashi (Japan).bin",
+      "filesize": 561507072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b85ed9450d5f90709c901bc3346ba8d",
+        "sha1": "8c57f433c1c30a5efd109468a60f12605a83b620",
+        "crc32": "a640c2af"
+      }
+    }
+  ]
+}

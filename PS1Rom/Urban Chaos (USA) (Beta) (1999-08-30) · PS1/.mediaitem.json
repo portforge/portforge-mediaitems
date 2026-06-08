@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Urban Chaos (USA) (Beta) (1999-08-30)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Urban Chaos (USA) (Beta) (1999-08-30).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30e1adb6c44d054122af1c91dca6bac3",
+        "sha1": "a459587b67d9bffcb01b67a986e555b6863b960e",
+        "crc32": "cc61d0e4"
+      }
+    },
+    {
+      "filename": "Urban Chaos (USA) (Beta) (1999-08-30).bin",
+      "filesize": 499376640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c05749e7cb3f3834284937b63014d11e",
+        "sha1": "a909693d8db3b32f570531aabdb369d74db2b054",
+        "crc32": "c1cd7bf7"
+      }
+    }
+  ]
+}

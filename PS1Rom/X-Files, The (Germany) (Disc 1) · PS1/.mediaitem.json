@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Files, The (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Files, The (Germany) (Disc 1).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c13df61ba1eaa86a45e19f85d4966e5",
+        "sha1": "b13a95b3e28b9a3321c439c0005551205d0f24c1",
+        "crc32": "150df88a"
+      }
+    },
+    {
+      "filename": "X-Files, The (Germany) (Disc 1).bin",
+      "filesize": 611922192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "355d9d8731bbf7d0a0c11ae9938448c5",
+        "sha1": "dc829d20604dd8fd81c30507e39595ad97bb83d6",
+        "crc32": "90a7baa5"
+      }
+    }
+  ]
+}

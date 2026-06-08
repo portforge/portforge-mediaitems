@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars (Spain) (Disc 2).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "346995035cf176fa1a61ce98d2769102",
+        "sha1": "82f0d221970958fc5914a4268e6229b06b42e670",
+        "crc32": "1395ce6c"
+      }
+    },
+    {
+      "filename": "Colony Wars (Spain) (Disc 2) (Track 1).bin",
+      "filesize": 647881920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21fda1662b10f8a6b73e147e6dce0464",
+        "sha1": "59a4bc0310a3dd1c5da2e96e515baaadaf9a2aa4",
+        "crc32": "d790cd62"
+      }
+    },
+    {
+      "filename": "Colony Wars (Spain) (Disc 2) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

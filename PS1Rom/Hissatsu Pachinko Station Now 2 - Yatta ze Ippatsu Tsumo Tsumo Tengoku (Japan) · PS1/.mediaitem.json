@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Now 2 - Yatta ze Ippatsu Tsumo Tsumo Tengoku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Now 2 - Yatta ze Ippatsu Tsumo Tsumo Tengoku (Japan).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd1031ffaeed647edd2ca74096df0b88",
+        "sha1": "b2cc88d08eaf6f601c383eb479db862b9617c70b",
+        "crc32": "5072fe9f"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 2 - Yatta ze Ippatsu Tsumo Tsumo Tengoku (Japan).bin",
+      "filesize": 50368080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af9557bb047ff8f8a1f6b8ce5cbd4113",
+        "sha1": "b435860b1e83849ea90c2e11cbe34075f28c3536",
+        "crc32": "a5277475"
+      }
+    }
+  ]
+}

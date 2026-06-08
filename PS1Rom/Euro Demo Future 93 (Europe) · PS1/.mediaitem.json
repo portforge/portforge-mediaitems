@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo Future 93 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo Future 93 (Europe).cue",
+      "filesize": 470,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c960821e9a49169bf64c20c5f786d05",
+        "sha1": "4500ea9838e4d52afa716ddf2307044005fef606",
+        "crc32": "5c989c1a"
+      }
+    },
+    {
+      "filename": "Euro Demo Future 93 (Europe) (Track 1).bin",
+      "filesize": 645562848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7be09d948b17004fd18984eced1c9197",
+        "sha1": "9d35e43ab792db201e9912d1fe751f35946be0d1",
+        "crc32": "5ddcd2b2"
+      }
+    },
+    {
+      "filename": "Euro Demo Future 93 (Europe) (Track 2).bin",
+      "filesize": 26641104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a23473df5013396bc4fc112c10f3977a",
+        "sha1": "91dc983136f4f3a4a64b29e8caf6bac4363e1744",
+        "crc32": "f62140c1"
+      }
+    },
+    {
+      "filename": "Euro Demo Future 93 (Europe) (Track 3).bin",
+      "filesize": 39544176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4055517bb3aacd54f89f1d873f602a57",
+        "sha1": "bc62f408c6aef0b57a9574303e02491ab9edddb1",
+        "crc32": "1730e033"
+      }
+    },
+    {
+      "filename": "Euro Demo Future 93 (Europe) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

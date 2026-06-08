@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Atlantide - L'Empire Perdu (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Atlantide - L'Empire Perdu (France).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2eb79c306271b8fe49616913afed504",
+        "sha1": "752bca92d1a6916209ad204b786f551109eae4c0",
+        "crc32": "97fd484b"
+      }
+    },
+    {
+      "filename": "Disney Atlantide - L'Empire Perdu (France) (Track 1).bin",
+      "filesize": 337610784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "036679f6d1368a1767aae3fae7caa122",
+        "sha1": "c5d1a025b57e90591fcea5aee2a66a355d0ece2c",
+        "crc32": "f884d1cc"
+      }
+    },
+    {
+      "filename": "Disney Atlantide - L'Empire Perdu (France) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

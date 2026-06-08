@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Constructor (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Constructor (Italy).cue",
+      "filesize": 213,
+      "ext": "cue",
+      "checksums": {
+        "md5": "253b23475ec87119cc77c4562bc10a68",
+        "sha1": "1c96fc0cf2aac5e2a959ea0a480f57566eb1df5c",
+        "crc32": "ea5519d6"
+      }
+    },
+    {
+      "filename": "Constructor (Italy) (Track 1).bin",
+      "filesize": 191826768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f67f907b5845229a805fe6370202dcda",
+        "sha1": "cbfd868390c827b2d991c30524a142336045cb10",
+        "crc32": "b0f00990"
+      }
+    },
+    {
+      "filename": "Constructor (Italy) (Track 2).bin",
+      "filesize": 37239216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11f65e5c3afa4f72ef10e312271fbb7a",
+        "sha1": "2ad8e35f947e958801bf1a866fc69cf8fc2493f3",
+        "crc32": "d3c44fe7"
+      }
+    }
+  ]
+}

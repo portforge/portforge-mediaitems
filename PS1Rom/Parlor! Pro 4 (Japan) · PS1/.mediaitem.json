@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parlor! Pro 4 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parlor! Pro 4 (Japan).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9578f60a3650c4a7a86f9f1a4601ea9b",
+        "sha1": "bd1202b2123b9fcc44af91e195c10b2cba44a891",
+        "crc32": "b5750b5e"
+      }
+    },
+    {
+      "filename": "Parlor! Pro 4 (Japan) (Track 1).bin",
+      "filesize": 43681344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c011be5828a0cf9626bfb92d4c9a24f",
+        "sha1": "2e38a94d2bd8e6e1bed4dc3b3866264d03c7b71f",
+        "crc32": "8c974ac9"
+      }
+    },
+    {
+      "filename": "Parlor! Pro 4 (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

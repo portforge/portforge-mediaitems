@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WWF In Your House (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WWF In Your House (Europe).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "48f728ce9fa7ca96fba71ca8a31424b7",
+        "sha1": "0dc4f691677ca150c6ce41746ec92e6c8fb43e96",
+        "crc32": "5fe9e88f"
+      }
+    },
+    {
+      "filename": "WWF In Your House (Europe) (Track 1).bin",
+      "filesize": 290987088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25a9b01a9fa3abfff81d0c66d3df6aa0",
+        "sha1": "07b9461c7ab7e3150948173031d48ea9d43648e6",
+        "crc32": "19a2988d"
+      }
+    },
+    {
+      "filename": "WWF In Your House (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

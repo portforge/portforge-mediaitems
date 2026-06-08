@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Croc Adventure (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Croc Adventure (Japan) (Demo).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8899aa547019336053ef1812b229401",
+        "sha1": "54c940e07485749e69affebcf961fbc028ef7b4e",
+        "crc32": "9b1e652c"
+      }
+    },
+    {
+      "filename": "Croc Adventure (Japan) (Demo).bin",
+      "filesize": 86269008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "993b2d054b36bdfae190a8afaaf3ff6b",
+        "sha1": "ab82a7a1fca0ef27cdaa2b8dbb080a514f6c2834",
+        "crc32": "ed099191"
+      }
+    }
+  ]
+}

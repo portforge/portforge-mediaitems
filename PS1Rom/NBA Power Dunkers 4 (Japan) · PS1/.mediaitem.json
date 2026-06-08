@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Power Dunkers 4 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Power Dunkers 4 (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e35c342255bac803e8bb030dac39ea36",
+        "sha1": "0609c5ca9a974df91f0a2d15236bc661d70de827",
+        "crc32": "fc39db5d"
+      }
+    },
+    {
+      "filename": "NBA Power Dunkers 4 (Japan).bin",
+      "filesize": 578025168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "229f857cdd1228563e529937b626b240",
+        "sha1": "2a146ec4365ad8ad1542deff097c50a6a6c400c5",
+        "crc32": "e20f8c92"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beyond the Beyond - Haruka naru Kanaan e (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beyond the Beyond - Haruka naru Kanaan e (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9ed81abbbccd251df3746dceec390035",
+        "sha1": "bb3f08aeb043004274239ca88a832c219a7aaaa9",
+        "crc32": "7355e3db"
+      }
+    },
+    {
+      "filename": "Beyond the Beyond - Haruka naru Kanaan e (Japan).bin",
+      "filesize": 144633888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1bee90eeee85523704fd6aebc419a94",
+        "sha1": "fdf6d3761e9bf65af06816542907e2bee1339b1f",
+        "crc32": "54fce8d1"
+      }
+    }
+  ]
+}

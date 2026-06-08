@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Michelin Rally Masters - Race of Champions (Europe) (Fr,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Michelin Rally Masters - Race of Champions (Europe) (Fr,Es,It).cue",
+      "filesize": 294,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce327319bbe44cc282a2c28b9eb6fe7f",
+        "sha1": "dc4aa811aa747b5a4718335f0518dc0a53d997fc",
+        "crc32": "795ef898"
+      }
+    },
+    {
+      "filename": "Michelin Rally Masters - Race of Champions (Europe) (Fr,Es,It) (Track 1).bin",
+      "filesize": 711395328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "407b1fd7c215d6b3adb14984c983b813",
+        "sha1": "47df0cf558096f5a5ffde73beb75ef37fb52e4d3",
+        "crc32": "75a811e5"
+      }
+    },
+    {
+      "filename": "Michelin Rally Masters - Race of Champions (Europe) (Fr,Es,It) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b67bfdde80dab8e7f88bf8bbacb314fe",
+        "sha1": "c56c260f0030caa96f1eb7ab4cbb2c450a5aafbf",
+        "crc32": "1d48da20"
+      }
+    }
+  ]
+}

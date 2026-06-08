@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oujisama Lv1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oujisama Lv1 (Japan).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "26f415dd2db009505883403447cc0ac7",
+        "sha1": "c8ecdac8f2e9a3268268ff6e36f8e59d59a166a5",
+        "crc32": "88f78b00"
+      }
+    },
+    {
+      "filename": "Oujisama Lv1 (Japan) (Track 1).bin",
+      "filesize": 668229072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "404093b5468535e4f888c2a5bdbd6e52",
+        "sha1": "878dc5dad6424f93d883d91b52515b7b9a41e065",
+        "crc32": "45dc2308"
+      }
+    },
+    {
+      "filename": "Oujisama Lv1 (Japan) (Track 2).bin",
+      "filesize": 32109504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eebc5927d7afe9ce8ac003e7f37fbe93",
+        "sha1": "0bd43fbb148a3c048a59411b4f7633aa27e7280d",
+        "crc32": "d6082695"
+      }
+    }
+  ]
+}

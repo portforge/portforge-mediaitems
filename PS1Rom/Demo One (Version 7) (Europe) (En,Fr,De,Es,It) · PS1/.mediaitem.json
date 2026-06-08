@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Demo One (Version 7) (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Demo One (Version 7) (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce25e514f136be9b41210e9ea730d9c8",
+        "sha1": "8b90f40512366a5fae93db3ac900e5728602f232",
+        "crc32": "ebf7bedc"
+      }
+    },
+    {
+      "filename": "Demo One (Version 7) (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 665982912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e77a2bca7c99afc7cd5f9b4a79dad00",
+        "sha1": "9ab6c251db15de51420b241c912779d508f4b159",
+        "crc32": "b14bf8cb"
+      }
+    }
+  ]
+}

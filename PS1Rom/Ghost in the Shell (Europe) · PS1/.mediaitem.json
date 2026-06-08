@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ghost in the Shell (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ghost in the Shell (Europe).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f4a329d2768fafcdbcd0216b9593c2de",
+        "sha1": "fcd5d4613f6b59d055f60c6cf5cc4af0b8554f1f",
+        "crc32": "57b79327"
+      }
+    },
+    {
+      "filename": "Ghost in the Shell (Europe).bin",
+      "filesize": 655620000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e50049b82e6717c9b1118a3c6bf1de1",
+        "sha1": "4d996a3b9b3fdd18053d3ec4fed232b8043580f1",
+        "crc32": "58db5d6f"
+      }
+    }
+  ]
+}

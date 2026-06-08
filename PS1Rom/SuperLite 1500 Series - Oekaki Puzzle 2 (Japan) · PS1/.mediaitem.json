@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan).cue",
+      "filesize": 828,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f64721221eafb0796341286413a6096",
+        "sha1": "0afbe7e6a1aa9da9f2f4f7257beb781c65549d89",
+        "crc32": "0b1db6fb"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan) (Track 1).bin",
+      "filesize": 1509984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22bc7695ffdfa5438b46f8e6043d332f",
+        "sha1": "ee4c448b21f47a131c753c818d6bd53d618361bd",
+        "crc32": "4f12ab62"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan) (Track 2).bin",
+      "filesize": 23357712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b1304f079ee23016d0ce4f1f8754655",
+        "sha1": "fa528e1d1a579a0a72dc39984dc9ccda861a06c6",
+        "crc32": "bfa697b6"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan) (Track 3).bin",
+      "filesize": 33174960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b19f82aa23d9fed3dde76c3e0d481a0d",
+        "sha1": "2449f59460adbc1560085a0a5b23694fba8048c5",
+        "crc32": "f4509ceb"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan) (Track 4).bin",
+      "filesize": 86205504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77be2597b999e1d5552fe4900396c0b1",
+        "sha1": "32e8b915aee864280f1aeef389e7ee6a224e870e",
+        "crc32": "03ab8f71"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan) (Track 5).bin",
+      "filesize": 86205504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2204c8e71ba9fedbcfdbcd75f934e747",
+        "sha1": "393736d47330a019d58a9ab68b68e2beef6ac5dd",
+        "crc32": "7fcd68e6"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Oekaki Puzzle 2 (Japan) (Track 6).bin",
+      "filesize": 86525376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb322cb73a7ffad83ff7f91f9cecc93b",
+        "sha1": "7173a84ec811cfee157fdd58e9603a8445468272",
+        "crc32": "be6b5d70"
+      }
+    }
+  ]
+}

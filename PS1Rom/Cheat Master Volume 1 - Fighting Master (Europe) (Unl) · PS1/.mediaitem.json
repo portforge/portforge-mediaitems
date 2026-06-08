@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cheat Master Volume 1 - Fighting Master (Europe) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cheat Master Volume 1 - Fighting Master (Europe) (Unl).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1bce691c3f4e6c307c6aef6674ef244f",
+        "sha1": "47879bd2289fb8ab33a2a174a8ed5074631d3cfe",
+        "crc32": "35eb6cbe"
+      }
+    },
+    {
+      "filename": "Cheat Master Volume 1 - Fighting Master (Europe) (Unl).bin",
+      "filesize": 7453488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "581614f7d66c291ae798b4822a2dd251",
+        "sha1": "b72b1ba9ffa4f8f5f502d86b2fe564d6c0aea83e",
+        "crc32": "db892f89"
+      }
+    }
+  ]
+}

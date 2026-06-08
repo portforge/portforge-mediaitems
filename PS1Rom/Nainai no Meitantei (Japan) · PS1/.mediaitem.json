@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nainai no Meitantei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nainai no Meitantei (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dab67e990586385fff2d4d7482714123",
+        "sha1": "8d911ad49ae2b2a43945e53148524b4b83ba3418",
+        "crc32": "567df821"
+      }
+    },
+    {
+      "filename": "Nainai no Meitantei (Japan).bin",
+      "filesize": 290756592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59b09f4d5eaae68d97505eb71c9c76bf",
+        "sha1": "09290c701b96122fe1ed6ac8ef28194a319cf8d1",
+        "crc32": "79376ff8"
+      }
+    }
+  ]
+}

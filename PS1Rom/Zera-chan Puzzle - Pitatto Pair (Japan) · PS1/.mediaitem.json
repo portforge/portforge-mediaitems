@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zera-chan Puzzle - Pitatto Pair (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zera-chan Puzzle - Pitatto Pair (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f9b6c49a9c2128fd474a61444963e0c",
+        "sha1": "fb25ce9057c1fe7926506b8ab2062167285bdc71",
+        "crc32": "387382d4"
+      }
+    },
+    {
+      "filename": "Zera-chan Puzzle - Pitatto Pair (Japan).bin",
+      "filesize": 149669520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af4b8f7a5324250d526576b15e760969",
+        "sha1": "78f822c80de04d70fc59015bb122d2d81b6aa70b",
+        "crc32": "b67cc0ca"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ballerburg - Castle Chaos (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ballerburg - Castle Chaos (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c21d2d9bdf149a7da68686dd167d94b5",
+        "sha1": "022afc687d3808226bca06dc290dbabe3f066cf3",
+        "crc32": "3dec4432"
+      }
+    },
+    {
+      "filename": "Ballerburg - Castle Chaos (USA).bin",
+      "filesize": 673659840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1baa6697c1f2cbf418354c6b1f73fc0f",
+        "sha1": "30eefc20524eaa87a79095e3441414d9303f21be",
+        "crc32": "7e0a2897"
+      }
+    }
+  ]
+}

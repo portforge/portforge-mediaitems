@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "N2O - Nitrous Oxide (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "N2O - Nitrous Oxide (USA) (Trade Demo).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "848e9070550a6188e534716f3e3814a8",
+        "sha1": "5cd15fec218fa6a854bc8c42195f8dd5eba3ee6a",
+        "crc32": "6710e264"
+      }
+    },
+    {
+      "filename": "N2O - Nitrous Oxide (USA) (Trade Demo) (Track 1).bin",
+      "filesize": 49511952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70b53477a4e9c41f79d096cc2c796ad8",
+        "sha1": "63dcbf71c14df930b539457e0ec1d99529338257",
+        "crc32": "54505562"
+      }
+    },
+    {
+      "filename": "N2O - Nitrous Oxide (USA) (Trade Demo) (Track 2).bin",
+      "filesize": 80254944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07bf25d7028ad687fc1a5bc8f8ba7988",
+        "sha1": "ffa4d1ba3e60c2c3c9020c259b2a9508769e2bf1",
+        "crc32": "368166ea"
+      }
+    }
+  ]
+}

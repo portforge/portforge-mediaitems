@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police (Italy) (Disc 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54abf924d4c9d41c1ee541010d1a7936",
+        "sha1": "99458ed4a9be2fd3831455cce3ed30ac3f3a9532",
+        "crc32": "7f3c4c1f"
+      }
+    },
+    {
+      "filename": "G-Police (Italy) (Disc 1).bin",
+      "filesize": 724016160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e89ef1cdc81118e2c883c845708f98d5",
+        "sha1": "927cec37d9d36146d5e3980cbc3b3fd7802b5e29",
+        "crc32": "bf1cda77"
+      }
+    }
+  ]
+}

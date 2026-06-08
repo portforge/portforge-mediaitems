@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Barbie - Super Sports (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Barbie - Super Sports (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "36cee42d54fc483570430d01d25d7637",
+        "sha1": "4227bb70900cd2ad4de58437fb4c244a7820ef01",
+        "crc32": "24811e59"
+      }
+    },
+    {
+      "filename": "Barbie - Super Sports (USA).bin",
+      "filesize": 332664528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb290de81e59035ef7b2d6f34724c580",
+        "sha1": "87bb33b809926cff8e96cae5bb7854f509411b32",
+        "crc32": "47cca6e8"
+      }
+    }
+  ]
+}

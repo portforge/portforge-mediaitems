@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shichida-shiki Unou de Asobenture Vol. 2 - Katachi 123 - 0-2-sai Muke (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shichida-shiki Unou de Asobenture Vol. 2 - Katachi 123 - 0-2-sai Muke (Japan).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b0e8848a5a3023d9b7f2df35cecc1ce0",
+        "sha1": "29b6d2be5e38a5e4ae44e0bf658acf30e74bf469",
+        "crc32": "b2eb55a5"
+      }
+    },
+    {
+      "filename": "Shichida-shiki Unou de Asobenture Vol. 2 - Katachi 123 - 0-2-sai Muke (Japan).bin",
+      "filesize": 340522560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b463d54ea7eb8f4d9edc4cec1125ab94",
+        "sha1": "7469d26c417a65150b62289c127bdce355c710e2",
+        "crc32": "d41644fc"
+      }
+    }
+  ]
+}

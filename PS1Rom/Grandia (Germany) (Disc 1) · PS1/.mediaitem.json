@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grandia (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grandia (Germany) (Disc 1).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5bd35308fe5665eb825123f7b788a041",
+        "sha1": "06e02b9a036efca0b1d7408a8bb473ca4c463428",
+        "crc32": "342ab786"
+      }
+    },
+    {
+      "filename": "Grandia (Germany) (Disc 1).bin",
+      "filesize": 693317856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e36ad899771b48d5a085a745be5088d4",
+        "sha1": "49881bcebcfd7a0337c8d00f0d98a824bd5b1357",
+        "crc32": "e63b902e"
+      }
+    }
+  ]
+}

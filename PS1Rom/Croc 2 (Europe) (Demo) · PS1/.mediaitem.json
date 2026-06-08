@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Croc 2 (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Croc 2 (Europe) (Demo).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45985e49eefa9694d15e193d4c136d69",
+        "sha1": "b974d1fefdc558ad0e889366540013552cafe190",
+        "crc32": "ba810565"
+      }
+    },
+    {
+      "filename": "Croc 2 (Europe) (Demo).bin",
+      "filesize": 81214560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05ba5366b74e9da115fd0f6d7c6b80c7",
+        "sha1": "a9799605ba86c4189425dc45dee6e005baf36812",
+        "crc32": "570ea8dc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jewel Bem Hunter Lime with Paint Maker (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jewel Bem Hunter Lime with Paint Maker (Japan).cue",
+      "filesize": 542,
+      "ext": "cue",
+      "checksums": {
+        "md5": "51b5fade0ed03a5901f8d78d981e579b",
+        "sha1": "977b95505b651154a0d38af61ce9e21e724426c7",
+        "crc32": "349bacf8"
+      }
+    },
+    {
+      "filename": "Jewel Bem Hunter Lime with Paint Maker (Japan) (Track 1).bin",
+      "filesize": 258847008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20716f1c0bd2589f85b0c38ad4cd4296",
+        "sha1": "5d42d3fdfe87956d2bf53ab4040b9bcbeea5964a",
+        "crc32": "8d903614"
+      }
+    },
+    {
+      "filename": "Jewel Bem Hunter Lime with Paint Maker (Japan) (Track 2).bin",
+      "filesize": 51748704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40e9b1acbc770af2057d2ceb794f3174",
+        "sha1": "829b16e741a93f11723fc89da35a4b8043c350cf",
+        "crc32": "0e7e0faa"
+      }
+    },
+    {
+      "filename": "Jewel Bem Hunter Lime with Paint Maker (Japan) (Track 3).bin",
+      "filesize": 50549184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac2a306d36640b4b3cb88ac9687a9df9",
+        "sha1": "8cf238e2cfcb610ef09c436d891f877c3371c9d4",
+        "crc32": "1247bb47"
+      }
+    },
+    {
+      "filename": "Jewel Bem Hunter Lime with Paint Maker (Japan) (Track 4).bin",
+      "filesize": 38676288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24051b3ebf352a99dd86d0f60b7da11c",
+        "sha1": "14ebe7a7a7d4ce29c2b2e932f9048b663cc9c886",
+        "crc32": "a567e14f"
+      }
+    }
+  ]
+}

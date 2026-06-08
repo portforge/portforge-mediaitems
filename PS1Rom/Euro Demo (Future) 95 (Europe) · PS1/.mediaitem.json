@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo (Future) 95 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo (Future) 95 (Europe).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4991656db90f8eb8ffc1e9da8196064b",
+        "sha1": "bd2dbe84024e7375caf1e699268f6795307d07e9",
+        "crc32": "63963730"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 95 (Europe).bin",
+      "filesize": 645214752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa350b27f2c69503051826f75c5531ff",
+        "sha1": "9f207f72150bc32dcd45fa4aa9c8e0fd22af0d7d",
+        "crc32": "bdf4f01b"
+      }
+    }
+  ]
+}

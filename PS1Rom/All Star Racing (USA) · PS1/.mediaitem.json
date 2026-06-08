@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "All Star Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "All Star Racing (USA).cue",
+      "filesize": 787,
+      "ext": "cue",
+      "checksums": {
+        "md5": "561196cb116909bf2fdea8dad3b4339a",
+        "sha1": "7104bd21eb0b0a9937d1c2807e78b495fff18632",
+        "crc32": "8f7bcff0"
+      }
+    },
+    {
+      "filename": "All Star Racing (USA) (Track 1).bin",
+      "filesize": 54197136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f4521fad9bccbd0e54de2a9c2b6ac74",
+        "sha1": "ff7672098f3f41c226fccbcee69f5dd09bada2f7",
+        "crc32": "973ccba0"
+      }
+    },
+    {
+      "filename": "All Star Racing (USA) (Track 2).bin",
+      "filesize": 71493744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d0354df11773e519bdd0d9d09859b17",
+        "sha1": "ed2828f20a3d185c68f321fbb9b82f8fd347fe6f",
+        "crc32": "0648aca5"
+      }
+    },
+    {
+      "filename": "All Star Racing (USA) (Track 3).bin",
+      "filesize": 58122624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c93de943df02bd99f5a494079aee4406",
+        "sha1": "1b59bcbaf124facb9fa1c80c4c3f4a6972b8f937",
+        "crc32": "028f9195"
+      }
+    },
+    {
+      "filename": "All Star Racing (USA) (Track 4).bin",
+      "filesize": 65529072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22bb8fc7d02cedcabbf30601ba7e6224",
+        "sha1": "ecc353ab79187eca0f3746974dc8f82449fc0f72",
+        "crc32": "faa9a4f3"
+      }
+    },
+    {
+      "filename": "All Star Racing (USA) (Track 5).bin",
+      "filesize": 53966640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbcd46c084b11b78559a0e4a4600a114",
+        "sha1": "8403610d643f5a2b11f91b88b741dbd3ad461ef0",
+        "crc32": "243c6daf"
+      }
+    },
+    {
+      "filename": "All Star Racing (USA) (Track 6).bin",
+      "filesize": 39381888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f725568b126ab55da506f41914f4f5e",
+        "sha1": "fdfc5fbecc49affbb49460d4a6012f95ef6ce901",
+        "crc32": "bfde0cef"
+      }
+    },
+    {
+      "filename": "All Star Racing (USA) (Track 7).bin",
+      "filesize": 85024800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a4c5d00fa2db63c25f76906a9a35794",
+        "sha1": "b1399d076856470846830c6b9e85a68f53049d9a",
+        "crc32": "e5eb9507"
+      }
+    }
+  ]
+}

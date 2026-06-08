@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mezase! Meimon Yakyuubu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mezase! Meimon Yakyuubu (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f34c7f85ad92a2cd9af2bc55bf3f4a39",
+        "sha1": "767700cbd0adb61e9d7f32d54053f60b680c7686",
+        "crc32": "803cf0a9"
+      }
+    },
+    {
+      "filename": "Mezase! Meimon Yakyuubu (Japan).bin",
+      "filesize": 190194480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebbbda7c63e0f18173f35cf1bcf6d13f",
+        "sha1": "a631d53a70b4773d04cb597f48e6ce9f86a74bc6",
+        "crc32": "15379589"
+      }
+    }
+  ]
+}

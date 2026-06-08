@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Keitai Eddy (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Keitai Eddy (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "51d55e8d97d09f9518d0f7cdc264d464",
+        "sha1": "d46178b99c5e3d8eb32e2d0bdfbc4b74624a7424",
+        "crc32": "28ffa7cc"
+      }
+    },
+    {
+      "filename": "Keitai Eddy (Japan).bin",
+      "filesize": 534607248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6c52dfd383e2032be290d1f26080bc1",
+        "sha1": "3a4221e653bdacc217623ea0b8aa54f0215750e8",
+        "crc32": "f1baf743"
+      }
+    }
+  ]
+}

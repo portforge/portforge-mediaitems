@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ClockWerx (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ClockWerx (Japan).cue",
+      "filesize": 1438,
+      "ext": "cue",
+      "checksums": {
+        "md5": "203a22e050563a17f4e69ef08d93495e",
+        "sha1": "9b4c0ba8b33a19cde953c8abce6946304dcba660",
+        "crc32": "f6b2ec73"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 01).bin",
+      "filesize": 203885472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b735e383d80b683007679e2616663665",
+        "sha1": "5f65b127a2d931f1c67f73d2e666d10eb7ccab49",
+        "crc32": "c7da064f"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 02).bin",
+      "filesize": 32791584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88f5f26b720e29ebdb1cdc548106b39f",
+        "sha1": "336d9f42d0c04438b74ebd636f308ba9d82c71e6",
+        "crc32": "3d0c86ec"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 03).bin",
+      "filesize": 34849584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d675706d4e178665a52e93dee9229fbb",
+        "sha1": "1ac6af3257a5a39b6af71ea2258c20e647c35864",
+        "crc32": "4aed41d0"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 04).bin",
+      "filesize": 34588512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c463312722cb94e69714b8bfee7b044",
+        "sha1": "a7fdc18799d7c54bbc669127e3fe363f0a0ec0df",
+        "crc32": "61fec7c1"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 05).bin",
+      "filesize": 33224352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "530a6c260662a6e976b109dfac9ab44d",
+        "sha1": "992d08385b05a9d16824a25f1c0ebb480c0e01bb",
+        "crc32": "b7965021"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 06).bin",
+      "filesize": 33713568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "306dfcb5def1d22c1d197c4f8c5859c7",
+        "sha1": "fdf98809ac1925069702742e54fb0983201aa41f",
+        "crc32": "b6cb0cee"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 07).bin",
+      "filesize": 10892112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b4110696beabcfaa41d7cac8f6edfcf",
+        "sha1": "ac1a24ae1d7ad2c41d416fc7ada619e4122ada56",
+        "crc32": "f6d31079"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 08).bin",
+      "filesize": 13785072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a24e3bce05bde91256a59a658142a42d",
+        "sha1": "3c6a9f30b700fd1f8a6346d0d1408d6e3d634385",
+        "crc32": "ba8f208b"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 09).bin",
+      "filesize": 13963824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f726c641edb9ad7961220c95f9307c2",
+        "sha1": "bc1e6fc7f1b5d18902e954aff0b56dd127ba38fa",
+        "crc32": "2ee1c547"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 10).bin",
+      "filesize": 21410256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b14c55be32a301718d17ec63f09a82c2",
+        "sha1": "e0acaf4a319e33879baa0740947efa82ba6fee75",
+        "crc32": "52fc6553"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 11).bin",
+      "filesize": 12129264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72c83a5edd3327dca575eb8d96307101",
+        "sha1": "f88ee7273fb5107b207259940cb6a7f994ba2906",
+        "crc32": "9afe6ba3"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 12).bin",
+      "filesize": 16165296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "daad2426b89e1273cab2b2b7eaa4bfa2",
+        "sha1": "cec79b5225aef375807a8694460c3b963585a428",
+        "crc32": "ce3bea5e"
+      }
+    },
+    {
+      "filename": "ClockWerx (Japan) (Track 13).bin",
+      "filesize": 33224352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "530a6c260662a6e976b109dfac9ab44d",
+        "sha1": "992d08385b05a9d16824a25f1c0ebb480c0e01bb",
+        "crc32": "b7965021"
+      }
+    }
+  ]
+}

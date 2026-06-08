@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Castlevania - Symphony of the Night (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Castlevania - Symphony of the Night (USA).cue",
+      "filesize": 282,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a90e6d1439f1bb8c400ac7987e54589",
+        "sha1": "68bfb9ef7f17b32ab5d4e7306dad114ce6aefad3",
+        "crc32": "8b07c1cc"
+      }
+    },
+    {
+      "filename": "Castlevania - Symphony of the Night (USA) (Track 1).bin",
+      "filesize": 538655040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acbb3a2e4a8f865f363dc06df147afa2",
+        "sha1": "f967119e006695a59a6442237f9fc7c7811cf7bf",
+        "crc32": "05be47b2"
+      }
+    },
+    {
+      "filename": "Castlevania - Symphony of the Night (USA) (Track 2).bin",
+      "filesize": 44676240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f4b1df20c0173f7c2e6a30bd3109ac8",
+        "sha1": "1cb96a57f7363a2a43e79683f1a79c62bb6190dc",
+        "crc32": "70efb5c6"
+      }
+    }
+  ]
+}

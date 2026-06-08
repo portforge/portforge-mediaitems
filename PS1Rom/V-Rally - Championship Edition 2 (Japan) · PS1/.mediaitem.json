@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "V-Rally - Championship Edition 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan).cue",
+      "filesize": 1054,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c1d5a94e09d8b7102f5395fbf7979278",
+        "sha1": "d491c244a831160dfd74b3d4be77124fbd430973",
+        "crc32": "a36336a4"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 1).bin",
+      "filesize": 459218592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8adfd6e675b62dfd9652d76a914935d7",
+        "sha1": "9b2e373168b82cc1f7b423fe780e8a95506e14e6",
+        "crc32": "58b37a63"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 2).bin",
+      "filesize": 16104144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b01b269eb735961722b25556b835ab52",
+        "sha1": "c841d5fb7ee0021245923cb6fb2e421d10a5f6e2",
+        "crc32": "a14f1c8b"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 3).bin",
+      "filesize": 42721728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "641cdc487eea96898bfa9d7d173edea9",
+        "sha1": "a0ba964a0395815b2d984471b7535ba11ad1d112",
+        "crc32": "8f07d673"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 4).bin",
+      "filesize": 33866448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c96fc65e352c0eb60105cba73a268ee",
+        "sha1": "803f932860dfb9841edc7e58405398a83b75931e",
+        "crc32": "c1b778f2"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 5).bin",
+      "filesize": 36604176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3e07628e82542e428a89b18f50fb0a2",
+        "sha1": "2cf53712ac955d9e48042bfb1c04b61b9ba70210",
+        "crc32": "585e8f60"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 6).bin",
+      "filesize": 47738544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9fe86c74613335e704bdda7691e098b",
+        "sha1": "e2b49ef548a10054d0cf31e0c9e96d54b5e7c5ac",
+        "crc32": "75fa7e5e"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 7).bin",
+      "filesize": 36380736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9b301343b14f7c208f87a638291d229",
+        "sha1": "f0c03c8593a083eff9fb582baedd6f28b410c787",
+        "crc32": "3bd314ba"
+      }
+    },
+    {
+      "filename": "V-Rally - Championship Edition 2 (Japan) (Track 8).bin",
+      "filesize": 32986800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4635067b7e9d9cf9aadabe5c7a0809b",
+        "sha1": "1ccdea80b0e2e26b872e60bd7602bc635ba037f3",
+        "crc32": "c317d4be"
+      }
+    }
+  ]
+}

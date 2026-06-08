@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Str.at.e.s. 3 - Title This! Title That! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Str.at.e.s. 3 - Title This! Title That! (USA).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c58ec08dada4c620fa03bb0788f0c592",
+        "sha1": "a9d1ce666c83ef712807e6a9162c7bd301832f4e",
+        "crc32": "dc798682"
+      }
+    },
+    {
+      "filename": "Str.at.e.s. 3 - Title This! Title That! (USA).bin",
+      "filesize": 729268176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a969b1158bd42711bb09fd141d8117c1",
+        "sha1": "a48f7768d9435c6b9f96da55086d6231d424c31e",
+        "crc32": "826a64ac"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Starfighter Sanvein (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Starfighter Sanvein (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "24504de29f1e60a2c41fed8c8f624d54",
+        "sha1": "01897d14cdf81700baa59f0058fd557ef8bc9fda",
+        "crc32": "651f1cc3"
+      }
+    },
+    {
+      "filename": "Starfighter Sanvein (USA).bin",
+      "filesize": 245231280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b329526ba26dfa6893d3a99e57cbd32",
+        "sha1": "c318801fcb45983dbf44aa4d1862ca6c39d1636c",
+        "crc32": "d82a08e1"
+      }
+    }
+  ]
+}

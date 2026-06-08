@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (Germany) (Disc 1).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "22d16d25802eb656e025495f5fbd82d2",
+        "sha1": "443857fa425d5d6c1a1f0f7709067edb08a24a9b",
+        "crc32": "66d5f308"
+      }
+    },
+    {
+      "filename": "Galerians (Germany) (Disc 1).bin",
+      "filesize": 686856912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d34199bccc04ebd6246cdd780cba7aec",
+        "sha1": "11f79f32a4c5b83095703a5c4c2dc4a9be5707af",
+        "crc32": "b0725f0e"
+      }
+    }
+  ]
+}

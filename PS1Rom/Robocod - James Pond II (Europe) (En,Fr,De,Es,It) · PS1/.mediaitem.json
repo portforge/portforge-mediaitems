@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 1269,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c95ef3eb031f1bb34cbf923bfed3df94",
+        "sha1": "458e3ae41c8625fb9c7f6703ccef1aa25af7ab3a",
+        "crc32": "865e0968"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 73500000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8aa6d313d2e5ddb27ef41e7e487b321",
+        "sha1": "02311df4286d187548e28493e9b942e52a4a045d",
+        "crc32": "2ca68463"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 32309424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29e7a1acc93b1200aa899da0f97a6cc0",
+        "sha1": "fce72a039eb2e2f9b6d80e75a49703adec0257f8",
+        "crc32": "9eaca62b"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 40804848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90575b5b601ae472eef7172fdcdb0572",
+        "sha1": "2b658a4c9561e43168bc4b65f083a937290a7952",
+        "crc32": "af5b0012"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 23835168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0f6146d51c4721dba0b97ab88889d02",
+        "sha1": "c211d32bee6d804b83c26396f1e05e11b502dccb",
+        "crc32": "283206e9"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 28033488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cb39f4b6db99c4dfffb66892216a44f",
+        "sha1": "1704ec8a119b6ab8ac9d446544e19780e2583207",
+        "crc32": "a2e5807a"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 6).bin",
+      "filesize": 16068864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5948201b855dd0dc7304363ca35ef5ad",
+        "sha1": "f8e773ff03e2f98d11a30585a3965af8ab80c833",
+        "crc32": "098c666a"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 7).bin",
+      "filesize": 12637296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79b700d0b3162a1a53653d120735f090",
+        "sha1": "46c53de7e3cffff16f05e53661be4e098cb25618",
+        "crc32": "93455d61"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 8).bin",
+      "filesize": 18340896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebbaf2bc44e363d2fb72bd6b52fc835d",
+        "sha1": "e084bb564c39cf34e167c7855c6441acfd5533b5",
+        "crc32": "a6a66b0a"
+      }
+    },
+    {
+      "filename": "Robocod - James Pond II (Europe) (En,Fr,De,Es,It) (Track 9).bin",
+      "filesize": 40804848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90575b5b601ae472eef7172fdcdb0572",
+        "sha1": "2b658a4c9561e43168bc4b65f083a937290a7952",
+        "crc32": "af5b0012"
+      }
+    }
+  ]
+}

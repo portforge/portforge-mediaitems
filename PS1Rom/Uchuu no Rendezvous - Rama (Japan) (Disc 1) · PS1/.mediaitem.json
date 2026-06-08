@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Uchuu no Rendezvous - Rama (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Uchuu no Rendezvous - Rama (Japan) (Disc 1).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95d5f999c0beb5ccc5ee3c659e99eb2d",
+        "sha1": "41cc19c01c921f16db8149d0fa87c5b50c64a026",
+        "crc32": "395e3623"
+      }
+    },
+    {
+      "filename": "Uchuu no Rendezvous - Rama (Japan) (Disc 1).bin",
+      "filesize": 697111632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6aaf729b087cd647401d62c52099109",
+        "sha1": "d9e5aed4036d30df020fcde848d46ee575910b46",
+        "crc32": "645321c4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pet in TV (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pet in TV (Germany).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0b1a6cc627cdccb104c7cdf009a26a8",
+        "sha1": "22b4b34375ae39a3516611a3c5063e71c5b96a3f",
+        "crc32": "c1efa50c"
+      }
+    },
+    {
+      "filename": "Pet in TV (Germany).bin",
+      "filesize": 151301808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86bddd447214ca0cfd89dda660676721",
+        "sha1": "6f746f7e67a839193dd7d60337970d7cacd2c64d",
+        "crc32": "b43e7a6e"
+      }
+    }
+  ]
+}

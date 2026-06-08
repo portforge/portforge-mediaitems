@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jet Copter X (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jet Copter X (Japan).cue",
+      "filesize": 1132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74a82df047176e9a276aebd1fc334149",
+        "sha1": "c4bca742432a19ca73cb8506724c444d7b8b5d40",
+        "crc32": "4116e79e"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 01).bin",
+      "filesize": 3393936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8a6c51f0a38bb6c75bd38df8d29c5f1",
+        "sha1": "d088cafcd1d2840d97bca52f6d3062934a17315a",
+        "crc32": "83833785"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 02).bin",
+      "filesize": 16581600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bff4675783d2b3470fbadb4317411996",
+        "sha1": "92194c7e2c61207367dbd025fceb41b7b8b6cbec",
+        "crc32": "a63c7977"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 03).bin",
+      "filesize": 38102400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4c8fd6033ea99accc6c83d978101b89",
+        "sha1": "a614b859c3252df0282891fa637c761185141faf",
+        "crc32": "76545235"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 04).bin",
+      "filesize": 31046400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b3ad6ff51c46be49c3f571cd4c8856e",
+        "sha1": "fd9ad74b27555f68007b66438119bccf3b1ce9be",
+        "crc32": "fcef52b9"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 05).bin",
+      "filesize": 30517200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ef97b9b8cceb7221b5678d0d570eaea",
+        "sha1": "46f5bf5ecc56d8cb198b5a388662e325d3f4748b",
+        "crc32": "70c62b6f"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 06).bin",
+      "filesize": 31575600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c18e6540a1a29e87d321c71d58ad5eb",
+        "sha1": "6a77defd6ff3a61100e010ea6191c9979e730f4a",
+        "crc32": "dc0938c6"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 07).bin",
+      "filesize": 4586400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6319a9d1191bed76fe3e34e13b26d9b8",
+        "sha1": "d94c78bbe403e8ca1f7ac8b8b83163d67e037907",
+        "crc32": "458f2b67"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 08).bin",
+      "filesize": 4233600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "884e26e9612ecfa18fcd18845bbfb0f4",
+        "sha1": "074b8ce5ae2947bdac967d38676e618494f9f0cf",
+        "crc32": "dae3992b"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 09).bin",
+      "filesize": 38102400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b5feab51f7a9858663407f5def4c95",
+        "sha1": "990a64c1fab39c402da508111e20dad74bada94c",
+        "crc32": "55fcd79f"
+      }
+    },
+    {
+      "filename": "Jet Copter X (Japan) (Track 10).bin",
+      "filesize": 38102400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b5feab51f7a9858663407f5def4c95",
+        "sha1": "990a64c1fab39c402da508111e20dad74bada94c",
+        "crc32": "55fcd79f"
+      }
+    }
+  ]
+}

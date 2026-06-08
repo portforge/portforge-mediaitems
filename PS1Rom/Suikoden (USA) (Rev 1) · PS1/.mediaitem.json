@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suikoden (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suikoden (USA) (Rev 1).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f0e7107e8a956fdbd18f3f7432bb28cb",
+        "sha1": "7ec895dbc9d1f23aab3bde7ccd35e003ab2fb25d",
+        "crc32": "af0306a7"
+      }
+    },
+    {
+      "filename": "Suikoden (USA) (Rev 1).bin",
+      "filesize": 590119152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a5aaa5aaa7649b1cb48a900f1649c8c",
+        "sha1": "409453aaedfb6bb7d5bb8a228cce5f04b7c35ee0",
+        "crc32": "e0df06e0"
+      }
+    }
+  ]
+}

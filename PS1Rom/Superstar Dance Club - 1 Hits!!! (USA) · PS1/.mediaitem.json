@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Superstar Dance Club - 1 Hits!!! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Superstar Dance Club - 1 Hits!!! (USA).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9f19e9b9587c2972aaaf95848acb7ae",
+        "sha1": "7653b3471bde59e12b26ffe827e7d160a4acf89a",
+        "crc32": "82bd069c"
+      }
+    },
+    {
+      "filename": "Superstar Dance Club - 1 Hits!!! (USA).bin",
+      "filesize": 125260464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33ff7721410a87d9e5ff962a7c1af28e",
+        "sha1": "4cd6c1a1a3b856b36358d6f690fbace619428cc8",
+        "crc32": "87345da3"
+      }
+    }
+  ]
+}

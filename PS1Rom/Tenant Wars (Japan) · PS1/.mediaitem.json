@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenant Wars (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenant Wars (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2cc61b5e17c4fef18fe05b36bcd8fca4",
+        "sha1": "1bac1dd3f3918003c9cc7951f98e533959c773d4",
+        "crc32": "9889d0da"
+      }
+    },
+    {
+      "filename": "Tenant Wars (Japan).bin",
+      "filesize": 87896592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "444ffe92ee3af2f17669a1daf158e803",
+        "sha1": "3127c550ed6dafee889f719f43d8cd5dd904af47",
+        "crc32": "e1ad0b46"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Minakata Hakudou Toujou (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Minakata Hakudou Toujou (Japan) (Disc 1).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1334a1e9a53558ba2382f2521443b9c2",
+        "sha1": "12df5ed455abedffa639b5ebdada4dbee539d5e1",
+        "crc32": "54c92cab"
+      }
+    },
+    {
+      "filename": "Minakata Hakudou Toujou (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 598031280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77758d4f2f25e6b32ee00dc00a064b1e",
+        "sha1": "ad00d06a225f87dd3b3d4c0ec876a4c97297965c",
+        "crc32": "a41821f6"
+      }
+    },
+    {
+      "filename": "Minakata Hakudou Toujou (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 27403152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "856053df5d2b93b569ce8213c840eca7",
+        "sha1": "0c8f4c0b3a90b5e727468fb820ded62e9474814e",
+        "crc32": "54d30cfa"
+      }
+    }
+  ]
+}

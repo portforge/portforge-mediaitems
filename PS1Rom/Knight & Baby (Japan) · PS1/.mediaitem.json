@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Knight & Baby (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Knight & Baby (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd9d8bd3b47d3ca9e62c013b943c9c90",
+        "sha1": "ffdffc36adce2cc7ff0138f7dd3d2f90c2fcdee5",
+        "crc32": "e8035cde"
+      }
+    },
+    {
+      "filename": "Knight & Baby (Japan).bin",
+      "filesize": 405000288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0909019559b00fc5fd138894cc194e37",
+        "sha1": "df3864b5a4a2a608b218aebfe72cc449a0f9c8a9",
+        "crc32": "de78f968"
+      }
+    }
+  ]
+}

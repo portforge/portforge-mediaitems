@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Alerte Rouge - Mission Tesla (France) (Disc 1) (Allies)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Alerte Rouge - Mission Tesla (France) (Disc 1) (Allies).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9977bc53d7b4fe5d1b14155d538bd3c2",
+        "sha1": "966f0e47ea03d83ff7f91daff1a3a053455871dc",
+        "crc32": "bb5ac5eb"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Alerte Rouge - Mission Tesla (France) (Disc 1) (Allies).bin",
+      "filesize": 619998960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50679f6e0dcd2a9574c868c74b16c74f",
+        "sha1": "4330b54be0c293332aac100487790709bc6f36e6",
+        "crc32": "09a328d2"
+      }
+    }
+  ]
+}

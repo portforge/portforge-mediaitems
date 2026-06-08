@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police (France) (Disc 1).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "af5573f91981783282f5b654becb582c",
+        "sha1": "37342c547723cd5a39f023dbb67c0d69cfa56307",
+        "crc32": "97aa1f87"
+      }
+    },
+    {
+      "filename": "G-Police (France) (Disc 1).bin",
+      "filesize": 739285344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8bfc4e05d047af0cd8340d0396a1cbf",
+        "sha1": "44a4620a561dd64c4ba4849b00067bfa44e84609",
+        "crc32": "e0c96223"
+      }
+    }
+  ]
+}

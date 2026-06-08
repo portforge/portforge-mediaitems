@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thoroughbred Breeder II Plus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thoroughbred Breeder II Plus (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c465a3d70509139bbde470bd46693d6",
+        "sha1": "0f151ef82f7c759ef39c0067306b80d9967497fa",
+        "crc32": "630d7a3a"
+      }
+    },
+    {
+      "filename": "Thoroughbred Breeder II Plus (Japan).bin",
+      "filesize": 211287216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "921e85350bbd70694897bcf06ee54f9c",
+        "sha1": "3c36cd0ff6703524a4d8d4a865de363b1bed1629",
+        "crc32": "fe3d65fd"
+      }
+    }
+  ]
+}

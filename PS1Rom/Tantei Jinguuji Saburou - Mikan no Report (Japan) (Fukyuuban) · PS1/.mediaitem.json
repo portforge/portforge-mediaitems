@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tantei Jinguuji Saburou - Mikan no Report (Japan) (Fukyuuban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tantei Jinguuji Saburou - Mikan no Report (Japan) (Fukyuuban).cue",
+      "filesize": 292,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fedd9524b9f5105ee70d6dc55026cd31",
+        "sha1": "531ae23522656b15869d08b55505d6046ea48000",
+        "crc32": "3002cf4a"
+      }
+    },
+    {
+      "filename": "Tantei Jinguuji Saburou - Mikan no Report (Japan) (Fukyuuban) (Track 1).bin",
+      "filesize": 420848064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8e64430cc528b3027d0b22223e27e5e",
+        "sha1": "d53d166287639b6100f2a350d36fb5c7fe2ce650",
+        "crc32": "a4354cdc"
+      }
+    },
+    {
+      "filename": "Tantei Jinguuji Saburou - Mikan no Report (Japan) (Fukyuuban) (Track 2).bin",
+      "filesize": 47138784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8213c41403ca66727fd4bc9506cea7d",
+        "sha1": "71f3b3ed922f9cb33bbc188c31684032a878fc57",
+        "crc32": "12190a8a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 3 - Sentencia Final (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 3 - Sentencia Final (Spain).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2496164318caec4ee0962a0e2a6a854f",
+        "sha1": "b9b1fda53ff0ced1bf9ec5a6ee67e1731cffa1ca",
+        "crc32": "baced243"
+      }
+    },
+    {
+      "filename": "Syphon Filter 3 - Sentencia Final (Spain).bin",
+      "filesize": 703285632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "078ec125c4b80af4756020509883c0b1",
+        "sha1": "32decfd0c011bdcde1e7f88e98be8ab8d71e911d",
+        "crc32": "14ecdee5"
+      }
+    }
+  ]
+}

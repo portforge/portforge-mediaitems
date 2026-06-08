@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Manager de Liga 2001 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Manager de Liga 2001 (Spain).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1421f3f2be26ae24319cda8a1dd8d99",
+        "sha1": "d0c88a42e47309222e7c1f1cb6840e76224df14a",
+        "crc32": "e423eeaf"
+      }
+    },
+    {
+      "filename": "Manager de Liga 2001 (Spain).bin",
+      "filesize": 598852128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68e7ea12326eb05a3686fd25dce62cb9",
+        "sha1": "e41bcd9dcb1fc79f7c6cfa71283cfb6aa0e429d5",
+        "crc32": "c0f9ff85"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Panzer General (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Panzer General (Japan).cue",
+      "filesize": 794,
+      "ext": "cue",
+      "checksums": {
+        "md5": "851bedef902f7fb3b1a9d542a5cfe5dd",
+        "sha1": "fc356db341335060554372acbc4f636cc51c5537",
+        "crc32": "034be641"
+      }
+    },
+    {
+      "filename": "Panzer General (Japan) (Track 1).bin",
+      "filesize": 281866032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42bcfe76f16a494b99244cccd0f46478",
+        "sha1": "a9c7d99e6ed36bad124808264dc8b137cdd713c3",
+        "crc32": "a0eac761"
+      }
+    },
+    {
+      "filename": "Panzer General (Japan) (Track 2).bin",
+      "filesize": 17839920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "026c0df4c23d7cf25bbb639b903be734",
+        "sha1": "f69828e424a0891042e7bd3f9cef66f162e65366",
+        "crc32": "95a42f73"
+      }
+    },
+    {
+      "filename": "Panzer General (Japan) (Track 3).bin",
+      "filesize": 9751392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af2fa64b67114aca3ca9c2e9d5c2b5c7",
+        "sha1": "194ad130ef7ae479a9110e5bbb585c53bc08825e",
+        "crc32": "c397f406"
+      }
+    },
+    {
+      "filename": "Panzer General (Japan) (Track 4).bin",
+      "filesize": 9810192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e2c5a03bbc5bb9a792bc7b336935e2f",
+        "sha1": "7a6fb845e855107e98e6a97d1642920ac0a39656",
+        "crc32": "d6b8eb2c"
+      }
+    },
+    {
+      "filename": "Panzer General (Japan) (Track 5).bin",
+      "filesize": 19570992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f23ce07b4d642abc70b67a9d838592bb",
+        "sha1": "9e0612fca532b06df53842340f678f43b59fafed",
+        "crc32": "4fa28daf"
+      }
+    },
+    {
+      "filename": "Panzer General (Japan) (Track 6).bin",
+      "filesize": 11807040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cca55e69e4e771293cecdaa3748d7e5c",
+        "sha1": "cc23dbae288e1463ea08b1c9fb6a5fa1e0713d67",
+        "crc32": "565520b7"
+      }
+    },
+    {
+      "filename": "Panzer General (Japan) (Track 7).bin",
+      "filesize": 34275696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61c14035470d5b39d05127ce727e8c43",
+        "sha1": "9046a2a205245ddfb0bf168f862837302af02dfe",
+        "crc32": "79f2af4e"
+      }
+    }
+  ]
+}

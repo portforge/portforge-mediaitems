@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite Gold Series - Minna no Shougi - Shokyuu-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite Gold Series - Minna no Shougi - Shokyuu-hen (Japan).cue",
+      "filesize": 292,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e4bcafd2904b6397a125aaf95de0b7a",
+        "sha1": "31e105fa0b61bfd043c6c8ae24d617704c3f2a3f",
+        "crc32": "106e7be1"
+      }
+    },
+    {
+      "filename": "SuperLite Gold Series - Minna no Shougi - Shokyuu-hen (Japan) (Track 1).bin",
+      "filesize": 63948528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d6b586db572cb64836d7a034dbf499a",
+        "sha1": "08d3a06a88f6007733af858be46a47b39665d28a",
+        "crc32": "22b9b2db"
+      }
+    },
+    {
+      "filename": "SuperLite Gold Series - Minna no Shougi - Shokyuu-hen (Japan) (Track 2).bin",
+      "filesize": 50690304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f70b9168fbc35c5e6c41c87dc4b6c7a",
+        "sha1": "00f062e56f7d745ccdb885010ea8b568777b1b2f",
+        "crc32": "4db4c18e"
+      }
+    }
+  ]
+}

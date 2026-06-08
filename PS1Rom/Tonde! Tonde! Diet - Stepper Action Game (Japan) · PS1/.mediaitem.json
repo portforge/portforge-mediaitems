@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tonde! Tonde! Diet - Stepper Action Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tonde! Tonde! Diet - Stepper Action Game (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f2ef917922e357d165b3c467af88f72",
+        "sha1": "5e78a135a8150407136fd595834b102b8838bf95",
+        "crc32": "73c105f2"
+      }
+    },
+    {
+      "filename": "Tonde! Tonde! Diet - Stepper Action Game (Japan).bin",
+      "filesize": 73723440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08031d3b308e7551dca872aa5ed60933",
+        "sha1": "887bd878a5e7d0be6641ff521804197671c1b7a8",
+        "crc32": "ac728c56"
+      }
+    }
+  ]
+}

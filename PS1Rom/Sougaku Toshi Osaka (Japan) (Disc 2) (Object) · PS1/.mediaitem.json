@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sougaku Toshi Osaka (Japan) (Disc 2) (Object)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sougaku Toshi Osaka (Japan) (Disc 2) (Object).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c003c3669f7aaf2bade75d552ea87cb7",
+        "sha1": "80e703c91db93d006198944f47363be982bf9f23",
+        "crc32": "e70c8afc"
+      }
+    },
+    {
+      "filename": "Sougaku Toshi Osaka (Japan) (Disc 2) (Object) (Track 1).bin",
+      "filesize": 621555984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "234dcbb3f6208dbb73fcb01cce736243",
+        "sha1": "35949636306b8c50bdc6a92f2cb725e28bff8059",
+        "crc32": "5f3b6fa6"
+      }
+    },
+    {
+      "filename": "Sougaku Toshi Osaka (Japan) (Disc 2) (Object) (Track 2).bin",
+      "filesize": 33000912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb7f48d8b38fd525347de60d12517d82",
+        "sha1": "9df21a761a05350dc3030969234e04f005c7ae7d",
+        "crc32": "59470e92"
+      }
+    }
+  ]
+}

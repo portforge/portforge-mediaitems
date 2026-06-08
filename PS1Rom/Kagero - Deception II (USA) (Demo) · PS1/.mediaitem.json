@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kagero - Deception II (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kagero - Deception II (USA) (Demo).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74b3f08829c4170be5e40c2076caed74",
+        "sha1": "61f25c6db854e8603ca9f7066eaf2c32aa78f622",
+        "crc32": "d6f5bba5"
+      }
+    },
+    {
+      "filename": "Kagero - Deception II (USA) (Demo) (Track 1).bin",
+      "filesize": 354319392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3eb7cd7d761edf3321692dde00dd348",
+        "sha1": "0388e208eba8a42a8c7ec75a6b16d002f9916d63",
+        "crc32": "bb8cef52"
+      }
+    },
+    {
+      "filename": "Kagero - Deception II (USA) (Demo) (Track 2).bin",
+      "filesize": 34868400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "061d2654b5da61c70aea2ee5739515ad",
+        "sha1": "48408f40661816d60d4d490ece0b449b3ee3b4a2",
+        "crc32": "6ffc200e"
+      }
+    }
+  ]
+}

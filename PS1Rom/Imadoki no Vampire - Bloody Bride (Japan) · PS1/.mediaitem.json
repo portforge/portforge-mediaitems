@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Imadoki no Vampire - Bloody Bride (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Imadoki no Vampire - Bloody Bride (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d53a9a73c4adc01fd6a5eb78a4d9a7c",
+        "sha1": "9cf62e7091e9b069bdb017a99902dc109aecc25f",
+        "crc32": "b216f800"
+      }
+    },
+    {
+      "filename": "Imadoki no Vampire - Bloody Bride (Japan).bin",
+      "filesize": 748754496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fd34371d6f9703ad89cf1d8a7c34ae1",
+        "sha1": "116329ac99bb1bee4f28fca9e4cc3156a5b744a4",
+        "crc32": "e948498d"
+      }
+    }
+  ]
+}

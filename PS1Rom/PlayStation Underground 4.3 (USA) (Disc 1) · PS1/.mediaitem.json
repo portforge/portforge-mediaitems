@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground 4.3 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground 4.3 (USA) (Disc 1).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0aee9924403e3351feb7bbe32c48067f",
+        "sha1": "4e55601dd61eb5a9280c45518388fee28fd774dc",
+        "crc32": "a0965954"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 4.3 (USA) (Disc 1).bin",
+      "filesize": 506500848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6cca47437e28875cb2f6cde144d6059",
+        "sha1": "8a00b811a5a044062266ffd7a06201735e785d7e",
+        "crc32": "718ad46d"
+      }
+    }
+  ]
+}

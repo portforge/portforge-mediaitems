@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 81 - The Ren'ai Adventure - Okaeri! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 81 - The Ren'ai Adventure - Okaeri! (Japan).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fbfb85cf2623ab00e7c8e6403c8aa86d",
+        "sha1": "255bb14906f4f428b7371ca1087c85bb6ae16c06",
+        "crc32": "3c3c75ca"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 81 - The Ren'ai Adventure - Okaeri! (Japan).bin",
+      "filesize": 628901280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a579229d74cd3597cf4959a5d2b4489e",
+        "sha1": "7e9fe9eed865bbdf4baec5abd4bd1c182988e20d",
+        "crc32": "2fd99a2a"
+      }
+    }
+  ]
+}

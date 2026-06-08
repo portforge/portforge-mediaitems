@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Off-World Interceptor Extreme (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Off-World Interceptor Extreme (USA).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b2fafe78a185b836651d8abdba5d763",
+        "sha1": "94e37f042e2cb476d85a850e96b198e06ecf1dd9",
+        "crc32": "697f6e6a"
+      }
+    },
+    {
+      "filename": "Off-World Interceptor Extreme (USA).bin",
+      "filesize": 607237008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "660d385893095641d8cda21263a275fb",
+        "sha1": "db1f54c29d3fffa256876e7c005539ee91880cdf",
+        "crc32": "980981a1"
+      }
+    }
+  ]
+}

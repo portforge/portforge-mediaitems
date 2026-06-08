@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colin McRae Rally 2.0 (USA) (En,Fr,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colin McRae Rally 2.0 (USA) (En,Fr,Es).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "901800015c2cc657a0e30d48798f3401",
+        "sha1": "96b67283531c04f23bc33b2b7f146ec6c668e9a9",
+        "crc32": "b429cb08"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally 2.0 (USA) (En,Fr,Es) (Track 1).bin",
+      "filesize": 454448736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fd9c72a3d4bafef12e78bf4bd61b5d1",
+        "sha1": "4d595880ebb6c6f7a2b63d9503b733f44b1ef230",
+        "crc32": "6dac1904"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally 2.0 (USA) (En,Fr,Es) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

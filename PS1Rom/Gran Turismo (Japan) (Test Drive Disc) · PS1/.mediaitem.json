@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo (Japan) (Test Drive Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo (Japan) (Test Drive Disc).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1762f4d1c697acc4e2d27bef02574378",
+        "sha1": "2cac3b0c22c8ddc626a9780fe362a6fb8eab68df",
+        "crc32": "2e063323"
+      }
+    },
+    {
+      "filename": "Gran Turismo (Japan) (Test Drive Disc).bin",
+      "filesize": 194498640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e4d33e3b08f8b6029b0ce5e57c0ac13",
+        "sha1": "86cbe9ca1e3becd1e0a04e7606b725e23f55ac6e",
+        "crc32": "de41dc06"
+      }
+    }
+  ]
+}

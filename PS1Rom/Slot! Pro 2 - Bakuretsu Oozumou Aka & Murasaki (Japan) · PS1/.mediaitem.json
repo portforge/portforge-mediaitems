@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slot! Pro 2 - Bakuretsu Oozumou Aka & Murasaki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slot! Pro 2 - Bakuretsu Oozumou Aka & Murasaki (Japan).cue",
+      "filesize": 278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4cd72708f7edccc98158b8c575f40648",
+        "sha1": "5e5df910a99200864a4ae0f03ccec1a8fc62ef4e",
+        "crc32": "4e233b86"
+      }
+    },
+    {
+      "filename": "Slot! Pro 2 - Bakuretsu Oozumou Aka & Murasaki (Japan) (Track 1).bin",
+      "filesize": 14227248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65bda8b484df58fd01c5be511c083c15",
+        "sha1": "eaba0b73d6f78d0532d52643ac4584a185af2d95",
+        "crc32": "67f81f6f"
+      }
+    },
+    {
+      "filename": "Slot! Pro 2 - Bakuretsu Oozumou Aka & Murasaki (Japan) (Track 2).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

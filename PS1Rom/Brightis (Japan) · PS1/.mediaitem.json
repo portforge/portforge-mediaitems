@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Brightis (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Brightis (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "319ac724f3ba0d71cbb240fb127de6c3",
+        "sha1": "3636ce4eb892629ca954c668705a8d2a81978df9",
+        "crc32": "c1940f94"
+      }
+    },
+    {
+      "filename": "Brightis (Japan).bin",
+      "filesize": 102319056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e69e9013df15e4b9625dfca32af2c070",
+        "sha1": "94dbbff6ba125b4c155084686e41e1650f6eab41",
+        "crc32": "7fdab825"
+      }
+    }
+  ]
+}

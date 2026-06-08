@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cindy's Fashion World (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cindy's Fashion World (Europe).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6293e28333409751f90f95bedef9d93e",
+        "sha1": "cc95b9ec4406e961ef6fc7c74c74c53c4243ff4e",
+        "crc32": "5e9b66ea"
+      }
+    },
+    {
+      "filename": "Cindy's Fashion World (Europe).bin",
+      "filesize": 65129232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc83742079e8144894279f164e51b172",
+        "sha1": "d440de6b4b237a54540c2b9103196605cbc993c0",
+        "crc32": "1a097e9f"
+      }
+    }
+  ]
+}

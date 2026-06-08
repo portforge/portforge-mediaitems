@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid - VR Missions (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid - VR Missions (USA) (Demo).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00795e4ea68fe94ae00dd9a4413d2207",
+        "sha1": "7df494e9e1576a312f3152710473b115d2a90cc7",
+        "crc32": "5d4f18d6"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid - VR Missions (USA) (Demo).bin",
+      "filesize": 123924528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "794c18d04a31d1e7c5b39bbe4d088afa",
+        "sha1": "fffe5ba2f6183f295822f18b578b5d68b5103bf7",
+        "crc32": "74160611"
+      }
+    }
+  ]
+}

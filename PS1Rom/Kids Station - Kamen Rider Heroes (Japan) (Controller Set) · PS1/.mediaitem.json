@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Kamen Rider Heroes (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Kamen Rider Heroes (Japan) (Controller Set).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad8473a1fe0e18f473095657f5cd5271",
+        "sha1": "736f413414fd8e9c327386aef7efd09f292d60a3",
+        "crc32": "135e1039"
+      }
+    },
+    {
+      "filename": "Kids Station - Kamen Rider Heroes (Japan) (Controller Set).bin",
+      "filesize": 289902816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9791ba697afa6b8241828b171bd88da",
+        "sha1": "ca5f04926315b50f3c0946b3df7d4f25ec183df5",
+        "crc32": "36ace2d0"
+      }
+    }
+  ]
+}

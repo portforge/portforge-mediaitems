@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spectral Force (Japan) (Shokai Gentei Box)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spectral Force (Japan) (Shokai Gentei Box).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8734d593132d6e2d652e680dfe5b528",
+        "sha1": "447bd4c23dbf746f4a107ed3852146738dc285bc",
+        "crc32": "2bfc1984"
+      }
+    },
+    {
+      "filename": "Spectral Force (Japan) (Shokai Gentei Box).bin",
+      "filesize": 709038624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29a659cec825d8e456d3994baa2f5429",
+        "sha1": "b50f46e1effc833d57c0dbf393008ddd446f5faf",
+        "crc32": "06e54d33"
+      }
+    }
+  ]
+}

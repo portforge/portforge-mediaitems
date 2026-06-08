@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Football Champ (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Football Champ (Europe).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c34d37a02fcede3cb82c468c7e7aba57",
+        "sha1": "3db081b3f633e037a385ddc4e485d830ca2be5ec",
+        "crc32": "17eae8dd"
+      }
+    },
+    {
+      "filename": "Super Football Champ (Europe).bin",
+      "filesize": 274445472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88290bc37f580c8fcf978b57ebeb2a72",
+        "sha1": "18d66598fd73c46c1dd79bce6a8b0c5c0cb8f8ca",
+        "crc32": "739b77bd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Monsterit Oy - Saeikkysaari (Finland)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Monsterit Oy - Saeikkysaari (Finland).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "220c1d056e7413a9f05690df85ddb3d8",
+        "sha1": "d0da70fc13ba7c0856a4b738a541a1352bb3de79",
+        "crc32": "e7b102ee"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Monsterit Oy - Saeikkysaari (Finland).bin",
+      "filesize": 735804384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71843fa333e2b888d3f9bda4fcff4329",
+        "sha1": "2884b561d1169c422f7a42b44f6587a9924ea714",
+        "crc32": "da2648a0"
+      }
+    }
+  ]
+}

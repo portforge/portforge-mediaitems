@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider-Man 2 - Enter - Electro (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider-Man 2 - Enter - Electro (Europe).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44912eff16bf6ff44aef2201e0952137",
+        "sha1": "f90d4c82cd718d82a212af5c66d6a9c4adc9d575",
+        "crc32": "f972cf11"
+      }
+    },
+    {
+      "filename": "Spider-Man 2 - Enter - Electro (Europe).bin",
+      "filesize": 721558320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcdbd73b49f7ec47824d8a16738a3233",
+        "sha1": "26423253d82f75a7a460e3f2570cbe527e041737",
+        "crc32": "a7342875"
+      }
+    }
+  ]
+}

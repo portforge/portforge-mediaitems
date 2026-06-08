@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mystic Mind - Yureru Omoi (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mystic Mind - Yureru Omoi (Japan) (Disc 2).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7cd4bdd14e87f6b67d8464af88e56f43",
+        "sha1": "4dc9e5c7a7de54d954956f2863b734a44e503f2b",
+        "crc32": "dc9f5908"
+      }
+    },
+    {
+      "filename": "Mystic Mind - Yureru Omoi (Japan) (Disc 2).bin",
+      "filesize": 685941984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc60817dabfc5791256d9c46132293f7",
+        "sha1": "8a11634d5d7102dc59c513d0b56ef9e9fbdd8d93",
+        "crc32": "2da5c020"
+      }
+    }
+  ]
+}

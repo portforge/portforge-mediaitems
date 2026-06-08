@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Treasure Planet (Europe) (Beta) (2002-08-01)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Treasure Planet (Europe) (Beta) (2002-08-01).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a792eac8a9d56bcc6be5dbd92acfea89",
+        "sha1": "3560a3d4e5818f8ed15bacda2a66e71f4a69eeae",
+        "crc32": "012904ea"
+      }
+    },
+    {
+      "filename": "Disney's Treasure Planet (Europe) (Beta) (2002-08-01).bin",
+      "filesize": 474791184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb35537881c6a4cd12b1acef3757f8fb",
+        "sha1": "bf6ba786987a178aaa1626d75e66d7c70791452f",
+        "crc32": "0631664c"
+      }
+    }
+  ]
+}

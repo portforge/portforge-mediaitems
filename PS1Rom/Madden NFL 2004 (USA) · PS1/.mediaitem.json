@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Madden NFL 2004 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Madden NFL 2004 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2549d53c2837c09f948ff6188bd6add",
+        "sha1": "afaedd185ab2ef281b9d52d7f64d20032860d37e",
+        "crc32": "945f2b06"
+      }
+    },
+    {
+      "filename": "Madden NFL 2004 (USA).bin",
+      "filesize": 471451344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c782e5d0eb69b98f7de3ac810c407a70",
+        "sha1": "dcc708c47cf07ef1f83601b2d85e73973f19aa64",
+        "crc32": "d646e91d"
+      }
+    }
+  ]
+}

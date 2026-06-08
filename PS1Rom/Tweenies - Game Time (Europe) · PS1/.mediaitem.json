@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tweenies - Game Time (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tweenies - Game Time (Europe).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4238a7c85a2f342ce2942d736301dc3",
+        "sha1": "cee16b07e9394f1611a6e84e58fc9f4e21ea7403",
+        "crc32": "52a1f458"
+      }
+    },
+    {
+      "filename": "Tweenies - Game Time (Europe) (Track 1).bin",
+      "filesize": 544532688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72f03ab3578014db11bcb201100522f6",
+        "sha1": "6d5b090d1134dce64d2a399b474245a68ac281e2",
+        "crc32": "bc7902d2"
+      }
+    },
+    {
+      "filename": "Tweenies - Game Time (Europe) (Track 2).bin",
+      "filesize": 64211952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46d0bd9dac70ea6849f27c5feace0989",
+        "sha1": "d86b13118308cc0e5d582bb8432136255a0a61e1",
+        "crc32": "8a860144"
+      }
+    }
+  ]
+}

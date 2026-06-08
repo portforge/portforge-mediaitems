@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 92 - The Tozan RPG - Ginrei no Hasha (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 92 - The Tozan RPG - Ginrei no Hasha (Japan).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85e51a6a2df21146e7c8cc7fbc629688",
+        "sha1": "82e749a6fa3baba6473e0c237fa8ce58beaa6a7d",
+        "crc32": "2844c11a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 92 - The Tozan RPG - Ginrei no Hasha (Japan).bin",
+      "filesize": 129011904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b1f7470e149e7b6fd8e1ee636808609",
+        "sha1": "d1c792d1bb9b41e5a329d8ea5b7c1464600fffa9",
+        "crc32": "1639d5b9"
+      }
+    }
+  ]
+}

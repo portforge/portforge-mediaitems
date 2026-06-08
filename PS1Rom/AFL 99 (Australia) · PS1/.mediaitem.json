@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "AFL 99 (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "AFL 99 (Australia).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9cee25307cacf68d69f56bc61d1b325",
+        "sha1": "05b938e10dac51deaecc6d28099d99b3d8c8e3b9",
+        "crc32": "f4d35903"
+      }
+    },
+    {
+      "filename": "AFL 99 (Australia) (Track 1).bin",
+      "filesize": 338015328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d9d81e715245776fbae281cb6dcf33f",
+        "sha1": "12aa2564f32874b3054b67b7fb62999794875b64",
+        "crc32": "fc2a5352"
+      }
+    },
+    {
+      "filename": "AFL 99 (Australia) (Track 2).bin",
+      "filesize": 33508944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "308db86e70bdb4192f6c3603a9451a45",
+        "sha1": "26cd8247c03111249119495f64923196f85bc74e",
+        "crc32": "82ccd767"
+      }
+    }
+  ]
+}

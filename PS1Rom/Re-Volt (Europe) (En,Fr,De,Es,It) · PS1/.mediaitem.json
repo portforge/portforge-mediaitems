@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Re-Volt (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Re-Volt (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d26ecac9494f1a2026c0e5b541563ec",
+        "sha1": "84107988579e6929d50657fc87759beb15a9e74c",
+        "crc32": "b6748746"
+      }
+    },
+    {
+      "filename": "Re-Volt (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 49048608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75e292f0c9d814415a8c87758df662fa",
+        "sha1": "db087cca280830e1dea30ad705a274da8811e418",
+        "crc32": "42bd7f26"
+      }
+    },
+    {
+      "filename": "Re-Volt (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 512449056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bbda05872a71d04cb17eab9aaf380d2",
+        "sha1": "79d591c3d57115f8aa27fb311a943bfcc1232f2e",
+        "crc32": "66a2d30e"
+      }
+    },
+    {
+      "filename": "Re-Volt (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

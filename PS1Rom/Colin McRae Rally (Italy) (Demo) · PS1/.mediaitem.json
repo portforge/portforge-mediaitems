@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colin McRae Rally (Italy) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colin McRae Rally (Italy) (Demo).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "720cba281bb9bc6e222e51f62d092a7e",
+        "sha1": "db7e746c95884f685d33d99cd8aaa238330dc1bb",
+        "crc32": "c1fdb836"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Italy) (Demo) (Track 1).bin",
+      "filesize": 70574112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6c39b392a10609b57f0cf7add8e3f87",
+        "sha1": "e31a6660016b64b5ee71785976ac345f0caa61b1",
+        "crc32": "2bbd4de3"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Italy) (Demo) (Track 2).bin",
+      "filesize": 55737696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e071f2b27e5252daca1c37f5e0fd731a",
+        "sha1": "d6f4accecef43ecce058729e1b087c008d17dba6",
+        "crc32": "69d80026"
+      }
+    }
+  ]
+}

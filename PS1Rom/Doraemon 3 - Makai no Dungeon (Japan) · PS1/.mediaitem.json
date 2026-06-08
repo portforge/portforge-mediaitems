@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doraemon 3 - Makai no Dungeon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doraemon 3 - Makai no Dungeon (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4074e17ac6ad66af040ca938d14f9727",
+        "sha1": "be5a1053ea0c52b9aa1ada5f2b48630349be4c48",
+        "crc32": "dc12a3f8"
+      }
+    },
+    {
+      "filename": "Doraemon 3 - Makai no Dungeon (Japan).bin",
+      "filesize": 163398144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2f6c684a3ec7aa975ccfcc3aa2deb39",
+        "sha1": "f126781c47cbbe867d2e9ba1e7ecd08c1f0cfd7e",
+        "crc32": "f7bdc8ce"
+      }
+    }
+  ]
+}

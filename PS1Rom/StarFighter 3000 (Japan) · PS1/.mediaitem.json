@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "StarFighter 3000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "StarFighter 3000 (Japan).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f3bc5d55fc5c51bcee69fc0e407cf368",
+        "sha1": "ef149ce8d1a836e21e1897fd95bda10529151c91",
+        "crc32": "4b2e3c6b"
+      }
+    },
+    {
+      "filename": "StarFighter 3000 (Japan) (Track 1).bin",
+      "filesize": 477103200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e578f8ccf05e74021e60cfe3c0b7ad38",
+        "sha1": "28fb3614588e92d3dfc329ec99b93ac442bfdfca",
+        "crc32": "8104bc5a"
+      }
+    },
+    {
+      "filename": "StarFighter 3000 (Japan) (Track 2).bin",
+      "filesize": 32431728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d591fbce83153df65fa42b5f235b3dc",
+        "sha1": "3c7b3d86c631dd6eac6114592a1872998116b761",
+        "crc32": "8fdfa58d"
+      }
+    }
+  ]
+}

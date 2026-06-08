@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nissan Presents - Over Drivin' - Skyline Memorial (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nissan Presents - Over Drivin' - Skyline Memorial (Japan) (Demo).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c596da07fc922a42f4800d4182b52b41",
+        "sha1": "3cb2863cf7ccbed07b0c2ee2753e74d391e4a946",
+        "crc32": "2f7f99b1"
+      }
+    },
+    {
+      "filename": "Nissan Presents - Over Drivin' - Skyline Memorial (Japan) (Demo).bin",
+      "filesize": 353717280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a44d077195248c02b98a0b46612b35e6",
+        "sha1": "96421f73d2c3608ae8ca26c3528821374c60d98e",
+        "crc32": "4f171500"
+      }
+    }
+  ]
+}

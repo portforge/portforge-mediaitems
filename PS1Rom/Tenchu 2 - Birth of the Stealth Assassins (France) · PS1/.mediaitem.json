@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenchu 2 - Birth of the Stealth Assassins (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenchu 2 - Birth of the Stealth Assassins (France).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86b751473b47f9e73aa5fad14ca608ed",
+        "sha1": "31780e5d894893cf28010b84a3f9b167233919e5",
+        "crc32": "73f43aff"
+      }
+    },
+    {
+      "filename": "Tenchu 2 - Birth of the Stealth Assassins (France).bin",
+      "filesize": 741136368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aab5b29d43e5a6f00e205c24e228e6bf",
+        "sha1": "57f8228b037fa8d8af7816502123b919478e4b7d",
+        "crc32": "3cf5c9da"
+      }
+    }
+  ]
+}

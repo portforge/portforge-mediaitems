@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Goo! Goo! Soundy (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Goo! Goo! Soundy (Japan).cue",
+      "filesize": 926,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f281e61ef35bf77f7a44f1dff754f56",
+        "sha1": "7d0d4c0bba3ae6ca835c01e3b00db06dd92706e4",
+        "crc32": "9933db00"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 1).bin",
+      "filesize": 154324128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a45a4bc1a9c8db091383a7b464fc324a",
+        "sha1": "bd59f9fa347abfa4830cac270330a86bba7f0725",
+        "crc32": "ef10cb09"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 2).bin",
+      "filesize": 28459200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19fe96fc80ffcfa6a65935e90cdd4a55",
+        "sha1": "45527d606d412198d1e59839be54896c03168f4a",
+        "crc32": "df8f4822"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 3).bin",
+      "filesize": 35385840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36cb548d08f01d38b859be504d0aec34",
+        "sha1": "625559ec7563374a6498571ed40292c133595df6",
+        "crc32": "64535b8b"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 4).bin",
+      "filesize": 35131824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4cd09f61c310a78415794d791167044",
+        "sha1": "b55212888bdb272bff3c136425cb535864067ae0",
+        "crc32": "9994990a"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 5).bin",
+      "filesize": 43366176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6cc0dda5e53c26e18faf18fb12ccfed9",
+        "sha1": "21b454a784347d02874fa4c05c5f62b9fcb0d868",
+        "crc32": "9c5a2557"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 6).bin",
+      "filesize": 45699360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c13bf907d5708a76fed1889e7be2d842",
+        "sha1": "39be2678f7290a1a723d0c176f3a9b8c58fbad30",
+        "crc32": "ae079cc1"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 7).bin",
+      "filesize": 44064720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3316f3366ca1a7155fa70d6b0947bd0e",
+        "sha1": "9e5c8e05839a02efc943f8aeadaf9ac664eba988",
+        "crc32": "3665ce37"
+      }
+    },
+    {
+      "filename": "Goo! Goo! Soundy (Japan) (Track 8).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3acdf1a08d047c72e595351fc548900",
+        "sha1": "632cb32ce4c7edd6cd7e2aa88cd2b631f88d5b96",
+        "crc32": "8a322cf1"
+      }
+    }
+  ]
+}

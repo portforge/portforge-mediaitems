@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galaxy Fight - Universal Warriors (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galaxy Fight - Universal Warriors (Japan).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d4a977cfce8efaed231e809bf5e16f53",
+        "sha1": "7a93026b6cbd9058d5b11568b096200ce38a8302",
+        "crc32": "5c67f2a7"
+      }
+    },
+    {
+      "filename": "Galaxy Fight - Universal Warriors (Japan) (Track 1).bin",
+      "filesize": 438669168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4052efcc6672bf50e2d0956d50ad5b5",
+        "sha1": "4acfdfd27b902b994e54ef6283b8772ed682ab2f",
+        "crc32": "dde5692e"
+      }
+    },
+    {
+      "filename": "Galaxy Fight - Universal Warriors (Japan) (Track 2).bin",
+      "filesize": 32173008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da945e0f2cb5996fd14b7336b147c837",
+        "sha1": "bf54c2bc8c194316b2585a394100a2835d4ac876",
+        "crc32": "97dd8bbf"
+      }
+    }
+  ]
+}

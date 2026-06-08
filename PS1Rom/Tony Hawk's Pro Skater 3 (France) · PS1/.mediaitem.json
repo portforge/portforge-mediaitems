@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater 3 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (France).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99315a89270f71e100713b5073e4ff1b",
+        "sha1": "a380e2dc4734ad81a4e1a6cc7d71f3bde5463715",
+        "crc32": "37e6fdab"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (France).bin",
+      "filesize": 706042176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54b730748a95d22bdb753942b0d52105",
+        "sha1": "5d8d0395c43c44f4efee0eaee4d80a6ffb3b3320",
+        "crc32": "c349666d"
+      }
+    }
+  ]
+}

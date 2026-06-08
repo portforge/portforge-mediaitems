@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Adventures of Lara Croft (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Italy).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01231dc7c8efbb6fc54ee7ea7db76cdf",
+        "sha1": "12fb9b7d62f1d2d31fc7d6af09c8022dd471d750",
+        "crc32": "d464c11c"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Italy).bin",
+      "filesize": 698576928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92f92ee0b2f09a841a9b150ccce75c30",
+        "sha1": "eb57ab4f0ed4869a8bfac70ac7837f8bc14e3710",
+        "crc32": "e8b79f6e"
+      }
+    }
+  ]
+}

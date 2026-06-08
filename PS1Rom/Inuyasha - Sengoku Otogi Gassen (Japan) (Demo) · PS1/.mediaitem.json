@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Inuyasha - Sengoku Otogi Gassen (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Inuyasha - Sengoku Otogi Gassen (Japan) (Demo).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2370c65d65d482374855888a89a0886e",
+        "sha1": "540ae33375b26a1117db3eb688991f41c909783f",
+        "crc32": "010e345e"
+      }
+    },
+    {
+      "filename": "Inuyasha - Sengoku Otogi Gassen (Japan) (Demo).bin",
+      "filesize": 370983312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb274fa2a3c10cf40e3fa51a06d8ab34",
+        "sha1": "4cfe39c49925d4f108c5d09e76cfc6f1ccdb0dfe",
+        "crc32": "a0901e08"
+      }
+    }
+  ]
+}

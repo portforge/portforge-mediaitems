@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you).cue",
+      "filesize": 278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "577067e94afb28895f4b7d31a4412bb7",
+        "sha1": "84aa978d10be7cf83ec959f808c4a43e3c91ed70",
+        "crc32": "74125d96"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you) (Track 1).bin",
+      "filesize": 402605952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c80ac64e2e2e917c4c657e4b0cb99452",
+        "sha1": "097c67bc7492ea7ca6bbeaceb9a6d20f8da8c81d",
+        "crc32": "22d8caef"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 2) (Taisen Game Sen'you) (Track 2).bin",
+      "filesize": 42978096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12afa7cf4f33fd21d88b7c3bbfbcb8b8",
+        "sha1": "ed1839d0a92a6b723085511ff8379599e94579b6",
+        "crc32": "598f81ca"
+      }
+    }
+  ]
+}

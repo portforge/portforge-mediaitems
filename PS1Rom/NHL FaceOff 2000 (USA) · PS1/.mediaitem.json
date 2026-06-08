@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL FaceOff 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL FaceOff 2000 (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1e8219bf9cdce23c6228286078641f0b",
+        "sha1": "866aa3f04183fb919c10618bc8c364e585eedc01",
+        "crc32": "a5763cfa"
+      }
+    },
+    {
+      "filename": "NHL FaceOff 2000 (USA).bin",
+      "filesize": 505656480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4975329de80e189bdb1d59d940ed4fb0",
+        "sha1": "12a3191215b9c9b19d34f7f0f9cd32441060e47d",
+        "crc32": "c17d1347"
+      }
+    }
+  ]
+}

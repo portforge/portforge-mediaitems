@@ -1,0 +1,587 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raiders (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raiders (Japan).cue",
+      "filesize": 6537,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e13e6a8dde24d8a0ef6592a0e7edf210",
+        "sha1": "ccd1a120288378f0d862550da81a5d65cd683f12",
+        "crc32": "beefecf1"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 01).bin",
+      "filesize": 292511184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8fb29f1308c15ddfb3b88b248f08cd5",
+        "sha1": "51882e72b43bfb2984285ed2b52eeecded6dc926",
+        "crc32": "d1925678"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 02).bin",
+      "filesize": 34675536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d9b29532bf6f167fe02bece59baef3b",
+        "sha1": "e55d5a6cccd78b87d885c63ff736d300a881af8a",
+        "crc32": "3561d9d7"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 03).bin",
+      "filesize": 11284896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cc27c76f39505293a37a87001bc58b6",
+        "sha1": "9c267444a801277785c357cf1e2e49d6646e3530",
+        "crc32": "61bcb9fb"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 04).bin",
+      "filesize": 21788928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e644102f41d5f2ead93364f07abc6b2f",
+        "sha1": "7e094cf598d8e281f10b18353b1e0927571d157d",
+        "crc32": "7a211860"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 05).bin",
+      "filesize": 21193872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "063b43125684b0e627da92b2a7a76fad",
+        "sha1": "e37f8b87bb9f6bf5939975fe65a41ae350a92ebd",
+        "crc32": "28fd9c44"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 06).bin",
+      "filesize": 13580448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "146ff8cdefb24a804f83741ffec45b77",
+        "sha1": "e86955b321fedaa97d58a2eddbfa24f1f0015adc",
+        "crc32": "795deeaa"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 07).bin",
+      "filesize": 9857232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25af269a2197ebd83fcd3116748a6887",
+        "sha1": "d9a78b3a02aec82e701687301b897baebba82652",
+        "crc32": "fc7254df"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 08).bin",
+      "filesize": 12039888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fae5abbc74db3305d4c7d1ea1133477",
+        "sha1": "71e6c29446f05ccb21a130efa12aa6355f94757b",
+        "crc32": "a010b7dc"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 09).bin",
+      "filesize": 7070112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ec6982f2eb7eb9467753a2a0d1b7af9",
+        "sha1": "307d279ac8fe771076f0a53d5b1228a1d28ff08e",
+        "crc32": "b999e2df"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 10).bin",
+      "filesize": 13984992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aae11f816e57e1d96a203563ec5c1b8e",
+        "sha1": "81542d6601ab30cfd00bb9edcb0416d52bc30b3f",
+        "crc32": "bef5279d"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 11).bin",
+      "filesize": 1498224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba930a1669aae155bcf336c817927664",
+        "sha1": "b5112c95e8010b3a8ef4c4e957f52331a46a3fb7",
+        "crc32": "4f4b95b3"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 12).bin",
+      "filesize": 2643648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7f78db2d851b6937ce3734de21b346e",
+        "sha1": "d9c0e710b6d0595ac29bc59f24d3dbe13ffc554c",
+        "crc32": "67351b91"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 13).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e42975f44d0208aa54f5d688cd06dde5",
+        "sha1": "1ab17bbcb52ce47ab606bb70cda315bce34557b0",
+        "crc32": "61fdd093"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 14).bin",
+      "filesize": 2128560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff9e9f3cd6ae40752de1448d18ecd888",
+        "sha1": "b822e5f78f2cabdaf3284b8dc6ae54f98bd57f16",
+        "crc32": "a55a662b"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 15).bin",
+      "filesize": 1947456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59ad1c7ea31b41a48242ee86f8f67da7",
+        "sha1": "fd69f277f3d944726c9b3e9f9102936ac4107d4c",
+        "crc32": "8e9eacd2"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 16).bin",
+      "filesize": 6851376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2a432c1a687d27f2fa14ea72a613a70",
+        "sha1": "d702c417a938742cc41f5813a3daef9f44c20782",
+        "crc32": "7e8a6af6"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 17).bin",
+      "filesize": 7559328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce5e271c9df1f44970759b9bb0126b11",
+        "sha1": "21bf84308f8944d15202d7499fb3589ea27e0075",
+        "crc32": "0737e16f"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 18).bin",
+      "filesize": 4466448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca33ab9a1ae78a5a28f909978a96e595",
+        "sha1": "72a718d52ca7345a31ab986c57f8944893530565",
+        "crc32": "9fd3412d"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 19).bin",
+      "filesize": 15629040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9efaebbef4c39267fa6b23d08690c0f3",
+        "sha1": "69e73640f92bba3698bab25bc8d494ddaae0f2cc",
+        "crc32": "d8d8aaa8"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 20).bin",
+      "filesize": 9565584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68c60a726d0411f8eeb0457b8f52b7b2",
+        "sha1": "895ac2ef2b3046f5fb9137d6c555bebb67733107",
+        "crc32": "971b5129"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 21).bin",
+      "filesize": 7272384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c0dec422968860ea660f4aa840d272d",
+        "sha1": "c1f4e83dbfb60afdeba76667210b146c59c9c0f1",
+        "crc32": "2a5cd721"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 22).bin",
+      "filesize": 11188464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a18561e101943b787b6607be26cd027",
+        "sha1": "967b89ae56a4c14d59ec289a615c296a77ac6282",
+        "crc32": "afb38b45"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 23).bin",
+      "filesize": 9883104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d79a4580f6df0f96dfde31b55161e7e",
+        "sha1": "3eb42afc35f5f876670e574d05876341b6d87ba1",
+        "crc32": "de6c2b56"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 24).bin",
+      "filesize": 2711856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbbd70710d0e4e1421714dbf04d40ccd",
+        "sha1": "c94c4d0ea35ceb5a832dcf0434f46de6098838df",
+        "crc32": "1e6fa507"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 25).bin",
+      "filesize": 6333936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e56813f74ed062ec1bdcca9ce7b7bb3",
+        "sha1": "9dbdc20004e0db563074c3cd8a674b6444cee789",
+        "crc32": "64d7f806"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 26).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4312c53b828e7866788fbc65699f3c20",
+        "sha1": "9fc9dcd5a0510a7ed9b7c3e149fffa27b63b3717",
+        "crc32": "469b9b2c"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 27).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "796bee8f66a3e7ab4340230e24c6b6f6",
+        "sha1": "1b588e556a08f434f38c0a885f0189d0a394caa9",
+        "crc32": "df058fba"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 28).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e56a37be49549b1ae83f125f97dc5ed",
+        "sha1": "1c31b35d06bf3a348d02122b97c03d9d138ca1c7",
+        "crc32": "6cdb0da0"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 29).bin",
+      "filesize": 1420608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ad6aed3c680eba8c95c5dd19f0dfeb7",
+        "sha1": "c9f3a24cfa29279c45e76bc00f30a979fdd87f5c",
+        "crc32": "f4e1464b"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 30).bin",
+      "filesize": 1540560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7095a8c835a51f7b8b9b33742a966689",
+        "sha1": "3dc38205847ca11867229bd31b5036ce9f148c78",
+        "crc32": "851be2b2"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 31).bin",
+      "filesize": 1420608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f8a26ff5658863bd14026f07890b9ad",
+        "sha1": "12a38dd53d6ddab614d8671110efa97e2cc57d64",
+        "crc32": "16bf9ff9"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 32).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1288adea6205dc2d71d7004555edc95f",
+        "sha1": "2b7852e30f092d06a421b26783f3d64b8cfbeb09",
+        "crc32": "167c55b0"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 33).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d36d5e389f130917ba3e8889e3e2c6a5",
+        "sha1": "a6c0ddc90a534d66b4d0853d9a57e9aa6d893cd3",
+        "crc32": "d2758373"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 34).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b64ae3693bf81c608d85b0fd9ec6f916",
+        "sha1": "0293fe70372cb1cba15703ea59c72d270bfb36b3",
+        "crc32": "5a4112a3"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 35).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a4e08e0b823db3dd5549766e8b45a6e",
+        "sha1": "eeeea64ee30bbba9aafd83f2246f7cffdfda0827",
+        "crc32": "11cd4e71"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 36).bin",
+      "filesize": 2323776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a942b5a43c0ec21fcf27af36657efb24",
+        "sha1": "ae2994a903f512208791817270f7793fc2a56514",
+        "crc32": "8a9b7aaa"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 37).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb06035a183380c1b4f9506685de7edd",
+        "sha1": "fc6d8ce98862207784d8f54fe7de744ca0f1287d",
+        "crc32": "212764f9"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 38).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80f30d8e8402218ed8318fe56d79d999",
+        "sha1": "e2a53e2e0dbb4833a53e6ab441d3b47917196e09",
+        "crc32": "b26fff5c"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 39).bin",
+      "filesize": 3431568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e71db5511cbaf0dbd8880d238bffcf66",
+        "sha1": "7e1cc513e06bdb0aed60a5f1d4dc17dcc49608c3",
+        "crc32": "1d8dae21"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 40).bin",
+      "filesize": 2196768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11564b3a3c8065cd715a27f087705aa3",
+        "sha1": "8099da74ce4849590893463610eab3f9138bf450",
+        "crc32": "48c21866"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 41).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c936e7774ca6e89db45b185d65eb7966",
+        "sha1": "ad713266b3c31bc67063c1bbb096b5cfc7be2bd6",
+        "crc32": "cb607957"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 42).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "821a2220caa538a7f25e31c73e521ff7",
+        "sha1": "d3d45241de1e3dc266b41890267674739eadd35a",
+        "crc32": "43ead470"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 43).bin",
+      "filesize": 2671872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcbcc9d874f4c857b25f4a58fead9eec",
+        "sha1": "9dbc91b312eb1e13d1632cf4f0d6766b3e9694c2",
+        "crc32": "5f0e9e3c"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 44).bin",
+      "filesize": 1538208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1273c7fd6586a2954906125b1b43e5cc",
+        "sha1": "04da0b32b97f819f548231c0c9ebfe77e2657fcf",
+        "crc32": "d3fe155b"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 45).bin",
+      "filesize": 2208528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7fa93d7d493cf18765de1850f36ef0c",
+        "sha1": "a440240abfea36a1f482f2cbad5d62fe39f56215",
+        "crc32": "a37f9ccd"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 46).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "524350a490fbfcb275961fffbe29a996",
+        "sha1": "e57a88f66b9ebfc8f311d11d0aef87de42403752",
+        "crc32": "0d135165"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 47).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac50cd40c29b11705cd3700eef5ab5a0",
+        "sha1": "a173682d120a43cb3093ccc89830da1c3a0bd6af",
+        "crc32": "8df62148"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 48).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdab1a21e42abd46fc53f541a6e0f70e",
+        "sha1": "c08bc0f50e7bbab4283fae868ee6403257e7b6c0",
+        "crc32": "e4d55c80"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 49).bin",
+      "filesize": 3657360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "294e1d1b3860d2883406a284d0bb99bd",
+        "sha1": "0b5195b269d5418780c3aa56a380159c54b128a6",
+        "crc32": "7b77f3df"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 50).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0b8ab8413f3fc2e33dddb6af0d6d17c",
+        "sha1": "2720caceff4c98c20b32a2966a296bcd93cc53a6",
+        "crc32": "ea5c0b21"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 51).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34f8d6b47b42bd1bec0363d4da6c9a4c",
+        "sha1": "f2796b2da8381b20c07faed32b4347cb5066c1e2",
+        "crc32": "0dd96730"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 52).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86566553076514d574acd148e021678c",
+        "sha1": "9c7d8e703dcda02a822b912fab82b7d57645da87",
+        "crc32": "d0f7805f"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 53).bin",
+      "filesize": 1307712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e55e7ee751bddb09e29aae9277f10c5",
+        "sha1": "6d6530fcf8dfcd1af1e883f603df1c369d47cfa0",
+        "crc32": "9534f6bf"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 54).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8de1020fcad8da8b812ad5f2597012fa",
+        "sha1": "09fc0d3fcb8c78fe3d791e53dca7b22121d32f48",
+        "crc32": "4e1b94cf"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 55).bin",
+      "filesize": 3377472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08baf6df06196487786cc03993d68bbb",
+        "sha1": "9694963ff7b2c903b9da99a7b5399a04c50451cd",
+        "crc32": "76c8b540"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 56).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e8d6dd2d62fb640169090448a328a29",
+        "sha1": "2ba9d5755283477683cff85f0e7523b3dd16f47a",
+        "crc32": "85438c11"
+      }
+    },
+    {
+      "filename": "Tomb Raiders (Japan) (Track 57).bin",
+      "filesize": 34675536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d9b29532bf6f167fe02bece59baef3b",
+        "sha1": "e55d5a6cccd78b87d885c63ff736d300a881af8a",
+        "crc32": "3561d9d7"
+      }
+    }
+  ]
+}

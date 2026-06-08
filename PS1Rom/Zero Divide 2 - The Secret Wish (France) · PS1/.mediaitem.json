@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zero Divide 2 - The Secret Wish (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (France).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4e5100b3b7f519ee04112881433c05d",
+        "sha1": "14fb34b2888b3f6c730b5da09402a73ac439bd3e",
+        "crc32": "316078f5"
+      }
+    },
+    {
+      "filename": "Zero Divide 2 - The Secret Wish (France).bin",
+      "filesize": 503779584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b59c39e6fa7ee164578083126698a7cf",
+        "sha1": "c4d7f73c68a0728dadd0ae06df4dc983a6890bd4",
+        "crc32": "d36941f2"
+      }
+    }
+  ]
+}

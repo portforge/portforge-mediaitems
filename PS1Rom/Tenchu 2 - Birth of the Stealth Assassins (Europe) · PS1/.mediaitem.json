@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenchu 2 - Birth of the Stealth Assassins (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenchu 2 - Birth of the Stealth Assassins (Europe).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b4211666cc8d44f48af4d85e1660ce6",
+        "sha1": "ea904aaf7625e8709f63e40f0b0c30648c111b6a",
+        "crc32": "55fc8bfa"
+      }
+    },
+    {
+      "filename": "Tenchu 2 - Birth of the Stealth Assassins (Europe).bin",
+      "filesize": 742775712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "661498fdd55d6d1fa775c68f036838e7",
+        "sha1": "9a38632618a768bb6a992d0670fd2834458b1ad3",
+        "crc32": "17f47caa"
+      }
+    }
+  ]
+}

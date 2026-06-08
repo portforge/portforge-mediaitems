@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Medarot R (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Medarot R (Japan).cue",
+      "filesize": 537,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbd5bdf6cb4a1761da3064eaa1c8f0cf",
+        "sha1": "e71da487075d7bde349cd45445903ccc44bbcc20",
+        "crc32": "78389dd9"
+      }
+    },
+    {
+      "filename": "Medarot R (Japan) (Track 1).bin",
+      "filesize": 56643216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "910a31b8df23c4eb40c635d4e8babf99",
+        "sha1": "5e69611d57b5633737e9b87399369ff233f02913",
+        "crc32": "3344224d"
+      }
+    },
+    {
+      "filename": "Medarot R (Japan) (Track 2).bin",
+      "filesize": 5997600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96e5f3d3a7e788235df2a06bb75b6599",
+        "sha1": "c8a986097764bf29e64a2044183ba1b6c2b5382c",
+        "crc32": "f24a73d4"
+      }
+    },
+    {
+      "filename": "Medarot R (Japan) (Track 3).bin",
+      "filesize": 47101152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ceeea2632be447fcef7c3a2513ab90e",
+        "sha1": "1ebda11d2e721d6bd110f4220a4aea5d3e0d084e",
+        "crc32": "4a952f6e"
+      }
+    },
+    {
+      "filename": "Medarot R (Japan) (Track 4).bin",
+      "filesize": 2027424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69050ab80de6b320a4fd602244209e01",
+        "sha1": "8bc798257416bce2937f78af7f14a35d3680b990",
+        "crc32": "04f7cadc"
+      }
+    },
+    {
+      "filename": "Medarot R (Japan) (Track 5).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

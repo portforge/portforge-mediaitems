@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix No. 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix No. 3 (Japan).cue",
+      "filesize": 378,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b257f985e63dc7f42791ff50bf3affc4",
+        "sha1": "652c463024df259b0cf3754a017993abfae829db",
+        "crc32": "43dd67d2"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 3 (Japan) (Track 1).bin",
+      "filesize": 494637360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbf1e2f8817a57ec23f15698bb129bf0",
+        "sha1": "aeabd0360833986766187005b6271a384deda4ec",
+        "crc32": "066866d6"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 3 (Japan) (Track 2).bin",
+      "filesize": 52030944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b59b498b1677c7889e131a2fd77acf4",
+        "sha1": "68265aef6368334f2fbd5e7817e76cb049fcb0dc",
+        "crc32": "8b54c814"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 3 (Japan) (Track 3).bin",
+      "filesize": 47378688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d4c26fa9e43ffe462ea5740b0a61616",
+        "sha1": "cd74a68e891a63633de29295d4fd3e0e70a1b2a1",
+        "crc32": "b06da3da"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 2 - Conspiracion Mortal (Spain) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 2 - Conspiracion Mortal (Spain) (Disc 1).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21ac50d4c98807fb1d9d84c00c9a21f0",
+        "sha1": "26f80d911e20a0587079791985f4cfc8cde2f5d9",
+        "crc32": "ee55f2a4"
+      }
+    },
+    {
+      "filename": "Syphon Filter 2 - Conspiracion Mortal (Spain) (Disc 1).bin",
+      "filesize": 733682880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dff2bc6049f0da430996ca8c268161ca",
+        "sha1": "565ccf0323f8adceb4d79f734e7df6b33319c844",
+        "crc32": "c7b10705"
+      }
+    }
+  ]
+}

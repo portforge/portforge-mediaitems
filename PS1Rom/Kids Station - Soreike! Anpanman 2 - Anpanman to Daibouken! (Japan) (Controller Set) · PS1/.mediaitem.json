@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan) (Controller Set).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7909ca233cc89c847b1115ecd68c5e0f",
+        "sha1": "8b905138a37f17d79bcbb5b139e93535ea45e64e",
+        "crc32": "faa9b5f8"
+      }
+    },
+    {
+      "filename": "Kids Station - Soreike! Anpanman 2 - Anpanman to Daibouken! (Japan) (Controller Set).bin",
+      "filesize": 163212336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25abe2c00868fc6fae1b70e9471f558b",
+        "sha1": "aa6f8eff509a461e8c954030bbd61844746ac0be",
+        "crc32": "152b673d"
+      }
+    }
+  ]
+}

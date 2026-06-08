@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bistro, The - Ryouri & Wine no Shokunintachi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bistro, The - Ryouri & Wine no Shokunintachi (Japan).cue",
+      "filesize": 420,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ceed195ac2f68b00db9868a55e38a645",
+        "sha1": "f108c889271ba3e06b8f8692f5741bddc9ede4fc",
+        "crc32": "76828bff"
+      }
+    },
+    {
+      "filename": "Bistro, The - Ryouri & Wine no Shokunintachi (Japan) (Track 1).bin",
+      "filesize": 105306096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bf9a935d991059bfb8e96d2cde6f430",
+        "sha1": "36f417029abfa72d27fb812c2f974f2ce7ebfb11",
+        "crc32": "d0e7d4d9"
+      }
+    },
+    {
+      "filename": "Bistro, The - Ryouri & Wine no Shokunintachi (Japan) (Track 2).bin",
+      "filesize": 23181312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef92b48fb8480ddf6029ab9ab3afb233",
+        "sha1": "fdde93a93c1042e861656794bb22c60e58da1430",
+        "crc32": "317e6736"
+      }
+    },
+    {
+      "filename": "Bistro, The - Ryouri & Wine no Shokunintachi (Japan) (Track 3).bin",
+      "filesize": 50885520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cce97fc792dbcc2921d71c6ce46f119",
+        "sha1": "d5610aa26d456e0a0aec55bb861ffbba6e503028",
+        "crc32": "986a6d45"
+      }
+    }
+  ]
+}

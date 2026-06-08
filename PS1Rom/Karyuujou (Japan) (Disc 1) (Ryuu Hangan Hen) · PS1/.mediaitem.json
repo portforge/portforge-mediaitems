@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Karyuujou (Japan) (Disc 1) (Ryuu Hangan Hen)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Karyuujou (Japan) (Disc 1) (Ryuu Hangan Hen).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d4a58cf6c363ac2f568a13ef771b393",
+        "sha1": "a1b82ac7a3a199fb691f9b4d1f29e772c30e27cd",
+        "crc32": "b4a7305d"
+      }
+    },
+    {
+      "filename": "Karyuujou (Japan) (Disc 1) (Ryuu Hangan Hen).bin",
+      "filesize": 490949424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "409839a1a626386c99767e312f65dd07",
+        "sha1": "48b11e6a45fe248bb0ac7cdc806764b38083f3a8",
+        "crc32": "e0598b58"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Brave Fencer Musashiden (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Brave Fencer Musashiden (Japan, Asia).cue",
+      "filesize": 506,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3c25a5f1511ef1ee4d0fca30ac6ce7d8",
+        "sha1": "a64adff10044403dbf3e6e4bf8d92ab4106e46cc",
+        "crc32": "5debcbf5"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashiden (Japan, Asia) (Track 1).bin",
+      "filesize": 388790304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b6932e4d5f49ba1b9f16e71f7e3509a",
+        "sha1": "3dd27e476804e2623a7a51e219808d0e1d7f499b",
+        "crc32": "94ef1ff8"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashiden (Japan, Asia) (Track 2).bin",
+      "filesize": 10678080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1101f4e0338390301ddc9f9778b9fe19",
+        "sha1": "0939872cc375a6457326ac9a478265dc59220cc0",
+        "crc32": "7c51bb00"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashiden (Japan, Asia) (Track 3).bin",
+      "filesize": 7328832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9fda92f05c530b1bb6ddd04a6057b66",
+        "sha1": "eae19bf80275fc84a66888582dd362395da1816c",
+        "crc32": "9529a93f"
+      }
+    },
+    {
+      "filename": "Brave Fencer Musashiden (Japan, Asia) (Track 4).bin",
+      "filesize": 33167904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d461826ca0da4791f660b4ec54e6080c",
+        "sha1": "4b55f5f2d026d08fb55af9de2ad462fa8b8abd0a",
+        "crc32": "337d3287"
+      }
+    }
+  ]
+}

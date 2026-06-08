@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1).cue",
+      "filesize": 1698,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6cd990d7745a6c53f7b9b85987dd4800",
+        "sha1": "2be4ae80c7b022b38057cec825a0305105dbce9f",
+        "crc32": "9353c384"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 01).bin",
+      "filesize": 133059696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6a567af99a03b56fcd536f536f09b96",
+        "sha1": "fad0d8087436477ba7938f258252a506eff0fd77",
+        "crc32": "c3d8a7ea"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 02).bin",
+      "filesize": 22830864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c314a3cbc736cc5426c55bbf3ba261d8",
+        "sha1": "6d033bbfdc8addcb801ba75988c0a4d1d060f3a1",
+        "crc32": "e4f244a4"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 03).bin",
+      "filesize": 19495728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e46b75d5bd080728c4a308d4dbe8abb4",
+        "sha1": "a623425672102931625134a425a17be508c9f0be",
+        "crc32": "d38e27f1"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 04).bin",
+      "filesize": 28950768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "512f97be5e7f07b2b8f2edcc96fd71e6",
+        "sha1": "099d7149eb1182f9c0d72f7a39912fe5ce094a58",
+        "crc32": "6fb40b63"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 05).bin",
+      "filesize": 17087280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5bc8cf44e75221cafef51819baa9fd1",
+        "sha1": "fa7882b7cae541d92ff96bc9f87beb434a8459e6",
+        "crc32": "74e65999"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 06).bin",
+      "filesize": 26389440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "520d9109ed31dba30818d1630953df53",
+        "sha1": "6d5b7912f0f74bac6004b5aab210af66763c8230",
+        "crc32": "96a45bc2"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 07).bin",
+      "filesize": 20443584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a2f513d4557fdb79566238d355162f4",
+        "sha1": "e3bed5fc6ec6b058214f5450fd1a9a351b9e7384",
+        "crc32": "24d85bb0"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 08).bin",
+      "filesize": 29171856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db44e485af2b50e9de958cf7dc987c4c",
+        "sha1": "771f49bc4e1afd8fd857deae7f9432d1f9328e08",
+        "crc32": "4a2cd92e"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 09).bin",
+      "filesize": 21527856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8de148d4781e3335a37dcd4134562fe7",
+        "sha1": "9cc6f8c6f0a1788800e8d3c82738f92a2dae3688",
+        "crc32": "7d9ba9bd"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 10).bin",
+      "filesize": 11164944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b691c1d52a287a6372656d31fcf26d4a",
+        "sha1": "f7a6f21407a6dcbbb374d8eeae400b0196624888",
+        "crc32": "71a45882"
+      }
+    },
+    {
+      "filename": "V-Rally - 97 Championship Edition (Europe) (En,Fr,De) (Rev 1) (Track 11).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "272889cd7c59a5aaa9f794f1ff6fd162",
+        "sha1": "7585a9fd36497ad0d7a1c037c624d0705b3ea343",
+        "crc32": "1cef5bd2"
+      }
+    }
+  ]
+}

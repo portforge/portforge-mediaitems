@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Megami Ibunroku - Persona - Be Your True Mind (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Megami Ibunroku - Persona - Be Your True Mind (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b5f8768ce5ccfc5402b5bebabce2c828",
+        "sha1": "de758e8bae81167efa5f12200637fc664edcd04d",
+        "crc32": "c641afab"
+      }
+    },
+    {
+      "filename": "Megami Ibunroku - Persona - Be Your True Mind (Japan).bin",
+      "filesize": 699705888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0f167dd5133e2a0f89f772852a4e978",
+        "sha1": "1c42967cc4f7daadea81bbd2b00fba33052224b0",
+        "crc32": "360eb310"
+      }
+    }
+  ]
+}

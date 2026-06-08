@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sekai Saikyou Ginsei Igo 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sekai Saikyou Ginsei Igo 3 (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "05008df3dde052c2c6625ed5cfcc0937",
+        "sha1": "c1f538600b3464c76b533a28d1f21a9a870f2d7b",
+        "crc32": "883ac964"
+      }
+    },
+    {
+      "filename": "Sekai Saikyou Ginsei Igo 3 (Japan).bin",
+      "filesize": 39668832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d60e1fc56307799389529d53db8100e",
+        "sha1": "ca5e44c97bcb40b509b6e044b9ee8cf267b93682",
+        "crc32": "901a15b6"
+      }
+    }
+  ]
+}

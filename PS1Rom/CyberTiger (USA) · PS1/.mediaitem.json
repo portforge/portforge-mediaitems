@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CyberTiger (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CyberTiger (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d1b0132b70ff0b9e679d048b058f915c",
+        "sha1": "f875802f33bad9538e2d2e1d5948413c7d6b4e04",
+        "crc32": "99579307"
+      }
+    },
+    {
+      "filename": "CyberTiger (USA).bin",
+      "filesize": 302573040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f581ef5788d2b834f81079452dace06",
+        "sha1": "4b0ad1725af072676d302f3db2f973ce225d9e41",
+        "crc32": "6519d6cd"
+      }
+    }
+  ]
+}

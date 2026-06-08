@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bust A Move (Japan) (Disc 1) (Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bust A Move (Japan) (Disc 1) (Genteiban).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45ad40d4bf80a473bdec779094051db9",
+        "sha1": "3ca62641c870253c25fbbb2c82a07718476cff71",
+        "crc32": "9fa4673b"
+      }
+    },
+    {
+      "filename": "Bust A Move (Japan) (Disc 1) (Genteiban).bin",
+      "filesize": 398602848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4289bcfe7851076707a96d189d9d46c",
+        "sha1": "b07ea6a79d17b334b238b302635639abd4e46816",
+        "crc32": "be118355"
+      }
+    }
+  ]
+}

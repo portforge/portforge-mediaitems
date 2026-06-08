@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Force 2 (Europe) (En,Fr)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Force 2 (Europe) (En,Fr).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "968fda5c0c4d119c982faaa742516b55",
+        "sha1": "9bd0a99687288ebe7183ea7e6fb846ccd2a7e39e",
+        "crc32": "0658ea14"
+      }
+    },
+    {
+      "filename": "Fighting Force 2 (Europe) (En,Fr) (Track 1).bin",
+      "filesize": 465249120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7d753643395c2fa62d69caaa0d79758",
+        "sha1": "fa053e4d616a3dccc3e07f366902c0d363be85de",
+        "crc32": "fda79bed"
+      }
+    },
+    {
+      "filename": "Fighting Force 2 (Europe) (En,Fr) (Track 2).bin",
+      "filesize": 32991504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54cc0c4cdce2d4f7bd4016bb3907e92d",
+        "sha1": "b4c7b981b796de3178b421b31d768b486fb18423",
+        "crc32": "b26b6f63"
+      }
+    }
+  ]
+}

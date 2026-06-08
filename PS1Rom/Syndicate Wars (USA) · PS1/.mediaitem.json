@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syndicate Wars (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syndicate Wars (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eda5369479a35f5b1b42a6ff3a70d023",
+        "sha1": "df8c8f006714820155a12b700b196c28c9db5614",
+        "crc32": "e8aace6d"
+      }
+    },
+    {
+      "filename": "Syndicate Wars (USA).bin",
+      "filesize": 276153024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddaab82f42c2e2fc9001af4cb43d71eb",
+        "sha1": "1876f4a97c8c0d30a6d895525484e9c6b11f4ee8",
+        "crc32": "c877b304"
+      }
+    }
+  ]
+}

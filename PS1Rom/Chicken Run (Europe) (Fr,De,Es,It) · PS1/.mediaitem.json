@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chicken Run (Europe) (Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chicken Run (Europe) (Fr,De,Es,It).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "414bf299db9b04578402e5f31a7036cb",
+        "sha1": "7b5cd6b07844f8480944db9c17228c0a78847629",
+        "crc32": "78c789ed"
+      }
+    },
+    {
+      "filename": "Chicken Run (Europe) (Fr,De,Es,It).bin",
+      "filesize": 731011008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1527f70ccd51a195bc2d56008fbd66f4",
+        "sha1": "9fb409ac7e397c62aeb67cd049d6e0c8db256d15",
+        "crc32": "8b362294"
+      }
+    }
+  ]
+}

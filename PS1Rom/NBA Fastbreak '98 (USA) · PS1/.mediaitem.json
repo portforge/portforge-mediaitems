@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Fastbreak '98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Fastbreak '98 (USA).cue",
+      "filesize": 567,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7581e06719c58a9333df166daaf0ba8a",
+        "sha1": "fc9a825c1e93631145c65e0981c5b6f51567c158",
+        "crc32": "baad7aa5"
+      }
+    },
+    {
+      "filename": "NBA Fastbreak '98 (USA) (Track 1).bin",
+      "filesize": 144692688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c054218c09ae3d053e04723fbc6fcadc",
+        "sha1": "5eb7d86741acf9c5fc4056c362bd723906bc2699",
+        "crc32": "f601ea4b"
+      }
+    },
+    {
+      "filename": "NBA Fastbreak '98 (USA) (Track 2).bin",
+      "filesize": 36728832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5acf6fcbc0669b5d329340604b7723d6",
+        "sha1": "4feb5fe01fe08a884e4be10576baa40bb7916fa8",
+        "crc32": "350061c6"
+      }
+    },
+    {
+      "filename": "NBA Fastbreak '98 (USA) (Track 3).bin",
+      "filesize": 34814304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d43bbf9e3df42b5bfa02afe9b42a4cd",
+        "sha1": "d6a201993ed38efaeb85a9af7913f41696ab59c4",
+        "crc32": "ea8d9528"
+      }
+    },
+    {
+      "filename": "NBA Fastbreak '98 (USA) (Track 4).bin",
+      "filesize": 34421520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d9ef83b0a0068a192c655d71184638a",
+        "sha1": "9bd49e9832ec62655a211af3a3569f3486f54aa2",
+        "crc32": "c2e53398"
+      }
+    },
+    {
+      "filename": "NBA Fastbreak '98 (USA) (Track 5).bin",
+      "filesize": 33494832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "992c830ff87e7ce904f5662fc3afd320",
+        "sha1": "e13c0176a7b0203d09d5c6676544d50f43dab7a6",
+        "crc32": "34b47b05"
+      }
+    }
+  ]
+}

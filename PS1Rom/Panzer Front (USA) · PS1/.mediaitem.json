@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Panzer Front (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Panzer Front (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9031c47c0e215cf5ca06e43a67ae823",
+        "sha1": "eebfe3c2db6b2889f4240fd2bf65f69992691a2a",
+        "crc32": "8a82a21e"
+      }
+    },
+    {
+      "filename": "Panzer Front (USA).bin",
+      "filesize": 345722832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fed3787f3a49f721acd230fe9d2e874",
+        "sha1": "b4716b9f9c0e9cc33ada37c04cdc79440346e73a",
+        "crc32": "fb2f2273"
+      }
+    }
+  ]
+}

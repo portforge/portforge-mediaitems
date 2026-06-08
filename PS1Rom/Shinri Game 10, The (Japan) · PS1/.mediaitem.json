@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shinri Game 10, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shinri Game 10, The (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e1c7f20f8e06b5a4b4bfd6606c68bdd4",
+        "sha1": "f6160e53bea909dc7018baf956a779b34c054857",
+        "crc32": "2c42d688"
+      }
+    },
+    {
+      "filename": "Shinri Game 10, The (Japan).bin",
+      "filesize": 437916528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a96939ef17df7c988e6dcfc48f615a6",
+        "sha1": "80732f8f6165f81bb3d0a36ad11b87f43c194d6b",
+        "crc32": "4c692ff6"
+      }
+    }
+  ]
+}

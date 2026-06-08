@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marvel Super Heroes (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marvel Super Heroes (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "439a79cbaf0cdcc1a4a3f8ed22828376",
+        "sha1": "ec15c349aec338dc5756e8111a6cfbbf0ce65e66",
+        "crc32": "5fe63eed"
+      }
+    },
+    {
+      "filename": "Marvel Super Heroes (USA).bin",
+      "filesize": 476969136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad7106450deef366fd7334ce049239b8",
+        "sha1": "eab90eddc9864e3e2ae6d52a20b6e93888a2e5f4",
+        "crc32": "85d4a883"
+      }
+    }
+  ]
+}

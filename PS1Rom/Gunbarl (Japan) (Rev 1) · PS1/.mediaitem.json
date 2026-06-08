@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gunbarl (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gunbarl (Japan) (Rev 1).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f5bb4899c49a1884975223bd08e9952",
+        "sha1": "f108bf823ac9b982de09037c47dc67e36ec7fd5b",
+        "crc32": "6f21fe66"
+      }
+    },
+    {
+      "filename": "Gunbarl (Japan) (Rev 1).bin",
+      "filesize": 480412464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd17af0a4045938739f1cba116e9bc00",
+        "sha1": "e4f71e44dcd69865715fad92ac0aa80e7f867735",
+        "crc32": "e069a1ca"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official Yarudora Fan Book - Double Cast - CD-ROM Special Data-shuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official Yarudora Fan Book - Double Cast - CD-ROM Special Data-shuu (Japan).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "55f3f126c55c49d149db2cc355667b63",
+        "sha1": "c9b903a8f1bcfdd4beb21cd99c6f278e3e1d7ba4",
+        "crc32": "18151b4d"
+      }
+    },
+    {
+      "filename": "Official Yarudora Fan Book - Double Cast - CD-ROM Special Data-shuu (Japan).bin",
+      "filesize": 289782864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "764a779af26aa272bcdfe226053578f2",
+        "sha1": "d06401b025091c7bf97f3717da40fb25e2921317",
+        "crc32": "7449f845"
+      }
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MDK (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MDK (Japan).cue",
+      "filesize": 3162,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bbc53a55538729c08e7e7ad73f04b68",
+        "sha1": "9e5c5a89743a8698084888c18c989fb5a8996193",
+        "crc32": "b8617085"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 01).bin",
+      "filesize": 107716896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe300217a67b1d616dd03354582890c0",
+        "sha1": "afb722b9d4dd7487a820873e97fce179982e4f0a",
+        "crc32": "d1aa2e19"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 02).bin",
+      "filesize": 11052048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff7e2fa1beb95d74ee7148f552150c6e",
+        "sha1": "0dc604ed8bb685cb58f3d4fb37fbc7f308493150",
+        "crc32": "ad94744e"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 03).bin",
+      "filesize": 11009712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "090db5063f8348883d73f2ecb23af63a",
+        "sha1": "3bec1303d7cef37193a186d2745e45fa9ad5d690",
+        "crc32": "034cd98c"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 04).bin",
+      "filesize": 11569488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddf5b3e462d47f89c2a508250b22cb9f",
+        "sha1": "e4f10fd8c77c4ec38cb0e1daa8ccfc5344a0d4d0",
+        "crc32": "c6038696"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 05).bin",
+      "filesize": 17470656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "808f490477198cb736e68cb57e8e0e92",
+        "sha1": "52ca61df1b426bc381a8006d9cabecdb86a54ab8",
+        "crc32": "40d5ed1c"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 06).bin",
+      "filesize": 17275440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8c7d1763ce347aa56523ff07a340729",
+        "sha1": "733589230bb444077e04d5ac1f1b9f113494dfe5",
+        "crc32": "ab363242"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 07).bin",
+      "filesize": 19625088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "383a6ab744591a14a1b2fc132450ea35",
+        "sha1": "77b0e85ca9bf6b509352c8fea6d069c9ff376d0c",
+        "crc32": "faf2f84a"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 08).bin",
+      "filesize": 18886560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd694272792acb66fe454a4bc0bc3d1e",
+        "sha1": "02be305c705038819d6484e313b53efe1a993f88",
+        "crc32": "8c478f32"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 09).bin",
+      "filesize": 21363216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b63bd5bdc8e4186d65c2b0681a8a2201",
+        "sha1": "ab409c7771a743d25122865180f6bbb9c0ec9d00",
+        "crc32": "8159de84"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 10).bin",
+      "filesize": 32481120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f896078ba8fae00f68aad0f5a3532aa",
+        "sha1": "7fe955879bebe7a857af8f9b1a5f0dfbf0458499",
+        "crc32": "bd7f8b28"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 11).bin",
+      "filesize": 18453792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f60c1c9456fe4428ef7c1380861849d",
+        "sha1": "1a881f253010f8ef84d4cf4899af9467a495923a",
+        "crc32": "f0b5cf06"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 12).bin",
+      "filesize": 17851680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9046ab8300bcb124ae0b050c2a58797",
+        "sha1": "bbef197c97804d80ff608fc6fba6edad6aa0d9dd",
+        "crc32": "a07c137f"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 13).bin",
+      "filesize": 18816000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51d8f1083e5643b434a9612be953f2d0",
+        "sha1": "f76af42c678ab114f05777bb71f9c2cbd2253c67",
+        "crc32": "a9d2f72b"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 14).bin",
+      "filesize": 22819104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "969a5ff254768f1b0331e69896d79d5e",
+        "sha1": "9ff4535fc3be04b2d76110e7d28c72070c0c3817",
+        "crc32": "dd57cc7a"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 15).bin",
+      "filesize": 19785024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30177998ae801109452c6bfd31cd153f",
+        "sha1": "aa2ce6be601092315fe2d334568488ed3d1b119a",
+        "crc32": "a3bdcd58"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 16).bin",
+      "filesize": 33654768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c4eb6ea82955e8f13c58e8c0aa8a1bb",
+        "sha1": "dbdd758796b4a9bd06bc7dfee1dc4ba5d23c3c85",
+        "crc32": "32c51760"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 17).bin",
+      "filesize": 7655760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a58822549a9912eb2d478eb79d538e78",
+        "sha1": "20549c66a7003f7adcf27cb61eb5a49e15363f03",
+        "crc32": "eb8b3720"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 18).bin",
+      "filesize": 14015568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c15294b9f4b208cf97d92d9b857f286",
+        "sha1": "11b7e48cf1eb275662b3b5378b2025e4af56a535",
+        "crc32": "3ce15526"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 19).bin",
+      "filesize": 10983840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9466486d4bf5f5f997919af8bf8128b",
+        "sha1": "2c8a36b2a4936e224b58dde44aebbbfcc819554f",
+        "crc32": "d66c4540"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 20).bin",
+      "filesize": 10953264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24b5baf2bd4717bcb9758d75cd015a38",
+        "sha1": "2f56cb792ae76f16f090f96dc21477636141d95a",
+        "crc32": "dd5e28c8"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 21).bin",
+      "filesize": 19371072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb554712069802f70ed9da6f4ffaa3ae",
+        "sha1": "96e874f6a95a7cd5b8fbca5ba25334070922dce9",
+        "crc32": "1efab366"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 22).bin",
+      "filesize": 18898320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "286629597283c1b05c81a595ec87dcc8",
+        "sha1": "6ef1e1f255250f885d2be737fe7673f05d2d6a1d",
+        "crc32": "d307896b"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 23).bin",
+      "filesize": 22692096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "896c37d7745a1d23befc889d116b98e4",
+        "sha1": "89aae6a85ac899a40c0068f3f65317309efcb304",
+        "crc32": "5d4248b1"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 24).bin",
+      "filesize": 32102448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffe9ffbe8f2ba94799e3d45274206e4e",
+        "sha1": "d67f4c656448bcc91c595c4cc39784cdfefb5b1a",
+        "crc32": "22ffde22"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 25).bin",
+      "filesize": 10800384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26af618bdc78045358d364da43313f83",
+        "sha1": "58b44f152297d5c0fc788e03bc56755250fd2244",
+        "crc32": "785b7498"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 26).bin",
+      "filesize": 21012768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d45a71a9f9cf547f87f8ef732ffaadef",
+        "sha1": "706ff51e91af964ee3049391e9564e944ee87f17",
+        "crc32": "3390aded"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 27).bin",
+      "filesize": 13869744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed9220d0ba87cd55e8f9f315d2e58a81",
+        "sha1": "91aa1c8653eee5adc3e445cc4986e26f594a197f",
+        "crc32": "75ccc7bf"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 28).bin",
+      "filesize": 14119056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34e921720e39f26aeae76e7f0ccd9855",
+        "sha1": "9df3f08646250c102040ca9e958d6a81ed985d91",
+        "crc32": "20ef7799"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 29).bin",
+      "filesize": 10997952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22104a43d639d58fd05225857d7a0f13",
+        "sha1": "cf666fbbc9b6704d0f61f325c6b6c912210e5043",
+        "crc32": "f966cefa"
+      }
+    },
+    {
+      "filename": "MDK (Japan) (Track 30).bin",
+      "filesize": 38048304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae4dad9adcc0604406d8b9713683f588",
+        "sha1": "c154c2ca2551c03d62cbae58200f176f1f76f17f",
+        "crc32": "c01d16b7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Westlife - Fan-O-Mania (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Westlife - Fan-O-Mania (Europe).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a3cb9c7d9fe597492013359e339cb2fc",
+        "sha1": "37cc58b97476986da7cf1ba51f058c34b68cee6b",
+        "crc32": "5fab41a3"
+      }
+    },
+    {
+      "filename": "Westlife - Fan-O-Mania (Europe).bin",
+      "filesize": 714685776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef4feff5297bdec5bff76fba314bebbf",
+        "sha1": "efffcc8ca69887298d0ea95c55a47298c2ad7a56",
+        "crc32": "188916ae"
+      }
+    }
+  ]
+}

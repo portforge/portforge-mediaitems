@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Baldies (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Baldies (Europe).cue",
+      "filesize": 1314,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0cd28cf46dbeb0f690ac91aa15f9892",
+        "sha1": "6a375b224450f323e2e6314f9f96c364f26c318e",
+        "crc32": "03994339"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 01).bin",
+      "filesize": 18112752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47fa7589f34632df9e9947e71fe61035",
+        "sha1": "4334c6e6e8802776d6e172ceeb73858e80bf14cf",
+        "crc32": "ab4e4768"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 02).bin",
+      "filesize": 52480176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "960885f796b57417a878895177919db4",
+        "sha1": "0a65ba0db347cbbdfba7ec1270cc88d26b61a2df",
+        "crc32": "6d6b34b6"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 03).bin",
+      "filesize": 46442592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52a124abc7bf09cf0789e3dfea9dc898",
+        "sha1": "7dd44c7717c5baeb8179950940084577d7d34eff",
+        "crc32": "93e445a1"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 04).bin",
+      "filesize": 48514704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee5b6e30c439e8e3482518f0a5773aa2",
+        "sha1": "559f74d2b24cf4e2d911ae8bc51704afaf5409b0",
+        "crc32": "edcd4f03"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 05).bin",
+      "filesize": 1566432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "065906c9ec35797bb7219bd0fc5bba31",
+        "sha1": "6ef336d49b477e464958129c4c2b1e6a0fa0f865",
+        "crc32": "ecc64b4d"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 06).bin",
+      "filesize": 49874160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e32c9477b114b2f56f8336515e665a58",
+        "sha1": "04d341dae239e75a99ac1bee1e0a11cc106208b7",
+        "crc32": "e8bc63f0"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 07).bin",
+      "filesize": 72422784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d1e5f39216964c80d5d3ed7c4871b23",
+        "sha1": "fb83443cde25e85854af6a011d3a943ba52f1640",
+        "crc32": "613c5952"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 08).bin",
+      "filesize": 26692848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "242e0b65941f026d27b71fcc98a23067",
+        "sha1": "733f8284d44c212220b28c79953b89ef59bef518",
+        "crc32": "7c469b7c"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 09).bin",
+      "filesize": 21939456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f1593230dbd4b189741dea158e5688a",
+        "sha1": "ac4920ea61f5a859c0610927c593a22231b0f4fb",
+        "crc32": "00ec7ac6"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 10).bin",
+      "filesize": 46543728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61b4204352792d243fb55bec77978200",
+        "sha1": "1f284fa13addf85171ee1b23f014e185764036e6",
+        "crc32": "3e39130d"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 11).bin",
+      "filesize": 1213632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccfb0a97029b83198bc9e2c1ef72606d",
+        "sha1": "9c8f987082d02ae9048bf9087525986cf373e0ad",
+        "crc32": "fd3381b2"
+      }
+    },
+    {
+      "filename": "Baldies (Europe) (Track 12).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

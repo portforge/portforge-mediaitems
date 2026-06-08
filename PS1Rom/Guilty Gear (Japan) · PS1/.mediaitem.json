@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guilty Gear (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guilty Gear (Japan).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "acdb1d04f332fdc9991aeec87c7e966e",
+        "sha1": "4cb16142dfda8e490abc28784addb4f015e5e036",
+        "crc32": "960ab3a0"
+      }
+    },
+    {
+      "filename": "Guilty Gear (Japan) (Track 1).bin",
+      "filesize": 282867984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac9c59fe232cc21d3ef1aa30c4b57adf",
+        "sha1": "1ff3eeef314edab9d61edb7f562034de614c255a",
+        "crc32": "e085a6db"
+      }
+    },
+    {
+      "filename": "Guilty Gear (Japan) (Track 2).bin",
+      "filesize": 59947776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aade6b456d14747c40a9cb56359ed448",
+        "sha1": "7ccdd7060bcb01f01839f3de418b151e5ecc40d0",
+        "crc32": "0f710808"
+      }
+    }
+  ]
+}

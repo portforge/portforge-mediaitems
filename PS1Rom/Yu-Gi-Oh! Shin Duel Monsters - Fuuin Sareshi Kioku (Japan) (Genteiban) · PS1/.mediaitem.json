@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yu-Gi-Oh! Shin Duel Monsters - Fuuin Sareshi Kioku (Japan) (Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yu-Gi-Oh! Shin Duel Monsters - Fuuin Sareshi Kioku (Japan) (Genteiban).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a106ae3ab0d3b57e447abed62aecbc1f",
+        "sha1": "00632b18af8dee2f0bc85977785790dc7865614e",
+        "crc32": "9c434bea"
+      }
+    },
+    {
+      "filename": "Yu-Gi-Oh! Shin Duel Monsters - Fuuin Sareshi Kioku (Japan) (Genteiban).bin",
+      "filesize": 513392208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd4aafb00df8b1451984d0cf416a01a8",
+        "sha1": "fcd810309582fa2b106adb1cfa251b0ef94523cd",
+        "crc32": "fbf9ec19"
+      }
+    }
+  ]
+}

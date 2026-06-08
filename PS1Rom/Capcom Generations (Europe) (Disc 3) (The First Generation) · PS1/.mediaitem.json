@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Capcom Generations (Europe) (Disc 3) (The First Generation)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Capcom Generations (Europe) (Disc 3) (The First Generation).cue",
+      "filesize": 288,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3be735476344625365ec3c885a23203",
+        "sha1": "e06edd7fdc52d9d82d4b0c2f1fa1059477e8313e",
+        "crc32": "e5037666"
+      }
+    },
+    {
+      "filename": "Capcom Generations (Europe) (Disc 3) (The First Generation) (Track 1).bin",
+      "filesize": 492628752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6b6880986eda704d6769c6061048ce1",
+        "sha1": "a76b0d8b48da7a750e3f3afeaf94509d1a750d97",
+        "crc32": "176019cb"
+      }
+    },
+    {
+      "filename": "Capcom Generations (Europe) (Disc 3) (The First Generation) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

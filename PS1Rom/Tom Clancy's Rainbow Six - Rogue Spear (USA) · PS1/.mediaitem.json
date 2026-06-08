@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tom Clancy's Rainbow Six - Rogue Spear (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tom Clancy's Rainbow Six - Rogue Spear (USA).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ed714f257bd30fecff29e436e1492708",
+        "sha1": "56148908fc51060780ffde1c13b04d96086de637",
+        "crc32": "0dc0ade2"
+      }
+    },
+    {
+      "filename": "Tom Clancy's Rainbow Six - Rogue Spear (USA).bin",
+      "filesize": 340437888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ad7bc4fa4137a2971b3154c1f8c09cd",
+        "sha1": "0b94d386c6d85df39432c1b22f3ab4ea73163482",
+        "crc32": "3c7baf2b"
+      }
+    }
+  ]
+}

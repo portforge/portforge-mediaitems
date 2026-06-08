@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "VR Baseball 99 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "VR Baseball 99 (USA).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95ea0dc7a20ae1b5bc3f62c3e9d30d2a",
+        "sha1": "db2b647ffcc462f2afc48e6c646f764d7ac2cc84",
+        "crc32": "b6e1fd16"
+      }
+    },
+    {
+      "filename": "VR Baseball 99 (USA) (Track 1).bin",
+      "filesize": 430566528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9266b7fbd5eb8a68fc59a50b80318b33",
+        "sha1": "b24cc282cdd978659e575ffdba5f4d182f0aa17f",
+        "crc32": "b6a2198d"
+      }
+    },
+    {
+      "filename": "VR Baseball 99 (USA) (Track 2).bin",
+      "filesize": 66413424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32cfcd2de0d2842de73084aaffb9ef89",
+        "sha1": "e79a14444727a2cf42584fca5fc3a9272cb7bf25",
+        "crc32": "5e4ad46a"
+      }
+    }
+  ]
+}

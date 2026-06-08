@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Angelique Duet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Angelique Duet (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ada25a9706a98965d46429f1b5dffdb",
+        "sha1": "8ae59a3c2576feb84e57ba120fa006d244cda1e2",
+        "crc32": "637eb523"
+      }
+    },
+    {
+      "filename": "Angelique Duet (Japan).bin",
+      "filesize": 677571216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f34b92cefb8d44dcbe7ad64e47d150ae",
+        "sha1": "efbc3822d8f37443e6aca3832ccb68c49bbd99fc",
+        "crc32": "1ea17f26"
+      }
+    }
+  ]
+}

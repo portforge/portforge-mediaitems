@@ -1,0 +1,227 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BattleSport (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BattleSport (Europe).cue",
+      "filesize": 2397,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a07b454a8d6d2a172e5c74e675831c05",
+        "sha1": "10aad3245a73445b144203103360444038e25d05",
+        "crc32": "2045101c"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 01).bin",
+      "filesize": 146658960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bc3f37f0d4206222fa7b8fbcf0d9f08",
+        "sha1": "9184950b32fa6583334fcb3435a5ecfa4f034c9f",
+        "crc32": "b31b3fe4"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 02).bin",
+      "filesize": 19700352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42b00313a6ff30ca1c806f2d08abc350",
+        "sha1": "1e9f6b938e00de268f19db49e7ef8635b85186c9",
+        "crc32": "930b2c27"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 03).bin",
+      "filesize": 6515040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acfd7b71d3acb95f445310d6d1a294af",
+        "sha1": "51c230c26b0683bdadeb9f602ade98e2c4a613ce",
+        "crc32": "c1fa00c7"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 04).bin",
+      "filesize": 27327888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9368856ba375d705a57aebbdc8975351",
+        "sha1": "7a7b47bbf84bd677106f3e344036fb43c0de97a8",
+        "crc32": "41e2b9ee"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 05).bin",
+      "filesize": 11134368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11790d4ac56781dadf6af9931197baae",
+        "sha1": "a7804968e4be8574c19e507140ba76769174f730",
+        "crc32": "1006eeff"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 06).bin",
+      "filesize": 19392240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c86f964a6b865479bcdc334be577724",
+        "sha1": "eb2abc5b90cf29d27f56d3d7638498baf6f9e0b7",
+        "crc32": "f68725f6"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 07).bin",
+      "filesize": 27250272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f08a8dae3634822ae30babb7a4667dc",
+        "sha1": "d4e61148e11874b0f3b687d031537b688ff0af93",
+        "crc32": "c0a16e21"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 08).bin",
+      "filesize": 27452544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04ccbeb0a55bc2214191636d61ac300b",
+        "sha1": "f46a47cff43f275d01b5a38f20e236675a4162c1",
+        "crc32": "5586159d"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 09).bin",
+      "filesize": 12253920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec1ec688b7135c7c69408c7bb23b9f16",
+        "sha1": "da7f7a2a5870b5ce892e1fa55b26bebbf4fdf3a9",
+        "crc32": "5853be0e"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 10).bin",
+      "filesize": 5757696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f801ad8a1b69922778aae0536d176181",
+        "sha1": "13dc534ba686248786a309f722695b68f0d82a62",
+        "crc32": "2ea83e6a"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 11).bin",
+      "filesize": 12258624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a936ef9781c397beadbeea8f8ce96c67",
+        "sha1": "463c2f41f74f25265f496e3a3d4bb7b9ee688f2a",
+        "crc32": "eab9ab82"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 12).bin",
+      "filesize": 26812800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc8b61cd044a6afc3b5dd2f0c9d60f01",
+        "sha1": "24a1edbf6df7f8cd606bab4dd1e23ca2cccb46a6",
+        "crc32": "d26a9e40"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 13).bin",
+      "filesize": 29197728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "291c21bae7139e5b9c7fee877d9192de",
+        "sha1": "50484abfb7da9d950993f365a96c4f4cd4b80463",
+        "crc32": "5dca8eec"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 14).bin",
+      "filesize": 29089536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60f7956db9f87614b2bca479d1f528c7",
+        "sha1": "013a9fccb73bd8e1e1154423ae199767dbcb7453",
+        "crc32": "66c76445"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 15).bin",
+      "filesize": 25756752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a31f9fe1276302ad5c06a9e1b643e046",
+        "sha1": "3cfecfd6f56121a52f30423285e4bf55cf651d45",
+        "crc32": "53b3d675"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 16).bin",
+      "filesize": 29263584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2988115e1b4327e72ff0ba78c01166c",
+        "sha1": "ccd2ce7c657741e5de15a32b55f9e1df7857e340",
+        "crc32": "8191cd92"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 17).bin",
+      "filesize": 27977040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb36f25880e9470391fa60f48d5dc131",
+        "sha1": "4b0d572eb84839a984c661bcdf074d7868d64faf",
+        "crc32": "2c54c6ad"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 18).bin",
+      "filesize": 28339248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24f346de72c4c1cd422c06e97dc1dcb7",
+        "sha1": "cfaef8640c480913655d692335ab0090c7f96a08",
+        "crc32": "4edd02e7"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 19).bin",
+      "filesize": 27577200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfdb51d8ba0f8d471271578f08ef26c0",
+        "sha1": "c8b6b8c0c135d7422a85587befb40b12d928c120",
+        "crc32": "72ef2e5e"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 20).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    },
+    {
+      "filename": "BattleSport (Europe) (Track 21).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

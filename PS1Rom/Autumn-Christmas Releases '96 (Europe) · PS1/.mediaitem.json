@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Autumn-Christmas Releases '96 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Autumn-Christmas Releases '96 (Europe).cue",
+      "filesize": 378,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e506a932d55a86b6f1b8f40527be758",
+        "sha1": "4e0e7d6b017f5add63806165cbceba39807490c0",
+        "crc32": "6a99ca59"
+      }
+    },
+    {
+      "filename": "Autumn-Christmas Releases '96 (Europe) (Track 1).bin",
+      "filesize": 171787728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30c295074fe219434679ba71fbc3250b",
+        "sha1": "9fdbd4cf5b6827b6c01589d68c2baea5422b32ed",
+        "crc32": "f5b63216"
+      }
+    },
+    {
+      "filename": "Autumn-Christmas Releases '96 (Europe) (Track 2).bin",
+      "filesize": 55885872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb704fc0301394ed8a4afca0165814e0",
+        "sha1": "601507f68eeae7df49384b7d968c5651a0f984d8",
+        "crc32": "280d423e"
+      }
+    },
+    {
+      "filename": "Autumn-Christmas Releases '96 (Europe) (Track 3).bin",
+      "filesize": 48608784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d65e173dd0f761498ed665a57b6a27de",
+        "sha1": "61bcdbf0573f2c2f687a58db42070b5b3e16379a",
+        "crc32": "0ee64810"
+      }
+    }
+  ]
+}

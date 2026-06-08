@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Demo Disc (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Demo Disc (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 369,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9f88fa9f5b481127ed77c9d79d82f72",
+        "sha1": "9a0ea2fb6eec52cd3887df495d8f1d4c04462106",
+        "crc32": "83a4b69d"
+      }
+    },
+    {
+      "filename": "Demo Disc (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 456944208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87f139ec42cd8e28e046de97f4ae3cd8",
+        "sha1": "ba7a123dd45d20151c4072406db74117b785e55d",
+        "crc32": "029ee322"
+      }
+    },
+    {
+      "filename": "Demo Disc (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 39179616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd9ae9180c56506b0d902bb47d6a4991",
+        "sha1": "883f47577c58fc6a7ce3534ec711941ef442b76c",
+        "crc32": "2e0c69eb"
+      }
+    },
+    {
+      "filename": "Demo Disc (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

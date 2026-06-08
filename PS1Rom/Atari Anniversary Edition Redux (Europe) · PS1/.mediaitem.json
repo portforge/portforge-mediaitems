@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atari Anniversary Edition Redux (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atari Anniversary Edition Redux (Europe).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87e1fb6e8e8de3b8fe455ae730989d8e",
+        "sha1": "adfbf53f89f9889e0ed58a285757c051cfc1a38a",
+        "crc32": "04eb8d09"
+      }
+    },
+    {
+      "filename": "Atari Anniversary Edition Redux (Europe).bin",
+      "filesize": 630651168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f03798aa93e37ca182634e1def2e7f6e",
+        "sha1": "f030149062fdb4d85bd992801407c3be5ee69bef",
+        "crc32": "3c573f2e"
+      }
+    }
+  ]
+}

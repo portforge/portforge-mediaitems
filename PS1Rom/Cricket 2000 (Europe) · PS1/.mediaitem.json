@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cricket 2000 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cricket 2000 (Europe).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "52ae6dfb19b81c610ae1ae0414b2c025",
+        "sha1": "36b83226c7a7f7cf8d63370a5bc22d49dc7b8996",
+        "crc32": "90fd9307"
+      }
+    },
+    {
+      "filename": "Cricket 2000 (Europe) (Track 1).bin",
+      "filesize": 239812272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4525b0a373b4dfc885aca274f80a448",
+        "sha1": "cdc966636ee80352d0c72b19a607dc771dfeca91",
+        "crc32": "44552ac9"
+      }
+    },
+    {
+      "filename": "Cricket 2000 (Europe) (Track 2).bin",
+      "filesize": 33508944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "308db86e70bdb4192f6c3603a9451a45",
+        "sha1": "26cd8247c03111249119495f64923196f85bc74e",
+        "crc32": "82ccd767"
+      }
+    }
+  ]
+}

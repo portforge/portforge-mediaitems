@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Incredible Crisis (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Incredible Crisis (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c764e0cda8bafb6385c692afffbf71d5",
+        "sha1": "33490fdebaf7708f81d18824981e2ed89ccac651",
+        "crc32": "1291a7e8"
+      }
+    },
+    {
+      "filename": "Incredible Crisis (USA).bin",
+      "filesize": 721377216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d51e2807dface60c09b3f10558b3b95",
+        "sha1": "024fc3ec2309809406b2663b753bf5c4f505cd5b",
+        "crc32": "9f87357b"
+      }
+    }
+  ]
+}

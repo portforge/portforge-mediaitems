@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Activision Classics (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Activision Classics (USA).cue",
+      "filesize": 339,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88e0b180048fecda7af5d236312436d3",
+        "sha1": "e5813c71cfbe9d81f42ae7afb7159bed50f38b51",
+        "crc32": "5e1fd6ba"
+      }
+    },
+    {
+      "filename": "Activision Classics (USA) (Track 1).bin",
+      "filesize": 73175424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88b5ace34db2a42b0aa5c8d5fa666dfd",
+        "sha1": "af34faecfb0cf7a72953735c2e90d9570bf234f6",
+        "crc32": "13e92319"
+      }
+    },
+    {
+      "filename": "Activision Classics (USA) (Track 2).bin",
+      "filesize": 9574992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07bbd510869e1afd21c1e9457c823189",
+        "sha1": "7052de3ff3189282bd973e46e3d3868900b991c2",
+        "crc32": "7a6e0644"
+      }
+    },
+    {
+      "filename": "Activision Classics (USA) (Track 3).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0d4ed65fe41ebf99b2273a3914e3eb5",
+        "sha1": "f7eded280c5d5db877b324693e424690d3f740ab",
+        "crc32": "9d424890"
+      }
+    }
+  ]
+}

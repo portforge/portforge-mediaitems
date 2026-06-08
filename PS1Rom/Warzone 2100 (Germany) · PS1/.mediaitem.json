@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warzone 2100 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warzone 2100 (Germany).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9837b777227c6a03bc81379f2567ef15",
+        "sha1": "c40e813e71c1a28570c20fe3ac2d4301c36bb156",
+        "crc32": "c116db6a"
+      }
+    },
+    {
+      "filename": "Warzone 2100 (Germany).bin",
+      "filesize": 738953712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81cd4b1ce2c84def76559ac7a5f9475b",
+        "sha1": "d1a92fa6d23baaa260bf490469c487a2cf4e3c52",
+        "crc32": "06bb5b8d"
+      }
+    }
+  ]
+}

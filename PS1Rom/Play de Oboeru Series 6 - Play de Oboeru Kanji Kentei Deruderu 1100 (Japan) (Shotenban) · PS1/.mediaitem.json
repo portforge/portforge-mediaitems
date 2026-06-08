@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play de Oboeru Series 6 - Play de Oboeru Kanji Kentei Deruderu 1100 (Japan) (Shotenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play de Oboeru Series 6 - Play de Oboeru Kanji Kentei Deruderu 1100 (Japan) (Shotenban).cue",
+      "filesize": 153,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ffefec8cc4a4ef7a6edbf7b23633bb4c",
+        "sha1": "20efd8ef3d3cdbff88d342f6bdb043639488647b",
+        "crc32": "bff4cc4e"
+      }
+    },
+    {
+      "filename": "Play de Oboeru Series 6 - Play de Oboeru Kanji Kentei Deruderu 1100 (Japan) (Shotenban).bin",
+      "filesize": 177199680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2dffa332333450e3b22124c2a09fa1c5",
+        "sha1": "dd5d58e282da0bac4582c3c3dd92b39b19f45f09",
+        "crc32": "a12ffef1"
+      }
+    }
+  ]
+}

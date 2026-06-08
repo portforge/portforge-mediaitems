@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Demolition Racer (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Demolition Racer (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e3dd15f048c8dd3d50ab62c0f7cfb654",
+        "sha1": "8b380c23a35a4767d49ef5201515788e63d3c045",
+        "crc32": "a3de0bcb"
+      }
+    },
+    {
+      "filename": "Demolition Racer (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 329381136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ad0233062191bda03ff3529912fd161",
+        "sha1": "1c6bef9c034e60514666d9267a6961d7d0685437",
+        "crc32": "fe1de135"
+      }
+    }
+  ]
+}

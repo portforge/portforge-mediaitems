@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aae6981e82824e587742346a72f64c63",
+        "sha1": "2644e7513b110eb14fcceda5985c5eb8381caa3e",
+        "crc32": "353e26d1"
+      }
+    },
+    {
+      "filename": "Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09).bin",
+      "filesize": 175395696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a09c3dbd011a56f27e618dba73f05ba",
+        "sha1": "ff4aa978bbc14269a2dbd16df67d09758197fe93",
+        "crc32": "70c3ba1d"
+      }
+    }
+  ]
+}

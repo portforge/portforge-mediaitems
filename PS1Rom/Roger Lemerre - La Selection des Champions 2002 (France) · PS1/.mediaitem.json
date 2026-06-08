@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Roger Lemerre - La Selection des Champions 2002 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Roger Lemerre - La Selection des Champions 2002 (France).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b65b61fe188c3732bc3273baa09d23a0",
+        "sha1": "8f2b7229634a1ea294503507e0fe2302d236cb67",
+        "crc32": "df09c129"
+      }
+    },
+    {
+      "filename": "Roger Lemerre - La Selection des Champions 2002 (France).bin",
+      "filesize": 543695376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb4ed32638e4e74f4ef126d6ae14761f",
+        "sha1": "99db12c3e53698f630077fe067c92c6efa3bc6df",
+        "crc32": "62c24cee"
+      }
+    }
+  ]
+}

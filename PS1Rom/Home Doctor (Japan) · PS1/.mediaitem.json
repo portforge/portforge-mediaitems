@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Home Doctor (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Home Doctor (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0582b738f61423f693c251e1fbf12ad2",
+        "sha1": "49f9b5b917d636776f286c6ad0dc295a22b14a2d",
+        "crc32": "801ace51"
+      }
+    },
+    {
+      "filename": "Home Doctor (Japan).bin",
+      "filesize": 128247504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6a44ae2f1d50c5abfc1f694a84a1fb5",
+        "sha1": "e6afae2363955e26a51af505048768e71ad74e5d",
+        "crc32": "1bf38f4f"
+      }
+    }
+  ]
+}

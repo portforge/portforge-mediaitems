@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dynasty Warriors (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dynasty Warriors (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "787666f0441549770ddb35789bba1521",
+        "sha1": "5221fba5dbdd3a0ba491dcc287f65eabf9408740",
+        "crc32": "fc3c238a"
+      }
+    },
+    {
+      "filename": "Dynasty Warriors (USA).bin",
+      "filesize": 532382256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08c0789d6439f15ac313e49b127b8269",
+        "sha1": "fa3b5d2846dcdc792864cc9ce67562ca6990ae53",
+        "crc32": "bab7b21d"
+      }
+    }
+  ]
+}

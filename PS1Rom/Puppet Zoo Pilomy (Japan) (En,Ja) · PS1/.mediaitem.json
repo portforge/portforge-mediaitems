@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puppet Zoo Pilomy (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puppet Zoo Pilomy (Japan) (En,Ja).cue",
+      "filesize": 744,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fbc14b22435fa62f0b3d28e165f79576",
+        "sha1": "d75b1ca7acfbe02fb41afa84b488261141895714",
+        "crc32": "996fd628"
+      }
+    },
+    {
+      "filename": "Puppet Zoo Pilomy (Japan) (En,Ja) (Track 1).bin",
+      "filesize": 416663856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2d656da5cae78f0ad29e5e496ba69a8",
+        "sha1": "f361c44b960657da4cd2ccb43049e3f9345ddb61",
+        "crc32": "a7d840b1"
+      }
+    },
+    {
+      "filename": "Puppet Zoo Pilomy (Japan) (En,Ja) (Track 2).bin",
+      "filesize": 8363712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "161a51dcc0af8e338f22de4fdd06390a",
+        "sha1": "bfdb13611b25251dfa2f1dcf8beb5b64629ec4c2",
+        "crc32": "fd4ffe12"
+      }
+    },
+    {
+      "filename": "Puppet Zoo Pilomy (Japan) (En,Ja) (Track 3).bin",
+      "filesize": 41752704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d831bd440f3d4ef111a9c6a2b8dcb0b1",
+        "sha1": "c058d9eb6afa98c7e5894903b646b3a7ab2e4301",
+        "crc32": "aae8a582"
+      }
+    },
+    {
+      "filename": "Puppet Zoo Pilomy (Japan) (En,Ja) (Track 4).bin",
+      "filesize": 38843280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba216918d24a74d33e279b5e909046ff",
+        "sha1": "95f44ea156029561a687cf5fd61569785f58947a",
+        "crc32": "8ae8b9ae"
+      }
+    },
+    {
+      "filename": "Puppet Zoo Pilomy (Japan) (En,Ja) (Track 5).bin",
+      "filesize": 45054912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b30f2ad506984ca00eba913212dd72f",
+        "sha1": "e7f42b12fc4dc7e45050a94270c568de962b8529",
+        "crc32": "39a3eddb"
+      }
+    },
+    {
+      "filename": "Puppet Zoo Pilomy (Japan) (En,Ja) (Track 6).bin",
+      "filesize": 50024688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edf4b73a668c93128bc30a5ea648ff53",
+        "sha1": "972bb06fbc88a0ed9657953e85de2180ffb439ea",
+        "crc32": "04ccc2e6"
+      }
+    }
+  ]
+}

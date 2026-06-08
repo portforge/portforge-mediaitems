@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Trap Gunner (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Trap Gunner (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de02a7dad7b626bee6587bc7d7c00fb4",
+        "sha1": "6bea3834341d995be76543f533dd2120636a2d49",
+        "crc32": "e11b2214"
+      }
+    },
+    {
+      "filename": "Trap Gunner (USA).bin",
+      "filesize": 708410640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4acc0cc9bf96dc12623d4bb031caf159",
+        "sha1": "258d840cc7cbb8900d76fd7d1ca499b4085ad6e1",
+        "crc32": "f6f00f7c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Countdown Vampires (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Countdown Vampires (USA) (Disc 1).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cbfab1b75d1958143ae02164879f83a0",
+        "sha1": "e86f1b83be6455de378b57c14c7b33d86ba79a77",
+        "crc32": "b011cc21"
+      }
+    },
+    {
+      "filename": "Countdown Vampires (USA) (Disc 1).bin",
+      "filesize": 575113392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfd2bb5e58e152ba4cfac0eb1283ed87",
+        "sha1": "5ee460a19a8ea606e8d058f216383133615a95d3",
+        "crc32": "e505fc6d"
+      }
+    }
+  ]
+}

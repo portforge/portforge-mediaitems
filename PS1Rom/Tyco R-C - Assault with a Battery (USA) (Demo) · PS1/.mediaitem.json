@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tyco R-C - Assault with a Battery (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tyco R-C - Assault with a Battery (USA) (Demo).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f7d0463e7e9b007ad514b50a3138f343",
+        "sha1": "a424f3d09970ef5738ead698e88a7346cfaf581d",
+        "crc32": "7f2351e0"
+      }
+    },
+    {
+      "filename": "Tyco R-C - Assault with a Battery (USA) (Demo).bin",
+      "filesize": 12169248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d08ed84d97e41733a82a2ecaa3d4bfb8",
+        "sha1": "5b16aa056dee14eff92891c24ca7cf71d263077d",
+        "crc32": "fb6ec55b"
+      }
+    }
+  ]
+}

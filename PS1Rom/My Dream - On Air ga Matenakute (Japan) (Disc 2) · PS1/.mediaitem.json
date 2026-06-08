@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "My Dream - On Air ga Matenakute (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "My Dream - On Air ga Matenakute (Japan) (Disc 2).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b797bda5189e9224f367a7ead2e03cb",
+        "sha1": "ba3adaaa1cf7fea3459b4ab860fbac27094ef9d5",
+        "crc32": "4d98c489"
+      }
+    },
+    {
+      "filename": "My Dream - On Air ga Matenakute (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 622858992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b28a3f250ecb7f17edd8c8aea0a4e111",
+        "sha1": "6d0be920462eeb71f159af8e24354a639a60747e",
+        "crc32": "cf06f15f"
+      }
+    },
+    {
+      "filename": "My Dream - On Air ga Matenakute (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 35308224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d205019a95a1234561ac30448ce35414",
+        "sha1": "11078d18d36668dde7889fff2a7871e8e1f21bb4",
+        "crc32": "5d3ba694"
+      }
+    }
+  ]
+}

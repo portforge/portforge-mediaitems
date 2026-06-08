@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nightruth - Explanation of the Paranormal - 'Yami no Tobira' (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nightruth - Explanation of the Paranormal - 'Yami no Tobira' (Japan).cue",
+      "filesize": 468,
+      "ext": "cue",
+      "checksums": {
+        "md5": "198f3412eed722a2cbf4722049e235c9",
+        "sha1": "89ef49df99896cde9b2b0c0715600f96e04a64a4",
+        "crc32": "38682a09"
+      }
+    },
+    {
+      "filename": "Nightruth - Explanation of the Paranormal - 'Yami no Tobira' (Japan) (Track 1).bin",
+      "filesize": 177742992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac7be4fa91431185cf71e76a6074176d",
+        "sha1": "d9828dfe08970df6905b1ff119298a6811b0fc36",
+        "crc32": "54ed9952"
+      }
+    },
+    {
+      "filename": "Nightruth - Explanation of the Paranormal - 'Yami no Tobira' (Japan) (Track 2).bin",
+      "filesize": 23468256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44afdbc7d6d7ae9692adf858da7b965f",
+        "sha1": "28c4300d3cc7fc46ef8a409a8ee895dbaf6e3975",
+        "crc32": "64870eea"
+      }
+    },
+    {
+      "filename": "Nightruth - Explanation of the Paranormal - 'Yami no Tobira' (Japan) (Track 3).bin",
+      "filesize": 46019232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e33841fb9fd004e8796d93bdfdbeb07",
+        "sha1": "af8227d1ecc03ef4948485d11aa0f589e4d71cb5",
+        "crc32": "04c70d72"
+      }
+    }
+  ]
+}

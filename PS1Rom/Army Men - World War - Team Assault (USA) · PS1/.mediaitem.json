@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - World War - Team Assault (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - World War - Team Assault (USA).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8faa994d304947bd8261ab1a13cb2d1",
+        "sha1": "64d6d1368e7bbf5b75fe841896919bfb6faa952e",
+        "crc32": "d24a7888"
+      }
+    },
+    {
+      "filename": "Army Men - World War - Team Assault (USA).bin",
+      "filesize": 369807312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4136cc20653aece23c8b86a9c422c09",
+        "sha1": "d41d4f206ebd459fef16e7447656b3cba8ffeacd",
+        "crc32": "d08ec300"
+      }
+    }
+  ]
+}

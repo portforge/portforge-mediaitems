@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Psygnosis '98 Interactive Demos (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Psygnosis '98 Interactive Demos (USA) (Demo).cue",
+      "filesize": 672,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c36fe875ad7f2951eb99719e213fce6e",
+        "sha1": "5b7d5e9d2d40a15be283f110cc97244e0e5815f7",
+        "crc32": "aaa53e8c"
+      }
+    },
+    {
+      "filename": "Psygnosis '98 Interactive Demos (USA) (Demo) (Track 1).bin",
+      "filesize": 361215456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cff12790cb870c7816f482efd7e6138f",
+        "sha1": "5b7c521ad07cd23e22f613f2abe58de5ac4e562a",
+        "crc32": "e7475439"
+      }
+    },
+    {
+      "filename": "Psygnosis '98 Interactive Demos (USA) (Demo) (Track 2).bin",
+      "filesize": 17896368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecdf932613d66c7cf9b2157faa9b7e64",
+        "sha1": "e45f08e2b6a34157133af25def21efa3d9d078a9",
+        "crc32": "b0b7fc09"
+      }
+    },
+    {
+      "filename": "Psygnosis '98 Interactive Demos (USA) (Demo) (Track 3).bin",
+      "filesize": 57301776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "670cda38dec148ee8edc8cf8e2ae63ed",
+        "sha1": "43ab1b265dfadd8fec7c81277c103154ab01986d",
+        "crc32": "71ebf0da"
+      }
+    },
+    {
+      "filename": "Psygnosis '98 Interactive Demos (USA) (Demo) (Track 4).bin",
+      "filesize": 17896368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecdf932613d66c7cf9b2157faa9b7e64",
+        "sha1": "e45f08e2b6a34157133af25def21efa3d9d078a9",
+        "crc32": "b0b7fc09"
+      }
+    },
+    {
+      "filename": "Psygnosis '98 Interactive Demos (USA) (Demo) (Track 5).bin",
+      "filesize": 17896368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecdf932613d66c7cf9b2157faa9b7e64",
+        "sha1": "e45f08e2b6a34157133af25def21efa3d9d078a9",
+        "crc32": "b0b7fc09"
+      }
+    }
+  ]
+}

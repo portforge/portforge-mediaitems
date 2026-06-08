@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shediao Yingxiongzhuan (Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shediao Yingxiongzhuan (Asia).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a0317d1da87f327114eed8b5f78f4f8",
+        "sha1": "b936eac48283c890f1bea3bdb19166e279f14199",
+        "crc32": "0ab17653"
+      }
+    },
+    {
+      "filename": "Shediao Yingxiongzhuan (Asia).bin",
+      "filesize": 669849600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2675c6a586e0f1685c3abd19fb9d755b",
+        "sha1": "c096b030f1c36849912dd6bc2bd8ed3a621ab0a4",
+        "crc32": "addd10d1"
+      }
+    }
+  ]
+}

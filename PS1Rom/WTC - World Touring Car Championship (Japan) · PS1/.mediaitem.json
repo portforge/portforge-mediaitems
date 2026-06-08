@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WTC - World Touring Car Championship (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WTC - World Touring Car Championship (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78cd0593460200f5182d55cc22784275",
+        "sha1": "2bab1c6e5b886244d14329a142d6a49287a017c6",
+        "crc32": "c20e4ef3"
+      }
+    },
+    {
+      "filename": "WTC - World Touring Car Championship (Japan).bin",
+      "filesize": 281588496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d252dbb8c7eebbf35539f4a09371291a",
+        "sha1": "63a3d66bcb387f66d9f6dca8f0f0cd4a655f59d6",
+        "crc32": "1e37e25b"
+      }
+    }
+  ]
+}

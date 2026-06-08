@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Indy 500 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Indy 500 (Japan) (Demo).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "792cc9c3d77c3babdbc9177a1a12f6ae",
+        "sha1": "8c206a8381e5c9c228548cb24d30873d272fa199",
+        "crc32": "86fb29bb"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Demo) (Track 1).bin",
+      "filesize": 34771968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fef999279d2b4e48f2b54a7e5b527998",
+        "sha1": "cdda6dee73fafad153dd364c9899d0672da84a12",
+        "crc32": "8821eeda"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Demo) (Track 2).bin",
+      "filesize": 55304928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5a02ab3eb6e8195b32b747c6192bba5",
+        "sha1": "0fbe60bcab88cf603ee3431b930e341019686873",
+        "crc32": "905d5907"
+      }
+    }
+  ]
+}

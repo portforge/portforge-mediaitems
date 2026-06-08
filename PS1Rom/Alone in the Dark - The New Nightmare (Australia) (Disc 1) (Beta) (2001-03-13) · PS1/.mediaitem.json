@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alone in the Dark - The New Nightmare (Australia) (Disc 1) (Beta) (2001-03-13)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alone in the Dark - The New Nightmare (Australia) (Disc 1) (Beta) (2001-03-13).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "320ed6e15509b2554adb6d2ed2a058ed",
+        "sha1": "30c1eaba4f20f2d44209fc76e52179fc4fbc2c49",
+        "crc32": "258de885"
+      }
+    },
+    {
+      "filename": "Alone in the Dark - The New Nightmare (Australia) (Disc 1) (Beta) (2001-03-13).bin",
+      "filesize": 698856816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d3d340475b176b8cbb72aa84d0c2ad5",
+        "sha1": "19d46fd0729e0e83dfbe76c7a1a7fb2edb43a514",
+        "crc32": "38974902"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Triple Play 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Triple Play 98 (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0ce861edeea9fc9c6546d8fb54d49226",
+        "sha1": "c03f53ffa2011920ab62eb2446080e7c7b8019ac",
+        "crc32": "5c97f70f"
+      }
+    },
+    {
+      "filename": "Triple Play 98 (USA).bin",
+      "filesize": 634687200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9b14702dcda968e7489ac540c73a2e8",
+        "sha1": "4def95f53fcb4bb2b2ffaec433f86834759707d4",
+        "crc32": "1e71f87b"
+      }
+    }
+  ]
+}

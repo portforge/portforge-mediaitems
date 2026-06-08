@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "First Kiss Story (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "First Kiss Story (Japan) (Disc 1).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30dd1f19ad4924800651441e504685a3",
+        "sha1": "080711cc3c5acf94169304ae7efeb94d15c0916a",
+        "crc32": "7aeee94d"
+      }
+    },
+    {
+      "filename": "First Kiss Story (Japan) (Disc 1).bin",
+      "filesize": 743549520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46d862c36d57d697d6c42bf14ca367f1",
+        "sha1": "1bf2d5d5d78a81cd78f17a0ddea8845add722633",
+        "crc32": "d62f4805"
+      }
+    }
+  ]
+}

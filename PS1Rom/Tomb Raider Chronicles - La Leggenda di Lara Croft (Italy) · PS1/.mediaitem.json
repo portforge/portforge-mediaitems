@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider Chronicles - La Leggenda di Lara Croft (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider Chronicles - La Leggenda di Lara Croft (Italy).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "42cb0997b3f1dfcf28316cd57271b2a8",
+        "sha1": "2375d16338fb16dd27f1b1baf546880ee517eaa6",
+        "crc32": "df65c7af"
+      }
+    },
+    {
+      "filename": "Tomb Raider Chronicles - La Leggenda di Lara Croft (Italy).bin",
+      "filesize": 651955584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03dce22f4766ec6f5e10e1b6ae70deb8",
+        "sha1": "1ac0d5781546c2e85352f218dde1fea28edbf186",
+        "crc32": "152e85d8"
+      }
+    }
+  ]
+}

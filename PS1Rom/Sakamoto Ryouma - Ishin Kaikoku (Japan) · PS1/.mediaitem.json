@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sakamoto Ryouma - Ishin Kaikoku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sakamoto Ryouma - Ishin Kaikoku (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c75eca18262aa97e4b2e41b4d2ed56a",
+        "sha1": "82489445445856e9c6a17e55eba151442cde2c2a",
+        "crc32": "985676f2"
+      }
+    },
+    {
+      "filename": "Sakamoto Ryouma - Ishin Kaikoku (Japan).bin",
+      "filesize": 115998288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c1e6bb20aad5e46766ce49ba8f096c5",
+        "sha1": "c1f3633f892ad5db274b8777bcebbddc17f44e6a",
+        "crc32": "21d9a329"
+      }
+    }
+  ]
+}

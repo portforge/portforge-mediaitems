@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2000 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2000 (Spain).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "12bb5e5146a8d28638c28e3d1e9968dc",
+        "sha1": "87ae2dd693b76bfc3d85ba8254cd6af980831543",
+        "crc32": "5f4b0305"
+      }
+    },
+    {
+      "filename": "NBA Live 2000 (Spain).bin",
+      "filesize": 555791712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b439d43240df9d5873f528b7d6d70055",
+        "sha1": "0b9e73348db74f430f0b4d2a7d8ea2a7eb5fef81",
+        "crc32": "367b790a"
+      }
+    }
+  ]
+}

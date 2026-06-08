@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WWF In Your House (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WWF In Your House (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69b4833612255ce03bf608dc3d603958",
+        "sha1": "8d3a5d563c8f93d7471098e8acdc00bdf362f6fc",
+        "crc32": "512f9775"
+      }
+    },
+    {
+      "filename": "WWF In Your House (Japan) (Track 1).bin",
+      "filesize": 290984736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fceeaa3832eb06fcd27ce686d885c9a",
+        "sha1": "6e0dbd99546137700c327552c3ad0ee13851aba5",
+        "crc32": "f65188ec"
+      }
+    },
+    {
+      "filename": "WWF In Your House (Japan) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

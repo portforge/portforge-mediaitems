@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tech PlayStation 97-9 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tech PlayStation 97-9 (Japan).cue",
+      "filesize": 843,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1518b7cef40ca39a17827fdc625384ba",
+        "sha1": "ae69f8d14366632544581137ca541e134150fb64",
+        "crc32": "ab428e6f"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-9 (Japan) (Track 1).bin",
+      "filesize": 624752352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77c1c05cb1a50885666b881fd2a1fb82",
+        "sha1": "5363748c97c1644eade02e38361be9fe5b476193",
+        "crc32": "12d49361"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-9 (Japan) (Track 2).bin",
+      "filesize": 10955616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2434a7ff4f82a7ef424d1e325f6f2fe",
+        "sha1": "e12bb18991a813c01ae655c7e012e35b6e8957fc",
+        "crc32": "8a2c92c0"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-9 (Japan) (Track 3).bin",
+      "filesize": 8754144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b1336cb51473cb6838b25c4b1afa496",
+        "sha1": "0cdeb4bb626be54d273363a600ab2da1df21d7a7",
+        "crc32": "a0ced86b"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-9 (Japan) (Track 4).bin",
+      "filesize": 17465952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a3dd9a54a28d3e7aa9eba04ce63fe4a",
+        "sha1": "c0e54c3bffd449827dabe05d4d420cc1fb4ae753",
+        "crc32": "82dd6df7"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-9 (Japan) (Track 5).bin",
+      "filesize": 20638800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e54b50a212ce5f0bffd81b3dab4b4dfa",
+        "sha1": "0ae38ac597d87c6b50670c1abf4681831c2222de",
+        "crc32": "70c90f37"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-9 (Japan) (Track 6).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9be857b4f69cee4be123640c809486a4",
+        "sha1": "8ac29a14010a25ff969891421762ebf3db4e1d6f",
+        "crc32": "25bdfb8b"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-9 (Japan) (Track 7).bin",
+      "filesize": 50182272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b609fbd0197aeae1348ae9d2f53e13b",
+        "sha1": "88dc616d88fb0c38bc1aa52cd14ce78485555646",
+        "crc32": "77f8dd93"
+      }
+    }
+  ]
+}

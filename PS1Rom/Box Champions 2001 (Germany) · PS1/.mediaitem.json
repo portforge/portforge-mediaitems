@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Box Champions 2001 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Box Champions 2001 (Germany).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ebc135f7ba5ded11c9df696397220931",
+        "sha1": "63a25f9516ff853fed4fba15f0696332246b9996",
+        "crc32": "6642b8f2"
+      }
+    },
+    {
+      "filename": "Box Champions 2001 (Germany).bin",
+      "filesize": 604762704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8041712cc4f8f62af311cad5335030d",
+        "sha1": "a6e49735a24c054089ad6c7e8ec49bf8ae09988e",
+        "crc32": "2bfbe76b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "007 - Demain ne Meurt Jamais (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "007 - Demain ne Meurt Jamais (France).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08d69ffed2a33f866b872871476c927f",
+        "sha1": "079196f7c1bce6e74a32db7185aa889cd40f634f",
+        "crc32": "804de764"
+      }
+    },
+    {
+      "filename": "007 - Demain ne Meurt Jamais (France).bin",
+      "filesize": 570611664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00bcb9f419b44c2f9dd8c9e89e488841",
+        "sha1": "077bddb3f832e3f2ec660634cd37b50f0d927eb9",
+        "crc32": "20d12f7b"
+      }
+    }
+  ]
+}

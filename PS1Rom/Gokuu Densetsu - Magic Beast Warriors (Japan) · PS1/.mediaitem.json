@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gokuu Densetsu - Magic Beast Warriors (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gokuu Densetsu - Magic Beast Warriors (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f95385bc55dc29f185138331c2ac60c",
+        "sha1": "243f66cb611e6e03a670aac351e01bbcecc614ed",
+        "crc32": "2db21f73"
+      }
+    },
+    {
+      "filename": "Gokuu Densetsu - Magic Beast Warriors (Japan).bin",
+      "filesize": 671347824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9fd501dcf991e7c9db5df779dff1e64",
+        "sha1": "e8da709e13ace14af485838162e533c05c03eb00",
+        "crc32": "283cc68c"
+      }
+    }
+  ]
+}

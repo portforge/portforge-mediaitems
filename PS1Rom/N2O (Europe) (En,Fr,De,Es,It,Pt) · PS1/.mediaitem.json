@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "N2O (Europe) (En,Fr,De,Es,It,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt).cue",
+      "filesize": 1379,
+      "ext": "cue",
+      "checksums": {
+        "md5": "138cfbbd9e34bbaa710e76fcd1db1c9e",
+        "sha1": "be07e0820a02c2ee7c70daba9b8da3910976ed68",
+        "crc32": "488b32bc"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 01).bin",
+      "filesize": 64202544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f84b38b86ba99a7395edc2ee1fcd0c4e",
+        "sha1": "0353ac56987456019cc0019c7c4a02f64f7b1c09",
+        "crc32": "7900b360"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 02).bin",
+      "filesize": 47261088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "226709dcb636536fac7e945328857f4d",
+        "sha1": "bed7a86fed8ede584db25e0278a47f2b5dfae9b8",
+        "crc32": "14f4bd18"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 03).bin",
+      "filesize": 47265792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9353fcb6b33fa48937523f0eda867de8",
+        "sha1": "fdb65f9aad9ac2ce166694c232c0e8edf9fdebdf",
+        "crc32": "f448aaa2"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 04).bin",
+      "filesize": 40913040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03452225683527a92e8a54c29d4653ff",
+        "sha1": "36f0dbc898a80bb2fa34c2653ea405d1e38ee91e",
+        "crc32": "91c9df43"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 05).bin",
+      "filesize": 57887424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f0edd567e0195cc393ba959d8f2b3ad",
+        "sha1": "bb45959a336cb46ce496788c014e0a8a054fe2e3",
+        "crc32": "3556c33f"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 06).bin",
+      "filesize": 44492784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a35ccb3a862fd97862775f08b2624ba",
+        "sha1": "55df90b4cc8ba54acc536fab710943946993f4fc",
+        "crc32": "3862936a"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 07).bin",
+      "filesize": 46833024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c67df1eb9eeef9738c8fde5afad27b34",
+        "sha1": "e5dde5a6ded507a302d1187bf170a6ab1fc5f7a5",
+        "crc32": "97ffb60e"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 08).bin",
+      "filesize": 45473568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c44c172429283dd9873841092338bb12",
+        "sha1": "e9c99a707727278890c2c30d6d7225eb933f3ff1",
+        "crc32": "1e06f501"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 09).bin",
+      "filesize": 51212448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c6040e3d7abd3c42bf17b69c21f7038",
+        "sha1": "ef91f8750a772111c26bea1f4b1a52447fc50c77",
+        "crc32": "6a83677a"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 10).bin",
+      "filesize": 46273248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d8f713911ffcd9e03bf8ceeef270538",
+        "sha1": "48291a18148f31dca3034e4068bd6d632864e047",
+        "crc32": "95d52691"
+      }
+    },
+    {
+      "filename": "N2O (Europe) (En,Fr,De,Es,It,Pt) (Track 11).bin",
+      "filesize": 80612448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f78ae7ee0a8b88a45cd6173e5dc54d3",
+        "sha1": "00057a3146f81fbdc32ae79ba080b1e11e78982d",
+        "crc32": "b70341bd"
+      }
+    }
+  ]
+}

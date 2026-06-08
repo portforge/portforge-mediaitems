@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Summon Night 2 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Summon Night 2 (Japan) (Disc 1).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0bf926296626b7c32e6280c7d5f278a",
+        "sha1": "f040cb14a0ba2da97fc1e43c3315ce9cd962bfec",
+        "crc32": "f36a4a0c"
+      }
+    },
+    {
+      "filename": "Summon Night 2 (Japan) (Disc 1).bin",
+      "filesize": 684015696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffb8b7acee4d61850e0e53043b617401",
+        "sha1": "da52dc19578cd25b2b35feaa8d958e510de57411",
+        "crc32": "fcd934ad"
+      }
+    }
+  ]
+}

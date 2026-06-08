@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Welcome House 2 - Keaton and His Uncle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Welcome House 2 - Keaton and His Uncle (Japan).cue",
+      "filesize": 822,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ebf1445a3559b05a6dde7c40eca2e4d",
+        "sha1": "02254b44e650c524f8ab59cbae3c43c8a7a47c28",
+        "crc32": "232f37be"
+      }
+    },
+    {
+      "filename": "Welcome House 2 - Keaton and His Uncle (Japan) (Track 1).bin",
+      "filesize": 236385408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa99387a368d1dd3b790e8cf24ade279",
+        "sha1": "efe1a597d5a61577111d228dfacd36df63304514",
+        "crc32": "73729266"
+      }
+    },
+    {
+      "filename": "Welcome House 2 - Keaton and His Uncle (Japan) (Track 2).bin",
+      "filesize": 24079776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bb40351154f760b4f59eaf31ae75c17",
+        "sha1": "974259dff12d3d75d7bcdb77a1198eed9e6ba97b",
+        "crc32": "538a8e6d"
+      }
+    },
+    {
+      "filename": "Welcome House 2 - Keaton and His Uncle (Japan) (Track 3).bin",
+      "filesize": 24721872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43ab4305dd10ed577ffd728a58eac71d",
+        "sha1": "f10399295531d76b94460222d446b73a1877dda7",
+        "crc32": "f31bf8ba"
+      }
+    },
+    {
+      "filename": "Welcome House 2 - Keaton and His Uncle (Japan) (Track 4).bin",
+      "filesize": 15796032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c62e5f69e81b5a2d5d16d726efcf4437",
+        "sha1": "4ca76f68194b5d86b02a1b975b457d6bd993aef8",
+        "crc32": "7882e169"
+      }
+    },
+    {
+      "filename": "Welcome House 2 - Keaton and His Uncle (Japan) (Track 5).bin",
+      "filesize": 17806992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b528ee81eb0dd4b643542e6f440ed592",
+        "sha1": "dc8b84105a46008042199fa4beebef4626f448f3",
+        "crc32": "592e19f6"
+      }
+    },
+    {
+      "filename": "Welcome House 2 - Keaton and His Uncle (Japan) (Track 6).bin",
+      "filesize": 33579504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcb086c38735ebc8eb4c8cdfafd0849f",
+        "sha1": "97519f17fb9bcdca449d6c18b46d9496f1ffdd45",
+        "crc32": "a84cf67d"
+      }
+    }
+  ]
+}

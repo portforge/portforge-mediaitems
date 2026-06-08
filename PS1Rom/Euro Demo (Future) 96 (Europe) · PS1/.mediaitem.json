@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo (Future) 96 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo (Future) 96 (Europe).cue",
+      "filesize": 354,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2243824d2f40eac5b1da2a5d5161686",
+        "sha1": "998693c53aacefe7b7ede87fd7e2ae457cff66f2",
+        "crc32": "5367e961"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 96 (Europe) (Track 1).bin",
+      "filesize": 546665952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f2f400e01d52fac4d0d619fce34a6fe",
+        "sha1": "271a93f9dea7c3b3fd68f916d9adf61c65f0bd31",
+        "crc32": "b32afa1f"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 96 (Europe) (Track 2).bin",
+      "filesize": 49963536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "610cf2c88cbd884579c09fd72398bfc4",
+        "sha1": "7666331338581fee297b9e0fecb48b4b6259442d",
+        "crc32": "a79f96f3"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 96 (Europe) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

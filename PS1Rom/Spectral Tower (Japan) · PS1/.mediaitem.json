@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spectral Tower (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spectral Tower (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f085b105b294862ec21d36d6fa0a449",
+        "sha1": "564a61e95024607d1856e7ff5086fb7eab88a1cb",
+        "crc32": "dd2ffb34"
+      }
+    },
+    {
+      "filename": "Spectral Tower (Japan).bin",
+      "filesize": 249697728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66a63fa142b5bb235df854a0e22af6d0",
+        "sha1": "f2b2f07529886db66b8c2cef86ec20475b253211",
+        "crc32": "7c67afce"
+      }
+    }
+  ]
+}

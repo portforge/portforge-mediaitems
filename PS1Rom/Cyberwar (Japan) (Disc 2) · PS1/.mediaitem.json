@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cyberwar (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cyberwar (Japan) (Disc 2).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef5e16ba8ecd84311b9ccf68321348fc",
+        "sha1": "7b869769f861b3265e43f1a8514680b78e87eb64",
+        "crc32": "fac75745"
+      }
+    },
+    {
+      "filename": "Cyberwar (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 639424128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4666cdc96a5c9d508fd6316fdd58afc",
+        "sha1": "be019af28ed0516a1870423209e8e852024d1d8c",
+        "crc32": "91a564bc"
+      }
+    },
+    {
+      "filename": "Cyberwar (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ecc8ec30542c5fae7d8a31e5d1b6e75",
+        "sha1": "ddf605aad53c844af620d9c2ac247db49668d0aa",
+        "crc32": "c5026e08"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Adventure of Little Ralph, The (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Adventure of Little Ralph, The (Japan) (Rev 1).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e302d9fdb02ca5f40ac1e4a01fa842c7",
+        "sha1": "320c28d257507ac7bd227d7e6911100d2b0fb5e0",
+        "crc32": "087f6236"
+      }
+    },
+    {
+      "filename": "Adventure of Little Ralph, The (Japan) (Rev 1).bin",
+      "filesize": 98454720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aad8c523462127ff751c8f30b868141b",
+        "sha1": "e76b38adf940782d9f84327bb518ecfc33602700",
+        "crc32": "3547c6e2"
+      }
+    }
+  ]
+}

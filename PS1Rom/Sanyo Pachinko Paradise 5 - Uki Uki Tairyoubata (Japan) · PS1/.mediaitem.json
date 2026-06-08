@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sanyo Pachinko Paradise 5 - Uki Uki Tairyoubata (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sanyo Pachinko Paradise 5 - Uki Uki Tairyoubata (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "671051e8ab66055dec0dd826621b22b9",
+        "sha1": "2cebeadffbb29ed40a38cbdcdf48b8927fe0c35d",
+        "crc32": "bc30b5f7"
+      }
+    },
+    {
+      "filename": "Sanyo Pachinko Paradise 5 - Uki Uki Tairyoubata (Japan).bin",
+      "filesize": 199134432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ceba2832dae7828ed1b62f44e96d66c",
+        "sha1": "09c10a1df75bd2a8a7606228596cf2202d60df90",
+        "crc32": "986ed3b5"
+      }
+    }
+  ]
+}

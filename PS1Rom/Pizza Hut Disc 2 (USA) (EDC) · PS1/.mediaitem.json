@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pizza Hut Disc 2 (USA) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pizza Hut Disc 2 (USA) (EDC).cue",
+      "filesize": 348,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df37a62423f2fb6a87fb8ff813c4c9e6",
+        "sha1": "9e5a33abd28547010ba5548e8bc681beeec42a93",
+        "crc32": "7e22e5f3"
+      }
+    },
+    {
+      "filename": "Pizza Hut Disc 2 (USA) (EDC) (Track 1).bin",
+      "filesize": 213044160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82d6f8e9300950d62b28eb9811865c18",
+        "sha1": "693e17ec50ef298549db436e03515af595991086",
+        "crc32": "59e0f535"
+      }
+    },
+    {
+      "filename": "Pizza Hut Disc 2 (USA) (EDC) (Track 2).bin",
+      "filesize": 50316336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e23f230bbe6536719cba74192324cb05",
+        "sha1": "a39deb359c16cc8881679e1c7e50376891c47df3",
+        "crc32": "62be41ad"
+      }
+    },
+    {
+      "filename": "Pizza Hut Disc 2 (USA) (EDC) (Track 3).bin",
+      "filesize": 1754592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7a378afc3b29632ccfcb662be8e0b4f",
+        "sha1": "8d8b9f6e49c3da8980e6ebc36fa64884af6c5444",
+        "crc32": "7c6c0eb5"
+      }
+    }
+  ]
+}

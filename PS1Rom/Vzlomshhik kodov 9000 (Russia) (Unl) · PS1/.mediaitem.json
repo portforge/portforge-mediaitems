@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vzlomshhik kodov 9000 (Russia) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vzlomshhik kodov 9000 (Russia) (Unl).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "194d5e0349e1e31ea06655e2fef88128",
+        "sha1": "0c3884d44d0e6770f8563cba1055d0576f2e078a",
+        "crc32": "a69f1c2d"
+      }
+    },
+    {
+      "filename": "Vzlomshhik kodov 9000 (Russia) (Unl).bin",
+      "filesize": 230053824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23aa010f714be735ef352a1610474c8a",
+        "sha1": "4d9d2868386af01cf5002ab088b54595fce78e9d",
+        "crc32": "03da089c"
+      }
+    }
+  ]
+}

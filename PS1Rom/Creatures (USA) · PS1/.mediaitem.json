@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Creatures (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Creatures (USA).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "10a2346e32f2d50fdd97c114c677cd7a",
+        "sha1": "9755f692703f4be3b42c8d1b0dc4ff5282a07577",
+        "crc32": "5c6ad968"
+      }
+    },
+    {
+      "filename": "Creatures (USA).bin",
+      "filesize": 484860096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f9f9eb7e58704ca0a03a1c6984a9e90",
+        "sha1": "75050325d0e9c4829fd2fe79c01eca578deffaed",
+        "crc32": "c2df8990"
+      }
+    }
+  ]
+}

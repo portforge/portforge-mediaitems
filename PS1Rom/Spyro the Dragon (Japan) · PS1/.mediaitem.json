@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro the Dragon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro the Dragon (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ced3986654a3e1795efea7fcb9f9f85c",
+        "sha1": "a22b96c67830dc34a769ca47cd188aae02b9f390",
+        "crc32": "931e519f"
+      }
+    },
+    {
+      "filename": "Spyro the Dragon (Japan).bin",
+      "filesize": 727179600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44de257d38977baeb883b602bf0c64e6",
+        "sha1": "01d3701c17cb8f4e3aef98fbb38c96c47e937b91",
+        "crc32": "3d55dc71"
+      }
+    }
+  ]
+}

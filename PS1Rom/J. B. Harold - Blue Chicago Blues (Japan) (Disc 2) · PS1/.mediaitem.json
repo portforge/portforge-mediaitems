@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d9db93c36ad2367d89cba870492da96",
+        "sha1": "060c57b7d02211def441bc6dccd502779fe29c4a",
+        "crc32": "0a53e912"
+      }
+    },
+    {
+      "filename": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).bin",
+      "filesize": 742575792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ddfecc2c44fb0a68d41c40ce0825e52",
+        "sha1": "952246b85bd4a316ba0c1cad1a5ec2f5de29a57d",
+        "crc32": "223c62a1"
+      }
+    }
+  ]
+}

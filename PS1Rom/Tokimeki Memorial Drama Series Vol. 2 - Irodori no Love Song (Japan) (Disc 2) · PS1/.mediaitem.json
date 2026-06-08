@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 2).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa4d599418acfda08054d279f42903cc",
+        "sha1": "8f8217b73dfc4bdbff21e9214247675b123284f6",
+        "crc32": "687d38b3"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial Drama Series Vol. 2 - Irodori no Love Song (Japan) (Disc 2).bin",
+      "filesize": 702836400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7b49ce47fbf0e118c1c192f8b7ff7e3",
+        "sha1": "2d536b0ec1f0bae12969374c63e2e627e77c69a6",
+        "crc32": "4f2e1a93"
+      }
+    }
+  ]
+}

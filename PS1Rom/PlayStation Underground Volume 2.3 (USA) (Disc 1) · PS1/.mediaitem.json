@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Volume 2.3 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Volume 2.3 (USA) (Disc 1).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd33d9502931658f12e73a70f200ed6f",
+        "sha1": "dec526791702fdf3ce3ad85fa249e393289253d1",
+        "crc32": "ed1eaa5f"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2.3 (USA) (Disc 1).bin",
+      "filesize": 718023264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d5b4e4d04162f82122a395086aae144",
+        "sha1": "0f9a2efe6a577119c31c413771523e6a94e0c6ae",
+        "crc32": "225b51c1"
+      }
+    }
+  ]
+}

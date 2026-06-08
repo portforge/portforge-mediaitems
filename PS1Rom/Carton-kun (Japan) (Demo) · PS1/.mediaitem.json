@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Carton-kun (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Carton-kun (Japan) (Demo).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94c39a370bd7d8afa740dc1732110d08",
+        "sha1": "2c6a735cd7469ef90f3535385b8800c2a302e8c5",
+        "crc32": "d19d84d9"
+      }
+    },
+    {
+      "filename": "Carton-kun (Japan) (Demo).bin",
+      "filesize": 245071344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b44ecea700dc79fb60802f866968115d",
+        "sha1": "25f2e620ba021cfab086b1e3b7e455955f644328",
+        "crc32": "203186c6"
+      }
+    }
+  ]
+}

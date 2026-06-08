@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pour l'Or et la Gloire - La Route d'Eldorado (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pour l'Or et la Gloire - La Route d'Eldorado (France).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "55c74b6072f552916be34e7fd40eb625",
+        "sha1": "916bc8217e9f29a2cfc799149727cf571568ed48",
+        "crc32": "c84fe91c"
+      }
+    },
+    {
+      "filename": "Pour l'Or et la Gloire - La Route d'Eldorado (France).bin",
+      "filesize": 534059232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0963bcbfe709d88b4eecc1a594bbc24",
+        "sha1": "521e4165739a6b578e86db5fd2d025b6efaf4d2e",
+        "crc32": "9b2e911b"
+      }
+    }
+  ]
+}

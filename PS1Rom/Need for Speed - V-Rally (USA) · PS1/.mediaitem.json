@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Need for Speed - V-Rally (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Need for Speed - V-Rally (USA).cue",
+      "filesize": 1232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8dcc4cf5de077641d723ace5ddd3d129",
+        "sha1": "4b586a92fe820bf45a5da6ba9c9d98b7a67a93cf",
+        "crc32": "69dd3cb7"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 01).bin",
+      "filesize": 133901712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9f8e3f06e23a4008f3fa861a07901fb",
+        "sha1": "5793b43cd7d26855d75bfc1261cf15a76cdc8ea4",
+        "crc32": "6bf0c9f4"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 02).bin",
+      "filesize": 22830864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c314a3cbc736cc5426c55bbf3ba261d8",
+        "sha1": "6d033bbfdc8addcb801ba75988c0a4d1d060f3a1",
+        "crc32": "e4f244a4"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 03).bin",
+      "filesize": 19495728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "848ccf87fe37135e3823d820de4de553",
+        "sha1": "913904f02366fa68a0e742ca4fe839d047fcb9be",
+        "crc32": "c040adc2"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 04).bin",
+      "filesize": 28950768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "512f97be5e7f07b2b8f2edcc96fd71e6",
+        "sha1": "099d7149eb1182f9c0d72f7a39912fe5ce094a58",
+        "crc32": "6fb40b63"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 05).bin",
+      "filesize": 17087280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5bc8cf44e75221cafef51819baa9fd1",
+        "sha1": "fa7882b7cae541d92ff96bc9f87beb434a8459e6",
+        "crc32": "74e65999"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 06).bin",
+      "filesize": 26389440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "520d9109ed31dba30818d1630953df53",
+        "sha1": "6d5b7912f0f74bac6004b5aab210af66763c8230",
+        "crc32": "96a45bc2"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 07).bin",
+      "filesize": 20443584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a2f513d4557fdb79566238d355162f4",
+        "sha1": "e3bed5fc6ec6b058214f5450fd1a9a351b9e7384",
+        "crc32": "24d85bb0"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 08).bin",
+      "filesize": 29171856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db44e485af2b50e9de958cf7dc987c4c",
+        "sha1": "771f49bc4e1afd8fd857deae7f9432d1f9328e08",
+        "crc32": "4a2cd92e"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 09).bin",
+      "filesize": 21527856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8de148d4781e3335a37dcd4134562fe7",
+        "sha1": "9cc6f8c6f0a1788800e8d3c82738f92a2dae3688",
+        "crc32": "7d9ba9bd"
+      }
+    },
+    {
+      "filename": "Need for Speed - V-Rally (USA) (Track 10).bin",
+      "filesize": 11164944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b691c1d52a287a6372656d31fcf26d4a",
+        "sha1": "f7a6f21407a6dcbbb374d8eeae400b0196624888",
+        "crc32": "71a45882"
+      }
+    }
+  ]
+}

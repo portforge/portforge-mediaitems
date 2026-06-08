@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Weltorv Estleia (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Weltorv Estleia (Japan).cue",
+      "filesize": 684,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7cbfb42c446fc724a760f6ac557f2676",
+        "sha1": "255d8c2cf5cbe587decb1a1b11000166f5b4678b",
+        "crc32": "1811ca32"
+      }
+    },
+    {
+      "filename": "Weltorv Estleia (Japan) (Track 1).bin",
+      "filesize": 196486080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b360b7ed656c881dbc99c8cf82f00f16",
+        "sha1": "beaee8bf1b7827cf6e8366e744575fc6900b6fb7",
+        "crc32": "d8d73cc7"
+      }
+    },
+    {
+      "filename": "Weltorv Estleia (Japan) (Track 2).bin",
+      "filesize": 18881856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83977cb76ecab4ecb25069a7511c939f",
+        "sha1": "e68715b7816072a4e6b256be2c05c6b6eecbec79",
+        "crc32": "04a8bb7c"
+      }
+    },
+    {
+      "filename": "Weltorv Estleia (Japan) (Track 3).bin",
+      "filesize": 13467552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3245be093c276a81e56f93678171ea39",
+        "sha1": "9e9e43e08684b38c7e3348fc4391032771bf621a",
+        "crc32": "67387024"
+      }
+    },
+    {
+      "filename": "Weltorv Estleia (Japan) (Track 4).bin",
+      "filesize": 32890368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3060c4f4be90b6a67ea7757232d39bdd",
+        "sha1": "83e582eef75f49cb35e59fe983df8499e3bc6a5e",
+        "crc32": "5edc22d1"
+      }
+    },
+    {
+      "filename": "Weltorv Estleia (Japan) (Track 5).bin",
+      "filesize": 16837968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3a32fe9457ae248c3befb2dbe0547c4",
+        "sha1": "f52a24dc0d0a728e6b0f46bd2d2bdab2f7380d43",
+        "crc32": "2d637b5e"
+      }
+    },
+    {
+      "filename": "Weltorv Estleia (Japan) (Track 6).bin",
+      "filesize": 32890368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3060c4f4be90b6a67ea7757232d39bdd",
+        "sha1": "83e582eef75f49cb35e59fe983df8499e3bc6a5e",
+        "crc32": "5edc22d1"
+      }
+    }
+  ]
+}

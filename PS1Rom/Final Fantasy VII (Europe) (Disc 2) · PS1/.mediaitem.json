@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VII (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VII (Europe) (Disc 2).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e99b53caf9c178e9077053e67464351f",
+        "sha1": "091636710b36daa2719cb8882ec920d839db760d",
+        "crc32": "c713cb61"
+      }
+    },
+    {
+      "filename": "Final Fantasy VII (Europe) (Disc 2).bin",
+      "filesize": 732655056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b469faf7e80a1d4c8b51d61472fe9207",
+        "sha1": "0244788a3e36a3e9a9c46426a904215e1d97e89b",
+        "crc32": "f6cf67cf"
+      }
+    }
+  ]
+}

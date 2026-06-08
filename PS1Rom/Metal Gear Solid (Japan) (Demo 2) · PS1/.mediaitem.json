@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Japan) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Japan) (Demo 2).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad3e66cc23cddbf95333bd940d525ede",
+        "sha1": "a8eae3f4f7a4be25748c731f6cbfe2f64f1e0744",
+        "crc32": "f0ef9924"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Japan) (Demo 2).bin",
+      "filesize": 331662576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd846d1e45ac89025f40916348c2b1c2",
+        "sha1": "bbf991f74c36b2f587e09bd3b54da94963708c0e",
+        "crc32": "df7615b2"
+      }
+    }
+  ]
+}

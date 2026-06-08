@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gensou Suikoden II (Japan, Asia) (Demo) (Premium Package)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gensou Suikoden II (Japan, Asia) (Demo) (Premium Package).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d4326806819112ae06a31169989da25",
+        "sha1": "d322604851d025769e0a2035d4a54d59d7824f8e",
+        "crc32": "20e88301"
+      }
+    },
+    {
+      "filename": "Gensou Suikoden II (Japan, Asia) (Demo) (Premium Package).bin",
+      "filesize": 225474480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c55b7888dee7b6c471d25a0000c4dc32",
+        "sha1": "26e7b5b687d19f6ffb5df8d092cd6407bfd2e251",
+        "crc32": "4e9c3eae"
+      }
+    }
+  ]
+}

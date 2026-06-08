@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Arms - 2nd Ignition (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Arms - 2nd Ignition (Japan) (Disc 1).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a1c9be773f25e9658fa0103bde72e49",
+        "sha1": "a5ed190a5d4109e6a35f4583a543d926e7af9eb3",
+        "crc32": "e4b9592e"
+      }
+    },
+    {
+      "filename": "Wild Arms - 2nd Ignition (Japan) (Disc 1).bin",
+      "filesize": 518844144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fba80b1ad117100bc6ec5b109db7102",
+        "sha1": "8256b8ca85fade075877145a36f2989c48866470",
+        "crc32": "0a3e812b"
+      }
+    }
+  ]
+}

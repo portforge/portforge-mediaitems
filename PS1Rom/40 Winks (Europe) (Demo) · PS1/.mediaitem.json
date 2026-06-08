@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "40 Winks (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "40 Winks (Europe) (Demo).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1135b5ab854565b8e1945344f3329af4",
+        "sha1": "13baf191b3e859aeec99558a7e821f58b82fbddf",
+        "crc32": "b254247f"
+      }
+    },
+    {
+      "filename": "40 Winks (Europe) (Demo).bin",
+      "filesize": 201604032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cc3b6a9da221230fb8cea79e7704782",
+        "sha1": "8094ce1df453de43b859a75ab443aff77451f527",
+        "crc32": "284dcd3a"
+      }
+    }
+  ]
+}

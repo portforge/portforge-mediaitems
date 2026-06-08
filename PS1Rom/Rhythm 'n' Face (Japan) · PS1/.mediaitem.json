@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rhythm 'n' Face (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rhythm 'n' Face (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b81e2d7fd1be69aa529e6bf6a0da19a",
+        "sha1": "b56d05a9c89031477eb1a5b3e4bf290354eeb522",
+        "crc32": "fa7007e7"
+      }
+    },
+    {
+      "filename": "Rhythm 'n' Face (Japan).bin",
+      "filesize": 713554464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa93f22497c1a408e6818023465b3cae",
+        "sha1": "c29c1abc69ce88ec3187182f9eca5e046ba1d97b",
+        "crc32": "8af0eb71"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sheep, Dog 'n' Wolf - Interactive Demo (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sheep, Dog 'n' Wolf - Interactive Demo (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b205fcd8405d04c568371d30ba6edead",
+        "sha1": "3d0f7d990ec0cb2e2b12e921cbeb0c84004054fe",
+        "crc32": "15d6fd0f"
+      }
+    },
+    {
+      "filename": "Sheep, Dog 'n' Wolf - Interactive Demo (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 205153200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ac7c84a69cc31b4fba6ccd3591d4c05",
+        "sha1": "4a608329fe6ae1d765770934c1dea09d434e607c",
+        "crc32": "dec2a26d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heart of Darkness (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heart of Darkness (Spain) (Disc 2).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce7a87354dd5d895169157e3d611f539",
+        "sha1": "fbdc383b69bde79a1e326c84cbb2df0523e0c57e",
+        "crc32": "f00a4b4d"
+      }
+    },
+    {
+      "filename": "Heart of Darkness (Spain) (Disc 2).bin",
+      "filesize": 730406544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44d59c6783bbca99845b11fa6627d3ff",
+        "sha1": "4e65f3bda0944f96b1e24d5c7b77573be63591dd",
+        "crc32": "74b07026"
+      }
+    }
+  ]
+}

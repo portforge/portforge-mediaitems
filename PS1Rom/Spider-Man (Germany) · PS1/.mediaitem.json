@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider-Man (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider-Man (Germany).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f4f5da75a145d856b73aab60fa7c082",
+        "sha1": "2076539b7bdc479d135b930744fca48742709595",
+        "crc32": "9bc17f1d"
+      }
+    },
+    {
+      "filename": "Spider-Man (Germany).bin",
+      "filesize": 718507776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36bb178beb7312843a6823725ca7a224",
+        "sha1": "14c60da1f82b84c5674d46c26f343f0aa7f3060c",
+        "crc32": "3552d374"
+      }
+    }
+  ]
+}

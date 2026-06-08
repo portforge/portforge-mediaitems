@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Persona (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Persona (USA).cue",
+      "filesize": 79,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f7ba5f741777dbf5e0aad871d14a123",
+        "sha1": "2715c8946237358a03e31d2d85d39b4fe33df641",
+        "crc32": "c3f37299"
+      }
+    },
+    {
+      "filename": "Persona (USA).bin",
+      "filesize": 707025312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68f15ea04a0d612082ba50e52c0e7432",
+        "sha1": "3e7d8019a3191a29a48bb9d574cf05b1bc998c06",
+        "crc32": "ee1f1f62"
+      }
+    }
+  ]
+}

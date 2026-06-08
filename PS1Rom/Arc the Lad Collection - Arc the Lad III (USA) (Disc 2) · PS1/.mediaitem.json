@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arc the Lad Collection - Arc the Lad III (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arc the Lad Collection - Arc the Lad III (USA) (Disc 2).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a6c8e014f8a9fef67f902cf44b0fc68",
+        "sha1": "3792ef60138673cc001b53614360255bb366e496",
+        "crc32": "7cbb3781"
+      }
+    },
+    {
+      "filename": "Arc the Lad Collection - Arc the Lad III (USA) (Disc 2).bin",
+      "filesize": 731972976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f957f526e8a45255c687bec8a8459541",
+        "sha1": "e138bec408d7ae8230c63777c44114712e8f99bc",
+        "crc32": "6d64aa1c"
+      }
+    }
+  ]
+}

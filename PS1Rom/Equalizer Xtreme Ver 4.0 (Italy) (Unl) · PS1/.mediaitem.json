@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Equalizer Xtreme Ver 4.0 (Italy) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Equalizer Xtreme Ver 4.0 (Italy) (Unl).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1cc04d53c9e228407959e7d9fff4d90b",
+        "sha1": "33124d8e49be926f9c29d1f1e009cd211fc1a8b8",
+        "crc32": "abff8067"
+      }
+    },
+    {
+      "filename": "Equalizer Xtreme Ver 4.0 (Italy) (Unl).bin",
+      "filesize": 97657392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b71c133e4edaad7e1eb6c43fd23e0463",
+        "sha1": "0f4ecc3d2109f90f185c6ebbd969d096e6fe599c",
+        "crc32": "064b4f4f"
+      }
+    }
+  ]
+}

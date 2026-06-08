@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Namco Anthology 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Namco Anthology 2 (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0d910d2296f883cecaa6e40c9349132",
+        "sha1": "5755a91a66d0b6bf5b7578f1430011a310a1a9be",
+        "crc32": "1641653b"
+      }
+    },
+    {
+      "filename": "Namco Anthology 2 (Japan).bin",
+      "filesize": 439033728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12dc4f4d36bfc589a79a551397226a86",
+        "sha1": "c4e2ec6e1e1e247b3d0dafe905ac5a2122e4cace",
+        "crc32": "56ccb058"
+      }
+    }
+  ]
+}

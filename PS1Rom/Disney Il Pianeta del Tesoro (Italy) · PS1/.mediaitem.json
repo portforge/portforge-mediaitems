@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Il Pianeta del Tesoro (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Il Pianeta del Tesoro (Italy).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bfd3d7c6e773e7e2da5e0d112e95ae3b",
+        "sha1": "6d6d8670840f3a3993424afdad0b37b9d66e5b95",
+        "crc32": "4e0dfe56"
+      }
+    },
+    {
+      "filename": "Disney Il Pianeta del Tesoro (Italy).bin",
+      "filesize": 456836016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "494f57647756492344ed90e4cb87e669",
+        "sha1": "a4d645bf3d01ff6d4241836f35da05ecdd1e3365",
+        "crc32": "e3ba4d9a"
+      }
+    }
+  ]
+}

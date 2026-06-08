@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Sarge's Heroes (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Sarge's Heroes (Italy).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7114e02ae8c5083579582c1c66dd423e",
+        "sha1": "e298c59b16713c2b6b9e26c0f01b36e611263815",
+        "crc32": "6600be6d"
+      }
+    },
+    {
+      "filename": "Army Men - Sarge's Heroes (Italy).bin",
+      "filesize": 701093568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ead21d69f7d7d149afaf604ec4d72010",
+        "sha1": "7ef625e62192751f9b5ce1c69e6baec335b560ff",
+        "crc32": "df2fe69c"
+      }
+    }
+  ]
+}

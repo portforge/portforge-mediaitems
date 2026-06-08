@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Affect Taikenban Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Affect Taikenban Vol. 1 (Japan).cue",
+      "filesize": 357,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f59e6f420292b94485739049dab54476",
+        "sha1": "4001783124d68c97748ebc3836a99ddf8c12f525",
+        "crc32": "febf3be0"
+      }
+    },
+    {
+      "filename": "Affect Taikenban Vol. 1 (Japan) (Track 1).bin",
+      "filesize": 455528304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01ecc9b3d54772c051515959b943d10b",
+        "sha1": "e59a93cca6bb46b14430709773d5e492d4d0608f",
+        "crc32": "4eeb3dc3"
+      }
+    },
+    {
+      "filename": "Affect Taikenban Vol. 1 (Japan) (Track 2).bin",
+      "filesize": 111637680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50d2a489acd35693a46117e9a3b5fec2",
+        "sha1": "502462ed99ec33e25216a9bf888094c58db4eb6d",
+        "crc32": "84d4a5ba"
+      }
+    },
+    {
+      "filename": "Affect Taikenban Vol. 1 (Japan) (Track 3).bin",
+      "filesize": 32109504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eebc5927d7afe9ce8ac003e7f37fbe93",
+        "sha1": "0bd43fbb148a3c048a59411b4f7633aa27e7280d",
+        "crc32": "d6082695"
+      }
+    }
+  ]
+}

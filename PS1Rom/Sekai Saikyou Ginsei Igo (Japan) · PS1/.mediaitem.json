@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sekai Saikyou Ginsei Igo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sekai Saikyou Ginsei Igo (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6dbd25c7ad25718560b55afe5aacd3e6",
+        "sha1": "b3b6e37862a3affe489cbe83cb1d129cf752b858",
+        "crc32": "a58d3b22"
+      }
+    },
+    {
+      "filename": "Sekai Saikyou Ginsei Igo (Japan).bin",
+      "filesize": 38695104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05f6f3195daea7f58918997a2d30de2f",
+        "sha1": "b8f961f35da3bddc6fb12bfaad358a54ba747f1c",
+        "crc32": "0a3d3beb"
+      }
+    }
+  ]
+}

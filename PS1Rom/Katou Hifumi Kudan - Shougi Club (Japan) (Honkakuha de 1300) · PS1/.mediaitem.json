@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Katou Hifumi Kudan - Shougi Club (Japan) (Honkakuha de 1300)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Katou Hifumi Kudan - Shougi Club (Japan) (Honkakuha de 1300).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c92359541d1994034369bba8afd374c7",
+        "sha1": "e8240d5188ac0182df4157200f945c6502fcf76b",
+        "crc32": "071561b6"
+      }
+    },
+    {
+      "filename": "Katou Hifumi Kudan - Shougi Club (Japan) (Honkakuha de 1300).bin",
+      "filesize": 50725584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e44c0511716776888097b27bbf423d69",
+        "sha1": "c5d897a7c86db5ebd5662c82d5093c5a63da6629",
+        "crc32": "e7820abb"
+      }
+    }
+  ]
+}

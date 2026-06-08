@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BattleTanx - Global Assault (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BattleTanx - Global Assault (Europe) (En,Fr,De).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17715f5ed9e054c980cc986b8944526c",
+        "sha1": "5432ec8b5a36ca3960ee6d2ad9d69101608b536e",
+        "crc32": "374654a0"
+      }
+    },
+    {
+      "filename": "BattleTanx - Global Assault (Europe) (En,Fr,De).bin",
+      "filesize": 629305824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ed924045fffd1783843d1002a74ee1d",
+        "sha1": "e35035b34b3c9d34d05498ba4259b0c48123a755",
+        "crc32": "28a01e28"
+      }
+    }
+  ]
+}

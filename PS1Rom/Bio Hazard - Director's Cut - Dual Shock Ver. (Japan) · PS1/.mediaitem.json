@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bio Hazard - Director's Cut - Dual Shock Ver. (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bio Hazard - Director's Cut - Dual Shock Ver. (Japan).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4295a3d345dea9a98755fff6674b0c17",
+        "sha1": "ed3b9b96755556844641c56a1ef115b578c34cde",
+        "crc32": "61b3cb5f"
+      }
+    },
+    {
+      "filename": "Bio Hazard - Director's Cut - Dual Shock Ver. (Japan) (Track 1).bin",
+      "filesize": 704090016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fea8950fe223fd30c3a42604a280d2a7",
+        "sha1": "395f1def400d3cfc01e5c4bf247e1ca469c031df",
+        "crc32": "1ba5b941"
+      }
+    },
+    {
+      "filename": "Bio Hazard - Director's Cut - Dual Shock Ver. (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

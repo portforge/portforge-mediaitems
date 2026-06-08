@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nightmare Creatures (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nightmare Creatures (USA) (Demo).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e89d9cff98968b2d1f9681c850684e66",
+        "sha1": "c0bec2ec2861088040ea72601b290395016d2dc1",
+        "crc32": "6418ee44"
+      }
+    },
+    {
+      "filename": "Nightmare Creatures (USA) (Demo) (Track 1).bin",
+      "filesize": 74337312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1cc9e037b965500b8dda7c575b0fa89",
+        "sha1": "0a4efec679e900abf4b7792b38e3a76acea8c3e7",
+        "crc32": "27bb4eab"
+      }
+    },
+    {
+      "filename": "Nightmare Creatures (USA) (Demo) (Track 2).bin",
+      "filesize": 59265696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a14867e289f9c78d5529b160bcb84ab",
+        "sha1": "7a3720d39ef2eec34141d19b9dc95e69cbecd57a",
+        "crc32": "fd2c5818"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pax Corpus (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De).cue",
+      "filesize": 1232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "807cb438794f08de17481a9c01fc1cce",
+        "sha1": "e07d7569794a356082e9e34aeadbed6625e7d666",
+        "crc32": "9ff9d57d"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 01).bin",
+      "filesize": 454822704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70666a891137e4e09fe7cab74954dee6",
+        "sha1": "895afaa4966c15755443808b954314e8c4bf18bf",
+        "crc32": "6ba2223f"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 02).bin",
+      "filesize": 28428624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c709de39e0f6a4849c1bfbb84878f1cf",
+        "sha1": "51e7527c3ffab1afe7a98f12bd0c6c03d7945499",
+        "crc32": "b2854170"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 03).bin",
+      "filesize": 26549376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92d618558535e22b58bf8e397d80d129",
+        "sha1": "399d35167d4914ed2457d5bcefe54a9f8a6e42bf",
+        "crc32": "496df397"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 04).bin",
+      "filesize": 35670432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "472a993e44cfbdef0b6d967f245323cc",
+        "sha1": "d75a7796cae499e5d373aabd7d01e01e659ba7fd",
+        "crc32": "f030a7fe"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 05).bin",
+      "filesize": 27570144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b11385089fd272346fc277127994b0a2",
+        "sha1": "8692e138a351725aa43275c73cfe43a749f7a303",
+        "crc32": "f803c8cc"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 06).bin",
+      "filesize": 35503440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1c47c445adfe23c29679c0ee0eb6ea2",
+        "sha1": "ef20166ca9b40abcc7caabeee9edd86d20b4db17",
+        "crc32": "a8f55a34"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 07).bin",
+      "filesize": 25542720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b57377fd45d0454a341e6f372b2b1cdb",
+        "sha1": "bbc0e94b5eaa88f80389dcac54add165832777c1",
+        "crc32": "5e06995d"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 08).bin",
+      "filesize": 33160848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6bf4f7ea6d7b82edb7369526adc50d7",
+        "sha1": "243f61ae1b86b6e2da2bfd63e55e9459c6061d6a",
+        "crc32": "4c293c42"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 09).bin",
+      "filesize": 30154992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "799446d256e803862827e2ab2fd7c259",
+        "sha1": "d06ff548e5a20bc024b8025c4737b9dd7bd288e8",
+        "crc32": "e4515ddd"
+      }
+    },
+    {
+      "filename": "Pax Corpus (Europe) (En,Fr,De) (Track 10).bin",
+      "filesize": 33160848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6bf4f7ea6d7b82edb7369526adc50d7",
+        "sha1": "243f61ae1b86b6e2da2bfd63e55e9459c6061d6a",
+        "crc32": "4c293c42"
+      }
+    }
+  ]
+}

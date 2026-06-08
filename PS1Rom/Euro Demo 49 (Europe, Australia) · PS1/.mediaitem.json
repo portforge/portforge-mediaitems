@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 49 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 49 (Europe, Australia).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8a09855b05299e5b30296ae8067b4ad3",
+        "sha1": "22087d8a619b453dafdfcf4e6a75800e5a7f887c",
+        "crc32": "f7ae583f"
+      }
+    },
+    {
+      "filename": "Euro Demo 49 (Europe, Australia).bin",
+      "filesize": 449932896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29a6ac455de88ab1bbd4f05476fb490e",
+        "sha1": "d61fb2222b7586a897e1fc832d02d5d1ce7ef75d",
+        "crc32": "8e8c8e91"
+      }
+    }
+  ]
+}

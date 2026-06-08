@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oddworld - L'Exode d'Abe (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oddworld - L'Exode d'Abe (France) (Disc 1).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73c7d2bfefcaa443f49100acfdaf5b0b",
+        "sha1": "80f06684c93db52c589a7198ada58c8fa483674f",
+        "crc32": "1a83505d"
+      }
+    },
+    {
+      "filename": "Oddworld - L'Exode d'Abe (France) (Disc 1).bin",
+      "filesize": 616489776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22ecdf007c79dda07ff57d210fa34804",
+        "sha1": "2aaf308808a1473cb64cd83ef4f7d55a0fe069cc",
+        "crc32": "386db417"
+      }
+    }
+  ]
+}

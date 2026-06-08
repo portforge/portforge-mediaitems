@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sven-Goeran Eriksson's World Challenge (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sven-Goeran Eriksson's World Challenge (Europe).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9943933ca7941324b46031486df1c5ef",
+        "sha1": "4f2c8fa358241efe0205ee5939a6c44cc7994f34",
+        "crc32": "749bb53f"
+      }
+    },
+    {
+      "filename": "Sven-Goeran Eriksson's World Challenge (Europe).bin",
+      "filesize": 107234736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9364294217e2b51ca76498620568cd45",
+        "sha1": "8dd0dccb94365a10a74291e084d89bbcfc9f3e85",
+        "crc32": "00424cb6"
+      }
+    }
+  ]
+}

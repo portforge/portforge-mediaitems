@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 100 - The Uchuu Hikoushi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 100 - The Uchuu Hikoushi (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "97093c173c55d5d5376c7edfc14e5511",
+        "sha1": "0ef2148316f5e4b1b2cce8927d2c06eb2aec2541",
+        "crc32": "26e4749e"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 100 - The Uchuu Hikoushi (Japan).bin",
+      "filesize": 70350672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e7025b2a20cc703b3edfb3a9fb5a6e5",
+        "sha1": "c91b2874c0b6a6d8dc07486b1c1ec9aec0e57f1b",
+        "crc32": "bff1b809"
+      }
+    }
+  ]
+}

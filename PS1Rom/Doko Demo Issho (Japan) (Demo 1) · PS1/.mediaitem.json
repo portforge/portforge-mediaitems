@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doko Demo Issho (Japan) (Demo 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doko Demo Issho (Japan) (Demo 1).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "91eb26a550b6b815c9820d267a272729",
+        "sha1": "5193cb7d4bfe612d8e7aacab40dfe91919654940",
+        "crc32": "ff22dbf6"
+      }
+    },
+    {
+      "filename": "Doko Demo Issho (Japan) (Demo 1).bin",
+      "filesize": 133040880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ac9a4a781b3ca70f8348b821e435a43",
+        "sha1": "93c7ce929b5f415e39a5a3f9e6230701e086f7bf",
+        "crc32": "d6ff7dd0"
+      }
+    }
+  ]
+}

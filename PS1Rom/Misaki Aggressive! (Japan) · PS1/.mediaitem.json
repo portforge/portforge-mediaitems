@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Misaki Aggressive! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Misaki Aggressive! (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3364eb47fed071d760facecf132c431",
+        "sha1": "924a2218feb7199e2f4dbca5c1526b8e28f8e6bc",
+        "crc32": "6dfa58d8"
+      }
+    },
+    {
+      "filename": "Misaki Aggressive! (Japan).bin",
+      "filesize": 621405456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61683941000890fcf4302114beb0f032",
+        "sha1": "afc2c60f30f13a4f6cbca248765aaed8e9b3e03d",
+        "crc32": "d81b8a74"
+      }
+    }
+  ]
+}

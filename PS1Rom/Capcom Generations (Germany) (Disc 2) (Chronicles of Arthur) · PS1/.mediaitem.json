@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Capcom Generations (Germany) (Disc 2) (Chronicles of Arthur)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Capcom Generations (Germany) (Disc 2) (Chronicles of Arthur).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4a13b414d47f31e15ac9c952edc5ae1",
+        "sha1": "9b469293d4ae2e4b1a062e8dac6a67b77e18ea17",
+        "crc32": "9708864e"
+      }
+    },
+    {
+      "filename": "Capcom Generations (Germany) (Disc 2) (Chronicles of Arthur).bin",
+      "filesize": 534033360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d45b7e56be452345c5d7149d2dfa9df",
+        "sha1": "55101b5f7a144d2b0106b9bbb93bbff20ac55252",
+        "crc32": "90161f22"
+      }
+    }
+  ]
+}

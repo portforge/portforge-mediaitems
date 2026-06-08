@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Natsuiro Kenjutsu Komachi (Japan) (Disc 1) (Shokai Gentei Seisanban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Natsuiro Kenjutsu Komachi (Japan) (Disc 1) (Shokai Gentei Seisanban).cue",
+      "filesize": 306,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54b76c321df24a23f709b13707b1ec3d",
+        "sha1": "c5d589fe3b955663f3c5b521f0f0c55297673873",
+        "crc32": "a309e87c"
+      }
+    },
+    {
+      "filename": "Natsuiro Kenjutsu Komachi (Japan) (Disc 1) (Shokai Gentei Seisanban) (Track 1).bin",
+      "filesize": 572131056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "176c0f529e6b5fd4991c8e6b0ff88447",
+        "sha1": "33d28c277a56988d5efdb099bc2d210077aaa055",
+        "crc32": "e33bf9e9"
+      }
+    },
+    {
+      "filename": "Natsuiro Kenjutsu Komachi (Japan) (Disc 1) (Shokai Gentei Seisanban) (Track 2).bin",
+      "filesize": 34303920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8893657e397f946b31779dac878cd10",
+        "sha1": "12c54070d5618ae0397a6c81a1791f412f77a612",
+        "crc32": "654e33fe"
+      }
+    }
+  ]
+}

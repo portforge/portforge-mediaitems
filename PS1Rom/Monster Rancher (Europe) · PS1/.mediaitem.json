@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monster Rancher (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monster Rancher (Europe).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4367a61cc2c0d3ed3aa067b010e3a69",
+        "sha1": "fb745ac3700902e45c6ad6f7e5498d9935bb8a8f",
+        "crc32": "1889d82f"
+      }
+    },
+    {
+      "filename": "Monster Rancher (Europe).bin",
+      "filesize": 452814096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f9e793c575b2b4cfe1541bf5a56cde9",
+        "sha1": "f331527109af98b65e64c03aba7559e67db372d5",
+        "crc32": "f894b693"
+      }
+    }
+  ]
+}

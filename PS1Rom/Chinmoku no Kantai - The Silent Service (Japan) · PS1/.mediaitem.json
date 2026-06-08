@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chinmoku no Kantai - The Silent Service (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chinmoku no Kantai - The Silent Service (Japan).cue",
+      "filesize": 833,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f703ec49fcf3ee9ed19b978167817c39",
+        "sha1": "dfe4f4c6f89bced758f64ea83124b39de04f43fb",
+        "crc32": "406b27b9"
+      }
+    },
+    {
+      "filename": "Chinmoku no Kantai - The Silent Service (Japan) (Track 1).bin",
+      "filesize": 567996240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a52b3aae96584b01a1becd57f984eaf",
+        "sha1": "dcf1770f4cb01b8dd19d4348d717e542e53f9a11",
+        "crc32": "66f08f21"
+      }
+    },
+    {
+      "filename": "Chinmoku no Kantai - The Silent Service (Japan) (Track 2).bin",
+      "filesize": 28842576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee4f27ed801088e6e06949202e40e1eb",
+        "sha1": "be0efecaa159405048338192dc897694b85055c2",
+        "crc32": "41e1cd11"
+      }
+    },
+    {
+      "filename": "Chinmoku no Kantai - The Silent Service (Japan) (Track 3).bin",
+      "filesize": 44989056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec8a37b10bf6d2d992209a11ba4f1be6",
+        "sha1": "4fcdd7d4add668068078239093c0e66f32f622bf",
+        "crc32": "4f844948"
+      }
+    },
+    {
+      "filename": "Chinmoku no Kantai - The Silent Service (Japan) (Track 4).bin",
+      "filesize": 51160704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cc1e57b728148604d86adc442a7a6bf",
+        "sha1": "ccf5299dd3a946f46c2a1af46a0debb2e6a59b47",
+        "crc32": "13487bf5"
+      }
+    },
+    {
+      "filename": "Chinmoku no Kantai - The Silent Service (Japan) (Track 5).bin",
+      "filesize": 52134432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73bc98fe4bc11729eb3cc4ccc7a38c66",
+        "sha1": "939c31f5561b39aa759427ac23f003e6821b63d6",
+        "crc32": "6e00bcd3"
+      }
+    },
+    {
+      "filename": "Chinmoku no Kantai - The Silent Service (Japan) (Track 6).bin",
+      "filesize": 2107392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44b43155180d06ccc86f08427797dcc9",
+        "sha1": "8e66779c4132dd9ca6d712911c2d2b0fe431b7d0",
+        "crc32": "498ec945"
+      }
+    }
+  ]
+}

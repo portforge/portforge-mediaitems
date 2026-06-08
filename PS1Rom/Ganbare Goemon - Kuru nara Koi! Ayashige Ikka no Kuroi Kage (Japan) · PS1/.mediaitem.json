@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ganbare Goemon - Kuru nara Koi! Ayashige Ikka no Kuroi Kage (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ganbare Goemon - Kuru nara Koi! Ayashige Ikka no Kuroi Kage (Japan).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0dc8e82a48495055800bcd7f7e1c5c56",
+        "sha1": "3b3d40a51a4c55cde0cac142edc50a346f17e17e",
+        "crc32": "cb053b40"
+      }
+    },
+    {
+      "filename": "Ganbare Goemon - Kuru nara Koi! Ayashige Ikka no Kuroi Kage (Japan).bin",
+      "filesize": 400750224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b498fabf290394d1e6f2e949942ef05d",
+        "sha1": "19cf17fab427f416f315babaef817ca4f5d0a590",
+        "crc32": "f70c9728"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crazy Climber 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crazy Climber 2000 (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc0f3228383d466c68a7925bde14f89d",
+        "sha1": "313e76b72674755c65c6b0040382d6f2b49c83ea",
+        "crc32": "47379101"
+      }
+    },
+    {
+      "filename": "Crazy Climber 2000 (Japan).bin",
+      "filesize": 201352368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b9182d34fcf850748fc66af7f6e4134",
+        "sha1": "ca0db94aa6e57c0122074ee15894cbab2085b36c",
+        "crc32": "6829ff6a"
+      }
+    }
+  ]
+}

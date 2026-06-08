@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Three (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Three (UK) (Unl).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ddee217d867e9fc0484777567b489c9c",
+        "sha1": "309af9e564e86d0cac0d9d732d1599d695e1c680",
+        "crc32": "6a5cebd1"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Three (UK) (Unl).bin",
+      "filesize": 413982576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54aad405cd745ff2642e92a568e2458a",
+        "sha1": "3823764e6960e3e10301d97c736737e74c9b9617",
+        "crc32": "03a4d7f4"
+      }
+    }
+  ]
+}

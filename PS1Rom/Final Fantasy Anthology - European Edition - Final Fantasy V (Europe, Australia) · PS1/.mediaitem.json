@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Anthology - European Edition - Final Fantasy V (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Anthology - European Edition - Final Fantasy V (Europe, Australia).cue",
+      "filesize": 146,
+      "ext": "cue",
+      "checksums": {
+        "md5": "531c2b696721963bd25f881d022b2d63",
+        "sha1": "d3160d1e1c0ac276c12b079621dfec26b0e4dd59",
+        "crc32": "da09d900"
+      }
+    },
+    {
+      "filename": "Final Fantasy Anthology - European Edition - Final Fantasy V (Europe, Australia).bin",
+      "filesize": 252600096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3872b8caa22abb451ab81e6cebce53ce",
+        "sha1": "10c00f337ba69c5905de34af6fae3d92fd1f1a4a",
+        "crc32": "8d571c30"
+      }
+    }
+  ]
+}

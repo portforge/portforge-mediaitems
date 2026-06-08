@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Scrabble (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Scrabble (USA).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "879154795d7f0792c3682f700bef4f71",
+        "sha1": "5bd577bbe7adc55bd3b05b395d7e8a077460d8db",
+        "crc32": "1c4ebe37"
+      }
+    },
+    {
+      "filename": "Scrabble (USA).bin",
+      "filesize": 66580416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98a38a27ee4a04aea0246b6c3fe76073",
+        "sha1": "9fff5f9d9f3994d901afc680a9389d37c76266c2",
+        "crc32": "bbb58b8f"
+      }
+    }
+  ]
+}

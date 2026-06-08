@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kimi no Kimochi, Boku no Kokoro - I've Possessed Your Body! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kimi no Kimochi, Boku no Kokoro - I've Possessed Your Body! (Japan).cue",
+      "filesize": 304,
+      "ext": "cue",
+      "checksums": {
+        "md5": "634a1dffc208fc0fabd3205b4e479fa6",
+        "sha1": "d826bbac6e4114240409231b035fe06a8ad7d702",
+        "crc32": "ade74e99"
+      }
+    },
+    {
+      "filename": "Kimi no Kimochi, Boku no Kokoro - I've Possessed Your Body! (Japan) (Track 1).bin",
+      "filesize": 679330512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d7ae83df14be37031266bc0d829f81a",
+        "sha1": "d0c25faab9df690c89cd35f291bc964fcfc4eacc",
+        "crc32": "39d1c932"
+      }
+    },
+    {
+      "filename": "Kimi no Kimochi, Boku no Kokoro - I've Possessed Your Body! (Japan) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

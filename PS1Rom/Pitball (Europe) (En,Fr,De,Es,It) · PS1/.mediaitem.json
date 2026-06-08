@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pitball (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 1262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "36ed9b68e3309b97ef2bd77eb35e53a3",
+        "sha1": "cc88796cc55878816a35173c7a4364c1dfa91447",
+        "crc32": "c553a38f"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 01).bin",
+      "filesize": 480066720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de710475f591dd7aed35d8c6f4066eb8",
+        "sha1": "289b223dd84199a798a225201fbdb6af5bf98fab",
+        "crc32": "47cd79c2"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 02).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5eb814aca3d506de76b1b1654fe6c0fc",
+        "sha1": "23690850299eb6c9a5924a362e540913a8275e65",
+        "crc32": "e12467b0"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 03).bin",
+      "filesize": 7766304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af650ad5890415b64a3ac3310c28aa8b",
+        "sha1": "6fb8a9f62c50cca142547b4c83ef3e42e552b8f4",
+        "crc32": "d47a62d0"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 04).bin",
+      "filesize": 57793344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2313392a0b4901f855e1cee69dbce12d",
+        "sha1": "c5ac2166e8b9cdd096cc45352531417c94c4d24a",
+        "crc32": "1ff6acb4"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 05).bin",
+      "filesize": 23329488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "795280d66a961dd0058ab094e0349532",
+        "sha1": "f17693f8038e75589932879800dbb0adbc099fc9",
+        "crc32": "09ad1131"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 06).bin",
+      "filesize": 25293408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77e1a2d0919e15818151f938e059b805",
+        "sha1": "acc1af0315905b47d1fb54b28204d842e73b21e8",
+        "crc32": "3a09b29e"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 07).bin",
+      "filesize": 31596768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "491e17c7ab216dafdc47bad28d87af40",
+        "sha1": "f612c632d5408b247d5c757027a39a33d48933d8",
+        "crc32": "2a49adc7"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 08).bin",
+      "filesize": 22082928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "240b18d217afeef7734a27ef019db9e2",
+        "sha1": "2bdfe51516ea5050ba49cf04852a301a23685312",
+        "crc32": "ebb28cdf"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 09).bin",
+      "filesize": 21043344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e814aacc4859aa09297ccf7539935e89",
+        "sha1": "7a1196ad034af59e3f3f3e6f427dba62bff62109",
+        "crc32": "000a5d05"
+      }
+    },
+    {
+      "filename": "Pitball (Europe) (En,Fr,De,Es,It) (Track 10).bin",
+      "filesize": 32457600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec466952ebaf452c16abec91a7286c4f",
+        "sha1": "c03dc65803398b4243d4d5b4349218a88a5d8231",
+        "crc32": "f9d3e278"
+      }
+    }
+  ]
+}

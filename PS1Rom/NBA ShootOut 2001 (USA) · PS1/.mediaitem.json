@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA ShootOut 2001 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA ShootOut 2001 (USA).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95276bd0022512c5a08b7412e9373737",
+        "sha1": "0bf714a4db358989cc860f51109d347509c2f1ab",
+        "crc32": "fcdebff0"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2001 (USA) (Track 1).bin",
+      "filesize": 294028224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8b8ffe3304a1607822826a778de9099",
+        "sha1": "b28894b2ea9c030eb09ceab932eca3bcd8d94042",
+        "crc32": "e8a11dbb"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2001 (USA) (Track 2).bin",
+      "filesize": 43678992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db8ee7ed342e71e18bf82168d4ecdff8",
+        "sha1": "7fd700a8db314aaa74bd5f261f6fd9e6fa953d11",
+        "crc32": "8fb5bc0d"
+      }
+    }
+  ]
+}

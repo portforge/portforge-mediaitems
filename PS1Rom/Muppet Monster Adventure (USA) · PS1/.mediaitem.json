@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Muppet Monster Adventure (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Muppet Monster Adventure (USA).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cc4d8a89ec61ce95edab132683c32dd8",
+        "sha1": "cee4c1aca4571286d7a7df0e3b468e1775f3a1f2",
+        "crc32": "9b28e153"
+      }
+    },
+    {
+      "filename": "Muppet Monster Adventure (USA) (Track 1).bin",
+      "filesize": 515008032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "469789ab56e5d10ba6ae3fc6d828d4b4",
+        "sha1": "6d4ad42f62c178de729967d13a2df9eead772295",
+        "crc32": "78a08b6c"
+      }
+    },
+    {
+      "filename": "Muppet Monster Adventure (USA) (Track 2).bin",
+      "filesize": 48724032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ee0f0a90b0e627a2e3506043adadc1d",
+        "sha1": "82a5915544fd71b4bc50bf63e798478847f27753",
+        "crc32": "fb1c7b92"
+      }
+    }
+  ]
+}

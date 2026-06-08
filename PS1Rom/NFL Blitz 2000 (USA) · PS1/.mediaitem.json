@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL Blitz 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL Blitz 2000 (USA).cue",
+      "filesize": 324,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6fcf102c082346b936d0bd229223311",
+        "sha1": "8d05fc26640750d84aba124dfc5ede9ccb74d5e8",
+        "crc32": "3379807d"
+      }
+    },
+    {
+      "filename": "NFL Blitz 2000 (USA) (Track 1).bin",
+      "filesize": 253430352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83440eb960a6f1b2bc2246058152e99e",
+        "sha1": "98efc796986bea70c0d37a3176d2c02c66d2910b",
+        "crc32": "98fed228"
+      }
+    },
+    {
+      "filename": "NFL Blitz 2000 (USA) (Track 2).bin",
+      "filesize": 27294960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7959f2fa83de407522444efaf7f53a17",
+        "sha1": "7c8cb05b8acf6b9c2949f285887c2d5a52a24bbc",
+        "crc32": "ee54f375"
+      }
+    },
+    {
+      "filename": "NFL Blitz 2000 (USA) (Track 3).bin",
+      "filesize": 32140080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd11d98b51d9c526d48038b44c1c362d",
+        "sha1": "2e255028a10a8467cd00d20477415ae70d80ffb3",
+        "crc32": "f93920f8"
+      }
+    }
+  ]
+}

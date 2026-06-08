@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arc the Lad III (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arc the Lad III (Japan) (Disc 1).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cad802f7f4cd86cc7843f2d6c0c8079",
+        "sha1": "22342c6b0fe0c71b103542ee1a853388905de22a",
+        "crc32": "6b6a48f8"
+      }
+    },
+    {
+      "filename": "Arc the Lad III (Japan) (Disc 1).bin",
+      "filesize": 638706768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59f98ec2594f4d9a599521362449a94c",
+        "sha1": "1670bc3e36d4bace5d5d835bb6caebfc345f9ced",
+        "crc32": "c704672c"
+      }
+    }
+  ]
+}

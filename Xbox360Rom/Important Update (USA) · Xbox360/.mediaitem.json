@@ -1,0 +1,27 @@
+{
+  "_itemType": "Xbox360Rom",
+  "title": "Important Update (USA)",
+  "platform": "Xbox360",
+  "formats": [
+    {
+      "filename": "Important Update (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4b8f9382cb225a57bb73d9f6b1553f3",
+        "sha1": "9cb29983526c83e7d6c08e6dc5c482c4769fcdf0",
+        "crc32": "719bb6d8"
+      }
+    },
+    {
+      "filename": "Important Update (USA).bin",
+      "filesize": 121711296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9748b92954ced29aca89d9107bd5446e",
+        "sha1": "467593040b6472b6e8cd8bdaaad01deff8d490df",
+        "crc32": "9dd8a14b"
+      }
+    }
+  ]
+}

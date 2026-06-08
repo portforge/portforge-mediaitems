@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Roland Garros French Open 2001 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Roland Garros French Open 2001 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a05d99e746503dd5a40aad676d1c35b5",
+        "sha1": "ba0d0e0ef1c37f3717260c04bf17f67127420f7b",
+        "crc32": "a91f3b08"
+      }
+    },
+    {
+      "filename": "Roland Garros French Open 2001 (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 225933120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38497a2d8c103c613a0bbcec710fcad8",
+        "sha1": "bb7a852c5d93c764ecfec1533b66ee55875fb2fe",
+        "crc32": "035ed635"
+      }
+    }
+  ]
+}

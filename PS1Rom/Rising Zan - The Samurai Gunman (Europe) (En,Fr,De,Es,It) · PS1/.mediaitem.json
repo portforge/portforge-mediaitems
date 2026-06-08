@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rising Zan - The Samurai Gunman (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rising Zan - The Samurai Gunman (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 284,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4384a3eb6f563bfa1dd7c73b29c8ac94",
+        "sha1": "2427a0051a576104073f7671420ed4f8513ccff0",
+        "crc32": "8af40d97"
+      }
+    },
+    {
+      "filename": "Rising Zan - The Samurai Gunman (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 717545808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27980f12b410d930713a2994f2edc6fa",
+        "sha1": "3b253c8440e0e8b299e922fb6b27bb34cde1a0d9",
+        "crc32": "a412eba0"
+      }
+    },
+    {
+      "filename": "Rising Zan - The Samurai Gunman (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 32459952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fdfebca428a3912e47fdbb05f3a292c",
+        "sha1": "66a205b367f48cd7cb01158b5f2cb4cfb4c75285",
+        "crc32": "2f8685cb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Station 7 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Station 7 (Europe, Australia).cue",
+      "filesize": 351,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3629fcbc06cd9d4ad28041bd6d6b04f3",
+        "sha1": "1d3b16bb9564e3b8ca174e25c2da5d2f9ffc61ef",
+        "crc32": "fbf97ec1"
+      }
+    },
+    {
+      "filename": "Station 7 (Europe, Australia) (Track 1).bin",
+      "filesize": 620361168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6fc27c1f43207f903244af13dec188c8",
+        "sha1": "497176e439292056bf83dd228196756dce6c89e0",
+        "crc32": "90478811"
+      }
+    },
+    {
+      "filename": "Station 7 (Europe, Australia) (Track 2).bin",
+      "filesize": 33419568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbf1d71b0ff6fe912e4fd973acf976cb",
+        "sha1": "c35f46249cc1f40178c161a4afc400728d6ed22f",
+        "crc32": "f80b3c46"
+      }
+    },
+    {
+      "filename": "Station 7 (Europe, Australia) (Track 3).bin",
+      "filesize": 41072976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "653c1fafa68d214d1942926e85a1ef3e",
+        "sha1": "1a730801b73285b0f502ceac5a09dcb8b36f9b51",
+        "crc32": "23083280"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rockman - Battle & Chase (Japan) (PlayStation the Best for Family)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rockman - Battle & Chase (Japan) (PlayStation the Best for Family).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8827a221a34fdbba5ae71819200713a1",
+        "sha1": "26404121a86edc27a2547185a6b14f10435e21eb",
+        "crc32": "df58478b"
+      }
+    },
+    {
+      "filename": "Rockman - Battle & Chase (Japan) (PlayStation the Best for Family).bin",
+      "filesize": 650880720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92651d64029523e2922c5380612464bd",
+        "sha1": "f6c9f719a363a9334ee50bb941e24d193d1879bf",
+        "crc32": "b84341bd"
+      }
+    }
+  ]
+}

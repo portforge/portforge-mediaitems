@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Oja Majo DoReMi Dokkan! Maho-dou Eigo Festival (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Oja Majo DoReMi Dokkan! Maho-dou Eigo Festival (Japan) (Controller Set).cue",
+      "filesize": 152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60a3a9cdf30ff2f914fea61d513952fb",
+        "sha1": "89e6b7c6786979964dd5a6f1c728b2e0ec7568d5",
+        "crc32": "623f7406"
+      }
+    },
+    {
+      "filename": "Kids Station - Oja Majo DoReMi Dokkan! Maho-dou Eigo Festival (Japan) (Controller Set).bin",
+      "filesize": 310376976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba47624e798e4e6a36adeeb9325704b3",
+        "sha1": "7952c5e8161695fd8ded43495661e73cbc89d7e2",
+        "crc32": "fb56f2a6"
+      }
+    }
+  ]
+}

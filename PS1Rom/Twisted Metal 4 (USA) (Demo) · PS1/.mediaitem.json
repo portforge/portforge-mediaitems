@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Twisted Metal 4 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Twisted Metal 4 (USA) (Demo).cue",
+      "filesize": 348,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8dc502665bdeccb9be070c6a81420ec0",
+        "sha1": "6dbf3ce9ffbdefab368e118c3791a7c4eb36f787",
+        "crc32": "7540898d"
+      }
+    },
+    {
+      "filename": "Twisted Metal 4 (USA) (Demo) (Track 1).bin",
+      "filesize": 93689568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9a78c0d09319e9b8f773e5c3f919c6c",
+        "sha1": "fd025850edd233b0ca688df43cd142c4618ea981",
+        "crc32": "5f74954a"
+      }
+    },
+    {
+      "filename": "Twisted Metal 4 (USA) (Demo) (Track 2).bin",
+      "filesize": 49175616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3ababba19db08428568b95a7cf5769d",
+        "sha1": "f348d0b0f4993af92ce5cf3c5898c321f30e6278",
+        "crc32": "26e9a8a7"
+      }
+    },
+    {
+      "filename": "Twisted Metal 4 (USA) (Demo) (Track 3).bin",
+      "filesize": 1227744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb4fa8ee52a87b3d13d0f70cfdc65b0a",
+        "sha1": "84b82edda046f285eb92aa169b54bde838db238a",
+        "crc32": "98432b8a"
+      }
+    }
+  ]
+}

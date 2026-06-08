@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mermaid no Kisetsu - Curtain Call (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mermaid no Kisetsu - Curtain Call (Japan) (Disc 1).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eee9fb618a16e39820b933c4b38730a3",
+        "sha1": "d622165925e052744b0d4396c3c062e1b9293700",
+        "crc32": "19961435"
+      }
+    },
+    {
+      "filename": "Mermaid no Kisetsu - Curtain Call (Japan) (Disc 1).bin",
+      "filesize": 318599568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8c6a074c547cd608c9601e0efd1d201",
+        "sha1": "1da34a5c5f3edaec5216e99308c5b407429b5cc7",
+        "crc32": "4ac2999d"
+      }
+    }
+  ]
+}

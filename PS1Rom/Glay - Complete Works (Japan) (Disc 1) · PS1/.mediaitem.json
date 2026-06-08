@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Glay - Complete Works (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Glay - Complete Works (Japan) (Disc 1).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "be10d3a38c4f4b163b53af0a68b8529c",
+        "sha1": "758bd0378a0e7118a23509cd84a05caa3ca2d06e",
+        "crc32": "389b68df"
+      }
+    },
+    {
+      "filename": "Glay - Complete Works (Japan) (Disc 1).bin",
+      "filesize": 699393072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "195e34130ede8ab56780f77b45f11690",
+        "sha1": "05ef3c2d58bd6dfd0fd0c99ce1d4bc5665d8ff42",
+        "crc32": "bc114389"
+      }
+    }
+  ]
+}

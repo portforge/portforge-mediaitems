@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cat the Ripper - 13Ninme no Tanteishi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cat the Ripper - 13Ninme no Tanteishi (Japan).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1b75aef532430c4fa4175cbe6a07d8d",
+        "sha1": "40dd368f1f63e54bc3b5b5b31dc070d3382353b3",
+        "crc32": "9521f628"
+      }
+    },
+    {
+      "filename": "Cat the Ripper - 13Ninme no Tanteishi (Japan) (Track 1).bin",
+      "filesize": 277719456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ce6034fede49584941f6899ec6d69fb",
+        "sha1": "00686aa5573ccb2cdb529a27cdbd9e586e2cf2df",
+        "crc32": "1f0719d4"
+      }
+    },
+    {
+      "filename": "Cat the Ripper - 13Ninme no Tanteishi (Japan) (Track 2).bin",
+      "filesize": 55069728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "612bcb7e94a3b7ad9246a88498b7672e",
+        "sha1": "5adac9484746685c958e1812302e35f2f849c363",
+        "crc32": "dcdc0501"
+      }
+    }
+  ]
+}

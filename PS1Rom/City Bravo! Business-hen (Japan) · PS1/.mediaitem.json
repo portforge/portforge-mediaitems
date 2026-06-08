@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "City Bravo! Business-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "City Bravo! Business-hen (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0be1d75618e93294bd8d44d8f63437e",
+        "sha1": "4a94cb5b2a6982187e45f9a5d33f12a611ab7a8e",
+        "crc32": "504960aa"
+      }
+    },
+    {
+      "filename": "City Bravo! Business-hen (Japan).bin",
+      "filesize": 132525792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "416c573c37cc7eec3f8fa72905986c52",
+        "sha1": "e354025fca04a54995b63d063930b818d25fdff4",
+        "crc32": "f023ce73"
+      }
+    }
+  ]
+}

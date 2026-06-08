@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Illusion V - K-1 Grand Prix '99 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Illusion V - K-1 Grand Prix '99 (Japan).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8793a28c7bebf73145777938def8b512",
+        "sha1": "917b4782afd2a03d03e09b9b57b7dd971345f0d2",
+        "crc32": "4f69561c"
+      }
+    },
+    {
+      "filename": "Fighting Illusion V - K-1 Grand Prix '99 (Japan) (Track 1).bin",
+      "filesize": 451906224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bc9baea90e4670f41891f00b0daa6e7",
+        "sha1": "7cd40b43afe7365134667927212367439c0ae07c",
+        "crc32": "009ddb8e"
+      }
+    },
+    {
+      "filename": "Fighting Illusion V - K-1 Grand Prix '99 (Japan) (Track 2).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

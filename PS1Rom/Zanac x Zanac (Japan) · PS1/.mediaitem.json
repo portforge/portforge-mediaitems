@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zanac x Zanac (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zanac x Zanac (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6abc2a343e532e9faf464a9051b43617",
+        "sha1": "6a6d9eccb0e4c5d7443e616b0591de3df8643709",
+        "crc32": "bf9b92c3"
+      }
+    },
+    {
+      "filename": "Zanac x Zanac (Japan).bin",
+      "filesize": 379659840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67217b6ad0e687840ebac8131b58f021",
+        "sha1": "8d8e7d6247ba63290b18224639ef7f97e89121d1",
+        "crc32": "cf5625d4"
+      }
+    }
+  ]
+}

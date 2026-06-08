@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Motocross Mania 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Motocross Mania 2 (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ba85ea01e72bae10262dbab1bf55b58",
+        "sha1": "12ca7cf929c07f96dca8afff2b600102214c6129",
+        "crc32": "fb280988"
+      }
+    },
+    {
+      "filename": "Motocross Mania 2 (USA).bin",
+      "filesize": 166232304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f607cf690533eb1e12a62bc3ad6e1599",
+        "sha1": "e51f28820d6b9e0d9135cae59ee7f2b0941558a0",
+        "crc32": "1e374b72"
+      }
+    }
+  ]
+}

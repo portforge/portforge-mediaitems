@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Europe) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Europe) (Demo 2).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5082fbe642e8a864fe2a07bcd02d6a34",
+        "sha1": "b862c694d6b34e61029f26407cf55391ae8090b2",
+        "crc32": "3f7d2a3f"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Europe) (Demo 2).bin",
+      "filesize": 138791520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07dc2299c01a47b27d45a816aec267e8",
+        "sha1": "f173707fbd80830a67bde6370c871e88f088fd43",
+        "crc32": "6e28ca66"
+      }
+    }
+  ]
+}

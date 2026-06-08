@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Striker 96 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Striker 96 (USA).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d81c64618cc9807c3539f6e33dbb4ccf",
+        "sha1": "272fa1d973130d695575033f8634c6d98f195363",
+        "crc32": "fee8855f"
+      }
+    },
+    {
+      "filename": "Striker 96 (USA) (Track 1).bin",
+      "filesize": 66262896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ea30edb551ac236182f6662c0418ef7",
+        "sha1": "ecc841b84d7b26b462a883aa67f5d0d1b61b13e6",
+        "crc32": "723b591c"
+      }
+    },
+    {
+      "filename": "Striker 96 (USA) (Track 2).bin",
+      "filesize": 149234400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8513f3e64d0cc3ddd58021f84688665",
+        "sha1": "a20631390baae370afbda63343a279e5555725c3",
+        "crc32": "2042be03"
+      }
+    },
+    {
+      "filename": "Striker 96 (USA) (Track 3).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

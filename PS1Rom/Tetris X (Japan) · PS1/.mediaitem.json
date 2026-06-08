@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tetris X (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tetris X (Japan).cue",
+      "filesize": 202,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41ab16ab84cf59b55349da4862e6f92e",
+        "sha1": "2409a3e9fd6b6bfe83966a363903b3b68c501239",
+        "crc32": "978df7cf"
+      }
+    },
+    {
+      "filename": "Tetris X (Japan) (Track 1).bin",
+      "filesize": 73253040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57ec103a5b9a0a6cd646769327eb5d67",
+        "sha1": "91a19a95671910a3b8c0274d0a244a93070fa6fa",
+        "crc32": "43cc5b8e"
+      }
+    },
+    {
+      "filename": "Tetris X (Japan) (Track 2).bin",
+      "filesize": 4377072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00d4f2b9eba8200785726e7b4d427348",
+        "sha1": "024ac59b67d58c71b5d06bacebb28fc74270021a",
+        "crc32": "611844a1"
+      }
+    }
+  ]
+}

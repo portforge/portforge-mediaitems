@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Riven - The Sequel to Myst (France) (Disc 5)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Riven - The Sequel to Myst (France) (Disc 5).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4f140bf3430910e275226e02ff9a4c50",
+        "sha1": "0667a22a4e107eea032102c513e1c02e57c0002f",
+        "crc32": "cfd5a041"
+      }
+    },
+    {
+      "filename": "Riven - The Sequel to Myst (France) (Disc 5).bin",
+      "filesize": 749260176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e89b31a106b8605795144c26ae246727",
+        "sha1": "60e1cfeb7b4e7ba212e5031e1379995feccc583a",
+        "crc32": "0f3c0d7a"
+      }
+    }
+  ]
+}

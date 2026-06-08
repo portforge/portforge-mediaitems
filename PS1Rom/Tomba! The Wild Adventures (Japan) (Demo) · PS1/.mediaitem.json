@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomba! The Wild Adventures (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomba! The Wild Adventures (Japan) (Demo).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db7d817af69c0097f1260ae2ad4cc3f8",
+        "sha1": "d63befd43e68cf7fa1e33c37eff88d771e8db29e",
+        "crc32": "49ef6924"
+      }
+    },
+    {
+      "filename": "Tomba! The Wild Adventures (Japan) (Demo) (Track 1).bin",
+      "filesize": 79765728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9daae181d298ac427fc202048687f32",
+        "sha1": "060016029a94d3982183f340362f3361cd6b99c6",
+        "crc32": "7630fecd"
+      }
+    },
+    {
+      "filename": "Tomba! The Wild Adventures (Japan) (Demo) (Track 2).bin",
+      "filesize": 28002912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "938cd585633f5c4bff1856b807bfd8de",
+        "sha1": "53bf773f2fd1e9ac3bf219555bf61a36c93a19a9",
+        "crc32": "53138a3e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Total NBA '97 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Total NBA '97 (Japan) (Demo).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4385eaf707acfb2ae4fd5ab8ccbd292",
+        "sha1": "8180e94f5071033fcd9f78ee7022586c8c3b7e0b",
+        "crc32": "4e843e98"
+      }
+    },
+    {
+      "filename": "Total NBA '97 (Japan) (Demo) (Track 1).bin",
+      "filesize": 450626736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16344efbf5d9539c44c25343161d099e",
+        "sha1": "e68bf76fa3aa08812c6267e022d3e7c666d17525",
+        "crc32": "4dff1ad6"
+      }
+    },
+    {
+      "filename": "Total NBA '97 (Japan) (Demo) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

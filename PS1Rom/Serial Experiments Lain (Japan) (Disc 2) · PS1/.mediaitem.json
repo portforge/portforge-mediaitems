@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Serial Experiments Lain (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Serial Experiments Lain (Japan) (Disc 2).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2811226a81cf5adf42cb4c4a2e329565",
+        "sha1": "1580e1434d44029174949a069886d80f4d2b1e00",
+        "crc32": "cd0c32b2"
+      }
+    },
+    {
+      "filename": "Serial Experiments Lain (Japan) (Disc 2).bin",
+      "filesize": 746172000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41ed9c38a787983ee483fe11006dca6b",
+        "sha1": "409668af454a0e0a33a71c1d22918d765e718608",
+        "crc32": "9cd2a1b5"
+      }
+    }
+  ]
+}

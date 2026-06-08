@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lost Children - The City of Lost Children (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lost Children - The City of Lost Children (Japan).cue",
+      "filesize": 268,
+      "ext": "cue",
+      "checksums": {
+        "md5": "07d7fc5a788210ea192cd8ef2a34da4f",
+        "sha1": "8adadfd11f1de0e0adb70e91adffd4900df5022d",
+        "crc32": "5a089537"
+      }
+    },
+    {
+      "filename": "Lost Children - The City of Lost Children (Japan) (Track 1).bin",
+      "filesize": 329802144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "265d850c790b94c6c809c010bf1479a6",
+        "sha1": "b8fa2543279e6872271b253ca709a21572586b75",
+        "crc32": "28eca7f6"
+      }
+    },
+    {
+      "filename": "Lost Children - The City of Lost Children (Japan) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

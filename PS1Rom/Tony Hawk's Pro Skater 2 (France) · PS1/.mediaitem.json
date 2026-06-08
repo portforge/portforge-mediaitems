@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater 2 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (France).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e3c3dc59d0bb8bd653c7261e592ceb33",
+        "sha1": "f724962b736f3c833ed4220501229d7a74e821c5",
+        "crc32": "6e80c5c0"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (France).bin",
+      "filesize": 747863088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "848af00991674172efd65cce6e226499",
+        "sha1": "8c56235e70e5d940e9cd0b705c470346de260669",
+        "crc32": "5c28fd7e"
+      }
+    }
+  ]
+}

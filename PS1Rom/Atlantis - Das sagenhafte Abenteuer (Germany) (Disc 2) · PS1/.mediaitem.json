@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b84b9e234650b46a231cad65e5ac0cfc",
+        "sha1": "6305814f4496e57c04ff43b32cab3012782c73a0",
+        "crc32": "5412744c"
+      }
+    },
+    {
+      "filename": "Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 2).bin",
+      "filesize": 629124720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b99c3aeb930241dba636117af48d1f7c",
+        "sha1": "32492c7f619d84752d95c72141d27c282634ae8e",
+        "crc32": "e36ce8d2"
+      }
+    }
+  ]
+}

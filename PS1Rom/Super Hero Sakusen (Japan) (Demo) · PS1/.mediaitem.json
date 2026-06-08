@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Hero Sakusen (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Hero Sakusen (Japan) (Demo).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "134e434697ebd8055c90fd8a9fd89095",
+        "sha1": "3d7b70dfc66b7458c01d93ef7c28586bf18bda2c",
+        "crc32": "585d4329"
+      }
+    },
+    {
+      "filename": "Super Hero Sakusen (Japan) (Demo) (Track 1).bin",
+      "filesize": 232255296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85e462e48fd5416f96ed0a899cbf1ac5",
+        "sha1": "817b6437dacd746bcf1c8a8b7cf568df587f300a",
+        "crc32": "de4ccb86"
+      }
+    },
+    {
+      "filename": "Super Hero Sakusen (Japan) (Demo) (Track 2).bin",
+      "filesize": 7488768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8077ea929b16b0adee44bc626dcc7f1",
+        "sha1": "fc2f1ec5500ddf6817b8eb20c6479e1fc5221d6e",
+        "crc32": "492dbdd8"
+      }
+    },
+    {
+      "filename": "Super Hero Sakusen (Japan) (Demo) (Track 3).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32772a7d5caba5e3b875a9f003758383",
+        "sha1": "354b3c4d850c45e309a748c834d96a13f112dedf",
+        "crc32": "1428b715"
+      }
+    }
+  ]
+}

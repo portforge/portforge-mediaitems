@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Destructo 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Destructo 2 (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "79fca9729956d7cacc79631c0f1fab6b",
+        "sha1": "1323325c36ec37b3e7205400751b078fe9cdf6b9",
+        "crc32": "9202abaf"
+      }
+    },
+    {
+      "filename": "Destructo 2 (Europe).bin",
+      "filesize": 207152400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "723d1afbff892c6798d21d0b080c2db4",
+        "sha1": "e3e2b0b859524cc4bae52e9da09c75851b2eb71d",
+        "crc32": "cd51cb0b"
+      }
+    }
+  ]
+}

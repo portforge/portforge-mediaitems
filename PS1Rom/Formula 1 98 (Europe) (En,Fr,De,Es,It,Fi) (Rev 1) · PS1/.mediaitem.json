@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formula 1 98 (Europe) (En,Fr,De,Es,It,Fi) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formula 1 98 (Europe) (En,Fr,De,Es,It,Fi) (Rev 1).cue",
+      "filesize": 268,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1aa0712ff2af19ac5e9c76bd8a38c9fa",
+        "sha1": "2837d6c7ba1bceb92908be4a1efb23b1f4a562fa",
+        "crc32": "e99bdd32"
+      }
+    },
+    {
+      "filename": "Formula 1 98 (Europe) (En,Fr,De,Es,It,Fi) (Rev 1) (Track 1).bin",
+      "filesize": 688792608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3090d329ac14abb1d46cda34cbf83c51",
+        "sha1": "337c7d4f966236fce3aacba590e6efb5de0586c6",
+        "crc32": "e218a547"
+      }
+    },
+    {
+      "filename": "Formula 1 98 (Europe) (En,Fr,De,Es,It,Fi) (Rev 1) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

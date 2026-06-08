@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da!! (Japan).cue",
+      "filesize": 812,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69dffe987a07e60ab3cd16168ab14f23",
+        "sha1": "ff787cd8a1a2d0a8813440590cc3545d99f6dafa",
+        "crc32": "34327e93"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da!! (Japan) (Track 1).bin",
+      "filesize": 15937152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ad0286decb775ef0991c5f6aba89dbd",
+        "sha1": "869d33af28cb024ed3358b4b2aeeb153d8ba68ea",
+        "crc32": "89cefc47"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da!! (Japan) (Track 2).bin",
+      "filesize": 57115968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3aa61b9b921297cfadc004c3447ccd5a",
+        "sha1": "182422b7feb55c732cf1e51f44c49439daed5a4c",
+        "crc32": "d9839ae0"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da!! (Japan) (Track 3).bin",
+      "filesize": 60081840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfb86c5fa3696326e618c5e7dda04182",
+        "sha1": "458538aa668c97723d2390081352f332073efb6f",
+        "crc32": "eadafde8"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da!! (Japan) (Track 4).bin",
+      "filesize": 53009376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e33c83907ca6e4dbbbb08e89641f03c3",
+        "sha1": "98d544938dd9fe5831f85fca0e31ba04b3826493",
+        "crc32": "687fe3d2"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 4 - Ore wa Nekketsu Bouken-ou da!! (Japan) (Track 5).bin",
+      "filesize": 32173008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da945e0f2cb5996fd14b7336b147c837",
+        "sha1": "bf54c2bc8c194316b2585a394100a2835d4ac876",
+        "crc32": "97dd8bbf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot Racing (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot Racing (Japan) (Demo).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a30da6ee6122558447a1b53c79a6f5c",
+        "sha1": "1fefde30f6611d9f25e52c64a03ddef98221465b",
+        "crc32": "1a987380"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot Racing (Japan) (Demo).bin",
+      "filesize": 544066992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8867111811c0f414cd1589bcd1905b3c",
+        "sha1": "82d824d338daf890a5b3b1003b0b91fc2ec3d2f7",
+        "crc32": "774fef23"
+      }
+    }
+  ]
+}

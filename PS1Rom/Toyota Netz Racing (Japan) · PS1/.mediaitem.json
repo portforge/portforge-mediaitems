@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toyota Netz Racing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toyota Netz Racing (Japan).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b620e29f73db9df4d2399993aae52d8c",
+        "sha1": "5ca9052e6ccfe65a7078b4024e3ae7baf5d026f5",
+        "crc32": "ec0d5347"
+      }
+    },
+    {
+      "filename": "Toyota Netz Racing (Japan) (Track 1).bin",
+      "filesize": 225319248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "587d06b0613be53cda28ad4bb2495c33",
+        "sha1": "63584d32c1c066dfb091680890bf20dd810e5a21",
+        "crc32": "2252aa60"
+      }
+    },
+    {
+      "filename": "Toyota Netz Racing (Japan) (Track 2).bin",
+      "filesize": 34009920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d23374cbcc369e44ccc72aa28778ec1",
+        "sha1": "2075a5258c461d30944839758ba2c290a2c456d4",
+        "crc32": "027d3086"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Susume! Kaizoku - Be Pirates! (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Susume! Kaizoku - Be Pirates! (Japan) (Demo).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fba25348a80146fc4341bc7c3435f90d",
+        "sha1": "c7d36fc97c78c65848ef23399aeef11a5c5fe475",
+        "crc32": "96ec35fd"
+      }
+    },
+    {
+      "filename": "Susume! Kaizoku - Be Pirates! (Japan) (Demo) (Track 1).bin",
+      "filesize": 87296832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee8540e747c199e4b086ef8ed4e3cb6f",
+        "sha1": "179b025be83ff6d8cd5776fe5af6dd183493a613",
+        "crc32": "e542c032"
+      }
+    },
+    {
+      "filename": "Susume! Kaizoku - Be Pirates! (Japan) (Demo) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

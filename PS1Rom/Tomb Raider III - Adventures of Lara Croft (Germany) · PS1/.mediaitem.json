@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Adventures of Lara Croft (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Germany).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d6df473468f0635d61e3762983e9099",
+        "sha1": "33a59bccaefbadd55133e0e461fae7db42942c41",
+        "crc32": "9578db49"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Germany).bin",
+      "filesize": 699966960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8e81f5aaa1e3b79a7dd8a5136026411",
+        "sha1": "8c0e08876137f2be3f1aed69b24208c0293edc75",
+        "crc32": "86e55a8c"
+      }
+    }
+  ]
+}

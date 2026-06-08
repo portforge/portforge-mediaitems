@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Efficus - Kono Omoi o Kimi ni... (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Efficus - Kono Omoi o Kimi ni... (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2def0b8e5085a283d79b856212159560",
+        "sha1": "3a306307b2cb68ffa2bbca13ea409c31495425d1",
+        "crc32": "38c5bbac"
+      }
+    },
+    {
+      "filename": "Efficus - Kono Omoi o Kimi ni... (Japan).bin",
+      "filesize": 671606544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ea594d19f1bd3f18492c2aba57322e0",
+        "sha1": "57716a177cf4e4cc226c73388a560a190e8cc47e",
+        "crc32": "28af79fe"
+      }
+    }
+  ]
+}

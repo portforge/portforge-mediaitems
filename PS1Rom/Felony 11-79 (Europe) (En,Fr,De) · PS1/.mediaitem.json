@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Felony 11-79 (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Felony 11-79 (Europe) (En,Fr,De).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "49ccc9c0ae114c080b47c212b8a9b820",
+        "sha1": "a24c4b4810ebf06ccdc85ea7338163efb9240229",
+        "crc32": "05282a9a"
+      }
+    },
+    {
+      "filename": "Felony 11-79 (Europe) (En,Fr,De).bin",
+      "filesize": 387870672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc43ec4dbb03abbbe68c8b744d871331",
+        "sha1": "2cf8fa4e01739edc7dd201f8a5bbe27a51f29f8f",
+        "crc32": "e8a0b335"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Remote Control Dandy (Japan) (Demo 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Remote Control Dandy (Japan) (Demo 2).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "490ee34c23ed6fc5d99735ab36400db6",
+        "sha1": "6d3ada6e76ad9124a58ee11101b44d610a1d0a66",
+        "crc32": "872ce6df"
+      }
+    },
+    {
+      "filename": "Remote Control Dandy (Japan) (Demo 2).bin",
+      "filesize": 379469328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f015da4f0189560b207a9bb8c71edb0b",
+        "sha1": "87142dd32901e6f03b827dd466750ebf5411168e",
+        "crc32": "ddd8e6b7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PaRappa the Rapper (Asia) (En,Ja,Fr,De,Es,It,Zh)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PaRappa the Rapper (Asia) (En,Ja,Fr,De,Es,It,Zh).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9acf0552a9adc4c06de5fcb6922e5785",
+        "sha1": "e8bfeaf5bca6602a8a0135f501550819f8813c90",
+        "crc32": "3925eb09"
+      }
+    },
+    {
+      "filename": "PaRappa the Rapper (Asia) (En,Ja,Fr,De,Es,It,Zh).bin",
+      "filesize": 729536304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7570809e304b557dc21dfd804fedec4e",
+        "sha1": "275039d20796ac517d011ebe9245c1bd3aef5773",
+        "crc32": "9a6191df"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Option - Tuning Car Battle 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan).cue",
+      "filesize": 1022,
+      "ext": "cue",
+      "checksums": {
+        "md5": "38b18178f1aae0b863d495ecd8b76449",
+        "sha1": "2bddf6fbe11c62047fbd9833aba428e42adc33f6",
+        "crc32": "284f9204"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 1).bin",
+      "filesize": 253115184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7806f3ed30ca786ce6ef21b25f9a39ab",
+        "sha1": "9863ec32f687c49b23a2b89c621b60ed1fecd92a",
+        "crc32": "96f3ddf1"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 2).bin",
+      "filesize": 27059760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acf812dde52871deb5e98d70c2f87d69",
+        "sha1": "89762473168c947842ee6c73e88f46540d50af98",
+        "crc32": "8c3bf8df"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 3).bin",
+      "filesize": 26255376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "499f2231848edf269dcca0ccab8348d8",
+        "sha1": "0631d29eba4152e16535992e4629c314cb37ca41",
+        "crc32": "8a80747d"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 4).bin",
+      "filesize": 28073472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdf4a8098694a80be0ba32ef9facb404",
+        "sha1": "2f029fd11b4b0dd09f5e7754f3a4c0e5ae5f84a9",
+        "crc32": "c7a2c957"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 5).bin",
+      "filesize": 26267136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "983347f88582747547deb3f5ce3482be",
+        "sha1": "77e147a8ca04718bc2f7de2aeb83223bde7d3533",
+        "crc32": "dd54d06a"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 6).bin",
+      "filesize": 27342000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56bb53dcc8ceaa5dd07be23421a76391",
+        "sha1": "03697119d15172084ddef9d4fd1e19ddfc6311d7",
+        "crc32": "1c0707dd"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 7).bin",
+      "filesize": 26217744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe58af2774346351a6da59f143085cf0",
+        "sha1": "016bf597a248a6282a66fdbd99d00dc522bce344",
+        "crc32": "e4fea1ab"
+      }
+    },
+    {
+      "filename": "Option - Tuning Car Battle 2 (Japan) (Track 8).bin",
+      "filesize": 27313776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0273411a66435a7ce9f812c3186bc21f",
+        "sha1": "db688dc25031403547c9f2c139393decb6217cfb",
+        "crc32": "5746ad7a"
+      }
+    }
+  ]
+}

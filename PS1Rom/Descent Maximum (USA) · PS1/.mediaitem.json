@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Descent Maximum (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Descent Maximum (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0758a70735a9670301afd880d261b7c",
+        "sha1": "0b47cb079f638d224376c18b7ea0b760e4b9bac7",
+        "crc32": "b3f4405c"
+      }
+    },
+    {
+      "filename": "Descent Maximum (USA).bin",
+      "filesize": 496841184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a5d8c2cba6cf5c09324fe648359cc28",
+        "sha1": "641ae95b65aebcf20c3a11ac33b8efcf2e7f11c2",
+        "crc32": "3930e54d"
+      }
+    }
+  ]
+}

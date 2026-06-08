@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c88b502f43bc427c23866186107c439",
+        "sha1": "826cc19a25a966c8786579c2febb9ddc803fa39e",
+        "crc32": "89b45ed5"
+      }
+    },
+    {
+      "filename": "Kids Station - Hello Kitty no Oshaberi ABC (Japan) (Controller Set).bin",
+      "filesize": 481038096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c95c7f9834ddce2818ebdc5a1b2279f8",
+        "sha1": "84b567a36e769eae46d41901f4f36ebf8deadc91",
+        "crc32": "0e127c3a"
+      }
+    }
+  ]
+}

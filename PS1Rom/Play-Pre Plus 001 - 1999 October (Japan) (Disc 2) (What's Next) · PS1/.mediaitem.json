@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Plus 001 - 1999 October (Japan) (Disc 2) (What's Next)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Plus 001 - 1999 October (Japan) (Disc 2) (What's Next).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "63ea6ccbfefece7a94a77ee6469e36a6",
+        "sha1": "00de52e7625cca2100103b890d0ab46fbf493e50",
+        "crc32": "07a3fc11"
+      }
+    },
+    {
+      "filename": "Play-Pre Plus 001 - 1999 October (Japan) (Disc 2) (What's Next).bin",
+      "filesize": 504675696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f131ad682eb0ed5d28e8798fbd6e3d6",
+        "sha1": "4a44ef39506b9e48cf052b7290fdebcee843c0a5",
+        "crc32": "180b1e79"
+      }
+    }
+  ]
+}

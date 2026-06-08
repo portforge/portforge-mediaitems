@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Cup Golf - Professional Edition (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Cup Golf - Professional Edition (Germany).cue",
+      "filesize": 405,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4312ee6dcff54701af9cdfdec497b482",
+        "sha1": "98424eb8530b8f8b3e23b45c9702750da18047fe",
+        "crc32": "b326c1ca"
+      }
+    },
+    {
+      "filename": "World Cup Golf - Professional Edition (Germany) (Track 1).bin",
+      "filesize": 619354512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07018cba7a4877b63d948e0492675ee4",
+        "sha1": "8ccdaa027c3d4edc2c46a29602323e713ce3b170",
+        "crc32": "7263efe5"
+      }
+    },
+    {
+      "filename": "World Cup Golf - Professional Edition (Germany) (Track 2).bin",
+      "filesize": 29868048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c55c13e78eda741c5da914e2cde8102b",
+        "sha1": "0edc3f8a3c7fd2e0de209d9bdf311f5c2dff36be",
+        "crc32": "d586de01"
+      }
+    },
+    {
+      "filename": "World Cup Golf - Professional Edition (Germany) (Track 3).bin",
+      "filesize": 26671680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bcf6bf7dfdb9a041609d3790d8f4b37f",
+        "sha1": "a196597a5885f6c71fe4ea5c1a1d1ed45e57d156",
+        "crc32": "87d78174"
+      }
+    }
+  ]
+}

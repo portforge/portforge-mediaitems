@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MediEvil - Yomigaetta Gallowmere no Yuusha (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MediEvil - Yomigaetta Gallowmere no Yuusha (Japan).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21ae575d776f3c6977c9240f31a1bbb2",
+        "sha1": "43110f9723a2412419687011e0f5e2831ec78bcf",
+        "crc32": "3044a812"
+      }
+    },
+    {
+      "filename": "MediEvil - Yomigaetta Gallowmere no Yuusha (Japan) (Track 1).bin",
+      "filesize": 552204912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a87688912c931ddc1d15021dfbc4d5b3",
+        "sha1": "84b16a2e16af35c598fde4286419e233b73cc602",
+        "crc32": "8f1e7024"
+      }
+    },
+    {
+      "filename": "MediEvil - Yomigaetta Gallowmere no Yuusha (Japan) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

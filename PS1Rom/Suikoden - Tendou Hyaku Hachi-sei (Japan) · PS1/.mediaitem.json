@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suikoden - Tendou Hyaku Hachi-sei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suikoden - Tendou Hyaku Hachi-sei (Japan).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6935bacda8576a4bf1e0fe66ef9c8900",
+        "sha1": "5a892ee780190e0814a2fb37003aad17aea55f91",
+        "crc32": "3e912ef5"
+      }
+    },
+    {
+      "filename": "Suikoden - Tendou Hyaku Hachi-sei (Japan) (Track 1).bin",
+      "filesize": 200844336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13ada46bf29700e2c995e5edd5ebdcb6",
+        "sha1": "71b4083bff289acbe463fec6b5ca4925c244b42f",
+        "crc32": "fe377131"
+      }
+    },
+    {
+      "filename": "Suikoden - Tendou Hyaku Hachi-sei (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

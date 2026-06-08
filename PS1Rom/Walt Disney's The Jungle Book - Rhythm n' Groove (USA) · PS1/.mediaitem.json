@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Walt Disney's The Jungle Book - Rhythm n' Groove (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Walt Disney's The Jungle Book - Rhythm n' Groove (USA).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60f1ab81e616cad6da171baae1d46e00",
+        "sha1": "79e279d0b7d53dfb3ec7ca31abc20fbe32794dbd",
+        "crc32": "c74beb88"
+      }
+    },
+    {
+      "filename": "Walt Disney's The Jungle Book - Rhythm n' Groove (USA).bin",
+      "filesize": 749403648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b58e1b0715bd442be70941d846e13a7f",
+        "sha1": "696212819a652f9dd9ff6cc4b627cd3d454e1540",
+        "crc32": "60f0c8c9"
+      }
+    }
+  ]
+}

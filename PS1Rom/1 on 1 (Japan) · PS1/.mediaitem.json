@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "1 on 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "1 on 1 (Japan).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2b916aaa32f40be68ffe2b83cf2881a",
+        "sha1": "b6c17ee3571a00b703d1526111baa8fa7125fab1",
+        "crc32": "77ce8caa"
+      }
+    },
+    {
+      "filename": "1 on 1 (Japan).bin",
+      "filesize": 362012784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17ac1624d397c35e77956e766912a055",
+        "sha1": "94f6b76c481536f72923e0f47875d17ac8798302",
+        "crc32": "dfb6de76"
+      }
+    }
+  ]
+}

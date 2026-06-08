@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Three Lions (UK) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Three Lions (UK) (En,Fr,De,Es,It).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "427742e491e122c8240d3098f3ea09b7",
+        "sha1": "f7f52b534a9c884df324e88307b9ab77059944e1",
+        "crc32": "2db3a1ef"
+      }
+    },
+    {
+      "filename": "Three Lions (UK) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 99969408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68c0c5716dd6a5740c2d5eac31548bd9",
+        "sha1": "b3f5e811d933b62bae3e31e6e3020fc5105b110d",
+        "crc32": "699bd4ef"
+      }
+    },
+    {
+      "filename": "Three Lions (UK) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 32288256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "292e55d2c1a8b4e106f3e3ec1192da3c",
+        "sha1": "761cf9d159f7041544018f08acd3b010235db48c",
+        "crc32": "1e041260"
+      }
+    }
+  ]
+}

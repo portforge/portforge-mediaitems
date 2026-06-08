@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dai-2-kai! Quiz Darake no Jinsei Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dai-2-kai! Quiz Darake no Jinsei Game (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f8b9da084143c4b78cdf904c0279402",
+        "sha1": "2e9876151dd20e29ad47f05bb8f50c2a90fb2fbb",
+        "crc32": "c3d3d97b"
+      }
+    },
+    {
+      "filename": "Dai-2-kai! Quiz Darake no Jinsei Game (Japan).bin",
+      "filesize": 95401824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fd66c6778fab23ea5fc1b258bf348f0",
+        "sha1": "6efee0c01169f5f9ca6d15941e761fda58fba1c4",
+        "crc32": "df59cd55"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Crayon Shin-chan - Ora to Omoide Tsukuru zo! (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Crayon Shin-chan - Ora to Omoide Tsukuru zo! (Japan) (Controller Set).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7c4a844ce897c6a9bb2f8bcbf9e71703",
+        "sha1": "a5183de879d5e864b7a245a1ae37a18da9abd57a",
+        "crc32": "1f86cf03"
+      }
+    },
+    {
+      "filename": "Kids Station - Crayon Shin-chan - Ora to Omoide Tsukuru zo! (Japan) (Controller Set).bin",
+      "filesize": 234826032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "219bc175b967c95d2d3d8a9b86eb8de0",
+        "sha1": "968e5ca556218c07036d005289dbe5560aae9283",
+        "crc32": "86ba35be"
+      }
+    }
+  ]
+}

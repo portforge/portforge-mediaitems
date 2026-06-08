@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maniac Moons (USA) (Proto) (1999-02-25)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maniac Moons (USA) (Proto) (1999-02-25).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5be985136b2f01fbf71564f1aa99b5e",
+        "sha1": "5f94623c5b6902a5f8085e28d2770d9c1cbc7e83",
+        "crc32": "ca22fe1c"
+      }
+    },
+    {
+      "filename": "Maniac Moons (USA) (Proto) (1999-02-25).bin",
+      "filesize": 34153392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "039e0601bd4dd8d8fb548c0b615961d3",
+        "sha1": "3d419b8b48f07c80290220bbe1494a77ef8b6e11",
+        "crc32": "e1a913fa"
+      }
+    }
+  ]
+}

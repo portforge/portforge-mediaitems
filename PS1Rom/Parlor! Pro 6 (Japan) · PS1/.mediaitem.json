@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parlor! Pro 6 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parlor! Pro 6 (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40175f80738a13f3af3a528962375355",
+        "sha1": "8c441a42001b19463a3a13e9400c12c8b9c98dba",
+        "crc32": "5ef1c584"
+      }
+    },
+    {
+      "filename": "Parlor! Pro 6 (Japan).bin",
+      "filesize": 193113312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eacb7ef40bd3f60434592cab93189bff",
+        "sha1": "27085000118f9be7aa1ce075181e4b71f26485d6",
+        "crc32": "8a20c5b4"
+      }
+    }
+  ]
+}

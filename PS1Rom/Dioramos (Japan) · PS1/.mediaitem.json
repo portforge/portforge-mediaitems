@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dioramos (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dioramos (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e9511ac7b446b358939370fb680d279",
+        "sha1": "439607b0146a05f0b6b83e60b33da9b8a5137688",
+        "crc32": "bacab72a"
+      }
+    },
+    {
+      "filename": "Dioramos (Japan).bin",
+      "filesize": 662389056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a95b016c943af42c702455faec52361",
+        "sha1": "9e9f0eb54cf38d2c0e9749f43d1ac1c3ba14eaf0",
+        "crc32": "b74d268a"
+      }
+    }
+  ]
+}

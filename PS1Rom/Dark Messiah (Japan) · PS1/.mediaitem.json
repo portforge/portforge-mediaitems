@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dark Messiah (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dark Messiah (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f70df3ecad981b0f18fb5d670e3830f",
+        "sha1": "ad216363ca4e6d9b6924f339f76ae9a5cf6d5b4c",
+        "crc32": "188ea62f"
+      }
+    },
+    {
+      "filename": "Dark Messiah (Japan).bin",
+      "filesize": 725354448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "412a9d0c632b5aec423dfa5f4b9d153d",
+        "sha1": "d8d91f75bee8d8778e76523dd2cf9012f3f5322f",
+        "crc32": "89e29855"
+      }
+    }
+  ]
+}

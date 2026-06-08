@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Karat PS1-you CDX3 Pro Action Replay Taikenban (Japan) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Karat PS1-you CDX3 Pro Action Replay Taikenban (Japan) (Unl).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "840e6231f90321d2f5ba4796974c92e4",
+        "sha1": "f5933ea5169ee85213768b06deb1de6669f2cac2",
+        "crc32": "e14c18e6"
+      }
+    },
+    {
+      "filename": "Karat PS1-you CDX3 Pro Action Replay Taikenban (Japan) (Unl).bin",
+      "filesize": 97546848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8dd2951e777ae9b9d0b7b926a7766837",
+        "sha1": "bb1e54e1a235514482c619f254248bbe159b26d0",
+        "crc32": "cf62a426"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Write Away 7 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Write Away 7 (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "42da21093d5f07b17377e6abcb743cb4",
+        "sha1": "25f026d7d034b4d948071ef45188668006376adf",
+        "crc32": "4d7b2e32"
+      }
+    },
+    {
+      "filename": "Write Away 7 (USA).bin",
+      "filesize": 571013856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8147dfd22259ac3edfe897916da12fb9",
+        "sha1": "6f11849015e6648f9d5558b923ac32703e116a7f",
+        "crc32": "d786289b"
+      }
+    }
+  ]
+}

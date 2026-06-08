@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dokapon! Ikari no Tekken (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dokapon! Ikari no Tekken (Japan) (Rev 1).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31240eaa95aa5bed49b1e9a7527d3a9c",
+        "sha1": "cec3e691d9e5f2e0444a237a0d7681d3511bea16",
+        "crc32": "45a028d3"
+      }
+    },
+    {
+      "filename": "Dokapon! Ikari no Tekken (Japan) (Rev 1).bin",
+      "filesize": 219561552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59dd5af4e1fd76f8512b3b4037fa2517",
+        "sha1": "85a16151c57779be48a2628d9b720cd39b466ddf",
+        "crc32": "40169be0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Egypt II - La Prophetie d'Heliopolis (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Egypt II - La Prophetie d'Heliopolis (France).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bfc2fb90c2bdc1979d7e450c84490346",
+        "sha1": "70610fa43c73d7a59cb1324e95d1696938a1193a",
+        "crc32": "fc8dd36c"
+      }
+    },
+    {
+      "filename": "Egypt II - La Prophetie d'Heliopolis (France) (Track 1).bin",
+      "filesize": 607857936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14f5cc28ec593539ff3d1fb5e3d9aa9d",
+        "sha1": "6bb45baf96f2122813e7ab9b4ddf27154285eaf2",
+        "crc32": "dc431973"
+      }
+    },
+    {
+      "filename": "Egypt II - La Prophetie d'Heliopolis (France) (Track 2).bin",
+      "filesize": 34964832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88cc214ac6049a85c50366468c906aa5",
+        "sha1": "cd454304179186dcc167fb2c05999634765173e3",
+        "crc32": "4ff4bcb1"
+      }
+    }
+  ]
+}

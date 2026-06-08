@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver (Spain).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cbad0335f35cdbfc191446af3b37863f",
+        "sha1": "9cbee9dee1f0378318a4903165e584060068e581",
+        "crc32": "6f126517"
+      }
+    },
+    {
+      "filename": "Driver (Spain).bin",
+      "filesize": 744137520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffdc79f03d2bd3c5e2e0c7d2193c11eb",
+        "sha1": "d85b6bbd17088918df7babf7ff6aee0564b242e3",
+        "crc32": "9ea08ed4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Macross Digital Mission VF-X (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Macross Digital Mission VF-X (Japan) (Rev 1).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "65ead3b1276cc1659c293bee510f0f34",
+        "sha1": "d0d9ea5f1ace3c9b542478fdbd65845c640ea2c0",
+        "crc32": "4b0eb7a6"
+      }
+    },
+    {
+      "filename": "Macross Digital Mission VF-X (Japan) (Rev 1) (Track 1).bin",
+      "filesize": 650036352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55375631b286c6dd9c62a41916cddcf5",
+        "sha1": "732bb1fb49b6822d960d8b1cfd3e8e44e15d5195",
+        "crc32": "a8eead5b"
+      }
+    },
+    {
+      "filename": "Macross Digital Mission VF-X (Japan) (Rev 1) (Track 2).bin",
+      "filesize": 1712256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5f5619bb04b2a5e6ebddb9f92f3fac7",
+        "sha1": "4f9f15c5f519429eccb33d5ceebf18cdf681849c",
+        "crc32": "c9cc476e"
+      }
+    }
+  ]
+}

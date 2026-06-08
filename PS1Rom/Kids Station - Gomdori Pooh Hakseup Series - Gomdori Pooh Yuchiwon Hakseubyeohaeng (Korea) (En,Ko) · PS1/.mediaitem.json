@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Gomdori Pooh Hakseup Series - Gomdori Pooh Yuchiwon Hakseubyeohaeng (Korea) (En,Ko)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Gomdori Pooh Hakseup Series - Gomdori Pooh Yuchiwon Hakseubyeohaeng (Korea) (En,Ko).cue",
+      "filesize": 164,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c458419ad88b6a36fd03a143b3397bb1",
+        "sha1": "ba1d61e7054138b1498e3a407c87716522469d1b",
+        "crc32": "b98ea750"
+      }
+    },
+    {
+      "filename": "Kids Station - Gomdori Pooh Hakseup Series - Gomdori Pooh Yuchiwon Hakseubyeohaeng (Korea) (En,Ko).bin",
+      "filesize": 271568976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "547ded9864615cddbe6ba2908815be91",
+        "sha1": "d9b3f679e8dde976eaa0d485681449c8ee930360",
+        "crc32": "25feea46"
+      }
+    }
+  ]
+}

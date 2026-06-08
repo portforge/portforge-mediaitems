@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "AirAssault - The Red Mercury Missions (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "AirAssault - The Red Mercury Missions (Japan) (Demo).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d33ec282f269e3c6d190b3372fc1ed63",
+        "sha1": "23970eed395fe98cff3a0ef7f1f6ee7c894318c9",
+        "crc32": "6cf992d2"
+      }
+    },
+    {
+      "filename": "AirAssault - The Red Mercury Missions (Japan) (Demo).bin",
+      "filesize": 222341616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6125b9ab942654ff758323af04de33e3",
+        "sha1": "dcdaf9fd6f195eedc23ef0b7ed292ef789fe8d09",
+        "crc32": "ae80ff93"
+      }
+    }
+  ]
+}

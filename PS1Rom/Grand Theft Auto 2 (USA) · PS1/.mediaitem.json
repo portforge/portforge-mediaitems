@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grand Theft Auto 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grand Theft Auto 2 (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae66564599e87253a9af4722dbb3699b",
+        "sha1": "0f86c21d3080ab91a7fce19ad4a62b9426208e83",
+        "crc32": "061cb66c"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto 2 (USA).bin",
+      "filesize": 545798064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f478946f4878e8d636f63a14530a7eb",
+        "sha1": "5c413e6c09216ee8d40b77518bdbae50dfb11d1c",
+        "crc32": "c1cec2ce"
+      }
+    }
+  ]
+}

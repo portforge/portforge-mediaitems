@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Who Wants to Be a Millionaire - Australian Edition (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Who Wants to Be a Millionaire - Australian Edition (Australia).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aff20bec1626e5d3b348f31c5c4eaa7c",
+        "sha1": "bbbf3b0c50029e3fbdc53caed82528514b2cbe32",
+        "crc32": "a19f48b6"
+      }
+    },
+    {
+      "filename": "Who Wants to Be a Millionaire - Australian Edition (Australia).bin",
+      "filesize": 322134624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c78dd3e4dc4e09984198b54cf7f4f86",
+        "sha1": "3b31d152ae3a26b000ef7666a53f757e85699a04",
+        "crc32": "d29300c7"
+      }
+    }
+  ]
+}

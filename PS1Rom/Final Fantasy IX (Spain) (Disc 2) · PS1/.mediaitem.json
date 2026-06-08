@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IX (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IX (Spain) (Disc 2).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04c7a91afa7ab3a51645f594bc3ec1fc",
+        "sha1": "5a6e4f4aad5b918690ad5f9f1fdb252ebff101af",
+        "crc32": "0a41775a"
+      }
+    },
+    {
+      "filename": "Final Fantasy IX (Spain) (Disc 2).bin",
+      "filesize": 689147760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd8a09f394b7818ee3d6cf3e3f8aa3ee",
+        "sha1": "4e6c11ccb68af2fc29d6d4331b56599af2931f29",
+        "crc32": "8b342053"
+      }
+    }
+  ]
+}

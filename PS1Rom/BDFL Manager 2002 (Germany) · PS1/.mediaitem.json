@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BDFL Manager 2002 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BDFL Manager 2002 (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00e17bbb43d149c9f872e168c2e85217",
+        "sha1": "9cc866e0ee29c9d92a7f1767df76800a33f6f59e",
+        "crc32": "cf1ecf8a"
+      }
+    },
+    {
+      "filename": "BDFL Manager 2002 (Germany).bin",
+      "filesize": 549213168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a78224d6208ec45312bc19d456e26d00",
+        "sha1": "171662170b2b9e33be4b297d85ba07669870a97e",
+        "crc32": "01111e7f"
+      }
+    }
+  ]
+}

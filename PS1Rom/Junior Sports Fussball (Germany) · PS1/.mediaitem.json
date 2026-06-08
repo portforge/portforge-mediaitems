@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Junior Sports Fussball (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Junior Sports Fussball (Germany).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62f3d703277ef1d35d707a94ddc167c6",
+        "sha1": "9ab314046983418f69914976afbb79566707f6eb",
+        "crc32": "b1f67bb3"
+      }
+    },
+    {
+      "filename": "Junior Sports Fussball (Germany).bin",
+      "filesize": 690443712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b050044b59c3adafbd1f431638aac34",
+        "sha1": "3e92992de7b629be685d49cb857cd7308c98f3b5",
+        "crc32": "019a49cc"
+      }
+    }
+  ]
+}

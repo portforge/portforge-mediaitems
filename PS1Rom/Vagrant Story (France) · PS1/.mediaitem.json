@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vagrant Story (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vagrant Story (France).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec2657e20a10e080e968f281b52c4f70",
+        "sha1": "193212ceebe6b4199bd67715a09a449f632a9ce7",
+        "crc32": "6818efc8"
+      }
+    },
+    {
+      "filename": "Vagrant Story (France).bin",
+      "filesize": 750643152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb9dd38f415df910e744c34b3251c30f",
+        "sha1": "6c65136683018c0746569c990956bf05555e335b",
+        "crc32": "9ccb346e"
+      }
+    }
+  ]
+}

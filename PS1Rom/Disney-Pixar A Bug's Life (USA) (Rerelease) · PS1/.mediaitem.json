@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar A Bug's Life (USA) (Rerelease)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar A Bug's Life (USA) (Rerelease).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "398c1a2b3f951fea13e2b1f8b46409b8",
+        "sha1": "ef39efd8ee7fd04bc0ee55c86991f00d8dc791a8",
+        "crc32": "08d69f1e"
+      }
+    },
+    {
+      "filename": "Disney-Pixar A Bug's Life (USA) (Rerelease).bin",
+      "filesize": 720789216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0cf20c523a858dd2d8d5bb2a1404731",
+        "sha1": "0f07547e995851f84b1708bee7c85ce182565cc4",
+        "crc32": "ed6e4cb9"
+      }
+    }
+  ]
+}

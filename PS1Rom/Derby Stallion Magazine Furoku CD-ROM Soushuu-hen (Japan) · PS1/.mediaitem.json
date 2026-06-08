@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Derby Stallion Magazine Furoku CD-ROM Soushuu-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Derby Stallion Magazine Furoku CD-ROM Soushuu-hen (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d86146e67de54d622f4fe5b50bdb1694",
+        "sha1": "091f4bec4a65008705d1648443bb77f0e233e089",
+        "crc32": "8bd7e8a8"
+      }
+    },
+    {
+      "filename": "Derby Stallion Magazine Furoku CD-ROM Soushuu-hen (Japan).bin",
+      "filesize": 132170640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f81ef692023a48658fda456854aab5d6",
+        "sha1": "24a71743a05b8cbb444d8b3d32038fff8bee3c04",
+        "crc32": "6c4ba3ce"
+      }
+    }
+  ]
+}

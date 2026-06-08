@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Ball Z - Ultimate Battle 22 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Ball Z - Ultimate Battle 22 (Europe).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6539c0d20409168f122b5577cb8b5a88",
+        "sha1": "652003ab392921f63206423fcca818ae046a1aa3",
+        "crc32": "ce04cccb"
+      }
+    },
+    {
+      "filename": "Dragon Ball Z - Ultimate Battle 22 (Europe).bin",
+      "filesize": 335562192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddb7a6e3d9f9dda0e5295576e7d95d8b",
+        "sha1": "2bc030896e91290407f9f80446197a7e5e3eebca",
+        "crc32": "92a3adf5"
+      }
+    }
+  ]
+}

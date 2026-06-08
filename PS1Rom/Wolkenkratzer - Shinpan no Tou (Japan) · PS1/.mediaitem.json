@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wolkenkratzer - Shinpan no Tou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wolkenkratzer - Shinpan no Tou (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a06acc737754edc514f24617fb5a01e3",
+        "sha1": "e2be8e3e9287c1abf5d9862f2b01bb57b45f4364",
+        "crc32": "5e3312a0"
+      }
+    },
+    {
+      "filename": "Wolkenkratzer - Shinpan no Tou (Japan).bin",
+      "filesize": 245645232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "123112bfc2c93ac5e33b26e51669d61d",
+        "sha1": "493ebce2437245ccf3d4a79fa7bace7daf2e1099",
+        "crc32": "7bfd381d"
+      }
+    }
+  ]
+}

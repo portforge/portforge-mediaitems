@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 10 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 10 (Japan) (Disc 1).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6188cee08fa5c9b8974306c09efff490",
+        "sha1": "f11d1e7d98110a9a9d3d546a691236056d7a3703",
+        "crc32": "f75b03f5"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 10 (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 421076208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80411de3f878c6173b3897fe0ce925ef",
+        "sha1": "2d645a7bb3dbeebb9790248ab888ec1222467a10",
+        "crc32": "0220c0ab"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 10 (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

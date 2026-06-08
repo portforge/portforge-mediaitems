@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crusaders of Might and Magic (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crusaders of Might and Magic (Spain).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "57d6e606af38aa280fc4ac2c9bfdfcf6",
+        "sha1": "bb587d7f1d187a4aa8219fe54fb49ac378b23552",
+        "crc32": "f37d6534"
+      }
+    },
+    {
+      "filename": "Crusaders of Might and Magic (Spain).bin",
+      "filesize": 690810624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a563fa3e4e6607308b0fa9cc1bb31609",
+        "sha1": "9ab95f9d15bb291d49e4024d41257dc2cdb2c957",
+        "crc32": "b60d60b3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "K-1 World Grand Prix 2001 - Kaimakuban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "K-1 World Grand Prix 2001 - Kaimakuban (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ed5f5be39ffa0a0b6f160783cf3aac72",
+        "sha1": "866163c7cdbd7bf3894ac0ca009feb12fa5c69f3",
+        "crc32": "43ed8b10"
+      }
+    },
+    {
+      "filename": "K-1 World Grand Prix 2001 - Kaimakuban (Japan).bin",
+      "filesize": 424695936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d41e536e73f4167da2b80ce4e1abe4f",
+        "sha1": "a6b5f14700853db27f302fef8a68614800b4123c",
+        "crc32": "d09bd73f"
+      }
+    }
+  ]
+}

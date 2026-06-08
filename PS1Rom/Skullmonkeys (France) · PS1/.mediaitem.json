@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Skullmonkeys (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Skullmonkeys (France).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb58e19fd5a2199434f1759feeda6d85",
+        "sha1": "f36ecdc0bdd86a8ec45323b102148debd85922f4",
+        "crc32": "9feb98f3"
+      }
+    },
+    {
+      "filename": "Skullmonkeys (France).bin",
+      "filesize": 657964944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1707c214166e56edc10bf678d4666b20",
+        "sha1": "e30d6260f1aa0cc585f810a5f52e460a85975b24",
+        "crc32": "67832693"
+      }
+    }
+  ]
+}

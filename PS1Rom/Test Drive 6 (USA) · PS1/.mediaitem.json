@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Test Drive 6 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Test Drive 6 (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8351d4a4c7d76bc17e2eac456fdd5c46",
+        "sha1": "dcc7a9dd6ec143cc727a695c55c7ce9eea69516a",
+        "crc32": "14e7323f"
+      }
+    },
+    {
+      "filename": "Test Drive 6 (USA).bin",
+      "filesize": 482230560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd09459a496fd8eda90b8377b3ecedb5",
+        "sha1": "9f9edfef539218d3321819f42196bab836bd90aa",
+        "crc32": "00ee3098"
+      }
+    }
+  ]
+}

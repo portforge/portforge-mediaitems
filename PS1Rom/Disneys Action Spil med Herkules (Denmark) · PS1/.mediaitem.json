@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Action Spil med Herkules (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Action Spil med Herkules (Denmark).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee09b95b99c9f0a138990fadff8a8010",
+        "sha1": "349b62c8b380584e58bc4bcf7e237e54ef64cb2e",
+        "crc32": "d9ea5cb5"
+      }
+    },
+    {
+      "filename": "Disneys Action Spil med Herkules (Denmark).bin",
+      "filesize": 399682416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "266478d18e61a1e0c1c4e0cabd2666cd",
+        "sha1": "817bef1ed9fdf7040bf54bd769f5aa3ac88f9638",
+        "crc32": "a4692a62"
+      }
+    }
+  ]
+}

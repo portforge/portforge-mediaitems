@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blast Radius (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blast Radius (Europe).cue",
+      "filesize": 1258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c7a1ae452bd7a17c61daa5328595f8de",
+        "sha1": "5081c66881799753d9a50317e8520465d3de1786",
+        "crc32": "8cddcb5d"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 01).bin",
+      "filesize": 195333600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "722f2a6bd3a278195532e768d1fe1926",
+        "sha1": "a99a63534f894ffdeac3ae0307514d4b10a3c327",
+        "crc32": "9a150f4c"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 02).bin",
+      "filesize": 53752608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fea0fe790877479045e60ebd0fb62de",
+        "sha1": "623aac289a921f9c49db97ec0559ac15850870bc",
+        "crc32": "b46e1496"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 03).bin",
+      "filesize": 53402160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d242a4dc1976e841c1e2e98a85c19e9",
+        "sha1": "2f1d2e9c33c1a2c5884137d83a9da0f168c6f21b",
+        "crc32": "0338eb9c"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 04).bin",
+      "filesize": 53783184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0f7ad2a5a0ccbc62d72e9d995132e76",
+        "sha1": "58d59e9259d6189c7bc052056878876190de3548",
+        "crc32": "c357ed87"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 05).bin",
+      "filesize": 52701264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07077d207fa9be35a1d0bcbff58a1415",
+        "sha1": "6ee2b3308d563854d67a8b39e9be8e3701cce91a",
+        "crc32": "fc4cb9fa"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 06).bin",
+      "filesize": 48060768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90204ffab138ddd5367b568dfc8e4ecb",
+        "sha1": "726d9281c4a9db9c78d9a78de6890266dd346c5e",
+        "crc32": "b9534f58"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 07).bin",
+      "filesize": 53007024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ac5200cd7cbcc4d0d045945b4c0170b",
+        "sha1": "e785269c0f966234917a152729fc57ffc9db1d41",
+        "crc32": "8f2b1c6e"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 08).bin",
+      "filesize": 45567648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bec8aef3e2aab628aa2fb8d3aff83b3e",
+        "sha1": "f6e3f04c8fd7e8c27a2e3cc4dd15da3e768afa13",
+        "crc32": "4d4ec6f9"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 09).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcb243017a05f260b3d60f85dda3ea1c",
+        "sha1": "39aa029da1aae142698c23cd1b0217fba8c1a3e5",
+        "crc32": "0f246f5a"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 10).bin",
+      "filesize": 41183520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98e7dfaf3833187e0fbd30385fa469ab",
+        "sha1": "4545acbc79b36b47044067d8fcd182eb46ccb006",
+        "crc32": "9b97c822"
+      }
+    },
+    {
+      "filename": "Blast Radius (Europe) (Track 11).bin",
+      "filesize": 45066672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "870a8b418ee44907dfdcdeac63dc12d8",
+        "sha1": "1d13a5095445a15bb1a25b8c4a565d9ec6be8228",
+        "crc32": "f5cfef00"
+      }
+    }
+  ]
+}

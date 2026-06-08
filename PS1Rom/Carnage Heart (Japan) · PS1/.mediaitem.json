@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Carnage Heart (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Carnage Heart (Japan).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b66a6a90f6c637c536a229e62dba1d9c",
+        "sha1": "52d8bab03825f6ed412d66b5aa6e020602e61e92",
+        "crc32": "eac1aa09"
+      }
+    },
+    {
+      "filename": "Carnage Heart (Japan) (Track 1).bin",
+      "filesize": 68523168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7e3b8eba2b7a20934d9df83f5dd2ad5",
+        "sha1": "89f581449946b910f57c76bbf25014aa35dc681f",
+        "crc32": "e2f46724"
+      }
+    },
+    {
+      "filename": "Carnage Heart (Japan) (Track 2).bin",
+      "filesize": 24199728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a30262235325a9488bc63d2c27b59a3",
+        "sha1": "63ee7fcf998cf68fc5ea875cd1deefe137208c88",
+        "crc32": "355cbcf3"
+      }
+    },
+    {
+      "filename": "Carnage Heart (Japan) (Track 3).bin",
+      "filesize": 48046656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c2c2f6636442fea063edebdbe7ca776",
+        "sha1": "0fa4f790a1933cb33e74079b46d054b14035b93b",
+        "crc32": "b61487ab"
+      }
+    }
+  ]
+}

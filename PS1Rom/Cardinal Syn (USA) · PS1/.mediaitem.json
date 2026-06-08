@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cardinal Syn (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cardinal Syn (USA).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5ae099e08d490793a8a8245b3552bafb",
+        "sha1": "ad3ce2237834017b7c5351da6fab6355db34d0b3",
+        "crc32": "bd1fb8ca"
+      }
+    },
+    {
+      "filename": "Cardinal Syn (USA) (Track 1).bin",
+      "filesize": 588799680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5391ed66a3bff47d019e218c5085562",
+        "sha1": "2e5dcddbd7d05f9c6ecc53403d584a40250dbf7d",
+        "crc32": "385620ca"
+      }
+    },
+    {
+      "filename": "Cardinal Syn (USA) (Track 2).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

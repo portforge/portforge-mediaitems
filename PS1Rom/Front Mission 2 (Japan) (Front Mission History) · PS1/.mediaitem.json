@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Front Mission 2 (Japan) (Front Mission History)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Front Mission 2 (Japan) (Front Mission History).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "490239a80a9125fc50abbf38dca3cdd4",
+        "sha1": "d527fa2cfe962e178168a9aa07b2fa710e477e6e",
+        "crc32": "1f09087d"
+      }
+    },
+    {
+      "filename": "Front Mission 2 (Japan) (Front Mission History).bin",
+      "filesize": 426215328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41acf140394bf0e0254294039607e260",
+        "sha1": "1085ed72116b373c8dcc1baab2026d7464657291",
+        "crc32": "a0ebb70b"
+      }
+    }
+  ]
+}

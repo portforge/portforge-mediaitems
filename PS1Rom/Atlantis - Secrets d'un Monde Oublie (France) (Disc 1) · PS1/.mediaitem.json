@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atlantis - Secrets d'un Monde Oublie (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atlantis - Secrets d'un Monde Oublie (France) (Disc 1).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea0dc5ee00d4e7fb9d1dd810266ddca2",
+        "sha1": "6d82e518c7a2c0308b21e64844b48fcc36abeb74",
+        "crc32": "95ec791f"
+      }
+    },
+    {
+      "filename": "Atlantis - Secrets d'un Monde Oublie (France) (Disc 1).bin",
+      "filesize": 620116560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e7157ef26a7c142351411ccdd770111",
+        "sha1": "e5f7b2a3e654cad963b95021cb900701c280e3cf",
+        "crc32": "876dc888"
+      }
+    }
+  ]
+}

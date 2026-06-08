@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ningyo no Rakuin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ningyo no Rakuin (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59a5cbd8c60e0479fc3e6ebbf0a27454",
+        "sha1": "96c8f9fb4f9515ede066d9ed4ee92bfdc8c5dbaf",
+        "crc32": "db4e5244"
+      }
+    },
+    {
+      "filename": "Ningyo no Rakuin (Japan).bin",
+      "filesize": 284046336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "021e7812bd5110ce09110e9ca4382946",
+        "sha1": "b5a84494e6b5c5ae914f2c631f32f23e5bbf7b16",
+        "crc32": "f6e4eec5"
+      }
+    }
+  ]
+}

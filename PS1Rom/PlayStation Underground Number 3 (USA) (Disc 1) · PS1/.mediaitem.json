@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Number 3 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Number 3 (USA) (Disc 1).cue",
+      "filesize": 546,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a9f06eb88e5d3fa90354d7782d1b2ddf",
+        "sha1": "fd687dd85e27a1144c6218f37cf53b3eae325cb3",
+        "crc32": "362cc508"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 3 (USA) (Disc 1) (Track 1).bin",
+      "filesize": 692983872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9fadd6499a303de6a2a7964ddb79073",
+        "sha1": "d4908bda381e4bc83c4e7af30961794b49366628",
+        "crc32": "97922c27"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 3 (USA) (Disc 1) (Track 2).bin",
+      "filesize": 25530960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "036490fa03602818a106deea8b84427e",
+        "sha1": "e6105fe0e24bd5bd1128d5ad4c136ab72708416a",
+        "crc32": "74f6dff0"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 3 (USA) (Disc 1) (Track 3).bin",
+      "filesize": 20638800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e54b50a212ce5f0bffd81b3dab4b4dfa",
+        "sha1": "0ae38ac597d87c6b50670c1abf4681831c2222de",
+        "crc32": "70c90f37"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 3 (USA) (Disc 1) (Track 4).bin",
+      "filesize": 2810640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09607479224f7af39a820636b7cc80b3",
+        "sha1": "3d6927d664fae2469f64cf14cb6fe244aa8e7faa",
+        "crc32": "1cedfbe7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 2 (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 2 (France) (Disc 1).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6db2b9fe47a7519dfc811a61606a5000",
+        "sha1": "cb4fe9d634cfec0c4dec1a93093180b808cc34a3",
+        "crc32": "257837af"
+      }
+    },
+    {
+      "filename": "Syphon Filter 2 (France) (Disc 1).bin",
+      "filesize": 732408096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88db7799f93fb988fe8898eda10f6735",
+        "sha1": "51d700b031cdadf16e792c0b080d52cc30447290",
+        "crc32": "b1ea4812"
+      }
+    }
+  ]
+}

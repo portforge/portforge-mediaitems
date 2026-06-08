@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mystic Ark - Maboroshi Gekijou (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mystic Ark - Maboroshi Gekijou (Japan) (Demo).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "adf73d2f90e79cbf3f72664b3ca4678a",
+        "sha1": "6e6026c856a4718593ab8641c26a030603a7249d",
+        "crc32": "6c60b8df"
+      }
+    },
+    {
+      "filename": "Mystic Ark - Maboroshi Gekijou (Japan) (Demo).bin",
+      "filesize": 69167616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db96e66f194bf8bae70a58d81365ed5d",
+        "sha1": "fe895a7dde1547643eef9fd4230ff5ef9406c852",
+        "crc32": "dec44129"
+      }
+    }
+  ]
+}

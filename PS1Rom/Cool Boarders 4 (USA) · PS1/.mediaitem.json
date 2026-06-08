@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cool Boarders 4 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cool Boarders 4 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9dbec6107e6ad1c995882f04feb92950",
+        "sha1": "a820c2cd413941d0e75b503df828524c65f84b29",
+        "crc32": "87e6a945"
+      }
+    },
+    {
+      "filename": "Cool Boarders 4 (USA).bin",
+      "filesize": 228329808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0db300017b85779a26f560a128bddd3f",
+        "sha1": "ddb7cafe3ede89e0b8c75859bb6c6a54c3b84666",
+        "crc32": "1ad3a019"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pet in TV - With My Dear Dog (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pet in TV - With My Dear Dog (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d19f2b26a2eb64bac870e00e66bca39",
+        "sha1": "9aadd5f33452e93a63c62ff9660deab7bf361f70",
+        "crc32": "d1f3d631"
+      }
+    },
+    {
+      "filename": "Pet in TV - With My Dear Dog (Japan).bin",
+      "filesize": 355241376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1603692d2a79e65a48621908b1919c14",
+        "sha1": "319ee69ab2e610fa0a0b08741aef9802bfc4e1a2",
+        "crc32": "3ec5d959"
+      }
+    }
+  ]
+}

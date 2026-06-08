@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Quiz Nanairo Dreams - Nijiiro-chou no Kiseki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Quiz Nanairo Dreams - Nijiiro-chou no Kiseki (Japan).cue",
+      "filesize": 420,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f24c5e6622c89859f2d5b056023bba46",
+        "sha1": "d626568d1756c49c7f9773ff98f095b2ab372d5c",
+        "crc32": "0e6ae37a"
+      }
+    },
+    {
+      "filename": "Quiz Nanairo Dreams - Nijiiro-chou no Kiseki (Japan) (Track 1).bin",
+      "filesize": 486186624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22e91d34b8bd330d3c25345d251dbfc7",
+        "sha1": "6edba8cf730364e718d639d52ea4a523a9dec2fd",
+        "crc32": "598f4909"
+      }
+    },
+    {
+      "filename": "Quiz Nanairo Dreams - Nijiiro-chou no Kiseki (Japan) (Track 2).bin",
+      "filesize": 5520144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e93fb8b6be99dd62dab1d91fe1d20c4",
+        "sha1": "cc7631258842e1845bcf4e9886bdeba6782ae539",
+        "crc32": "5a21e732"
+      }
+    },
+    {
+      "filename": "Quiz Nanairo Dreams - Nijiiro-chou no Kiseki (Japan) (Track 3).bin",
+      "filesize": 3055248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d687ef30d7aef16627a2bc571b3724d7",
+        "sha1": "de5c5361cce805d77443b7ee4f4707b036b97f19",
+        "crc32": "91fb62e3"
+      }
+    }
+  ]
+}

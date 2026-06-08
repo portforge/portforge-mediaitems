@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hybrid (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hybrid (Japan).cue",
+      "filesize": 630,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efc9bbc5e7727fb10105f845144b157c",
+        "sha1": "a5c983d8f051a43a66cae06c9f17da4f0ec2c17b",
+        "crc32": "f9b8e53c"
+      }
+    },
+    {
+      "filename": "Hybrid (Japan) (Track 1).bin",
+      "filesize": 122743824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cbb9f8848eb95f125a992c3bdb78331",
+        "sha1": "fdd83b0bc9cfea17589618789a2bbe8256e265b5",
+        "crc32": "e0b19c35"
+      }
+    },
+    {
+      "filename": "Hybrid (Japan) (Track 2).bin",
+      "filesize": 28769664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e5cdf2b27da607e4c12211118ef6577",
+        "sha1": "25a17ba74ef70a2e2d641f949e864762aeeb3c09",
+        "crc32": "93f48b61"
+      }
+    },
+    {
+      "filename": "Hybrid (Japan) (Track 3).bin",
+      "filesize": 36354864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e2867a37b84a502ffa5c500d0190a0e",
+        "sha1": "0505a33e0815e181ba19775ed09208e2c606ea62",
+        "crc32": "8e2033a7"
+      }
+    },
+    {
+      "filename": "Hybrid (Japan) (Track 4).bin",
+      "filesize": 35308224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64912865b772cb0f3031cf0d21d8a569",
+        "sha1": "e20f441d66385e43cf34d96dbc7f6f6441e9f4c5",
+        "crc32": "fbe0ff54"
+      }
+    },
+    {
+      "filename": "Hybrid (Japan) (Track 5).bin",
+      "filesize": 33518352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51ddc69bf3fd98976900739eddbdf895",
+        "sha1": "88d7831ed90e138cf15680c0807f45a1ded2aaf6",
+        "crc32": "5ca20aaa"
+      }
+    },
+    {
+      "filename": "Hybrid (Japan) (Track 6).bin",
+      "filesize": 36354864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e2867a37b84a502ffa5c500d0190a0e",
+        "sha1": "0505a33e0815e181ba19775ed09208e2c606ea62",
+        "crc32": "8e2033a7"
+      }
+    }
+  ]
+}

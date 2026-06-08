@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legacy of Kain - Soul Reaver (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legacy of Kain - Soul Reaver (France).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "93542097c6d3659c1477fb5dd977e09c",
+        "sha1": "fcf6ae03dc5b9f92d242917af49a9112657c0a84",
+        "crc32": "d0f071a3"
+      }
+    },
+    {
+      "filename": "Legacy of Kain - Soul Reaver (France).bin",
+      "filesize": 700547904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb19c646b3d509dfe94dc56aeb187e53",
+        "sha1": "d2ac7b65276e672ace468fbc0801e176b234ef4b",
+        "crc32": "f761a589"
+      }
+    }
+  ]
+}

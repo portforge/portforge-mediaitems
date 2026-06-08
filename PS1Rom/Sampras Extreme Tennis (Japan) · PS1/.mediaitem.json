@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sampras Extreme Tennis (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sampras Extreme Tennis (Japan).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30c2f4b2696962be6f9c810a5c3effcb",
+        "sha1": "0bacc6a64b05c566f0e8734b0c491d6f27592ad2",
+        "crc32": "f57276a8"
+      }
+    },
+    {
+      "filename": "Sampras Extreme Tennis (Japan) (Track 1).bin",
+      "filesize": 544250448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fe45be195bc165d6dd90d898b80f6ea",
+        "sha1": "e00bd7506582d5caf24fa1821bb07ae87cde832d",
+        "crc32": "9ef4f8cb"
+      }
+    },
+    {
+      "filename": "Sampras Extreme Tennis (Japan) (Track 2).bin",
+      "filesize": 41543376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8659c425e967cd360dd0ea245bb626a2",
+        "sha1": "3d6468863690e21f935f9be3ec961f78ba1493d3",
+        "crc32": "c206e837"
+      }
+    }
+  ]
+}

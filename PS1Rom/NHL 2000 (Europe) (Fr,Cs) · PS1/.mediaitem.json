@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL 2000 (Europe) (Fr,Cs)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL 2000 (Europe) (Fr,Cs).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad06ab907eaea612c6af260aeafac7c6",
+        "sha1": "27620194a53f85f578ba394682452db5286062f6",
+        "crc32": "c5485099"
+      }
+    },
+    {
+      "filename": "NHL 2000 (Europe) (Fr,Cs).bin",
+      "filesize": 716132256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47504746d19ae4efb719857cd6faea5c",
+        "sha1": "e7e77e6f15acfab18d22fd6fe15d0a65ed8d9e57",
+        "crc32": "d5349769"
+      }
+    }
+  ]
+}

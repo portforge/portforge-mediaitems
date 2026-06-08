@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Martialbeat (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Martialbeat (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3486c26853979355d98be13bd9cf00d",
+        "sha1": "79a991bd15e4dae70a2e809d3cc99457007a981e",
+        "crc32": "39a79981"
+      }
+    },
+    {
+      "filename": "Martialbeat (Japan).bin",
+      "filesize": 687868272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0e9e21bf19931b53f2307575dd0e980",
+        "sha1": "28df3a9b5331a7fabe4f47cc4a4dcbe5c958fe77",
+        "crc32": "376f0ae5"
+      }
+    }
+  ]
+}

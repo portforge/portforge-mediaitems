@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "D (France) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "D (France) (Disc 3).cue",
+      "filesize": 321,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b172769bbcd3e8b352cb5489919a9342",
+        "sha1": "59f0ff7f5aefb4856eaa7b8d67ac21aa8acb10fb",
+        "crc32": "867f0ee5"
+      }
+    },
+    {
+      "filename": "D (France) (Disc 3) (Track 1).bin",
+      "filesize": 430550064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c506214855035babbbf8c1c6cd92b8f6",
+        "sha1": "2a1f229ac23c633894e76e09f98bb1dc1b80da97",
+        "crc32": "0cdd916d"
+      }
+    },
+    {
+      "filename": "D (France) (Disc 3) (Track 2).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ba6f77561e3048dd5e806e3dea91819",
+        "sha1": "2ba9efd804b5e5574e8145eb6838d3de1006a552",
+        "crc32": "7c276009"
+      }
+    },
+    {
+      "filename": "D (France) (Disc 3) (Track 3).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

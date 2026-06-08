@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "16 Tales 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "16 Tales 3 (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1daa5f4d9a25428eae476667ee3c4938",
+        "sha1": "e5e9c9299f81f5eac791891721cb8417f3bbc30a",
+        "crc32": "b8d082b5"
+      }
+    },
+    {
+      "filename": "16 Tales 3 (USA).bin",
+      "filesize": 624190224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2eda7b4cbd4fdf59f18aef6272450807",
+        "sha1": "10473b608a55f81d5b724d238d55c7f5cb4bdc88",
+        "crc32": "a09e982f"
+      }
+    }
+  ]
+}

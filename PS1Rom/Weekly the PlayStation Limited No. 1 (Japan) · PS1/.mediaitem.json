@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Weekly the PlayStation Limited No. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Weekly the PlayStation Limited No. 1 (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7c20c1b4c4b429942d21ae8f66b801f6",
+        "sha1": "fa2cfed8dbe3582580a871a7261d553f8467af3d",
+        "crc32": "d0d095ba"
+      }
+    },
+    {
+      "filename": "Weekly the PlayStation Limited No. 1 (Japan).bin",
+      "filesize": 314742288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ceef9e7d18a84ee2bc458d2ae33fa477",
+        "sha1": "0811baa47d26353222fe006599133f374f58d5e6",
+        "crc32": "32a7c3f5"
+      }
+    }
+  ]
+}

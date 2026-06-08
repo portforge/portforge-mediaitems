@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kurumi Miracle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kurumi Miracle (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a1743ce47ea2c40c5b94793e0b371b5",
+        "sha1": "714e1853f0b00b493f918fb1fe82e917c29df668",
+        "crc32": "b45ef79f"
+      }
+    },
+    {
+      "filename": "Kurumi Miracle (Japan) (Track 1).bin",
+      "filesize": 381118080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b40ef7c76d56a79428e0fb2b7d2cd1c",
+        "sha1": "cb424ffa328bc37610eb40d80d9222f20204ec76",
+        "crc32": "c5805e03"
+      }
+    },
+    {
+      "filename": "Kurumi Miracle (Japan) (Track 2).bin",
+      "filesize": 33650064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "641e78c6b410597759d3ceafcc590ed7",
+        "sha1": "2f880c489a47dfa054cc27dada0c071412e31ca0",
+        "crc32": "3105d8eb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soul Edge (Japan) (Gentei Box)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soul Edge (Japan) (Gentei Box).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6fe1478f8f6fc0d3acc06fe28590ce63",
+        "sha1": "058cd74ee8ccc9b84193903f78a3ed5bf6f2c775",
+        "crc32": "93805cfd"
+      }
+    },
+    {
+      "filename": "Soul Edge (Japan) (Gentei Box).bin",
+      "filesize": 500359776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "151dde612bbebdcca1d08488149c1899",
+        "sha1": "df34ad89d57d33166ffc146c517a615611e34560",
+        "crc32": "1ff3da14"
+      }
+    }
+  ]
+}

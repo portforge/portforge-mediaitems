@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Armored Core - Master of Arena (Japan) (Disc 2) (PSone Books)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Armored Core - Master of Arena (Japan) (Disc 2) (PSone Books).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "70804ed4cdb04e83b1432d7e7268557f",
+        "sha1": "44a463ae7a6cef9cb39d35875cad3fcc29162781",
+        "crc32": "8451f534"
+      }
+    },
+    {
+      "filename": "Armored Core - Master of Arena (Japan) (Disc 2) (PSone Books).bin",
+      "filesize": 698835648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcb0464543a539014f47fc4349271dc5",
+        "sha1": "9362513220322919085f4768abef837ea7d9d3ce",
+        "crc32": "426d9df4"
+      }
+    }
+  ]
+}

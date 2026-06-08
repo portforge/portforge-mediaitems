@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 10 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 10 (USA).cue",
+      "filesize": 864,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b7b584424b0c6fe0427cd086038aa8f",
+        "sha1": "e16827ab44b8ca136cee58aa3c3094f0be43ece8",
+        "crc32": "d7385fc4"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 10 (USA) (Track 1).bin",
+      "filesize": 487188576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "886cc49a4ca044c2fc66c33264de09fb",
+        "sha1": "d9b8dd1a4cba74d130f33b31d3e57f905213bc4e",
+        "crc32": "77a92335"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 10 (USA) (Track 2).bin",
+      "filesize": 20349504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6897c7003d21d478cce671142827840",
+        "sha1": "55eef285d51fc96c13aa579a0bcc2a3eae387d4c",
+        "crc32": "8219081c"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 10 (USA) (Track 3).bin",
+      "filesize": 11625936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c2253773e248aea18f218417b10775f",
+        "sha1": "ab563444dbdae638bdd045b6ef997e50c8596bec",
+        "crc32": "c72df971"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 10 (USA) (Track 4).bin",
+      "filesize": 1331232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2772593ad1d463fc1136e799884a2f7",
+        "sha1": "a7824841ce0fd60a2cac7a81faf75a6084299b0a",
+        "crc32": "6c7a0b09"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 10 (USA) (Track 5).bin",
+      "filesize": 30653616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8901c455578be7fdb4af38df572c4c10",
+        "sha1": "4aa2f1124ab53d2c976cbdb4350ef7639fed41f5",
+        "crc32": "af44cb28"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 10 (USA) (Track 6).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

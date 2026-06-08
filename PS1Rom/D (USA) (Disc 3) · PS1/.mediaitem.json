@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "D (USA) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "D (USA) (Disc 3).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f989c896a021b50b3b7b0019b6df5f5",
+        "sha1": "83834c82037afc2017e3de7623e85ed0ea50e608",
+        "crc32": "cf89ce6d"
+      }
+    },
+    {
+      "filename": "D (USA) (Disc 3) (Track 1).bin",
+      "filesize": 430474800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0395ad08dfcdff822033863de058360",
+        "sha1": "b4dbd1ae384fe844ca7d2452c08ea7645d0647cb",
+        "crc32": "384a281a"
+      }
+    },
+    {
+      "filename": "D (USA) (Disc 3) (Track 2).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ba6f77561e3048dd5e806e3dea91819",
+        "sha1": "2ba9efd804b5e5574e8145eb6838d3de1006a552",
+        "crc32": "7c276009"
+      }
+    },
+    {
+      "filename": "D (USA) (Disc 3) (Track 3).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

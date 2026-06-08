@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Magische Tetris Uitdaging (Netherlands)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Magische Tetris Uitdaging (Netherlands).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "be0549a5d0fc108cf3fed471fdc986bc",
+        "sha1": "a3b7a6f62d2b9b22213164bc1ff436eaa0bfe041",
+        "crc32": "c47beeaa"
+      }
+    },
+    {
+      "filename": "Magische Tetris Uitdaging (Netherlands) (Track 1).bin",
+      "filesize": 319276944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aee6c4d942927152805690c44e7979dd",
+        "sha1": "adc0a78ff324436a47fc373f25ebbdf855e3fa4d",
+        "crc32": "8d67dbb7"
+      }
+    },
+    {
+      "filename": "Magische Tetris Uitdaging (Netherlands) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

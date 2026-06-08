@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Brave Prove (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Brave Prove (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ed3f79be630dd52a9856069e9b2f3358",
+        "sha1": "5fa4870c65fd0e279ddf05382fc8a3b571caec7c",
+        "crc32": "d0d4632e"
+      }
+    },
+    {
+      "filename": "Brave Prove (Japan).bin",
+      "filesize": 197866704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ede8a69149c9e0d1280eb37016440aa",
+        "sha1": "4a699d8bdf7cea8e67df8e4e7e11d2be5f7cbe21",
+        "crc32": "bc99727a"
+      }
+    }
+  ]
+}

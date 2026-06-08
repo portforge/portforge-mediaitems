@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "70's Robot Anime - Geppy-X (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "70's Robot Anime - Geppy-X (Japan) (Demo).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "862dbf2849671e6ad0449aebfa650f12",
+        "sha1": "0bec113860a36a24deaeab4bb3be66257efa3d45",
+        "crc32": "98f14030"
+      }
+    },
+    {
+      "filename": "70's Robot Anime - Geppy-X (Japan) (Demo).bin",
+      "filesize": 450104592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22b15b7e5691dd4acf8205c43f6e8726",
+        "sha1": "beb5ec35d0fb60fa14bcb49dfbbc48cbf57a95d0",
+        "crc32": "468e978a"
+      }
+    }
+  ]
+}

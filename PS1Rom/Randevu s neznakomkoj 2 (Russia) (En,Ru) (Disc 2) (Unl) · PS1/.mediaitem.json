@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Randevu s neznakomkoj 2 (Russia) (En,Ru) (Disc 2) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Randevu s neznakomkoj 2 (Russia) (En,Ru) (Disc 2) (Unl).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "09feb97345438421a81a750185220471",
+        "sha1": "1a40c7d9d825b9b403f925f12f3fae38e1f78e4a",
+        "crc32": "ba33baee"
+      }
+    },
+    {
+      "filename": "Randevu s neznakomkoj 2 (Russia) (En,Ru) (Disc 2) (Unl).bin",
+      "filesize": 817101264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86cb30002a7540de28b283cbc09496f9",
+        "sha1": "81b6289267e1e1499771fade4bda44cb934af655",
+        "crc32": "ca09b2c6"
+      }
+    }
+  ]
+}

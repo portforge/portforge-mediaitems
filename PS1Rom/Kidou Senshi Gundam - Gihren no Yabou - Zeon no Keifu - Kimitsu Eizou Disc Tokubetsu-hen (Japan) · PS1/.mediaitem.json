@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kimitsu Eizou Disc Tokubetsu-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kimitsu Eizou Disc Tokubetsu-hen (Japan).cue",
+      "filesize": 362,
+      "ext": "cue",
+      "checksums": {
+        "md5": "182f2d649a41b6fd8bf8d8e93e17f7da",
+        "sha1": "6299db3d295e1f4911ecf9bb3f8d964c48bc8a45",
+        "crc32": "170d8c0d"
+      }
+    },
+    {
+      "filename": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kimitsu Eizou Disc Tokubetsu-hen (Japan) (Track 1).bin",
+      "filesize": 721040880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bad389c44b891ddd8eab9f70dcc56e8",
+        "sha1": "fd4a4852bd256e9976022d32105c0347ec48e6c4",
+        "crc32": "47a5ab3e"
+      }
+    },
+    {
+      "filename": "Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu - Kimitsu Eizou Disc Tokubetsu-hen (Japan) (Track 2).bin",
+      "filesize": 22115856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bb37e0cbfd0dd88eab6cb75b0d2cb56",
+        "sha1": "ad6f74a1b0277e8d5663257b56c45ca643e972e3",
+        "crc32": "4f0b7804"
+      }
+    }
+  ]
+}

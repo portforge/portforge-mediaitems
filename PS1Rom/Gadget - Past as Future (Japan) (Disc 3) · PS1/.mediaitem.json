@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gadget - Past as Future (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gadget - Past as Future (Japan) (Disc 3).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "690641c6dd8ed193005797812bed109f",
+        "sha1": "24e3023088a02f76b752c4661e37fac53e213439",
+        "crc32": "336b28ff"
+      }
+    },
+    {
+      "filename": "Gadget - Past as Future (Japan) (Disc 3).bin",
+      "filesize": 454093584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72b49df20402cc44a8a084f647dbd39b",
+        "sha1": "f9da2bc965bc8d22c19ab9e1f53e42648e31c42f",
+        "crc32": "42f9ebf5"
+      }
+    }
+  ]
+}

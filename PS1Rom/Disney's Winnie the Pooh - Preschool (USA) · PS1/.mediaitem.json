@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Winnie the Pooh - Preschool (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Winnie the Pooh - Preschool (USA).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "585332182e99cdb7503596c6bc093d33",
+        "sha1": "428b6aa7d3dd01081c7aa769a75fbb1632d4f766",
+        "crc32": "476a7707"
+      }
+    },
+    {
+      "filename": "Disney's Winnie the Pooh - Preschool (USA).bin",
+      "filesize": 690135600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "391c367ce751640ef4055210675546e3",
+        "sha1": "37fd0f9f6cfe846b5e1b9b13b88a3206caf83a59",
+        "crc32": "57231ca8"
+      }
+    }
+  ]
+}

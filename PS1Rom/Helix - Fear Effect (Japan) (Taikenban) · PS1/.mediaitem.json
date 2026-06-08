@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Helix - Fear Effect (Japan) (Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Helix - Fear Effect (Japan) (Taikenban).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "48720d4e115ee8563d583d5f42106880",
+        "sha1": "d49c5cdda3b667a1323db0ad0ee7b8e486d1068e",
+        "crc32": "69ac8f16"
+      }
+    },
+    {
+      "filename": "Helix - Fear Effect (Japan) (Taikenban).bin",
+      "filesize": 467803392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3dbf7c0703b1815e4f2b858965ed057",
+        "sha1": "d361569de468dee3130fa2980292f9bc805408a2",
+        "crc32": "9f25cd7d"
+      }
+    }
+  ]
+}

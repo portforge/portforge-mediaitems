@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fushigi no Kuni no Angelique (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fushigi no Kuni no Angelique (Japan).cue",
+      "filesize": 502,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60bfcf54c04c13fd8f1080ec0645746f",
+        "sha1": "efe9d03f2ad0b07b494b783b46cca8322a55447d",
+        "crc32": "2fc2c399"
+      }
+    },
+    {
+      "filename": "Fushigi no Kuni no Angelique (Japan) (Track 1).bin",
+      "filesize": 209229216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3ad679050ef9bc8b91feaa641c7b908",
+        "sha1": "54e06edb7a07ebbfed614571a503df29d8c2b85f",
+        "crc32": "a30273cc"
+      }
+    },
+    {
+      "filename": "Fushigi no Kuni no Angelique (Japan) (Track 2).bin",
+      "filesize": 174116208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fdd19a8e4cda9646d7a8a581707e840",
+        "sha1": "e5af614e505cee81c6d2a69a601753df0400e962",
+        "crc32": "b00c8651"
+      }
+    },
+    {
+      "filename": "Fushigi no Kuni no Angelique (Japan) (Track 3).bin",
+      "filesize": 32201232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2ba96808a2fdddd93b276058c0c630b",
+        "sha1": "3b457db8d68cb462ef8b94700db4562632e7de4d",
+        "crc32": "b2212367"
+      }
+    },
+    {
+      "filename": "Fushigi no Kuni no Angelique (Japan) (Track 4).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947f682e2ceb918118e1bfe6b6355105",
+        "sha1": "d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0",
+        "crc32": "24cad39b"
+      }
+    }
+  ]
+}

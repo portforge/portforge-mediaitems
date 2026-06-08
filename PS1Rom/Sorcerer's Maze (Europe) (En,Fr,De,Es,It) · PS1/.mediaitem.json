@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sorcerer's Maze (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sorcerer's Maze (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9d830646d472b2075d7688197338506",
+        "sha1": "0d67b88a782abe1a89ae89101e20055c8fd92917",
+        "crc32": "c0729139"
+      }
+    },
+    {
+      "filename": "Sorcerer's Maze (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 101820432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1427e2253328722434cc67a9479642ed",
+        "sha1": "d3d735e7f99729c599ed924e4bb6e702c26c90c9",
+        "crc32": "b2c41a99"
+      }
+    }
+  ]
+}

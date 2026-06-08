@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kula World (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kula World (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b2bb40fd474e01329b3323b6fef2aaa",
+        "sha1": "e3a08cd832c16d6eca3ff8605a5e3c2c2d4c7904",
+        "crc32": "19c2c7ee"
+      }
+    },
+    {
+      "filename": "Kula World (Europe).bin",
+      "filesize": 255123792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f675dc230354f8c3b835bf34841bd20",
+        "sha1": "0bf9fb06b73a9b5353cdcc371e188934369068da",
+        "crc32": "a9ac54a4"
+      }
+    }
+  ]
+}

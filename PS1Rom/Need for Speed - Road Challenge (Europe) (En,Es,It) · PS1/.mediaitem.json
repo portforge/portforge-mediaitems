@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Need for Speed - Road Challenge (Europe) (En,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Need for Speed - Road Challenge (Europe) (En,Es,It).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d00367d046e1865de32e8aabcd93bb13",
+        "sha1": "2e15e7eaac5fcc6509f45a54c6c0e031bf6fc57c",
+        "crc32": "6a5acb1d"
+      }
+    },
+    {
+      "filename": "Need for Speed - Road Challenge (Europe) (En,Es,It).bin",
+      "filesize": 727732320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4feea631aafe51d6ec8cd2edf2cfb847",
+        "sha1": "169f72677b0caad12b63ef8dc94e86fb832de213",
+        "crc32": "87d4469a"
+      }
+    }
+  ]
+}

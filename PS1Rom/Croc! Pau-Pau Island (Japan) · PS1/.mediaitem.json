@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Croc! Pau-Pau Island (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Croc! Pau-Pau Island (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15251bbac23b1c3999d40fe8b3dc6533",
+        "sha1": "30efe7751b45fd0710fdf97dcf3b07b063128a7c",
+        "crc32": "34ab1413"
+      }
+    },
+    {
+      "filename": "Croc! Pau-Pau Island (Japan).bin",
+      "filesize": 695763936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da117cb3e07a6ec2af5037e2f4d1a872",
+        "sha1": "cb85fd7c725df144eab78fe78a31c8f67df47de0",
+        "crc32": "2f2dc6a8"
+      }
+    }
+  ]
+}

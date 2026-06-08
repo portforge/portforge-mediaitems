@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Viva Football (Europe) (En,Fr,De,Es,It,Pt) (Rev 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Viva Football (Europe) (En,Fr,De,Es,It,Pt) (Rev 2).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6704a9b1292881059010228899675385",
+        "sha1": "4f57cc226de467fca9b414e9b2d6147171da2c2f",
+        "crc32": "b7c25aa0"
+      }
+    },
+    {
+      "filename": "Viva Football (Europe) (En,Fr,De,Es,It,Pt) (Rev 2).bin",
+      "filesize": 614808096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b136fdfcee40342a2239e86212a8cad",
+        "sha1": "73de10ed6c4e3b4d3d345b04dd31d625b1aa2211",
+        "crc32": "2fd36cf6"
+      }
+    }
+  ]
+}

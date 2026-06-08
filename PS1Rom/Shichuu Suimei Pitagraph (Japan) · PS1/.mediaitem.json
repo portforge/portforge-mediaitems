@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shichuu Suimei Pitagraph (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shichuu Suimei Pitagraph (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cfae3748200e77b636261abd59d16d7b",
+        "sha1": "778fe2dedeee53b2805377ec0445c755b4f3555b",
+        "crc32": "d2ddfdd6"
+      }
+    },
+    {
+      "filename": "Shichuu Suimei Pitagraph (Japan).bin",
+      "filesize": 491765568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f389017d7a50de9122cb702004f6d6a",
+        "sha1": "92b5f923964b65f658b870369e6aba94db151540",
+        "crc32": "b56e6df0"
+      }
+    }
+  ]
+}

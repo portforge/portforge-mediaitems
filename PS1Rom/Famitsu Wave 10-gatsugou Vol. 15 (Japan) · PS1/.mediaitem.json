@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famitsu Wave 10-gatsugou Vol. 15 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famitsu Wave 10-gatsugou Vol. 15 (Japan).cue",
+      "filesize": 652,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8572b92ab0ee8becfe70d1672362a9ef",
+        "sha1": "39abd60ad6c6aeb7ccb9c3dd353abd7c09a31c70",
+        "crc32": "794f0759"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 10-gatsugou Vol. 15 (Japan) (Track 1).bin",
+      "filesize": 588872592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f78d13b83685a2656c78e13e143a353f",
+        "sha1": "6a0f1f7611ad9d50688bc3ec33d354f0e6608c93",
+        "crc32": "1d71418f"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 10-gatsugou Vol. 15 (Japan) (Track 2).bin",
+      "filesize": 13187664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f40e11f4374eea74d6d896941c532230",
+        "sha1": "4835d3a613f346f2a6cbd5322f540a42bdc92b80",
+        "crc32": "5943768f"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 10-gatsugou Vol. 15 (Japan) (Track 3).bin",
+      "filesize": 11731776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60c90c22730dcefabe23f2f5219f28f9",
+        "sha1": "f0f09e9053a66128cfea3e88c59e6ebd80d119ee",
+        "crc32": "cf85c4f8"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 10-gatsugou Vol. 15 (Japan) (Track 4).bin",
+      "filesize": 26365920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c4d3c49aa24ab70842e15b1a9431deb",
+        "sha1": "93362870755fd201bef412f23bac303d4ee9f695",
+        "crc32": "1b2f28f1"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 10-gatsugou Vol. 15 (Japan) (Track 5).bin",
+      "filesize": 33433680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1252fbfa5c407f8146fac0c56acd87e",
+        "sha1": "c92f73b073327ddf7839fa1357c745352f1f6fd5",
+        "crc32": "6c02eaac"
+      }
+    }
+  ]
+}

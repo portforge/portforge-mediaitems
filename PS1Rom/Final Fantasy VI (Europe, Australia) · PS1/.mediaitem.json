@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VI (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VI (Europe, Australia).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "825912f1f96afa8a0be0a3503c633f6c",
+        "sha1": "11e745a2718de5c7b620b67b2ab1826db2039c9b",
+        "crc32": "3315725d"
+      }
+    },
+    {
+      "filename": "Final Fantasy VI (Europe, Australia).bin",
+      "filesize": 268723056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2af7873e5026d7dcce3f148acc70e6d",
+        "sha1": "219254a8ab587bacf28c0b42bb59f5abce709bd4",
+        "crc32": "c0c6d63f"
+      }
+    }
+  ]
+}

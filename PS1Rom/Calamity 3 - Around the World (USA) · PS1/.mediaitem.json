@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Calamity 3 - Around the World (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Calamity 3 - Around the World (USA).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "20f32eb7e5bbf5eca8f6707e4bd1d3cd",
+        "sha1": "022bdcabb75701ea579e81e3bba75024b75109d9",
+        "crc32": "8d275a0e"
+      }
+    },
+    {
+      "filename": "Calamity 3 - Around the World (USA).bin",
+      "filesize": 412444368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa924f8e64d4601c001beb2e84a8a380",
+        "sha1": "301464f81ed023546ac8b5927bd73dfde9df1f08",
+        "crc32": "8accf491"
+      }
+    }
+  ]
+}

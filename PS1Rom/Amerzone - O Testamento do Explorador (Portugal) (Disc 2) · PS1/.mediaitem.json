@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Amerzone - O Testamento do Explorador (Portugal) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Amerzone - O Testamento do Explorador (Portugal) (Disc 2).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "866c6429de1c2d5e6fee57ff755e5254",
+        "sha1": "de1a050993f18a5a92f0d35f5a1e8e78e12a58a9",
+        "crc32": "a48d3544"
+      }
+    },
+    {
+      "filename": "Amerzone - O Testamento do Explorador (Portugal) (Disc 2).bin",
+      "filesize": 518079744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07def26725cc19aca9045b94873091e8",
+        "sha1": "6e52dc70688c322829bf0b390fed52981a35b2f2",
+        "crc32": "3954f868"
+      }
+    }
+  ]
+}

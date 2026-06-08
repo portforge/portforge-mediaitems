@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Noel - Not Digital (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Noel - Not Digital (Japan) (Disc 1).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a62a6f56b806332c941cc1e85b0d207c",
+        "sha1": "2119eac26805fed455cf85af563eef118ce12ef8",
+        "crc32": "c26fd348"
+      }
+    },
+    {
+      "filename": "Noel - Not Digital (Japan) (Disc 1).bin",
+      "filesize": 726095328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "920f40ac5421d9af8fe2409e2c0ddaa5",
+        "sha1": "e0ce7f923bac4f82254ae656a6a2c3f49fee8faf",
+        "crc32": "286d5d56"
+      }
+    }
+  ]
+}

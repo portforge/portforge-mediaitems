@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 44 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 44 (France).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "56395d7b2f3a0bedfb735b6c9be3f456",
+        "sha1": "aa4703ec30c50868ee0e43bcbb4d51a825501eae",
+        "crc32": "aeaa3f3f"
+      }
+    },
+    {
+      "filename": "Euro Demo 44 (France) (Track 1).bin",
+      "filesize": 385584528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5985b232a52d51770606f0a5745830c2",
+        "sha1": "73d9bed511f3db915b8cc9934e1e17662dd0bb97",
+        "crc32": "f43a2028"
+      }
+    },
+    {
+      "filename": "Euro Demo 44 (France) (Track 2).bin",
+      "filesize": 78345120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfedd36d7de487549f1074c845a4caa6",
+        "sha1": "d6d27fbc087a1e517e0cf94eaa9a28d03092b761",
+        "crc32": "22e5d6a6"
+      }
+    }
+  ]
+}

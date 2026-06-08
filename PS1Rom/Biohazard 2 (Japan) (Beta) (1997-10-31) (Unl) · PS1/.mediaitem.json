@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Biohazard 2 (Japan) (Beta) (1997-10-31) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Biohazard 2 (Japan) (Beta) (1997-10-31) (Unl).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "64e8e93899c50256c3455014b77c5aa6",
+        "sha1": "b4506d2ab59d4114a27ac4eb27490831a7a6b6ea",
+        "crc32": "a5b91c57"
+      }
+    },
+    {
+      "filename": "Biohazard 2 (Japan) (Beta) (1997-10-31) (Unl).bin",
+      "filesize": 781141536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61bce28e1837e6da3326fa08b73623a8",
+        "sha1": "352a3c20efd42878238dcc56a9ed1d5432ac0655",
+        "crc32": "85ba9d44"
+      }
+    }
+  ]
+}

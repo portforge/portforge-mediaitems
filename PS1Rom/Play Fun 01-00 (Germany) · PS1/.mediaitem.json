@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Fun 01-00 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Fun 01-00 (Germany).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0bf98285d5862514b4ba79dd15688422",
+        "sha1": "e53d6c785f7bbdc8c0603f0999d96e61e17baa62",
+        "crc32": "e4e13d2e"
+      }
+    },
+    {
+      "filename": "Play Fun 01-00 (Germany).bin",
+      "filesize": 333316032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b625a8faf5c9276c92a409faea512565",
+        "sha1": "92d5c3cb95729d82295290db29f47f7d01eef41a",
+        "crc32": "eb457f3b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Byggare Bob - Kan Vi Fixa Det (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Byggare Bob - Kan Vi Fixa Det (Sweden).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bdde64a91ba4bc0670d557b4978e7c2",
+        "sha1": "ab043a6540d63c3695628cf3222e1a6eaefb41d6",
+        "crc32": "7674a6c4"
+      }
+    },
+    {
+      "filename": "Byggare Bob - Kan Vi Fixa Det (Sweden).bin",
+      "filesize": 163795632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "806daaf420a8adb449e5e9b396881dea",
+        "sha1": "525c7ee3b7d4ef131fe02c3826c51068adb19565",
+        "crc32": "6a7cd4b5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "KoroKoro Post nin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "KoroKoro Post nin (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "736754f8b923e0d411ef5745fbdca7be",
+        "sha1": "6226d032dcc99c98376414b1d4e9135ec2a83777",
+        "crc32": "a779b022"
+      }
+    },
+    {
+      "filename": "KoroKoro Post nin (Japan).bin",
+      "filesize": 88131792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6897e2c85262456a16c579a531435268",
+        "sha1": "31fe2263e6f7f4e0189d9285ff038d3f32ed7048",
+        "crc32": "3dcebf02"
+      }
+    }
+  ]
+}

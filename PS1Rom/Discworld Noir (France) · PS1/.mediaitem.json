@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Discworld Noir (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Discworld Noir (France).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28115ddab768a942d25fc3c12f6eb9c5",
+        "sha1": "a4aa78d8c3d474c65c6e97cc8320505f079b7ca1",
+        "crc32": "83ef6299"
+      }
+    },
+    {
+      "filename": "Discworld Noir (France).bin",
+      "filesize": 747392688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fd24c7ffa984e71181b7f7ef48946e9",
+        "sha1": "c389a398967f23e51d6a3a2f2f00833829ae2b1c",
+        "crc32": "26901bd2"
+      }
+    }
+  ]
+}

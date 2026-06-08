@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soukou Kidoutai L.A.P.D. (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soukou Kidoutai L.A.P.D. (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62c12d830c2c28e4e6079c342715c509",
+        "sha1": "bbe4c6065d1dbe2fd430ec627a60d00e53335dfc",
+        "crc32": "94437dfd"
+      }
+    },
+    {
+      "filename": "Soukou Kidoutai L.A.P.D. (Japan).bin",
+      "filesize": 433650000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1501cbd64fd89a297dfc4f590bc7e91e",
+        "sha1": "120b56c26f097930f13ae3c6a5cf9d3d4c9c194c",
+        "crc32": "6cc711ea"
+      }
+    }
+  ]
+}

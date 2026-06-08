@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Laser Clean (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Laser Clean (USA) (Unl).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3b0aeda80a17aa55b3ce055077fa3db0",
+        "sha1": "514b7931c845b90dc9b6870112db1a22ee7ce200",
+        "crc32": "1bc711c6"
+      }
+    },
+    {
+      "filename": "Laser Clean (USA) (Unl).bin",
+      "filesize": 434727216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5dac95bb86c9c15d632a76bc3baabcfa",
+        "sha1": "e4fa185712ad8e44a8f2e043dc749c0d68948442",
+        "crc32": "dc79cc9f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lagnacure (Japan) (Artdink Best Choice)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lagnacure (Japan) (Artdink Best Choice).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "380889a23850b2eb5279f200653f86d8",
+        "sha1": "1d702a866359e856b53e86bc2da4604361752f13",
+        "crc32": "843a0331"
+      }
+    },
+    {
+      "filename": "Lagnacure (Japan) (Artdink Best Choice) (Track 1).bin",
+      "filesize": 650612592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b0ea015870021f57797c2677bf703ca",
+        "sha1": "f9fb60774a8289d8468991b12e591fbefcd03b98",
+        "crc32": "2b812156"
+      }
+    },
+    {
+      "filename": "Lagnacure (Japan) (Artdink Best Choice) (Track 2).bin",
+      "filesize": 51765168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "440eff2e2357b4107b3b80292107c5d0",
+        "sha1": "aae17f6e8d514191102fdb8b59ee9dc4b52de7e3",
+        "crc32": "2b67cbba"
+      }
+    }
+  ]
+}

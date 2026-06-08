@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo Seven (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo Seven (Germany).cue",
+      "filesize": 934,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3c8a30ed9149aba49e9c29661b292b41",
+        "sha1": "69506adcf55f2b8f763c9287e239357662260b0e",
+        "crc32": "fbee8c4f"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 1).bin",
+      "filesize": 152553072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f39a334c29c004a750ee0f48454b9536",
+        "sha1": "a108f9a5acce28b727b023d326750a8e2ab385c2",
+        "crc32": "dd799054"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 2).bin",
+      "filesize": 54905088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45ce662a3f0575bc2aca051753b6ae61",
+        "sha1": "e911e9d30d875acf5e157b33dc272e5c63830bb9",
+        "crc32": "58e8bf07"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 3).bin",
+      "filesize": 2471952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9329db231dab5f9adcd405426370581",
+        "sha1": "abc93d09b66195fd0ab129804ed979407275015d",
+        "crc32": "1d75e59b"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 4).bin",
+      "filesize": 5190864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ebbc6c71e6c525c81555c47dcd1753d",
+        "sha1": "3e8c7d9c11b18cd80515b8a7bd24fb1a8dfe1c7d",
+        "crc32": "34e33b65"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 5).bin",
+      "filesize": 4981536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd99bb6f63116a939608c3f4be08777a",
+        "sha1": "8285e30e69d3ee468d968147677e4bf0ace5b39e",
+        "crc32": "767d11c2"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 6).bin",
+      "filesize": 13239408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af7eaef52ebdfcd843a648af379f8041",
+        "sha1": "01cc8c7cbac578405bc6af5ef3d2833096e00185",
+        "crc32": "536ff53e"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 7).bin",
+      "filesize": 35701008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bce87bc6c7520cde4590057582c6a93",
+        "sha1": "cc3cddd9fe916e28448bd65af628c32c7b0de721",
+        "crc32": "348e4de0"
+      }
+    },
+    {
+      "filename": "Euro Demo Seven (Germany) (Track 8).bin",
+      "filesize": 54905088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45ce662a3f0575bc2aca051753b6ae61",
+        "sha1": "e911e9d30d875acf5e157b33dc272e5c63830bb9",
+        "crc32": "58e8bf07"
+      }
+    }
+  ]
+}

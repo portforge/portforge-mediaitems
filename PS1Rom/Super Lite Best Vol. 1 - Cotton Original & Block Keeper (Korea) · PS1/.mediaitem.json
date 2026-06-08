@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Lite Best Vol. 1 - Cotton Original & Block Keeper (Korea)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Lite Best Vol. 1 - Cotton Original & Block Keeper (Korea).cue",
+      "filesize": 453,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d5396e5a16f6bc1301d011b8a1c93fb",
+        "sha1": "b3edebad912c9e37ef454f98999e82b51f3f459b",
+        "crc32": "95b0646a"
+      }
+    },
+    {
+      "filename": "Super Lite Best Vol. 1 - Cotton Original & Block Keeper (Korea) (Track 1).bin",
+      "filesize": 113944992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e75b78a7591084936551bacc0b580848",
+        "sha1": "3113fb85c504f9dd3a8e226248b832f78dd17ae1",
+        "crc32": "514777cc"
+      }
+    },
+    {
+      "filename": "Super Lite Best Vol. 1 - Cotton Original & Block Keeper (Korea) (Track 2).bin",
+      "filesize": 23712864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68a8dada5a8b83c6d47939d1d0c60e4e",
+        "sha1": "50f1e5d83959ac588910b1cb9ee51b05e2c6416d",
+        "crc32": "5c64688c"
+      }
+    },
+    {
+      "filename": "Super Lite Best Vol. 1 - Cotton Original & Block Keeper (Korea) (Track 3).bin",
+      "filesize": 33882912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "100a2e7cec31a1ea2bc33125a533d294",
+        "sha1": "9277dffc8656b49589aa3a7c4e0000546a1bfa63",
+        "crc32": "9983b30b"
+      }
+    }
+  ]
+}

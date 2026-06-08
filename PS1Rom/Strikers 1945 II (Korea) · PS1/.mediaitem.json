@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strikers 1945 II (Korea)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strikers 1945 II (Korea).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4022e839559c8a2cc9d3613b20542aae",
+        "sha1": "6d77c5f9bb10521af1bd2d0307e6fba28fcd47b1",
+        "crc32": "a78bd40e"
+      }
+    },
+    {
+      "filename": "Strikers 1945 II (Korea) (Track 1).bin",
+      "filesize": 308977536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2fe217d45b98c2be72fb0034cf66687",
+        "sha1": "bc2577bbf3190f0ded701b72e9a0180b07891f9d",
+        "crc32": "c72db2f2"
+      }
+    },
+    {
+      "filename": "Strikers 1945 II (Korea) (Track 2).bin",
+      "filesize": 37646112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b365b15037c893d6a8243ad9b6952fb1",
+        "sha1": "7cb3fcbb529388c8e7409398a369716e8d4d6c77",
+        "crc32": "e520e222"
+      }
+    }
+  ]
+}

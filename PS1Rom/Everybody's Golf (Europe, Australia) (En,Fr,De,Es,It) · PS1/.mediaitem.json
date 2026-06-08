@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Everybody's Golf (Europe, Australia) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Everybody's Golf (Europe, Australia) (En,Fr,De,Es,It).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9255c44a874c859308181746701a42ae",
+        "sha1": "742d919c62e68af2c5d4049f69e6f91e1754dcb6",
+        "crc32": "65b20b58"
+      }
+    },
+    {
+      "filename": "Everybody's Golf (Europe, Australia) (En,Fr,De,Es,It).bin",
+      "filesize": 303723168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f36baa52bf5e350605810787a0d0a52",
+        "sha1": "e037c1e4802191745b956630ee945333317c2e04",
+        "crc32": "b148cc75"
+      }
+    }
+  ]
+}

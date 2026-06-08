@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 08 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 08 (USA).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa1b5f8f46474f0d6e857d0150eff2a3",
+        "sha1": "e176cfd081f7620bbd2a9c0f45085add0b5c4de7",
+        "crc32": "8b8ee48f"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 08 (USA).bin",
+      "filesize": 292555872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "155336dc3bc67c6496973e85e0c38571",
+        "sha1": "444945094a46671cd0a18ec76967259bddb0e239",
+        "crc32": "489c5799"
+      }
+    }
+  ]
+}

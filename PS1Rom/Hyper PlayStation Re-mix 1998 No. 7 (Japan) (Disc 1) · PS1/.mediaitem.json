@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1).cue",
+      "filesize": 858,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fdf0a7987cbd9e56bde2be9f20b3afb5",
+        "sha1": "3bf0e55ddd97ae13fd78a02fca97ecdfb65df07a",
+        "crc32": "88c56894"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 367692864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bf0bb1712377fed0363891e34193861",
+        "sha1": "65cdea94e72c617d1afcea3972102165567bebc5",
+        "crc32": "cac4cc68"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 3706752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea4dd03b79b6d4db42d693e0804b3a7e",
+        "sha1": "e68849889a6084959ec6b2792dbcdffb6248378e",
+        "crc32": "67b8cecb"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 10195920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "389f24701e7611f0633faa8b2c82c79a",
+        "sha1": "1773a1ed9d7351416c12d6b9ab461aba226b265d",
+        "crc32": "010f0766"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1) (Track 4).bin",
+      "filesize": 6159888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "511e3fb3a7c844dff205743e3aa59a4e",
+        "sha1": "4f35e33375d3b066ab75c65a8b99426fd66d638d",
+        "crc32": "29f2d950"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1) (Track 5).bin",
+      "filesize": 21607824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5875d7ad8ae8fcdea31d369f993e283",
+        "sha1": "8e37fd9bdec59ad02cf1836e5b057ede28be83ea",
+        "crc32": "cbba4b35"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 7 (Japan) (Disc 1) (Track 6).bin",
+      "filesize": 47907888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10f77bb97c2cbf57f5a0ac9ffe46ad14",
+        "sha1": "2e7ccabc135813d683415e2dbc3b23481497590b",
+        "crc32": "96977c34"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney La Super-Diver Casa de Goofy (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney La Super-Diver Casa de Goofy (Spain).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e4aaf9a9bc49b97dce3318d371bf002",
+        "sha1": "974fb65a54df256acda9eb6f095de9c321f94919",
+        "crc32": "37b35789"
+      }
+    },
+    {
+      "filename": "Disney La Super-Diver Casa de Goofy (Spain).bin",
+      "filesize": 720869184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60f86495cdf98e323720cd2ca18624c5",
+        "sha1": "ef353820d2a8fd6d9cc60e9fc4a961570fb2c36d",
+        "crc32": "285188fa"
+      }
+    }
+  ]
+}

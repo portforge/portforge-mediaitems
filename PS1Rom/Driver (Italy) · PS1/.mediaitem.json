@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver (Italy).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9ac257091da028ecb884302b25639f24",
+        "sha1": "524a7f82d07b0e99cc4d48a9d4b2bd7120bc6c0a",
+        "crc32": "325694cf"
+      }
+    },
+    {
+      "filename": "Driver (Italy).bin",
+      "filesize": 749361312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b8a3cb9598bf3cbf875f4fdca7a319b",
+        "sha1": "130e2d80399bf71996d42970e0fece069822a920",
+        "crc32": "acf3e6fe"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Iblard - Laputa no Kaeru Machi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Iblard - Laputa no Kaeru Machi (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "024f251879176f7f4f3c7a97e66011b1",
+        "sha1": "081d8abeeb25e0a95ab8d2e80fc4276e7643131e",
+        "crc32": "16c68ed9"
+      }
+    },
+    {
+      "filename": "Iblard - Laputa no Kaeru Machi (Japan).bin",
+      "filesize": 631293264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78564c5952b8d4af2a2f96195035e820",
+        "sha1": "5f4d841e3743ed14b4dd3f9de8cfe8b7bd4440ae",
+        "crc32": "a75639f0"
+      }
+    }
+  ]
+}

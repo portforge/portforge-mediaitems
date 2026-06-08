@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Versailles - Complotto alla Corte del Re Sole (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Versailles - Complotto alla Corte del Re Sole (Italy).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2467ba511f2e090911a864f70ac9f344",
+        "sha1": "373ea79cda2a73533d249a98014984dd71138e35",
+        "crc32": "0d3fc2e2"
+      }
+    },
+    {
+      "filename": "Versailles - Complotto alla Corte del Re Sole (Italy).bin",
+      "filesize": 719895456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52edc381995111865a528a19dd6f01ec",
+        "sha1": "c5951d5ee09ea9c5b72222d4aa20ed5254e249f2",
+        "crc32": "d4cad83e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Forsaken (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Forsaken (Japan).cue",
+      "filesize": 1425,
+      "ext": "cue",
+      "checksums": {
+        "md5": "32ce7ea14a90cf4bc438eff6db74bf59",
+        "sha1": "c3f86a8cc4e6f22ca7d9605a911c2eb2ee86b32f",
+        "crc32": "7a89bdd3"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 01).bin",
+      "filesize": 89037312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a562c1aae94309ef7a77c7a3f4123f69",
+        "sha1": "3239cfd427b70c158e295d11ae8ef17102fd8543",
+        "crc32": "bd7768cb"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 02).bin",
+      "filesize": 56309232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1e7c6731f4fbf9449466651f7702075",
+        "sha1": "30a34e4259ca894bfd4917509a76702f8a6a260b",
+        "crc32": "0a32faa3"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 03).bin",
+      "filesize": 56393904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3c61197c706776566e3122a10b90a83",
+        "sha1": "e9c43aa31009730d18645391388acb511fdb9167",
+        "crc32": "2bd2d075"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 04).bin",
+      "filesize": 52687152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6592b6a46e691295a7e8c3ad50e0a0c",
+        "sha1": "fb5d829a90dce69b2cfd3bde2df3f3ada2f41201",
+        "crc32": "c7208a01"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 05).bin",
+      "filesize": 54963888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f67a5a39e5f24147efdc47e8f63b3234",
+        "sha1": "991788cf4702cacfd5a4c4386dc141a8054fca08",
+        "crc32": "da797782"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 06).bin",
+      "filesize": 53524464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55374ad5d8325a90b2651400c31bc125",
+        "sha1": "6ccab8f26f3bc124ac518bf66bae2dffc99cd2ed",
+        "crc32": "2008b8c1"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 07).bin",
+      "filesize": 42980448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f62dba7a7aef7dcbcdf444d9913f63f",
+        "sha1": "ec1355a1e666eeee8deb55875798ce06f9524d40",
+        "crc32": "0261a777"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 08).bin",
+      "filesize": 44102352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b286ff17b2df960294bab8dc6e877eb",
+        "sha1": "750a5ff257ad3f5d752a230b049d7d975fb407ce",
+        "crc32": "4f931c7a"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 09).bin",
+      "filesize": 41757408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce081399a668686f62dde8bc439998e4",
+        "sha1": "b54f63c38c0df7e8f8e55813371e7d1c7db7b98e",
+        "crc32": "d587e552"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 10).bin",
+      "filesize": 39094944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df996fe79819a0cf8cc59903b27200c5",
+        "sha1": "27263bd2e69c1713d03580be3039961aafe947f4",
+        "crc32": "bf86b105"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 11).bin",
+      "filesize": 35482272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9b3a22c85cbc9156c36f56af28d03c5",
+        "sha1": "984b30ca0cf68a84337e4b7532aabcf4314aad23",
+        "crc32": "e1e31f22"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 12).bin",
+      "filesize": 46774224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6252a77541d78711ab405ae8e9b755f",
+        "sha1": "54baa7b7a0e87fd9b07507de99d14d614f5743f5",
+        "crc32": "b56f8b53"
+      }
+    },
+    {
+      "filename": "Forsaken (Japan) (Track 13).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

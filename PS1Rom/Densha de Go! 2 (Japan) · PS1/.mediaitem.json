@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Densha de Go! 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Densha de Go! 2 (Japan).cue",
+      "filesize": 450,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e15e3d4a973e837767dcac59fc71f1c",
+        "sha1": "eec6068d1c1f3f1bd9592e04952bf42fbffd5869",
+        "crc32": "38489fe4"
+      }
+    },
+    {
+      "filename": "Densha de Go! 2 (Japan) (Track 1).bin",
+      "filesize": 611541168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2d5f5e27bd1c5fd06dd1f6e8a20f468",
+        "sha1": "613b5f4954e78b4e7239ef67a93d8c2e39f783fc",
+        "crc32": "46f677b5"
+      }
+    },
+    {
+      "filename": "Densha de Go! 2 (Japan) (Track 2).bin",
+      "filesize": 4332384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75b198433ba4924e941dfe0b86c18743",
+        "sha1": "cd6c2aff8acc81bd7f60b0b589d71efa3515522d",
+        "crc32": "37a2dc92"
+      }
+    },
+    {
+      "filename": "Densha de Go! 2 (Japan) (Track 3).bin",
+      "filesize": 24477264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7d360cf9bb71a8206c73f5cb8efd988",
+        "sha1": "b3d1503c8b0ee2ae7c850298bc7e30deb450cbb7",
+        "crc32": "e410d971"
+      }
+    },
+    {
+      "filename": "Densha de Go! 2 (Japan) (Track 4).bin",
+      "filesize": 25747344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa5efb2d0e2f5fe98f8e838e726f9c83",
+        "sha1": "f4707198e1331618340b136c4fcfd911d40e50a9",
+        "crc32": "37ce4c2b"
+      }
+    }
+  ]
+}

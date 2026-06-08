@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "40 Winks (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "40 Winks (Italy).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb59f081b08d562f192b5a6c87308a30",
+        "sha1": "23978daf31ac2a0dd20e57f18d8d80e14ee281bb",
+        "crc32": "8d5e56a7"
+      }
+    },
+    {
+      "filename": "40 Winks (Italy).bin",
+      "filesize": 551344080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e68771e91206ae8cdbea70e57c14c695",
+        "sha1": "70380215dd02ae68cdff88ee29738771f57d0207",
+        "crc32": "677b7ea9"
+      }
+    }
+  ]
+}

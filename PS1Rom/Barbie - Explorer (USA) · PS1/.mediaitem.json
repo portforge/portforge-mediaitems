@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Barbie - Explorer (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Barbie - Explorer (USA).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de7a1784e62e17bfd4ea85ef056eed48",
+        "sha1": "435dee49217642ada9d1bc658ff2f2517055b765",
+        "crc32": "aea5c621"
+      }
+    },
+    {
+      "filename": "Barbie - Explorer (USA) (Track 1).bin",
+      "filesize": 234894240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af52b7db9974804db1b4dba4ffb7fa9b",
+        "sha1": "5389ce49fe938431154a0009202ba9c1aa06c51d",
+        "crc32": "689abe43"
+      }
+    },
+    {
+      "filename": "Barbie - Explorer (USA) (Track 2).bin",
+      "filesize": 45353616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "260e692612ce998bea531f20774439a7",
+        "sha1": "b49ef92014da78478bb2e8466518a9e178a20d52",
+        "crc32": "50f5bd58"
+      }
+    }
+  ]
+}

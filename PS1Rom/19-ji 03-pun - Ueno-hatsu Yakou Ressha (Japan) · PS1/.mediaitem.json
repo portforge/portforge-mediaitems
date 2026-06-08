@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "19-ji 03-pun - Ueno-hatsu Yakou Ressha (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "19-ji 03-pun - Ueno-hatsu Yakou Ressha (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14d12f82682798a6e73e19131b70b7f3",
+        "sha1": "8b1ece8035a1cf27470ea67ff671088cf0f657f1",
+        "crc32": "dc9e6ecd"
+      }
+    },
+    {
+      "filename": "19-ji 03-pun - Ueno-hatsu Yakou Ressha (Japan).bin",
+      "filesize": 482529264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b914b3624566b2504394ad4b89101d3",
+        "sha1": "33490048d58f2903a76c978bcf973c67ee1ea5e7",
+        "crc32": "03b895d6"
+      }
+    }
+  ]
+}

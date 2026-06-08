@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Assault - Retribution (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Assault - Retribution (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0aa676659362f6ab7275fab28ea3f6c",
+        "sha1": "4bf49fdd529aa9cb7297b99745bf0c2814f501a4",
+        "crc32": "672b5862"
+      }
+    },
+    {
+      "filename": "Assault - Retribution (USA).bin",
+      "filesize": 198671088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98c67287d04f64e0e0c0070bbdc0d6bf",
+        "sha1": "64a9f7e686af403d1d6120ec5c4ae336ab9b3ab6",
+        "crc32": "23ca4da9"
+      }
+    }
+  ]
+}

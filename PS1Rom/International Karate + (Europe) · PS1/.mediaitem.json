@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Karate + (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Karate + (Europe).cue",
+      "filesize": 607,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60b83580813fa676961152bc0759f658",
+        "sha1": "0345c7a6f2562638252d85d1ecf6993003cf9c61",
+        "crc32": "84703379"
+      }
+    },
+    {
+      "filename": "International Karate + (Europe) (Track 1).bin",
+      "filesize": 51245376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98473f3db191a18eaceafe126d762bad",
+        "sha1": "dd647034a4281d6d68338ae12d09eeeed26234a3",
+        "crc32": "2589348a"
+      }
+    },
+    {
+      "filename": "International Karate + (Europe) (Track 2).bin",
+      "filesize": 22066464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30096cc4ef3fb8d8f6e8a0379c8833c1",
+        "sha1": "a83549be5c174bef0e16fabec5e0ba51e0f14707",
+        "crc32": "7919eb72"
+      }
+    },
+    {
+      "filename": "International Karate + (Europe) (Track 3).bin",
+      "filesize": 22066464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30096cc4ef3fb8d8f6e8a0379c8833c1",
+        "sha1": "a83549be5c174bef0e16fabec5e0ba51e0f14707",
+        "crc32": "7919eb72"
+      }
+    },
+    {
+      "filename": "International Karate + (Europe) (Track 4).bin",
+      "filesize": 22066464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30096cc4ef3fb8d8f6e8a0379c8833c1",
+        "sha1": "a83549be5c174bef0e16fabec5e0ba51e0f14707",
+        "crc32": "7919eb72"
+      }
+    },
+    {
+      "filename": "International Karate + (Europe) (Track 5).bin",
+      "filesize": 42693504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4f62e8802236bdafc4b986e82e2f526",
+        "sha1": "20a927a3e41dec1f855b0e8c5961e84211ffae3f",
+        "crc32": "87129cc0"
+      }
+    }
+  ]
+}

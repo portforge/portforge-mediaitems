@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strider (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strider (USA).cue",
+      "filesize": 79,
+      "ext": "cue",
+      "checksums": {
+        "md5": "57f940d374a79c52460a63424332c453",
+        "sha1": "9971127165ebd269fbca3ed93ca4290a119b7752",
+        "crc32": "b3a4a85a"
+      }
+    },
+    {
+      "filename": "Strider (USA).bin",
+      "filesize": 74109168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a7e8dc8c2ff35b7b7fc6149154e1ae7",
+        "sha1": "1f51ae7313fef35a72c4a13ab51b2fa3d6511306",
+        "crc32": "dc6b772b"
+      }
+    }
+  ]
+}

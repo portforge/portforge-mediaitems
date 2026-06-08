@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Seikai no Monshou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Seikai no Monshou (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d989d6150e5501af81cf73d036996fee",
+        "sha1": "996f55d213ecbb6945977c6a045252ed89397e15",
+        "crc32": "98bff297"
+      }
+    },
+    {
+      "filename": "Seikai no Monshou (Japan) (Track 1).bin",
+      "filesize": 502951680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8797d6f130e52eff71f3eb895d2aa044",
+        "sha1": "981d65a3e699e6cb98a6827e6ccee64fba7067ad",
+        "crc32": "e573b257"
+      }
+    },
+    {
+      "filename": "Seikai no Monshou (Japan) (Track 2).bin",
+      "filesize": 32457600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec466952ebaf452c16abec91a7286c4f",
+        "sha1": "c03dc65803398b4243d4d5b4349218a88a5d8231",
+        "crc32": "f9d3e278"
+      }
+    }
+  ]
+}

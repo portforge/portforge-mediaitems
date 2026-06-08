@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Aladdin - Nasiras Haevn (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Aladdin - Nasiras Haevn (Denmark).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d582dc78310fa33acc8a34a2ce66198c",
+        "sha1": "d8efb30512f64d6ecacdb2cf124a8836a68d1788",
+        "crc32": "c261cd94"
+      }
+    },
+    {
+      "filename": "Disneys Aladdin - Nasiras Haevn (Denmark).bin",
+      "filesize": 614805744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf461bcadcea4dc3210f335c8ac16f15",
+        "sha1": "f42e5c970a83c145444576d57e467aeb320c9597",
+        "crc32": "f117bd68"
+      }
+    }
+  ]
+}

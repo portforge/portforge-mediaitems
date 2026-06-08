@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play de Oboeru Eitango Deruderu 1700 - Center Shiken Level Taiou (Japan) (Rerelease)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play de Oboeru Eitango Deruderu 1700 - Center Shiken Level Taiou (Japan) (Rerelease).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67daa671db7917e27a6f534ee6f2d6f7",
+        "sha1": "e97c91f7c45615781f21df07c6cc949ccb3e3447",
+        "crc32": "43b28cc4"
+      }
+    },
+    {
+      "filename": "Play de Oboeru Eitango Deruderu 1700 - Center Shiken Level Taiou (Japan) (Rerelease).bin",
+      "filesize": 139040832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1e44a4fd3b18ec8da84421f4271e0ea",
+        "sha1": "e6d604a8b1941f1fdcbfdc2f8bcebbfd59fe423d",
+        "crc32": "a144c645"
+      }
+    }
+  ]
+}

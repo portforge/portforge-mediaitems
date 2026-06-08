@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pitfall 3D - Beyond the Jungle (USA) (Beta) (1998-02-20)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pitfall 3D - Beyond the Jungle (USA) (Beta) (1998-02-20).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce372b560c74044864e5d56258da59c4",
+        "sha1": "40a74ba4cbae3fc91d130f926ee946f19aa1a896",
+        "crc32": "7b21511f"
+      }
+    },
+    {
+      "filename": "Pitfall 3D - Beyond the Jungle (USA) (Beta) (1998-02-20).bin",
+      "filesize": 549215520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02fa38597c3a1d34d30074a1c5403d68",
+        "sha1": "fe47a4f6975bb766686f3d0cfae894c16976d581",
+        "crc32": "9d10b201"
+      }
+    }
+  ]
+}

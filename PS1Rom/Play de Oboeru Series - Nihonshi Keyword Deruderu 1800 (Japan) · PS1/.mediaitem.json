@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94bacf87fea538552431ddb8628237c6",
+        "sha1": "ff68ae3c5cb955dc5a4c50c7fae90ccdcde86348",
+        "crc32": "075bcc8e"
+      }
+    },
+    {
+      "filename": "Play de Oboeru Series - Nihonshi Keyword Deruderu 1800 (Japan).bin",
+      "filesize": 131330976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2241b7e273b1e4445fe89290353a3423",
+        "sha1": "4b6f1c8c26bcfa10086423ab0b22a1b28ce4c90d",
+        "crc32": "6d917424"
+      }
+    }
+  ]
+}

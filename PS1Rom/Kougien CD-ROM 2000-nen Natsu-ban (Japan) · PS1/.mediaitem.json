@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kougien CD-ROM 2000-nen Natsu-ban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kougien CD-ROM 2000-nen Natsu-ban (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1019b39d1c34e2b719dfa57fb4011f4c",
+        "sha1": "9d7bf596104c23bf4f8f8f69da24ce9eb35ee79e",
+        "crc32": "b4981b41"
+      }
+    },
+    {
+      "filename": "Kougien CD-ROM 2000-nen Natsu-ban (Japan).bin",
+      "filesize": 281903664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afe14e3c79a7f322620d099fbb28252f",
+        "sha1": "d574a2a11e2e95f3ae7fd88f16a8057895afaf20",
+        "crc32": "ce65ec82"
+      }
+    }
+  ]
+}

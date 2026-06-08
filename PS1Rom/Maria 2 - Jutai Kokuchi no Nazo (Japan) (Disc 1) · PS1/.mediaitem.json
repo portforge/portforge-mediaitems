@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maria 2 - Jutai Kokuchi no Nazo (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maria 2 - Jutai Kokuchi no Nazo (Japan) (Disc 1).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6a0a8b9a5b514c25792e2a0b6d791343",
+        "sha1": "470fefe15586464ac555afa37d25087b613881d9",
+        "crc32": "6ba9575c"
+      }
+    },
+    {
+      "filename": "Maria 2 - Jutai Kokuchi no Nazo (Japan) (Disc 1).bin",
+      "filesize": 545901552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5921a6a0d9fab01fda240756ec6a184",
+        "sha1": "99079e36b015ade612d6b5e90ca5142ece7ead2e",
+        "crc32": "d28a4694"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yamasa Digi Selection (Japan) (DX)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX).cue",
+      "filesize": 1401,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aacebb047541b07f97f924eee5ea63eb",
+        "sha1": "7c6d5ea48c8072098c7b340be8517e2de25e08ae",
+        "crc32": "0fab83e9"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 01).bin",
+      "filesize": 55474272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c1e623509b329074336c6be0b3d709b",
+        "sha1": "2cd31fd735ef13139dadd1248bc0f1da66d015af",
+        "crc32": "6ca236f4"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 02).bin",
+      "filesize": 9323328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "906bc320b0119c5a691b53a9815bc1bc",
+        "sha1": "ee8b603fdf338628b4362a2299e22d11e85a2cf7",
+        "crc32": "26102832"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 03).bin",
+      "filesize": 6710256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e506b864e7a11b6a6c691fa74afc2f0",
+        "sha1": "5b95ad0a7ddf03276cb4af4c3b7408891edf2e75",
+        "crc32": "49b167af"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 04).bin",
+      "filesize": 18773664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da444cc8f6cb7f49f261e7d4d7aeee50",
+        "sha1": "3c3cf6296b10cc541b76a41a7280e192814ad26b",
+        "crc32": "68c2c76b"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 05).bin",
+      "filesize": 24023328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16721a769034dc9cae441d490e0400ac",
+        "sha1": "0d4bb8e56a445f7524773a9c5fb8b94d9fd8d4f0",
+        "crc32": "d22fb3f2"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 06).bin",
+      "filesize": 14024976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57c0c280433dc14083a966dd5690151b",
+        "sha1": "effe0d4f0d0ebb0c3e0672a08eba3d94ff2e3550",
+        "crc32": "2786ae1e"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 07).bin",
+      "filesize": 19733280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "289437e3a5f564c3d840b8e02dc40463",
+        "sha1": "5eac679b9a3dd2ecc7d39b38e490990e2897b29a",
+        "crc32": "a496049f"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 08).bin",
+      "filesize": 24990000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6a23c7fcb61fd3a6627d1f4e1744810",
+        "sha1": "7832c1b7a07a395b4eac6b2e964f9220aafc2514",
+        "crc32": "0087c5c4"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 09).bin",
+      "filesize": 16501632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db2480606690c924e342508bf99026fb",
+        "sha1": "9fb67ed42008f6f407cf68dc5993ae526b46d4e8",
+        "crc32": "c1228c64"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 10).bin",
+      "filesize": 21076272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2666ad0c9b5f98d57dad500ed66232ee",
+        "sha1": "884978f598b17e02ee3a26521965eb8d6ea9ec05",
+        "crc32": "90d3ad55"
+      }
+    },
+    {
+      "filename": "Yamasa Digi Selection (Japan) (DX) (Track 11).bin",
+      "filesize": 34162800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8dd613fdd99e158b98ac1b92bcb62cb3",
+        "sha1": "2385916b9dbde0b761765ec3118e61b21357c1b1",
+        "crc32": "8c484e64"
+      }
+    }
+  ]
+}

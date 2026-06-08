@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Brave Sword (Japan) (Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Brave Sword (Japan) (Taikenban).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f57fbf252fdd0eaae0769412b0221a92",
+        "sha1": "370e3adf9ebee29341cbd29508e69a362a67baab",
+        "crc32": "e751762f"
+      }
+    },
+    {
+      "filename": "Brave Sword (Japan) (Taikenban).bin",
+      "filesize": 741853728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95c8411fc9b875773f4e63b0f898b78a",
+        "sha1": "b13cd966f8697d144129faa52fd90b085759cb26",
+        "crc32": "3bd95d5f"
+      }
+    }
+  ]
+}

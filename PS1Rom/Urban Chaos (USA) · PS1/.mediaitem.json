@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Urban Chaos (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Urban Chaos (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a9fa97c60f774d9b90aae4aaa04b17fd",
+        "sha1": "6effedb519572cd1bf55380c4aeebbd8c1b5a3e1",
+        "crc32": "7632573f"
+      }
+    },
+    {
+      "filename": "Urban Chaos (USA).bin",
+      "filesize": 616096992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9b4e03de8dd5c1fb799fc56e5cf031a",
+        "sha1": "f6608f6ec4128366161f1aa99c6a8b69d76150fe",
+        "crc32": "239c0746"
+      }
+    }
+  ]
+}

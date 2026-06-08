@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digital Ehon Vol. 5 - Imadoki no Urashima-tarou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digital Ehon Vol. 5 - Imadoki no Urashima-tarou (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b02868d6e7c08129c97f807ed3ba2c6",
+        "sha1": "5c5cf49049c9d7c95f0865dade2a997d8a3a3c6a",
+        "crc32": "d4b66d13"
+      }
+    },
+    {
+      "filename": "Digital Ehon Vol. 5 - Imadoki no Urashima-tarou (Japan).bin",
+      "filesize": 226772784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76d359cf8ee6877b3912ec7c8975187d",
+        "sha1": "9cea3799378a03dd03cb551535e4111bed450b3b",
+        "crc32": "e1836c30"
+      }
+    }
+  ]
+}

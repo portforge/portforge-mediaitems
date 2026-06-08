@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ray Tracers (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ray Tracers (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08a9171e01c2313ab6500567dc39c59a",
+        "sha1": "a5320561401c1b66914dfd7abca464c1b100ca1a",
+        "crc32": "d6d301e1"
+      }
+    },
+    {
+      "filename": "Ray Tracers (Japan).bin",
+      "filesize": 710692080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a1bba1195b198e8450cdf0cdaf194e4",
+        "sha1": "532033784f6ccb7a14766bf857b2a178a818167f",
+        "crc32": "555e2463"
+      }
+    }
+  ]
+}

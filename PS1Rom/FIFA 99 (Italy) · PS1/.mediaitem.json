@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 99 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 99 (Italy).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3046e24d4223deb4c9e61f0109119587",
+        "sha1": "a55b96394ed18c7a52712e133fdde5b99f6620f5",
+        "crc32": "cbccf310"
+      }
+    },
+    {
+      "filename": "FIFA 99 (Italy).bin",
+      "filesize": 508434192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "171e2467819f56778bd165281fe08e1b",
+        "sha1": "3ca745aff9110ef4b0a30987e10a4af5ce51adfd",
+        "crc32": "f8241737"
+      }
+    }
+  ]
+}

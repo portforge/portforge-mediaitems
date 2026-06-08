@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fear Effect (USA) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fear Effect (USA) (Disc 3).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40a1cd05b31a0ca0f7a5c17d2f7a219a",
+        "sha1": "f1896a0796dcec6ad16779146dea2a32bc394b96",
+        "crc32": "a483bc8d"
+      }
+    },
+    {
+      "filename": "Fear Effect (USA) (Disc 3).bin",
+      "filesize": 451666320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd6fc71e6f452e1b4027250dd7d6d65c",
+        "sha1": "a4205816f6486d8d1f5b97195370fd402003f983",
+        "crc32": "fd0f561b"
+      }
+    }
+  ]
+}

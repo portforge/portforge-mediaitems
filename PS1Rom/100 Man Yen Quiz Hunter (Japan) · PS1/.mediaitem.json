@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "100 Man Yen Quiz Hunter (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "100 Man Yen Quiz Hunter (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a43ad615aa5977427b2e400749ae341",
+        "sha1": "7178c3a1c9e679609387fc2a551a3979b64942d6",
+        "crc32": "ccdb145c"
+      }
+    },
+    {
+      "filename": "100 Man Yen Quiz Hunter (Japan).bin",
+      "filesize": 496330800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb2b5461641ae87cd1644ca33ca95d13",
+        "sha1": "581006d70190a7e96f1dba84819c63550cc027da",
+        "crc32": "f3ca2883"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mr. Driller (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mr. Driller (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dcc573703e07edca819ac78b1fc35eaa",
+        "sha1": "90828b586973623bdc759ed76c380de934f9a555",
+        "crc32": "7599112a"
+      }
+    },
+    {
+      "filename": "Mr. Driller (USA).bin",
+      "filesize": 371213808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "452fd32a3924cfa45dce4e9fd555bd6d",
+        "sha1": "760fa2de6cbebbeab5366564b6ee93da1da0c183",
+        "crc32": "3b115f86"
+      }
+    }
+  ]
+}

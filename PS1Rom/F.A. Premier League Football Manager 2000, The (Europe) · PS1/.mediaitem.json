@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F.A. Premier League Football Manager 2000, The (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F.A. Premier League Football Manager 2000, The (Europe).cue",
+      "filesize": 280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "77dfd18f649804dc61c8d533ef0710c7",
+        "sha1": "a65289794c94154996c30e9562ee59420a13a6fc",
+        "crc32": "8c0ad906"
+      }
+    },
+    {
+      "filename": "F.A. Premier League Football Manager 2000, The (Europe) (Track 1).bin",
+      "filesize": 366260496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64dbbc085e245bea113838a4cd47c4ae",
+        "sha1": "98b970b96ef05485757543b1198b7b29be308c81",
+        "crc32": "c9c5fdf8"
+      }
+    },
+    {
+      "filename": "F.A. Premier League Football Manager 2000, The (Europe) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c827fe975275132318d644b400f7cc4f",
+        "sha1": "7e22eb399cc49cba4fc2aea814f156fc6b6c47e8",
+        "crc32": "647575fd"
+      }
+    }
+  ]
+}

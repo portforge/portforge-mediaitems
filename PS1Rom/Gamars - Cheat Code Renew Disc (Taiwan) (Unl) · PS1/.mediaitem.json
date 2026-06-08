@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gamars - Cheat Code Renew Disc (Taiwan) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gamars - Cheat Code Renew Disc (Taiwan) (Unl).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc9db777183f0ad998ef0fb23fc13c12",
+        "sha1": "4ac75f58ebf102d49e2666dafa19e4ef23802817",
+        "crc32": "0edb7a2f"
+      }
+    },
+    {
+      "filename": "Gamars - Cheat Code Renew Disc (Taiwan) (Unl).bin",
+      "filesize": 6298656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d929a8efd152d329e883d37dda7f7e83",
+        "sha1": "c9bb179f1995c7b94126a4ddd0d5c667561cce17",
+        "crc32": "d8b2281b"
+      }
+    }
+  ]
+}

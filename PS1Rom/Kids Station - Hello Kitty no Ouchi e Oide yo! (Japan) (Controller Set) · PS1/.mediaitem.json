@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan) (Controller Set).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8407c026810802cd63571797e9598d67",
+        "sha1": "7ef54823e9835bb2af5692abcd7cbec02bb74ad2",
+        "crc32": "e13846f0"
+      }
+    },
+    {
+      "filename": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan) (Controller Set) (Track 1).bin",
+      "filesize": 242775792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b7676d03513d05e23004120e3f13403",
+        "sha1": "f32245e5b73a7ba6f47084145e02a3c7006abe29",
+        "crc32": "5214c0ac"
+      }
+    },
+    {
+      "filename": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan) (Controller Set) (Track 2).bin",
+      "filesize": 32582256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ad2ab4f694358f92ab1e85097a4cb2f",
+        "sha1": "49d6d1333dca811f5a9e952457b0e5f91990c4bf",
+        "crc32": "c21cd8eb"
+      }
+    }
+  ]
+}

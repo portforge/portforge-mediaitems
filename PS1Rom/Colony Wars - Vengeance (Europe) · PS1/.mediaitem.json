@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars - Vengeance (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars - Vengeance (Europe).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d24e5f964882e184afe0e52c82b8db2",
+        "sha1": "36e6e26582a32426423dd3e6e38eb8218c609e06",
+        "crc32": "4f17ff3b"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (Europe) (Track 1).bin",
+      "filesize": 574200816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ef99e900f2b54beb9485b02f6980685",
+        "sha1": "7143ad53b0ec7fc3438c248dd13749fce4e71900",
+        "crc32": "08d2628a"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (Europe) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Replay 2 Version 2.23 (Europe) (En,Fr,De,It) (Disc 2) (Bonus PSone Codes!) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Replay 2 Version 2.23 (Europe) (En,Fr,De,It) (Disc 2) (Bonus PSone Codes!) (Unl).cue",
+      "filesize": 153,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30d4ff8f1a1750a0b21e8ef45abda9fb",
+        "sha1": "c9f63b0d390cc66baaffbe501fb64597044ed281",
+        "crc32": "4a435678"
+      }
+    },
+    {
+      "filename": "Action Replay 2 Version 2.23 (Europe) (En,Fr,De,It) (Disc 2) (Bonus PSone Codes!) (Unl).bin",
+      "filesize": 297297504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e93c5da98474fd5fcfb1983294cc052",
+        "sha1": "8bd4c406825cb05645c17f5292853a55a9962f73",
+        "crc32": "b3be84f2"
+      }
+    }
+  ]
+}

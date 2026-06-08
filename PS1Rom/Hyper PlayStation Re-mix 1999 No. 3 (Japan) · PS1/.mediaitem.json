@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix 1999 No. 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix 1999 No. 3 (Japan).cue",
+      "filesize": 667,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72ad41c5b2f05b1f5182f669239f4cae",
+        "sha1": "19bd423738ff8997f9c4d5db02e5145d1fea861c",
+        "crc32": "4c05b65d"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1999 No. 3 (Japan) (Track 1).bin",
+      "filesize": 652955184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "506e97ac4f5bafd327480747f74cfb0f",
+        "sha1": "879d2c71d61901c2bb22261bbedf0748b4b3e606",
+        "crc32": "fefea1af"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1999 No. 3 (Japan) (Track 2).bin",
+      "filesize": 1352400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0eed14d8fd4f0ecdffe598c4d9245a0",
+        "sha1": "c9aa6ddfb1cd36d780c055ffcca86d20a9325c77",
+        "crc32": "5e966240"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1999 No. 3 (Japan) (Track 3).bin",
+      "filesize": 2074464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86c213da5dcd049cf044673026d953c7",
+        "sha1": "f507824107ef38c8f43f63fc0a6cf3bbd7c64d89",
+        "crc32": "f3e532a8"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1999 No. 3 (Japan) (Track 4).bin",
+      "filesize": 9492672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfc2c537fd44a100bb517ca04a632881",
+        "sha1": "97e255276cd87a83bc9b23f1e24c27fa0b933c14",
+        "crc32": "aaea3cb7"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1999 No. 3 (Japan) (Track 5).bin",
+      "filesize": 38255280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1133cdbb3c5a849705b9bc840b3a7732",
+        "sha1": "846fb0a14c8eb956d31f0e3ff99322166088b369",
+        "crc32": "0cc52cc2"
+      }
+    }
+  ]
+}

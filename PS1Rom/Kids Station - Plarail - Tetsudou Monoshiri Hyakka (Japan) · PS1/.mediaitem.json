@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Plarail - Tetsudou Monoshiri Hyakka (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Plarail - Tetsudou Monoshiri Hyakka (Japan).cue",
+      "filesize": 286,
+      "ext": "cue",
+      "checksums": {
+        "md5": "905168ec46c8cd3f4e11f44164b61146",
+        "sha1": "7831c74bd5fd7c1685d2a6e2cd0c3fe14d2442a8",
+        "crc32": "00187da1"
+      }
+    },
+    {
+      "filename": "Kids Station - Plarail - Tetsudou Monoshiri Hyakka (Japan) (Track 1).bin",
+      "filesize": 250233984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d8206f48263053c830e3ac37ab513f3",
+        "sha1": "9993f8b8c23bd3508db1fd6b53b3d9038ae1ccce",
+        "crc32": "aa6d0efe"
+      }
+    },
+    {
+      "filename": "Kids Station - Plarail - Tetsudou Monoshiri Hyakka (Japan) (Track 2).bin",
+      "filesize": 32111856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59add0a2c8edb31726129efe91e17d40",
+        "sha1": "5304669b0c27ce1d30a07b4c40db3f544f5da65d",
+        "crc32": "23492c6d"
+      }
+    }
+  ]
+}

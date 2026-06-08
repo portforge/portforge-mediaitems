@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Creative Voyage (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Creative Voyage (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b972e638f7c77b2a52b38422f826e59",
+        "sha1": "5a1080a11307c9f6bcaf88d7c72200f9d5b02472",
+        "crc32": "80837d3c"
+      }
+    },
+    {
+      "filename": "Creative Voyage (USA).bin",
+      "filesize": 61914048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01069c7e067cb56b6b742ec702ee48f8",
+        "sha1": "85cc9e1b1f74d7616a0c17373548e740b2409aff",
+        "crc32": "bb4cb20a"
+      }
+    }
+  ]
+}

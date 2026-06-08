@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Drug Store, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Drug Store, The (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d63e3eeeab207c57a594675b228abb0",
+        "sha1": "5c834943f479737fd54d2e94ac3f72a3b519eb0a",
+        "crc32": "4178c0d6"
+      }
+    },
+    {
+      "filename": "Drug Store, The (Japan).bin",
+      "filesize": 138949104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a1c329b7369e2c9a8d6e912112b2bbf",
+        "sha1": "28745fb888aa1dfe17ca115be0e5fbd399a42aa8",
+        "crc32": "93ec0bc1"
+      }
+    }
+  ]
+}

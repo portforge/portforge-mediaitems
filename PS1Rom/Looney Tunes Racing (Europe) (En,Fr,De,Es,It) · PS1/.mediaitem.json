@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Looney Tunes Racing (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Looney Tunes Racing (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2dbad1ddefdb46634ce6e5ba45819459",
+        "sha1": "040dff8e8101d4c4b80989c3e9bf0c92e79bc81c",
+        "crc32": "3a693e89"
+      }
+    },
+    {
+      "filename": "Looney Tunes Racing (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 674339568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5eb5c5009f7eed82cd014840e9707ad1",
+        "sha1": "663e77c10004fea379fe82048d5d540b006bf052",
+        "crc32": "bc69433e"
+      }
+    }
+  ]
+}

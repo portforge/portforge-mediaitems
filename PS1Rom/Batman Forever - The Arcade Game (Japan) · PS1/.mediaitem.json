@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Batman Forever - The Arcade Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Batman Forever - The Arcade Game (Japan).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "227639c75e7c0b7504272b9012e97cb6",
+        "sha1": "be00c75b6da243f3ab0b01917a11091c70b22ed8",
+        "crc32": "64c0f512"
+      }
+    },
+    {
+      "filename": "Batman Forever - The Arcade Game (Japan) (Track 1).bin",
+      "filesize": 36180816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4100b7b47d27df1b1e4574396f1f0a51",
+        "sha1": "530d85f9c36e4d69073686b4529f885d53e640f7",
+        "crc32": "ea427bc0"
+      }
+    },
+    {
+      "filename": "Batman Forever - The Arcade Game (Japan) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

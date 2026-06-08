@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Uchuu Senkan Yamato - Eiyuu no Kiseki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Uchuu Senkan Yamato - Eiyuu no Kiseki (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a140d48103f15c2d8fd22bd4813975c9",
+        "sha1": "12a6e2a6db45fd8cd2710e2a83a8c4618074f272",
+        "crc32": "544e79b7"
+      }
+    },
+    {
+      "filename": "Uchuu Senkan Yamato - Eiyuu no Kiseki (Japan).bin",
+      "filesize": 739878048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f716bef3c3ff2dbf722d9a62bf2930ba",
+        "sha1": "ca13a6c0cfda16405b5ae5c285d7d16fe724d04a",
+        "crc32": "d2a476ac"
+      }
+    }
+  ]
+}

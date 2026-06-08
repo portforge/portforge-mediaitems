@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gundam Battle Assault 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gundam Battle Assault 2 (USA).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "36b3b78a91765f5fb8b620fb097f0a9d",
+        "sha1": "7831e47ed0808cc30306a81dbaacfc31e9d5fc84",
+        "crc32": "257c8de4"
+      }
+    },
+    {
+      "filename": "Gundam Battle Assault 2 (USA) (Track 1).bin",
+      "filesize": 243822432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3000a1b7ff191c1efe1aaf18f79a0ed5",
+        "sha1": "e586735b7da7d9097968aa29d514afd33092d5cd",
+        "crc32": "8b6ef16c"
+      }
+    },
+    {
+      "filename": "Gundam Battle Assault 2 (USA) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

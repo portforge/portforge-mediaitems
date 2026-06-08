@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "O.D.T. (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "O.D.T. (USA) (Demo).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0a71d07462bf42224e95e3b238b52b9",
+        "sha1": "5bfba467fb8d5944446f2aa190d4c7162a3b20ca",
+        "crc32": "be61b0ca"
+      }
+    },
+    {
+      "filename": "O.D.T. (USA) (Demo).bin",
+      "filesize": 158755296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e39c1d35c6e2d21a9008181f3c4fe2f1",
+        "sha1": "1d8267703f72b2979dcf09e780bb8bb9a8d49f50",
+        "crc32": "c3fe7e0c"
+      }
+    }
+  ]
+}

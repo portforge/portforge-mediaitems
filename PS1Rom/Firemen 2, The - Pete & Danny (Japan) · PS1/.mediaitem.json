@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Firemen 2, The - Pete & Danny (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Firemen 2, The - Pete & Danny (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f789082ef697b875b19c6f31791c7c0e",
+        "sha1": "33ded70e1c2a31d384b39d45462d4dd4481a6b47",
+        "crc32": "847027c4"
+      }
+    },
+    {
+      "filename": "Firemen 2, The - Pete & Danny (Japan).bin",
+      "filesize": 459945360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d403a8b1d135e316ccd96fbd0273dfd",
+        "sha1": "4dc89b6ee53f8a883f72b781b625b3fdebb06708",
+        "crc32": "a357a60b"
+      }
+    }
+  ]
+}

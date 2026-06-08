@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Soccer 3 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Soccer 3 (France).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d178345246ee0aa78cd096f5271c45e1",
+        "sha1": "fc4993b33210454729b24ac5e9b69f493e2ace10",
+        "crc32": "0390cec9"
+      }
+    },
+    {
+      "filename": "Actua Soccer 3 (France) (Track 1).bin",
+      "filesize": 314373024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6745afebe303bcd426b2d63a6d3b523",
+        "sha1": "7f19ca6939062251c65fa511033dca18d35eca18",
+        "crc32": "890e4597"
+      }
+    },
+    {
+      "filename": "Actua Soccer 3 (France) (Track 2).bin",
+      "filesize": 46555488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba58d271ac749bf5cdf51032416f6157",
+        "sha1": "51fed26c49b1cdf204db76ebd4462ef642931e7a",
+        "crc32": "1150776d"
+      }
+    }
+  ]
+}

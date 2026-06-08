@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PaRappa the Rapper (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PaRappa the Rapper (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44026adb133a5a903912279bc7456db6",
+        "sha1": "9cd14e6810528a4d4402f82cfb6e6051dfdc0f4e",
+        "crc32": "9c8daa92"
+      }
+    },
+    {
+      "filename": "PaRappa the Rapper (Japan).bin",
+      "filesize": 726476352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b78db6c60c884a8ed7b6a33e98bf44",
+        "sha1": "fd7355c26093e64157f0f3884665585e53822a17",
+        "crc32": "e769812f"
+      }
+    }
+  ]
+}

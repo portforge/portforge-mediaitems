@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 02-99 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 02-99 (Germany).cue",
+      "filesize": 577,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0bcfdd48ff064e0cb6aeac81d2edf724",
+        "sha1": "7136cedc4f8f27ea4ac8c4c7b3b43b88b5d76f75",
+        "crc32": "a4e0c216"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 (Germany) (Track 1).bin",
+      "filesize": 241576272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4195e08d5b48436640d2922910805dea",
+        "sha1": "5743cc14f689ffa0492413818dc8b1335095433b",
+        "crc32": "467ebaa9"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 (Germany) (Track 2).bin",
+      "filesize": 57304128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef3752f91299602e702fc005b15becc7",
+        "sha1": "c216c0c3b57558bc23537755da3ea32460eb16ee",
+        "crc32": "f63e25ea"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 (Germany) (Track 3).bin",
+      "filesize": 26619936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41bbc93e053ce06350023c13ab5b5aa8",
+        "sha1": "aeeb3dbb55c8f2102b3d0551aecfd7db71e8706e",
+        "crc32": "227a67cf"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 (Germany) (Track 4).bin",
+      "filesize": 37314480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "587a00dbac596b8cfa4d586cf9175642",
+        "sha1": "209f6359ad0d0d79685a55c840890b4dd5b5acb5",
+        "crc32": "a7d2571f"
+      }
+    },
+    {
+      "filename": "Euro Demo 02-99 (Germany) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

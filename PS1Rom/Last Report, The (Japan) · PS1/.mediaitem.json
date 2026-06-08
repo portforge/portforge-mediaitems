@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Last Report, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Last Report, The (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3a3cf4584f2e50349c7aa7c3d1d0f28",
+        "sha1": "60187956babd9dce31e6d5bfdb4e3d29f2336bc7",
+        "crc32": "b6dac589"
+      }
+    },
+    {
+      "filename": "Last Report, The (Japan).bin",
+      "filesize": 675508512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccff8bfe0b8ae8d39296914057f463d9",
+        "sha1": "71ba887ba1034c094f6c446b6faba859cd642d85",
+        "crc32": "6d81811a"
+      }
+    }
+  ]
+}

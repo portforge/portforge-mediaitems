@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Medal of Honor (USA) (Beta) (1999-10-26)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Medal of Honor (USA) (Beta) (1999-10-26).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "920fe3ba5e805ccd210da2c40d8c4999",
+        "sha1": "513e78d32aeb513a6bb4588d4109749fdbd8c322",
+        "crc32": "bbd2c91f"
+      }
+    },
+    {
+      "filename": "Medal of Honor (USA) (Beta) (1999-10-26).bin",
+      "filesize": 745275888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77268522f5c64cbed982ccdb05ebb904",
+        "sha1": "2e537f789f2837c514580654863ba5d2cad83dd1",
+        "crc32": "858caec8"
+      }
+    }
+  ]
+}

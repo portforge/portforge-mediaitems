@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soukaigi (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soukaigi (Japan) (Disc 3).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e250757d8c23d540307053150efceac9",
+        "sha1": "429d6295e08c2adafaea5204783074b94702491d",
+        "crc32": "31d59ddd"
+      }
+    },
+    {
+      "filename": "Soukaigi (Japan) (Disc 3).bin",
+      "filesize": 653684304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf994d5ab7c6c53ad8eb05b7901f0def",
+        "sha1": "a0bc724808cab5a404f4fee4356f43aa42b9ce52",
+        "crc32": "49955723"
+      }
+    }
+  ]
+}

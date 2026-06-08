@@ -1,0 +1,187 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Expendable (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Expendable (USA).cue",
+      "filesize": 1869,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11b0406bd5f53b8fdfaed5e57356cec5",
+        "sha1": "e28937c60010111f86f3a6fa77c542dad13243d2",
+        "crc32": "82583146"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 01).bin",
+      "filesize": 133699440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8774e71f4c5eddfa34d26ca0a5db9e19",
+        "sha1": "576915d4d5f9fbe79059693577249f9dc38122d7",
+        "crc32": "e914a5ec"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 02).bin",
+      "filesize": 1378272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3f4bcee8c3806a78b999652555ce471",
+        "sha1": "f4259cdf5dd7c5f37fa1267961696546d16f6edd",
+        "crc32": "2d900bc7"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 03).bin",
+      "filesize": 42107856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb8e88b00584181173fe6019e270db24",
+        "sha1": "f7e66121d7a64c06df33826b6d1c14a2600b0411",
+        "crc32": "55ddba0c"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 04).bin",
+      "filesize": 34143984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "272270aaabb3114520c7f5889cd1caec",
+        "sha1": "4dc182091429d262f6765db1a8935ca2409a0aa5",
+        "crc32": "431c0838"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 05).bin",
+      "filesize": 43354416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63883e26919706c1b2a8155f9c8d3054",
+        "sha1": "7f6d7a570c6a613158d56ef523173dd11bcb861c",
+        "crc32": "49a73627"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 06).bin",
+      "filesize": 33097344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59ae52ce80efbd35edd6858721c20c71",
+        "sha1": "cdbdfd15f7f4ed67a1c39ca66084f425359101a5",
+        "crc32": "7bce0582"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 07).bin",
+      "filesize": 18496128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "820cc764f4890d284fe06d67ee4b7880",
+        "sha1": "97537b474ed32086aaac584b33c3da1ad541ee56",
+        "crc32": "0339e4c0"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 08).bin",
+      "filesize": 35762160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98574f3a87fdd11ae1d5d1ae36e81a82",
+        "sha1": "fcc51b111460f28e496e6e4f6e187660df9c0e81",
+        "crc32": "204a7a13"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 09).bin",
+      "filesize": 37448544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53121de1d02525b241b3c3382efea516",
+        "sha1": "e01c030903330098f35c80b14533ceab0e785fde",
+        "crc32": "159538ca"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 10).bin",
+      "filesize": 32020128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a88ccb10915352e9b7c5963eea0123b",
+        "sha1": "79f9a484bade9e794e87404f3f1236721c7ca933",
+        "crc32": "56d6bf2c"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 11).bin",
+      "filesize": 34285104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fa9cc500f0c20ff24e365942cb1c3bf",
+        "sha1": "c1938e0fcfcf1b599055884991f50e7a44e5eb46",
+        "crc32": "56c1ecf1"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 12).bin",
+      "filesize": 35110656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea3d5dd8892838ab99c9dd95df05439e",
+        "sha1": "6e3528b76bc8b6cc167d6d156e51bc8ccf8ee555",
+        "crc32": "ca7fd2a1"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 13).bin",
+      "filesize": 31091088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b217f7e6ff524d26923e7f96a2649528",
+        "sha1": "e6e5a5932cee25dd790a3cb76fe8674e964f994c",
+        "crc32": "d02a2bc8"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 14).bin",
+      "filesize": 30467808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8499a315896c0b8d69c0e8e15e0dbd8d",
+        "sha1": "9a7744fa14799157a0ea38f032a8fdf676ed91fc",
+        "crc32": "6abaf919"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 15).bin",
+      "filesize": 9191616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a40232979a935c8b8c4619c74a45e1db",
+        "sha1": "129873461fdd76e36a322f77e906a1ea9ad6c472",
+        "crc32": "dc02c50b"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 16).bin",
+      "filesize": 1509984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a6e4a8ed1dd859c57c87a05f7ba0a9a",
+        "sha1": "223d04512f5ddb0ddad611dc3e7daef8d70dd530",
+        "crc32": "4b84d985"
+      }
+    },
+    {
+      "filename": "Expendable (USA) (Track 17).bin",
+      "filesize": 34155744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b15a427ebcbbf992774f29832ceee3c",
+        "sha1": "c6def31571478dfbd9b62da746f2c7330770f76d",
+        "crc32": "78533737"
+      }
+    }
+  ]
+}

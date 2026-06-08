@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spice World (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spice World (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45c9e13acea293ca84c996e93df64b80",
+        "sha1": "1cb4bfa296d2c364d0599a0934f7887679f49677",
+        "crc32": "ab9725df"
+      }
+    },
+    {
+      "filename": "Spice World (Europe).bin",
+      "filesize": 413072352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1ce84b5dd0d538e018fcb666c5d837d",
+        "sha1": "d106c90361d2ecc69280f7ab2283584c287da43c",
+        "crc32": "a6d0c247"
+      }
+    }
+  ]
+}

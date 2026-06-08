@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Civilization II (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Civilization II (Europe).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "616d0b2200c2e8da4b7f86160dd54420",
+        "sha1": "152a3820f306bcaadc8d911f3474554d93de7fa3",
+        "crc32": "71358208"
+      }
+    },
+    {
+      "filename": "Civilization II (Europe) (Track 1).bin",
+      "filesize": 484041600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56bc88c8aeeb327eb40c5a3f8b404b1c",
+        "sha1": "23576e94c657ceb5950eaf20fa1c9349fdd56e74",
+        "crc32": "d0183991"
+      }
+    },
+    {
+      "filename": "Civilization II (Europe) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a791879d4bb4ec9e3c44630d9e20131",
+        "sha1": "52b066377c2cf39fb0fc150d52296a0243a85eec",
+        "crc32": "cf8bc268"
+      }
+    }
+  ]
+}

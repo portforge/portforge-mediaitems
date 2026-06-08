@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NASCAR Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NASCAR Racing (USA).cue",
+      "filesize": 915,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c840ba6530a78b67986eb06f42085d1",
+        "sha1": "ba0aef986cd6c6dd36545cda81b1b79e1a788634",
+        "crc32": "205ee5ae"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 01).bin",
+      "filesize": 94750320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34ec33fa8c429698cbeda690c03232fe",
+        "sha1": "64d58fda0a152572b8cfabe89d5ce31e9f4db0f8",
+        "crc32": "67a50975"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 02).bin",
+      "filesize": 37759008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ef648a74522881f24c7381c6fb6a097",
+        "sha1": "3149bb9d86c3939e1509c3f55058e1b28ff219da",
+        "crc32": "469dee12"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 03).bin",
+      "filesize": 33993456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "130f58318b52791bfba23f0aeb1d296f",
+        "sha1": "704dfecd67adac0e91bc2397d8db2298404d6c3b",
+        "crc32": "6b2b7839"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 04).bin",
+      "filesize": 33007968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1786b4f3ee0c3b33b6f119f1ebf4bec8",
+        "sha1": "5c81721ccd3a3243ec5bb5118820d2c9b06859d9",
+        "crc32": "f6d2117b"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 05).bin",
+      "filesize": 52214400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51a81556e0b37a8cb3e25c38e2d08381",
+        "sha1": "f3116ab923b4739193b183ba4abc30106944ac41",
+        "crc32": "3036b349"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 06).bin",
+      "filesize": 39962832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35ae99aed5e838913a046b0e8a786b52",
+        "sha1": "3c3e83b32dc48d8086960101c0ae32cf140b0b03",
+        "crc32": "333abe65"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 07).bin",
+      "filesize": 49862400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79d72de22f2492f4d286606d6c3307a2",
+        "sha1": "6040390e250077eca85c3553fb28d3255c273e90",
+        "crc32": "1ec89f5d"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 08).bin",
+      "filesize": 35009520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b4aba945846bfa51bb1f0473e485c5b",
+        "sha1": "10e7c4234c3f707569de14e5e7c219c092dba51b",
+        "crc32": "0922f701"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 09).bin",
+      "filesize": 41912640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0af0ca532f7a4c15d69da9ababdd491",
+        "sha1": "6c3b1e63321419e45b688dfaacffb448a2500135",
+        "crc32": "24218797"
+      }
+    },
+    {
+      "filename": "NASCAR Racing (USA) (Track 10).bin",
+      "filesize": 52607184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f657b4a0792ddfbe6cd985935e238e0",
+        "sha1": "606a7c56ac1119666750523bea8f5b0c1b520ea9",
+        "crc32": "32b13dcc"
+      }
+    }
+  ]
+}

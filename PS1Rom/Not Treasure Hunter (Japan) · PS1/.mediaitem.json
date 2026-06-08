@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Not Treasure Hunter (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Not Treasure Hunter (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a64e3bc4b05aef3c351e1363dc038360",
+        "sha1": "8d98799352e612fbd52f45cde7ef653ee6c5415c",
+        "crc32": "b7ea8ac8"
+      }
+    },
+    {
+      "filename": "Not Treasure Hunter (Japan).bin",
+      "filesize": 386374800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee7f5587da53b66549bf27cd1fe665ae",
+        "sha1": "4bcf4eafddeb80191de7b766866c9a420589778b",
+        "crc32": "7f28f93f"
+      }
+    }
+  ]
+}

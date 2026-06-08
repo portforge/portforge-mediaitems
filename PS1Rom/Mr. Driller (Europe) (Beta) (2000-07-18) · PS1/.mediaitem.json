@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mr. Driller (Europe) (Beta) (2000-07-18)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mr. Driller (Europe) (Beta) (2000-07-18).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "281665686506adf1105678a4ea5bbece",
+        "sha1": "3143f9b14b2a5dcfa0c0485f6f66981c4a726bd4",
+        "crc32": "9c68b8d6"
+      }
+    },
+    {
+      "filename": "Mr. Driller (Europe) (Beta) (2000-07-18).bin",
+      "filesize": 379436400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "614b04c9a3fa02cb499cc4ae8a6dcdb0",
+        "sha1": "67b31745b40905e1801dd169d4e8999178ad1fca",
+        "crc32": "0c4942eb"
+      }
+    }
+  ]
+}

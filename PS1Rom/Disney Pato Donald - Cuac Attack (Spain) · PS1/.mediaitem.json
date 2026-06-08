@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Pato Donald - Cuac Attack (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Pato Donald - Cuac Attack (Spain).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2bcd859b94ebe680214132c9c0d9956",
+        "sha1": "8c56ffe6950f3983445468304e957d348396688c",
+        "crc32": "b820e893"
+      }
+    },
+    {
+      "filename": "Disney Pato Donald - Cuac Attack (Spain).bin",
+      "filesize": 654806208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1c2a041addc2c4880761e7f09164fb0",
+        "sha1": "afc50947a422d789f0c6436b58bf71d8f2afdc8f",
+        "crc32": "4c7d9ec7"
+      }
+    }
+  ]
+}

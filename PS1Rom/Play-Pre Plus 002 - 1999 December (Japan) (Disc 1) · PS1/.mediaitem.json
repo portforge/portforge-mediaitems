@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Plus 002 - 1999 December (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Plus 002 - 1999 December (Japan) (Disc 1).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b2d5d03b9b410e7208e5eca77cafe91",
+        "sha1": "60e914b3dfaf14154c88f9b311f2010d042d3827",
+        "crc32": "1d6a425a"
+      }
+    },
+    {
+      "filename": "Play-Pre Plus 002 - 1999 December (Japan) (Disc 1).bin",
+      "filesize": 600926592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "298e47713a08784fc76deb785fc2f2b9",
+        "sha1": "0d62cf32b2b392ed26e9b1f8437cb8000d823820",
+        "crc32": "b3f7f0af"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Dinosaur (Europe) (En,Nl,Sv,No,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Dinosaur (Europe) (En,Nl,Sv,No,Da,Fi).cue",
+      "filesize": 262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44cf228f6da1ca83e15f3ad11f3f4c05",
+        "sha1": "dae71e78dd743c3e96ef2b361978bb1d77cac0c7",
+        "crc32": "42d1ed57"
+      }
+    },
+    {
+      "filename": "Disney's Dinosaur (Europe) (En,Nl,Sv,No,Da,Fi) (Track 1).bin",
+      "filesize": 516348672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8bfe3bf97f992c7890c2ea84bbf53f28",
+        "sha1": "0bb7acf4483ae4870c44326561f95cbb9ae7c845",
+        "crc32": "b2a4cc0b"
+      }
+    },
+    {
+      "filename": "Disney's Dinosaur (Europe) (En,Nl,Sv,No,Da,Fi) (Track 2).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56cbfe56313feb74b7532b12668502dd",
+        "sha1": "e674b300b0ea2659994817ccb6acee97066f987f",
+        "crc32": "13224f82"
+      }
+    }
+  ]
+}

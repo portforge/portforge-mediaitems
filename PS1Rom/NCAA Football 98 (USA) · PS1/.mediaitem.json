@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA Football 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA Football 98 (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "211b6a13c5e4c46274225987bd7fd5b6",
+        "sha1": "a1bf0764020a719cd2a83ff22ecf47dacffca325",
+        "crc32": "fc88576c"
+      }
+    },
+    {
+      "filename": "NCAA Football 98 (USA).bin",
+      "filesize": 410917920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79a54c904a66d3668952aee1b5bf2eb6",
+        "sha1": "3f2f27fcd5f4da9cd647e47c5c6a49eefe4bbbba",
+        "crc32": "b9ec6a1c"
+      }
+    }
+  ]
+}

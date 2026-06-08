@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grinch, The (USA) (En,Fr,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grinch, The (USA) (En,Fr,Es).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75ca0a8685761a593867b624f3ccc9ca",
+        "sha1": "40ce828f2e1d0b19704935b839ed753a6935a8be",
+        "crc32": "d5e8f68a"
+      }
+    },
+    {
+      "filename": "Grinch, The (USA) (En,Fr,Es).bin",
+      "filesize": 518665392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e903c14f4becf89082f43ec936a68e62",
+        "sha1": "72088193f0726f9dbab669e7bb3b66343274d11d",
+        "crc32": "de2d9a34"
+      }
+    }
+  ]
+}

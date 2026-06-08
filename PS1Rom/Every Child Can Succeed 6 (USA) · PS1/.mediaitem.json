@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Every Child Can Succeed 6 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Every Child Can Succeed 6 (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61ac1c54d786a543f14c25a3dd9e30ff",
+        "sha1": "46c33779e257b0d729e4041e3e3f2319a73a9a8e",
+        "crc32": "5c5b3ec4"
+      }
+    },
+    {
+      "filename": "Every Child Can Succeed 6 (USA).bin",
+      "filesize": 609452592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04f3ad5b8f7db85d6f25c9e04d0680c9",
+        "sha1": "a6f964ec73c5629a713f185daf498b755065f222",
+        "crc32": "d8d5323d"
+      }
+    }
+  ]
+}

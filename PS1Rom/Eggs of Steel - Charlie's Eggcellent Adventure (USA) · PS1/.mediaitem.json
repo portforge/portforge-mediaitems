@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eggs of Steel - Charlie's Eggcellent Adventure (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eggs of Steel - Charlie's Eggcellent Adventure (USA).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9ad41f3ac3e057829e742f14946638a2",
+        "sha1": "3dcefc61dc8461f2f74e7dd4c3ec3e23b24f2beb",
+        "crc32": "1ddef2de"
+      }
+    },
+    {
+      "filename": "Eggs of Steel - Charlie's Eggcellent Adventure (USA).bin",
+      "filesize": 750697248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a9c0adc213b8e1471bd8976cf241ee6",
+        "sha1": "242df2964eee072efe0c87254829439d5097fe4e",
+        "crc32": "90151324"
+      }
+    }
+  ]
+}

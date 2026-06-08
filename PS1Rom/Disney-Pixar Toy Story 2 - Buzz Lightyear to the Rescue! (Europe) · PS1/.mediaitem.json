@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "383fc07c81f7095a36c9a266965abc56",
+        "sha1": "656a5c4704bdc925ae793f39c46c2093ffbc3a4e",
+        "crc32": "95770469"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).bin",
+      "filesize": 633123120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "249da1564cad875e34d69cf2d45e6636",
+        "sha1": "830c8fd7f3e663946da4db86f6b5b009bd6b811f",
+        "crc32": "3591bdc4"
+      }
+    }
+  ]
+}

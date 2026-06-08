@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slot! Pro 6 - Hyper Juggler V (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slot! Pro 6 - Hyper Juggler V (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "500d695246982dcac4136dd761aac6f6",
+        "sha1": "00b0e1af233589fe201de4fe64416f9bfd392c9c",
+        "crc32": "bc5044d5"
+      }
+    },
+    {
+      "filename": "Slot! Pro 6 - Hyper Juggler V (Japan).bin",
+      "filesize": 43721328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8796874db32a62766e982420c8044a69",
+        "sha1": "e8694b62a72f552c92c3502fc70a02790822a1ff",
+        "crc32": "94ef8a4f"
+      }
+    }
+  ]
+}

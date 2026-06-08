@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Quiz$Millionaire (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Quiz$Millionaire (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "39c644142859c5e07e1e6e52a45e79a8",
+        "sha1": "655039de7eb81e570f01f2ac2f34138062e9b218",
+        "crc32": "91826fd6"
+      }
+    },
+    {
+      "filename": "Quiz$Millionaire (Japan).bin",
+      "filesize": 391111728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44523ea0630f8123e75ec08399df2fe7",
+        "sha1": "dba16759221cc2bab86acf00a023ef09dd8cb6b1",
+        "crc32": "1b2e3e4b"
+      }
+    }
+  ]
+}

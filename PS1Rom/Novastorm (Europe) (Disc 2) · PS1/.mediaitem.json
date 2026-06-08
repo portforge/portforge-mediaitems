@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Novastorm (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Novastorm (Europe) (Disc 2).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e597c23e0789cdf1e5467017683526f2",
+        "sha1": "dfbd30c280d9440155896025844a7820a5843c50",
+        "crc32": "afa27bb2"
+      }
+    },
+    {
+      "filename": "Novastorm (Europe) (Disc 2).bin",
+      "filesize": 478542624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4b0e6cd574353eac13425d4bc606cda",
+        "sha1": "90a110dd6a4bc0898fbed6839677073e0634c37c",
+        "crc32": "6a7a23f3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famires, The - Shijou Saikyou no Menu (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famires, The - Shijou Saikyou no Menu (Japan) (Major Wave).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f97b0902b84a3aa07be9cac7ceb8e692",
+        "sha1": "66e914aaf9b00f237493412db3964135026b8f75",
+        "crc32": "ebfd690b"
+      }
+    },
+    {
+      "filename": "Famires, The - Shijou Saikyou no Menu (Japan) (Major Wave).bin",
+      "filesize": 198480576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "390ee5664ac62e0a80ff7cd87b4fe810",
+        "sha1": "95ef39ed6f349432101a1328f18f2554e609dbfd",
+        "crc32": "1ecfd292"
+      }
+    }
+  ]
+}

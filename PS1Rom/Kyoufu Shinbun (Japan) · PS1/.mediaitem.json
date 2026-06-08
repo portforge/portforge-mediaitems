@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kyoufu Shinbun (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kyoufu Shinbun (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b4bddd57d07a2f2360eb6ecac91edede",
+        "sha1": "4fc84305d648de166512578e3922fc8ca7f46b0d",
+        "crc32": "ac070013"
+      }
+    },
+    {
+      "filename": "Kyoufu Shinbun (Japan) (Track 1).bin",
+      "filesize": 562859472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abd13f11479482f7b7667e434d097256",
+        "sha1": "9d7a414cc3c9fe67c551e8f59174b22ca07da940",
+        "crc32": "3cbbb4f0"
+      }
+    },
+    {
+      "filename": "Kyoufu Shinbun (Japan) (Track 2).bin",
+      "filesize": 33393696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "268415d12b84a8994aa66b0f8b2d6116",
+        "sha1": "1f7179aad00a1957237693d52532368e21102a99",
+        "crc32": "70868db7"
+      }
+    }
+  ]
+}

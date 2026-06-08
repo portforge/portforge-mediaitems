@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bakusou Dekotora Densetsu 2 - Otoko Jinsei Yume Ichiro (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bakusou Dekotora Densetsu 2 - Otoko Jinsei Yume Ichiro (Japan).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2665cea6bb8fea867173ada1b8255a2c",
+        "sha1": "fba943bacc9aed709b826706ee1e71e9e8c3eb57",
+        "crc32": "25423c8c"
+      }
+    },
+    {
+      "filename": "Bakusou Dekotora Densetsu 2 - Otoko Jinsei Yume Ichiro (Japan).bin",
+      "filesize": 726029472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e506fae0cd18401b1aad0d8742fb6b67",
+        "sha1": "3835c5486a31c128346794e90a2d9d20ffc5ba65",
+        "crc32": "c00ea0fd"
+      }
+    }
+  ]
+}

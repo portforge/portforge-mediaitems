@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Replay 2 Code Archive Disk (Germany) (Disc 2) (German Edition) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Replay 2 Code Archive Disk (Germany) (Disc 2) (German Edition) (Unl).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5923549a4602d252008d0dabfe104150",
+        "sha1": "64b76af738ce4e51b0700b45fc962f69160ff392",
+        "crc32": "30b45084"
+      }
+    },
+    {
+      "filename": "Action Replay 2 Code Archive Disk (Germany) (Disc 2) (German Edition) (Unl).bin",
+      "filesize": 145854576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369f84da433c2b3997ea886bd9c27c21",
+        "sha1": "7a1140c4ad03077095cd6388258cfde7955123b5",
+        "crc32": "caa7ae7f"
+      }
+    }
+  ]
+}

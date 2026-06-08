@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chi Vuol Essere Milionario Seconda Edizione (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chi Vuol Essere Milionario Seconda Edizione (Italy).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "289b46fe5fded7a2a5de4b266cb82d77",
+        "sha1": "4de08d7f562ee815277c852aec0b89dd51400eca",
+        "crc32": "eb73f2c0"
+      }
+    },
+    {
+      "filename": "Chi Vuol Essere Milionario Seconda Edizione (Italy).bin",
+      "filesize": 382390512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa66eafe48b18e52e8a96207a12e434f",
+        "sha1": "e8add8e11782433b30a5f6350419e44243187aae",
+        "crc32": "ccdcf20a"
+      }
+    }
+  ]
+}

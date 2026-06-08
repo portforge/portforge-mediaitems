@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Clock Tower (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Clock Tower (Germany).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "645b855b042cb4f57bd20904eb71fb65",
+        "sha1": "755c52d17e3c24235613bed32e5d9af028246cdf",
+        "crc32": "335531ea"
+      }
+    },
+    {
+      "filename": "Clock Tower (Germany).bin",
+      "filesize": 666533280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38251c172452eec951936dd9f353c72c",
+        "sha1": "8291f2546eb70257966c895615f5279c5913dfb5",
+        "crc32": "b5523a1c"
+      }
+    }
+  ]
+}

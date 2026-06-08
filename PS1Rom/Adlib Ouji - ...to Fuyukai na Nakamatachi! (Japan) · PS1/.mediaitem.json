@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2fd2afb90a25dbc0c850cf6fb9364b89",
+        "sha1": "c320564f10568f7078389c77b7add0510cc4f782",
+        "crc32": "2494d8c8"
+      }
+    },
+    {
+      "filename": "Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan) (Track 1).bin",
+      "filesize": 47183472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c102986f515735f9fc7ab52cfc69c678",
+        "sha1": "e9d875611100a4a8bc7f0c29862060cc5581b937",
+        "crc32": "f165ebff"
+      }
+    },
+    {
+      "filename": "Adlib Ouji - ...to Fuyukai na Nakamatachi! (Japan) (Track 2).bin",
+      "filesize": 32285904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4bd70e3301adddbf17d3af9fe9b9c5b",
+        "sha1": "dd9f4ec6a09224c78fd01da5b37954762a2a9e70",
+        "crc32": "8c56b34d"
+      }
+    }
+  ]
+}

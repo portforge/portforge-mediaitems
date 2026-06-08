@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney La Petite Sirene 2 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney La Petite Sirene 2 (France).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a6d7ea58856ea7b1dc0095b652a37aa8",
+        "sha1": "54c272ac36d3f5ea865ba90a69cdfe614a4d03c7",
+        "crc32": "8a594ab0"
+      }
+    },
+    {
+      "filename": "Disney La Petite Sirene 2 (France).bin",
+      "filesize": 551087712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "667197096779ff5989aaf60368208865",
+        "sha1": "ee12d49793a9b0d07defc31b79878ab05937dbb8",
+        "crc32": "44383fca"
+      }
+    }
+  ]
+}

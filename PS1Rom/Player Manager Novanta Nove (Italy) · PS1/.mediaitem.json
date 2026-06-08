@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Player Manager Novanta Nove (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Player Manager Novanta Nove (Italy).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b5d4b1326449cd49e2c2af6fb179a94e",
+        "sha1": "a02c1962431edd7599d10236b5afdf506e977df0",
+        "crc32": "dd483d34"
+      }
+    },
+    {
+      "filename": "Player Manager Novanta Nove (Italy).bin",
+      "filesize": 148394736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec305c4b94fd8d22dac964c2a46056af",
+        "sha1": "5cf994950215d75182aaaaada532879f0bcbb9cb",
+        "crc32": "9fbcfde3"
+      }
+    }
+  ]
+}

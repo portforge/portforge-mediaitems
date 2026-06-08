@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VII International (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VII International (Japan) (Disc 2).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9e0917ad7a2c3a80dc1e16eaafcd560",
+        "sha1": "f0fad5339ba1fab6c007f5c37e8ece62115b8b93",
+        "crc32": "68095118"
+      }
+    },
+    {
+      "filename": "Final Fantasy VII International (Japan) (Disc 2).bin",
+      "filesize": 732516288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "207b1d1a2e2eb4b14be1e0f4b2cb0596",
+        "sha1": "02f9ad5c6ad5302b2389247451aedf90b0895fea",
+        "crc32": "c9a14fff"
+      }
+    }
+  ]
+}

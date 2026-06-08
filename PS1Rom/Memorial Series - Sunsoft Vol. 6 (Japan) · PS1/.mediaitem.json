@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Memorial Series - Sunsoft Vol. 6 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Memorial Series - Sunsoft Vol. 6 (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a86a2b81a7a008a8fbf4855de0e34a5",
+        "sha1": "cc2917958f8d643634aa2a136f1b949edb9b6985",
+        "crc32": "a2c7f38f"
+      }
+    },
+    {
+      "filename": "Memorial Series - Sunsoft Vol. 6 (Japan).bin",
+      "filesize": 52541328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be21ff2ed8db5c9ea414c02f55bef372",
+        "sha1": "6ea7ad9811f8c7de6bbb7ba3365e44bd9237cd9f",
+        "crc32": "b991aae4"
+      }
+    }
+  ]
+}

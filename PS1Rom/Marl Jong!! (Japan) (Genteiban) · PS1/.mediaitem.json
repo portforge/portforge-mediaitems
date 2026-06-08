@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marl Jong!! (Japan) (Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marl Jong!! (Japan) (Genteiban).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a16ca7610f104fc2a795ada438f946f7",
+        "sha1": "1ce271c85fc242b90927cd392467aa12a4d9cc4f",
+        "crc32": "339537b8"
+      }
+    },
+    {
+      "filename": "Marl Jong!! (Japan) (Genteiban).bin",
+      "filesize": 215739552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0af345dadefafcea0ade2b2401b4f5c6",
+        "sha1": "8b7c5331cd6a1f0c3700e3d5182017604cbce880",
+        "crc32": "0c3bf0d6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 14 - Kurashi no Manner - Kankon Sousai-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 14 - Kurashi no Manner - Kankon Sousai-hen (Japan).cue",
+      "filesize": 149,
+      "ext": "cue",
+      "checksums": {
+        "md5": "65e82c4563aaa37fcfe3656c9a46d7e3",
+        "sha1": "02b31fa43383839735a1f132e24ad38d74466f3b",
+        "crc32": "b41c8de6"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 14 - Kurashi no Manner - Kankon Sousai-hen (Japan).bin",
+      "filesize": 282973824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55a47197e578ce4c1cceeb26f674b469",
+        "sha1": "5c56f73b01301512d7c18de5ab8a727a2f9341f1",
+        "crc32": "dce0a470"
+      }
+    }
+  ]
+}

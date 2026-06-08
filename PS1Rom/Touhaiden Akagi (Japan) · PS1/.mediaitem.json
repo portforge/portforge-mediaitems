@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Touhaiden Akagi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Touhaiden Akagi (Japan).cue",
+      "filesize": 1280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce83c9a88db989500c91fd9afe0f3dd4",
+        "sha1": "a020f80442235d4bbc2ba920bc69dc6b8eab9ca1",
+        "crc32": "e77ce2ec"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 01).bin",
+      "filesize": 430150224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2e415738782991659fe34ddf48e79e0",
+        "sha1": "7b1575670090bfeaa1174ac5e5e860d5dc003df0",
+        "crc32": "d248cdc8"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 02).bin",
+      "filesize": 3847872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac358e5145e5228e1673ee25ad2f6e76",
+        "sha1": "f89afc7759b7f6ad23f4f215a3a1633c29eff529",
+        "crc32": "5b3191da"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 03).bin",
+      "filesize": 1841616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10762842bc41123955092800e10e6c54",
+        "sha1": "afa4281afbc7a037cff194bd294e085341020aea",
+        "crc32": "46d9a289"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 04).bin",
+      "filesize": 2885904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc34bdf31d925325c72989a38edefb2b",
+        "sha1": "ab7dcbe028859200179bb9acc2203a8060947d60",
+        "crc32": "3738f3ae"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 05).bin",
+      "filesize": 3683232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49532a0166c2cdf0aff96862918b4d06",
+        "sha1": "4838efa1c9706b1ece3fc7a5532726bfa3839c8c",
+        "crc32": "36875ae5"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 06).bin",
+      "filesize": 18514944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9c495fe55f9f7b302bf37e4912eceb6",
+        "sha1": "17f22f7575bfde8ce547b8e77d9364c42dec7d95",
+        "crc32": "48014a6e"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 07).bin",
+      "filesize": 3636192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8045c0e9ffc4f4e87225ec20c54064e4",
+        "sha1": "d986838667f7aeb4ba0a42636c3296f5c259d2e0",
+        "crc32": "ce85daa1"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 08).bin",
+      "filesize": 6350400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d02563e5ba244000ead0de5c24e957b9",
+        "sha1": "dc10e724d6070245295629edf9198f1505f7d7f6",
+        "crc32": "c4ae5c5a"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 09).bin",
+      "filesize": 20885760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a10f3e5963b3a8627f2ed6d36a999f9b",
+        "sha1": "5cd42232306a87574c1979f1cf96d4eb2da7c263",
+        "crc32": "7a890543"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 10).bin",
+      "filesize": 19406352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21b0551b2525d0cfd1566c8b7eccc3b8",
+        "sha1": "5d388bd9268e46aeb1ee9d6d27052af8566d182d",
+        "crc32": "b49b6336"
+      }
+    },
+    {
+      "filename": "Touhaiden Akagi (Japan) (Track 11).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19a2072e6e188841c760aa151a204935",
+        "sha1": "68d6658877a5dc71678efec2abc0ef3708eed305",
+        "crc32": "4988efe2"
+      }
+    }
+  ]
+}

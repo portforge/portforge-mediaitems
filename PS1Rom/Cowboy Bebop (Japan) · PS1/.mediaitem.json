@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cowboy Bebop (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cowboy Bebop (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "12e179f7d9528cddac7d8005bd1960c3",
+        "sha1": "97188b23d8c21f6f8bb9574eba2e8445e0aba969",
+        "crc32": "705d3455"
+      }
+    },
+    {
+      "filename": "Cowboy Bebop (Japan).bin",
+      "filesize": 724942848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8275b869a334c694ec3b9b2a78a323a",
+        "sha1": "76977de0e1e0e8458e65470fc0a12a88315bc57d",
+        "crc32": "de45849f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b71f297e0573e1d59348597b64b4c3d9",
+        "sha1": "1e87621eba649f35eef2d1efdced35f848868c00",
+        "crc32": "eec8987d"
+      }
+    },
+    {
+      "filename": "Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1).bin",
+      "filesize": 682733856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa4e16bb3812725391de374fb6b893bd",
+        "sha1": "b26de149fab1251c41282fecec9370c28623d66b",
+        "crc32": "51d17a34"
+      }
+    }
+  ]
+}

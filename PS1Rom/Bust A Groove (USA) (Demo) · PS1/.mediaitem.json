@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bust A Groove (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bust A Groove (USA) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83cf9bfd142241b8ffbf00b3ab85d5e6",
+        "sha1": "e28952131f8a5d3c152c5884a647f2697dfe1730",
+        "crc32": "b2f7b662"
+      }
+    },
+    {
+      "filename": "Bust A Groove (USA) (Demo).bin",
+      "filesize": 433798176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1a4fed1451b25f60ae3230b0f47e584",
+        "sha1": "97dfea5b93d2d5d275b50efbad5d4ec8c8667563",
+        "crc32": "d687a8b3"
+      }
+    }
+  ]
+}

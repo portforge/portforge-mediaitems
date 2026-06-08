@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SeaBass Fishing 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SeaBass Fishing 2 (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d95b3beed06fa12bb3820d81ff31d8d",
+        "sha1": "3477b753faf32313f1dca94b931e728ab7ebd70c",
+        "crc32": "08b4bf2e"
+      }
+    },
+    {
+      "filename": "SeaBass Fishing 2 (Japan) (Track 1).bin",
+      "filesize": 376240032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aeeefafab889c5b6cef3cc9b5c8ff700",
+        "sha1": "351a1b9b62e6a6e0029fac27515c54a62b9ae4f6",
+        "crc32": "229ae6f5"
+      }
+    },
+    {
+      "filename": "SeaBass Fishing 2 (Japan) (Track 2).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3acdf1a08d047c72e595351fc548900",
+        "sha1": "632cb32ce4c7edd6cd7e2aa88cd2b631f88d5b96",
+        "crc32": "8a322cf1"
+      }
+    }
+  ]
+}

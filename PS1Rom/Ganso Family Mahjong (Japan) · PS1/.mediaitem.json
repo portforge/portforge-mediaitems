@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ganso Family Mahjong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ganso Family Mahjong (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8953a4017762a82489f188f9a2ae49b",
+        "sha1": "36f021df58dbdfa92579108c82971cd76dbca59b",
+        "crc32": "af9d93f2"
+      }
+    },
+    {
+      "filename": "Ganso Family Mahjong (Japan).bin",
+      "filesize": 110311152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6f66df781acd8c69a16458bd625fd90",
+        "sha1": "65524cd2d33f9c7f0048da3f97654ce8c5aeb25a",
+        "crc32": "cfc6a72e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MTV Sports - Pure Ride (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MTV Sports - Pure Ride (Europe) (En,Fr,De).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b51a66970f3316cd3c2398a9064f9758",
+        "sha1": "9a88d959af7ca6adb70280ed72d2f6ddca07d7d1",
+        "crc32": "f66927a2"
+      }
+    },
+    {
+      "filename": "MTV Sports - Pure Ride (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 406881888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b6452109f9f27e134edff4d1e588002",
+        "sha1": "1d1d1c43aacd7759e56d617b236b56d8f6190f31",
+        "crc32": "d00dd856"
+      }
+    },
+    {
+      "filename": "MTV Sports - Pure Ride (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 41632752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a02ec939a656b8e64840b0cd17df611b",
+        "sha1": "521c2fa1ff90d719e3d63ce5e1dc97048f0ec55c",
+        "crc32": "8ce2f387"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yuuwaku Office Ren'aika (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yuuwaku Office Ren'aika (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb274366a6d66260adb7e440949a48a5",
+        "sha1": "8b8194bb0446b40a2fc46cc4df9ce54ab6f7b05d",
+        "crc32": "5e507f4a"
+      }
+    },
+    {
+      "filename": "Yuuwaku Office Ren'aika (Japan).bin",
+      "filesize": 610743840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61ecde9adcd340843de929d21e4afb6d",
+        "sha1": "ccdfef61683e3d2cb395d1d6a32f046b49a18a1e",
+        "crc32": "2c424e39"
+      }
+    }
+  ]
+}

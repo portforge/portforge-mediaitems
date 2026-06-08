@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Powerplay 98 (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Powerplay 98 (Europe) (En,Fr,De).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "894676afbe63cdcb55dbe34851aa8e36",
+        "sha1": "fc68c68e07834ddf9a5085afef3b1d42781d84e8",
+        "crc32": "0738fb33"
+      }
+    },
+    {
+      "filename": "NHL Powerplay 98 (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 307596912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02ef08e4d258e543f006c0e782fb7df2",
+        "sha1": "f599324cb51c26568eb6673226723228552a1a0a",
+        "crc32": "1b8fbd44"
+      }
+    },
+    {
+      "filename": "NHL Powerplay 98 (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 84208656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e83c73e62dd0826a6966abbb63fe20fd",
+        "sha1": "41deee965091844d320243b1fb3a46caa4355c54",
+        "crc32": "28c603cc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CG Mukashi Banashi - Jiisan 2-do Bikkuri!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CG Mukashi Banashi - Jiisan 2-do Bikkuri!! (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "12493f5fbff34b35286ed8c957db35d2",
+        "sha1": "54558099f50c8ff72101b9c5f964a8272452b686",
+        "crc32": "180bdb8f"
+      }
+    },
+    {
+      "filename": "CG Mukashi Banashi - Jiisan 2-do Bikkuri!! (Japan).bin",
+      "filesize": 158075568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9e271d7c2953aa27b725f302de466d7",
+        "sha1": "836387fddf368aa6f5d6221cdbe510cd0f36f5d5",
+        "crc32": "528d40d4"
+      }
+    }
+  ]
+}

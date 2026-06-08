@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "D no Shokutaku - Complete Graphics (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "D no Shokutaku - Complete Graphics (Japan) (Disc 1).cue",
+      "filesize": 272,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c065e625ec4dceaa347e7aa377ebcebe",
+        "sha1": "984ed2d1b93f2489dce3bd26f99860661885deea",
+        "crc32": "58eb0c49"
+      }
+    },
+    {
+      "filename": "D no Shokutaku - Complete Graphics (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 633492384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5118beef438b8780e672eda2c3a15854",
+        "sha1": "607e5d0d2d27e943dcc6fe9bc58ffaea031bca29",
+        "crc32": "f13c6986"
+      }
+    },
+    {
+      "filename": "D no Shokutaku - Complete Graphics (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7902e4c790ab0bea94387895f968272a",
+        "sha1": "3d50be42eb7e2dc2d169500b4d66d850cfd2451c",
+        "crc32": "98bdb862"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Hercules Action Game (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Hercules Action Game (USA).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59d5952df59d78866bab16ec11b37098",
+        "sha1": "a5d30e532e044875a5e950229928578394f61005",
+        "crc32": "38bfd578"
+      }
+    },
+    {
+      "filename": "Disney's Hercules Action Game (USA).bin",
+      "filesize": 409452624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "685df034e92134f5cc58b5271f8d9791",
+        "sha1": "c53390f4787e368ca70bc654a3d51d842bae4c54",
+        "crc32": "07ef46fa"
+      }
+    }
+  ]
+}

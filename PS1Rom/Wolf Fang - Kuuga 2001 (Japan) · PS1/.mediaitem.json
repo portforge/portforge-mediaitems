@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wolf Fang - Kuuga 2001 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wolf Fang - Kuuga 2001 (Japan).cue",
+      "filesize": 354,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2eb7daeebb0bf44084d72a692b46eddf",
+        "sha1": "f7e27b5e4e49506ef4dc4ad7fba12f5b8b6711c9",
+        "crc32": "9e863cb3"
+      }
+    },
+    {
+      "filename": "Wolf Fang - Kuuga 2001 (Japan) (Track 1).bin",
+      "filesize": 450048144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "888e3652f55ae78e4b716908111cded3",
+        "sha1": "67da50ac2bccddc3b2bf5d9c8814c9a517896984",
+        "crc32": "41e752af"
+      }
+    },
+    {
+      "filename": "Wolf Fang - Kuuga 2001 (Japan) (Track 2).bin",
+      "filesize": 16845024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03bf3858d87ea9f5b26a45184b44ccd5",
+        "sha1": "b75f79e58b3321b7b1053cdf8689acce0561f1e3",
+        "crc32": "ce132151"
+      }
+    },
+    {
+      "filename": "Wolf Fang - Kuuga 2001 (Japan) (Track 3).bin",
+      "filesize": 26104848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d0f5f48231a4f2e7dc78cc5e44a1bfa",
+        "sha1": "d079e100636de2b8145da80ce3b9f657f5f6b4e0",
+        "crc32": "d4e2317b"
+      }
+    }
+  ]
+}

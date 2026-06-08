@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Air Attack (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Air Attack (Europe) (En,Fr,De).cue",
+      "filesize": 387,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc4f06e7ebf60309aa247492090933e5",
+        "sha1": "ec7027999175b708970ec8aa5efc3a9ca44026da",
+        "crc32": "841a9786"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 700070448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0eba9647e53bf8038b0455ad41173b9",
+        "sha1": "1e19e530b95137be6eb73503c19cd4140648c673",
+        "crc32": "14048b11"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ad67c10f707c0e12fd20081c8410364",
+        "sha1": "46f81dd603a1e525cf2d0a95985aa00bf1ffad86",
+        "crc32": "89baf761"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack (Europe) (En,Fr,De) (Track 3).bin",
+      "filesize": 32928000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e32080f0599c7c9d150129e9db6acd1",
+        "sha1": "4d9da5c86c985dcac1b42d7531fbf93bc5127788",
+        "crc32": "7abbb050"
+      }
+    }
+  ]
+}

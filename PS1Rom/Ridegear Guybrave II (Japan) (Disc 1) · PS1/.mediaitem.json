@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ridegear Guybrave II (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ridegear Guybrave II (Japan) (Disc 1).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8673407270f1c97d70562313f5e8f098",
+        "sha1": "e20d10040e93604f7f8f3f746c51c7601fe13338",
+        "crc32": "a1a99be7"
+      }
+    },
+    {
+      "filename": "Ridegear Guybrave II (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 521751216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d580d40839270c40f35e7ee96d866351",
+        "sha1": "bdd971c76755324fd7c8946d0c33605ae449a881",
+        "crc32": "0b43c2c4"
+      }
+    },
+    {
+      "filename": "Ridegear Guybrave II (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 48303024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b893eb7425ba58f318b9f987a62c56f6",
+        "sha1": "044d74346da63f4c27cffee5c0f80c6262e30fe4",
+        "crc32": "40341cd8"
+      }
+    }
+  ]
+}

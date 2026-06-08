@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot (Japan) (Otameshi Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot (Japan) (Otameshi Disc).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "80ef090f65288934238bfe7b8a2a7bc5",
+        "sha1": "2d3d20ee1dcf0c4655bb0b0bb4871563e501d150",
+        "crc32": "e3b1dade"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot (Japan) (Otameshi Disc) (Track 1).bin",
+      "filesize": 85932672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9652381414c3794f315fd75e97446d50",
+        "sha1": "8b65acb7b7adc951291d65c313c5eb6c35350666",
+        "crc32": "16959de2"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot (Japan) (Otameshi Disc) (Track 2).bin",
+      "filesize": 37218048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a239dd0afb00b2ce214c64f306a5333f",
+        "sha1": "c2af7bebba8e18a963c432a16fbb1a2501257db7",
+        "crc32": "ef40c368"
+      }
+    }
+  ]
+}

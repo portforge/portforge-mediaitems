@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Zone Vol. 19 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Zone Vol. 19 (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f13cd2d93e3230c9386b2427965eda7",
+        "sha1": "ced02604bb4523883577040da115f7708f865de1",
+        "crc32": "ff844f7c"
+      }
+    },
+    {
+      "filename": "Play Zone Vol. 19 (Germany).bin",
+      "filesize": 545400576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52aa7a648707d7294bc07366a01a15ee",
+        "sha1": "7b121b94ac323b4a7278f7662b35ccb520833d08",
+        "crc32": "b214b775"
+      }
+    }
+  ]
+}

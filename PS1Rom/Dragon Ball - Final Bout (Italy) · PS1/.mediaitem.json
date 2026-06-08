@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Ball - Final Bout (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Ball - Final Bout (Italy).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb9b94fd2eb988cac9a5775523f7f40a",
+        "sha1": "061f172179481a51eab7c14913f4ac091582a34d",
+        "crc32": "366349a4"
+      }
+    },
+    {
+      "filename": "Dragon Ball - Final Bout (Italy).bin",
+      "filesize": 162137472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f01aeef8ff550ad339399c865e3796b1",
+        "sha1": "58e00814008c2a6b8bcb67e16f97fd822b32eb08",
+        "crc32": "4ce83caa"
+      }
+    }
+  ]
+}

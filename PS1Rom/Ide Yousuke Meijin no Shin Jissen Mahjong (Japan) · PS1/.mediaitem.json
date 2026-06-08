@@ -1,0 +1,367 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan).cue",
+      "filesize": 5022,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9062b49886af15ae4af5329d43309221",
+        "sha1": "143759295febbf4c43167a96c9ea32ce861d015c",
+        "crc32": "7e9d4809"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 01).bin",
+      "filesize": 42077280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40c5f2b6d5dcf45537b88a68efbe6260",
+        "sha1": "06d56d4748c3015246f7bd4fdc24c58f81b08422",
+        "crc32": "8c0e1594"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 02).bin",
+      "filesize": 4327680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0f83be4615f3ab09779f0d446ac7244",
+        "sha1": "e7121647b4164655884800a26c047f02a3bcb7e4",
+        "crc32": "3a794aa3"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 03).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "330aaef159dd5b413053b86cbba6c959",
+        "sha1": "0457a27d3b857227679d8b0e9e20f1046c323582",
+        "crc32": "13dee112"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 04).bin",
+      "filesize": 5487216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32a42a8b50cce6703dbbfdfa92185ee6",
+        "sha1": "6246c71383ed8256841bd24a6c746a1bb39f7db9",
+        "crc32": "0704da80"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 05).bin",
+      "filesize": 7345296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e400e7c84c2456b014f4f590398984fd",
+        "sha1": "c59339414364437522c201f557f0b547adeeb96b",
+        "crc32": "4be70e99"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 06).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2abeccc2036c16f40d2941980da01d33",
+        "sha1": "3c3b95baead0cb19d8d96ff3ce9dc2659b7e466d",
+        "crc32": "152cf047"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 07).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9395bbb495876badaede3c695c348a10",
+        "sha1": "37485799e91c120b13054fc145b30b5905d61949",
+        "crc32": "92650264"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 08).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7548df5148ba6a7fb5b6fe756893862b",
+        "sha1": "0c5f72c453f05e47cefc1e4c5df9d8755ea6a213",
+        "crc32": "beb5b1cd"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 09).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "742c9e5cb824ac09fe7430d9c391cb26",
+        "sha1": "ecd68844536d19298d316de9369e50d6c836665f",
+        "crc32": "d3f1bde4"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 10).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1db39d89ab7e1e7deee411d76b69dbef",
+        "sha1": "994fc09b80105d5464abb36d2ce9efc0daa94383",
+        "crc32": "21a984d7"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 11).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b1a1c6a5fe9d565ece36284ac40c5ac",
+        "sha1": "bedfb20069d8480a388b1e6492580a4552f14b37",
+        "crc32": "f5aa5ae5"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 12).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6f3ad29bc0ba2cf6284a00924221dae",
+        "sha1": "c469f1efab0a9186a2011c1f4980032889d01bbc",
+        "crc32": "c7f04c62"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 13).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "503c2767c36ab5eedbc3235d65a5f555",
+        "sha1": "2c83119d09f225c22b9434bc0fddef60acfde4ca",
+        "crc32": "b465ec4d"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 14).bin",
+      "filesize": 21269136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b15a32b1144f3ca4bbb9cd38f36ba39a",
+        "sha1": "9e55c22e1c3d4c998d029b9ce475ef1f4ee7eb65",
+        "crc32": "4f902f83"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 15).bin",
+      "filesize": 1321824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76dc9de023eddec675995c0a9426d8dc",
+        "sha1": "94c73f61d09bd1d9bc0c28d734ad35536142d269",
+        "crc32": "e750c545"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 16).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c986748d8e8896cf0ae0d36c1118262c",
+        "sha1": "4989c1d287bfb05feb7b0fb304314096753e36fc",
+        "crc32": "6eed4032"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 17).bin",
+      "filesize": 32114208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6ad8582ff93c8ee47199e4ed46139db",
+        "sha1": "dac0f073aa476f3ab965673d188875f1b7aa0ace",
+        "crc32": "c11f4b6d"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 18).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c367707d68f7bfff94e74a8acc6314c6",
+        "sha1": "86e3ae7f46e658fc651a4127c415e5baf19cb03e",
+        "crc32": "190eec5b"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 19).bin",
+      "filesize": 21523152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cc2d67bfe670718be811b56f9130007",
+        "sha1": "c4afe0773bd4f341e3056a22d93af719a00d1e9c",
+        "crc32": "8119f377"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 20).bin",
+      "filesize": 18877152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "497f95eeecd602418ff1370302897505",
+        "sha1": "ccb87e236a39a228dfcd0e04b2e1ab0b39852735",
+        "crc32": "c91780e3"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 21).bin",
+      "filesize": 21414960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23fd6b07497828e0a8a23b0d12b56fe3",
+        "sha1": "48096e368eea01cdb00c14ffd9fa0556f7486811",
+        "crc32": "67ad99a2"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 22).bin",
+      "filesize": 32210640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d63be92b9bdb542d252389a1be08688",
+        "sha1": "498af3cb8981645be597c85e9dc0f220138bf56a",
+        "crc32": "cee5d105"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 23).bin",
+      "filesize": 25213440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2659ab19b01a8f66859cefc3ce8c63cc",
+        "sha1": "61879d7884cf35e686ac9aa907e0709ef8e57591",
+        "crc32": "453e4721"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 24).bin",
+      "filesize": 24540768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a2304a7be6ac4f3a885472e469fcda5",
+        "sha1": "d2d42fb09da5dbe88c64d3741a0b1c81d1edd439",
+        "crc32": "9d521a17"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 25).bin",
+      "filesize": 2126208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f3d9e9755f29fbce11e693252270465",
+        "sha1": "6a6a0b7054819a71e7b5ab371ccfb3f6ed78bffd",
+        "crc32": "953ce9f4"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 26).bin",
+      "filesize": 21626640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "516b30d1be39a2e96b5e705ad860670a",
+        "sha1": "4e80ea8c969d3654ede7222d1441308521c180c1",
+        "crc32": "3568add8"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 27).bin",
+      "filesize": 21523152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5734d04f6a01833eb83f2c68b140f07",
+        "sha1": "0cad4168b2813467ee50b1888385f4314579ac93",
+        "crc32": "eae43ef7"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 28).bin",
+      "filesize": 21516096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1add718c5b27c3ea141232dabd16f23",
+        "sha1": "ec2a2d9fa94b75b521821e63dd6502367cd1f679",
+        "crc32": "87c09a6a"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 29).bin",
+      "filesize": 1279488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81225fb76bec9a26a90a742d80565936",
+        "sha1": "37828cf6efa895cf6a96d301b49664aaa995565c",
+        "crc32": "32742004"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 30).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdfa6c59eea4b5df10d2f712a10f732d",
+        "sha1": "d7f96ab1d4c8be3f6627dddd00da4cbed9085d2f",
+        "crc32": "2e96ca35"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 31).bin",
+      "filesize": 10939152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "458733c3d072a0f22bf48c7c545d0ef0",
+        "sha1": "78b43f952474fc94600c8f8784333837577d159a",
+        "crc32": "ff6ddfe1"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 32).bin",
+      "filesize": 21457296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "caec1787c5ed3db4398f96b479be4380",
+        "sha1": "20fa20f468047939566e8af52e093d42dadb1813",
+        "crc32": "aa58c1a0"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 33).bin",
+      "filesize": 21520800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3151e39f1f71db99284b7ae68e146d18",
+        "sha1": "68db88839ad02fd66d5a69908f3f2f46d14c5f11",
+        "crc32": "08b5d228"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 34).bin",
+      "filesize": 21624288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d8769b42846e240f7ab852ee92a76bc",
+        "sha1": "b9d4e53af3cb5c5d800ddbf5249f2d750ae82872",
+        "crc32": "997bf606"
+      }
+    },
+    {
+      "filename": "Ide Yousuke Meijin no Shin Jissen Mahjong (Japan) (Track 35).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

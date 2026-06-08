@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jupiter Strike (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jupiter Strike (Europe).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bef9f10c3100b16ec67452a032c8afed",
+        "sha1": "527f67daa11ed4333ef07d8963fcbb20445968e2",
+        "crc32": "f24a7807"
+      }
+    },
+    {
+      "filename": "Jupiter Strike (Europe).bin",
+      "filesize": 375285120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5014f59f39391d587bc53ef328e30e5e",
+        "sha1": "5a60904791236c39b39ff76e282536f8a4c7e1dc",
+        "crc32": "51d95fdb"
+      }
+    }
+  ]
+}

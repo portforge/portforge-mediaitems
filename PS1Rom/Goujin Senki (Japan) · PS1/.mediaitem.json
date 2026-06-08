@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Goujin Senki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Goujin Senki (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d929ead0471b69047860a5ffe51883a",
+        "sha1": "828b2f9ff094ba18d1fb5bda6f5a4e3980479282",
+        "crc32": "2d898bee"
+      }
+    },
+    {
+      "filename": "Goujin Senki (Japan).bin",
+      "filesize": 79932720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cfa5e55ee871fc2f36036a866fd276a",
+        "sha1": "5997950cb04cd9668a33de15c9e6394b963bae76",
+        "crc32": "eeb613f8"
+      }
+    }
+  ]
+}

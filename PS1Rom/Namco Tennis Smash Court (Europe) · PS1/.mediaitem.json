@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Namco Tennis Smash Court (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Namco Tennis Smash Court (Europe).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c187e1f8ba8602003821ce69050c2818",
+        "sha1": "1cdc9681b4041a45025b71d6f56b4a5bcdf24781",
+        "crc32": "a0b01ed8"
+      }
+    },
+    {
+      "filename": "Namco Tennis Smash Court (Europe).bin",
+      "filesize": 545515824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a550d0d95bd548d08090b8473b55a57",
+        "sha1": "5d70c9c7a01027702e36ba06b02efd0da4fe0865",
+        "crc32": "d4560741"
+      }
+    }
+  ]
+}

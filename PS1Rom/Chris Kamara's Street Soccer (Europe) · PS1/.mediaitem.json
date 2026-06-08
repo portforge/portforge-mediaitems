@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chris Kamara's Street Soccer (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe).cue",
+      "filesize": 1030,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b500ab5535d1cc9421153261dc46900",
+        "sha1": "6b9cbff74ba70bc6fc51fcbf3a47b9c1ad790096",
+        "crc32": "6af2da10"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 1).bin",
+      "filesize": 16320528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2773fbc65ee2cd077b05dbdeef9765d7",
+        "sha1": "b59b9c36c61449122ba655fba289cc580e0c847e",
+        "crc32": "d6e29aaa"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 2).bin",
+      "filesize": 32582256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c47d0828813227df8c4bc65c5e9c5d58",
+        "sha1": "9d8c55052b5e6e92a563486c40e1e75ae1e6ef4b",
+        "crc32": "b166f381"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 3).bin",
+      "filesize": 33899376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1442eb86d91891e2c0f730f02dad7f4",
+        "sha1": "e5cbc9249198618e84ed295e4db3289087151757",
+        "crc32": "8b4cbf50"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 4).bin",
+      "filesize": 24423168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3211ec7710757162cc68d9b5ff58ac87",
+        "sha1": "49ff5c8fc9f81a3ad33c522bb76ab6670b918db9",
+        "crc32": "9ee09e5a"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 5).bin",
+      "filesize": 36293712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38a7edc7edd87b174f5600a79c5dafbf",
+        "sha1": "bc2b46bc5b409faaeebf7ab884b04f40e0681774",
+        "crc32": "c4d16662"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 6).bin",
+      "filesize": 32772768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9776eb37dc1819bef0e26266698c098c",
+        "sha1": "011277c1c8c1a6127458c1212868304fce52a16e",
+        "crc32": "fc9befef"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 7).bin",
+      "filesize": 33772368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3587231634984426793f96d0532221c3",
+        "sha1": "1c061dd8f61c6076ecdb3fe55949b49f0c97d7c3",
+        "crc32": "9928c2fa"
+      }
+    },
+    {
+      "filename": "Chris Kamara's Street Soccer (Europe) (Track 8).bin",
+      "filesize": 33076176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af42309529a452be1ca2da5b7ba6c794",
+        "sha1": "9d225de43c9365b5564d7adaef0e67caa484407a",
+        "crc32": "7d632caa"
+      }
+    }
+  ]
+}

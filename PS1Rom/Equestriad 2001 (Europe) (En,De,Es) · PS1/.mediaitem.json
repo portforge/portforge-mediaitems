@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Equestriad 2001 (Europe) (En,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Equestriad 2001 (Europe) (En,De,Es).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5ba92bd34cb8b65936d756c8b3098a74",
+        "sha1": "9db78f678a16477e5cd82627d4bf4c6bd5d245fb",
+        "crc32": "90d91669"
+      }
+    },
+    {
+      "filename": "Equestriad 2001 (Europe) (En,De,Es).bin",
+      "filesize": 403711392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dc6289aaf12fb45ffdc525e2fc07119",
+        "sha1": "fabb3c17c2d7dd0db995db22a4850277a908de9a",
+        "crc32": "7efc7a58"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De).cue",
+      "filesize": 149,
+      "ext": "cue",
+      "checksums": {
+        "md5": "218541c00d657477260ca17ca0a05a79",
+        "sha1": "8df0dd9aae9c710f9fe4807190e3544a78472488",
+        "crc32": "ffb1c52c"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - A Ressha de Ikou 4 - Evolution Global (Japan) (En,Ja,Fr,De).bin",
+      "filesize": 107952096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eeb7fa86bd7ad6a0508af41054919070",
+        "sha1": "cdd76d45dc10ce478e3933fa673690cb52778185",
+        "crc32": "08864357"
+      }
+    }
+  ]
+}

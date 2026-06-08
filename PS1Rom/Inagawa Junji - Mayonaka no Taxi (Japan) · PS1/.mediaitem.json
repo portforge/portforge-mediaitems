@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Inagawa Junji - Mayonaka no Taxi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Inagawa Junji - Mayonaka no Taxi (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1eebf0aed7d8dfbf14875433380c879a",
+        "sha1": "a7e54c820e7a7699ed0d21a07046cdb2c3c7dfa3",
+        "crc32": "f7904222"
+      }
+    },
+    {
+      "filename": "Inagawa Junji - Mayonaka no Taxi (Japan).bin",
+      "filesize": 582628032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "923667faed916b9ded916ee210be76b5",
+        "sha1": "dd61751b8440af2f86b64f147a40e3ae13169925",
+        "crc32": "ab99ab81"
+      }
+    }
+  ]
+}

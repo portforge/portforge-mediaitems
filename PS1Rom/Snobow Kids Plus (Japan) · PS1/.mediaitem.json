@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Snobow Kids Plus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Snobow Kids Plus (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b178a15dd84a03b4fac3afa2fe90ae4b",
+        "sha1": "6569fc3a976be358334935334d85c956c7836824",
+        "crc32": "8a2dfcf7"
+      }
+    },
+    {
+      "filename": "Snobow Kids Plus (Japan).bin",
+      "filesize": 292892208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5b38f58bd3017bab9f918197dbfb627",
+        "sha1": "639c3467252b877ad5d4340450c2f590506cc935",
+        "crc32": "e281d310"
+      }
+    }
+  ]
+}

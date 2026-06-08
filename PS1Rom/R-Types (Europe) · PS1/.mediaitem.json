@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R-Types (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R-Types (Europe).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "900efe5208239274cfe7c59b16f6b3d9",
+        "sha1": "baecbdf1c2a7dd07526ca1967d5a698682d9f61f",
+        "crc32": "f5390959"
+      }
+    },
+    {
+      "filename": "R-Types (Europe).bin",
+      "filesize": 494084640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffc95571ee1a2ba94fc97e92563cfd7d",
+        "sha1": "83426a42a54e85073326ce17e0a56233fb86eccb",
+        "crc32": "be23cdf8"
+      }
+    }
+  ]
+}

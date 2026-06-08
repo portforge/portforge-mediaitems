@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Championship Bass (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Championship Bass (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6675bdc95de08254c0c65cafa6cf445a",
+        "sha1": "6321d350fcdf0b2d527b59d3c197810859987360",
+        "crc32": "8ccb5507"
+      }
+    },
+    {
+      "filename": "Championship Bass (USA).bin",
+      "filesize": 369562704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e9dfa4534b18f00f7fcc4df4cdf0906",
+        "sha1": "fb56b84b12489d7fbf81c74245c233e2705d8e3a",
+        "crc32": "888eb4e7"
+      }
+    }
+  ]
+}

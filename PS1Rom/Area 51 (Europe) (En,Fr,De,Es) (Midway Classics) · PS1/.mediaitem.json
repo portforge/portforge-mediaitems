@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Area 51 (Europe) (En,Fr,De,Es) (Midway Classics)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Area 51 (Europe) (En,Fr,De,Es) (Midway Classics).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a9714079467abf8f4df8c47c48c4377",
+        "sha1": "23a507411756d4233b3c87967e1baf8484807151",
+        "crc32": "39b0e9a3"
+      }
+    },
+    {
+      "filename": "Area 51 (Europe) (En,Fr,De,Es) (Midway Classics).bin",
+      "filesize": 659606640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a5ecdf654c85d69acdc10af85fdb480",
+        "sha1": "885b4017af76f49476726fd50c2d55569fd10cec",
+        "crc32": "4bd6dbaf"
+      }
+    }
+  ]
+}

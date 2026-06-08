@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Carnage Heart EZ (Easy Zapping) (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Carnage Heart EZ (Easy Zapping) (Japan).cue",
+      "filesize": 296,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ffe7e736a1ee7bd470ed0ac62cbc600b",
+        "sha1": "0eda058ec829bdc4d024691f21309319bd0eabd9",
+        "crc32": "b6a4d413"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Carnage Heart EZ (Easy Zapping) (Japan) (Track 1).bin",
+      "filesize": 134708448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58b7419aeb6cbcff522c4f282908e6e7",
+        "sha1": "ba6074a81a9004dc31edd6a1f3423be6075288fc",
+        "crc32": "e091dc07"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Carnage Heart EZ (Easy Zapping) (Japan) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

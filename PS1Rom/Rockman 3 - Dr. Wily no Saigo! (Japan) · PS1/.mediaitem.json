@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rockman 3 - Dr. Wily no Saigo! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rockman 3 - Dr. Wily no Saigo! (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a586be93aaaeff5c3e0f777fbeb49ba8",
+        "sha1": "4c02e448b0c4609c4f3482b33e25306bb16023ad",
+        "crc32": "dbe94ebc"
+      }
+    },
+    {
+      "filename": "Rockman 3 - Dr. Wily no Saigo! (Japan).bin",
+      "filesize": 488639760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b00c6b400f5d276c721d83b55b23b4c",
+        "sha1": "a7b1b2d6e9a9a230c7b1d90cb61ace5237373241",
+        "crc32": "50e90aaa"
+      }
+    }
+  ]
+}

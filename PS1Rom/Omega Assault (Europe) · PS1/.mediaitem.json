@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Omega Assault (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Omega Assault (Europe).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3239588316e84036354cc6356b783dfe",
+        "sha1": "a49212697358fbf0c57c13929ccfc66ceb613a9d",
+        "crc32": "98192a03"
+      }
+    },
+    {
+      "filename": "Omega Assault (Europe).bin",
+      "filesize": 102250848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d939a4f97d4d106caa23b7fdfd5b0251",
+        "sha1": "4b5d7ce908b2becb14b18a92ec6faecf15be1037",
+        "crc32": "7b27e8f1"
+      }
+    }
+  ]
+}

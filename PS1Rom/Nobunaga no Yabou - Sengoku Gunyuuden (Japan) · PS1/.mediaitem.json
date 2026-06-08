@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nobunaga no Yabou - Sengoku Gunyuuden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nobunaga no Yabou - Sengoku Gunyuuden (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db7d344896ea88919d3edef8492803d1",
+        "sha1": "0561b4d36918f23af964a295c1686915224cb533",
+        "crc32": "bd94cb33"
+      }
+    },
+    {
+      "filename": "Nobunaga no Yabou - Sengoku Gunyuuden (Japan).bin",
+      "filesize": 95773440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "485cf189bcfbbb5e7d46d5318092faa8",
+        "sha1": "9e6dae61e02d108c27d6ce7db2164b018ee403cb",
+        "crc32": "700d0d77"
+      }
+    }
+  ]
+}

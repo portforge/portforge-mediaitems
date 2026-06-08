@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Miyake Yuji Produce - Kiseki no Maya Uranai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Miyake Yuji Produce - Kiseki no Maya Uranai (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "616fe62c9f7413873f9eea935d59b3df",
+        "sha1": "b992357fad975a4302afa5ea9df4c22542a8bb56",
+        "crc32": "6e1f8324"
+      }
+    },
+    {
+      "filename": "Miyake Yuji Produce - Kiseki no Maya Uranai (Japan).bin",
+      "filesize": 197784384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32fa272c0c8299dbe44017d20165c711",
+        "sha1": "270d0e73c03e5462ed1accc41ffb19f2d1d1f4cf",
+        "crc32": "100ad293"
+      }
+    }
+  ]
+}

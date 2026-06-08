@@ -1,0 +1,817 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kamen Rider (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kamen Rider (Japan).cue",
+      "filesize": 9102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cde53e51a870d610bdd001b95709c6c9",
+        "sha1": "82525b7ec3cf54399425a765b59a073886ed06e3",
+        "crc32": "ef28e510"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 01).bin",
+      "filesize": 137455584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "419bb6e98ecace3fb2e7f567233d3ccf",
+        "sha1": "0628d1c249b4e000d61ab8b8afafaacff3f001d3",
+        "crc32": "9b7f6096"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 02).bin",
+      "filesize": 24893568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4adfbefc72f90ec4c6cc032a0cd47b35",
+        "sha1": "0928a3eadcd929b84e69f379961860cfd23fd6f1",
+        "crc32": "980c6208"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 03).bin",
+      "filesize": 13754496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a8113dbbd78e603ff41588c36e91233",
+        "sha1": "e227bacb244fe64c976ca3a099e79f699c75f392",
+        "crc32": "eb8127e5"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 04).bin",
+      "filesize": 1945104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec7de1ba100e42801db7ee1da382afcc",
+        "sha1": "0e7d166f70b398fd1ea08f283dfe4ba686f7bd8a",
+        "crc32": "1714ca3b"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 05).bin",
+      "filesize": 8144976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d9314e92487b567c8b55a460e6be046",
+        "sha1": "b0a69588fcd189f747d1efa667c32a7e9e8dac26",
+        "crc32": "a74dc844"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 06).bin",
+      "filesize": 13603968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc9dd2b4fc3c9d40d88241f38536b5c0",
+        "sha1": "afe8c2ff32b5eb7a515fc4559806db252501917b",
+        "crc32": "e72f4d17"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 07).bin",
+      "filesize": 14660016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed8ce2db20a76ad75724c0bd6b98b557",
+        "sha1": "f10e95cea3285711153e4fdd0f7071320e3b0268",
+        "crc32": "dd778956"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 08).bin",
+      "filesize": 16948512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37fc19002c40b4d868eb028bfcfe18cb",
+        "sha1": "20fe10615abd651c76cf83559362607dea86dcb0",
+        "crc32": "85db4b75"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 09).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "357156b6adac4b23a89b000678a19a21",
+        "sha1": "1f7752d7ebd2bcf0646f2175709b1d024cc72e79",
+        "crc32": "ebdad548"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 10).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47715397438a46bf8ec0878372152d08",
+        "sha1": "58e828924f351607056435188d9f1a295649f6a8",
+        "crc32": "a9670a5b"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 11).bin",
+      "filesize": 15410304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d221b212d0404b37ec49447ae95e2cc",
+        "sha1": "2c93ab32f9422e45f3c784c446c282f91fe3add4",
+        "crc32": "b352b5a8"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 12).bin",
+      "filesize": 16452240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a4cc20731de516150169ecc7e0a1304",
+        "sha1": "2a8eda56dbcee5b3727124a8b891e9722ca4d192",
+        "crc32": "7268cd60"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 13).bin",
+      "filesize": 18303264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd1e1dc9ac01bf7d27ffb23bc1d01d5b",
+        "sha1": "b6db0d0cde6dd92748254219c6f9c314858f600f",
+        "crc32": "769edc43"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 14).bin",
+      "filesize": 14998704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "015702679716ff1a40718d9c1db42b84",
+        "sha1": "16282dec287f0d1a6460e06c4f288e8bb440fc67",
+        "crc32": "7df81f0e"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 15).bin",
+      "filesize": 10988544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94670e9c18566a24405a74b2388e6df2",
+        "sha1": "d198d027fc21380605f6459fcb69606e0b97987a",
+        "crc32": "7dc6d58e"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 16).bin",
+      "filesize": 13759200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfb64e69430c0550b34325471338c4e5",
+        "sha1": "f12ca916b9814954a2041fc1def25f92b7040598",
+        "crc32": "77edee22"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 17).bin",
+      "filesize": 11414256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4717c98d8a2d083de897d8eb5bca534b",
+        "sha1": "67a4588c0d27a858837b4cb06ca978aebfd7739b",
+        "crc32": "d6586bb1"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 18).bin",
+      "filesize": 15845424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a4e5c23146853454dbd939f81754f",
+        "sha1": "d3bfed26b4181a2ad8d803f8d55f379b4639228a",
+        "crc32": "5612f310"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 19).bin",
+      "filesize": 12839568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1ebb80b3fc7905d0c7ec06cf4c0b407",
+        "sha1": "5ad86146a64f605fcc165a8de499925e4afd39f3",
+        "crc32": "b3da50d0"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 20).bin",
+      "filesize": 11009712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "168297c2c09bd5c1c4e1617489dc7431",
+        "sha1": "5b6d365cde7167ec719145ee4a035b6c67ce3fc4",
+        "crc32": "835d72a6"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 21).bin",
+      "filesize": 26337696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c00a8aa5337c1fb386580621c8f841b5",
+        "sha1": "2e456ac4b84e09175d777ef09ef6b11d4a807baa",
+        "crc32": "44852590"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 22).bin",
+      "filesize": 26892768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ffa7ae3c5445d476883720cce1e752f",
+        "sha1": "4f1c30500ef96cd6206735cb3ad812c428e97a97",
+        "crc32": "b17827ff"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 23).bin",
+      "filesize": 14043792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bbaa6a259e2aba8f16858a600e3509e",
+        "sha1": "769faa2984b9799500d59cfdd4521a90f2c06633",
+        "crc32": "04e084bb"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 24).bin",
+      "filesize": 1088976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1af4f22519eb842c7eb6c27f487e6e8",
+        "sha1": "a12ec30a51ebb91b2f137676f91592cf0f41221b",
+        "crc32": "9a052994"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 25).bin",
+      "filesize": 3299856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6cac1bc2d545e2147ca039aa2c05ee2",
+        "sha1": "6fa7e022ab66df96ed226106e86b036da4654f11",
+        "crc32": "4a7c7d9e"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 26).bin",
+      "filesize": 3464496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6f570c8ad105ababcdb25c5fee65904",
+        "sha1": "50f510bec0d616cea6a6f792179540da9180de95",
+        "crc32": "18264b50"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 27).bin",
+      "filesize": 3321024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc91efa3c8afe37a175d76e65ee8efbb",
+        "sha1": "12036b72f0255e00ef216283ccd649a3ff346ea2",
+        "crc32": "c00a0e72"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 28).bin",
+      "filesize": 3680880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abe586de96e2c7b31481e37a2e436900",
+        "sha1": "3d1ddf1404e9c1aedaed67acbf04813c208ace79",
+        "crc32": "2c80996b"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 29).bin",
+      "filesize": 3617376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eaefb38ffa2b9b00689864c655885c93",
+        "sha1": "ce98325a6a84448b2e8619fafec11abd2f18bab1",
+        "crc32": "cd01eefc"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 30).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dbde60e33bc534866514fe12ea520133",
+        "sha1": "26f27010afc05d8f24ea34a03c11fee808cd3a85",
+        "crc32": "ea3224d3"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 31).bin",
+      "filesize": 3683232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e9f9fb570d8db0517315b36852ac47c",
+        "sha1": "cae603ce13c8070322b689ab89d1fb0f32a835cf",
+        "crc32": "29bbb636"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 32).bin",
+      "filesize": 3450384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae3596dca50bb1a9c1a0fd513b2d166c",
+        "sha1": "15d7cc4ca6ebee7777a5beef61c6ffe363967947",
+        "crc32": "d4e1c9f3"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 33).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "498ddab68d2dbac7165ea852d557bf94",
+        "sha1": "e6e88dc6546efdcbedd9e8a96014d166c20c0bac",
+        "crc32": "66896098"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 34).bin",
+      "filesize": 3683232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82af66b0c0b6ddfd00c27f0b68f74ffd",
+        "sha1": "73a001b078129b11a9e12a0dc1487d3844f7a029",
+        "crc32": "6763b74c"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 35).bin",
+      "filesize": 3443328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c800f65b9e8ecfc05704b605a4db017",
+        "sha1": "5296912aa6bdd43e0f6fa700a0fdbe1d5114e39c",
+        "crc32": "053169d2"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 36).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ba69eaa90fff31d0496293ec79dfbde",
+        "sha1": "e4e4da7b9c8037736b020e357ea54e38475402ac",
+        "crc32": "0f8e4bd0"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 37).bin",
+      "filesize": 3685584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a3dc766cf7c56cbd45d49889e1917df",
+        "sha1": "6407f541348fff1822ade6c6d53e43297f9d2cd9",
+        "crc32": "93042f15"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 38).bin",
+      "filesize": 3450384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35586e2ec347b60b33901dfe7e68ef42",
+        "sha1": "57d141fefb4cf9d9fe2390d2dac3ade8f359fb64",
+        "crc32": "97d2444d"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 39).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6401e993abb9b0a2b28f8b02da2b629d",
+        "sha1": "0f7699aa39ebfe03b68c5771308ef09c46878787",
+        "crc32": "1a07281f"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 40).bin",
+      "filesize": 3683232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58534a1904801280928b0f21ebdd942d",
+        "sha1": "14d29aee64210d20b40488b89bba3508dec89b53",
+        "crc32": "d4d35b9b"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 41).bin",
+      "filesize": 3455088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "046d32e65c6f126eb2e41b12d9c7fe59",
+        "sha1": "4b5736bb6b898cde6ff504625fa28d55e7675dc6",
+        "crc32": "15e9fe5a"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 42).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b77f92177ad64e355980ae33d81a03f",
+        "sha1": "55f2be678b52d171006a465fc2ee02f70b1087ef",
+        "crc32": "10840d7e"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 43).bin",
+      "filesize": 3685584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb26b9159823fe7b82be7d4c17cb7705",
+        "sha1": "67cc6ff123c1cf23b0352b9a8c81a1100ae4a9bf",
+        "crc32": "c3f1706a"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 44).bin",
+      "filesize": 3429216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b7b37f651d68b2b3e294aa0aedeb59c",
+        "sha1": "b07896ca8c674bfb18be1e1db9c6a30a75aeb96b",
+        "crc32": "aac6d5d0"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 45).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4b61533f49904e2a48344733c3cdc32",
+        "sha1": "a041da408cefd2dba5566cac9ce25286f3dcc68e",
+        "crc32": "9a13efae"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 46).bin",
+      "filesize": 3685584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60ce6b363f6708512fc6a043f81765bd",
+        "sha1": "f84a991a0c27c3d58fd86baed8747c252ba0323e",
+        "crc32": "21bf7c15"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 47).bin",
+      "filesize": 3426864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d2b6d180cbb6494a42d28cfd9418364",
+        "sha1": "1232cfa3661f7e5e02a653a6bea2414b9db8ad96",
+        "crc32": "d01cd912"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 48).bin",
+      "filesize": 3330432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86c0992306e8ed4be09afc122ba5d398",
+        "sha1": "88210bfdd66d89c230d76a3aae35346c7ea7750d",
+        "crc32": "aed1bac4"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 49).bin",
+      "filesize": 3683232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2eb5bd698daa0598c2dd4e1421429b22",
+        "sha1": "39aaa15d2943528f254d86dc8988aa77e9cd0d15",
+        "crc32": "e3b5cc30"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 50).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fac3b0d55d2c15d074cfa70f43ba6cf",
+        "sha1": "6f6bd5d468a674e0002751e131c0887c5ac1404a",
+        "crc32": "b1e5000f"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 51).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c10fad719a07c3fecb5d77e34ed08713",
+        "sha1": "0f9042ce80f866f747e32183f4541d02eae9aa6a",
+        "crc32": "2a7b77ea"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 52).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e21eaff35693a264b921b0a94aa92f97",
+        "sha1": "c662f4c2c63df60a0fd869e4a810f250bfa3806e",
+        "crc32": "b0194dd2"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 53).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2547ea58f74228a8f0976b8bffe6fcc9",
+        "sha1": "ff991e43585e08609a90b5843d8afde3409ea5d4",
+        "crc32": "259e3087"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 54).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d469f96b1567cae631f17ac3749a554f",
+        "sha1": "9750cb1c379c125e7288e2f484c73c3c4bc5abbc",
+        "crc32": "693c2601"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 55).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4f8deaf4c5d421a1106f71a3aa32e78",
+        "sha1": "5ec31918fe69932859df1089aa2b2c6355db4803",
+        "crc32": "f0ea0503"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 56).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b297f6057f9b04031cf46760ab6aa394",
+        "sha1": "f18c7cb4f8f65bbe517634c17311adf5461be844",
+        "crc32": "1fd10562"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 57).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88e6fdc365507c3c8a4d7186ffb8bb14",
+        "sha1": "da9411589e698803f3727c66075a3eb9ddaec587",
+        "crc32": "2b176d39"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 58).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7bcbf42b580cfc472c66f74eb936f71",
+        "sha1": "d8e961f0f3b76745998e497a274bba30833a8c24",
+        "crc32": "0d1e286c"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 59).bin",
+      "filesize": 1371216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3001aa0010dc998aae01bbab83c33065",
+        "sha1": "5d7c8afb299b172a38868a7a95cecc81bd399624",
+        "crc32": "0fdadab8"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 60).bin",
+      "filesize": 8478960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2ad32f4476c593d6ae9fcd7da51af58",
+        "sha1": "a2c284dfe5a7b9a74bb756c9f162efa1e7228126",
+        "crc32": "eefaf493"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 61).bin",
+      "filesize": 2958816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d6eac3656c910763a1d91014aaabb74",
+        "sha1": "6f729d8e53fb3bbde19121d105a87fb4d74cc40b",
+        "crc32": "5060180a"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 62).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "744b899dbb9d85bde21521f4fe548077",
+        "sha1": "0bfc6614159374fe7b71b81d8b2c04c38860b295",
+        "crc32": "95079b43"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 63).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "983c7aa1c784120c1f00d99ec64b5e67",
+        "sha1": "2fe75adbc3f792f61c08babe3029e0582af07a5a",
+        "crc32": "cbbd7741"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 64).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cfc80593aa6bc00524ab77044ab824c",
+        "sha1": "020e587388a7bae24569b8f86a295d1bdd980369",
+        "crc32": "5569ff07"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 65).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9f5968c63668c1d90ddc7d6b1d4057d",
+        "sha1": "8c8b757a4d0a3a6b701ca4367730c7bdbe8754bd",
+        "crc32": "b620aeda"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 66).bin",
+      "filesize": 2956464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5fa896b779630c7bfa60180034d1d8a",
+        "sha1": "123a69d1c31642bf9f1714b800c37591004114ba",
+        "crc32": "51760e26"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 67).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be01f3031a9dddf6e44aa21b775affe2",
+        "sha1": "e084a4fb9ec34e326d16c9e2c96e6811cc269d18",
+        "crc32": "0d80eacf"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 68).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15f2142df273bc223f6342a9bef6aae3",
+        "sha1": "1c6c6b09cf511239a07cd60e218cb5c44d2d8b14",
+        "crc32": "82696b33"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 69).bin",
+      "filesize": 2968224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "175f736643ad3e2442e99ba285cad4b3",
+        "sha1": "248152f1d3b4c98fea23960fce83401fb88cdc24",
+        "crc32": "62488eba"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 70).bin",
+      "filesize": 6258672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6a8d41f3efcb4839a360bd4dcf49fe1",
+        "sha1": "68c13c53282dae1928b687e104172d6752d3712a",
+        "crc32": "99c8f584"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 71).bin",
+      "filesize": 2300256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8404c5808afb37b09eb813a5b99807eb",
+        "sha1": "615850b93e8eedeca55c1ac5f899a67551093a27",
+        "crc32": "fee0b091"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 72).bin",
+      "filesize": 5317872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6a70acd3c411032d563df54c463617e",
+        "sha1": "a9c0ce8148dedfe8d61281fc0e70c4a0a4c4b50e",
+        "crc32": "e769daf3"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 73).bin",
+      "filesize": 6143424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fad39cf9291b0c44b6a327359b49e09a",
+        "sha1": "10875101fd2c11bf2620aabe8805609ccfb67ad9",
+        "crc32": "172fd4c3"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 74).bin",
+      "filesize": 3873744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "712ca2e6a61208d86823975fabfa6db7",
+        "sha1": "e0f5c2c7fd1653265a4892b8d3b574e41fa1b065",
+        "crc32": "c32e79dd"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 75).bin",
+      "filesize": 1585248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2642d463f1adf6a6e6ff370cc3d9c85c",
+        "sha1": "cd975f3590e48e35ed1d005ae5a33db3ddfbf1b3",
+        "crc32": "a1b1fd54"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 76).bin",
+      "filesize": 1721664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "144fc7c2350bc2be48e5f78c359b53f9",
+        "sha1": "7b1bf3dd73d7e6835436f72fab34cf369ad4fe6b",
+        "crc32": "65d92e32"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 77).bin",
+      "filesize": 2029776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd1b7a12985829d467850b76f24f3eb1",
+        "sha1": "c670a4689fd7b4644a97ab9b9180dbb25a36855d",
+        "crc32": "98d702db"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 78).bin",
+      "filesize": 1618176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c6b16f281b74096e681aded5640ed2d",
+        "sha1": "3fff61b46e139bf8238c8808d4c47922e09a8cae",
+        "crc32": "b3341d72"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 79).bin",
+      "filesize": 1058400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d3c1b1247f67dc27950b0651a49768f",
+        "sha1": "931c81888158eea8cdcfe41fbc2707cddb65405a",
+        "crc32": "4a3224ba"
+      }
+    },
+    {
+      "filename": "Kamen Rider (Japan) (Track 80).bin",
+      "filesize": 32598720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab360c1a119da086b13b29c636e9764b",
+        "sha1": "ba8de42732d093de2f412de8977ee4b76d3256b0",
+        "crc32": "de215d08"
+      }
+    }
+  ]
+}

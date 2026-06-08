@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VIII (Japan, Asia) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VIII (Japan, Asia) (Disc 2).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1807fa3a495a1ebadcdae869d430029d",
+        "sha1": "4495fbd486ac17d960fff013438c4a62dcf55904",
+        "crc32": "5bd39c1a"
+      }
+    },
+    {
+      "filename": "Final Fantasy VIII (Japan, Asia) (Disc 2).bin",
+      "filesize": 693313152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a9c881fe544f7197341d724f994dc3a",
+        "sha1": "1bef175c6d8ac369a7aefdfca1d1e1889907b6ea",
+        "crc32": "e830492f"
+      }
+    }
+  ]
+}

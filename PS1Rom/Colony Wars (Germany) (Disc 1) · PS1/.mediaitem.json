@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars (Germany) (Disc 1).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e9a6f67732f86de5e4765e46b512cc87",
+        "sha1": "dc2561b51f6c545c51d76dc1d4c719af8f6032a5",
+        "crc32": "8a07db9c"
+      }
+    },
+    {
+      "filename": "Colony Wars (Germany) (Disc 1) (Track 1).bin",
+      "filesize": 508290720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ec77174f22f48587df5a8a634c0d6f9",
+        "sha1": "8872a26a774761ae373877b95988dca9a9bab090",
+        "crc32": "57e68d2b"
+      }
+    },
+    {
+      "filename": "Colony Wars (Germany) (Disc 1) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

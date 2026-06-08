@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Arms (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Arms (Japan) (Rev 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "decc5e37b27d997e1ead3c56dca3a201",
+        "sha1": "9dcbc04723576de7946ad73f3e19ff4fa660624a",
+        "crc32": "7498bb00"
+      }
+    },
+    {
+      "filename": "Wild Arms (Japan) (Rev 1).bin",
+      "filesize": 626191776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72aa66ac0c89183aa02b2386d43ff911",
+        "sha1": "dd31efffaab7278df82f0b9238eed2f2014eb850",
+        "crc32": "faa2cafd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Notam of Wind (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Notam of Wind (Japan, Asia).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e6c9e33fb5a0b04a3ae52ca419c033c9",
+        "sha1": "d62f18f530113bdf4657ae22703ed2edb5e33941",
+        "crc32": "f9b75895"
+      }
+    },
+    {
+      "filename": "Notam of Wind (Japan, Asia) (Track 1).bin",
+      "filesize": 290495520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f419ead2107d7f5df342f85ed756bd4b",
+        "sha1": "4b0b6a2d0ac13fce316699a7c8c5843970616813",
+        "crc32": "86106764"
+      }
+    },
+    {
+      "filename": "Notam of Wind (Japan, Asia) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

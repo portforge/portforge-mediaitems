@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maximum Force (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maximum Force (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "315cfcb6fec72e73545b583b7542c6a3",
+        "sha1": "183a9b6db78531ca662833ba05c43aa3d9b08867",
+        "crc32": "dc8f60e8"
+      }
+    },
+    {
+      "filename": "Maximum Force (USA).bin",
+      "filesize": 505273104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41828b122fde1e620dd85022aa71cc21",
+        "sha1": "a0b44a635972d66d7d258f9c483c2011446aa047",
+        "crc32": "55484924"
+      }
+    }
+  ]
+}

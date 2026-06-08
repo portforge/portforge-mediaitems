@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jimmy White's 2 - Cueball (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jimmy White's 2 - Cueball (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2742b48255f19b8f7b15f8433f760068",
+        "sha1": "75bbf3f4c1564242f9df5cd5669cc7fb84bcc49f",
+        "crc32": "be5b093d"
+      }
+    },
+    {
+      "filename": "Jimmy White's 2 - Cueball (USA).bin",
+      "filesize": 240376752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e55251259e164dc81adb2ae0398fe005",
+        "sha1": "5a18e4516c20b9d2b893ea9eb7d5bde37e6df236",
+        "crc32": "844a5c84"
+      }
+    }
+  ]
+}

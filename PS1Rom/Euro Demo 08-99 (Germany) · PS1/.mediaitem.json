@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 08-99 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 08-99 (Germany).cue",
+      "filesize": 696,
+      "ext": "cue",
+      "checksums": {
+        "md5": "98ede0a261304130d69ed6a9c139d787",
+        "sha1": "dcbf42a90422ead31dd1d7f108f5fac09380737d",
+        "crc32": "729b53dc"
+      }
+    },
+    {
+      "filename": "Euro Demo 08-99 (Germany) (Track 1).bin",
+      "filesize": 456589056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2127bba8360a6f54fac09cf407dd2bcc",
+        "sha1": "f185f121eb5932e51ec53388b4730ad658479f2d",
+        "crc32": "85119cad"
+      }
+    },
+    {
+      "filename": "Euro Demo 08-99 (Germany) (Track 2).bin",
+      "filesize": 3194016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5dca5cc7d5d72c6d2ac998a27e08cd3",
+        "sha1": "e9f3355c3a6fb028efd2fe1f09a700b755b6df1d",
+        "crc32": "94d9c0a2"
+      }
+    },
+    {
+      "filename": "Euro Demo 08-99 (Germany) (Track 3).bin",
+      "filesize": 3410400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20e6c88787f8088ce7fca902e7a7295d",
+        "sha1": "772bcf2b53c9b7f77ebdbab5eebba6f8b6e2759f",
+        "crc32": "cca1811e"
+      }
+    },
+    {
+      "filename": "Euro Demo 08-99 (Germany) (Track 4).bin",
+      "filesize": 6319824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa57ceb898fca108c50bf4c6f2c65e77",
+        "sha1": "7a3d0e2e64be08676515ad3ff4ca9e6f122bdfd8",
+        "crc32": "8a3b66a0"
+      }
+    },
+    {
+      "filename": "Euro Demo 08-99 (Germany) (Track 5).bin",
+      "filesize": 5484864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e457c43283e9596f60c20408eae84eab",
+        "sha1": "97feca1bdf8dbcb699f3e840aaa694e196b61966",
+        "crc32": "e4b1569f"
+      }
+    },
+    {
+      "filename": "Euro Demo 08-99 (Germany) (Track 6).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

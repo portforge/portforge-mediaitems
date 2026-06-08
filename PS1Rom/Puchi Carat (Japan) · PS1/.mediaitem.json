@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puchi Carat (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puchi Carat (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbc23613223c95416e5638e7c7ce400c",
+        "sha1": "dc2b5fb166ff0689f8447d90c7034620a27c123d",
+        "crc32": "6db0d68d"
+      }
+    },
+    {
+      "filename": "Puchi Carat (Japan).bin",
+      "filesize": 440296752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3536e6a68556344ee897e6b0ca57a24e",
+        "sha1": "3d2b2fcb70da18ab32402b2af9a5e000114587e3",
+        "crc32": "f48ff304"
+      }
+    }
+  ]
+}

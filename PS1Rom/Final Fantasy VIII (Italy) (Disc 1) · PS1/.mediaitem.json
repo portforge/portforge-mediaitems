@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VIII (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VIII (Italy) (Disc 1).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78b3e43788bbca8a5b4d77b1dc79f793",
+        "sha1": "0c04612b9558b6ed0595e65fb74a68ab94c26536",
+        "crc32": "9cc929cb"
+      }
+    },
+    {
+      "filename": "Final Fantasy VIII (Italy) (Disc 1).bin",
+      "filesize": 732346944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4aa6574282aaa5bbe008abd10289c7e",
+        "sha1": "610d3b9506d416e534aa80aab0006b9051a521b6",
+        "crc32": "ba5284b9"
+      }
+    }
+  ]
+}

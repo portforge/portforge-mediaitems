@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silver Jiken - The Silver (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silver Jiken - The Silver (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cfa656395adfcfdc111e69065d0fe283",
+        "sha1": "7a071e80a905939ce892949d9ce11a013eeec1cb",
+        "crc32": "8d2f3835"
+      }
+    },
+    {
+      "filename": "Silver Jiken - The Silver (Japan).bin",
+      "filesize": 746409552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "567326f593e510d07baa44c2abea8115",
+        "sha1": "a52f73b7c41ee6ac7121868914581413460fceeb",
+        "crc32": "98bcc002"
+      }
+    }
+  ]
+}

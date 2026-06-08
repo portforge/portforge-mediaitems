@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja).cue",
+      "filesize": 1318,
+      "ext": "cue",
+      "checksums": {
+        "md5": "686d128ed3f33ba01ca84630857d5863",
+        "sha1": "b1004ffae6edff0cdb29ddfe8cfe6ef23b7df9c9",
+        "crc32": "f4931815"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 1).bin",
+      "filesize": 241557456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "184b4207299ea14f370fba20be9f96cc",
+        "sha1": "910244dac55d96b2b80f9ed1ee66a273c16486fc",
+        "crc32": "d536aad9"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 2).bin",
+      "filesize": 48815760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72ba40c8483f77801b7fee158c21aa5d",
+        "sha1": "6fe008943c55a5953fc28851ca46dea3029bd38e",
+        "crc32": "bd6a15be"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 3).bin",
+      "filesize": 30782976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "748cd77fe01ae011d73b9d15694d0587",
+        "sha1": "f39648cdef297aa5ef9205430eab30e0017e34ee",
+        "crc32": "473ed41b"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 4).bin",
+      "filesize": 29929200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3923b364c4cc376082a93465cc876c76",
+        "sha1": "a207f601543ae3e09097533b98b281b4c6e43edf",
+        "crc32": "953fcfff"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 5).bin",
+      "filesize": 31415664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "669eb3a0fd6bd5cb0a0775c06e8187d0",
+        "sha1": "8b3cfb0aa1cc9dea1133cda5a67acef7dfcd8c12",
+        "crc32": "bbbbe5bb"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 6).bin",
+      "filesize": 59642016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ca539545e6300f13c91c1aa83a826c5",
+        "sha1": "c9b9c30b6f53bb1bf488f08119eddf8302a56d3d",
+        "crc32": "a1de5bcf"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 7).bin",
+      "filesize": 43469664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89c21d82160e95a6c0ba51f9d7e1004e",
+        "sha1": "64d395d232129adbd226d9b7d52a6775669182c3",
+        "crc32": "e97464a2"
+      }
+    },
+    {
+      "filename": "PlayStation Programmer Tool - Runtime Library Version 3.3 (Japan) (En,Ja) (Track 8).bin",
+      "filesize": 29865696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4e675159ca69278777c575dd5d6dce1",
+        "sha1": "02ebf66272788f38dda0424dc32d4bdde706c067",
+        "crc32": "594dabc9"
+      }
+    }
+  ]
+}

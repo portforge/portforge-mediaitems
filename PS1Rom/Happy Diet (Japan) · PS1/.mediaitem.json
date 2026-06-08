@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Happy Diet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Happy Diet (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cc26d0f2a8926e9ce0ac715f75cc3cd",
+        "sha1": "3b6ea7f6279f31ca94b46987d6e1e6285f602622",
+        "crc32": "b9b85e89"
+      }
+    },
+    {
+      "filename": "Happy Diet (Japan).bin",
+      "filesize": 453138672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4679e7cce5e68fe98a8ec012a2b242a7",
+        "sha1": "be188c8616c54ddfd32188704aea1d24de68bf86",
+        "crc32": "fa33c200"
+      }
+    }
+  ]
+}

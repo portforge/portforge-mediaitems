@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sankyo Fever - Jikki Simulation Vol. 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sankyo Fever - Jikki Simulation Vol. 3 (Japan).cue",
+      "filesize": 402,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b3c5b24193046dd5cda4de7c9730da5f",
+        "sha1": "813783f848c09aad0261adb16c8f0cf41ac4e205",
+        "crc32": "3ff64327"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation Vol. 3 (Japan) (Track 1).bin",
+      "filesize": 100324560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bfa19ec736028bddf45034bd2d27415",
+        "sha1": "5c03adb068ff85cebcaa03c74fc181a3092b14a6",
+        "crc32": "f89ad0b2"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation Vol. 3 (Japan) (Track 2).bin",
+      "filesize": 56424480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60e0d29d07ecc3d1a17250bc57bd6a43",
+        "sha1": "8a794043f0e27c461b609d663cc2bb000d434a93",
+        "crc32": "da58e903"
+      }
+    },
+    {
+      "filename": "Sankyo Fever - Jikki Simulation Vol. 3 (Japan) (Track 3).bin",
+      "filesize": 61032048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0826cf580847155d09201923cbd676c5",
+        "sha1": "2cb409141e50c3c005ad86a385d5f722f8a23c3f",
+        "crc32": "0a4058aa"
+      }
+    }
+  ]
+}

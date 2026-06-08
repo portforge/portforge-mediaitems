@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "EA Sports Supercross (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "EA Sports Supercross (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f6d4929212cac866d5cbf4883b051bc",
+        "sha1": "e7332c41b5378a921c2209e0cd73b971a5ecfbe0",
+        "crc32": "bff40d99"
+      }
+    },
+    {
+      "filename": "EA Sports Supercross (USA).bin",
+      "filesize": 335479872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6dbe8fd207bf8d427efaf9cb8110b0f9",
+        "sha1": "77370bf7894b23e56a80d822ad4350bfcfda0f0a",
+        "crc32": "cab6a003"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Breaker Pro Version 1.1 (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Breaker Pro Version 1.1 (USA) (Unl).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6003331d499c91d87b3e3e1e51dcc1c3",
+        "sha1": "a297ef9fd931d03c66c9181b286e3977f616a5af",
+        "crc32": "b44aafcf"
+      }
+    },
+    {
+      "filename": "Breaker Pro Version 1.1 (USA) (Unl).bin",
+      "filesize": 23094288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3ce9a736fa9cacc9f3ffc3b1d02bf2a",
+        "sha1": "59362cc58e5fb350faba095925d7d4105ec2b569",
+        "crc32": "8de70509"
+      }
+    }
+  ]
+}

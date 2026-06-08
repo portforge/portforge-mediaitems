@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney La Sirenetta II (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney La Sirenetta II (Italy).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e0b8eec4ea76f1579a90ecdc30572bf",
+        "sha1": "faf56b5fa5d38978d03ac4355a2537254fea27fb",
+        "crc32": "9ee4ebb4"
+      }
+    },
+    {
+      "filename": "Disney La Sirenetta II (Italy).bin",
+      "filesize": 553512624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f08036f9990387061d739bf152eaa3e",
+        "sha1": "8d61da740d093b5dc74ad0096f445dfdf392d97d",
+        "crc32": "9e8a6234"
+      }
+    }
+  ]
+}

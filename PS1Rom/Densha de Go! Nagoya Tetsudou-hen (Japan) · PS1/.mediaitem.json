@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Densha de Go! Nagoya Tetsudou-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Densha de Go! Nagoya Tetsudou-hen (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6cf9f7396c1f6c6150f4289319def8ec",
+        "sha1": "208d510b001f56d5ef3ba8e42b75a541dbd2eef2",
+        "crc32": "de7be0b9"
+      }
+    },
+    {
+      "filename": "Densha de Go! Nagoya Tetsudou-hen (Japan).bin",
+      "filesize": 612921792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23d483f0546a69ef122c58e7f24d4ca6",
+        "sha1": "1e40129644adfc187ed90099587eae9780ae415d",
+        "crc32": "c7abb27f"
+      }
+    }
+  ]
+}

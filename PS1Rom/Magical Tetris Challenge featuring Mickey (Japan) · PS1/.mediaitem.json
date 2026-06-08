@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Magical Tetris Challenge featuring Mickey (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Magical Tetris Challenge featuring Mickey (Japan).cue",
+      "filesize": 268,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c7b62d9ce1092a15f2d267aef64a4ce7",
+        "sha1": "ca8d62140bf9089d530a9cca0748335b082e6ada",
+        "crc32": "580201f8"
+      }
+    },
+    {
+      "filename": "Magical Tetris Challenge featuring Mickey (Japan) (Track 1).bin",
+      "filesize": 318752448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bb92bdcc726bee2607a3405401acbe5",
+        "sha1": "dde13fb2836b211b47f0f846d7c779e8157e6a82",
+        "crc32": "8c66aeae"
+      }
+    },
+    {
+      "filename": "Magical Tetris Challenge featuring Mickey (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

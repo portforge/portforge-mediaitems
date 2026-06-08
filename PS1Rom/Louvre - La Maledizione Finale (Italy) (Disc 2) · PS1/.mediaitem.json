@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Louvre - La Maledizione Finale (Italy) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Louvre - La Maledizione Finale (Italy) (Disc 2).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67730d1db5483a30ca57af6e28ad1aa7",
+        "sha1": "6cc421a53cb3041107474f47f01b52d9d7dbeac0",
+        "crc32": "4211e92d"
+      }
+    },
+    {
+      "filename": "Louvre - La Maledizione Finale (Italy) (Disc 2).bin",
+      "filesize": 732845568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8390475d0daf55898c81584e9acecb5e",
+        "sha1": "70a2a691aff5ee4fd5a9c11fae39fc8fb4966765",
+        "crc32": "11b858fd"
+      }
+    }
+  ]
+}

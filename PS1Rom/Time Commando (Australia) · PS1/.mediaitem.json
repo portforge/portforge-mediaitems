@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Time Commando (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Time Commando (Australia).cue",
+      "filesize": 339,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74dae7c013a67588ba4f1dd933ba37f4",
+        "sha1": "1b8481adccd9beb3d1f750228ed356fc85861178",
+        "crc32": "dd33e0db"
+      }
+    },
+    {
+      "filename": "Time Commando (Australia) (Track 1).bin",
+      "filesize": 473405856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb442652ed48a89c04220401c2c84d24",
+        "sha1": "da039f024d2a9b15b097eb08fea0bb2cfec1dfc3",
+        "crc32": "bcabe3c1"
+      }
+    },
+    {
+      "filename": "Time Commando (Australia) (Track 2).bin",
+      "filesize": 33391344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59ed7ec7e7ba0c121a9b54b0bcff1dbc",
+        "sha1": "decebbbec77b8b7f8928d22a1fc1a892e9ce1a73",
+        "crc32": "334ed9ee"
+      }
+    },
+    {
+      "filename": "Time Commando (Australia) (Track 3).bin",
+      "filesize": 33734736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2772c393d976c2ef0243aef9bc11e6a",
+        "sha1": "545ea703b5343de0dee8c318266020a29dcc35c0",
+        "crc32": "76194368"
+      }
+    }
+  ]
+}

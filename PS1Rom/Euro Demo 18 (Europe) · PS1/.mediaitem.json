@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 18 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 18 (Europe).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea9d2d208bf62ede4e5da5bdafc2f56a",
+        "sha1": "fd4b36b917df032b2ee8c20b985f8bfe47eef1a4",
+        "crc32": "02bc674e"
+      }
+    },
+    {
+      "filename": "Euro Demo 18 (Europe) (Track 1).bin",
+      "filesize": 327172608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ab9c06fd98c103d641d37dc818f17be",
+        "sha1": "a17d5ae0b10773d238ef8e68c98566b00f48b8f0",
+        "crc32": "7d9cf6ef"
+      }
+    },
+    {
+      "filename": "Euro Demo 18 (Europe) (Track 2).bin",
+      "filesize": 33889968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fadd596551fa53188b74269c18358ea",
+        "sha1": "4b0a67c1db2a8a65f78865f1e86d75c7be37545e",
+        "crc32": "cd281d75"
+      }
+    }
+  ]
+}

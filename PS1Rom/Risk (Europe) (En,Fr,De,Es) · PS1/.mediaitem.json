@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Risk (Europe) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Risk (Europe) (En,Fr,De,Es).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4d037588d4e89e37094e7630a892c73",
+        "sha1": "b9461378a79f7119fd6654a52c74e5eccbf1a4ed",
+        "crc32": "44f75c06"
+      }
+    },
+    {
+      "filename": "Risk (Europe) (En,Fr,De,Es) (Track 1).bin",
+      "filesize": 509160960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40fb457e1694698fa7a57aae053d4332",
+        "sha1": "1944386c1ea6abfd1bdfd8b5a98ca57872076ef5",
+        "crc32": "4170ddb0"
+      }
+    },
+    {
+      "filename": "Risk (Europe) (En,Fr,De,Es) (Track 2).bin",
+      "filesize": 37537920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c512e94ae41820d2c26e0a0f9220198b",
+        "sha1": "8e96dc59a36eca7354bda48973375fd1db58aff7",
+        "crc32": "84ebac79"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TsunTsun-gumi - Suuji de PuniPuni (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TsunTsun-gumi - Suuji de PuniPuni (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a779bd9c7daf0963d976f0760669946f",
+        "sha1": "c66cf0901fe10244203e68d29012d3827f29ec3c",
+        "crc32": "ffe895fe"
+      }
+    },
+    {
+      "filename": "TsunTsun-gumi - Suuji de PuniPuni (Japan).bin",
+      "filesize": 45675840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "300b62dbc8dd5de06a35c47db79f7a60",
+        "sha1": "9e92e894e5c2aa2e0a2e3fe9fb154e6d0af2d8cb",
+        "crc32": "bbd5c348"
+      }
+    }
+  ]
+}

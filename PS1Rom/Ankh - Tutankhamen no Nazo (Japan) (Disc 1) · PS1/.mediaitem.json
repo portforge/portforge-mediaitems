@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ankh - Tutankhamen no Nazo (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ankh - Tutankhamen no Nazo (Japan) (Disc 1).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1a31f74c1afadd4654563d6782f571b3",
+        "sha1": "df6c6bc24f9b1b3558e4e5f1ba7db19a11314c8d",
+        "crc32": "641e65f2"
+      }
+    },
+    {
+      "filename": "Ankh - Tutankhamen no Nazo (Japan) (Disc 1).bin",
+      "filesize": 362699568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d0852e60905dcb6c40b891c8c5d1a51",
+        "sha1": "b76436fa490b930df463458d0bd92c1b5bdf24d1",
+        "crc32": "1ea1ac63"
+      }
+    }
+  ]
+}

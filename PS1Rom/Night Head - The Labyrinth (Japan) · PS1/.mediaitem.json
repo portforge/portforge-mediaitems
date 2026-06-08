@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Night Head - The Labyrinth (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Night Head - The Labyrinth (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2e62bd6896ff693a35b56a1971270819",
+        "sha1": "f914bffa8d13b53323691e3499ee49561a2cba17",
+        "crc32": "19b05020"
+      }
+    },
+    {
+      "filename": "Night Head - The Labyrinth (Japan).bin",
+      "filesize": 476348208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee6aee9b38a2b3662b65b0e66f28b5b0",
+        "sha1": "5e141dbd359807920a146f3b71276c521725dab5",
+        "crc32": "78c89809"
+      }
+    }
+  ]
+}

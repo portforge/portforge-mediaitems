@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chocobo's Dungeon 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chocobo's Dungeon 2 (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "755dc4f2c83c94f5311a846f4b14afdf",
+        "sha1": "cbd0f3acbb309f1b35525d501858c07ed2f58510",
+        "crc32": "5ced35d2"
+      }
+    },
+    {
+      "filename": "Chocobo's Dungeon 2 (USA).bin",
+      "filesize": 445478208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "065fe5bb97dd701ba63de73c17b6ffe4",
+        "sha1": "cd05944f6f8f51d5af48d0e57216a1c3b6a0b841",
+        "crc32": "be1d783e"
+      }
+    }
+  ]
+}

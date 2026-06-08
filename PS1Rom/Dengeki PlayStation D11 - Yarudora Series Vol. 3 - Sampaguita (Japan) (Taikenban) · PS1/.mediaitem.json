@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D11 - Yarudora Series Vol. 3 - Sampaguita (Japan) (Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D11 - Yarudora Series Vol. 3 - Sampaguita (Japan) (Taikenban).cue",
+      "filesize": 147,
+      "ext": "cue",
+      "checksums": {
+        "md5": "172e5f64731dcb6e8771a56804118854",
+        "sha1": "36c3c68a9067c5d494fd5c8912c7831ef3e215ca",
+        "crc32": "88847a3a"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D11 - Yarudora Series Vol. 3 - Sampaguita (Japan) (Taikenban).bin",
+      "filesize": 453964224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f99e75f2e26505d736a693e468b10565",
+        "sha1": "f1259392f9f737fdda5c0dc27c60d5d27d01b80a",
+        "crc32": "ef3153e7"
+      }
+    }
+  ]
+}

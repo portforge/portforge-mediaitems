@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pipe Dreams 3D (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pipe Dreams 3D (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f7ae740580148bff7529a3dfeaecb13e",
+        "sha1": "719e7b73b22c648e650dc48a6ac391bac78af249",
+        "crc32": "33859bd1"
+      }
+    },
+    {
+      "filename": "Pipe Dreams 3D (USA).bin",
+      "filesize": 222057024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ede47d99a2806b0c516f7abe19210246",
+        "sha1": "2e33179fe0c9205d1cd4c760e853935a060eafff",
+        "crc32": "9aaccd17"
+      }
+    }
+  ]
+}

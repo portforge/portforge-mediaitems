@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rally Cross (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rally Cross (Europe).cue",
+      "filesize": 780,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1071ced6e1be5fde3df7197d60b8dbf4",
+        "sha1": "19e1478258774f5472f5a6cbae87e511934e79fd",
+        "crc32": "f87a0d9c"
+      }
+    },
+    {
+      "filename": "Rally Cross (Europe) (Track 1).bin",
+      "filesize": 181503840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5686b21bfc2e91b21dd469c206ad063e",
+        "sha1": "becf97c75784fa583d506f80953fce0becf77510",
+        "crc32": "01619ae9"
+      }
+    },
+    {
+      "filename": "Rally Cross (Europe) (Track 2).bin",
+      "filesize": 50974896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96ac68a0402d11787a3d0eca228a0e47",
+        "sha1": "9ead31eee91b8112f0c6e166c1c441ed46b10870",
+        "crc32": "c9385197"
+      }
+    },
+    {
+      "filename": "Rally Cross (Europe) (Track 3).bin",
+      "filesize": 64470672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f622d7c57ade5c4824d6501152b55f5d",
+        "sha1": "85736fdae10f737960a06b18242b50514c84e518",
+        "crc32": "a00e5819"
+      }
+    },
+    {
+      "filename": "Rally Cross (Europe) (Track 4).bin",
+      "filesize": 74158560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "867b2ddb6802a09159bc694ade051290",
+        "sha1": "9d3f2e0e0bf5122dcf252e5ce157c5a0b3173790",
+        "crc32": "fffee276"
+      }
+    },
+    {
+      "filename": "Rally Cross (Europe) (Track 5).bin",
+      "filesize": 66347568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "915b8ca5e75f63b4bd4e6291d8c794d4",
+        "sha1": "58a2b58b7b374859ca489539dc0292268b3b3e74",
+        "crc32": "8b5f4ec2"
+      }
+    },
+    {
+      "filename": "Rally Cross (Europe) (Track 6).bin",
+      "filesize": 63026544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc42f8738f3ac8d19e10f9174fc7ca10",
+        "sha1": "51e0cbe82cbc5537b2d3eff82bb3178bcc84286f",
+        "crc32": "e7a4da36"
+      }
+    },
+    {
+      "filename": "Rally Cross (Europe) (Track 7).bin",
+      "filesize": 75673248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a2eb0ce9706beaae93082cd5ff6b0ab",
+        "sha1": "a50e987e80ef0fef7fd7146b0e11c99a3c32745d",
+        "crc32": "4df036e7"
+      }
+    }
+  ]
+}

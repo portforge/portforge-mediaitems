@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9732ba1fce47016141e6821fe39bc2cb",
+        "sha1": "3fb40d0a35bfa36c838f7e15cdafe934826cda4b",
+        "crc32": "6e5628a2"
+      }
+    },
+    {
+      "filename": "Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4).bin",
+      "filesize": 693658896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d628d07ace589d272dc5f507b0898d2",
+        "sha1": "ad9a307358b3ff26b2ff5bbac4ee93a57b81930d",
+        "crc32": "706bc68e"
+      }
+    }
+  ]
+}

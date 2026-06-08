@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula - Resurrection (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula - Resurrection (France) (Disc 1).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bde8bc28f8245e366bd096bf14d3554f",
+        "sha1": "e4b3359a56be4e9a82984661848c0f88bb56bc88",
+        "crc32": "03b99f73"
+      }
+    },
+    {
+      "filename": "Dracula - Resurrection (France) (Disc 1).bin",
+      "filesize": 715932336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "726f93ee91de33ea020ac03c6e76d4e0",
+        "sha1": "cc827c02ecaef398c208fcb45cb7f32ec3cdadde",
+        "crc32": "d5299309"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beatmania Best Hits (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beatmania Best Hits (Japan) (Rev 1).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b8d001f1d52e1e6905d06d9ff3fb7922",
+        "sha1": "843dfd9bbd4ab3862e3809101ab543883347b9f5",
+        "crc32": "2f16e508"
+      }
+    },
+    {
+      "filename": "Beatmania Best Hits (Japan) (Rev 1).bin",
+      "filesize": 368088000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a73a3c929eeeea7c8839eb16077a29e5",
+        "sha1": "f1f361d77e8d828994fb0abc5ae6e2cf5776c5c8",
+        "crc32": "510dd621"
+      }
+    }
+  ]
+}

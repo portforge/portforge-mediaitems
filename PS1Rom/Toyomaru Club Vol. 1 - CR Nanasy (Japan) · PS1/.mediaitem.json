@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toyomaru Club Vol. 1 - CR Nanasy (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toyomaru Club Vol. 1 - CR Nanasy (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62198bd1a0f2153a40a50f61f0436601",
+        "sha1": "879544274192dfe74fd5f24003cfe9810470ef19",
+        "crc32": "0c24353d"
+      }
+    },
+    {
+      "filename": "Toyomaru Club Vol. 1 - CR Nanasy (Japan).bin",
+      "filesize": 44116464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1759357a151c863a960ee34dfa6ecf2",
+        "sha1": "429038badf6064984a9fe6b920b455a721f0fdc7",
+        "crc32": "6416432f"
+      }
+    }
+  ]
+}

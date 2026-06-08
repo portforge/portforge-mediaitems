@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Arena Toshinden 3 (USA) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Arena Toshinden 3 (USA) (En,Ja).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "163f3b6117375b0d53b7cdc8d2c96671",
+        "sha1": "cc23c4117ce353aeec5e9d0cc392dd60b18e7552",
+        "crc32": "9d09a46e"
+      }
+    },
+    {
+      "filename": "Battle Arena Toshinden 3 (USA) (En,Ja) (Track 1).bin",
+      "filesize": 604188816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db8ba1d2f29dcb9877524dd32ca141d4",
+        "sha1": "e7785da01e391f84ccc878d88655321f0fc4f246",
+        "crc32": "113379a4"
+      }
+    },
+    {
+      "filename": "Battle Arena Toshinden 3 (USA) (En,Ja) (Track 2).bin",
+      "filesize": 42267792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a9ab5375e592e832af3b4f620b290a6",
+        "sha1": "5c2955970cd394b60dec4bed91f7353c2968cb4d",
+        "crc32": "86da156b"
+      }
+    }
+  ]
+}

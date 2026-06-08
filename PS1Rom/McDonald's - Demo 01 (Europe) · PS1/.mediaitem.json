@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "McDonald's - Demo 01 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "McDonald's - Demo 01 (Europe).cue",
+      "filesize": 1346,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15398beb02521209188c2b0b3c9ced92",
+        "sha1": "533386d75292e373c602fdf35238982b43746732",
+        "crc32": "185b3305"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 01).bin",
+      "filesize": 87329760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48556c1f1924036acfb520fd8184e225",
+        "sha1": "606baa2b62f1375baa0c69d5750a62955731a88b",
+        "crc32": "cf1dea80"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 02).bin",
+      "filesize": 14288400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9cad2f4733705af831f6d684d0b5d992",
+        "sha1": "c58978e940c0ea51c6521fb4af14b850ac55ad84",
+        "crc32": "55eef896"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 03).bin",
+      "filesize": 20452992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1520f3f3c341b6203b926da7d70cbdc2",
+        "sha1": "9be669229edf36925b4d533ef99714e3e4c6d7f8",
+        "crc32": "e84e2f77"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 04).bin",
+      "filesize": 18578448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdccb7942ff337144cedb552c76d1285",
+        "sha1": "d17c7d26dd446200152e0d952110f8dd6a94e684",
+        "crc32": "b8fa41a8"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 05).bin",
+      "filesize": 46727184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a615efa3553aab43d38305fdb5a33432",
+        "sha1": "847202923e74ec7d7f58ae6110c5b407a0b1bb97",
+        "crc32": "354cbebb"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 06).bin",
+      "filesize": 21323232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "949a7184fcbbca71d651b0530b5fbe7e",
+        "sha1": "6cef9b50d6deef79536aef0afda05a77cc0faf91",
+        "crc32": "e7fb519f"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 07).bin",
+      "filesize": 8471904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ca7870ca52c74344910372b324831a9",
+        "sha1": "6ca91f85a919fdbad62f516fbcdd3671be8724b8",
+        "crc32": "d2c0d065"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 08).bin",
+      "filesize": 23766960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85def0a1e945fad1ec0086190b513588",
+        "sha1": "00e8d7cefad7cbed5e3617c1d93d52c156293e0c",
+        "crc32": "46b0857c"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 09).bin",
+      "filesize": 39179616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd9ae9180c56506b0d902bb47d6a4991",
+        "sha1": "883f47577c58fc6a7ce3534ec711941ef442b76c",
+        "crc32": "2e0c69eb"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 10).bin",
+      "filesize": 28002912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "938cd585633f5c4bff1856b807bfd8de",
+        "sha1": "53bf773f2fd1e9ac3bf219555bf61a36c93a19a9",
+        "crc32": "53138a3e"
+      }
+    },
+    {
+      "filename": "McDonald's - Demo 01 (Europe) (Track 11).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

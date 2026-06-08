@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Victory Zone (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Victory Zone (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "da5dce9d2451d703c315c9b683de508b",
+        "sha1": "4c4a6e71d1784a9121724f046781a0afbf10b7ab",
+        "crc32": "8224c95f"
+      }
+    },
+    {
+      "filename": "Victory Zone (Japan).bin",
+      "filesize": 235317600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6a9b228df6ae84b3f7e5a2fd6e23740",
+        "sha1": "7e892d67f75931e6e63a0b61c6c14c0f3c53d4e9",
+        "crc32": "363dfce0"
+      }
+    }
+  ]
+}

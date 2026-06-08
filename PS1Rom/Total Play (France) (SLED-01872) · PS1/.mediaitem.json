@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Total Play (France) (SLED-01872)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Total Play (France) (SLED-01872).cue",
+      "filesize": 990,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3c1da321b38b247253db39d737bf5f48",
+        "sha1": "11276446482f5829a4b0d08054ea27da7637b9c1",
+        "crc32": "5ff9379d"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 1).bin",
+      "filesize": 32170656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cebe0797feef799d7e7553f328151ca",
+        "sha1": "19f28bbd09849dd19830a18ee69785ed9440318f",
+        "crc32": "91dc08bd"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 2).bin",
+      "filesize": 35381136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52c308b7182086821ac361b3d7aa5a11",
+        "sha1": "ee6e604d4fa369e49d8dccc420696af37bd60e8c",
+        "crc32": "f5b6ffd1"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 3).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 4).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 5).bin",
+      "filesize": 26093088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cab6337c5b8c9678034cdf724f1e0593",
+        "sha1": "94cf45af4c58ed8aeed6b91bddcac553688f8135",
+        "crc32": "2ba81cab"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 6).bin",
+      "filesize": 4313568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b908c86ce99bd67f465a709e036849e2",
+        "sha1": "094a8a7b15dbf7a7adeaab9df4226479b269a73d",
+        "crc32": "36ea4c7f"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 7).bin",
+      "filesize": 30592464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3c75c1369944b56ebaedfa54e25a88e",
+        "sha1": "dae470ff4cd18f8e1c4cf370a2f84c6cfe09f5ef",
+        "crc32": "ae753fb3"
+      }
+    },
+    {
+      "filename": "Total Play (France) (SLED-01872) (Track 8).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Happy Hotel (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Happy Hotel (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "96e131132e97fd1cb9062af03381a8b1",
+        "sha1": "3192665c8b9b7984517baa5e3ffb0c9842baee24",
+        "crc32": "6b7b9a12"
+      }
+    },
+    {
+      "filename": "Happy Hotel (Japan).bin",
+      "filesize": 480944016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d21ea0e148b576021fa8ee90afa06eb",
+        "sha1": "af6f0970ca5e7080219fad34a986fdd737b7c92d",
+        "crc32": "8e7d173d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MTV Sports - Snowboarding (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MTV Sports - Snowboarding (Europe).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0de070b517ec31bad6adb9cd6276ecf",
+        "sha1": "45aa3a64b287614bfdb792238aee1b6810af2587",
+        "crc32": "a734c8a0"
+      }
+    },
+    {
+      "filename": "MTV Sports - Snowboarding (Europe) (Track 1).bin",
+      "filesize": 298863936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4594515170b1fcf775644896525c1cfe",
+        "sha1": "b858138fa34618e019b1d277f85ee1b47a1ab94d",
+        "crc32": "fb18258b"
+      }
+    },
+    {
+      "filename": "MTV Sports - Snowboarding (Europe) (Track 2).bin",
+      "filesize": 41630400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f26d0d4ae61bfd066ace360981358fe",
+        "sha1": "749c08fa453caa9cc4b59b1607bc14ee20fd9056",
+        "crc32": "248dce7c"
+      }
+    }
+  ]
+}

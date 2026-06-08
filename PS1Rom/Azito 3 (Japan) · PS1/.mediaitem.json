@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Azito 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Azito 3 (Japan).cue",
+      "filesize": 200,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f37c2830fce0d28f6479611e9c143026",
+        "sha1": "c0e043e440909690a5f51293a01297f8388dbf64",
+        "crc32": "1de7f88d"
+      }
+    },
+    {
+      "filename": "Azito 3 (Japan) (Track 1).bin",
+      "filesize": 559651344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1fe124daa1e42a067ff6dfe6f8ecf18b",
+        "sha1": "e0e194169024c50e548bf660695268c0d7b0ca3d",
+        "crc32": "04631434"
+      }
+    },
+    {
+      "filename": "Azito 3 (Japan) (Track 2).bin",
+      "filesize": 42867552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "589d7d3fdcad53d9003ddf8a7cfca940",
+        "sha1": "5c45e5ca9847eb04d549dc0c11918d337e8b5ad5",
+        "crc32": "a1ead106"
+      }
+    }
+  ]
+}

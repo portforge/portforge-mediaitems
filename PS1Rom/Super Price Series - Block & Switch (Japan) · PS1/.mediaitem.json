@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Price Series - Block & Switch (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Price Series - Block & Switch (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa325ef82757f9fe9f62f29772eae542",
+        "sha1": "bbf6b3c6d721df4e6f95b30a0c8e18cbba97cc68",
+        "crc32": "7a36f3b5"
+      }
+    },
+    {
+      "filename": "Super Price Series - Block & Switch (Japan).bin",
+      "filesize": 157508736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b00291fd9032954d489732f99b15ba46",
+        "sha1": "858e4dfb28bcee5c0d5744cc996fa36aa7368d6c",
+        "crc32": "a0874e1e"
+      }
+    }
+  ]
+}

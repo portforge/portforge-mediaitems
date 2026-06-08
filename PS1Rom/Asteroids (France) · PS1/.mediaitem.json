@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asteroids (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asteroids (France).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b3872da738e6dc6637557f3d972d1b3c",
+        "sha1": "e4e1f8b697a8dadda86cbe4a0c32d29b7c6dfd08",
+        "crc32": "16da3e97"
+      }
+    },
+    {
+      "filename": "Asteroids (France) (Track 1).bin",
+      "filesize": 195112512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d5b1c0434a3abb810569936b1fab49b",
+        "sha1": "4fca37dc48d6aacc677f4e42c219e57ffeec3cc7",
+        "crc32": "ea93c5ff"
+      }
+    },
+    {
+      "filename": "Asteroids (France) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "034c3867de60622ca603502902968ab8",
+        "sha1": "58c7fc8a14ad29c9f3546e5cca3e19367a39397f",
+        "crc32": "ce6b485b"
+      }
+    }
+  ]
+}

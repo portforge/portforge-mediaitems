@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mission - Impossible (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mission - Impossible (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44d94832fd3aa2f4f6f53858582f5477",
+        "sha1": "6f01bf0cec152353f04a3f2cf95eea2557f269f1",
+        "crc32": "f7434fbf"
+      }
+    },
+    {
+      "filename": "Mission - Impossible (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 697666704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7dcbc224536987cd7092b85b73ec66b",
+        "sha1": "775ac8b80ff07e7e9bed0057756f5f5734515a58",
+        "crc32": "9679b4fd"
+      }
+    }
+  ]
+}

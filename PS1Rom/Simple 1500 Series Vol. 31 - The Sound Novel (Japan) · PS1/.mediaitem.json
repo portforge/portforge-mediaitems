@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 31 - The Sound Novel (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 31 - The Sound Novel (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5997ba4b6956103681ac9be992a338b",
+        "sha1": "b5ac3126a12b314383b7b3f67b83bcc8750070ad",
+        "crc32": "c271667e"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 31 - The Sound Novel (Japan).bin",
+      "filesize": 55650672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d82c5d962f044231d1b62fe562508d6f",
+        "sha1": "8e2417ca9eb081a0234caa2199127771997cfdf0",
+        "crc32": "1e69d011"
+      }
+    }
+  ]
+}

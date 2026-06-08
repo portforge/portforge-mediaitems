@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "OverBlood 2 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "OverBlood 2 (Japan) (Disc 1).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e80f3a4eedd11a250a628baf1248b55",
+        "sha1": "26d24a63d017520aa16d6712eec0e3b48467ab58",
+        "crc32": "49d82883"
+      }
+    },
+    {
+      "filename": "OverBlood 2 (Japan) (Disc 1).bin",
+      "filesize": 742698096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc6df6044120a0a48380e27aad6349aa",
+        "sha1": "9462d679a96cc4d92ac89bfcdec16c38e1c1ebdc",
+        "crc32": "90415806"
+      }
+    }
+  ]
+}

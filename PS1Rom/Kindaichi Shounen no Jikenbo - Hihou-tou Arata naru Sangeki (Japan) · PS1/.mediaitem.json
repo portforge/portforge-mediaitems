@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kindaichi Shounen no Jikenbo - Hihou-tou Arata naru Sangeki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kindaichi Shounen no Jikenbo - Hihou-tou Arata naru Sangeki (Japan).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "47b76e7bd599c06db5ed5b081ef30836",
+        "sha1": "d47a6357f6a57a8b0db55c1bcc33790a35c9c011",
+        "crc32": "fafc9a84"
+      }
+    },
+    {
+      "filename": "Kindaichi Shounen no Jikenbo - Hihou-tou Arata naru Sangeki (Japan).bin",
+      "filesize": 682458672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13a1523f01c394ecc646843a719b293a",
+        "sha1": "65f582ffe78b5fa55e45d0c163ba2e67a5b15e15",
+        "crc32": "56fb1cbf"
+      }
+    }
+  ]
+}

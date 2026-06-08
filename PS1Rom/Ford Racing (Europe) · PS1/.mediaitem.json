@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ford Racing (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ford Racing (Europe).cue",
+      "filesize": 1132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de640ca5cfa30122cacc64da93e447e7",
+        "sha1": "bbc798caeceef405e37797232327269381c036b1",
+        "crc32": "3cf760dc"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 01).bin",
+      "filesize": 42834624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d0e2b918bc9c043ee6f5259e94076d6",
+        "sha1": "c4a9aebcf3e206905aec5e6e1b12dd6e51e171b3",
+        "crc32": "9bf2d1ee"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 02).bin",
+      "filesize": 49975296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6abd5c0cc48cea615278799393890208",
+        "sha1": "a58577a9df4fa1289791ac901be0e30916e4e700",
+        "crc32": "5eb32b01"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 03).bin",
+      "filesize": 47884368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48b5c32998992e4d01474a3f6502528a",
+        "sha1": "98dbd35b582bf4b76279ce1b8f5d3e257037dd71",
+        "crc32": "653286cc"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 04).bin",
+      "filesize": 49876512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "680356921a18cb437f477e967b8d959f",
+        "sha1": "c0f16067ca1bec5581be08edd97dcf87b64d4263",
+        "crc32": "6a5db663"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 05).bin",
+      "filesize": 48439440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb516803d2a88897534d3f1ad6437b94",
+        "sha1": "435272e02b69f368c051a5175811f00926543307",
+        "crc32": "8b86720f"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 06).bin",
+      "filesize": 51468816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b814ef5a5fa2c71f97ddf37ef567088",
+        "sha1": "b9ff2fd7180c74d10c2dde74442fa7f538138a1e",
+        "crc32": "734bb4c6"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 07).bin",
+      "filesize": 51191280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20d85ebe824b23bb74d7868d07c613f0",
+        "sha1": "f10cbe79de85228315f4b89e71077d950284472e",
+        "crc32": "c5548a36"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 08).bin",
+      "filesize": 48611136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "876c0d79ce9960b0686ad942ae24a7fc",
+        "sha1": "75ffda433662f400a664f8b6d6157fe90fad2a19",
+        "crc32": "200e4645"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 09).bin",
+      "filesize": 52995264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2acecbd437e20866b067f48291faa7cb",
+        "sha1": "381c3e5d4c22d447795727c3c67f83702e1f3356",
+        "crc32": "df8e0ab5"
+      }
+    },
+    {
+      "filename": "Ford Racing (Europe) (Track 10).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

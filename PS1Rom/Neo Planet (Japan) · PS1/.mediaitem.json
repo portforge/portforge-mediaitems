@@ -1,0 +1,597 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Neo Planet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Neo Planet (Japan).cue",
+      "filesize": 6536,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b33c6af5b7ad3926c1fe891e0340ecf",
+        "sha1": "fb59b5a73c3571e912fa258f5940f18ef599bb56",
+        "crc32": "6138be4d"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 01).bin",
+      "filesize": 32448192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40f415637e42209cdea08dc78c5560ec",
+        "sha1": "48bc056e993d605004b6976f2b7eb55a31ea0f5a",
+        "crc32": "7705bc97"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 02).bin",
+      "filesize": 32605776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1b04c653d87b4b4b0650f83d157c169",
+        "sha1": "8cc81e2cf46f56c8924874bf6d31c4b1455ff8f7",
+        "crc32": "3a160e96"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 03).bin",
+      "filesize": 48119568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ceb2280368c29d75d33043c1651be33",
+        "sha1": "260a5e077ba8c3ef16950dd59233eafe005b99f1",
+        "crc32": "274ae1f8"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 04).bin",
+      "filesize": 33057360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f4f773485954f90077f1e9bdc529d4d",
+        "sha1": "acb53b40c6954efbb0c8ec7b1425972d1d577a06",
+        "crc32": "ff2d3dbb"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 05).bin",
+      "filesize": 34931904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bba80dbea3779f4b19049ad6fdb9202",
+        "sha1": "5fd050e7b5a6e44b01cfe4e7c97204bf798f7623",
+        "crc32": "099efd13"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 06).bin",
+      "filesize": 42568848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94c71a843f9dd21e2c3b6347bdd1266b",
+        "sha1": "f327561fb4fef74cb21b69a6473dfdd818d9abd3",
+        "crc32": "d5d6ad67"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 07).bin",
+      "filesize": 45913392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "303160d0cf06a6ebcf98e07ee4517b52",
+        "sha1": "27050677c28b3c2afc41c6ba59d5f8399a1316d0",
+        "crc32": "7bb2df90"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 08).bin",
+      "filesize": 12656112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "913bc5f3e1cbf7bfcb54b99492046cff",
+        "sha1": "dc9d0a0f2e3fc2063b32594c4f2e88b8f2532fa6",
+        "crc32": "c3faf4d6"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 09).bin",
+      "filesize": 7839216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc9a76078f9950dfd59697a391108570",
+        "sha1": "e1c3082f23247c5924057490107c6153a03ca543",
+        "crc32": "13dafba8"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 10).bin",
+      "filesize": 7404096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56a95c217a8b1d2c3c5170c2daa3a5b4",
+        "sha1": "1cdb24385660e89d73d44bdfc1575d8532ab0de3",
+        "crc32": "4145b7c2"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 11).bin",
+      "filesize": 24691296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64fc03dad0e070833d15fc2c0355092e",
+        "sha1": "34de311f4ae2f92b888041abb3ed37221b50a1d3",
+        "crc32": "b552c399"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 12).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b340a6d3ed355b9f612b17021096dee",
+        "sha1": "0be9925c401e9c4c9d7b2105ed7ac96ef370441f",
+        "crc32": "2c71882c"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 13).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b80a3a48a590dc8a9d893eb3fe70bcc2",
+        "sha1": "a1ae260dd1dc7e83eccea9e723a279152ed82944",
+        "crc32": "357c0c28"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 14).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bf75b436dd5089f262e3e466017a162",
+        "sha1": "80824cd7d02cc4d40929c3343737db6b0ef350ec",
+        "crc32": "cea1484d"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 15).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46157cf4ee35dd56ae5e971dcbebc266",
+        "sha1": "c0b6a4b071641f8cb48fc98da24ac5a1158cb202",
+        "crc32": "753637f9"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 16).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4664a744e04d40e03eb602d365b6c264",
+        "sha1": "bf7b601a781b6f14e6cf768e7fe0eb75d339530c",
+        "crc32": "d2d7faec"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 17).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a87318d1a5f403c866a7510a823a297",
+        "sha1": "58b09d222f2dda30e6ccb1fbb986aa66b871a5b8",
+        "crc32": "cc88271c"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 18).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d73a8086985d20271e893b0de85ae098",
+        "sha1": "ff417f5c61759d624dcbf34bb9eca40efa29bdbc",
+        "crc32": "17529254"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 19).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "184ab37f74d6919b33bbb1871a6f394d",
+        "sha1": "b0c5f6a8e01ddc490789a3ecf8e5d8ccaa759798",
+        "crc32": "e8060c5b"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 20).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f21e36c99e9a204884a1a35ca05fa919",
+        "sha1": "af89ff2236bb7f78529c2b65823912319e3cadaa",
+        "crc32": "a74f4ff3"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 21).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6be0e29d281b14382f80b7088a277bbb",
+        "sha1": "52d9a037e60ac84274b23993dc913e00fe0ebdd1",
+        "crc32": "04dedeaf"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 22).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3aa8c6b433607cdc0e6c2aaa4d48045",
+        "sha1": "6b080644be32686166e7a49e319f5aaab4b90e5a",
+        "crc32": "eb3cbdd0"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 23).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a8973300313034c74b03fd3d87e5318",
+        "sha1": "96c754a69db70e94f3f77f54889eca8a3d453815",
+        "crc32": "77b02c07"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 24).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c2f14b8afca1e56beb60e81fb24c2ac",
+        "sha1": "f95b5900c11aabbfaaa04e650dcff4d11b7592df",
+        "crc32": "fcb6a0cb"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 25).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3ef8c70a25739a57b60205bfd0f7cb4",
+        "sha1": "9d013df1460244278080b03e76007774cc99bff2",
+        "crc32": "22240807"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 26).bin",
+      "filesize": 7239456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8526c7b69902553abdf4012c31ac42e",
+        "sha1": "e02b896f6be714f64b85d536cd655a9e7cf15b00",
+        "crc32": "4ecca0a0"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 27).bin",
+      "filesize": 23585856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41befefa99ef8f123e7d5e201bded8d7",
+        "sha1": "e29e8381b6fc4e7cec80ff0fb7f1d1c044cb45a4",
+        "crc32": "2715d302"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 28).bin",
+      "filesize": 5630688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "506221a772ca85c45abfc21dfcd37565",
+        "sha1": "a5e5cf719f794bdf8e2ea36df1efa2f00b048301",
+        "crc32": "e7e09d34"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 29).bin",
+      "filesize": 5578944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bdf1dbc5f878870fe5b0afa5c52787d",
+        "sha1": "c0c1e40556066cd49dc92397f3e6e0f36e12d25b",
+        "crc32": "6e7efa8f"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 30).bin",
+      "filesize": 4165392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a37547ccd3039f9694a992bc9563a3ae",
+        "sha1": "9d5fe28e43dee5a7c522d9d27c3c5bcf33ff7015",
+        "crc32": "bd224d6a"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 31).bin",
+      "filesize": 4210080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "101ba58ab91e65456716a68b3d6e9d1b",
+        "sha1": "ff7df94f6b4055851824ed3e0702371f84d874e8",
+        "crc32": "dc2ae462"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 32).bin",
+      "filesize": 3057600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8010687dc9caa5e00d9499cfb89aeedf",
+        "sha1": "f07dd30b93d99ce652ff3c0fbeec42a2f9941fdd",
+        "crc32": "c649a298"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 33).bin",
+      "filesize": 3751440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13a80ff03187807a4dc27f72eaec824b",
+        "sha1": "4796d5efa38ed24eef79b829cd564a0459c4ac4a",
+        "crc32": "f9a9f284"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 34).bin",
+      "filesize": 2566032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79dec68e182dfd766707f18c2e7ba75d",
+        "sha1": "46fc6c9bd778c1e13e5b5d0cc83739b1b03087e5",
+        "crc32": "c1ba3724"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 35).bin",
+      "filesize": 4076016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6fee6ea05c3f4080d35084556058e59",
+        "sha1": "61c65184ae6d6fcfbcce6544c687ed5de09ffc62",
+        "crc32": "1ca648e8"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 36).bin",
+      "filesize": 4273584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7987a5f74c655c064d2f8167ede0b929",
+        "sha1": "6fef962ee6f0f232d2de191401a7eea4468c3b35",
+        "crc32": "0bf7e9fa"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 37).bin",
+      "filesize": 3831408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "188a94420c18e5b2af80fa08fb3317e5",
+        "sha1": "dc225fd74b47d428ad6a645ec9088fc35f1438e3",
+        "crc32": "9f0da01b"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 38).bin",
+      "filesize": 2547216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae76b4224aee9b04f46680b9e742de0c",
+        "sha1": "650a325cb96d00added25318fa7753a70573d11c",
+        "crc32": "dfee6cdb"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 39).bin",
+      "filesize": 3770256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb4b1daf12fe668234e41e69888c250c",
+        "sha1": "6855563961dbfd48fa4dda2894d0b9c0be60c0f3",
+        "crc32": "36d74414"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 40).bin",
+      "filesize": 3480960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd6b83ab89a434352111e3ba3eeec7e9",
+        "sha1": "5a4c6b88e046dfc083acdb00d0a8e4425df2575c",
+        "crc32": "8ade2b9b"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 41).bin",
+      "filesize": 3128160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a9eb7815e3ecd81022249851d5d026b",
+        "sha1": "01de51f83af371767c0d9b3d09e5f91e6604f908",
+        "crc32": "c08c1f77"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 42).bin",
+      "filesize": 3377472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ae187af5f06e9dc806847a51b37e717",
+        "sha1": "1699a0c4b50bf5ea3e87f573e6d2dbb961e1d2a7",
+        "crc32": "b66ba7e3"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 43).bin",
+      "filesize": 5880000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "711c07a6907389f7e1a67f80876dfc2d",
+        "sha1": "cd71fde54aad9651b45a7237a02ff9b5659d5bfe",
+        "crc32": "c0afa6aa"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 44).bin",
+      "filesize": 6007008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "925253f00e937628b387218eaf5279ce",
+        "sha1": "c4b4afb3316ed023b0f58623dd1e09b22b2a56ba",
+        "crc32": "763f4cfb"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 45).bin",
+      "filesize": 4525248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c948b9b98432249ad2d7715f5e64126b",
+        "sha1": "76efd97ce7004372394108d5c7f613c904b12f73",
+        "crc32": "9c433625"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 46).bin",
+      "filesize": 4692240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebaf737313875c80b93a1cebb227811f",
+        "sha1": "9f306fbaae82597184f13ad1bcddee730efcc265",
+        "crc32": "37f34ef7"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 47).bin",
+      "filesize": 3205776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6f0f761b0debb1eff6c09a55341a508",
+        "sha1": "8d67534a1ec6191bc53506590fe2e697e63958a8",
+        "crc32": "b2b7d765"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 48).bin",
+      "filesize": 3845520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6649ed90ee00fe1116b03cc52c97caf7",
+        "sha1": "dc00dc18d4508deb8b258b886023c0f37d0d71e4",
+        "crc32": "0b333191"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 49).bin",
+      "filesize": 2678928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87a27a33348a3e49a5ea8c6c69b5eeba",
+        "sha1": "d60ca12fa9c77a5438380346bd256176fe1f3631",
+        "crc32": "cd970864"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 50).bin",
+      "filesize": 4243008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43893dbf828cf72f13eff934b48e46aa",
+        "sha1": "d81675b92ad092950572e1df888a487eead7734b",
+        "crc32": "0ed3006a"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 51).bin",
+      "filesize": 4475856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecc2b2f6bdc083fe156a444e0db1c02d",
+        "sha1": "67e23dd1a72514cd4efbf980e89ae3dc1527929a",
+        "crc32": "471f1a3c"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 52).bin",
+      "filesize": 4000752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acf1dc71af31a4b5ab7b2c42fd1b885c",
+        "sha1": "8774b2ffc84388e8f52de4d4ee00cc9d7f87abcb",
+        "crc32": "ec3461db"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 53).bin",
+      "filesize": 2749488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e322a3e04124af18cf761770348d4ba5",
+        "sha1": "7799576d48b72364080558496a70a9e698ad6f01",
+        "crc32": "9c4d68f1"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 54).bin",
+      "filesize": 4259472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce806fdc0cf0d1274ecd4053cb7f5419",
+        "sha1": "751c521641f9794299074b424cf7a9fe42a579a4",
+        "crc32": "698aa4ce"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 55).bin",
+      "filesize": 3723216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "564654e90a8777c15debedb84e7cf06e",
+        "sha1": "a1fba851ba4cb86b24602242f5aedc33afd0e74a",
+        "crc32": "90e6b7f6"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 56).bin",
+      "filesize": 3389232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6681b64b8d869e34546cbf0736ec0b4b",
+        "sha1": "360b86b588e68d294565b9aa28efce324a2ff581",
+        "crc32": "5c1265a9"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 57).bin",
+      "filesize": 3697344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c7a7cabc70a7c87d55bb8716fa289d1",
+        "sha1": "46b1dd329b6d10e8c86c7678bbcae8ebad3434d9",
+        "crc32": "3927ebed"
+      }
+    },
+    {
+      "filename": "Neo Planet (Japan) (Track 58).bin",
+      "filesize": 33057360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f4f773485954f90077f1e9bdc529d4d",
+        "sha1": "acb53b40c6954efbb0c8ec7b1425972d1d577a06",
+        "crc32": "ff2d3dbb"
+      }
+    }
+  ]
+}

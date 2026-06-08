@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GameShark - Video Game Enhancer - Version 5 (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GameShark - Video Game Enhancer - Version 5 (USA) (Unl).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf1bcd51b0f0f4d87642f40917039c68",
+        "sha1": "62fd47d912c05857dc2a9672aa3ba926029647f9",
+        "crc32": "1efa3515"
+      }
+    },
+    {
+      "filename": "GameShark - Video Game Enhancer - Version 5 (USA) (Unl).bin",
+      "filesize": 14667072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b25dd662dbfd15682e9a986e09b64fa",
+        "sha1": "50febeda5213c39760b1985456d6ae4a416f99dc",
+        "crc32": "3298de09"
+      }
+    }
+  ]
+}

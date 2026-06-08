@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Motor Toon Grand Prix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Motor Toon Grand Prix (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d373b28b7a4fadb58d57e9657b29496",
+        "sha1": "297b1055613e55fa6a4c36e46d6b44d06e26a847",
+        "crc32": "1d370cc4"
+      }
+    },
+    {
+      "filename": "Motor Toon Grand Prix (Japan).bin",
+      "filesize": 361024944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e7ee199aaf03f203f4e30a8f83cabf2",
+        "sha1": "83068c8ad18348d64ffb6eef5de170cd0491da99",
+        "crc32": "44f68d0a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jigsaw Island - Japan Graffiti (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jigsaw Island - Japan Graffiti (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5515d015343dd628964928c4a170e7e3",
+        "sha1": "daa80844c038b36f7fec4ca55ce5053ce1aaa393",
+        "crc32": "db7f8de6"
+      }
+    },
+    {
+      "filename": "Jigsaw Island - Japan Graffiti (Japan).bin",
+      "filesize": 459394992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a538794395cf6ecc5cd307c61d148d12",
+        "sha1": "6d5e054aa265694fbe02aa25edf44f831f6c2ff5",
+        "crc32": "61a54ca4"
+      }
+    }
+  ]
+}

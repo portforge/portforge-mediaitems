@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 36 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 36 (France).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "759b50cf306de0dfb3ba28d4c085852c",
+        "sha1": "32b7f812198bf0351c0cba1d84e01a76f21e0f5d",
+        "crc32": "65838429"
+      }
+    },
+    {
+      "filename": "Euro Demo 36 (France) (Track 1).bin",
+      "filesize": 475783728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db1a785fda1c8d22916bead66abddc7a",
+        "sha1": "bc450bb32603a5c3ee62ad2d167175ad8a68c881",
+        "crc32": "72f82fd9"
+      }
+    },
+    {
+      "filename": "Euro Demo 36 (France) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lunar 2 - Eternal Blue Complete (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lunar 2 - Eternal Blue Complete (USA) (Demo).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e01ae579c3f0ac2c3051695e6e159c8",
+        "sha1": "99ec8dc23eb2c6ef3282f3a157024762ea2db3d7",
+        "crc32": "4dd7f116"
+      }
+    },
+    {
+      "filename": "Lunar 2 - Eternal Blue Complete (USA) (Demo).bin",
+      "filesize": 622654368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e87b2e74329e1f703f28a9381e633c4a",
+        "sha1": "0426d5bb260d467625beb2b07db3c00d747df377",
+        "crc32": "f63c79e0"
+      }
+    }
+  ]
+}

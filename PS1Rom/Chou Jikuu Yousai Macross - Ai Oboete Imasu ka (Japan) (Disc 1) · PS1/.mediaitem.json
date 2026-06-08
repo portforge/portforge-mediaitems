@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0450b47cf2411e6002752a527da57b37",
+        "sha1": "12dc2c9b20c7a053faefaf2b3a43bde913c5c7cc",
+        "crc32": "2d760659"
+      }
+    },
+    {
+      "filename": "Chou Jikuu Yousai Macross - Ai Oboete Imasu ka (Japan) (Disc 1).bin",
+      "filesize": 506223312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947be0017f074af0dc047e5d9492678b",
+        "sha1": "24fc48207da8928daa5ee47d803ab99bbc1cd539",
+        "crc32": "b192eecb"
+      }
+    }
+  ]
+}

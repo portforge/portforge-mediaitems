@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oni Taiji!!, The - Mezase! Nidaime Momotarou (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oni Taiji!!, The - Mezase! Nidaime Momotarou (Japan) (Major Wave).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa9c516ecbcf2cddfa5888827626cdc4",
+        "sha1": "3b3198198ac21e40f76ab19d4595aab76defc9fd",
+        "crc32": "f4f53c36"
+      }
+    },
+    {
+      "filename": "Oni Taiji!!, The - Mezase! Nidaime Momotarou (Japan) (Major Wave).bin",
+      "filesize": 461558832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3d6a7087a318c96759f172b2e2188b0",
+        "sha1": "84a45dfa822f560c5e02d8b5ad64d4069ef698dd",
+        "crc32": "0e1592c2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Land, Sea, Air (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Land, Sea, Air (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1157408872ec4afee4db118bda8eb83",
+        "sha1": "8da32fbf859dada000cb87ef953b4497b10a5a27",
+        "crc32": "2d7e45f5"
+      }
+    },
+    {
+      "filename": "Army Men - Land, Sea, Air (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 519208704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "377b5e369552bbfa8d409034309fe89c",
+        "sha1": "028f6e83dd5211388c77d4bdd8256db8518732cc",
+        "crc32": "669c026e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "E3 Demo 2002 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "E3 Demo 2002 (Europe).cue",
+      "filesize": 787,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19294338b3f03d82a4fa473b3e6648e9",
+        "sha1": "2a1f4a71af5d2c7a78a80385a21d58f1482b15d7",
+        "crc32": "583e8f66"
+      }
+    },
+    {
+      "filename": "E3 Demo 2002 (Europe) (Track 1).bin",
+      "filesize": 474040896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32cbe1cbcd9e7d5538ed918d136af1ea",
+        "sha1": "2696b2bf90a1a905226cf767d153e80eeda7a38b",
+        "crc32": "4723cfae"
+      }
+    },
+    {
+      "filename": "E3 Demo 2002 (Europe) (Track 2).bin",
+      "filesize": 46727184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e18e53fca8183a1a02b884fa8f27162",
+        "sha1": "58f906bef2b6b2fb0d1a1339379abf9176ee1205",
+        "crc32": "023f701c"
+      }
+    },
+    {
+      "filename": "E3 Demo 2002 (Europe) (Track 3).bin",
+      "filesize": 21323232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34ee852cc29da94c6afeb928b43cbcde",
+        "sha1": "c75531d87e9ef776654a72d8a24d90091ad772f9",
+        "crc32": "f949aeaf"
+      }
+    },
+    {
+      "filename": "E3 Demo 2002 (Europe) (Track 4).bin",
+      "filesize": 8471904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "749494d4cfa2892452513cfb1b945f25",
+        "sha1": "dd646cd30d102305d1567cabf38d2b8726caebab",
+        "crc32": "f6cbc276"
+      }
+    },
+    {
+      "filename": "E3 Demo 2002 (Europe) (Track 5).bin",
+      "filesize": 23766960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd56d59991f1ba5644cadb0144fb5d02",
+        "sha1": "d8a4f77b1f0d8a575a2e92cb73dadfe3b7b12d7b",
+        "crc32": "8dc8a3a2"
+      }
+    },
+    {
+      "filename": "E3 Demo 2002 (Europe) (Track 6).bin",
+      "filesize": 32474064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41371a0a2913ed6ea1cbb99d8092800",
+        "sha1": "88aa669545d4b2a14e14bbbf78bcff4305d8141c",
+        "crc32": "9ec0e731"
+      }
+    },
+    {
+      "filename": "E3 Demo 2002 (Europe) (Track 7).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

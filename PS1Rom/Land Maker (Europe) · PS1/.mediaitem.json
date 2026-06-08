@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Land Maker (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Land Maker (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b7a3461d125eb2d120df00aabbb67888",
+        "sha1": "a66d1d37f332d602f9176214fd2e74f44346a90b",
+        "crc32": "537e7dfb"
+      }
+    },
+    {
+      "filename": "Land Maker (Europe).bin",
+      "filesize": 591596208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38a799ce3f3d9030afd79e7e2abbe8b7",
+        "sha1": "1f8737e12a5668cca970e966869703fb9bfe5207",
+        "crc32": "ca5f163b"
+      }
+    }
+  ]
+}

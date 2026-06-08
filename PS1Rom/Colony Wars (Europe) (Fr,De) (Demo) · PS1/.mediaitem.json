@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars (Europe) (Fr,De) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars (Europe) (Fr,De) (Demo).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2b3f827ad701248ca53176c76a4dd63",
+        "sha1": "c03ed47f484fbe560dff8918e1a34aa2a2b93e77",
+        "crc32": "940dfa73"
+      }
+    },
+    {
+      "filename": "Colony Wars (Europe) (Fr,De) (Demo) (Track 1).bin",
+      "filesize": 592903920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a3cb3bb560118c2dccc190cfb237c55",
+        "sha1": "e12c033be59c9c26642dbc9e6784aff6eaa7cb4d",
+        "crc32": "0df2eb9a"
+      }
+    },
+    {
+      "filename": "Colony Wars (Europe) (Fr,De) (Demo) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

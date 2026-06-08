@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shinri Game 7, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shinri Game 7, The (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fe0c774dbf5c82715b28ddc5b2313fe",
+        "sha1": "42d3ef6835034c55a659f6046f5dfe8cb1b9673b",
+        "crc32": "2d4591e2"
+      }
+    },
+    {
+      "filename": "Shinri Game 7, The (Japan).bin",
+      "filesize": 83035008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aae80e72ed2d98c2827cdfa15ac4a54b",
+        "sha1": "56e28ccbb6894c56a3414191a544f0bec104bc78",
+        "crc32": "1681a7d6"
+      }
+    }
+  ]
+}

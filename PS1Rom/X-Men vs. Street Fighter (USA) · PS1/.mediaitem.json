@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Men vs. Street Fighter (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Men vs. Street Fighter (USA).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c613951acd2dd0390cb8a254686a10e0",
+        "sha1": "a8cf841b80b1c6b9545eea0dffd94a6c039365ab",
+        "crc32": "eb9e926c"
+      }
+    },
+    {
+      "filename": "X-Men vs. Street Fighter (USA).bin",
+      "filesize": 392393568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79888a0298937d3db4256fd004b50426",
+        "sha1": "c04bf74422c7e1cbb3b961528c38cd67b656856a",
+        "crc32": "02cdbe88"
+      }
+    }
+  ]
+}

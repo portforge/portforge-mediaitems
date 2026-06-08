@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef431abe5d17e9e8ee11ef6b240d4d77",
+        "sha1": "7387e175d5e8decd07df85b509aabde7d73a9ff8",
+        "crc32": "c26310c0"
+      }
+    },
+    {
+      "filename": "Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 140844816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27060788b335333da5905152bbc36e1a",
+        "sha1": "1bdfb7179a3683ee4c7413e78596e35b46961882",
+        "crc32": "caf6e89e"
+      }
+    }
+  ]
+}

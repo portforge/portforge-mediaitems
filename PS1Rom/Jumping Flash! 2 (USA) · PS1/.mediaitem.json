@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jumping Flash! 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jumping Flash! 2 (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e37b2dac604b61881d4ac144d10a0b5f",
+        "sha1": "3500837830fc010aabd627c13aa493d458d972ab",
+        "crc32": "da5b04f0"
+      }
+    },
+    {
+      "filename": "Jumping Flash! 2 (USA).bin",
+      "filesize": 450328032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acae4be9fa504239d801148bd4fc1b00",
+        "sha1": "fe988114ad30cd892e272ab62ab598d4217313ba",
+        "crc32": "13248363"
+      }
+    }
+  ]
+}

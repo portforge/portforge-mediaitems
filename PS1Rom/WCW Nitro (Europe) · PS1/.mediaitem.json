@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WCW Nitro (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WCW Nitro (Europe).cue",
+      "filesize": 766,
+      "ext": "cue",
+      "checksums": {
+        "md5": "113dbc89410fb40f279dc82497733834",
+        "sha1": "f6d1d7e7a78bf5c946cd335e42cba1e53c4aa863",
+        "crc32": "a0bd0780"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Track 1).bin",
+      "filesize": 421788864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35c66cecdf59dcdda56abef718052e43",
+        "sha1": "f59392f12f3b6897fa11be34cc3cbf289d709eb1",
+        "crc32": "29db48cb"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Track 2).bin",
+      "filesize": 36227856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "531bb9ae6d18056e4719906aad906cc9",
+        "sha1": "c65a344abc2c40004fe590b4975733ee7cb77db5",
+        "crc32": "f5e3e6e6"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Track 3).bin",
+      "filesize": 38730384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "944d8a6f2ff25d5d7f9723a83b1efc8d",
+        "sha1": "0b18efa3578ab23bb53bc7552af25ca9f0fd91f1",
+        "crc32": "b0679944"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Track 4).bin",
+      "filesize": 35176512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fadac848b57c3d0bd088d05ea29b043e",
+        "sha1": "8f8a2910ce4eb13292443c1596134fec727a6256",
+        "crc32": "9c4749a3"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Track 5).bin",
+      "filesize": 44763264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "106d66fcb80c762dd032ce2130947102",
+        "sha1": "8fc9b63c48953837c4a14616aad8dfc778eec4e8",
+        "crc32": "5ec3f9d0"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Track 6).bin",
+      "filesize": 33010320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "035c0960ae179b92d2f12a307fc0f2fc",
+        "sha1": "e7ebad576aa482cb88e8d1134ab8a7e4906efdd1",
+        "crc32": "0347c35a"
+      }
+    },
+    {
+      "filename": "WCW Nitro (Europe) (Track 7).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "912b926cb18a5c9e46eb30abd67ff492",
+        "sha1": "390c1e0d485a2194f6817357847499d7947b3965",
+        "crc32": "e9327bc4"
+      }
+    }
+  ]
+}

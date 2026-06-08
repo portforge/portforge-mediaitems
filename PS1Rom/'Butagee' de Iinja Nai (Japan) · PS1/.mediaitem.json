@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "'Butagee' de Iinja Nai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "'Butagee' de Iinja Nai (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "869c596133f27238e4d84fc0566143e7",
+        "sha1": "c8cfc609a725aa4b7ac443482be4326398e87cfc",
+        "crc32": "a9d3ce73"
+      }
+    },
+    {
+      "filename": "'Butagee' de Iinja Nai (Japan).bin",
+      "filesize": 574189056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abf66f269698c4d8b944504cb1637ce6",
+        "sha1": "1a9ea3c422c286ae5c9fa1b3f275e5829ad913e2",
+        "crc32": "a33c90e1"
+      }
+    }
+  ]
+}

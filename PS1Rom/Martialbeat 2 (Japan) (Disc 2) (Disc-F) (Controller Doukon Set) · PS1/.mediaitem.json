@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Martialbeat 2 (Japan) (Disc 2) (Disc-F) (Controller Doukon Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Martialbeat 2 (Japan) (Disc 2) (Disc-F) (Controller Doukon Set).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0811b651596ad6092f417cac6578387b",
+        "sha1": "98714bf7e385b63e4e02c284089ada1521d4173f",
+        "crc32": "e1f8e67a"
+      }
+    },
+    {
+      "filename": "Martialbeat 2 (Japan) (Disc 2) (Disc-F) (Controller Doukon Set).bin",
+      "filesize": 661911600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36311c2215efe3deecadaecf5feb9a4f",
+        "sha1": "faf0e30fab1c7f4d5aba61b7d6e806488ac3a7cf",
+        "crc32": "2e05b916"
+      }
+    }
+  ]
+}

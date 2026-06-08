@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Keiba Saishou no Housoku '96 Vol. 2 - GI-Road (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Keiba Saishou no Housoku '96 Vol. 2 - GI-Road (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2676802b58397b7595ec62d857ebd2e7",
+        "sha1": "014c3d614c9ecaee96b68703607e3b467f548fa7",
+        "crc32": "b01c7b39"
+      }
+    },
+    {
+      "filename": "Keiba Saishou no Housoku '96 Vol. 2 - GI-Road (Japan).bin",
+      "filesize": 409097472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddde8a64fe1d2c39784943a41d206040",
+        "sha1": "3f25351846d3bd82aa538887a6097cee7fe9301e",
+        "crc32": "fd514302"
+      }
+    }
+  ]
+}

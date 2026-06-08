@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kaikan Phrase - Datenshi Kourin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kaikan Phrase - Datenshi Kourin (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18c68a558753ae259c28df7bd2f886fc",
+        "sha1": "424458af3b0d5e3826935a1bd974fa337f37d1ec",
+        "crc32": "7502b167"
+      }
+    },
+    {
+      "filename": "Kaikan Phrase - Datenshi Kourin (Japan).bin",
+      "filesize": 619253376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db7cd4d445e19b8df5d5287c58343c1c",
+        "sha1": "bb174a4622425d3a5e4a3016605a10b698a4bdcb",
+        "crc32": "87381b1a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Langrisser I & II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Langrisser I & II (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bfea3f9fbd95c7aa688172c8a3935645",
+        "sha1": "4f92b30074ab2110bd5dae6dff6e858c1448b386",
+        "crc32": "0f1bbaac"
+      }
+    },
+    {
+      "filename": "Langrisser I & II (Japan) (Track 1).bin",
+      "filesize": 673483440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ed6e5461125c39f7a14345bc19fc6d3",
+        "sha1": "5477f40953b7051a531ad44239d1fb1ffb191321",
+        "crc32": "b2ebdb90"
+      }
+    },
+    {
+      "filename": "Langrisser I & II (Japan) (Track 2).bin",
+      "filesize": 73525872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5fa4713397375b103bd7ee6e04b0e57",
+        "sha1": "c0ec199c4a3a1980b977ac92d02a8204855f92e8",
+        "crc32": "4b3ce715"
+      }
+    }
+  ]
+}

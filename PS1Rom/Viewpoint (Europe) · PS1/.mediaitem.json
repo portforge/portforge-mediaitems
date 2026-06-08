@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Viewpoint (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Viewpoint (Europe).cue",
+      "filesize": 318,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9af42588b0823e4ec2c0d4fc424a1525",
+        "sha1": "2bbdf9a04d21eaa3897db5c9a749c3ca8ddc1634",
+        "crc32": "f1f719c4"
+      }
+    },
+    {
+      "filename": "Viewpoint (Europe) (Track 1).bin",
+      "filesize": 529423440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "322609c2ed4366a420cd3b3769310f09",
+        "sha1": "46a41e18fdcc6c31e8a7a50b5135457e9a7aaac3",
+        "crc32": "76042b19"
+      }
+    },
+    {
+      "filename": "Viewpoint (Europe) (Track 2).bin",
+      "filesize": 22082928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf2d6863fbaca464fd3faa932bb453c6",
+        "sha1": "e751bfb51041db7d380cbb95d48bb651ee541b6a",
+        "crc32": "536eff0c"
+      }
+    },
+    {
+      "filename": "Viewpoint (Europe) (Track 3).bin",
+      "filesize": 35023632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b754a9429ab9af0b7f0dd49246155978",
+        "sha1": "6f406383cf761b8120efd3d53eca822a54c209d0",
+        "crc32": "af851b9b"
+      }
+    }
+  ]
+}

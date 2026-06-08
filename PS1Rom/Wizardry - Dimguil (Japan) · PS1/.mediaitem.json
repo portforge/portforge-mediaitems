@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wizardry - Dimguil (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wizardry - Dimguil (Japan).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e40f541ae69bac498b3838d37054e0e",
+        "sha1": "1d05c264900c86c6d0f5e44f1ef7570752e1d635",
+        "crc32": "b3ca8a0a"
+      }
+    },
+    {
+      "filename": "Wizardry - Dimguil (Japan) (Track 1).bin",
+      "filesize": 384361488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3324adf1dea4b1f78aa478f688803137",
+        "sha1": "6f81efbe0ea3aad227e60196a0edaade5feb7139",
+        "crc32": "4e76c115"
+      }
+    },
+    {
+      "filename": "Wizardry - Dimguil (Japan) (Track 2).bin",
+      "filesize": 39831120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba2fe58a74e9071989939d15aeebbee4",
+        "sha1": "cacbb72a6eaba39637accbd664af00c33b249af6",
+        "crc32": "2cd71ad7"
+      }
+    },
+    {
+      "filename": "Wizardry - Dimguil (Japan) (Track 3).bin",
+      "filesize": 46642512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ef128b5f854190dd5ec1e0591b2b6b2",
+        "sha1": "e6277ca77b93affc2302f76ccfea1d4a9592c880",
+        "crc32": "e7d2af36"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D38 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D38 (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fbca93452f76cefaa595150e6c1c90a6",
+        "sha1": "aec1d931e4ae0e34f2cdad4378f1f471d20572be",
+        "crc32": "00f802c2"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D38 (Japan) (Track 1).bin",
+      "filesize": 584735424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bb1bd5e1a295d1daab4747c8e5d093b",
+        "sha1": "769b8f2cb0ff8f6517db38ab3352aea76d44c6df",
+        "crc32": "3cf31859"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D38 (Japan) (Track 2).bin",
+      "filesize": 25716768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb5b8119c4adbaa7c2cfbabd88543a2e",
+        "sha1": "ae0fda8b08850b5c563b71ce06d128c650f75787",
+        "crc32": "2367c7fe"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D38 (Japan) (Track 3).bin",
+      "filesize": 42169008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b70259628677aa030ede0f9abbd1eb3f",
+        "sha1": "52bc3fd767f7c218f1101f3ff7ca6b17f66a8bc9",
+        "crc32": "e1eed8a2"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D38 (Japan) (Track 4).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

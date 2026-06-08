@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RC Revenge (Europe) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RC Revenge (Europe) (En,Fr,De,Es).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ffe17661ccf9d081bec6ce85a5d22a16",
+        "sha1": "1a7cf67b201f8343e85c4c31ce9d762eb45c72d0",
+        "crc32": "e977cc82"
+      }
+    },
+    {
+      "filename": "RC Revenge (Europe) (En,Fr,De,Es) (Track 1).bin",
+      "filesize": 484152144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f381196e11071aab94061ea51e38bddb",
+        "sha1": "098b7b105e6b74d7b21af477881a24cf9912ef29",
+        "crc32": "90d39a16"
+      }
+    },
+    {
+      "filename": "RC Revenge (Europe) (En,Fr,De,Es) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

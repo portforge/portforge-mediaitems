@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "2Xtreme (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "2Xtreme (Europe).cue",
+      "filesize": 862,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7bb637f7433a0e34f2d99e4f585b10d5",
+        "sha1": "35b196dfe7cc8b15f22db1474382f9ed43b535b9",
+        "crc32": "4211e6e3"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 1).bin",
+      "filesize": 45511200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "638c2731be64cd1016c0b0aae8f38ca3",
+        "sha1": "cca776ddb1b0142846befd9d5565a43af0ab2197",
+        "crc32": "f0cfee6d"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 2).bin",
+      "filesize": 59239824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "615a9010e794059afbc19f099dd7d22b",
+        "sha1": "c615beaa8e4aab515aa2473b2d1e4a6482a6ca62",
+        "crc32": "62b16b5d"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 3).bin",
+      "filesize": 80473680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "038cd73ad8b6cbf8d66ab4f0476dac90",
+        "sha1": "ee55f9f8d332805d1a42bfb97ec9e7e4f3c102d1",
+        "crc32": "129b5977"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 4).bin",
+      "filesize": 76818672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4220b29e5b6fb6403a9434b9cf6ab791",
+        "sha1": "19adda1a8e2021dfc4a0b94d714016989348ea08",
+        "crc32": "1ba44c84"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 5).bin",
+      "filesize": 65345616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45579fcb67b37da4ce1d846d24a72d82",
+        "sha1": "8a449968494f1dd88399256e08d0bc8001f435c1",
+        "crc32": "5490ecbc"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 6).bin",
+      "filesize": 61152000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a9781b441267aa545f3202b9499630d",
+        "sha1": "bab1fc47b782be10e76eb49ba5689a19e2cebca4",
+        "crc32": "2a432ca6"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 7).bin",
+      "filesize": 76776336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61efc4bd04c27763ceafad20ba70b6a6",
+        "sha1": "5257a96d6b864d1ff11a3a26cafab6f6827ee78b",
+        "crc32": "73d57534"
+      }
+    },
+    {
+      "filename": "2Xtreme (Europe) (Track 8).bin",
+      "filesize": 76776336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61efc4bd04c27763ceafad20ba70b6a6",
+        "sha1": "5257a96d6b864d1ff11a3a26cafab6f6827ee78b",
+        "crc32": "73d57534"
+      }
+    }
+  ]
+}

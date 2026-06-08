@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pop'n Music - Disney Tunes (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pop'n Music - Disney Tunes (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6fe9241956485a1ed050bf6141395272",
+        "sha1": "b9b46cd3741ac5bc2b8fea3c6cab80c0ddb6d4a0",
+        "crc32": "b31a0af6"
+      }
+    },
+    {
+      "filename": "Pop'n Music - Disney Tunes (Japan).bin",
+      "filesize": 199195584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "111e0d9a6cf3890dec10ee7fc926c7ee",
+        "sha1": "5296bce476067085bad98633288fa9e9ca886080",
+        "crc32": "d5ad4b86"
+      }
+    }
+  ]
+}

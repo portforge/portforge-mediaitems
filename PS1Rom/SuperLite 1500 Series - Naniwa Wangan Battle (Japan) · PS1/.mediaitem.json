@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Naniwa Wangan Battle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Naniwa Wangan Battle (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1776db22a8c26e2d69063a1643615830",
+        "sha1": "d6c5fdfebb240d67414b52d2b65da3f24109f6fb",
+        "crc32": "a0273afe"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Naniwa Wangan Battle (Japan).bin",
+      "filesize": 378768432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "031e784cae416e5d735433dec7cd9252",
+        "sha1": "77ce1d98bea11a531cb44dca205b4b3822384823",
+        "crc32": "dec1a61d"
+      }
+    }
+  ]
+}

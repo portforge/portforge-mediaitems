@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Stuart Little 2 (Netherlands)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Stuart Little 2 (Netherlands).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7323f7637b3a5106dcc624537f346481",
+        "sha1": "d589f54f145eac60166dd19a0fc24329e2b6efe7",
+        "crc32": "3ee15471"
+      }
+    },
+    {
+      "filename": "Stuart Little 2 (Netherlands).bin",
+      "filesize": 619086384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d65a7b06f64e39fb0bf4ce4a9eb0761d",
+        "sha1": "51851ab484a2629255ec3d7beaf5bca34c26a187",
+        "crc32": "58f3bb2c"
+      }
+    }
+  ]
+}

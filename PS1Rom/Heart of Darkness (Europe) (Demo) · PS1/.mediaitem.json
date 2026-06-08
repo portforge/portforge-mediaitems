@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heart of Darkness (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heart of Darkness (Europe) (Demo).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6930ca1627803a34b42f88c36c9220a",
+        "sha1": "735c579ef72d0a9bf2f4ec3c19630fcab65aa98c",
+        "crc32": "54af254d"
+      }
+    },
+    {
+      "filename": "Heart of Darkness (Europe) (Demo).bin",
+      "filesize": 312350304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64afa9fa8f7beb899167a1016df6cc2c",
+        "sha1": "798b41990534954c8bb1fb23c9a08a3175ee7d7a",
+        "crc32": "751f53af"
+      }
+    }
+  ]
+}

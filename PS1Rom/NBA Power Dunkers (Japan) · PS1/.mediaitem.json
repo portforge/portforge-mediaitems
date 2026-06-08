@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Power Dunkers (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Power Dunkers (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74b1e6dc9eaca69f2b7e6f58241deaab",
+        "sha1": "fae7da7cbc356c56036505377f44437d615d3af7",
+        "crc32": "7b28098f"
+      }
+    },
+    {
+      "filename": "NBA Power Dunkers (Japan).bin",
+      "filesize": 583785216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4b0ce46406c49339edaa57e33676851",
+        "sha1": "cb83120fae5f2316a27d743a8698de34a4135ff9",
+        "crc32": "b7feab0f"
+      }
+    }
+  ]
+}

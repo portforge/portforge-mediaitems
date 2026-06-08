@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Creature Shock (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Creature Shock (Japan) (Disc 2).cue",
+      "filesize": 357,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15938d60fa718a45c180dd5f42f973be",
+        "sha1": "df35595ae24604d945ae763b6e0d0b3330da0543",
+        "crc32": "5fa33e4d"
+      }
+    },
+    {
+      "filename": "Creature Shock (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 577378368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4dcc3d3bf2e1372d3db86968e1738f0a",
+        "sha1": "c4e56d7f4ef1b670cb19c088368524ec7eb08258",
+        "crc32": "11f423ef"
+      }
+    },
+    {
+      "filename": "Creature Shock (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 35411712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ecfda1219186a07083b65366e820508",
+        "sha1": "9b89201651fa55fc8a8e5e4b3587f3e21030b733",
+        "crc32": "b69020a1"
+      }
+    },
+    {
+      "filename": "Creature Shock (Japan) (Disc 2) (Track 3).bin",
+      "filesize": 33311376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "644be43ba5eea46600bfda182cd17d59",
+        "sha1": "11b96b3013d3a4a6a0b5f7d25cd8b83c0b1b7085",
+        "crc32": "1f36dc72"
+      }
+    }
+  ]
+}

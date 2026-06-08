@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "M-6 PlayStation Demo (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "M-6 PlayStation Demo (France).cue",
+      "filesize": 351,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ffe1af89ead164637f59d4cb7cc24867",
+        "sha1": "8568cb8525f51ece3dd4941b73b33c80cb2e07a5",
+        "crc32": "09dba065"
+      }
+    },
+    {
+      "filename": "M-6 PlayStation Demo (France) (Track 1).bin",
+      "filesize": 554389920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fecf1fe4ceca553ada8fda0d76f2c53",
+        "sha1": "ecc32b71bcc78f6dd0033e45965b6c428a7267d6",
+        "crc32": "03e10b07"
+      }
+    },
+    {
+      "filename": "M-6 PlayStation Demo (France) (Track 2).bin",
+      "filesize": 45177216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37ae1cf76f98d84e31b3318daae5f436",
+        "sha1": "0adf77971058066321e9406d6efbdf830e5f9b64",
+        "crc32": "f89fefa8"
+      }
+    },
+    {
+      "filename": "M-6 PlayStation Demo (France) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

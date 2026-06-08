@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xevious 3D-G+ (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xevious 3D-G+ (Europe).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "968612e8fec22bd4bf4d0f7da4caca78",
+        "sha1": "2f37ca36916717296f223c1e6d38013f82829b4e",
+        "crc32": "029b2cd3"
+      }
+    },
+    {
+      "filename": "Xevious 3D-G+ (Europe).bin",
+      "filesize": 650003424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f813bd862110ed2b0f408493bc341e04",
+        "sha1": "053439da2f3169321634a313f7656808f14835bb",
+        "crc32": "d888f322"
+      }
+    }
+  ]
+}

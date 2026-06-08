@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colin McRae Rally (Europe) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colin McRae Rally (Europe) (En,Fr,De,Es).cue",
+      "filesize": 518,
+      "ext": "cue",
+      "checksums": {
+        "md5": "238cb16fe27fbaa4e4223e22dbbb5321",
+        "sha1": "3c6729564a0008624c397846cbff0fa559898e34",
+        "crc32": "38eb50de"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Europe) (En,Fr,De,Es) (Track 1).bin",
+      "filesize": 347853744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b123a57d9357a24cd721602285817f7",
+        "sha1": "20b383fbc7ae278255bce0b80cd32950c612ee6d",
+        "crc32": "6268755c"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Europe) (En,Fr,De,Es) (Track 2).bin",
+      "filesize": 55742400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30d6dc7f7731339d948704cf7fe1b5ac",
+        "sha1": "f23e109757a7de8ffc09e584c7ca50c8320aa8b3",
+        "crc32": "d27141de"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Europe) (En,Fr,De,Es) (Track 3).bin",
+      "filesize": 31634400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a8825427ac047728232ce827d1f08e1",
+        "sha1": "d0227c1ccd00cdd76c126ca2dc3fa9d405577934",
+        "crc32": "a9f06ed2"
+      }
+    },
+    {
+      "filename": "Colin McRae Rally (Europe) (En,Fr,De,Es) (Track 4).bin",
+      "filesize": 55737696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e071f2b27e5252daca1c37f5e0fd731a",
+        "sha1": "d6f4accecef43ecce058729e1b087c008d17dba6",
+        "crc32": "69d80026"
+      }
+    }
+  ]
+}

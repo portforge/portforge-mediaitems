@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tom and Jerry in House Trap (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tom and Jerry in House Trap (USA).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c978fe2b2873454130490ef4388c090",
+        "sha1": "4e13ef3a648184d31b3b41b29c05f0fc7a3ee7d4",
+        "crc32": "7da1793e"
+      }
+    },
+    {
+      "filename": "Tom and Jerry in House Trap (USA) (Track 1).bin",
+      "filesize": 94080000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a3b9e0052b3f761958783cef3897b78",
+        "sha1": "8890a30311b8f5cb7f26b1e7e257ca25025228d6",
+        "crc32": "44947043"
+      }
+    },
+    {
+      "filename": "Tom and Jerry in House Trap (USA) (Track 2).bin",
+      "filesize": 32833920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f4544d5c91b8c7a8ab7d2fd621ff4e5",
+        "sha1": "3259606b1fc81f012423ffbc46f4ebb58b644c3a",
+        "crc32": "444874a1"
+      }
+    }
+  ]
+}

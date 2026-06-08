@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya! (Japan).cue",
+      "filesize": 732,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94c00d61c22c9069769f39d26d72e0f8",
+        "sha1": "eb08eafabcf62c2ff228b12fa718703681920b3a",
+        "crc32": "e3754bb7"
+      }
+    },
+    {
+      "filename": "Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya! (Japan) (Track 1).bin",
+      "filesize": 5113248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80e2e88c7a83ebfec6af1a9938b4de9b",
+        "sha1": "5e5a9a5466a2f608e41a9746b850fc86113085bb",
+        "crc32": "cc3f2c4d"
+      }
+    },
+    {
+      "filename": "Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya! (Japan) (Track 2).bin",
+      "filesize": 54693408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24b0ab4299ac1b408bd93bdd865c8bde",
+        "sha1": "af333eb916c8f59f63150ea1e833c2cc37cb1d5e",
+        "crc32": "922e6a4b"
+      }
+    },
+    {
+      "filename": "Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya! (Japan) (Track 3).bin",
+      "filesize": 55307280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb02ea77aeab8c80cb5eb5bcc86b6c33",
+        "sha1": "d206381fb663656e0838366bd9073a8d9656edb7",
+        "crc32": "4fb92722"
+      }
+    },
+    {
+      "filename": "Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya! (Japan) (Track 4).bin",
+      "filesize": 55907040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77074779d36446843126340d7bc14099",
+        "sha1": "0b8e79d40cc7a0d1543a2775f4979031bc66e6ad",
+        "crc32": "9208c6f8"
+      }
+    },
+    {
+      "filename": "Oyaji no Jikan - Nee-chan Hanafuda de Shoubu ya! (Japan) (Track 5).bin",
+      "filesize": 10652208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "078836987d6e14bdd826179e08a6f9e9",
+        "sha1": "80ac2d6315ae1b476b90666186fefadff03285ea",
+        "crc32": "cfc7b8a2"
+      }
+    }
+  ]
+}

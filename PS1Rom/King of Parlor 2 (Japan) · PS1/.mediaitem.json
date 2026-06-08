@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Parlor 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Parlor 2 (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eca8c7573c23be4a29fce3fd45169d4b",
+        "sha1": "21657df101903837b113e41c8c0703d512d3288d",
+        "crc32": "b2b2d460"
+      }
+    },
+    {
+      "filename": "King of Parlor 2 (Japan).bin",
+      "filesize": 76023696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cf957b5f993bdbb331a467ba068fdf5",
+        "sha1": "ed84b1997044083873e309f32a2fa646614fee42",
+        "crc32": "4be15a7a"
+      }
+    }
+  ]
+}

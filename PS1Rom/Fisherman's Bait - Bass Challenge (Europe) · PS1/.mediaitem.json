@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fisherman's Bait - Bass Challenge (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fisherman's Bait - Bass Challenge (Europe).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2e32d7273e5b81cb667e4304a11f963",
+        "sha1": "8f377be0f30b589838f4a907147b681c0456a7e3",
+        "crc32": "c8b1768e"
+      }
+    },
+    {
+      "filename": "Fisherman's Bait - Bass Challenge (Europe).bin",
+      "filesize": 97092912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "812d72aa7f1ee2ab0cfae954e1407343",
+        "sha1": "9554e725af61f58fde8d097f16c51f62fe2fe017",
+        "crc32": "adfed76a"
+      }
+    }
+  ]
+}

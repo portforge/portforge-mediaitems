@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wagamama Fairy Mirumo de Pon! Mirumo no Mahou Gakkou Monogatari (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wagamama Fairy Mirumo de Pon! Mirumo no Mahou Gakkou Monogatari (Japan).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e1ce376186350689ce217af705f6d43",
+        "sha1": "bec959188376e2105c5e1cbd804fac883a4c1717",
+        "crc32": "82d87466"
+      }
+    },
+    {
+      "filename": "Wagamama Fairy Mirumo de Pon! Mirumo no Mahou Gakkou Monogatari (Japan) (Track 1).bin",
+      "filesize": 361617648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1937e264dd820d4deeed6d025ec3a326",
+        "sha1": "57a3a2579822b2cde4d6a769debef0e7c393a528",
+        "crc32": "74df4909"
+      }
+    },
+    {
+      "filename": "Wagamama Fairy Mirumo de Pon! Mirumo no Mahou Gakkou Monogatari (Japan) (Track 2).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f340ebe82f5196bf8d2912c342f35067",
+        "sha1": "157485fb2ebb7fbf6dbe7fba6741e23cf6d8dc3f",
+        "crc32": "0c43c683"
+      }
+    }
+  ]
+}

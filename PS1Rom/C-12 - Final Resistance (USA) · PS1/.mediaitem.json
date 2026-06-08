@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "C-12 - Final Resistance (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "C-12 - Final Resistance (USA).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b283fa08346300a2828a93e529616a1",
+        "sha1": "17a215bdce0f4c8fef8581a882a0cd27f6354713",
+        "crc32": "9f122b23"
+      }
+    },
+    {
+      "filename": "C-12 - Final Resistance (USA) (Track 1).bin",
+      "filesize": 453416208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6921735ee700c8bfe6c59f7759377ab",
+        "sha1": "e0d14aedc5df49896b750c3236fb11cf7565ef9b",
+        "crc32": "c6ef3d1f"
+      }
+    },
+    {
+      "filename": "C-12 - Final Resistance (USA) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

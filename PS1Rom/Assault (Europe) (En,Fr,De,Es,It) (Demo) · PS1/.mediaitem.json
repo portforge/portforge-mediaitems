@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Assault (Europe) (En,Fr,De,Es,It) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Assault (Europe) (En,Fr,De,Es,It) (Demo).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2dfcbe6738d2ac21aab2868a7c3743b6",
+        "sha1": "40a6745c69dd51710ab20a0be2d7d357d0700e7a",
+        "crc32": "eec0ff9f"
+      }
+    },
+    {
+      "filename": "Assault (Europe) (En,Fr,De,Es,It) (Demo).bin",
+      "filesize": 83973456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48e947d9f20c8a6de6fd1aad86e13f04",
+        "sha1": "63de362e414b15156d1ed5cf6fc246f1c59a82ab",
+        "crc32": "ccec6d59"
+      }
+    }
+  ]
+}

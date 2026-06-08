@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 3 - Nemesis (Ireland)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 3 - Nemesis (Ireland).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f8c4ed7b4c25e0c4ed99a1372179e6db",
+        "sha1": "fae774d57bf989a135a359b27c263c9e482c1b76",
+        "crc32": "958f53be"
+      }
+    },
+    {
+      "filename": "Resident Evil 3 - Nemesis (Ireland).bin",
+      "filesize": 712491360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53b87fac4d0695cc118d9c1a52a2049a",
+        "sha1": "aab0f190d34cad7738a4266e3ae8ac447c3d7492",
+        "crc32": "7b248588"
+      }
+    }
+  ]
+}

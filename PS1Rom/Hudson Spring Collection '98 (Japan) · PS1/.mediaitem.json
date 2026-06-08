@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hudson Spring Collection '98 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hudson Spring Collection '98 (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9bed53f1d6ca2fea279ddaa7797d9fa",
+        "sha1": "d7f85679264a7be632cc95f8bd2ba4f5c2493f7c",
+        "crc32": "5eb85ad4"
+      }
+    },
+    {
+      "filename": "Hudson Spring Collection '98 (Japan).bin",
+      "filesize": 480515952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9777974be6704e97d054860938866bc6",
+        "sha1": "6f557574a8c4db2a2e568a7527ea0136097fa925",
+        "crc32": "9b601933"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's De Kleine Zeemeermin II (Netherlands)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's De Kleine Zeemeermin II (Netherlands).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8374be9f39b1238959430a0a5b81f6bd",
+        "sha1": "e4f07eae217d584199ebca7f99604bce605f8333",
+        "crc32": "931a71a2"
+      }
+    },
+    {
+      "filename": "Disney's De Kleine Zeemeermin II (Netherlands).bin",
+      "filesize": 550904256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1579d715cc1ece3ce1f575a9d24877d1",
+        "sha1": "74bf026eab5053350953b3f167e8252ccc32a127",
+        "crc32": "f9a93c2e"
+      }
+    }
+  ]
+}

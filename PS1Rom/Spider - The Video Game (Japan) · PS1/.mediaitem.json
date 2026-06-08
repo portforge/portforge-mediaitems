@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider - The Video Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider - The Video Game (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce0c4a966d82b4568ac5c9090d33b2b3",
+        "sha1": "55be9603503863a5788bd8f8899d400769eb1093",
+        "crc32": "ba27536a"
+      }
+    },
+    {
+      "filename": "Spider - The Video Game (Japan).bin",
+      "filesize": 430662960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e641276039799f1f2e8ddd749a4e7470",
+        "sha1": "cdf56a8baf49bd6475ff9d6618880bdbf11dc99a",
+        "crc32": "8ef30c20"
+      }
+    }
+  ]
+}

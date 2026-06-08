@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan).cue",
+      "filesize": 316,
+      "ext": "cue",
+      "checksums": {
+        "md5": "031135eb73190f451067c4bc491dc969",
+        "sha1": "48a50d513091e87cb9de484ee013f6edcf083fb4",
+        "crc32": "b80beedb"
+      }
+    },
+    {
+      "filename": "Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan) (Track 1).bin",
+      "filesize": 364044912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea56a7ba699d96136b17ed05f49982b2",
+        "sha1": "1c1ccdadcfccf071559a82522822c092035499d3",
+        "crc32": "22dea62e"
+      }
+    },
+    {
+      "filename": "Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan) (Track 2).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0580798280736865f5a3a0acf0070a3",
+        "sha1": "ebbc15d8445e79bcbfd4a229c32191c30ba9d2e0",
+        "crc32": "fd70a67f"
+      }
+    }
+  ]
+}

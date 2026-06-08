@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doraemon 2 - SOS! Otogi no Kuni (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doraemon 2 - SOS! Otogi no Kuni (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2c1177dfc4faf14e25da8cfabf8caab",
+        "sha1": "633ee84c44e2fc48f0665addfdda9fbdc0381e34",
+        "crc32": "84cb2db0"
+      }
+    },
+    {
+      "filename": "Doraemon 2 - SOS! Otogi no Kuni (Japan) (Track 1).bin",
+      "filesize": 140898912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "901c5183cc402741fa4f94531fe4320d",
+        "sha1": "73fdc10e64ccc0bd8463e4f6c46a1bba1212daa6",
+        "crc32": "6ffeef22"
+      }
+    },
+    {
+      "filename": "Doraemon 2 - SOS! Otogi no Kuni (Japan) (Track 2).bin",
+      "filesize": 601220592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "207cb611d4db2051cdf968589a021b3f",
+        "sha1": "597ae67eab9333417513de709ac4df6025ca0b9f",
+        "crc32": "1a66dd36"
+      }
+    }
+  ]
+}

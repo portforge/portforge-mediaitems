@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blue's Clues - Blue's Big Musical (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blue's Clues - Blue's Big Musical (USA).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "71b4d9d41016bca71376d3a7da298494",
+        "sha1": "12511d186ba42fff3abbcdd51374f958a44640c2",
+        "crc32": "f300e830"
+      }
+    },
+    {
+      "filename": "Blue's Clues - Blue's Big Musical (USA).bin",
+      "filesize": 750516144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f7a3e87f47c505cf7a94afe1d9cdb13",
+        "sha1": "320b09073038461a7fa348d392d2f69bf6f8085c",
+        "crc32": "1e12a8f1"
+      }
+    }
+  ]
+}

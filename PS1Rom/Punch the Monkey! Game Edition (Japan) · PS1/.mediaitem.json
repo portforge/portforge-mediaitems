@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Punch the Monkey! Game Edition (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Punch the Monkey! Game Edition (Japan).cue",
+      "filesize": 510,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d92699e9afd29b76c818f72a8f81f52",
+        "sha1": "bba6d4b56c0564323e8418c3d7ea36c6cd1b6476",
+        "crc32": "4cb0b878"
+      }
+    },
+    {
+      "filename": "Punch the Monkey! Game Edition (Japan) (Track 1).bin",
+      "filesize": 491659728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33d027e45a402048a32ed764c1fbd347",
+        "sha1": "9c4ccce2929d265d22f3c2fd2060337c4f778239",
+        "crc32": "e7c8bd77"
+      }
+    },
+    {
+      "filename": "Punch the Monkey! Game Edition (Japan) (Track 2).bin",
+      "filesize": 1599360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "838c4219a112e9cd2759003d304b0e52",
+        "sha1": "c34081f3bd5da36d22dd2125719b82bc088131f3",
+        "crc32": "700c7bb3"
+      }
+    },
+    {
+      "filename": "Punch the Monkey! Game Edition (Japan) (Track 3).bin",
+      "filesize": 11136720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84b7b0650eeba2f50a7dc44480e253a4",
+        "sha1": "b682ab7b7bdf2ee3b747344fb77aa9611e38cc71",
+        "crc32": "fbefe762"
+      }
+    },
+    {
+      "filename": "Punch the Monkey! Game Edition (Japan) (Track 4).bin",
+      "filesize": 32833920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd748398196f9d9c1585cb7431511d75",
+        "sha1": "cc31242c9e707306cd04459078a521c1c535a064",
+        "crc32": "8630cf3d"
+      }
+    }
+  ]
+}

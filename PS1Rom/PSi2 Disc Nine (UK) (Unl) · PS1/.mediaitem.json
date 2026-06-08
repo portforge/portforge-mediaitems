@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Nine (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Nine (UK) (Unl).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6be99127e110f1deb2536a4f57761fae",
+        "sha1": "6d6799d27dfc4f042a40cb3b227032b82180aaa6",
+        "crc32": "e3323169"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Nine (UK) (Unl).bin",
+      "filesize": 394214016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99e4c81ad12a121e1862940ae9283891",
+        "sha1": "e8b22f7340667f4c540d78f8b21ac5497539ba58",
+        "crc32": "73422562"
+      }
+    }
+  ]
+}

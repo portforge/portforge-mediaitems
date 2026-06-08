@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Leading Jockey Highbred (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Leading Jockey Highbred (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a49abf97dc7ca09fd7f3170d2368026a",
+        "sha1": "5b003e0b973412aac3d929e7a70914878e8d577e",
+        "crc32": "185deb5d"
+      }
+    },
+    {
+      "filename": "Leading Jockey Highbred (Japan).bin",
+      "filesize": 39506544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0934057ed3d0434c2ecf53365a245479",
+        "sha1": "de38c509ea4de809dfb2ee63fc00826192c5d251",
+        "crc32": "b50c8348"
+      }
+    }
+  ]
+}

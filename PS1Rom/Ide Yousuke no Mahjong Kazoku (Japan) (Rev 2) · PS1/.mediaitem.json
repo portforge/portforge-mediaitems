@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ide Yousuke no Mahjong Kazoku (Japan) (Rev 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ide Yousuke no Mahjong Kazoku (Japan) (Rev 2).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "97023bc0c78ff0283677d670dd0830d3",
+        "sha1": "0cc010087d1b2b577355a1dd2793d02d59e6175e",
+        "crc32": "ed75fb3a"
+      }
+    },
+    {
+      "filename": "Ide Yousuke no Mahjong Kazoku (Japan) (Rev 2).bin",
+      "filesize": 584361456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd84a5cee4c480dd2429428367643cbd",
+        "sha1": "3fdd350389603d7986866a1a0ec6781ed7b9d796",
+        "crc32": "ff30cb46"
+      }
+    }
+  ]
+}

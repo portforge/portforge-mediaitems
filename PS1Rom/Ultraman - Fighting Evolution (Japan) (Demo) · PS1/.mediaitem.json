@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ultraman - Fighting Evolution (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ultraman - Fighting Evolution (Japan) (Demo).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8826aaa0b02c8b7b2bd8bdde6140876",
+        "sha1": "137b3f2cc634ce4a41660cdc08c2a2febd5ed02d",
+        "crc32": "a7e1a234"
+      }
+    },
+    {
+      "filename": "Ultraman - Fighting Evolution (Japan) (Demo).bin",
+      "filesize": 236025552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b321dffa0276accc9f14392bb85fd7c7",
+        "sha1": "ee4439a05fa5abc4c85be41a6b1264aa33819cdb",
+        "crc32": "db8abba6"
+      }
+    }
+  ]
+}

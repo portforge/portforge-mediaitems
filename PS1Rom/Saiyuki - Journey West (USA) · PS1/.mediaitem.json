@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saiyuki - Journey West (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saiyuki - Journey West (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec027bc84a30fa78e6cdecf5e9092b2a",
+        "sha1": "d56013f2dbd8e0f3fe56a95d70e4070b61873be6",
+        "crc32": "8f16061b"
+      }
+    },
+    {
+      "filename": "Saiyuki - Journey West (USA).bin",
+      "filesize": 522226320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "244a088eb3dfba34df124826dcc4bdb9",
+        "sha1": "c945fb365b6e1407ce681d2fae64c6a29f4cb61c",
+        "crc32": "b9e0892c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VII (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VII (Spain) (Disc 2).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54d2403e88edd80e1b5b7e5444fac5a6",
+        "sha1": "1aa21bfda6e36a134dfdc7fa9a73d40bc3d3d15b",
+        "crc32": "b4e9c8f0"
+      }
+    },
+    {
+      "filename": "Final Fantasy VII (Spain) (Disc 2).bin",
+      "filesize": 732657408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4db27f95e9cc45855678eaa3e82bbf57",
+        "sha1": "4e81f6c55e3b98f407242a7414affccb673c5c5e",
+        "crc32": "637ac6d8"
+      }
+    }
+  ]
+}

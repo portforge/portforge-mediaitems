@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-04-01)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-04-01).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04ed7c5930ee9260a130e4867a8b14db",
+        "sha1": "9fdbfca5b143ca064d7bc00592ad8d4bde1a29d2",
+        "crc32": "1889cee6"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-04-01).bin",
+      "filesize": 52115616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2acd3a0fca67149acca4a9368cd5beb",
+        "sha1": "f0d7c6a4dab977d8288de7a8d1a324721efb33ad",
+        "crc32": "d3da74a4"
+      }
+    }
+  ]
+}

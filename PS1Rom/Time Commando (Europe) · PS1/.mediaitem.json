@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Time Commando (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Time Commando (Europe).cue",
+      "filesize": 330,
+      "ext": "cue",
+      "checksums": {
+        "md5": "421a5beee4541eaa7ec5305cc11276d0",
+        "sha1": "9b6650a804ebc496b5f1676c2259b9d8a89d462a",
+        "crc32": "afbed871"
+      }
+    },
+    {
+      "filename": "Time Commando (Europe) (Track 1).bin",
+      "filesize": 470388240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd42ce450933dfdfda205e43b0b95d6f",
+        "sha1": "b20e4a5292348dd747781c3ed01990eae6c074aa",
+        "crc32": "43e91387"
+      }
+    },
+    {
+      "filename": "Time Commando (Europe) (Track 2).bin",
+      "filesize": 33391344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59ed7ec7e7ba0c121a9b54b0bcff1dbc",
+        "sha1": "decebbbec77b8b7f8928d22a1fc1a892e9ce1a73",
+        "crc32": "334ed9ee"
+      }
+    },
+    {
+      "filename": "Time Commando (Europe) (Track 3).bin",
+      "filesize": 33734736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2772c393d976c2ef0243aef9bc11e6a",
+        "sha1": "545ea703b5343de0dee8c318266020a29dcc35c0",
+        "crc32": "76194368"
+      }
+    }
+  ]
+}

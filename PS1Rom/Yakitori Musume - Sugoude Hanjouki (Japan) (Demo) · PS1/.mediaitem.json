@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yakitori Musume - Sugoude Hanjouki (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yakitori Musume - Sugoude Hanjouki (Japan) (Demo).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f45283255a32e309d57ea3a15d7baef2",
+        "sha1": "f36d6203d4c8d3dd37ebf1126f6b8535721b34f4",
+        "crc32": "ac93e678"
+      }
+    },
+    {
+      "filename": "Yakitori Musume - Sugoude Hanjouki (Japan) (Demo).bin",
+      "filesize": 191704464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ad55a20ad225848bfc7c56e118b3bf7",
+        "sha1": "14b3830f46546f1d45f6de4afe8a022dd1eb3042",
+        "crc32": "d4b6608e"
+      }
+    }
+  ]
+}

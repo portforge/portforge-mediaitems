@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Woody Woodpecker no Go! Go! Racing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Woody Woodpecker no Go! Go! Racing (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "10ff1b813f254d9aad21c1d236a53b06",
+        "sha1": "9731b8a24cc826c28b9741b0d72b8e1135ad571a",
+        "crc32": "0c2d685d"
+      }
+    },
+    {
+      "filename": "Woody Woodpecker no Go! Go! Racing (Japan).bin",
+      "filesize": 130016208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e44a939eeb6f92f90c3d6dd536b8177e",
+        "sha1": "078608160aadf8e8dedc9293ba9f8f59f3fb30b1",
+        "crc32": "35c6c9ab"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PS-X-Change Version 2.0 (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PS-X-Change Version 2.0 (USA) (Unl).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b827cebe98f3dfddb2d3f3afd70c2b7",
+        "sha1": "1ca729f43ef68aaad9c38e94630358cc89ca8aa8",
+        "crc32": "96d98e0d"
+      }
+    },
+    {
+      "filename": "PS-X-Change Version 2.0 (USA) (Unl).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3819671a0ac2cffd984973e9fce08753",
+        "sha1": "488233394f5a44280340d826d473a2b3578f47af",
+        "crc32": "5f60e9e9"
+      }
+    }
+  ]
+}

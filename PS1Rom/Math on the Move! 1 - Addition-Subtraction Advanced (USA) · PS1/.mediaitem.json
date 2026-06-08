@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Math on the Move! 1 - Addition-Subtraction Advanced (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Math on the Move! 1 - Addition-Subtraction Advanced (USA).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f7282400c1da11a0380686960881001",
+        "sha1": "6811225c9faf2b4a84137fc8145a38edd652a8dd",
+        "crc32": "c397c1d3"
+      }
+    },
+    {
+      "filename": "Math on the Move! 1 - Addition-Subtraction Advanced (USA).bin",
+      "filesize": 625973040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c886666c94f21c83ad4c6368ab093e95",
+        "sha1": "ab3565fceca120ee28f65d7d47499c48f8d325cb",
+        "crc32": "dbfe1e9e"
+      }
+    }
+  ]
+}

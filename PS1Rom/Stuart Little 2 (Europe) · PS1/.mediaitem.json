@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Stuart Little 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Stuart Little 2 (Europe).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "698eaf3beca1fbc5474835894adfbfb9",
+        "sha1": "db7329031fedafa2cc580fbc61c49705c417585f",
+        "crc32": "41f14a53"
+      }
+    },
+    {
+      "filename": "Stuart Little 2 (Europe).bin",
+      "filesize": 621643008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "708341134d3f6f6bc60e69195d618ee2",
+        "sha1": "eb5ebf5ff8b154fab2b83dd88560ec215bb3a946",
+        "crc32": "fdf5977d"
+      }
+    }
+  ]
+}

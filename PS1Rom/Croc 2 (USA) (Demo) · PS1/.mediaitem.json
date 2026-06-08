@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Croc 2 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Croc 2 (USA) (Demo).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e7c0c8ea6a98861b7f54985f78a30c0d",
+        "sha1": "125289124d85428150ac8f8dfd12da1abe255f86",
+        "crc32": "8d64e758"
+      }
+    },
+    {
+      "filename": "Croc 2 (USA) (Demo).bin",
+      "filesize": 70769328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa365ca0b09e896ff182399eb1a58a53",
+        "sha1": "a03b375c9da59ea752f2a1e6900b25107fd60722",
+        "crc32": "9a5f1c52"
+      }
+    }
+  ]
+}

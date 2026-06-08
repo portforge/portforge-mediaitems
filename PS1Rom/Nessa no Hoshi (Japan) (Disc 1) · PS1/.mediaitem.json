@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nessa no Hoshi (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1).cue",
+      "filesize": 982,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e14c8849fb679dee34e0bee0f9c5faec",
+        "sha1": "8bafa3e71e392ceb656a6d435f99444f5e0d0678",
+        "crc32": "04ae2aeb"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 633094896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ce55648348c043d96e890c20dc9a66b",
+        "sha1": "2f10185fb8c7e1b175e48c5158e02a2d936e85f6",
+        "crc32": "696dbcba"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 13039488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb5c57b6897f76926d36762dae8b02a4",
+        "sha1": "672a51d68f52f4cbc72673d862e74c6725eae9b9",
+        "crc32": "13fc87f8"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 16297008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "317776a5d9ba5d09e4d38b873d9cb58b",
+        "sha1": "18f8f47e1b927023aaaea3a4375fa3d78ad6d172",
+        "crc32": "b8067c94"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 4).bin",
+      "filesize": 13930896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "983a4ac9376e9c6a173d482dc9ba4d44",
+        "sha1": "fd121c1dcb47c65652607010c2700c0810df2fc7",
+        "crc32": "e476b2b1"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 5).bin",
+      "filesize": 13418160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29663939292c630c75ee8b691fc988e0",
+        "sha1": "40b1894eef1b7a2977ce587dbc73ef45e51f8b96",
+        "crc32": "cdeb308c"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 6).bin",
+      "filesize": 15024576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b30bf163a4184f76aaeed03ca8bc29a2",
+        "sha1": "4a7c2246cafb223a704be908f7cd6860a7d27546",
+        "crc32": "f2b7b8fc"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 7).bin",
+      "filesize": 6049344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49e82d6368c7ec8f57fe19257a2b93e7",
+        "sha1": "60291e42579bb0277178dfaac98fb9043aafc33d",
+        "crc32": "41e49505"
+      }
+    },
+    {
+      "filename": "Nessa no Hoshi (Japan) (Disc 1) (Track 8).bin",
+      "filesize": 16028880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "582e1cada16941fac8ef6d733788c251",
+        "sha1": "da793ddc059e7099eaecfac17899490c2b0b0a55",
+        "crc32": "df5b1881"
+      }
+    }
+  ]
+}

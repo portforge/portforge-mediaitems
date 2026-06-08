@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Akagawa Jirou - Yasoukyoku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Akagawa Jirou - Yasoukyoku (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e293090009e509025ca2a15138f9f55",
+        "sha1": "47a688fb7bd7a17c365f08ba59c82375565ec37d",
+        "crc32": "dcdaab65"
+      }
+    },
+    {
+      "filename": "Akagawa Jirou - Yasoukyoku (Japan).bin",
+      "filesize": 325385088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "199c3f2d88c1852733804c4dab8d7a09",
+        "sha1": "e3ad03d43f09e9e7d3170bd6cb9ca837d3002e24",
+        "crc32": "e0489b40"
+      }
+    }
+  ]
+}

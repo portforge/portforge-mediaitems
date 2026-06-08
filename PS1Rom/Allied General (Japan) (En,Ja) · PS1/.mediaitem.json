@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Allied General (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Allied General (Japan) (En,Ja).cue",
+      "filesize": 974,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14283837f2280ab727e2a315ab71ef2d",
+        "sha1": "3263e257ead925b66800a4d23e61b3873cc30ba0",
+        "crc32": "7d2a7f6e"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 1).bin",
+      "filesize": 320683440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e67f89a7479080136cca1da009348804",
+        "sha1": "ac778357eddf400a943e96b0f7febd074086ceab",
+        "crc32": "007e3fc1"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 2).bin",
+      "filesize": 28318080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f909fe23d7df148687d0ba8035d21ed",
+        "sha1": "0193b7ca6ca05cac5c399aa26964080e911a2f60",
+        "crc32": "da9e7d82"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 3).bin",
+      "filesize": 49312032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76a492ef3e24d00ca6634b2fafc5c8b2",
+        "sha1": "02595052b3b72c10caade0724ea2da51ae6b7f11",
+        "crc32": "2fdf0098"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 4).bin",
+      "filesize": 30872352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5c0019dae16793b5af13d634f2a0622",
+        "sha1": "3c2c7c17303ff728efbc52c3fcbd13613783fb38",
+        "crc32": "706c5ee0"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 5).bin",
+      "filesize": 12218640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd9f2d06610b28fe4f2ffb9043877e71",
+        "sha1": "37e0a40ad6da1cf9ca3d65f76d685b7051b330c5",
+        "crc32": "bd466f34"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 6).bin",
+      "filesize": 43573152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f57c364b91c3b9d168bda1496bb3c0a",
+        "sha1": "5daf64d1345a3122d157b9b8bb55c87809d91bbd",
+        "crc32": "ddec7810"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 7).bin",
+      "filesize": 11778816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfed96848db5060c499ecf0958526ec9",
+        "sha1": "80e498e6b3f3003ab9329dfa04e7279283a09774",
+        "crc32": "9c7ca2c3"
+      }
+    },
+    {
+      "filename": "Allied General (Japan) (En,Ja) (Track 8).bin",
+      "filesize": 28318080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f909fe23d7df148687d0ba8035d21ed",
+        "sha1": "0193b7ca6ca05cac5c399aa26964080e911a2f60",
+        "crc32": "da9e7d82"
+      }
+    }
+  ]
+}

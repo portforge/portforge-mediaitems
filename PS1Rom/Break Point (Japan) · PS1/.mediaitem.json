@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Break Point (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Break Point (Japan).cue",
+      "filesize": 660,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45d0b11695008f138edaf65a344794ed",
+        "sha1": "8378faeee77f972e2926272158fc37da57f1b2e5",
+        "crc32": "c84cd3ba"
+      }
+    },
+    {
+      "filename": "Break Point (Japan) (Track 1).bin",
+      "filesize": 12877200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39174a1a74fc1b8023b6e4c15653827a",
+        "sha1": "e0a9b43d84653be0828c7604ff6ec48a6ec13a3e",
+        "crc32": "63a70bac"
+      }
+    },
+    {
+      "filename": "Break Point (Japan) (Track 2).bin",
+      "filesize": 23160144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68e330c42ebe5f11eab12945d51b66ca",
+        "sha1": "139be96cdf7166aacc7558da1e5d10bf23a72771",
+        "crc32": "8a3bc80a"
+      }
+    },
+    {
+      "filename": "Break Point (Japan) (Track 3).bin",
+      "filesize": 23019024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b47d68f6765423015e360328a6699315",
+        "sha1": "141fce4fb12fe8d2a62d976007f83afde4804eba",
+        "crc32": "b0032c18"
+      }
+    },
+    {
+      "filename": "Break Point (Japan) (Track 4).bin",
+      "filesize": 23117808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d752b138adcefff7aae3ec0f257d4b6d",
+        "sha1": "4a79d6dcfc8d0c78d28ddb93c64f702d403abe1c",
+        "crc32": "2317d5be"
+      }
+    },
+    {
+      "filename": "Break Point (Japan) (Track 5).bin",
+      "filesize": 23084880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12a89f6b2724fae5a91e608f1636570e",
+        "sha1": "e6c7e018b4e1ae5a326ef387214691533dd48546",
+        "crc32": "a0812937"
+      }
+    },
+    {
+      "filename": "Break Point (Japan) (Track 6).bin",
+      "filesize": 38704512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e1a07dc4f41b989319e2a3360ff8a64",
+        "sha1": "010009d703d6ff68488e30a4bc3d58cc86f97904",
+        "crc32": "602229b1"
+      }
+    }
+  ]
+}

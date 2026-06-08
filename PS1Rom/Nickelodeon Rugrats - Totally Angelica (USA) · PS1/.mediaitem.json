@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Rugrats - Totally Angelica (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Rugrats - Totally Angelica (USA).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "815207b3b7566ebe216b724d78bc4c27",
+        "sha1": "c13c4a7f945ee53a8d3d9198c90d5125b9103eda",
+        "crc32": "d8ae82be"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats - Totally Angelica (USA).bin",
+      "filesize": 179746896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51ec0a9bf1e8ec782f4b645b0c39774c",
+        "sha1": "0cd97c62dc61f7b79dc8e179346972c838b89f9c",
+        "crc32": "f7c7b599"
+      }
+    }
+  ]
+}

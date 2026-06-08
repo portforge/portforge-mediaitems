@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next Demo 4 (Italy) (En,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next Demo 4 (Italy) (En,It).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d471f633d5faabefaf7f3b44672ee678",
+        "sha1": "d69d1bc0914b0ff1aef4688541231e9441d453a3",
+        "crc32": "c9d41fa7"
+      }
+    },
+    {
+      "filename": "Next Demo 4 (Italy) (En,It) (Track 1).bin",
+      "filesize": 719855472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c6417dd72032ab57293835d7f9716bf",
+        "sha1": "6964d6d2b98159ccda90cc1261ed95d249550da0",
+        "crc32": "2d056682"
+      }
+    },
+    {
+      "filename": "Next Demo 4 (Italy) (En,It) (Track 2).bin",
+      "filesize": 32123616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9178adaf1dd9318bedcdcbd28ef3306b",
+        "sha1": "6d2f223bbfa91189961f217fd7dc5b2b5537c77d",
+        "crc32": "8eaf8678"
+      }
+    }
+  ]
+}

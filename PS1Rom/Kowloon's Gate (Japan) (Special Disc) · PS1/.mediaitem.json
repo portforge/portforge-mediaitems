@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kowloon's Gate (Japan) (Special Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kowloon's Gate (Japan) (Special Disc).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3fac5d476448b2c14b359bd9443774d2",
+        "sha1": "e5795f8486d7b1824d5e8aad8b7421059610960f",
+        "crc32": "b6ab06c0"
+      }
+    },
+    {
+      "filename": "Kowloon's Gate (Japan) (Special Disc).bin",
+      "filesize": 464233056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2ddbafbc0b1b23a25067c0014816f36",
+        "sha1": "cf2d6b6091be568c42e265e87a24f79651e09749",
+        "crc32": "c5c97402"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Stadium 5 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Stadium 5 (Japan).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "09925972c4157df11f3e747a5a960558",
+        "sha1": "8183bcefe1c7600ec249d728e7a34868eefced76",
+        "crc32": "72b4935a"
+      }
+    },
+    {
+      "filename": "World Stadium 5 (Japan) (Track 1).bin",
+      "filesize": 400724352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c907d36cb1df3c1ca1295b47bc7331a",
+        "sha1": "756f77dfa4f7026265878fa0e31b00edd6921836",
+        "crc32": "0f984708"
+      }
+    },
+    {
+      "filename": "World Stadium 5 (Japan) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

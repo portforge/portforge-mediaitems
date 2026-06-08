@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King's Field (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King's Field (Europe) (En,Fr,De).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cb26b7c023fe00ea12dcc49202f67eb0",
+        "sha1": "cef9b8c7205552d0d259ac02839707ba03fa1aff",
+        "crc32": "29edd0e3"
+      }
+    },
+    {
+      "filename": "King's Field (Europe) (En,Fr,De).bin",
+      "filesize": 375748464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a5e9292a4e1f2d1866773e21a6d4921",
+        "sha1": "5267eac38f95e398bfe5f45d4b97d3711df5da76",
+        "crc32": "11bab373"
+      }
+    }
+  ]
+}

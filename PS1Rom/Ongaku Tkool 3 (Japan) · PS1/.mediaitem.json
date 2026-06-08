@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ongaku Tkool 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ongaku Tkool 3 (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d180954defdc37024b129cb10ca1727",
+        "sha1": "867bce75d64bc8356e2be526d1cc8c7d2f249b39",
+        "crc32": "04e0722b"
+      }
+    },
+    {
+      "filename": "Ongaku Tkool 3 (Japan).bin",
+      "filesize": 51779280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e2a4416e6dfad9e4015e75d238cac0e",
+        "sha1": "2edbbd2f7c79f65e36e44815469ff0e453329e0c",
+        "crc32": "c0be067e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mort the Chicken (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mort the Chicken (Europe).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "07cbf3fefcc097119b81aa0b1f089a0e",
+        "sha1": "b2185b117f961edd64ad09a6f82d26abdd696a27",
+        "crc32": "a3ab4fba"
+      }
+    },
+    {
+      "filename": "Mort the Chicken (Europe).bin",
+      "filesize": 606345600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be1d3a50547d100712b1dd00f1a7f1eb",
+        "sha1": "d34ad7e449c46faed3cc640b30b4bcaf203aab53",
+        "crc32": "b9e63870"
+      }
+    }
+  ]
+}

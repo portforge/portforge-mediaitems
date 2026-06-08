@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Boys Be... 2nd Season (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Boys Be... 2nd Season (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa128d256c5c6981c1981ab0ea8b3449",
+        "sha1": "14d9de714689af1812b909b11c6c06dd2b67ea12",
+        "crc32": "93f5d2e2"
+      }
+    },
+    {
+      "filename": "Boys Be... 2nd Season (Japan).bin",
+      "filesize": 734677776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "572bba0e2f04325cba90a1d8fcbcb72b",
+        "sha1": "5be6e0cf4fdd400d82c05eda63f69faece290391",
+        "crc32": "bd16b317"
+      }
+    }
+  ]
+}

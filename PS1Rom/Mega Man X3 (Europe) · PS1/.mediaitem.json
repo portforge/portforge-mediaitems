@@ -1,0 +1,337 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mega Man X3 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mega Man X3 (Europe).cue",
+      "filesize": 3662,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6132b6cdf2b0c79b3e4c0264a4c8b528",
+        "sha1": "8a52d338e3fe2976ca2ef73e427fc595a54ef242",
+        "crc32": "d9d4a95a"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 01).bin",
+      "filesize": 236065536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a26485cfe274b26189984c66cdc18396",
+        "sha1": "fd61bd5bc9d3eae20bbb26020cf7e6a54c015d8d",
+        "crc32": "9110886c"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 02).bin",
+      "filesize": 18496128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89704aeabecb978f82310a82ead1ea6c",
+        "sha1": "e21ffe514ed409f16ff06a336cc607ea32f467d2",
+        "crc32": "8a76df3b"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 03).bin",
+      "filesize": 20913984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2101b3648da8ad6bda503427806b87d5",
+        "sha1": "e61aa584fd1ffee6abe0fb5ddf65650c680e58a2",
+        "crc32": "87be6052"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 04).bin",
+      "filesize": 2344944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d112bc79376f28149673241aa464c2c6",
+        "sha1": "e71da8d7fb9d534578639858ac7a180e56e2826a",
+        "crc32": "16738267"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 05).bin",
+      "filesize": 5153232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea5aba6dab35626a3ba95cd2749143f2",
+        "sha1": "e9b5bcb4c4e6659e6a9434d8aebd22672a1c99b2",
+        "crc32": "cf1ad2d7"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 06).bin",
+      "filesize": 1279488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4d3c4891d658b2569e6b619168f67bc",
+        "sha1": "169d5afe7ec3aa0a9ee9825d9ca4842ad31d6423",
+        "crc32": "30fde492"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 07).bin",
+      "filesize": 19853232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a75f291266af4825c271f2defdfebeb",
+        "sha1": "408e9fab1f9b5e46e87dea038d329f3d2cb946b0",
+        "crc32": "2eddab77"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 08).bin",
+      "filesize": 19773264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e392ca9a1c7361554473b0862f588cf",
+        "sha1": "ff14c4c4cf777af48abd0adf1bd2cc8328cbe272",
+        "crc32": "42a215cf"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 09).bin",
+      "filesize": 19777968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03792345b1c61e2045c3ddd205096c42",
+        "sha1": "3cacd7877a2af33853c62ab9528d6252904d3ee4",
+        "crc32": "def5adee"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 10).bin",
+      "filesize": 21596064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a843eed1f04abd2d44ddb213f1aa6160",
+        "sha1": "6006c4dc1bd3fbdd125cfe7ce9960bed66c16277",
+        "crc32": "63ec7fe1"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 11).bin",
+      "filesize": 22696800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e93d718cab75b88fc08f3026c3f3190b",
+        "sha1": "c91ec651e412ecb4a1e2865b70eed08c1ce2549b",
+        "crc32": "f313ed94"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 12).bin",
+      "filesize": 22299312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9ecab1eabeaa47ed12f70ba502988aa",
+        "sha1": "08eb1aa6e44cd4fceb700a34469c8759e53dc44b",
+        "crc32": "b56dc1a8"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 13).bin",
+      "filesize": 20173104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "796c1fea85a898e697f594c7844bbc16",
+        "sha1": "a55b2111365b0c189c42b72f1e6432bebeaa9512",
+        "crc32": "a9a24c18"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 14).bin",
+      "filesize": 21786576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8706dccf1b9d26d2fa5926df65521c3c",
+        "sha1": "4f765118df8c0f7274ded4955c297fbadcf2ce4b",
+        "crc32": "fb3430f5"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 15).bin",
+      "filesize": 7858032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cb7f71608df90eda73927417e38826d",
+        "sha1": "d82b7889c9c6fd980584a42749ceba9b9571a1d7",
+        "crc32": "49f655fc"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 16).bin",
+      "filesize": 15351504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1db0be35b45f055d1d120187e613a5af",
+        "sha1": "71ef60557fafa7f6bff6da55a74f7a17551aa414",
+        "crc32": "87f82a78"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 17).bin",
+      "filesize": 18223296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1b90b9ec7a7b4f9ff1aa70215ac80c4",
+        "sha1": "b62cd9efe684fda382fbf7ecee5a9ab1ee632c3c",
+        "crc32": "1d8ffeaf"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 18).bin",
+      "filesize": 17482416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72def07c3304ccbeb7e03ecc2508369c",
+        "sha1": "fcc8c7a7ad97b2c009ce1d04bce0c39e3dde7932",
+        "crc32": "f6cc5fa1"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 19).bin",
+      "filesize": 9436224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65599654a30dda390bbdf1735292dd80",
+        "sha1": "a3c906b50f8e0808c79b5a6f319392f1a5dafc6f",
+        "crc32": "765a0765"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 20).bin",
+      "filesize": 12978336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f39ad178133d9ace4dce4cb1dc86eee",
+        "sha1": "6d582edf1fad7f48553416f319da5ad2817c2759",
+        "crc32": "c2568f1d"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 21).bin",
+      "filesize": 24354960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da666ed17dee9e38b8a687e6bc7c8b28",
+        "sha1": "90cb9d88835581b581aa26c786752f374c86ae9f",
+        "crc32": "4bb684fc"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 22).bin",
+      "filesize": 20704656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27c5546060a7996bb65a6cd1f3493bbb",
+        "sha1": "1f3c026f77331f3f907763e291d04a636268c03c",
+        "crc32": "9090774d"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 23).bin",
+      "filesize": 10925040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48ac2517cc4a86f37fe5a6de49da4785",
+        "sha1": "6aa1fb423d83b1aaebd9f08b924067b7795818f5",
+        "crc32": "95e2d503"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 24).bin",
+      "filesize": 24063312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fee85d1f1fea7c3672eae7ae6e40c7c",
+        "sha1": "1e5a3738bb84753f2d0ff983d9e5badc3ee3d16e",
+        "crc32": "8ac0cade"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 25).bin",
+      "filesize": 13566336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e368cecdad245eb0c7e113cb2cf7def2",
+        "sha1": "c179236c996fd2395d0a8bad132b0aff5e313be4",
+        "crc32": "239a46c3"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 26).bin",
+      "filesize": 8650656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01879ce86cc08590dd9c953c8805e310",
+        "sha1": "a7cc7fb505adcb06d333d5dd0f10d516ae2787aa",
+        "crc32": "fede68db"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 27).bin",
+      "filesize": 3492720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b23534956efbb27dd3be481e91c1b079",
+        "sha1": "7e761411a979a35fc1f2af239c477e88a13167f8",
+        "crc32": "6eed62f2"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 28).bin",
+      "filesize": 12077520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38c960bf9cd207e5aed8cf12853390b5",
+        "sha1": "e5a2bee4c73a7d3c8d9282d669144c24b29f216e",
+        "crc32": "97708cb0"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 29).bin",
+      "filesize": 20043744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c330bcc292381e4fffd9913fca1ae49",
+        "sha1": "f61c1889fd98401d8f7e655516917c219e110399",
+        "crc32": "3df8f2e0"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 30).bin",
+      "filesize": 4294752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd4e80d9e0dedd61481597c392fe7d7c",
+        "sha1": "184d40c778ca6fbef5122d02137894dceaf60315",
+        "crc32": "ba119e03"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 31).bin",
+      "filesize": 23400048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db8eddfc4f7167899a34c33718896284",
+        "sha1": "2e8fb6c55531f57eed33040f352ce5320eb2fc6a",
+        "crc32": "ba176c40"
+      }
+    },
+    {
+      "filename": "Mega Man X3 (Europe) (Track 32).bin",
+      "filesize": 21520800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b3958e4fccd454b9e37fdef25babe58",
+        "sha1": "bc556d54dc5fea009682adfe54537f952bd34a4a",
+        "crc32": "579eeeee"
+      }
+    }
+  ]
+}

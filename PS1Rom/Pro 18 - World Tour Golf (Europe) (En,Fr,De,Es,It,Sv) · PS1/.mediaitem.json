@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro 18 - World Tour Golf (Europe) (En,Fr,De,Es,It,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro 18 - World Tour Golf (Europe) (En,Fr,De,Es,It,Sv).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdb32d55b599aed248d5eb6224c71e0f",
+        "sha1": "f1a712a586a448b63ca5988fe74b8e887ba2d0b1",
+        "crc32": "a2b8396a"
+      }
+    },
+    {
+      "filename": "Pro 18 - World Tour Golf (Europe) (En,Fr,De,Es,It,Sv) (Track 1).bin",
+      "filesize": 661652880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee616cfac8e33a9798d188d1a5c90859",
+        "sha1": "86d3790ec694b07d47bd01f2e18f4f034f22f5cf",
+        "crc32": "4dd35372"
+      }
+    },
+    {
+      "filename": "Pro 18 - World Tour Golf (Europe) (En,Fr,De,Es,It,Sv) (Track 2).bin",
+      "filesize": 34353312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6891f66e10fb8a98c32bb16eda468e84",
+        "sha1": "da67db9cf93ca621de08cb38981863b9071446de",
+        "crc32": "74089551"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Freestyle Scooter (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Freestyle Scooter (Europe).cue",
+      "filesize": 1062,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03f7206b8d71ed25d709dc5c8b5a49e8",
+        "sha1": "6fd82a3c7446547f47c83f294dbeff7a41020528",
+        "crc32": "1b5266fd"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 1).bin",
+      "filesize": 256770192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ec6aeb7c7114ae39c66a44151a12104",
+        "sha1": "7adb0368927763c4e100e8cae70c97542816cb52",
+        "crc32": "a77c1f77"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 2).bin",
+      "filesize": 29599920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6fe5023cb3ccd21781865c89372d8592",
+        "sha1": "4154cfaa30033d69d1bf7ea2decef703569d3f6e",
+        "crc32": "a939b600"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 3).bin",
+      "filesize": 38165904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e6d24bb063e3bca6a2887690e8d1690",
+        "sha1": "49de817399c723362f8dd243d32f75a3e68ec177",
+        "crc32": "9c879568"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 4).bin",
+      "filesize": 50492736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "caa4a7fdfaba6630f03d8cef02424aad",
+        "sha1": "874725f24e7e5e87ac34488b8f936ad25abbbd34",
+        "crc32": "cf260c89"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 5).bin",
+      "filesize": 44396352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df3fa7609ef1e3ffe5cac83f4cc5f33f",
+        "sha1": "dd72f7984d7d79194de1bf35768be0c42ec09dd0",
+        "crc32": "6efd7768"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 6).bin",
+      "filesize": 39638256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5eb84285dd3e02cea0999f10c434f16f",
+        "sha1": "e91cde779134dd7491070dbbe2dd478cbaa5e873",
+        "crc32": "c151e2ba"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 7).bin",
+      "filesize": 33261984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "958aac6c97dc12c9bbf9c25852062faa",
+        "sha1": "a6746ca4b120655fed5c954060d250b8a22adb00",
+        "crc32": "25e557ff"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 8).bin",
+      "filesize": 23301264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb3deed014c02e7bf50571639c80d777",
+        "sha1": "338244aca8cb34b8c7bc7db38d79a646570a4670",
+        "crc32": "b361fd93"
+      }
+    },
+    {
+      "filename": "Freestyle Scooter (Europe) (Track 9).bin",
+      "filesize": 40270944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55ca827bbfcac020a040cd96b28b85cb",
+        "sha1": "ac92583aa8b7b60bd4233609faa9aac01c01d34b",
+        "crc32": "d90ed894"
+      }
+    }
+  ]
+}

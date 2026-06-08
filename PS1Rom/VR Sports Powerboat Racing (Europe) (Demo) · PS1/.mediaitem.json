@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "VR Sports Powerboat Racing (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "VR Sports Powerboat Racing (Europe) (Demo).cue",
+      "filesize": 390,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c72c7128f0e8f92e498cc383d4ee3d0",
+        "sha1": "23e34c0be62f9f436ab32523c0b5c34695f7a2c8",
+        "crc32": "9f7e6519"
+      }
+    },
+    {
+      "filename": "VR Sports Powerboat Racing (Europe) (Demo) (Track 1).bin",
+      "filesize": 12439728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce0078df360d51bb2acfdcf07f13a45a",
+        "sha1": "86550367b8f4b88a90f95a356ea0ed260f9173fb",
+        "crc32": "d9207c71"
+      }
+    },
+    {
+      "filename": "VR Sports Powerboat Racing (Europe) (Demo) (Track 2).bin",
+      "filesize": 31418016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed549db7e16d0db82c8d6ef771117344",
+        "sha1": "1a866a56e31215bb2da72fa3076925ff7c4d2001",
+        "crc32": "9400fc9f"
+      }
+    },
+    {
+      "filename": "VR Sports Powerboat Racing (Europe) (Demo) (Track 3).bin",
+      "filesize": 31803744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f54c04246b538ae0d156ade0877c816",
+        "sha1": "e3efa6ac57c1cddf542f8cee35ba7b6f908fcda7",
+        "crc32": "e0688335"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "D (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "D (Germany) (Disc 1).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "930f7334a6f21e82348b8c98e69c6deb",
+        "sha1": "9762824e4c3718fbd902274ffd54d29979b03e2c",
+        "crc32": "277d0ad9"
+      }
+    },
+    {
+      "filename": "D (Germany) (Disc 1) (Track 1).bin",
+      "filesize": 629275248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "440624fdcb5b834fc2490608cf80bb00",
+        "sha1": "bf472276650fdd2b91d96b6ee8d5ba709b061b2e",
+        "crc32": "e9b47bec"
+      }
+    },
+    {
+      "filename": "D (Germany) (Disc 1) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7902e4c790ab0bea94387895f968272a",
+        "sha1": "3d50be42eb7e2dc2d169500b4d66d850cfd2451c",
+        "crc32": "98bdb862"
+      }
+    }
+  ]
+}

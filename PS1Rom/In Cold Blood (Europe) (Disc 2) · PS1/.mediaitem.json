@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "In Cold Blood (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "In Cold Blood (Europe) (Disc 2).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5441f1759110def757ea54542acce485",
+        "sha1": "ecf0546ff192f41adf5406aa154f56925280b509",
+        "crc32": "524e8d3c"
+      }
+    },
+    {
+      "filename": "In Cold Blood (Europe) (Disc 2).bin",
+      "filesize": 656287968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5222a5b439581482afdbac75c5a94b3b",
+        "sha1": "2065d46dedb30a3711f5faa967bb1ae03c8f1c07",
+        "crc32": "ea4ea988"
+      }
+    }
+  ]
+}

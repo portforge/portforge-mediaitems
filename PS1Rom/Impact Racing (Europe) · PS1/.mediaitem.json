@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Impact Racing (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Impact Racing (Europe).cue",
+      "filesize": 1152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86032d75995af5bdfd68e03cdfb0aef4",
+        "sha1": "e763fef66917cd59859683a01c878eb108e1986b",
+        "crc32": "16beba2d"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 01).bin",
+      "filesize": 66928512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54edbdad6a7e8d4fe8c3db4022c28c27",
+        "sha1": "85d5a680d909cf9c62b73015eabb3aa4f02c9046",
+        "crc32": "b6b3c7b2"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 02).bin",
+      "filesize": 27370224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e5be03422552b1c67f94a46f109ec9c",
+        "sha1": "b2922015196f6542397120f480bb9d1823028987",
+        "crc32": "783ab007"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 03).bin",
+      "filesize": 32843328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1444c27ee667d0452f5c6a256447354",
+        "sha1": "8da4701d4b7ecd2b0bb9e15979693f91cfc0c9ac",
+        "crc32": "d93c4698"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 04).bin",
+      "filesize": 73692864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fb2e13846a4a4c489ee10a0627552e2",
+        "sha1": "1f9f1ec1c11a69380130c5e92b8e7badcd76f50b",
+        "crc32": "a5dbe967"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 05).bin",
+      "filesize": 67300128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d4687ef9b53e7babfbedf2a9bff8740",
+        "sha1": "dce1aadf803e197320c862bf33571994b861688c",
+        "crc32": "687eb83a"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 06).bin",
+      "filesize": 54140688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a622540590962b31ada2c70363186704",
+        "sha1": "b06dbd953839950516d713c436edd2fc425f0fe3",
+        "crc32": "146a3a56"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 07).bin",
+      "filesize": 66208800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed5566d1823004f0de10f366d62c7842",
+        "sha1": "0a5985e61a7c8a2b9669d04ebbfd7e7ce3409824",
+        "crc32": "0a71e87f"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 08).bin",
+      "filesize": 44843232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20f9725cb8589db8ba9021aa74c17540",
+        "sha1": "4c15d845bcd0c0fe9313e99b76f4f1df4cbacbe4",
+        "crc32": "72352993"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 09).bin",
+      "filesize": 45527664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b68477405fe0f998d3e77108c95043b4",
+        "sha1": "e7654b4f9c717d718eab773c2f8c4d3c57136b07",
+        "crc32": "ea0b5d1e"
+      }
+    },
+    {
+      "filename": "Impact Racing (Europe) (Track 10).bin",
+      "filesize": 62657280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b40dc5143c9a2ecd280345ee9eed3dda",
+        "sha1": "8b2644b491dcb561682200fd047a7c59b4f5b7f4",
+        "crc32": "c079fe6d"
+      }
+    }
+  ]
+}

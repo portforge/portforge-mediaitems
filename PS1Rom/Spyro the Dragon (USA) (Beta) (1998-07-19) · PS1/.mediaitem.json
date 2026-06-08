@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro the Dragon (USA) (Beta) (1998-07-19)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro the Dragon (USA) (Beta) (1998-07-19).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74ee33dc51b67e3a6855167e3f2d21a1",
+        "sha1": "e7213db380054025d40db9ff4910fc1abfba7041",
+        "crc32": "aa40ad08"
+      }
+    },
+    {
+      "filename": "Spyro the Dragon (USA) (Beta) (1998-07-19).bin",
+      "filesize": 551809776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9a1940d63b264e7d175ca70850c1766",
+        "sha1": "0c0145b1523c5e3a7436a7ae4e78ad13d112c277",
+        "crc32": "390e42f9"
+      }
+    }
+  ]
+}

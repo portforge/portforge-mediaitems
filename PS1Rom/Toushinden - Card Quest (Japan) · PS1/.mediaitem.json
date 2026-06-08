@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Toushinden - Card Quest (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Toushinden - Card Quest (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e55a5a03cedf5d7229306ff3ff7b4b5",
+        "sha1": "3ed1d67379760006c25a091f3980543fd211f782",
+        "crc32": "92dcbfbb"
+      }
+    },
+    {
+      "filename": "Toushinden - Card Quest (Japan).bin",
+      "filesize": 371136192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3df7980cb65bb2365dc34cf35400c49",
+        "sha1": "8a2b9112cd21ca0f99b081e642fdba622e95d45f",
+        "crc32": "992f738d"
+      }
+    }
+  ]
+}

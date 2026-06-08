@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rhythm Beat (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rhythm Beat (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a98bf5da02b30a8c7c2a78f6bcded062",
+        "sha1": "f878b986875faacf0ac357ac087d915be6811a2e",
+        "crc32": "216c5690"
+      }
+    },
+    {
+      "filename": "Rhythm Beat (Europe).bin",
+      "filesize": 185598672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfc718cda01e871c8a6b761f920ee60f",
+        "sha1": "5b4a1053d80aa880ea11536bd1da8bf7d60190d4",
+        "crc32": "e5eb5f34"
+      }
+    }
+  ]
+}

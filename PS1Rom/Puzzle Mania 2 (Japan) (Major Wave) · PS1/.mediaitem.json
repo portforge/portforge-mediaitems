@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puzzle Mania 2 (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puzzle Mania 2 (Japan) (Major Wave).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc9ceef38b271098bd2ab3b0eec15e5a",
+        "sha1": "cb41bb6a1f5ae77204bb0dcb6deb9d259821da95",
+        "crc32": "bda0fb46"
+      }
+    },
+    {
+      "filename": "Puzzle Mania 2 (Japan) (Major Wave).bin",
+      "filesize": 37363872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82b88abaca2f2082015042f1a97f65b8",
+        "sha1": "601a87eaea447bd7d2363885fe4677ed2eff46e2",
+        "crc32": "c2989b38"
+      }
+    }
+  ]
+}

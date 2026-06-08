@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Evo's Space Adventures (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Evo's Space Adventures (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88be856dc2fe1f36a7d25670b1ef83f3",
+        "sha1": "1dbd6f9f2a182e5e7315c41e6acfc415bdc56a4b",
+        "crc32": "657b102d"
+      }
+    },
+    {
+      "filename": "Evo's Space Adventures (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 483891072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9857e55929b89b02b7b7b04c24763aaf",
+        "sha1": "958a9f1a2cd15c9b7b0e67338d4070c493054c28",
+        "crc32": "2649c3d5"
+      }
+    }
+  ]
+}

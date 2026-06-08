@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Perfect Assassin (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Perfect Assassin (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 259,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c54f63780cb29b3d744f1811b06c9c9",
+        "sha1": "db98d0b3275f4176812ff212d8f91659a9d61232",
+        "crc32": "15aa26db"
+      }
+    },
+    {
+      "filename": "Perfect Assassin (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 233229024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d8c8d11d493afec8b3e0cf9df27fb18",
+        "sha1": "0996968fdcb9fc8fd63a64fa52102864ad393d89",
+        "crc32": "4e7f6fb4"
+      }
+    },
+    {
+      "filename": "Perfect Assassin (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 232370544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04ce5d90492734ebc84ec6532cbcede3",
+        "sha1": "448237877678ed61f633d2f12a8da2721d646011",
+        "crc32": "ce07da48"
+      }
+    }
+  ]
+}

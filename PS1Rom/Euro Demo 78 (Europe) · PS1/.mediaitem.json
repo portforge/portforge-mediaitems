@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 78 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 78 (Europe).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "811470b464d32ebe1dcc595eb9ec7e2a",
+        "sha1": "67d1f2b615d17dd435ad0cb1fe0958cddc67f529",
+        "crc32": "7a00924c"
+      }
+    },
+    {
+      "filename": "Euro Demo 78 (Europe) (Track 1).bin",
+      "filesize": 544558560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d40951eb09316c69ec0f6505d0cc14c6",
+        "sha1": "d0e66535924b174d60778b01d5f5cd66351c34a4",
+        "crc32": "ec21fea1"
+      }
+    },
+    {
+      "filename": "Euro Demo 78 (Europe) (Track 2).bin",
+      "filesize": 44742096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f003dc949c3adb32623297f25e8e65a1",
+        "sha1": "27de9f1b4dbb893ee994c6fef00c8ff29eeca325",
+        "crc32": "305d867b"
+      }
+    },
+    {
+      "filename": "Euro Demo 78 (Europe) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

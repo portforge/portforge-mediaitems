@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nick Jr. Dora the Explorer - Barnyard Buddies (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nick Jr. Dora the Explorer - Barnyard Buddies (USA).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7039e6d7103152db876343f6b9be69ce",
+        "sha1": "d4b7e38261ad0fce6669cce87c53c7319fef6a79",
+        "crc32": "b1b13a8b"
+      }
+    },
+    {
+      "filename": "Nick Jr. Dora the Explorer - Barnyard Buddies (USA).bin",
+      "filesize": 670790400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe7c9a02be59188f634ca9d85e2e05ef",
+        "sha1": "815e8fd8691fba6d7d0cce140137aaf8b68ef8d1",
+        "crc32": "729f0590"
+      }
+    }
+  ]
+}

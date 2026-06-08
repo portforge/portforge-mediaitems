@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raging Skies (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De).cue",
+      "filesize": 1379,
+      "ext": "cue",
+      "checksums": {
+        "md5": "465c7f81eea90dfb65e00b8ecd531f6b",
+        "sha1": "4bce31cddde0d0aada05c4963eecd18aa5b0e25d",
+        "crc32": "9524c84c"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 01).bin",
+      "filesize": 103059936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f345b15a93f024d311db1d06e3896834",
+        "sha1": "8e38f03508436abb593e1bbaaa3890efadf2adc2",
+        "crc32": "7b754fb5"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 02).bin",
+      "filesize": 44789136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "284e64df19c7f0b14442eb0f6776b5f2",
+        "sha1": "05044500e1d6ae7d1c17f060b0e0be04b94aff48",
+        "crc32": "e0b3c71f"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 03).bin",
+      "filesize": 35851536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bff97de61a7136cbbca740cbaca51d3d",
+        "sha1": "58e2e821f78e323795dfe685c8edc20c0a4cbf54",
+        "crc32": "616b3e4c"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 04).bin",
+      "filesize": 22266384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b28701869c73e89378a386263d0a6c0",
+        "sha1": "71922dbaae089c5d5528c7fb02bf3a15613380c2",
+        "crc32": "2b78ebb3"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 05).bin",
+      "filesize": 21245616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5dceb4050c1d3d0e032f6afaf5b1c47d",
+        "sha1": "be9033a1cff30ebaba597efdaefbb1813e43c513",
+        "crc32": "06b8ce27"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 06).bin",
+      "filesize": 24529008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd58aaa52a805e33f95d206b84dace74",
+        "sha1": "97133901ebcbfad0de879fa895eac707776c074f",
+        "crc32": "1bcb800d"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 07).bin",
+      "filesize": 3981936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0621fc14c2edb7bd17f6e4bb189cb136",
+        "sha1": "01626b9a5b47b6f21d77b3348627cdf4d1f387c8",
+        "crc32": "aec9de91"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 08).bin",
+      "filesize": 2399040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77e245912820a569767b98a8287a223f",
+        "sha1": "f7db758c6f8036cf1dd921e35cc83ea4e6e22583",
+        "crc32": "c9a21dc5"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 09).bin",
+      "filesize": 32739840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33ceaf3f9bc2ecaa7c1d81939f7a377d",
+        "sha1": "b810f6ff9d819bb9cd5b205eb392222c4bb30c8a",
+        "crc32": "1ea99192"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 10).bin",
+      "filesize": 14149632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67999eb25e88c8bb7dd4db7c58bb7ac0",
+        "sha1": "b59327f8b0287791b1176b76ef6ff0de6bfca9e7",
+        "crc32": "ed4ddb3d"
+      }
+    },
+    {
+      "filename": "Raging Skies (Europe) (En,Fr,De) (Track 11).bin",
+      "filesize": 39866400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "096cd9f8017b991f3d25d050f522670f",
+        "sha1": "6801ed48b1b23b1bd4d9dcd847a2d41fcab2c0a3",
+        "crc32": "ffa2ce6f"
+      }
+    }
+  ]
+}

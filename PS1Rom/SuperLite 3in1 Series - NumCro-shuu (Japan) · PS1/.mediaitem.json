@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 3in1 Series - NumCro-shuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan).cue",
+      "filesize": 941,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8e87ae31861a99c2a904e17b187044b",
+        "sha1": "fa2484d1dfc70527b06e5a057221b55d6b347c30",
+        "crc32": "8a6f633f"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan) (Track 1).bin",
+      "filesize": 3083472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0dd14e243a5f85fbd60914b6836f66de",
+        "sha1": "dede4de09181024b19e1bdc8e887921de0b52b68",
+        "crc32": "3c045cca"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan) (Track 2).bin",
+      "filesize": 23066064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8c9e1b115a173a959aad472ff8954e9",
+        "sha1": "bd97592146c903a8912d3c91f9e8721be3d2ac02",
+        "crc32": "6b64a748"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan) (Track 3).bin",
+      "filesize": 33647712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a653612c2f38ee0266ba9cbe41ab1800",
+        "sha1": "f848dd4b99eba8d4d49900dbf71874fe02ceb48f",
+        "crc32": "c943e3eb"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan) (Track 4).bin",
+      "filesize": 106809024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abbb256306b9eaea02aba9ac556cc8b9",
+        "sha1": "482abdc9ac36f3b979e60ed1f734723cf73fff01",
+        "crc32": "dddbd51d"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan) (Track 5).bin",
+      "filesize": 86560656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9df3034fe43122ae85415f5974414168",
+        "sha1": "473f80076e52129059c73c86869017c4534043b6",
+        "crc32": "0a0e1a60"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan) (Track 6).bin",
+      "filesize": 107110080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092c994a861577c1e6447d2fac442ecf",
+        "sha1": "dbc9a030f7ac4bf01d1bc6d9ad186d04fd02ec47",
+        "crc32": "9ec789a4"
+      }
+    },
+    {
+      "filename": "SuperLite 3in1 Series - NumCro-shuu (Japan) (Track 7).bin",
+      "filesize": 86560656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9df3034fe43122ae85415f5974414168",
+        "sha1": "473f80076e52129059c73c86869017c4534043b6",
+        "crc32": "0a0e1a60"
+      }
+    }
+  ]
+}

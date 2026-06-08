@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Open Ice - 2 on 2 Challenge (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Open Ice - 2 on 2 Challenge (USA).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a597b7dce90ccf0f518aca780807054",
+        "sha1": "8fae0b2abf57cac46ffa9f0f9bac80a2bb75fcd6",
+        "crc32": "6dd7bb4f"
+      }
+    },
+    {
+      "filename": "NHL Open Ice - 2 on 2 Challenge (USA).bin",
+      "filesize": 103873728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c69f4b2da78a8afdd7ba250eb813238a",
+        "sha1": "ac57defd21801b93c6e7565a17b3ee39afde1fd8",
+        "crc32": "5c5bbab2"
+      }
+    }
+  ]
+}

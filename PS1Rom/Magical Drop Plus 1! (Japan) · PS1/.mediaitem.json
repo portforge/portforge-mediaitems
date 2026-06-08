@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Magical Drop Plus 1! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Magical Drop Plus 1! (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83710786cea475638fb54eee33af33d7",
+        "sha1": "51047fcf1f3be2d03dfee7ac93eb35356525e64c",
+        "crc32": "230bae65"
+      }
+    },
+    {
+      "filename": "Magical Drop Plus 1! (Japan).bin",
+      "filesize": 504005376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3da936be875536fbc8b63fbcfb4f8452",
+        "sha1": "197aacb9de04db7029c7f6772c7793947c722d6f",
+        "crc32": "9f5dba74"
+      }
+    }
+  ]
+}

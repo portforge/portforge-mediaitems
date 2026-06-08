@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doki Doki Pretty League - Lovely Star (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doki Doki Pretty League - Lovely Star (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0cebce14034fc95d62b6fa84fedf245c",
+        "sha1": "e2965ff9fddace3992b9c9b1d26b812d2e367105",
+        "crc32": "67c2c461"
+      }
+    },
+    {
+      "filename": "Doki Doki Pretty League - Lovely Star (Japan).bin",
+      "filesize": 639847488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85a5da11b1c74bc836f6d5a7f74aeef6",
+        "sha1": "43a6a10629666babb4ee5e99404db66e0ece92db",
+        "crc32": "ce92f01c"
+      }
+    }
+  ]
+}

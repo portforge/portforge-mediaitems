@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Fishing Club - Hama no Tsuri-hen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Hama no Tsuri-hen (Japan).cue",
+      "filesize": 298,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3fe64a561bdb1e0cd3a2f85b6c0e05c",
+        "sha1": "745d64f0ceafcadf8b76c1aee7cc860aa8ba1572",
+        "crc32": "475d8c0c"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Hama no Tsuri-hen (Japan) (Track 1).bin",
+      "filesize": 200743200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61663764087d63a11d24acba49968872",
+        "sha1": "3d1fe4d3cf546fff978061a422c4c2339d43c518",
+        "crc32": "5eca18d8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Fishing Club - Hama no Tsuri-hen (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e3952c9ba74cc486ee0a9dd66c1a84",
+        "sha1": "4a5ce8d624b04507f739bb8e647cbb0d8b81a768",
+        "crc32": "c699c622"
+      }
+    }
+  ]
+}

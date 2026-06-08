@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sangoku Musou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sangoku Musou (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69c2185d0c2de930b4dde958c395fc5e",
+        "sha1": "71ea30cf5cb311e4028ba3262b564f1daeee061e",
+        "crc32": "b52de3b4"
+      }
+    },
+    {
+      "filename": "Sangoku Musou (Japan).bin",
+      "filesize": 556193904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9d9f895429a03307d8dc8000b41f17c",
+        "sha1": "e5b22c39f11d3e5469359385bd8ed44a690b4b7a",
+        "crc32": "8f7ef187"
+      }
+    }
+  ]
+}

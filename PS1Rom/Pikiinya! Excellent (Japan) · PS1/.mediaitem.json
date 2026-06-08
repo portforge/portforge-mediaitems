@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pikiinya! Excellent (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pikiinya! Excellent (Japan).cue",
+      "filesize": 345,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d61a421c500773ea40d404019295e99",
+        "sha1": "21969464f321df9796a61012129c8a2440aec917",
+        "crc32": "8c715310"
+      }
+    },
+    {
+      "filename": "Pikiinya! Excellent (Japan) (Track 1).bin",
+      "filesize": 29752800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4467ae28e8831b755b8ed29088ae65a7",
+        "sha1": "145bb9880e25c8a49e3dba084dc157d779bda531",
+        "crc32": "636f99d7"
+      }
+    },
+    {
+      "filename": "Pikiinya! Excellent (Japan) (Track 2).bin",
+      "filesize": 43488480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4225d399560a52df9931f6fb861afedb",
+        "sha1": "3e4914406d49a21ae8ec1075e0352210bcd1dcfd",
+        "crc32": "594bc540"
+      }
+    },
+    {
+      "filename": "Pikiinya! Excellent (Japan) (Track 3).bin",
+      "filesize": 43178016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "304aec543b56704f70c9a05f46ed3a01",
+        "sha1": "4d2a30400fcdd796d9b0ece09bcf8cf6200a51cc",
+        "crc32": "16743a3f"
+      }
+    }
+  ]
+}

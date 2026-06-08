@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 98 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 98 (Germany).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc22cca882af1e0d52b1dfd6f5885fd7",
+        "sha1": "91a3b2c27663007ac1b79b1f98dec0bbb4947da6",
+        "crc32": "1e1842e7"
+      }
+    },
+    {
+      "filename": "NBA Live 98 (Germany).bin",
+      "filesize": 535623312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce3a7247c13bf7295aa6c4f8c6b1e684",
+        "sha1": "dc143854d88966b4bbe0e10967b1c2b16018d4e7",
+        "crc32": "9568362c"
+      }
+    }
+  ]
+}

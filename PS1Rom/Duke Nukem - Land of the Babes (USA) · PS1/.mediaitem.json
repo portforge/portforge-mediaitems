@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Duke Nukem - Land of the Babes (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Duke Nukem - Land of the Babes (USA).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae497f4ce6809dc3de23c8b9f0ce397c",
+        "sha1": "f5061d83d901c816df73da4055450dc05b28c10c",
+        "crc32": "e729a786"
+      }
+    },
+    {
+      "filename": "Duke Nukem - Land of the Babes (USA).bin",
+      "filesize": 707813232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6de9cc987b6eba64adc5b578b5b8144c",
+        "sha1": "f57c49eac288225fe3602e279bc1379f72f7eea6",
+        "crc32": "47a7ab61"
+      }
+    }
+  ]
+}

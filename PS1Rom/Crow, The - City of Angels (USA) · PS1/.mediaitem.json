@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crow, The - City of Angels (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crow, The - City of Angels (USA).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d40b5cf91c6574bb02074709ede9370d",
+        "sha1": "acda858a2f5a97b40264f5085bbbc79e4fbb8732",
+        "crc32": "a84666b1"
+      }
+    },
+    {
+      "filename": "Crow, The - City of Angels (USA) (Track 1).bin",
+      "filesize": 279885648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc8788f8d2d797cf8c7adbe0902281f5",
+        "sha1": "fc1cfbce9bbf5cb58fa048308e770072a30d319e",
+        "crc32": "f9161c18"
+      }
+    },
+    {
+      "filename": "Crow, The - City of Angels (USA) (Track 2).bin",
+      "filesize": 33083232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6c6ba5c96462f9a675809ab94652d17",
+        "sha1": "872690ff922aa95c9da677d10499b60409925d56",
+        "crc32": "78149f49"
+      }
+    }
+  ]
+}

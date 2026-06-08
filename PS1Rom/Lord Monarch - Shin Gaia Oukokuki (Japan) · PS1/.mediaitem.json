@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lord Monarch - Shin Gaia Oukokuki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lord Monarch - Shin Gaia Oukokuki (Japan).cue",
+      "filesize": 522,
+      "ext": "cue",
+      "checksums": {
+        "md5": "462cb83fe7b821d9e3f8c854f633386d",
+        "sha1": "26b21adec79a473a33f9b4ac239e4332f03ab015",
+        "crc32": "7848630f"
+      }
+    },
+    {
+      "filename": "Lord Monarch - Shin Gaia Oukokuki (Japan) (Track 1).bin",
+      "filesize": 334670784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fe3952d1908d0c2a890a0c8ae11d404",
+        "sha1": "d70a620f5b0ad8b7961b311593713a8be027d5a7",
+        "crc32": "2c2b6bee"
+      }
+    },
+    {
+      "filename": "Lord Monarch - Shin Gaia Oukokuki (Japan) (Track 2).bin",
+      "filesize": 24524304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98acf7c10e6f063a4723ee47ebe8ed52",
+        "sha1": "67b74323f02635cb5aec6375addc97e622ea70d5",
+        "crc32": "6a2c5a39"
+      }
+    },
+    {
+      "filename": "Lord Monarch - Shin Gaia Oukokuki (Japan) (Track 3).bin",
+      "filesize": 32238864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2621237c45a50162aeb50342e5a7456a",
+        "sha1": "9bdcd5a10af621153ab286ca7ea3184389316796",
+        "crc32": "4529a967"
+      }
+    },
+    {
+      "filename": "Lord Monarch - Shin Gaia Oukokuki (Japan) (Track 4).bin",
+      "filesize": 11882304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c61567daa6673b92516733c7a478544",
+        "sha1": "ed62e229a7a81d441dadcadc3a5f0c1c7b5e0ef2",
+        "crc32": "109fc9e1"
+      }
+    }
+  ]
+}

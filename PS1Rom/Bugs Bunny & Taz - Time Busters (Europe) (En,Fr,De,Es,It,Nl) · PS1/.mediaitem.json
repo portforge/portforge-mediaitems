@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bugs Bunny & Taz - Time Busters (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bugs Bunny & Taz - Time Busters (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f3b62cc4d583154577a2519eece80904",
+        "sha1": "fd9589563ab782ac0429c66b3264ab8c42235769",
+        "crc32": "978310b5"
+      }
+    },
+    {
+      "filename": "Bugs Bunny & Taz - Time Busters (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 678053376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f006bee096bf8064b99f5b2ed31b9d48",
+        "sha1": "665498069490d6976beb669aae0feead86af6fc7",
+        "crc32": "3da7b0e7"
+      }
+    }
+  ]
+}

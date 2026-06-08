@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ogre Battle - Limited Edition (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ogre Battle - Limited Edition (USA).cue",
+      "filesize": 627,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9547ec944d2abd2864f3a22d334b5aa7",
+        "sha1": "ff49c6dc399848a74fb24d2cbd5015228cb2c53a",
+        "crc32": "9491d358"
+      }
+    },
+    {
+      "filename": "Ogre Battle - Limited Edition (USA) (Track 1).bin",
+      "filesize": 433671168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be2f008f8dc0ad8a59f9ef7a815f3307",
+        "sha1": "12ad0beaf2ec62568a2c92ddce7902211e0f8631",
+        "crc32": "dcfdf24b"
+      }
+    },
+    {
+      "filename": "Ogre Battle - Limited Edition (USA) (Track 2).bin",
+      "filesize": 18289152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd585cc0dc3c871cb93f4d1a1c0830a4",
+        "sha1": "9a9dc6afe2f7d31f37caccf2e56bc02abe3983b6",
+        "crc32": "3369abd0"
+      }
+    },
+    {
+      "filename": "Ogre Battle - Limited Edition (USA) (Track 3).bin",
+      "filesize": 14883456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec80738aa2c51a9d7c0f8fa2f68a923e",
+        "sha1": "1f9cbe62219ba73a54eeac83915214c7a862c8a2",
+        "crc32": "70804064"
+      }
+    },
+    {
+      "filename": "Ogre Battle - Limited Edition (USA) (Track 4).bin",
+      "filesize": 23091936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f781764a7a66f9e1b47ea6c8b6de4e4",
+        "sha1": "902b2f54b695d3f53d9191d15612bc4fb1968d62",
+        "crc32": "5e70229d"
+      }
+    },
+    {
+      "filename": "Ogre Battle - Limited Edition (USA) (Track 5).bin",
+      "filesize": 37413264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f540dc3f98ce02ad8a3597bdd46ecb7",
+        "sha1": "4430e12d5ffd004c85ef6f5242cede60fab179c3",
+        "crc32": "d7971f56"
+      }
+    }
+  ]
+}

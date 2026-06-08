@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Garou Densetsu - Wild Ambition (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Garou Densetsu - Wild Ambition (Japan) (Demo).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f170ca727f77c91f508f9fd650a07d95",
+        "sha1": "047e82580176de481dde2a538953b5abdaf979b5",
+        "crc32": "4a6d32d8"
+      }
+    },
+    {
+      "filename": "Garou Densetsu - Wild Ambition (Japan) (Demo).bin",
+      "filesize": 319244016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f96f78ee13a23507f31bf12d2ac7ed49",
+        "sha1": "6c948671a34398ebfc1dfef1cfa131d4441d9971",
+        "crc32": "96b0a6e9"
+      }
+    }
+  ]
+}

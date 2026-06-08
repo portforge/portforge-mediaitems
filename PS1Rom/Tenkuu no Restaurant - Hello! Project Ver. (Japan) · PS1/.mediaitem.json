@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenkuu no Restaurant - Hello! Project Ver. (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenkuu no Restaurant - Hello! Project Ver. (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdbbb70522a890783ca07c5e2efd85da",
+        "sha1": "11dba410d9540db47d3a39883651e8f9b8d18087",
+        "crc32": "7a228bd1"
+      }
+    },
+    {
+      "filename": "Tenkuu no Restaurant - Hello! Project Ver. (Japan).bin",
+      "filesize": 421191456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2510449aadfb4d039e3a9bd03233943e",
+        "sha1": "92e062cfc4c2f66a61def5e510fd4f9cec5c1204",
+        "crc32": "9be81112"
+      }
+    }
+  ]
+}

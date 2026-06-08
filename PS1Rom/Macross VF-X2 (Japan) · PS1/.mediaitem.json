@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Macross VF-X2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Macross VF-X2 (Japan).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5ec5da6afdef48e85d377fd1819e58d",
+        "sha1": "735b4ddcefe82825f69d265b8975d6d4bb929d80",
+        "crc32": "0f83c2d4"
+      }
+    },
+    {
+      "filename": "Macross VF-X2 (Japan) (Track 1).bin",
+      "filesize": 430867584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d54a44b3b7320994cb4ad8cc72b17e6",
+        "sha1": "f7e0d5b2175850b77d5bd8e2efd2123d74240af9",
+        "crc32": "9696eadb"
+      }
+    },
+    {
+      "filename": "Macross VF-X2 (Japan) (Track 2).bin",
+      "filesize": 47451600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f994376743b2be61867e2b54cc4510a",
+        "sha1": "68f587366f2ad490fe47d9c14056cb087ab47c46",
+        "crc32": "2e07f6eb"
+      }
+    },
+    {
+      "filename": "Macross VF-X2 (Japan) (Track 3).bin",
+      "filesize": 37573200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b61fdb66b75a7e2919d6c53251f3a077",
+        "sha1": "4bda128d58304d25207af2ffa564fd2493771db8",
+        "crc32": "b65806d8"
+      }
+    }
+  ]
+}

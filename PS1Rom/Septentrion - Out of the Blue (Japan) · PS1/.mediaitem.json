@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Septentrion - Out of the Blue (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Septentrion - Out of the Blue (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41be42f4a1db4250d7b43565349bc631",
+        "sha1": "6d80c3ad001c3db3fd6eea192119a912386b4f49",
+        "crc32": "9978edb1"
+      }
+    },
+    {
+      "filename": "Septentrion - Out of the Blue (Japan).bin",
+      "filesize": 198595824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14cf1d4dbe0b9cf0f4808dc9ae209db8",
+        "sha1": "1db5cc6aefb64bbfb4820d48bcfbb95df77e8bb2",
+        "crc32": "59a2d045"
+      }
+    }
+  ]
+}

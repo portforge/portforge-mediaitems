@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lussan Nathhorst Presenterar Riding Star (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lussan Nathhorst Presenterar Riding Star (Sweden).cue",
+      "filesize": 840,
+      "ext": "cue",
+      "checksums": {
+        "md5": "141150486812f1a87f4afc2ae52a787b",
+        "sha1": "96d0804ea15221d2af8647b889c845acdc6d0c0f",
+        "crc32": "f1662152"
+      }
+    },
+    {
+      "filename": "Lussan Nathhorst Presenterar Riding Star (Sweden) (Track 1).bin",
+      "filesize": 59510304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2489e8ebd027982880e703f5f1a58aba",
+        "sha1": "fbcdb9540bef3ae6b5228776ea41e31c2260e6f0",
+        "crc32": "cbf70abc"
+      }
+    },
+    {
+      "filename": "Lussan Nathhorst Presenterar Riding Star (Sweden) (Track 2).bin",
+      "filesize": 20702304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bcc399f9ff73cc8fd8ab66b78ba7513e",
+        "sha1": "4da8c87756ac16f7770cd9343a7d0e9ecb561af8",
+        "crc32": "8b1a9b28"
+      }
+    },
+    {
+      "filename": "Lussan Nathhorst Presenterar Riding Star (Sweden) (Track 3).bin",
+      "filesize": 21440832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46657d7f3b6e4697d3e6869702939f19",
+        "sha1": "b5998414c73e35e3357820ee4f1dc5984f00100a",
+        "crc32": "f30b6e1b"
+      }
+    },
+    {
+      "filename": "Lussan Nathhorst Presenterar Riding Star (Sweden) (Track 4).bin",
+      "filesize": 20144880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7e5de10d52f45b7254dc4f217bf7f7b",
+        "sha1": "4fe85bacfb13daee8dafe2f221ce09f245cd5744",
+        "crc32": "bae8cf37"
+      }
+    },
+    {
+      "filename": "Lussan Nathhorst Presenterar Riding Star (Sweden) (Track 5).bin",
+      "filesize": 12968928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3de50725f887a795dfc5210dd09834d7",
+        "sha1": "a7b81558c621370d631cd610864a76423e3d424c",
+        "crc32": "6c724cc7"
+      }
+    },
+    {
+      "filename": "Lussan Nathhorst Presenterar Riding Star (Sweden) (Track 6).bin",
+      "filesize": 53272800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e0780125290c5f1c615bed12e03e066",
+        "sha1": "037d1a3d7a4af7465f3a5c8f3492b80aae63ab96",
+        "crc32": "9d741f5e"
+      }
+    }
+  ]
+}

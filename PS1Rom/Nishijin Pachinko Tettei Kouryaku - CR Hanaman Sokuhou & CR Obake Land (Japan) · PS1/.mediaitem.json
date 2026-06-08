@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nishijin Pachinko Tettei Kouryaku - CR Hanaman Sokuhou & CR Obake Land (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nishijin Pachinko Tettei Kouryaku - CR Hanaman Sokuhou & CR Obake Land (Japan).cue",
+      "filesize": 144,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b011af0f57bbbe156f66a653bdc1fca",
+        "sha1": "80b5d2140e3cb75be1e93596915ed2a241df8815",
+        "crc32": "3833d346"
+      }
+    },
+    {
+      "filename": "Nishijin Pachinko Tettei Kouryaku - CR Hanaman Sokuhou & CR Obake Land (Japan).bin",
+      "filesize": 548027760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fffc626a43ea97d7135be0ae922934b2",
+        "sha1": "8f90479875a448510b73989479bb6cd47edaf92d",
+        "crc32": "e1389bc8"
+      }
+    }
+  ]
+}

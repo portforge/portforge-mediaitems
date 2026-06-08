@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crossroad Crisis (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crossroad Crisis (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b5a051fab10e1c6d7f174b5a0a59692",
+        "sha1": "565561f6495a6e7429ffbd3ebba63a0f6fdd89bc",
+        "crc32": "8601df36"
+      }
+    },
+    {
+      "filename": "Crossroad Crisis (USA).bin",
+      "filesize": 65228016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c29274f2865b0becb7f89054ac16beb",
+        "sha1": "1ce57d52d54f5a8ddd9bb6e19f54b47d0772d10c",
+        "crc32": "eeca2e84"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Konami Antiques - MSX Collection Vol. 3 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Konami Antiques - MSX Collection Vol. 3 (Japan, Asia).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b102cd5a195ab4aa49a37d3a856f72bb",
+        "sha1": "c6020a6f305bbfe7004a7a8bd923d4b2a94b43d3",
+        "crc32": "4f839273"
+      }
+    },
+    {
+      "filename": "Konami Antiques - MSX Collection Vol. 3 (Japan, Asia).bin",
+      "filesize": 147082320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57f61e8df52185f9a55030f7e746420c",
+        "sha1": "dc012eb60a3ef023a3191b91c9a99d55b80ac5ac",
+        "crc32": "083057bf"
+      }
+    }
+  ]
+}

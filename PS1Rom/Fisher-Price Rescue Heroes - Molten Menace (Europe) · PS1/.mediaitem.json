@@ -1,0 +1,897 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fisher-Price Rescue Heroes - Molten Menace (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe).cue",
+      "filesize": 12830,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15379108de5a4f9a05899c4a0de6a30a",
+        "sha1": "9fa588758f8cf6fa3a58f59d69dbb83bf3c151f3",
+        "crc32": "7b3d8115"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 01).bin",
+      "filesize": 227603040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "679fdc7d42fb03ff8c3449ddd3ccd4bb",
+        "sha1": "bb7aca56f9f9e02bd8a687f429013244ffc1fa67",
+        "crc32": "b948bc9b"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 02).bin",
+      "filesize": 9965424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6498842a1aaa3f74bb4aba9e9a18ff1",
+        "sha1": "41c2ec0406692387c047ff69f11847db48373f62",
+        "crc32": "679b3e18"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 03).bin",
+      "filesize": 1227744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fee6308cdd8de3ae0d3ee615934f024",
+        "sha1": "4294a3abb7cd72b353b5640a197400f511bd3f15",
+        "crc32": "8c2cbbab"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 04).bin",
+      "filesize": 25512144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a0d32ce693dff1e5f598a6caa79205f",
+        "sha1": "881d731c26920c7f3fd696b3a23641d297acc60c",
+        "crc32": "8c357691"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 05).bin",
+      "filesize": 1491168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "239f16498209b2784e9c58afbc9863b4",
+        "sha1": "ec2e11b1ff00e21ed619108d702cc8dae9ad5cb2",
+        "crc32": "f37f3382"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 06).bin",
+      "filesize": 28089936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57b80360918de4ff5d1268e4ee6844b2",
+        "sha1": "e43350275d530e260248ab94d4d0a28f9f2c3593",
+        "crc32": "582a1086"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 07).bin",
+      "filesize": 1291248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ae40c37d2a07441a2d3b885857aa774",
+        "sha1": "7605488954fbd520623c3e12f0510f705e991ea0",
+        "crc32": "4d855a6b"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 08).bin",
+      "filesize": 26871600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d367e2df1f6216c7dacc70cca2a567c3",
+        "sha1": "2b351332e9389ad8294e5ee6808eccfe8994506d",
+        "crc32": "0fc43961"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 09).bin",
+      "filesize": 1258320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b9b7f1f3a698f278353b717bbdb2a72",
+        "sha1": "5ec3102fd1d6baa683621bfffcbc371b2c91101f",
+        "crc32": "b9141817"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 10).bin",
+      "filesize": 15464400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa14ca7a852b97f4c3bec5664c5a9ff2",
+        "sha1": "bf48050d6a11b6b922b6e10f44582f215aa5d5d6",
+        "crc32": "450c24b3"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 11).bin",
+      "filesize": 1938048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9427809beca9e8fcf935829bddbbb01",
+        "sha1": "0771b1eefbf4a8a34ceee5f1fc1adc5672eaccdb",
+        "crc32": "2306e0a2"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 12).bin",
+      "filesize": 24230304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "434e04b4908b174056f66d26ee7b9162",
+        "sha1": "5300307ab62725c7b0947754566e0f814b6b3546",
+        "crc32": "bb76fdcf"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 13).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b15c00b47b925a5488a8f1f1cd8c099c",
+        "sha1": "2caa18cc243b21f5e49d9ab22bbcd6f8af7947b7",
+        "crc32": "97f572d2"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 14).bin",
+      "filesize": 13651008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f0af700805f5c3d178ad5c7b30332ae",
+        "sha1": "3a3be2ec0c4294c8a9609d83b581d0e49958aa70",
+        "crc32": "ca309c51"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 15).bin",
+      "filesize": 1949808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6b6b48932c6ebe9c1cf3b20c49af47e",
+        "sha1": "689eac6bb6ef66bcb95b6b644c8ab16d3149b783",
+        "crc32": "c5ad8cc6"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 16).bin",
+      "filesize": 1406496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "313fc9a7e3574a94d41167131e238dca",
+        "sha1": "df09a76442002f70a79e426ae41ce70c1f1fd4a4",
+        "crc32": "8fc73d6b"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 17).bin",
+      "filesize": 3457440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd5d324cd4bca17550e451337fda15d9",
+        "sha1": "e536d1f295664ebb0bbf7bc2887dd68cd1781a29",
+        "crc32": "f726a9e8"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 18).bin",
+      "filesize": 2328480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f51b29c68cb10747d7592be04c84779d",
+        "sha1": "ec593ea5f9741903d77720cda5a393ed3aac3149",
+        "crc32": "e410210a"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 19).bin",
+      "filesize": 2627184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0651588ae28b1aba6e69618db892e076",
+        "sha1": "618cb35a969667e8d016b58c48c0c11d0508665d",
+        "crc32": "07f9a7a0"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 20).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb4681e125ad48700d2eff4b6a9dc2df",
+        "sha1": "ce44b9794e9849f63aaec911408a771e110f8ab0",
+        "crc32": "48d1757b"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 21).bin",
+      "filesize": 1427664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea6b8fa10533f910232b8d44ff0ed648",
+        "sha1": "edc4c7aca859a8c8df98da0fb0d2409da480191c",
+        "crc32": "467a65b6"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 22).bin",
+      "filesize": 2123856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21429b284e1c4395a439dcabe82b9902",
+        "sha1": "c8a683b2e02b2c8aa886bac1f8b118ee04bc6456",
+        "crc32": "1f844ade"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 23).bin",
+      "filesize": 2836512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a230d1603393d85de83dd7d203dcffc",
+        "sha1": "e7c64940479a314d3e55f0c4fbce522568f27b72",
+        "crc32": "e3874880"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 24).bin",
+      "filesize": 2029776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67b37a9dc98756da61c86b968a5598e0",
+        "sha1": "a020b257e8b2ae51544edff8f5b48981ccaf297c",
+        "crc32": "89c8ebc1"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 25).bin",
+      "filesize": 1754592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a352b585bef9b7106d5eacf467574fad",
+        "sha1": "2506753a760103eeb514590b2da3913ab3f01801",
+        "crc32": "4ad9e34b"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 26).bin",
+      "filesize": 1719312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea57ebe50c23056d22345e9052fdd252",
+        "sha1": "fbf89ebe960b0646433abdeea3aca64e4a6b4ab4",
+        "crc32": "ca126842"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 27).bin",
+      "filesize": 1470000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "623ddaa5d14c798a11d97bc2a2e56296",
+        "sha1": "77fe1bd6cff7129e40590d4637b0cb455d4c4de4",
+        "crc32": "6c2255bf"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 28).bin",
+      "filesize": 1284192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26a95c5a4afd69cba6cfdd7a70df2887",
+        "sha1": "9d9f3f91c93202e50b8f5fed6ef210bbef5d9309",
+        "crc32": "387a6ba2"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 29).bin",
+      "filesize": 2613072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44cfed42838ec38997a1186451f335db",
+        "sha1": "ad7518755fb3c63021c825204dfb3e6611fff6c8",
+        "crc32": "d18c1927"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 30).bin",
+      "filesize": 1846320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cbad793a5fd4b7b9a72742df960d908",
+        "sha1": "8f6ddb3821ab4b952ea061bb1c9c8665c57b106f",
+        "crc32": "0a35bfdd"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 31).bin",
+      "filesize": 1622880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4c6fa691810c1289d72467575772230",
+        "sha1": "4441bd6d45d47e7ce6b9ef4c2e713af2b3554d02",
+        "crc32": "3861ee47"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 32).bin",
+      "filesize": 2843568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ff46e5b3548ddd1e5186c85c011e840",
+        "sha1": "b8e3d20cb5c3defb83104e3877d81bcec278803b",
+        "crc32": "5eeb90cf"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 33).bin",
+      "filesize": 4047792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29895b60c3d17a131c93d82309350533",
+        "sha1": "79e5d19f67745fe9c42218846c0e2ee0e3c292d8",
+        "crc32": "92f55504"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 34).bin",
+      "filesize": 1444128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24b29766fd61ce9af8a509567d8eb87e",
+        "sha1": "2bb81a33ffc573287b31b76c3e7c06bbd2e1e149",
+        "crc32": "684d8e48"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 35).bin",
+      "filesize": 1780464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64ff96d646b0cd0f429bad140c3c5f52",
+        "sha1": "f6671dcc7d91132d732ed3c6fed15dff392b0ef3",
+        "crc32": "97fa0882"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 36).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f422b02b3d622ac01157c98c82c762f",
+        "sha1": "8104c5654b0b85d5e639ca4ab381a43e20e5248c",
+        "crc32": "8d78659c"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 37).bin",
+      "filesize": 2314368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be6b11051a0ca67af09a8f072d6de2d7",
+        "sha1": "6e23abdb15b89554b3b91dcbdcfba99515a5d88b",
+        "crc32": "d71fc0ed"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 38).bin",
+      "filesize": 2297904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45553ac8f89fd2cd83634e37f85129d9",
+        "sha1": "724bca44532007f246023edd1507a46a8f3ff0b2",
+        "crc32": "01fc646f"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 39).bin",
+      "filesize": 1310064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20e7aee5f8d67b5af20fe7465aa3230d",
+        "sha1": "6755d78e2836c5b0b07b107fdbf65c2467f81fd7",
+        "crc32": "e92f20ec"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 40).bin",
+      "filesize": 1288896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c36625c4830bcc98bdbdabc1e61da82",
+        "sha1": "dbf14ca44ae5062da3ed6d3a4d44b201fa832ca3",
+        "crc32": "a8baf04d"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 41).bin",
+      "filesize": 2916480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a8597f625a637608c864984a4222ee3",
+        "sha1": "41de8b28146066646ebfb96b052de6c977b7a9d2",
+        "crc32": "73b6cc66"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 42).bin",
+      "filesize": 2864736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faa6eefae4e45e7cacad67580ea149ad",
+        "sha1": "069b62dfb05fcf0523043fade31fdf394c120683",
+        "crc32": "b6f052a0"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 43).bin",
+      "filesize": 1905120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19dfe0a3c1370bedd96de18776a05120",
+        "sha1": "bd4a2a671096d7e5bae5bddbfbd7f34ac5c1fe45",
+        "crc32": "1b8ad5e9"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 44).bin",
+      "filesize": 1430016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "824ef7641825fdeb7ac73a8d627fdb39",
+        "sha1": "71305bef742e9e3d1f9941a01cf9dba1a2a97f56",
+        "crc32": "0d7b8838"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 45).bin",
+      "filesize": 1601712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61380d0ba29d3f53396a01ebf3fa64bc",
+        "sha1": "d6cd08bc747a60075b7d2e12235ad146026440a2",
+        "crc32": "7f11164c"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 46).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff0617a4dfb2ebc67d8899982f173294",
+        "sha1": "bd6e5310a9fd4998f7c2fd0f78aa35701ee63b6b",
+        "crc32": "f82a418c"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 47).bin",
+      "filesize": 2241456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f65a3054317ae9c4e4a13aeb6b0aaa7",
+        "sha1": "a36742317a5c55a0351a38c392727030053e7fb6",
+        "crc32": "9272b69a"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 48).bin",
+      "filesize": 2013312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c3ddb36adf18ba1b42c47f13c5128be",
+        "sha1": "06a522d8d4f305f54953ddb16a5426d16e357213",
+        "crc32": "8c18dc2f"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 49).bin",
+      "filesize": 2756544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2a7384176a85a29e5cd9afdac6202ef",
+        "sha1": "cc5a9f0c5c420c6d81193c879b472d4382fa80d9",
+        "crc32": "c6c746b5"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 50).bin",
+      "filesize": 1507632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "507aab0b33df501b4d7befc2bcbb3b20",
+        "sha1": "6f3bd4720f6b8380152e5617e92d56bf0d17a496",
+        "crc32": "b7f23c5f"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 51).bin",
+      "filesize": 1905120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a863eacb086072224ef4e94664cf5a4",
+        "sha1": "eecd1e1cf3037342016cb4aaffe14160d036e9cc",
+        "crc32": "90d34a4e"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 52).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52d697151df2010c9d6ec59c8eb827f1",
+        "sha1": "de1ac54ac384adae65f3ef8ec49a14d68dd52d06",
+        "crc32": "59838ca2"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 53).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d70979ad1df23e8df7f154e5afb0362",
+        "sha1": "56f920dff372db98414ec18a0767792f94331d10",
+        "crc32": "bf7f0f08"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 54).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2ba72a4c7fc0ddbdd3376b5e29dac85",
+        "sha1": "5e1139cd16ad6f6413a441b936b3ef6be39e23a4",
+        "crc32": "76853843"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 55).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88a677a65b74f9700f9edbd39727f47a",
+        "sha1": "74b460ca6beb9fc6714e745f1a58b1d61fbd1e45",
+        "crc32": "fce1de58"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 56).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "497b38accce46bf9a800bfb2277e8ce7",
+        "sha1": "ff895b08bfa54c29a6c01ee425934cae225f1bba",
+        "crc32": "a257cd2b"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 57).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11812ef7c4c183107be3cd3b5139caac",
+        "sha1": "f9c36260544e4ff96a7e7ce44fb143e3df26d77a",
+        "crc32": "5e6cb07f"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 58).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c703f561020483f952196b2b899885b",
+        "sha1": "9681d02fdf3f61911098d0683048d9d5752ca749",
+        "crc32": "a4e89666"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 59).bin",
+      "filesize": 1432368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce1feb543f75006d4c8968949d816c71",
+        "sha1": "11550c69dda12542f7b30e93bf2ab0a8872f544d",
+        "crc32": "bb0a7b54"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 60).bin",
+      "filesize": 1248912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b3d5e662743e314080bf11e2885de0c",
+        "sha1": "b09db235e3b21ce79bdbcc55706e8089d952cade",
+        "crc32": "026f9722"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 61).bin",
+      "filesize": 1437072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0e3974b708e97f66299f8400d758af3",
+        "sha1": "ccd9eef585be9e9eb3caa07bda54f747db480262",
+        "crc32": "a2615df1"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 62).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6098ef448860c1d2b1d689e0f262d365",
+        "sha1": "5150b2ce0b6ecdc3fac88be761a5fb47af351ac0",
+        "crc32": "b7f9ce86"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 63).bin",
+      "filesize": 1430016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08d1a0b2ef042e4939475f8b2414149a",
+        "sha1": "fe9914289f453322a92234b74860ebfebbeba578",
+        "crc32": "8bba632f"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 64).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ee79e021ccd78c8cda62804a914bfea",
+        "sha1": "83747de2a35d47dd14108f9be5e61136a6e3ac19",
+        "crc32": "c3e25f23"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 65).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ab10c3b8246805b8c4d254746e197fa",
+        "sha1": "3de81d113e715dd3d14e4459bdea5d94341fe13d",
+        "crc32": "284e18b7"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 66).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9d8350af9ac53265e8f4c32e6e72227",
+        "sha1": "faf8c36480f4d53dba78fe6aa60a7b7c05682935",
+        "crc32": "5eb07e43"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 67).bin",
+      "filesize": 1246560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60a8b66d75fdfa8d38348f3a3bb1bab1",
+        "sha1": "1e81da47f5e6549fa8bc25d7bf601496eacda6e4",
+        "crc32": "f93f9022"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 68).bin",
+      "filesize": 1253616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "840047a01359b542eb1003eca9634f6e",
+        "sha1": "10d5995d2c4a0b62f401869d608a0bce2fabff87",
+        "crc32": "289f0276"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 69).bin",
+      "filesize": 1420608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d40c64df5a4f795bfc3cf11a37d458ff",
+        "sha1": "cf89296711fafdf3c6a7b02310672efc6674ef16",
+        "crc32": "6d9fb043"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 70).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8435598f3b9c8ea98cc4d3fdedb0473",
+        "sha1": "f658191ddd58a2478a7023a548e99980126230fe",
+        "crc32": "ecacf6bc"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 71).bin",
+      "filesize": 1246560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd242bc50daad41686c9f8e141e5bbc2",
+        "sha1": "6aa618c8f6df424bf6d559541683a796543ff735",
+        "crc32": "b3759b97"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 72).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e708a10dce83c9723216cb0e18a21b1",
+        "sha1": "591b0e55ad7565853236a95c6cbb723ce343b66d",
+        "crc32": "6ebf0d44"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 73).bin",
+      "filesize": 1420608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78d2607e3aa6828833749060f3738b42",
+        "sha1": "f2ac6a84f2ac014c76bc040467666c824d627e87",
+        "crc32": "bc38bd5a"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 74).bin",
+      "filesize": 1592304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "102ab50c972873bedf148d4ff2e2587c",
+        "sha1": "bd1db5ad9137015370fe7d71369913c1148f7558",
+        "crc32": "b9b881b9"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 75).bin",
+      "filesize": 1427664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8dddd59f6bd7bba47b93aeff1a0af7ec",
+        "sha1": "cd89ab05286238cf159335acf2544798595b47eb",
+        "crc32": "caad9316"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 76).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f9ca596c8116933060465e407235ccd",
+        "sha1": "b480294346c4f654d1dfd41410c257b49db9a738",
+        "crc32": "8afdeeb4"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 77).bin",
+      "filesize": 1248912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0a787e599ee414cd04603675c31e9ea",
+        "sha1": "73742185b0e5fe1273184f6262e81ba30ef47e42",
+        "crc32": "2cef8ff5"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 78).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98fc59e26690bc0af86d255832f27084",
+        "sha1": "79dc3b048a6e517a7f735ae6939285d6d188412c",
+        "crc32": "e53a9cb9"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 79).bin",
+      "filesize": 1422960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17e187a777cd2eceb3dc25957f25b288",
+        "sha1": "b23e6e9c2320b6860b87458137093365995e17df",
+        "crc32": "8a1b1e05"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 80).bin",
+      "filesize": 1267728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "276b2f4ff9f65891b8f03e7ce688b489",
+        "sha1": "8496864e8e77ea0f2543f3ca9bc19a21f4660110",
+        "crc32": "b4a95518"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 81).bin",
+      "filesize": 1253616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3fb851c0cb31739f39c23cc42f2ed12",
+        "sha1": "8d625e4209b7c426aea334be476af2c37c0ad2d3",
+        "crc32": "06663830"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 82).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10b0ffcc5cf3dd5d40a61e4f70b2b0ed",
+        "sha1": "e4e078383eab79c31a98c20ac011ce73fe908c20",
+        "crc32": "99e2226d"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 83).bin",
+      "filesize": 1425312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29d293d33f86e0535c97b512867a357c",
+        "sha1": "fbec821031a7fd598d92a756d3e4adfaf2d0a5fe",
+        "crc32": "fb95a95d"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 84).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d6b9e93f82a237bdca1fc93e3881bd4",
+        "sha1": "6a1188c0751b1d98ba674902f8b0e050df77f1f5",
+        "crc32": "62f1770e"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 85).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66d1609c0c09a75747d8b52890267ff8",
+        "sha1": "55ff989347ff665938061d42790393e622e94b97",
+        "crc32": "728b7510"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 86).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07758b56752f1a977f086954652643db",
+        "sha1": "b412a4419e4f470794bdf5ef86d47cfab3850164",
+        "crc32": "ff89f129"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 87).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccaf41d6b7bdd821fef15aae5f87c843",
+        "sha1": "93fe9d172165a236b8578163e3f894f17c24438a",
+        "crc32": "54ba12d6"
+      }
+    },
+    {
+      "filename": "Fisher-Price Rescue Heroes - Molten Menace (Europe) (Track 88).bin",
+      "filesize": 32358816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1d562151bd464aaf1fb15294d803dd6",
+        "sha1": "90b595aba76d55af11bf71a5017e31e8c68f7acd",
+        "crc32": "a5f4f8d4"
+      }
+    }
+  ]
+}

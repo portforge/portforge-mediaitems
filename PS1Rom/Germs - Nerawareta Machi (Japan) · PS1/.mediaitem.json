@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Germs - Nerawareta Machi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Germs - Nerawareta Machi (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e562fcc586e4aabe94f861317e459d53",
+        "sha1": "3f180688b271ddfd609736853e01b5c2fb11aa26",
+        "crc32": "5f4fa5db"
+      }
+    },
+    {
+      "filename": "Germs - Nerawareta Machi (Japan).bin",
+      "filesize": 190013376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0afd6299ac6e10c7fd8027871a73701",
+        "sha1": "8ef1ed69c8f532d8e2ee91e1e4650b6a014ac2d4",
+        "crc32": "b32d4a63"
+      }
+    }
+  ]
+}

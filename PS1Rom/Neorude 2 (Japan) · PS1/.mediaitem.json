@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Neorude 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Neorude 2 (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5d5b2a30327eb5de5b7eaf059ce287d",
+        "sha1": "4cb6b37bf704674944084bfa65f32833dfd40e73",
+        "crc32": "c4cab263"
+      }
+    },
+    {
+      "filename": "Neorude 2 (Japan).bin",
+      "filesize": 725051040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "081870628ec751a637cd4a0a060c10c7",
+        "sha1": "6b32da8675756159096d2542ad7585a46af7b4bd",
+        "crc32": "5c764deb"
+      }
+    }
+  ]
+}

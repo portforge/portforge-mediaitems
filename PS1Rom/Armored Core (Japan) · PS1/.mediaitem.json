@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Armored Core (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Armored Core (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c19947d93b5898e499e5b23431154a01",
+        "sha1": "e8552e5304d56dd3bdf165e299e5298ba6b4bd03",
+        "crc32": "0e013911"
+      }
+    },
+    {
+      "filename": "Armored Core (Japan).bin",
+      "filesize": 526650432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48ec01083f6efc2af32adae375f18bc1",
+        "sha1": "27f3152073bb83509dac3d17fd10df194a19bc2f",
+        "crc32": "d93b3952"
+      }
+    }
+  ]
+}

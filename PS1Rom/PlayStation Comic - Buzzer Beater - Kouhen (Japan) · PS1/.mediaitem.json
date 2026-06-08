@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Comic - Buzzer Beater - Kouhen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Comic - Buzzer Beater - Kouhen (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec18cdb0fe2033e70c9dd21b5717daf6",
+        "sha1": "aed273224b5f843c2f1614b02e45075f1b851643",
+        "crc32": "c9ee6ef4"
+      }
+    },
+    {
+      "filename": "PlayStation Comic - Buzzer Beater - Kouhen (Japan).bin",
+      "filesize": 278740224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6a6141b2c0c281cf9cb926b0809c876",
+        "sha1": "8f420b8ab6d46d1fa0d74d47282eb68abb6ad882",
+        "crc32": "1a5161b8"
+      }
+    }
+  ]
+}

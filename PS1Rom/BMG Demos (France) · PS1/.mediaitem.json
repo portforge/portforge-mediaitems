@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BMG Demos (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BMG Demos (France).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb18c53c0088706352547e8b986edd95",
+        "sha1": "7a77f89956195cae5580181b5c9c36b752ab3fff",
+        "crc32": "a3e0af2d"
+      }
+    },
+    {
+      "filename": "BMG Demos (France).bin",
+      "filesize": 115417344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "510502141e4173b18a6de40ab6282bf9",
+        "sha1": "58dce23bd493ad7ce69bcf5aa7d4d1c4481616c9",
+        "crc32": "bbc200f3"
+      }
+    }
+  ]
+}

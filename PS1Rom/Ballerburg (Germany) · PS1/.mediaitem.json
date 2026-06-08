@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ballerburg (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ballerburg (Germany).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "97cecf4caf1f047c4c7e64fc9b8a673f",
+        "sha1": "88d5cfbb0f6ed19289e355aa91962201c011cf3d",
+        "crc32": "c8fec794"
+      }
+    },
+    {
+      "filename": "Ballerburg (Germany).bin",
+      "filesize": 686955696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b6c52aeff824b2ea9af5accf61e5eb8",
+        "sha1": "039d31ee167fb0e7548d7c12a71fd1e661c81533",
+        "crc32": "ee3bda36"
+      }
+    }
+  ]
+}

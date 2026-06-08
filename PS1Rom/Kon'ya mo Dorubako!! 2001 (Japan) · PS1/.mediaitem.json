@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kon'ya mo Dorubako!! 2001 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kon'ya mo Dorubako!! 2001 (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad24ebe81aeecf1ddff76c165ab24beb",
+        "sha1": "4eb3660e23767d0e1cb03a3ef15827d05f3b1401",
+        "crc32": "8629ed90"
+      }
+    },
+    {
+      "filename": "Kon'ya mo Dorubako!! 2001 (Japan).bin",
+      "filesize": 693924672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7a6af789918ce7d34cdd81b900b952f",
+        "sha1": "ccfba04f76c2c3b6726fa602a90fc6134a0c1936",
+        "crc32": "d0318c84"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "e-Jump (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "e-Jump (Japan) (Disc 2).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df6901a8f5de477e68a8c880f412d7a3",
+        "sha1": "8f3cf6cf53242edd274cc83da959fee7bcf0a79d",
+        "crc32": "e842688a"
+      }
+    },
+    {
+      "filename": "e-Jump (Japan) (Disc 2).bin",
+      "filesize": 609400848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9214c8acac47fc8b3d8c42b1892938f5",
+        "sha1": "1dbcb8abfa6d24aeeebbf5bc564fad4dd9db8d49",
+        "crc32": "87d5667c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 07 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 07 (USA).cue",
+      "filesize": 570,
+      "ext": "cue",
+      "checksums": {
+        "md5": "afe34d2a88bd6f54a2e5aa1092c0cde0",
+        "sha1": "599bed1fa301f86d191e1396e68adaf789219559",
+        "crc32": "1e5bcfe3"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 07 (USA) (Track 1).bin",
+      "filesize": 174297312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ff72dfe0390ec499ec8c19e896bfb6b",
+        "sha1": "5d1a1f5205349a84cae932a6361f3bf34c4de77b",
+        "crc32": "11e1515e"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 07 (USA) (Track 2).bin",
+      "filesize": 9233952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92ad76765f3a23eb37c04f3c60999c71",
+        "sha1": "04b3a89b84221c72f807a37f77e74355afc4115b",
+        "crc32": "bf20ccfe"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 07 (USA) (Track 3).bin",
+      "filesize": 7168896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5aa83f163b09bf784ffab161918725a8",
+        "sha1": "a289347dda6bfa2562d90e147f128c8934cd378b",
+        "crc32": "65cd8f3c"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 07 (USA) (Track 4).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

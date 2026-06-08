@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Worms Armageddon (Europe) (Fr,Nl,Sv,No,Da)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Worms Armageddon (Europe) (Fr,Nl,Sv,No,Da).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "58a0d9b352585d33982c040220a0bb9e",
+        "sha1": "7cac98b6d8cddbd8f5ad2ca035743bbe05b845a2",
+        "crc32": "e1b0a9ad"
+      }
+    },
+    {
+      "filename": "Worms Armageddon (Europe) (Fr,Nl,Sv,No,Da).bin",
+      "filesize": 552863472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bde112cbd2d551f8f812f06202a68a1b",
+        "sha1": "fc0b94124b880ecfa6991ba72717fe832a593e33",
+        "crc32": "83c01cd7"
+      }
+    }
+  ]
+}

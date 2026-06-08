@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you).cue",
+      "filesize": 278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62e225df277d4dfa89484af33d34aa1f",
+        "sha1": "e3a209c808362191069546a506e2c66cf0dbe13e",
+        "crc32": "96dea532"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you) (Track 1).bin",
+      "filesize": 402528336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b219f13af4818e1631757644e5e0ee85",
+        "sha1": "367e7a53e6b86b1e2c7ada30609707f9e709e022",
+        "crc32": "84e628fb"
+      }
+    },
+    {
+      "filename": "Million Classic (Japan) (Disc 1) (Honpen Game Sen'you) (Track 2).bin",
+      "filesize": 42978096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12afa7cf4f33fd21d88b7c3bbfbcb8b8",
+        "sha1": "ed1839d0a92a6b723085511ff8379599e94579b6",
+        "crc32": "598f81ca"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 3 - Nemesis (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 3 - Nemesis (Spain).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94ab52bf549e6aff80a2edf3996ccac6",
+        "sha1": "7630a39934cf8272d3c1e01a71edfcec297b237f",
+        "crc32": "007705ea"
+      }
+    },
+    {
+      "filename": "Resident Evil 3 - Nemesis (Spain).bin",
+      "filesize": 713408640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a82299e20665dbbb011ae11dbabd13a",
+        "sha1": "cb17a4571b45c49645ceede2121a046f12e59981",
+        "crc32": "1b944257"
+      }
+    }
+  ]
+}

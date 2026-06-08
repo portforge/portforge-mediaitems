@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 61 - The Quiz 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 61 - The Quiz 2 (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8015a9798360e2166528f99bb3292357",
+        "sha1": "35e382ecdb72e63b5184e6d877e4096dd6c32d6d",
+        "crc32": "a37a7c0b"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 61 - The Quiz 2 (Japan).bin",
+      "filesize": 102055632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3661eae284fb310112c88285ca013670",
+        "sha1": "4ddd149d29bd513b486bd71e103836c9b1c6f221",
+        "crc32": "0d22b896"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Zero 2 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Zero 2 (Japan) (Rev 1).cue",
+      "filesize": 249,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00fb3bdb116c01722d01fbeb5dc243c8",
+        "sha1": "1bb796b0c379ff1c855633e8c0649132a4094d8a",
+        "crc32": "1cbb1ab1"
+      }
+    },
+    {
+      "filename": "Street Fighter Zero 2 (Japan) (Rev 1) (Track 1).bin",
+      "filesize": 572761392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6044be2b234750decbc1c15dbb546d5e",
+        "sha1": "28c3d1f2d53f0ec8b9ce193152b26939841e4c62",
+        "crc32": "704fe4af"
+      }
+    },
+    {
+      "filename": "Street Fighter Zero 2 (Japan) (Rev 1) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "245c2155aabd3d47ef6d4df3415fb7f7",
+        "sha1": "dd4c65d0ec61ac54ed27b2cf9e216a3d0dd4bba6",
+        "crc32": "af862034"
+      }
+    }
+  ]
+}

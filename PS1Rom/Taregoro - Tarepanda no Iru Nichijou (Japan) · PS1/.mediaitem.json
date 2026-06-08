@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Taregoro - Tarepanda no Iru Nichijou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Taregoro - Tarepanda no Iru Nichijou (Japan).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3bd3c8244449e725dcf37d9120734bd6",
+        "sha1": "9c52e872c17cbf6f12dc7e0505ef9e79e0795316",
+        "crc32": "e0b175ea"
+      }
+    },
+    {
+      "filename": "Taregoro - Tarepanda no Iru Nichijou (Japan) (Track 1).bin",
+      "filesize": 25319280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77a6a5fc60d638f8d457b76244626c23",
+        "sha1": "ba10955bfe2df8e08f1a751520d3468a7b3ac259",
+        "crc32": "d678ac3e"
+      }
+    },
+    {
+      "filename": "Taregoro - Tarepanda no Iru Nichijou (Japan) (Track 2).bin",
+      "filesize": 46611936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6939708e1fa601ecfcec66cad22dcf80",
+        "sha1": "6c265bcf11ef5d8e409138a7ce3c90c7a4f89180",
+        "crc32": "3bd87f7c"
+      }
+    }
+  ]
+}

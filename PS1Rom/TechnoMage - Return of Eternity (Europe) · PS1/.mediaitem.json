@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TechnoMage - Return of Eternity (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TechnoMage - Return of Eternity (Europe).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc2838fbc05aae6ef72f3da6c833156c",
+        "sha1": "71223456d07192ab9c9a24e814829fa600dd6ce6",
+        "crc32": "6ed71521"
+      }
+    },
+    {
+      "filename": "TechnoMage - Return of Eternity (Europe).bin",
+      "filesize": 682315200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78b4f0f9a6c5dbc0963a87ad571ae3ab",
+        "sha1": "790600d94f38efd28519fef767b2c8c52526aadb",
+        "crc32": "6010fa91"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Terry Pratchett's Discworld (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Terry Pratchett's Discworld (USA).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "44d214da0def1ad181748ab567e32300",
+        "sha1": "eb47da53279e3ad1b9db2445038dd70f8d1f99bd",
+        "crc32": "68895fa1"
+      }
+    },
+    {
+      "filename": "Terry Pratchett's Discworld (USA).bin",
+      "filesize": 537718944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17b79a32f900a36985287895f94be33c",
+        "sha1": "7883c9576a70534baa74adb66a9cca56cbce8257",
+        "crc32": "43f90d42"
+      }
+    }
+  ]
+}

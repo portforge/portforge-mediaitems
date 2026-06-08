@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Epidemic (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Epidemic (USA).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "849d390c7f34fe5d58541701fbedb310",
+        "sha1": "4f9aa21c63d070702932dacca9109d740c8d02e6",
+        "crc32": "31dc8f09"
+      }
+    },
+    {
+      "filename": "Epidemic (USA).bin",
+      "filesize": 738191664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4df9205e5a127281b3a1df6af328aac2",
+        "sha1": "3f1dfbaa63adc6699393f6767674d6af1c52fdf4",
+        "crc32": "6c95457a"
+      }
+    }
+  ]
+}

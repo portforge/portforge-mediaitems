@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 3 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 3 (USA) (Demo).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9b0e44c964a2b19fe418153933d7618",
+        "sha1": "dd0d8b8f567195e6b39914b8ccfdd6a9def8a642",
+        "crc32": "3d9e287a"
+      }
+    },
+    {
+      "filename": "Syphon Filter 3 (USA) (Demo).bin",
+      "filesize": 161057904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "856e3932e7f258b4dd3fedbc155e7e0a",
+        "sha1": "388a13d83952b01118dd7668169f722e3a52b288",
+        "crc32": "c2fafe82"
+      }
+    }
+  ]
+}

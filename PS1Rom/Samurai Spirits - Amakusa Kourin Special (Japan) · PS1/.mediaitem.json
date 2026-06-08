@@ -1,0 +1,417 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Samurai Spirits - Amakusa Kourin Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan).cue",
+      "filesize": 5702,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0223f0e7a87039f4aa948cc9195fbb7e",
+        "sha1": "76a897e66514fe0fe845ecf43ba0a85009cae873",
+        "crc32": "36512932"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 01).bin",
+      "filesize": 60117120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f0a7a9bac6bec65dc8fa54ba6807dab",
+        "sha1": "29933a7f8e25f2012ad82758797cfd9fc897feb1",
+        "crc32": "66f11a5f"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 02).bin",
+      "filesize": 2921184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91d2dea80fba011ae075bb3e53f79201",
+        "sha1": "5fa6ca95ab3a82bb94f8ad5afeb0966692f57af3",
+        "crc32": "8bf78cec"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 03).bin",
+      "filesize": 1274784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ef0330faab2c291f477fbb7e5a4ede2",
+        "sha1": "b1007494c015251a7ec56fe2934d834cfeb02c7e",
+        "crc32": "a1d4940d"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 04).bin",
+      "filesize": 6524448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58f0e9890fb5660ff580bd409848e195",
+        "sha1": "accfeb2cc01ef9807855730fa306fcb7500f4c34",
+        "crc32": "5b9e7122"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 05).bin",
+      "filesize": 1232448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c9f8e5fd751841988ebf892dc1f2513",
+        "sha1": "010b4183c46e0eedac139a8636dc17680b63e0bb",
+        "crc32": "11ffb169"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 06).bin",
+      "filesize": 3019968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba6a1c224970cbe825ae4361d96de727",
+        "sha1": "106750b886e48738a4333e44c817e2bd8cfa174d",
+        "crc32": "c88d5ac8"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 07).bin",
+      "filesize": 24150336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f4787c3521efdc7860b157aea27b4a8",
+        "sha1": "45d76553c40f1d82b534e272f6a06207546599d6",
+        "crc32": "d345bcae"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 08).bin",
+      "filesize": 24187968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ade662c9e14a4ae9b4098eed21dfdd0",
+        "sha1": "99c5485a86162ca1ee9e2303d6eb47a0b2815959",
+        "crc32": "1b752453"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 09).bin",
+      "filesize": 24152688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a98f4c579f35ea73067adef2a51095c",
+        "sha1": "d586dc3163ad9ace01dfe423cb88f0878da13774",
+        "crc32": "6f47a165"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 10).bin",
+      "filesize": 17973984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57ebe5eeca65a3271868899d1a92cede",
+        "sha1": "56fbe3fc3a4ddbbbfcfccd7c41ded5ac4339269e",
+        "crc32": "24b57b57"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 11).bin",
+      "filesize": 28642656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "340e94d5a9c11867c968bd7ce8b8da14",
+        "sha1": "da7f3d7b9ab1f2039716423ebb2c92fcabd896de",
+        "crc32": "56dc4d96"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 12).bin",
+      "filesize": 24616032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68350ff56dbf500501b2790fcea83284",
+        "sha1": "e6b25faeecc8d6420b8eb28388837ebb3c393e29",
+        "crc32": "b5c41995"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 13).bin",
+      "filesize": 8417808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60d39fae64d29210c3cb206a325b34c4",
+        "sha1": "00c7487532e2e98de3423e7f03d7e2c1e046dc99",
+        "crc32": "bfc7a3ec"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 14).bin",
+      "filesize": 26241264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd4ba147ffd30446b73b05023bc04c10",
+        "sha1": "1bed72f6a46564315cd5b52bf4cfbb36c4ff7b02",
+        "crc32": "21580afb"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 15).bin",
+      "filesize": 24378480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f128ac67b24b55fd884046069375323d",
+        "sha1": "651188775bbdbce9bce9256022fc0d3698dc667d",
+        "crc32": "d2da4159"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 16).bin",
+      "filesize": 24691296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45697916715a6419c39f7410ec49602e",
+        "sha1": "7b831d96b409443d6251baaa5fb53de7e253110c",
+        "crc32": "028c97a7"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 17).bin",
+      "filesize": 17797584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19bfdddd24aeebe35f3df45a5da85743",
+        "sha1": "f29ebdac7a38de86ac25f30f753c999b6cdaf607",
+        "crc32": "189c7e1c"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 18).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de1486f9643f06699585f09d6671927e",
+        "sha1": "4d6aa52772e0172bb4937a089b96ec1b3b0afb7a",
+        "crc32": "119c1a8f"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 19).bin",
+      "filesize": 23809296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dcfac678039170a80e9a6e12945d7e3",
+        "sha1": "2642c5a49f5501c74c0d75484b6946225b61be22",
+        "crc32": "63a76919"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 20).bin",
+      "filesize": 17487120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3745050f72064e5bf6b8ff3133e98fd",
+        "sha1": "50f559c5beff69166e6617fadd68b5d871369c20",
+        "crc32": "c62f2cbc"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 21).bin",
+      "filesize": 8304912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f376b263f2e1428b2b87fdc74a414b6",
+        "sha1": "89dc361fe9eb5c1be8ead3b065955abe99e26298",
+        "crc32": "54304b02"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 22).bin",
+      "filesize": 24719520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "392cb88fa56a1fc160b553f767a16716",
+        "sha1": "39af1a0579d3df7a47c2fb7050c03ad8f7efcc43",
+        "crc32": "6cb36405"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 23).bin",
+      "filesize": 25928448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a052febf2563773ecd31fb15b913ea78",
+        "sha1": "60531355a26f4d57e0b82a8faf8faf09e6743c18",
+        "crc32": "7a5dc32f"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 24).bin",
+      "filesize": 24152688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff2a780d2493cc806be0e7fd5497b771",
+        "sha1": "69b2020f933c0c6f3bd7b369f882a19caf74d045",
+        "crc32": "dc097c38"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 25).bin",
+      "filesize": 24147984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6f51a15025e79a9a89b756532992036",
+        "sha1": "d86f4eb711cd47a8eec7f391454f492a284e85fd",
+        "crc32": "c663f584"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 26).bin",
+      "filesize": 24152688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54f80625b4fe0d1c875940a06587d774",
+        "sha1": "d2d2e55208f621dab88254261a5c249ad0c1dcac",
+        "crc32": "d595cf86"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 27).bin",
+      "filesize": 24133872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e5d1447784de664cfe540d1f952e5c9",
+        "sha1": "b3b63f83f06b1a72c6b9a9e87adb0c58c3e2570e",
+        "crc32": "2f91003e"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 28).bin",
+      "filesize": 8283744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a368854fdf6cebb80489dc4d6d71acd",
+        "sha1": "7df364fedf22d8e83c6b7b6de35550042e09e1de",
+        "crc32": "a91547e1"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 29).bin",
+      "filesize": 21142128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a5773a16561afea47a5d239ddef9e2e",
+        "sha1": "4b4bf0b61371b185d78c37b270cb9acf01234ccf",
+        "crc32": "60905b6b"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 30).bin",
+      "filesize": 6030528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf0cb9282997d5ff5a207d68e609cd98",
+        "sha1": "fe1be9b63e771f84fe15f949cf292dc023cafed0",
+        "crc32": "08bff290"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 31).bin",
+      "filesize": 23044896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cad7ff9569688abe568df02aa0391bf2",
+        "sha1": "56641002adace9cade092f2ca82c4fd98fb9bc24",
+        "crc32": "8d7e0b01"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 32).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc9d1b586ab878087531d48ea456b38d",
+        "sha1": "f85b4089c662a238f28a8075eda8dafa4bade170",
+        "crc32": "fb4f6fc7"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 33).bin",
+      "filesize": 24187968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19fbb0b4073e0f7dbcf64cede1bf796d",
+        "sha1": "82f34776c0e2b67f6b982c69834de264ab3ccd28",
+        "crc32": "ffbc550b"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 34).bin",
+      "filesize": 6599712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e6c9644577be326418a2e197578e577",
+        "sha1": "e912bb71ca6e0c023cee476dbfe3261fd8451632",
+        "crc32": "4f815d6d"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 35).bin",
+      "filesize": 11146128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "625cc5273fb9b56fb7e2bde794c93980",
+        "sha1": "3fd8f197189024025c4564179747987ab2b0a6ab",
+        "crc32": "fce33fb2"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 36).bin",
+      "filesize": 18886560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5e089403d630feb935da72a4faf3507",
+        "sha1": "c0627e65bb9a43ca657fa9117aefc7a542379939",
+        "crc32": "1dc5aaf3"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 37).bin",
+      "filesize": 1171296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ec8c3ef06b778d8cb73797098d5cbc3",
+        "sha1": "a9ca807034279760e73254175c251b2f2bdceaf5",
+        "crc32": "191a4c62"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 38).bin",
+      "filesize": 11609472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddbd04542a112fbb26c969c11853db5d",
+        "sha1": "fe6476e3cc6ac4d982d2fc795b1a7a41ac838fbe",
+        "crc32": "9f9cb31a"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 39).bin",
+      "filesize": 23407104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95eb5c25142609c40898593a7e1e5a02",
+        "sha1": "7decd32038d393c83761f2453552e30d91ed6778",
+        "crc32": "0d1ef7cd"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Amakusa Kourin Special (Japan) (Track 40).bin",
+      "filesize": 46461408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa66560f2a8b8a80e9aeed5e5be625f6",
+        "sha1": "736e3364b2cfc6546ba232ba0d851e6e13b5b51c",
+        "crc32": "11e9b83c"
+      }
+    }
+  ]
+}

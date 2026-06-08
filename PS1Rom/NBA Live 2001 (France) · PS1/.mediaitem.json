@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2001 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2001 (France).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7210cb9d8d7ccea9bf79751dace939be",
+        "sha1": "c82a49647e6f095ddbf8d3757372bab10767704a",
+        "crc32": "e6c433af"
+      }
+    },
+    {
+      "filename": "NBA Live 2001 (France).bin",
+      "filesize": 463061760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f04e4fc05f026ededca040ad401d4e2d",
+        "sha1": "08d42bcd22c4274e3034e9ccb0f0c43cd2b139dd",
+        "crc32": "cb64fa59"
+      }
+    }
+  ]
+}

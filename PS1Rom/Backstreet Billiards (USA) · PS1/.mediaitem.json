@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Backstreet Billiards (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Backstreet Billiards (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b552a0c8ea609908178c4172a7c7abfb",
+        "sha1": "b6a35070f55aa246113f6decd41a79e759837a5b",
+        "crc32": "e951aff0"
+      }
+    },
+    {
+      "filename": "Backstreet Billiards (USA).bin",
+      "filesize": 456553776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7c7bf8809812f529e2d2df9af578110",
+        "sha1": "72a832ed33211fe08b3b8f8db94d1b14bd07edc7",
+        "crc32": "9c7177e7"
+      }
+    }
+  ]
+}

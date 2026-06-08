@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Andretti Racing (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Andretti Racing (Europe).cue",
+      "filesize": 690,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a519f69bf1e3488bfa90a72d6fda4450",
+        "sha1": "5d7d47a8dacd3f9db4bc1ddbe5c651c207546665",
+        "crc32": "3695b0b2"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Europe) (Track 1).bin",
+      "filesize": 574753536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7bd41f20cf41fb43af15723b9782b707",
+        "sha1": "e7a8f974bae31a374fe6ec1c6c6a4bbb087e894a",
+        "crc32": "2b8544eb"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Europe) (Track 2).bin",
+      "filesize": 23475312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "969b8a951e451a099027d122cba3a327",
+        "sha1": "c05b2f0f7f0a0c3cfba7fd294fa24ad9bcf0ce52",
+        "crc32": "1b1bfc1c"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Europe) (Track 3).bin",
+      "filesize": 26516448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "565d59c5f37b7b0da0e177df31a2ed9f",
+        "sha1": "bee68dd9f27ea98b8a52f42192b6321ccb3e4559",
+        "crc32": "ded4644f"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Europe) (Track 4).bin",
+      "filesize": 27805344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bea918ff84d17986d4283102d5feb6c4",
+        "sha1": "e58d04fee0a44ac9e4f5dbee2431e59240be69bd",
+        "crc32": "6f60fb5e"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Europe) (Track 5).bin",
+      "filesize": 25495680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a07316efa7c68a9766ad53dd077de770",
+        "sha1": "d0ec0ecec6eb9db89464291f93081ae596bff542",
+        "crc32": "a016715e"
+      }
+    },
+    {
+      "filename": "Andretti Racing (Europe) (Track 6).bin",
+      "filesize": 31074624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01900b517eba213dad871f5992b577a9",
+        "sha1": "19176f27bab77674c6295d7beaed04e773743920",
+        "crc32": "da1f2d55"
+      }
+    }
+  ]
+}

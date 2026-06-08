@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police - Weapons of Justice (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police - Weapons of Justice (USA).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30dd58afa581d0e40d24fa4fd5af816b",
+        "sha1": "b23b7ac45178743e9ede47ee1c200c73241e9f6e",
+        "crc32": "426c4359"
+      }
+    },
+    {
+      "filename": "G-Police - Weapons of Justice (USA).bin",
+      "filesize": 701396976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88c94a5e217f67aaafc9bf7016dfc871",
+        "sha1": "6465f16acf5b9818a520ce28ca476c3d4eec6856",
+        "crc32": "c6af61a9"
+      }
+    }
+  ]
+}

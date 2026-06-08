@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "100% Star (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "100% Star (France).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87563c8f7480c4986b18721a574f0752",
+        "sha1": "7464ad47591e106b3bc47b9329943e1ae98a1da4",
+        "crc32": "dd7e7f04"
+      }
+    },
+    {
+      "filename": "100% Star (France) (Track 1).bin",
+      "filesize": 36764112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aec2a27b77c867ef517a1dd2b19e2c0f",
+        "sha1": "ed37acb420798878fd9ec47305d53b043cbc893e",
+        "crc32": "35c61af7"
+      }
+    },
+    {
+      "filename": "100% Star (France) (Track 2).bin",
+      "filesize": 33508944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "308db86e70bdb4192f6c3603a9451a45",
+        "sha1": "26cd8247c03111249119495f64923196f85bc74e",
+        "crc32": "82ccd767"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Morita Shougi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Morita Shougi (Japan).cue",
+      "filesize": 557,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0de1dfd6026765c9667b4d8ecf74ef6",
+        "sha1": "33c8772eb1f51c468f0adadbb1167a73c38b729a",
+        "crc32": "0c720fb0"
+      }
+    },
+    {
+      "filename": "Morita Shougi (Japan) (Track 1).bin",
+      "filesize": 75113472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4a3f9b4a946f4c5a49ece7f5a91891f",
+        "sha1": "2e60ad28c0f0fc917099f59fbbcff857f84e9bbd",
+        "crc32": "cc991ee8"
+      }
+    },
+    {
+      "filename": "Morita Shougi (Japan) (Track 2).bin",
+      "filesize": 52896480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "793ff7377ebde639989babbac75d15e3",
+        "sha1": "f081be4ed304b22571aa4a58f33240cbe5e4c616",
+        "crc32": "746fece1"
+      }
+    },
+    {
+      "filename": "Morita Shougi (Japan) (Track 3).bin",
+      "filesize": 56711424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a83d1bf770a9247892fbf2483c36de1b",
+        "sha1": "f47fcabbb77ca1f9be1510001a90637f017cfcad",
+        "crc32": "f94cfa7c"
+      }
+    },
+    {
+      "filename": "Morita Shougi (Japan) (Track 4).bin",
+      "filesize": 82188288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd8e7467f9900ea0e56f7e87fbfd9ea3",
+        "sha1": "c3358fa3bde110099ab80d0b19b1218074492a1f",
+        "crc32": "524a364a"
+      }
+    },
+    {
+      "filename": "Morita Shougi (Japan) (Track 5).bin",
+      "filesize": 76809264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4acea98497d13c371e545363364a8bbe",
+        "sha1": "956263226c7ac6f42e61aff3eddca85e06b8c995",
+        "crc32": "bf63bc07"
+      }
+    }
+  ]
+}

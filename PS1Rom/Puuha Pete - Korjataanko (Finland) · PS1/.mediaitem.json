@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puuha Pete - Korjataanko (Finland)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puuha Pete - Korjataanko (Finland).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "80c72a83bee324271f7e945c85019ead",
+        "sha1": "e5a870f309a86f9a851eb37b618dc1213ef16a16",
+        "crc32": "5f5c3e9a"
+      }
+    },
+    {
+      "filename": "Puuha Pete - Korjataanko (Finland).bin",
+      "filesize": 164407152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1db1527c5d2518e5e1e4c1786bc7551d",
+        "sha1": "0e7153ad4a686bc63c3788bd15b564faccf42fc3",
+        "crc32": "ce4598ee"
+      }
+    }
+  ]
+}

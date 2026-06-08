@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Bowling 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Bowling 2 (Europe).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb86757c75ce2e47f7339795884b4bd7",
+        "sha1": "e1ebfbef215b970d9a409aa52c0720d70328ddee",
+        "crc32": "533ee2b8"
+      }
+    },
+    {
+      "filename": "King of Bowling 2 (Europe) (Track 1).bin",
+      "filesize": 72403968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0949aa782496b5772a487befd8e9a175",
+        "sha1": "fbaa85b3f904ece12ecba920eb4d7736a5276dcf",
+        "crc32": "e777f540"
+      }
+    },
+    {
+      "filename": "King of Bowling 2 (Europe) (Track 2).bin",
+      "filesize": 33508944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "308db86e70bdb4192f6c3603a9451a45",
+        "sha1": "26cd8247c03111249119495f64923196f85bc74e",
+        "crc32": "82ccd767"
+      }
+    }
+  ]
+}

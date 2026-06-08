@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episodio I - La Amenaza Fantasma (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episodio I - La Amenaza Fantasma (Spain).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a42c05ddb857024260bb950b60a66ee0",
+        "sha1": "e640590cae343907bb2f7c058a9997f982ff2ac0",
+        "crc32": "2d5ff571"
+      }
+    },
+    {
+      "filename": "Star Wars - Episodio I - La Amenaza Fantasma (Spain).bin",
+      "filesize": 669346272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35b5b6271adb578140202bf9ce43e5dd",
+        "sha1": "1212d17d2051d474e4d141358d09a2165f3b8a8a",
+        "crc32": "96cc2942"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BallBlazer Champions (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BallBlazer Champions (Spain).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8bc805c11d81996ab41071739ac2c88",
+        "sha1": "9a4624a3268e150a3cb689ab770a48439589e0a3",
+        "crc32": "6fa0acc9"
+      }
+    },
+    {
+      "filename": "BallBlazer Champions (Spain).bin",
+      "filesize": 441331632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2df452d719100ae0b5d40f658c26bce",
+        "sha1": "1124b2be6b4f780a61451bdac399e8ffba512437",
+        "crc32": "916e140e"
+      }
+    }
+  ]
+}

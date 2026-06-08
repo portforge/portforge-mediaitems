@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spectral Tower II (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spectral Tower II (Japan) (Demo).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e63690b3e3e4bbf01b8a5c2451acb7c0",
+        "sha1": "fe457bbce57c4c7015b3d41f850e66497cb1896a",
+        "crc32": "37008ca6"
+      }
+    },
+    {
+      "filename": "Spectral Tower II (Japan) (Demo).bin",
+      "filesize": 316216992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1d86dbc0f32af2d075d1d7de75a4a93",
+        "sha1": "089372b5e60deb2d703202c8f4f78abc936d4dc7",
+        "crc32": "aca4ded9"
+      }
+    }
+  ]
+}

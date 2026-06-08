@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Treasure Planet (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Treasure Planet (USA).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "869b97b6907097ddcaf81388ab2b20ea",
+        "sha1": "d18322b993c68e37f22a1c7136227f3bc58c77d3",
+        "crc32": "2977d160"
+      }
+    },
+    {
+      "filename": "Disney's Treasure Planet (USA).bin",
+      "filesize": 586534704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b50ba2b09b4b9005e097d621bc5d6e5f",
+        "sha1": "f01d2c76a6541454beb911e94f69b8e75aea055e",
+        "crc32": "89d392e1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Downhill Snow (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Downhill Snow (Japan).cue",
+      "filesize": 1017,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f62edf184b15dcf18e632540bb0e2aa1",
+        "sha1": "cc989fc899993c57afb428b3a82b0ec62424c289",
+        "crc32": "0467a017"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 1).bin",
+      "filesize": 145779312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4f6db7ee29f5a3666708f7ccb3c3669",
+        "sha1": "9f7220b866835a7d0a23a829c2a29b813197b7f9",
+        "crc32": "320f898b"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 2).bin",
+      "filesize": 34395648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29e9963636e7819e08a2961c2889dd09",
+        "sha1": "0ffa23b24630a07a88b15af619e99bc9104cf334",
+        "crc32": "bfc03bc9"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 3).bin",
+      "filesize": 34096944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "574d980f825fc92f33aa3bc7b869f603",
+        "sha1": "3106d7f7108cf512914e7b0dcbb9076e66aca6f1",
+        "crc32": "41701f23"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 4).bin",
+      "filesize": 34586160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "516a2d1299d364b9ff5ad7168c8ce48c",
+        "sha1": "dfccfd26ce318583edef2a3b6fcfd0c2e668fca6",
+        "crc32": "3c50b058"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 5).bin",
+      "filesize": 34525008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae9d964b16526c661ec9f4fb9540cae8",
+        "sha1": "e3359860e360857d265ee28f4bb7e51d4504554d",
+        "crc32": "a77d65f4"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 6).bin",
+      "filesize": 34167504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ee7f4bf219ad9509b519c7abf6430d6",
+        "sha1": "e30227fefa7139962700b29e7700511a278798f5",
+        "crc32": "f25be818"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 7).bin",
+      "filesize": 36249024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42a09fd245e04168912e48cd82d66086",
+        "sha1": "bab674dd703c64cb32f9607e999930922e71ce39",
+        "crc32": "7e24e038"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 8).bin",
+      "filesize": 34343904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "669de64af29eec14616ed6da3261f308",
+        "sha1": "50ef7dcf9dea2498b8b9638e089b2cee84283616",
+        "crc32": "a4f08a57"
+      }
+    },
+    {
+      "filename": "Downhill Snow (Japan) (Track 9).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

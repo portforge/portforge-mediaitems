@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strikers 1945 II (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strikers 1945 II (Europe).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d3d7dfb2e2cdf9ef1e64d42ebcf5e88",
+        "sha1": "19f2b221377a1671293e2699ed57a01a81fce08b",
+        "crc32": "e2720cd3"
+      }
+    },
+    {
+      "filename": "Strikers 1945 II (Europe).bin",
+      "filesize": 357511056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d48ef2c34be1f43464982c66bbc7540c",
+        "sha1": "46638dca7158867086c865150ee451ca3828c6a0",
+        "crc32": "3f1ccbbd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LEGO Island 2 - The Brickster's Revenge (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LEGO Island 2 - The Brickster's Revenge (Sweden).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c76f72635302f6f687fe60e8fdb5c1be",
+        "sha1": "48879ee7464cbb6f043842ffed6b7cf912f09845",
+        "crc32": "cc63c987"
+      }
+    },
+    {
+      "filename": "LEGO Island 2 - The Brickster's Revenge (Sweden).bin",
+      "filesize": 238377552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce52b9ec605067981018efdb4cfb0e07",
+        "sha1": "2aa6200456148e8340e1590992505301702cd8c5",
+        "crc32": "fdaf4220"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Choujin Gakuen - Gowcaizer (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Choujin Gakuen - Gowcaizer (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1a18863a19fd5f5de43ede114750a900",
+        "sha1": "958a05a87296a384052cb7ce6cc8450107bf212e",
+        "crc32": "3c3f3ff5"
+      }
+    },
+    {
+      "filename": "Choujin Gakuen - Gowcaizer (Japan).bin",
+      "filesize": 275931936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a688424362e6c1750b70ab2396eebcc",
+        "sha1": "22dc40d93c264d629a68813e39825db000b09826",
+        "crc32": "f7ffa17c"
+      }
+    }
+  ]
+}

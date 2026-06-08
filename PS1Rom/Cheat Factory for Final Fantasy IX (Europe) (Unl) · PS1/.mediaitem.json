@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cheat Factory for Final Fantasy IX (Europe) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cheat Factory for Final Fantasy IX (Europe) (Unl).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5fc1695340e386044a85d5a0d9baa37",
+        "sha1": "d931d6d5f84ccb2abf82ee401e089c6360c8744e",
+        "crc32": "aa132320"
+      }
+    },
+    {
+      "filename": "Cheat Factory for Final Fantasy IX (Europe) (Unl).bin",
+      "filesize": 97372800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d7ea614fb89b3526b870bc3e7b54465",
+        "sha1": "bd1763aee648e9e0450b04b81b87567daebecfcc",
+        "crc32": "45ce414a"
+      }
+    }
+  ]
+}

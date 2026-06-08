@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Biohazard 2 (Japan) (Disc 1) (Leon-hen)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Biohazard 2 (Japan) (Disc 1) (Leon-hen).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "713744c84cd716e02ad67f44f634254c",
+        "sha1": "e812d329d7005d3b87f6383ad3d1b96fb3059aee",
+        "crc32": "1cca310e"
+      }
+    },
+    {
+      "filename": "Biohazard 2 (Japan) (Disc 1) (Leon-hen) (Track 1).bin",
+      "filesize": 618202032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9584e38d789cf787a6a976b3b72a2013",
+        "sha1": "9ffe7db1d5fcbee0d34bff4dc6a71c935b7ac025",
+        "crc32": "94622710"
+      }
+    },
+    {
+      "filename": "Biohazard 2 (Japan) (Disc 1) (Leon-hen) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

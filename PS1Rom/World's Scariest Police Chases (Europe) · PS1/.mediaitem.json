@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World's Scariest Police Chases (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World's Scariest Police Chases (Europe).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "844f0f6492e6cb12662539ab46b3ca20",
+        "sha1": "099123513aa5b07b62a6ae7b2703c41cad9ed965",
+        "crc32": "67bfba9d"
+      }
+    },
+    {
+      "filename": "World's Scariest Police Chases (Europe).bin",
+      "filesize": 437380272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc5303a68d177d33a2a7c01278d7ffeb",
+        "sha1": "1868ccd965df53354138b69c159ad63e1654860f",
+        "crc32": "26369655"
+      }
+    }
+  ]
+}

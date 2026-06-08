@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Duke Nukem (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Duke Nukem (France) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0468eb679f15ce18e2ed17142405f428",
+        "sha1": "717922edb3ade76fb19676d161cdd64ec8715334",
+        "crc32": "0acc23d1"
+      }
+    },
+    {
+      "filename": "Duke Nukem (France) (Demo).bin",
+      "filesize": 49090944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d22492d1db5915ef309f862b0528c40",
+        "sha1": "f544157a6ddd9647fb817dc3fe078ebed70c83a4",
+        "crc32": "32af7a3d"
+      }
+    }
+  ]
+}

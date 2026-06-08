@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Memories Off 2nd (Japan) (Disc 3) (Making Disc) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Memories Off 2nd (Japan) (Disc 3) (Making Disc) (Shokai Genteiban).cue",
+      "filesize": 302,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3299aaad82c44ee167e842e3d1c2e5b9",
+        "sha1": "09cebc193c6cb0f1f70b02d47351f9de87900dab",
+        "crc32": "3df5c84b"
+      }
+    },
+    {
+      "filename": "Memories Off 2nd (Japan) (Disc 3) (Making Disc) (Shokai Genteiban) (Track 1).bin",
+      "filesize": 703497312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd3fe0a71cf6996dd83d614341e44e3c",
+        "sha1": "124449aed8f83b3d2bf58a624e8e0827da13c0fd",
+        "crc32": "d9acfa19"
+      }
+    },
+    {
+      "filename": "Memories Off 2nd (Japan) (Disc 3) (Making Disc) (Shokai Genteiban) (Track 2).bin",
+      "filesize": 28238112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71f7b178ef8ba02f3b5fe89113d0804c",
+        "sha1": "bcb10bcebc3269005a1d6fba987561f243501066",
+        "crc32": "fac0ca8f"
+      }
+    }
+  ]
+}

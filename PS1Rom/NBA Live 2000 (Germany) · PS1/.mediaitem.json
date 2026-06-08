@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2000 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2000 (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a9745415cce30365675dbaf251f29a13",
+        "sha1": "86e9cbd95e41659fe1cea89764131735afcf29ca",
+        "crc32": "f8498a3b"
+      }
+    },
+    {
+      "filename": "NBA Live 2000 (Germany).bin",
+      "filesize": 562683072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1db03928d3910d5ef1fa8675cdd9d92d",
+        "sha1": "c416e54a35e977a7730c833dd3934b45309f6c1e",
+        "crc32": "5f7257ed"
+      }
+    }
+  ]
+}

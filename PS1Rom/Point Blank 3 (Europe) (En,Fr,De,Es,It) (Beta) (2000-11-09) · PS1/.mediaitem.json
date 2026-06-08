@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Point Blank 3 (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-09)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Point Blank 3 (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-09).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fdf5b297c0522c13c5310dd5ceda20a4",
+        "sha1": "f5f1aaf6ba40600fbf01ac52dd2753a18f33d866",
+        "crc32": "83d2c799"
+      }
+    },
+    {
+      "filename": "Point Blank 3 (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-09).bin",
+      "filesize": 276348240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c655d7d132f341e69250f54f8c13bec",
+        "sha1": "ccab08e91e35f70e574d33dcbdb473aa2724720f",
+        "crc32": "10368a4f"
+      }
+    }
+  ]
+}

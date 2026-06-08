@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Athletess - Daiundoukai Alternative (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Athletess - Daiundoukai Alternative (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b8b2ce8ca834941cdef773baf53547dd",
+        "sha1": "714e0adf9b3ff7d4bba927fd90bbca53df5fd54f",
+        "crc32": "4d2b79d6"
+      }
+    },
+    {
+      "filename": "Battle Athletess - Daiundoukai Alternative (Japan).bin",
+      "filesize": 722343888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d64f87f262c68374ad7b492ea4a66c8",
+        "sha1": "f6c7a6dae7c4faefbb71246a77597b8f78d85252",
+        "crc32": "6df8bc2a"
+      }
+    }
+  ]
+}

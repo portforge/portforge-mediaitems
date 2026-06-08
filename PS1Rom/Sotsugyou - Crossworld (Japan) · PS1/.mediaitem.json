@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sotsugyou - Crossworld (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sotsugyou - Crossworld (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c48c73755ba3dbc12603cce1d4295e40",
+        "sha1": "ecaca029dabc29aa9f88840660e1b0b41ad9daa5",
+        "crc32": "9a46ce0a"
+      }
+    },
+    {
+      "filename": "Sotsugyou - Crossworld (Japan).bin",
+      "filesize": 267911616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "856b1a60f33b8182b5f31a3a4effbbf7",
+        "sha1": "109bef3e06bdeebc8d371ed3cc48bb29db3f5097",
+        "crc32": "35db60e8"
+      }
+    }
+  ]
+}

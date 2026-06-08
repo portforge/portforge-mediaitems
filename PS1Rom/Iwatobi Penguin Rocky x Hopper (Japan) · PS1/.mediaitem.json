@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Iwatobi Penguin Rocky x Hopper (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Iwatobi Penguin Rocky x Hopper (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f70ae81d6af282118ecb13f021db998",
+        "sha1": "7027196e21e522774a52d31f5eee094f1aa123ae",
+        "crc32": "7dea2a5b"
+      }
+    },
+    {
+      "filename": "Iwatobi Penguin Rocky x Hopper (Japan).bin",
+      "filesize": 380412480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "335a45a85b6df28eaa3fb8205d8c477f",
+        "sha1": "169adeb8c8f0e563e271aef8f04f32ec1813fe01",
+        "crc32": "ad613433"
+      }
+    }
+  ]
+}

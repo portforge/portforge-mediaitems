@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Power 5 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Power 5 (Spain).cue",
+      "filesize": 780,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ecc6913c4b78e0338b7e3707340697f",
+        "sha1": "b91a9ba0ee1bf855146923f932b1e3ede6479c69",
+        "crc32": "217df292"
+      }
+    },
+    {
+      "filename": "Play Power 5 (Spain) (Track 1).bin",
+      "filesize": 166716816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1d994f17a7206899e97527dde8e1548",
+        "sha1": "1e4240cde248af52ecbd98c432b557f558bb228c",
+        "crc32": "1f8bb8f0"
+      }
+    },
+    {
+      "filename": "Play Power 5 (Spain) (Track 2).bin",
+      "filesize": 35383488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d37525b4cda030888e1c81c82dcc3d3c",
+        "sha1": "0c29f4dfaaef4100d4dd6cb5c09f8030be861b89",
+        "crc32": "f1f2366f"
+      }
+    },
+    {
+      "filename": "Play Power 5 (Spain) (Track 3).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Play Power 5 (Spain) (Track 4).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Play Power 5 (Spain) (Track 5).bin",
+      "filesize": 26093088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cab6337c5b8c9678034cdf724f1e0593",
+        "sha1": "94cf45af4c58ed8aeed6b91bddcac553688f8135",
+        "crc32": "2ba81cab"
+      }
+    },
+    {
+      "filename": "Play Power 5 (Spain) (Track 6).bin",
+      "filesize": 4313568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b908c86ce99bd67f465a709e036849e2",
+        "sha1": "094a8a7b15dbf7a7adeaab9df4226479b269a73d",
+        "crc32": "36ea4c7f"
+      }
+    },
+    {
+      "filename": "Play Power 5 (Spain) (Track 7).bin",
+      "filesize": 41684496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc286305281feabea831356592ed60bf",
+        "sha1": "37ff43b8d94c1af59cf486d04132f1e35852d36f",
+        "crc32": "f88960fb"
+      }
+    }
+  ]
+}

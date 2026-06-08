@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Geki-Oh - Shienryuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Geki-Oh - Shienryuu (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de0eccf046d7ccd4b1c73139a6b7c633",
+        "sha1": "6112b9f1cbaee720e2739f19f24198583955ba6a",
+        "crc32": "5c32f800"
+      }
+    },
+    {
+      "filename": "Geki-Oh - Shienryuu (Japan).bin",
+      "filesize": 697339776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e139effdcecbf71d087c36ea7772a78d",
+        "sha1": "c2cab2590c5c2a1a9f6ac0b56c5a74db9df879f8",
+        "crc32": "553dd074"
+      }
+    }
+  ]
+}

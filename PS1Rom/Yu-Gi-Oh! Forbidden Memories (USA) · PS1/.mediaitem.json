@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yu-Gi-Oh! Forbidden Memories (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yu-Gi-Oh! Forbidden Memories (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2e71b1f51a2b432525f7568ea54685cc",
+        "sha1": "ec2cd0458c22ac4aa7c2ecb4aa81a5ca3c7751ec",
+        "crc32": "bceed6fa"
+      }
+    },
+    {
+      "filename": "Yu-Gi-Oh! Forbidden Memories (USA).bin",
+      "filesize": 517872768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c20bcde742e15c82d09bda1d6c6d62f2",
+        "sha1": "d5785a41900a10968d4a28a390666c4b9879b796",
+        "crc32": "73e4c771"
+      }
+    }
+  ]
+}

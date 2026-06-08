@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TOCA 2 Touring Cars (Europe) (Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TOCA 2 Touring Cars (Europe) (Es,It).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f0fbbac4e12bf375558e25f06981ecdd",
+        "sha1": "eb6cbfbc50380b187047b5252663e948b34f1d5d",
+        "crc32": "98a43945"
+      }
+    },
+    {
+      "filename": "TOCA 2 Touring Cars (Europe) (Es,It) (Track 1).bin",
+      "filesize": 417618768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d01eac0baf80654999ad910f5d9c5a83",
+        "sha1": "33df4f90c56522557b2778bd68bd183e8adc890f",
+        "crc32": "82f0d2b9"
+      }
+    },
+    {
+      "filename": "TOCA 2 Touring Cars (Europe) (Es,It) (Track 2).bin",
+      "filesize": 41599824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be83eb7ad70614f6ddc706e2988ba8f0",
+        "sha1": "942aed74a5d824e1edb46b7bbca55d6e963f2350",
+        "crc32": "82ecc4cd"
+      }
+    }
+  ]
+}

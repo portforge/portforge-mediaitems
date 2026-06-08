@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DemoDemo PlayStation Vol. 11 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DemoDemo PlayStation Vol. 11 (Japan).cue",
+      "filesize": 632,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b0b990efc5e5679ea0cc60d299bbe399",
+        "sha1": "60900410dd0d0860b0492116ea4b5c0d6871bc77",
+        "crc32": "f6c6b048"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 11 (Japan) (Track 1).bin",
+      "filesize": 390156816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e54b01217c17f2a24de2438c02161c2b",
+        "sha1": "ebb859aae5aff761478f8e47b3645a3142fcb11d",
+        "crc32": "fc5a3b64"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 11 (Japan) (Track 2).bin",
+      "filesize": 7714560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b0f4708a8b0358520a56f06fe9a3818",
+        "sha1": "fabe8b8b0973db496fd4191548da9ec17d98e618",
+        "crc32": "2ef64f2c"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 11 (Japan) (Track 3).bin",
+      "filesize": 21685440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51ed810da4ee3ece73ad0d5f90dd0001",
+        "sha1": "b9e0e01d959199d714941476ebdbfea00e8f9b5f",
+        "crc32": "0a0ac295"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 11 (Japan) (Track 4).bin",
+      "filesize": 16713312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5845a57fc486acc289d3cc1a73250e5d",
+        "sha1": "fbb6f2c79eb79c09c246eff1764ca5800f4b7a62",
+        "crc32": "66060949"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 11 (Japan) (Track 5).bin",
+      "filesize": 4548768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30f3706a0079e651d1604c35a78d4dd",
+        "sha1": "2251135edd2ca9cfc6c4fc114022a7f8dd79ecc0",
+        "crc32": "0d4b679e"
+      }
+    }
+  ]
+}

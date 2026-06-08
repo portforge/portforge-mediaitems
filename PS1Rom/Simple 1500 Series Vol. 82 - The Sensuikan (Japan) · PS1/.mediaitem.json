@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 82 - The Sensuikan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 82 - The Sensuikan (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6031d1f5bea5f7c64c1e0776cdfb0dee",
+        "sha1": "9c9ecfa9b3a32d0c880f47521ed878040a25bfae",
+        "crc32": "564f7dbd"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 82 - The Sensuikan (Japan).bin",
+      "filesize": 41075328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53015c2ed8d26ac39cd69ca466c4a6d9",
+        "sha1": "bd126d2f2c7e89eca1cab341aebc90c49bc6a892",
+        "crc32": "d073a987"
+      }
+    }
+  ]
+}

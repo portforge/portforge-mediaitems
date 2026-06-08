@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar A Bug's Life - Disneys Malen und Spielen (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar A Bug's Life - Disneys Malen und Spielen (Germany).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "970c6431384b5b276701714803d34690",
+        "sha1": "5b73306e0f52d29504164cc782d89190413b7cde",
+        "crc32": "bb362426"
+      }
+    },
+    {
+      "filename": "Disney-Pixar A Bug's Life - Disneys Malen und Spielen (Germany).bin",
+      "filesize": 298899216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27d943a19e1e87ceded7217768ed43ca",
+        "sha1": "ed0abd2df882772098516ad0e197734847b91e93",
+        "crc32": "6d444079"
+      }
+    }
+  ]
+}

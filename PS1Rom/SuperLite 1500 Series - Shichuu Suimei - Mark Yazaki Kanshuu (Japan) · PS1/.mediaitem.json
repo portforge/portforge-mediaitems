@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan).cue",
+      "filesize": 1116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "93eb8b7f7a3d19231d7fe5e6c490a730",
+        "sha1": "c2c15e14a3135d9f5b4cc0b0d6f51d7e7f6f8275",
+        "crc32": "55417bef"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan) (Track 1).bin",
+      "filesize": 5607168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4f7fdcec3b607a76f2be67a1e5a4872",
+        "sha1": "92ec60f2decda23e967b0b1d8c4133070c101f22",
+        "crc32": "65063836"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan) (Track 2).bin",
+      "filesize": 34508544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36efc9e014886f8264269480d87e6324",
+        "sha1": "c46b18c2c25695817fa65b2074ffcaecf6f17ccc",
+        "crc32": "01239fc3"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan) (Track 3).bin",
+      "filesize": 6889008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a99678b5c4bd912f1dae440de653059",
+        "sha1": "77d5dacf45ad5b51b412a33d423f452a2970a945",
+        "crc32": "92f74ac6"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan) (Track 4).bin",
+      "filesize": 36597120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab572aadb58748b4bf868fd2a507946a",
+        "sha1": "a942cc5d6e420a8d66387e24cd5e493ccef251e5",
+        "crc32": "fc74c044"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan) (Track 5).bin",
+      "filesize": 35618688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f30ee37be33eb60ecc8293f95025395",
+        "sha1": "999a6d5ad1e31a53f3c3edddb24ac7f4851931ba",
+        "crc32": "83669e8e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan) (Track 6).bin",
+      "filesize": 41809152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf90d0c6a124303f8030c45ce1914f5e",
+        "sha1": "a5871ec6da1b5149d06158c46a3bb35d7ea44754",
+        "crc32": "1adbbd3a"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Shichuu Suimei - Mark Yazaki Kanshuu (Japan) (Track 7).bin",
+      "filesize": 52049760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f956d8f22476c8ee1f7daedb7d8da221",
+        "sha1": "4a7257b9f8bb14ecf0b6da67eeb6aa3f97c40df5",
+        "crc32": "2aaa6148"
+      }
+    }
+  ]
+}

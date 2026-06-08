@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL 99 (Europe) (En,Fr,Sv,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL 99 (Europe) (En,Fr,Sv,Fi).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b34108366952846e171ddc6907663fb",
+        "sha1": "81b3143f6b951a24d77f8db5b6151ec0411172e8",
+        "crc32": "2f8c1733"
+      }
+    },
+    {
+      "filename": "NHL 99 (Europe) (En,Fr,Sv,Fi).bin",
+      "filesize": 694505616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b390145b1c9883944224ab36b105a00",
+        "sha1": "fa50578255bd91ab1d6ef386c276c43663c56e27",
+        "crc32": "5734eda0"
+      }
+    }
+  ]
+}

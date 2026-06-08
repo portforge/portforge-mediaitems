@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Castlevania - Symphony of the Night (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Castlevania - Symphony of the Night (Europe).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7fca283c247abb7b8b9beba4429d39cd",
+        "sha1": "638e6bacf7b8cb3b193b6f48f77a090d0dbd434d",
+        "crc32": "2ab02b13"
+      }
+    },
+    {
+      "filename": "Castlevania - Symphony of the Night (Europe) (Track 1).bin",
+      "filesize": 538664448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3997553de7f055eb19e3951801d3949a",
+        "sha1": "60dd1f28c4ffbe03b813ccae3af9a766e6f21d5c",
+        "crc32": "a2ca6e76"
+      }
+    },
+    {
+      "filename": "Castlevania - Symphony of the Night (Europe) (Track 2).bin",
+      "filesize": 44676240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f4b1df20c0173f7c2e6a30bd3109ac8",
+        "sha1": "1cb96a57f7363a2a43e79683f1a79c62bb6190dc",
+        "crc32": "70efb5c6"
+      }
+    }
+  ]
+}

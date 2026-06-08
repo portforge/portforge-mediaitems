@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Ball - Final Bout (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Ball - Final Bout (France).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c069ed1036fb9f4f02b70af5f6d3384c",
+        "sha1": "8d8569b698bf97e4bb59ba78edca173223686952",
+        "crc32": "964faee7"
+      }
+    },
+    {
+      "filename": "Dragon Ball - Final Bout (France).bin",
+      "filesize": 160886208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b320579fd71fdbafd69d908791b5aa54",
+        "sha1": "c65535b57fa2b5c6af0f0244bf9e8312ca536e95",
+        "crc32": "8528644b"
+      }
+    }
+  ]
+}

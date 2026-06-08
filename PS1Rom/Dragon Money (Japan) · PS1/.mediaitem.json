@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Money (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Money (Japan).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "33a9dff9f84e4a0560ab25104f11d010",
+        "sha1": "0231ef5c58769868b44f443f7c4bea2cd9d6a2d9",
+        "crc32": "04a37ca9"
+      }
+    },
+    {
+      "filename": "Dragon Money (Japan) (Track 1).bin",
+      "filesize": 111658848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89ad2a7408a42fb0c4ed2b15a6043666",
+        "sha1": "ed5cc5634ec24917a481f9b2b2d120398a4a9716",
+        "crc32": "6e89f06c"
+      }
+    },
+    {
+      "filename": "Dragon Money (Japan) (Track 2).bin",
+      "filesize": 32946816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe19f593549d09c8cd5281d267b12c2a",
+        "sha1": "082b21e066303d9de21d48327980b4db08099fed",
+        "crc32": "a8c1d4fc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Family Igo 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Family Igo 2 (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "07044b6b306b6a36e6179cc280d593aa",
+        "sha1": "4177feafdacd433bd97a363c1cfc760d7e600d16",
+        "crc32": "e94f91fb"
+      }
+    },
+    {
+      "filename": "Family Igo 2 (Japan).bin",
+      "filesize": 39014976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9cf1bdeb985c4a933dd628c124121eeb",
+        "sha1": "f3f0967b1b2702fe8f714de728ce08c9be152103",
+        "crc32": "3a4ee15c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Todd McFarlane's Spawn - The Ultimate (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Todd McFarlane's Spawn - The Ultimate (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08b2b704211386788822b81ca7099350",
+        "sha1": "ede971500247e6618fdc205eb90a6b6f847a95ef",
+        "crc32": "2c3e795b"
+      }
+    },
+    {
+      "filename": "Todd McFarlane's Spawn - The Ultimate (Japan).bin",
+      "filesize": 425594400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7745e2fc24be10e49cb0333b637f1016",
+        "sha1": "7a00783694df2bda076855f354a53b0dac9c35a1",
+        "crc32": "980a8225"
+      }
+    }
+  ]
+}

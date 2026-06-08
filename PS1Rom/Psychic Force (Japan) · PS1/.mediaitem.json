@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Psychic Force (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Psychic Force (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ab27d2958eb88f274ff77f6958bb3624",
+        "sha1": "2af86f730a4b68eeab37d23c09fb3422c5b46304",
+        "crc32": "987e60f3"
+      }
+    },
+    {
+      "filename": "Psychic Force (Japan).bin",
+      "filesize": 539798112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8de55658bb1cd4d9699b5909e86d236",
+        "sha1": "fd140f572c31f9f879e7e2935c2a85550432c30f",
+        "crc32": "54c67c91"
+      }
+    }
+  ]
+}

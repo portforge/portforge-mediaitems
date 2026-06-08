@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jet Moto 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jet Moto 3 (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "658248a09dcd4c53fd74ebe2e5e153b6",
+        "sha1": "91b513551c646f98c9a5bbd7213544f4d5bcce31",
+        "crc32": "7ed80898"
+      }
+    },
+    {
+      "filename": "Jet Moto 3 (USA).bin",
+      "filesize": 637474320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66452e812a04154f48e5328167f5691d",
+        "sha1": "4e4cf0f4ddece08621d7230ac1dd0ed5601948bb",
+        "crc32": "9dc795bb"
+      }
+    }
+  ]
+}

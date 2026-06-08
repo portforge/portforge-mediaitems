@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 75 - The Double Shooting - RayStorm x RayCrisis (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 75 - The Double Shooting - RayStorm x RayCrisis (Japan).cue",
+      "filesize": 145,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67b24d7a0ad94f0ff39d4da46bc2f9a0",
+        "sha1": "5f02e028cce0e91f726641627242ac3fe09d2fbc",
+        "crc32": "5ca02d1a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 75 - The Double Shooting - RayStorm x RayCrisis (Japan).bin",
+      "filesize": 638485680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2f347bea726438009d3ea2ecfff170f",
+        "sha1": "63c1d86965003c086af79837638230d573938b08",
+        "crc32": "c9d0510e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan).cue",
+      "filesize": 284,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4fb27fc758f1c23bdc1c4659c98502ed",
+        "sha1": "5612c7fc278fc97e1be7a7529d64b5d1b04dc18e",
+        "crc32": "a0f955e7"
+      }
+    },
+    {
+      "filename": "Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan) (Track 1).bin",
+      "filesize": 179071872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00208fc1319de95e23f2d0232b959a50",
+        "sha1": "1a8803a08115a911e5d18a5e435b568ef5466879",
+        "crc32": "cfcad40f"
+      }
+    },
+    {
+      "filename": "Akagawa Jirou - Majotachi no Nemuri - Fukkatsusai (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

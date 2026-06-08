@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro Body Boarding (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De).cue",
+      "filesize": 1161,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1788e6396b71f6960fc26c165ee3011d",
+        "sha1": "4b4322cb0453c9e16c7ebc05cb3dd2f8c81565d7",
+        "crc32": "6020a1bb"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 18303264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ee166d7d19395ee7d4a30ebe0852425",
+        "sha1": "c09dbc4ee02c44b0e6e3b4c84dd4b2769884bf03",
+        "crc32": "61d728bc"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 32382336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40b5fe07be369c1878225cc4bfca523a",
+        "sha1": "673e4dd09889c96a6394ba546cf527f07406bdd0",
+        "crc32": "ca8556a7"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 3).bin",
+      "filesize": 20619984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1387425cc0f19636f1180f5385a0eda1",
+        "sha1": "dae697bbc75c786dbf4cad9a45f30922ef42c040",
+        "crc32": "735ac384"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 4).bin",
+      "filesize": 30321984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9249dec5b41f725091bbe3480f5420e4",
+        "sha1": "1632d9b51ed1097dfde94ddc37fdfa78fc6472c9",
+        "crc32": "52aba9b5"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 5).bin",
+      "filesize": 30613632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2679c6c7b8ac99b629c046e7af398eb",
+        "sha1": "abcd9cd3f2a89539c62d5a1bd74bac64bbd5edd5",
+        "crc32": "3bd8652a"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 6).bin",
+      "filesize": 29044848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb53a30ab842f012a74d474d9064300d",
+        "sha1": "4044d1526839360c6557951c887883023636c05d",
+        "crc32": "4940c4d4"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 7).bin",
+      "filesize": 34659072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f08890491801d80c63b3b2635db9c7c",
+        "sha1": "2d3f8a94b98b217a1208e533a6f60b9e272b26e4",
+        "crc32": "7e0f946a"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 8).bin",
+      "filesize": 24898272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b55789e7807ccaaef59ff90e3e832dc9",
+        "sha1": "d0724f8e4f6c687998a57a4fbe4d4506a2ba3673",
+        "crc32": "1803246e"
+      }
+    },
+    {
+      "filename": "Pro Body Boarding (Europe) (En,Fr,De) (Track 9).bin",
+      "filesize": 57247680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e19e1e887fc8d199fed42713b6dd4a",
+        "sha1": "2684ab2829aed371913c6f942f5a2024c338523e",
+        "crc32": "bbd67734"
+      }
+    }
+  ]
+}

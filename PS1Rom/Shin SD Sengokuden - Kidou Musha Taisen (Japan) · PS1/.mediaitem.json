@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shin SD Sengokuden - Kidou Musha Taisen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shin SD Sengokuden - Kidou Musha Taisen (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "09651a0f1f3d8641a44bf494af9677db",
+        "sha1": "f7815970e8e41cc7f5291e4a88ce46f3f40d9e4e",
+        "crc32": "7206009f"
+      }
+    },
+    {
+      "filename": "Shin SD Sengokuden - Kidou Musha Taisen (Japan).bin",
+      "filesize": 692772192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc95e7748036b9b911a53d2ac403a652",
+        "sha1": "161f83aa8b8206ab77ef90519976b18fc50be93a",
+        "crc32": "908aedcb"
+      }
+    }
+  ]
+}

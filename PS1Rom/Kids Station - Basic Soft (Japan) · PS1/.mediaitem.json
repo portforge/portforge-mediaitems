@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Basic Soft (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Basic Soft (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e28800288828f346e8dbada51f6ed997",
+        "sha1": "777114d95030ea76a23126a6d6704f49b0f6fa4f",
+        "crc32": "6804b106"
+      }
+    },
+    {
+      "filename": "Kids Station - Basic Soft (Japan).bin",
+      "filesize": 134588496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c9afa998c27bfdc4d220c4be30ec01f",
+        "sha1": "d8bdf95e76d1b31a123a0b3df60ed72fddc58e81",
+        "crc32": "904c820b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix No. 8 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix No. 8 (Japan).cue",
+      "filesize": 774,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d64cb47c3f8c0c7c6a7093798078da17",
+        "sha1": "8fbd8889436fe7d4878664740280bc6b6f26b180",
+        "crc32": "babbcb08"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 8 (Japan) (Track 1).bin",
+      "filesize": 329070672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a589b24e9b7444b83812fc223876eb3f",
+        "sha1": "c46881745248dd05e1eb86ceb86a40382a6b1645",
+        "crc32": "1134b810"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 8 (Japan) (Track 2).bin",
+      "filesize": 33704160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61f594db2f3128d69516f2511a11f497",
+        "sha1": "30ab7453bf466a7a372192e1ea3432bfa1c41b1d",
+        "crc32": "b290dd13"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 8 (Japan) (Track 3).bin",
+      "filesize": 11132016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13ddc43f8337ac7b390f648cfaedab3a",
+        "sha1": "8c0ad6bdcf444652645a12906a72686f197cf7f4",
+        "crc32": "bdef3d8e"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 8 (Japan) (Track 4).bin",
+      "filesize": 9106944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "84f1688aad7d6b3ed77bddfc8223f90f",
+        "sha1": "f2dc9bdc39f904c12afb7e7a4b92a81ed2bc18d1",
+        "crc32": "787f54db"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 8 (Japan) (Track 5).bin",
+      "filesize": 17995152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f07795ee0f964a5169522666d0518bb",
+        "sha1": "821942123e8c0d9d0ba9665033224dcc3c5ac954",
+        "crc32": "781a89b7"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix No. 8 (Japan) (Track 6).bin",
+      "filesize": 47907888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10f77bb97c2cbf57f5a0ac9ffe46ad14",
+        "sha1": "2e7ccabc135813d683415e2dbc3b23481497590b",
+        "crc32": "96977c34"
+      }
+    }
+  ]
+}

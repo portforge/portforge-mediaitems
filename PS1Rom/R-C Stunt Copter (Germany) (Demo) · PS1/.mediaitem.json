@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R-C Stunt Copter (Germany) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R-C Stunt Copter (Germany) (Demo).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec79a9cd186153b4ebb59bc936bb6a6d",
+        "sha1": "25e785242e0e7a41012ef0a0165bffa13fbf2618",
+        "crc32": "6edf016e"
+      }
+    },
+    {
+      "filename": "R-C Stunt Copter (Germany) (Demo) (Track 1).bin",
+      "filesize": 163953216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd8bd38aa0240687a6bddc1ff665f84d",
+        "sha1": "14f8746b160c51feba8d5f95bd582f17148ab512",
+        "crc32": "fd601c65"
+      }
+    },
+    {
+      "filename": "R-C Stunt Copter (Germany) (Demo) (Track 2).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

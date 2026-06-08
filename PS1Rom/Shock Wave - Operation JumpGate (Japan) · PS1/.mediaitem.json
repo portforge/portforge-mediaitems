@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shock Wave - Operation JumpGate (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shock Wave - Operation JumpGate (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7cb720b8e1a67557b45b492b39baaf62",
+        "sha1": "d2dfae855f3046b3279cc9d9e99563073c0e5e2f",
+        "crc32": "b07fee83"
+      }
+    },
+    {
+      "filename": "Shock Wave - Operation JumpGate (Japan).bin",
+      "filesize": 292577040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c549476f1acf61eb75e448dadad242d2",
+        "sha1": "81bd476cda3a0f6859206ba8f1036ff4e83a01ee",
+        "crc32": "f2783f29"
+      }
+    }
+  ]
+}

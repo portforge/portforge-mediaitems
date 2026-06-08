@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Egypt 1156 A.C. - L'Enigma della Tomba Reale (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Egypt 1156 A.C. - L'Enigma della Tomba Reale (Italy).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b4c1b03784aa1b5a15a2b0f1c34eac0",
+        "sha1": "5b5b289430b2e176af3057ed3b456126a9d3e1f3",
+        "crc32": "ea6c8678"
+      }
+    },
+    {
+      "filename": "Egypt 1156 A.C. - L'Enigma della Tomba Reale (Italy).bin",
+      "filesize": 645941520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f16ee99a7ea84075c12081dac3970d8e",
+        "sha1": "05974cddf470907e7dab1865acc7670df5cca23b",
+        "crc32": "f73cb782"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Boku no Choro Q (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Boku no Choro Q (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1dbf4efcd38e38cfa4a7ae85015ddc84",
+        "sha1": "db0dbb12d3173a9fd31ac6ea57705bcdca95e58a",
+        "crc32": "2dadcfab"
+      }
+    },
+    {
+      "filename": "Boku no Choro Q (Japan).bin",
+      "filesize": 253016400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7e489e985028e7df531081e03162b64",
+        "sha1": "79ae72d1c0b0f09c783ac102f34c644a4f3f192e",
+        "crc32": "75ae43fe"
+      }
+    }
+  ]
+}

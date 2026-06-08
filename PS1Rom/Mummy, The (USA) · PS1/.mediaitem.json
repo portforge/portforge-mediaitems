@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mummy, The (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mummy, The (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5353b051ed98a4d2c24dabfb7751a9fe",
+        "sha1": "ea771b3f2006e1e3274a17f932e94819aac6fa53",
+        "crc32": "3c80b6a7"
+      }
+    },
+    {
+      "filename": "Mummy, The (USA).bin",
+      "filesize": 458103744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c6f8dbed7233c1d1ed74d92aa67b857",
+        "sha1": "ef266fcac356f05950a81aaa350fbf211defcdd8",
+        "crc32": "5a6b2b68"
+      }
+    }
+  ]
+}

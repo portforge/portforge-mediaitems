@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SNK Fan Collection - Garou Densetsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SNK Fan Collection - Garou Densetsu (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d1e045900f120221cabdf6ee9b2df3a",
+        "sha1": "f86807fd3d83e1b7f17278884371c0198cd7f878",
+        "crc32": "2ff46872"
+      }
+    },
+    {
+      "filename": "SNK Fan Collection - Garou Densetsu (Japan).bin",
+      "filesize": 672657888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "679b252665a095c29fdf055f3cc3d357",
+        "sha1": "0a6f0a756fc82686d7e6d4b68116d6c5002285a3",
+        "crc32": "bd8289a9"
+      }
+    }
+  ]
+}

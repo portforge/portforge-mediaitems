@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yamagata Digital Museum (Japan) (Disc 2) (Summer)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yamagata Digital Museum (Japan) (Disc 2) (Summer).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b7f88ec782a8152f9ed15351118be966",
+        "sha1": "53f7bfc172ce85850a3e9be2ed513a488345f2a5",
+        "crc32": "94f9bb44"
+      }
+    },
+    {
+      "filename": "Yamagata Digital Museum (Japan) (Disc 2) (Summer).bin",
+      "filesize": 84076944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccf9d16191774ed1715d41907afed5e1",
+        "sha1": "ea4a18f0e5445b0ea163c480a9283816c36ecf72",
+        "crc32": "8b684b36"
+      }
+    }
+  ]
+}

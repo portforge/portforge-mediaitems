@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Necronomicon - El Alba de las Tinieblas (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Necronomicon - El Alba de las Tinieblas (Spain) (Disc 2).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8df073c48f6fecf976e7a0523502140b",
+        "sha1": "ab316fb7b636ea36ffb82ab6783683e749301366",
+        "crc32": "ae1c9349"
+      }
+    },
+    {
+      "filename": "Necronomicon - El Alba de las Tinieblas (Spain) (Disc 2).bin",
+      "filesize": 720845664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b70bb41b56a1f13836d259ae2ff25a7a",
+        "sha1": "a32759d923383a49f7d6f592e99506b122d67a94",
+        "crc32": "ad13076c"
+      }
+    }
+  ]
+}

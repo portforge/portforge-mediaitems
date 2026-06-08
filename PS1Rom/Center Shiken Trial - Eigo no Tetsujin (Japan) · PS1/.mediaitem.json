@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Center Shiken Trial - Eigo no Tetsujin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Center Shiken Trial - Eigo no Tetsujin (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0210623e6ae3bdf459452a7e5f6fc14",
+        "sha1": "5096a365031c5e71e2a5e3eefe51dd7f50fdf79a",
+        "crc32": "b0116faf"
+      }
+    },
+    {
+      "filename": "Center Shiken Trial - Eigo no Tetsujin (Japan).bin",
+      "filesize": 346809456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e756d8b7d6f04108bc828ecc2239554",
+        "sha1": "b63ef28832a0a6d1238ebaac90747e7cb6c7197f",
+        "crc32": "8990bf8d"
+      }
+    }
+  ]
+}

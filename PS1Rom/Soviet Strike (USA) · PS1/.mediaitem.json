@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soviet Strike (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soviet Strike (USA).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9489d371cc49643652ead15fb11345f",
+        "sha1": "13bd16d9fbdf4a17a49e8ba1d8788f39ef3b91cd",
+        "crc32": "c3653318"
+      }
+    },
+    {
+      "filename": "Soviet Strike (USA) (Track 1).bin",
+      "filesize": 622936608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e6cce16840cc9a79b822bfabcce7ecb",
+        "sha1": "657adae4057f33d834f324b70870626fed5b821a",
+        "crc32": "72fc9268"
+      }
+    },
+    {
+      "filename": "Soviet Strike (USA) (Track 2).bin",
+      "filesize": 48865152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b49d141b64bf22127d1ff601f070891",
+        "sha1": "38c89dbf9eaa56330dc199dd245d58e5317c0b37",
+        "crc32": "aff1f2ad"
+      }
+    }
+  ]
+}

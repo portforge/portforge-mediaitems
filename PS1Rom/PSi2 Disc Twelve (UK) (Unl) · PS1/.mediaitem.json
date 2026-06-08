@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSi2 Disc Twelve (UK) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSi2 Disc Twelve (UK) (Unl).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "533469817017088f7735672d57b1bd25",
+        "sha1": "108eb6c90d1522cc9e0b9788562e2cb23dec6943",
+        "crc32": "08094e53"
+      }
+    },
+    {
+      "filename": "PSi2 Disc Twelve (UK) (Unl).bin",
+      "filesize": 540804768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04812879d1bc70c9b164c7b0a44d7632",
+        "sha1": "1593f55f262f39cf92704368456b861403f21de6",
+        "crc32": "f81241ba"
+      }
+    }
+  ]
+}

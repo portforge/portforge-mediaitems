@@ -1,0 +1,457 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Firestorm - Thunderhawk 2 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany).cue",
+      "filesize": 5702,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b061ec270cecf760121565941a2b3eb1",
+        "sha1": "2726004aeeb0a6a5a9a2dd8d8b7ffa9053cbeb18",
+        "crc32": "b48c7406"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 01).bin",
+      "filesize": 75887280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c418857208b301e4c31cc4dffc8599f",
+        "sha1": "e3c886253d824474ba6c5b4683b2ccfa6608b528",
+        "crc32": "f3030ebf"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 02).bin",
+      "filesize": 19399296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a68efeaa24a3315788e43df2cf43efbd",
+        "sha1": "24ac1d9451df7d871c930cfd61fbaef4e46077c2",
+        "crc32": "9ac8cf8a"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 03).bin",
+      "filesize": 62821920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80ea4a56da19a3b3c566039eeac4f15b",
+        "sha1": "569630fb9d9eaed1ec98c8e3d7c89d4f87b2de13",
+        "crc32": "d2a2e903"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 04).bin",
+      "filesize": 55366080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8284b5241d16ddcfefa50a87749e4668",
+        "sha1": "263eca9f9f1155c4f0c726821ca06f29019ff72b",
+        "crc32": "8e55bff5"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 05).bin",
+      "filesize": 47167008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e1b1420655d475569f5eea54d1f7b43",
+        "sha1": "b9ae429ecebfc0f85fabd1d15d05b8a39bf21056",
+        "crc32": "d8fd8b67"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 06).bin",
+      "filesize": 48397104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a5cf7d3b67ef9917cef851a084b70e8",
+        "sha1": "19547a19143dc52abcb54d49b74950bbab12b60d",
+        "crc32": "330e3af0"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 07).bin",
+      "filesize": 42343056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81824ac9061b209c9660aa3174887ddc",
+        "sha1": "169cd7648e63879be2409e48d2de0c0dffe6c543",
+        "crc32": "5180fc15"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 08).bin",
+      "filesize": 36634752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4188c9c0001ce843c185a5f91718d3c9",
+        "sha1": "bed7a8eaf4344c0d36b47cc399c362f7f2262529",
+        "crc32": "983f04d8"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 09).bin",
+      "filesize": 25951968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75543cd9880ef3a6c40a5b8138c3168e",
+        "sha1": "1090395063c5c05edb6724c434562a484a9a0e69",
+        "crc32": "cf01994c"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 10).bin",
+      "filesize": 3389232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "478d5bee9acdc655d7b29717c643a8b5",
+        "sha1": "05ea2714b3b1b39105ab21936451e659f7d51913",
+        "crc32": "b7ea9510"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 11).bin",
+      "filesize": 5294352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37bd25d32d637f2b8b27039a1037f80f",
+        "sha1": "57599c3d3aadd6c978d339bf569f079589160d12",
+        "crc32": "c18a4b3f"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 12).bin",
+      "filesize": 4132464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc2435bb4ecc4ba30a7b761f77e2c197",
+        "sha1": "8fc17bf54c7aacbac2644e500fdb7d053e6f21d5",
+        "crc32": "be56c664"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 13).bin",
+      "filesize": 2958816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a35a8f24459105229e260f2eaa9d630e",
+        "sha1": "f599842c366bc9af31860b486741a287eda440ae",
+        "crc32": "8979d932"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 14).bin",
+      "filesize": 3384528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ff5a5f6068876bf49c07dbfc3e838df",
+        "sha1": "4d9ea93c97925142e4d5fdaf050a016845f9fabf",
+        "crc32": "49438631"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 15).bin",
+      "filesize": 3629136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d0a24c4d036dd47e912dc2252ba53b9",
+        "sha1": "4a96e93b0d772d08c29d53ddeb68b77a04923468",
+        "crc32": "d5185849"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 16).bin",
+      "filesize": 3887856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fda10f91e3962f595bdb75b1b780630",
+        "sha1": "83a6a3e8bbf61a5171adeb15f118729768957c9e",
+        "crc32": "c9de097b"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 17).bin",
+      "filesize": 6301008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40728ccc0c25a4d235147add30793fce",
+        "sha1": "2d4707a2b65176ab1c52f39f2e39422603315f09",
+        "crc32": "fd33c7d6"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 18).bin",
+      "filesize": 3556224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cccc2b9dc3f48d65819e6b4dd86724d8",
+        "sha1": "bd653f325621d76bd009768d6c637f5b790b3f32",
+        "crc32": "e5f93a84"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 19).bin",
+      "filesize": 4649904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb4513a03da39ef42b2c309571b63f80",
+        "sha1": "0bf062f0657528f73429d78ff9372868a593c553",
+        "crc32": "01339933"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 20).bin",
+      "filesize": 3346896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8d17dc6034f11b3e5782f2955d1aaaf",
+        "sha1": "2e00faa6e4556a912adacd210033c5f63bb410f1",
+        "crc32": "3728666a"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 21).bin",
+      "filesize": 3114048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77f799590257801ac6242fb55f4ff28c",
+        "sha1": "4cb1eeb980427dd68a19aea0fc807b2f827822a6",
+        "crc32": "9e8921e6"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 22).bin",
+      "filesize": 2822400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62b0de3c37d115429d75a1378cb9ba86",
+        "sha1": "06e73b5d1f47b0fa033500fbaa34b7298a40424e",
+        "crc32": "2e48f76a"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 23).bin",
+      "filesize": 3925488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "594b884233015c9c3e11b0feb8a8b2a5",
+        "sha1": "63f7ed90434ae937f602723f85326763b9da654a",
+        "crc32": "bfd353ed"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 24).bin",
+      "filesize": 4050144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4540f606f70c42931810a37b49efea29",
+        "sha1": "b4e076ea0bcd8ee9a11df2e0a0a53eed8bf2a9d2",
+        "crc32": "563aa03a"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 25).bin",
+      "filesize": 2991744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ab8437020504f8994dc4747cd631235",
+        "sha1": "5ba3ab35e4d5de525a7a4884974a0df5e265dd09",
+        "crc32": "efc3fe49"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 26).bin",
+      "filesize": 2803584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cd5fdb1df5ce358c372e44a815d0061",
+        "sha1": "0560851d357791eef3186e2dc48e688abc3622c7",
+        "crc32": "289a93da"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 27).bin",
+      "filesize": 4059552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80fd0d272fbd3514edd0448aad17ee3d",
+        "sha1": "618670a7aeca66a431789a29b1fc3e16b9fe8187",
+        "crc32": "7b9feb3f"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 28).bin",
+      "filesize": 2481360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6181c4ab7626517f5331af2ab5c4fbf7",
+        "sha1": "d09e546fc38487f604c5775e52b523d1cb323dde",
+        "crc32": "2723f024"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 29).bin",
+      "filesize": 1973328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7e809d2961f9e7a0a04bffe2c00ede3",
+        "sha1": "506ef4b36b09944dc5760dfc0dfc35a1434946d2",
+        "crc32": "0734cba8"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 30).bin",
+      "filesize": 3010560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e47a42699b15ea29a5d8b4cd83781a4",
+        "sha1": "7bf0ca0f1c983d8d90411692b9590f9835811253",
+        "crc32": "7a75bb59"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 31).bin",
+      "filesize": 2316720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2478be2327586d192f9a631ac18bc170",
+        "sha1": "8d0ad0039235afe700819c9fdc95c6f4f3c3c79e",
+        "crc32": "48d957bb"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 32).bin",
+      "filesize": 3161088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6772734adf313174e9f4d558d57b9cb3",
+        "sha1": "0ec0cde12fc21ad263acdfea663f8a45d4be6d3c",
+        "crc32": "4e4768a2"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 33).bin",
+      "filesize": 2420208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "534538a347d5fa378c99dd650f0fc870",
+        "sha1": "defa97023366bf786ed6bd3304578f87390ea531",
+        "crc32": "ed833821"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 34).bin",
+      "filesize": 4308864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d67a9bc0ffb29f36c27d6f89126c2c6e",
+        "sha1": "802e1aa57266a5b8281521238cef5725c72fb5be",
+        "crc32": "6c2d7946"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 35).bin",
+      "filesize": 3017616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64e4eb42fe29670a10eeb85048c55e03",
+        "sha1": "f4fdec6e3abdad71be9552ec31cdac829cd3a2d9",
+        "crc32": "12336cfb"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 36).bin",
+      "filesize": 2081520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f041638a8eeee67d8ada38d024dc9607",
+        "sha1": "94b412b366db59fabdac3e3abc34813bcf763b15",
+        "crc32": "7b0a210c"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 37).bin",
+      "filesize": 2417856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4680c7fb985a09af87ebc5b3ef2faa8c",
+        "sha1": "733776c81420681ee90f4d0c92f10d81c14130cd",
+        "crc32": "ad28dc09"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 38).bin",
+      "filesize": 2279088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b35c68a0d87d7ba0333a68464b26cea4",
+        "sha1": "3f7e5422f4774dc420cfad484bc421b33b33fd9a",
+        "crc32": "68f27f63"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 39).bin",
+      "filesize": 3894912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa290b32da9b6f8096b03067d400c5e1",
+        "sha1": "e64f8ace58a411b593c2a7b825f3a1dc49c338c9",
+        "crc32": "34bcdc22"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 40).bin",
+      "filesize": 1796928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6ab652676b3694b6cbf93154da935fc",
+        "sha1": "63bdcb2582167d8fc140240dac54b1113f5cf51b",
+        "crc32": "b7186918"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 41).bin",
+      "filesize": 2370816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5648eeaacfa491cbafeeaa8ee6f30be1",
+        "sha1": "83a1fb5ab895b19030a205476218a9d2b37b45a9",
+        "crc32": "753acb8f"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 42).bin",
+      "filesize": 3918432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15656ceb763c9bfd933d37fd33863e24",
+        "sha1": "f29da2cf33733eccc467a79d761212c4fd4500b9",
+        "crc32": "f73504ad"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 43).bin",
+      "filesize": 2137968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8499add231c2c0cdbe74e25bd8d82afe",
+        "sha1": "1671c6a201e3011e176b58e6fbef78bf76a7fcd8",
+        "crc32": "5f46888b"
+      }
+    },
+    {
+      "filename": "Firestorm - Thunderhawk 2 (Germany) (Track 44).bin",
+      "filesize": 14248416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a03a26c8ee88b1a232e20707822b682a",
+        "sha1": "761dc5afb03e760710b1149d377d2d2084b152d4",
+        "crc32": "3a727307"
+      }
+    }
+  ]
+}

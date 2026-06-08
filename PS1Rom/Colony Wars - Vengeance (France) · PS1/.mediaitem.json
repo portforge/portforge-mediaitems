@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Colony Wars - Vengeance (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Colony Wars - Vengeance (France).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b863fdeca901442ab8650dd48a157b3f",
+        "sha1": "bf375e1feb3d19fc08b8afb555e3440358e306a3",
+        "crc32": "a79bf837"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (France) (Track 1).bin",
+      "filesize": 575386224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59b7e663935dc1ef977b7f8b75d442d6",
+        "sha1": "4a282015c25879504c7091b3249f4dd87500f9c6",
+        "crc32": "b5774f91"
+      }
+    },
+    {
+      "filename": "Colony Wars - Vengeance (France) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

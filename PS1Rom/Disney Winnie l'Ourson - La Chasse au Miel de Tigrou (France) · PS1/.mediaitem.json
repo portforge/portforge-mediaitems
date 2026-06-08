@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Winnie l'Ourson - La Chasse au Miel de Tigrou (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Winnie l'Ourson - La Chasse au Miel de Tigrou (France).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d721dc6c191cee43feb07d81011595b",
+        "sha1": "cf867842c7bba76d2d5e03b573f51a19607a1835",
+        "crc32": "4449ba98"
+      }
+    },
+    {
+      "filename": "Disney Winnie l'Ourson - La Chasse au Miel de Tigrou (France).bin",
+      "filesize": 361704672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6024ff703561b063d205669c325df75",
+        "sha1": "8161820f5eb4140128c9ec4e2088c364fbc6f1a2",
+        "crc32": "cd674a43"
+      }
+    }
+  ]
+}

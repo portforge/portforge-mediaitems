@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider-Man (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider-Man (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3cd5107d601f0839db4affc4b664d124",
+        "sha1": "2eb443067f5482b8a154626e1d102fa9e067e643",
+        "crc32": "173345dc"
+      }
+    },
+    {
+      "filename": "Spider-Man (Europe).bin",
+      "filesize": 730056096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2dec41c65ba972440773c5ed0eeffc6",
+        "sha1": "55ba6674d368b6f8e8022cd66b4e3695eebeee88",
+        "crc32": "2083f4c3"
+      }
+    }
+  ]
+}

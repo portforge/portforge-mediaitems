@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kamen Rider Agito & Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kamen Rider Agito & Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban).cue",
+      "filesize": 531,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bf6cacae3aeb66763adbc2538a7ec1f",
+        "sha1": "6447f112292a039b74f66266911cdfd1a7a803d4",
+        "crc32": "034ba9a4"
+      }
+    },
+    {
+      "filename": "Kamen Rider Agito & Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban) (Track 1).bin",
+      "filesize": 105204960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31252140848c02e348156694386c542a",
+        "sha1": "8a9c19168f08c2a681fb6d92af4f2fabd0397584",
+        "crc32": "f69a2b2e"
+      }
+    },
+    {
+      "filename": "Kamen Rider Agito & Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban) (Track 2).bin",
+      "filesize": 2829456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f431373cd27fd1eaf96b6cf5fa1473c2",
+        "sha1": "ea586857bd819722316da4ddea5de476c0a02ca0",
+        "crc32": "5ed0e3a9"
+      }
+    },
+    {
+      "filename": "Kamen Rider Agito & Hyakujuu Sentai GaoRanger (Japan) (2-dai Hero Special Disc Taikenban) (Track 3).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

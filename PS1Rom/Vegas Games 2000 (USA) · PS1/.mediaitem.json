@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vegas Games 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vegas Games 2000 (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea77d13b7be76382d5ea013f4cff2a9a",
+        "sha1": "4a8da0c675487bf38824a69191d4d3e11d2c7e77",
+        "crc32": "954e1059"
+      }
+    },
+    {
+      "filename": "Vegas Games 2000 (USA).bin",
+      "filesize": 225380400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68e6ea8414fcba60d8955f308ca6165d",
+        "sha1": "511bec3e6f654e057770a54364a11eb902620053",
+        "crc32": "c361b13f"
+      }
+    }
+  ]
+}

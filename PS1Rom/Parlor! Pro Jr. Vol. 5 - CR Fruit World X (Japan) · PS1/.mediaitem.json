@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parlor! Pro Jr. Vol. 5 - CR Fruit World X (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parlor! Pro Jr. Vol. 5 - CR Fruit World X (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59887b40ce45cd40686d1daa4db53525",
+        "sha1": "0b38d9e04561bbb43328f82e30790dcdbd4eaf04",
+        "crc32": "17dd6fb8"
+      }
+    },
+    {
+      "filename": "Parlor! Pro Jr. Vol. 5 - CR Fruit World X (Japan).bin",
+      "filesize": 43013376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68ae2f653752ffdd7b7ddd97b78019be",
+        "sha1": "d94958155def309622e4bb626a26a7689db6ebb2",
+        "crc32": "4cc566b3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next Demo 5 (Italy) (En,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next Demo 5 (Italy) (En,It).cue",
+      "filesize": 829,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0419821c23fc33d4f837d93247fd3ff0",
+        "sha1": "ee971eee7e52a942bfb5d306d321a089b296669e",
+        "crc32": "522ee940"
+      }
+    },
+    {
+      "filename": "Next Demo 5 (Italy) (En,It) (Track 1).bin",
+      "filesize": 167222496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb5b46803a4302d147a7087c525c8101",
+        "sha1": "69f39d518aa24f1c0545bb01b5a6b4a2640fc6d5",
+        "crc32": "afc3cfa3"
+      }
+    },
+    {
+      "filename": "Next Demo 5 (Italy) (En,It) (Track 2).bin",
+      "filesize": 35383488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d37525b4cda030888e1c81c82dcc3d3c",
+        "sha1": "0c29f4dfaaef4100d4dd6cb5c09f8030be861b89",
+        "crc32": "f1f2366f"
+      }
+    },
+    {
+      "filename": "Next Demo 5 (Italy) (En,It) (Track 3).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Next Demo 5 (Italy) (En,It) (Track 4).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Next Demo 5 (Italy) (En,It) (Track 5).bin",
+      "filesize": 26093088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cab6337c5b8c9678034cdf724f1e0593",
+        "sha1": "94cf45af4c58ed8aeed6b91bddcac553688f8135",
+        "crc32": "2ba81cab"
+      }
+    },
+    {
+      "filename": "Next Demo 5 (Italy) (En,It) (Track 6).bin",
+      "filesize": 4313568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b908c86ce99bd67f465a709e036849e2",
+        "sha1": "094a8a7b15dbf7a7adeaab9df4226479b269a73d",
+        "crc32": "36ea4c7f"
+      }
+    },
+    {
+      "filename": "Next Demo 5 (Italy) (En,It) (Track 7).bin",
+      "filesize": 32982096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8e0057e1dd3ef2c37a6620fe7cc9bae",
+        "sha1": "770af171ac7fd79b03259680d313251e09f5d218",
+        "crc32": "a367e0fc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spice World (Europe) (Beta) (1998-04-09)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spice World (Europe) (Beta) (1998-04-09).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9d58463c6c3bf095efc810d9987921a",
+        "sha1": "ca24ec62f36bbdf84e6c11f9893f36cf1387cf2d",
+        "crc32": "512978ab"
+      }
+    },
+    {
+      "filename": "Spice World (Europe) (Beta) (1998-04-09).bin",
+      "filesize": 460707408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df0b3260d8e8203b662826436e8a0f22",
+        "sha1": "c7e7cec5814be04f7fde512e533d20911f215288",
+        "crc32": "db35c6e7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenchi Muyou! Toukou Muyou (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenchi Muyou! Toukou Muyou (Japan) (Disc 2).cue",
+      "filesize": 256,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d6c8d3db6ce54689885c9424d780f09",
+        "sha1": "b8416213e64250b7ebb1b7a394ef27dfae4d45c5",
+        "crc32": "c5d9e107"
+      }
+    },
+    {
+      "filename": "Tenchi Muyou! Toukou Muyou (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 739885104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c761976c3e4a2c63b89304f54e2b9c9c",
+        "sha1": "40357898ef6b024619128b6df4fb4731283918d6",
+        "crc32": "c4134b31"
+      }
+    },
+    {
+      "filename": "Tenchi Muyou! Toukou Muyou (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 4718112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8f90723c3f6d8d5b0c61d55f0369141",
+        "sha1": "eb8ab7a9e624f0b2c7fd3e4aa1f743bcf4deb65f",
+        "crc32": "e02f8e58"
+      }
+    }
+  ]
+}

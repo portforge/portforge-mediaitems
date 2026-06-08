@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doki Doki Pretty League (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doki Doki Pretty League (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b66182af2c492f9761e590df9ca8a0d",
+        "sha1": "3c7180c3f80bb61f78ee9ba392ca4acffcfdd84c",
+        "crc32": "d58fa105"
+      }
+    },
+    {
+      "filename": "Doki Doki Pretty League (Japan).bin",
+      "filesize": 510480432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c86a623eb06372ecddcb65afdf05813c",
+        "sha1": "91435e2435d1f4e7107464bce6be92807dd696a6",
+        "crc32": "c6c186af"
+      }
+    }
+  ]
+}

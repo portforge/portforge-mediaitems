@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Face Off '97 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Face Off '97 (Europe).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2321aab9f44e5c557dda34e6f92a4578",
+        "sha1": "9b8b84393d67f8a0fb7929a6f22c664bcf03f066",
+        "crc32": "09712126"
+      }
+    },
+    {
+      "filename": "NHL Face Off '97 (Europe).bin",
+      "filesize": 373441152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d225585f1e30ec72800f34bbeca94d1e",
+        "sha1": "5b88d28287dd3c244443eb98f3d0e736f58257ec",
+        "crc32": "77c02f9d"
+      }
+    }
+  ]
+}

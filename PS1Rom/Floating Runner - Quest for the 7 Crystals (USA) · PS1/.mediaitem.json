@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Floating Runner - Quest for the 7 Crystals (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Floating Runner - Quest for the 7 Crystals (USA).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "659f2020a972907b6babbdb623c3a755",
+        "sha1": "5654dcae4f94cf99b017afeff460c29c7eed1f9f",
+        "crc32": "d4b37fdd"
+      }
+    },
+    {
+      "filename": "Floating Runner - Quest for the 7 Crystals (USA) (Track 1).bin",
+      "filesize": 16144128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28e24f74a5dd1648f3d919bd434214a3",
+        "sha1": "d695aba41e591f6457a6895421591f5e24353ee3",
+        "crc32": "c97df65a"
+      }
+    },
+    {
+      "filename": "Floating Runner - Quest for the 7 Crystals (USA) (Track 2).bin",
+      "filesize": 567725760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1fdef581263a204804f2b27c9b973162",
+        "sha1": "9f52293a995a388b6d77250e6b18f639acbd15b5",
+        "crc32": "1af74876"
+      }
+    }
+  ]
+}

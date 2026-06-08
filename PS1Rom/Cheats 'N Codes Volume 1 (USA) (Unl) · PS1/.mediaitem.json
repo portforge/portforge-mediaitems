@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cheats 'N Codes Volume 1 (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cheats 'N Codes Volume 1 (USA) (Unl).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9747ff2cecc89e1fe3cd961b0cfc9e66",
+        "sha1": "88b1a6999229ae5fa72d1abe3e57154d65ff2c8f",
+        "crc32": "a5c63704"
+      }
+    },
+    {
+      "filename": "Cheats 'N Codes Volume 1 (USA) (Unl).bin",
+      "filesize": 119966112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d19a6215d732304322e42194cd55053",
+        "sha1": "b84aaabbbd92bb9c3c2a7a2d98510bd13546f518",
+        "crc32": "aaba0221"
+      }
+    }
+  ]
+}

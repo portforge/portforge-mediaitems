@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eve - The Lost One (Japan) (Disc 2) (Snake Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eve - The Lost One (Japan) (Disc 2) (Snake Disc).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4a51a181be6d3566ba9037da79619cc",
+        "sha1": "4b8b95f6c3438f6e94e9b9c6f7142ba727658cd0",
+        "crc32": "312e1ccd"
+      }
+    },
+    {
+      "filename": "Eve - The Lost One (Japan) (Disc 2) (Snake Disc).bin",
+      "filesize": 652901088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79493bd1cb1c14ce3924f12821ffda60",
+        "sha1": "d8a6e97996855a4ee0fcd5237b048c2c32131748",
+        "crc32": "94c65bda"
+      }
+    }
+  ]
+}

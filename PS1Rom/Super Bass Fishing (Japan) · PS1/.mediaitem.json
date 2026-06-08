@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Bass Fishing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Bass Fishing (Japan).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b83495c3832b26436019eb638fc7e1b7",
+        "sha1": "ce79824a98998ea57ee7616a7a46a7d467ebfd6f",
+        "crc32": "7a9e18d3"
+      }
+    },
+    {
+      "filename": "Super Bass Fishing (Japan) (Track 1).bin",
+      "filesize": 21972384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6cd1fe103a53a80ef84a2b2bdac033de",
+        "sha1": "ed2120345a8055ff27aee97e323625467625810f",
+        "crc32": "edc78b66"
+      }
+    },
+    {
+      "filename": "Super Bass Fishing (Japan) (Track 2).bin",
+      "filesize": 44481024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "000eea1c4ac7b16f7ea2fc1291bbbb4d",
+        "sha1": "2ccf63b7faae438b25cd64ec8df0754a2a55cd17",
+        "crc32": "0df3fb8b"
+      }
+    }
+  ]
+}

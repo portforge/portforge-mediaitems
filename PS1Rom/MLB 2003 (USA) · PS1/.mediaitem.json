@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MLB 2003 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MLB 2003 (USA).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d5faceada15baf809582e5c71ec451ad",
+        "sha1": "90998649c4691772fb5e3873b31b6ddb6408e35d",
+        "crc32": "53eb0d27"
+      }
+    },
+    {
+      "filename": "MLB 2003 (USA).bin",
+      "filesize": 549295488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a996fd35c7ef76d14545682d48ddace",
+        "sha1": "b1b2c437ac49a2ffab0ae55bddf999957fc81816",
+        "crc32": "914a311a"
+      }
+    }
+  ]
+}

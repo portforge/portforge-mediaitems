@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arcade's Greatest Hits - The Atari Collection 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arcade's Greatest Hits - The Atari Collection 2 (USA).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fded2b29d8eb82b20bda91da0473c563",
+        "sha1": "0e26b5d11f0f5957849e0bc79af55de047ca3d55",
+        "crc32": "93d93662"
+      }
+    },
+    {
+      "filename": "Arcade's Greatest Hits - The Atari Collection 2 (USA).bin",
+      "filesize": 482856192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b772b9cb9f4a00534e57e0f86de4de9a",
+        "sha1": "8e7b1b190883e5a2e37c6523256e0d24025bb4bc",
+        "crc32": "1dc02577"
+      }
+    }
+  ]
+}

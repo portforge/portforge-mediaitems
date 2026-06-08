@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Boku no Natsuyasumi - Summer Holiday 20th Century (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Boku no Natsuyasumi - Summer Holiday 20th Century (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a199cbd4917ed5fa752ed47d188276d3",
+        "sha1": "7cddf5589281b8788c5ee0e1c882344cfd74cea3",
+        "crc32": "b267d6e8"
+      }
+    },
+    {
+      "filename": "Boku no Natsuyasumi - Summer Holiday 20th Century (Japan).bin",
+      "filesize": 658959840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee044864753c75ce0aea4ba777735fcd",
+        "sha1": "5959bf7d9835d0a60aeb0143e2d0fc564bfea9fa",
+        "crc32": "39d1fe3f"
+      }
+    }
+  ]
+}

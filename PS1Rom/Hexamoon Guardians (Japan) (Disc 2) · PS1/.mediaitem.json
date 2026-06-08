@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hexamoon Guardians (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hexamoon Guardians (Japan) (Disc 2).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f34e2c5b02fe00effa22eb2d4f26bfc",
+        "sha1": "97d4390cb4c9dd4042301c7e187e6e29af48bc76",
+        "crc32": "6bc77670"
+      }
+    },
+    {
+      "filename": "Hexamoon Guardians (Japan) (Disc 2).bin",
+      "filesize": 714445872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88b4cebccd2aa6b31bec5e811aa92886",
+        "sha1": "d2a924d99c9c4faf201f8e2bb445ba92564945ae",
+        "crc32": "a12a8eb4"
+      }
+    }
+  ]
+}

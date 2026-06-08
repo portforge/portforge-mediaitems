@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cyberia (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cyberia (Europe).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aca14cca7eb11ff5991e470413978200",
+        "sha1": "851b72afa105cbe77cc60d9ace8c5ee8e1bd0dc1",
+        "crc32": "1a266a5b"
+      }
+    },
+    {
+      "filename": "Cyberia (Europe).bin",
+      "filesize": 531279168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "119cc7de77b49bf309ef9b4dea5c9b69",
+        "sha1": "57986305d3c2f6e93cad1ab8cefa60d0f25a7d31",
+        "crc32": "ae992c04"
+      }
+    }
+  ]
+}

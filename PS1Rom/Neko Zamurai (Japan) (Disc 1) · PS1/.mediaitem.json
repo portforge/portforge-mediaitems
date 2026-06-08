@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Neko Zamurai (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Neko Zamurai (Japan) (Disc 1).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5c299a9a4b96ff2b8a2b84c69c420b7",
+        "sha1": "8a81a53811aa116ecdabe39bbf543ed1fca2c4bf",
+        "crc32": "d54912c2"
+      }
+    },
+    {
+      "filename": "Neko Zamurai (Japan) (Disc 1).bin",
+      "filesize": 668405472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e78f926ca39bbd7be4bb524f6e25b7e8",
+        "sha1": "56f4cecd675edc7dd06ec84d101300eb335cd8d5",
+        "crc32": "17db67a6"
+      }
+    }
+  ]
+}

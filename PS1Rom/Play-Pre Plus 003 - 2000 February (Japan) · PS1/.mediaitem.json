@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Plus 003 - 2000 February (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Plus 003 - 2000 February (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e9e9c712e0965d0071bc9c6dbed897b3",
+        "sha1": "f0577f011c7d9c47f5d7361f172645e9a5e7e391",
+        "crc32": "f46488e8"
+      }
+    },
+    {
+      "filename": "Play-Pre Plus 003 - 2000 February (Japan).bin",
+      "filesize": 571615968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "930cb799b7d8d0c63b74fa50f303049d",
+        "sha1": "903de460c8f790733605f200b5a4a5b2a20dbcec",
+        "crc32": "b95133c1"
+      }
+    }
+  ]
+}

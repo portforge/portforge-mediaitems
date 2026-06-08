@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Afraid Gear (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Afraid Gear (Japan).cue",
+      "filesize": 1401,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa1e15c95d5498d36dad98a4dd37a603",
+        "sha1": "02d2db9a43fb85ecc2c79c40fa7aef8afffed288",
+        "crc32": "916de743"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 01).bin",
+      "filesize": 407422848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "581ef72f086c96f5777d78741fe06f67",
+        "sha1": "e30729098c2e0ed3c3300ce58cad118cf9fb120a",
+        "crc32": "64684ec4"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 02).bin",
+      "filesize": 25425120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66512d99da82895167ef8ca8a05874a3",
+        "sha1": "d76f32fc3b1f95286e796bd01514cd751d741194",
+        "crc32": "7a0e77a0"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 03).bin",
+      "filesize": 29496432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b35a8d34bf7fc5da3c32a8e666b7981d",
+        "sha1": "3751104a1eb9680c80c02d400bc5155ee834c488",
+        "crc32": "e3d26803"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 04).bin",
+      "filesize": 24286752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "449e5716453d932b2e97a7f2ccd00f5f",
+        "sha1": "ee872bd2c48a8c72d8370065865b5ce53d1bc4cf",
+        "crc32": "4cee826e"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 05).bin",
+      "filesize": 23327136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "026e1f8f42214c6b1f4a6882e17e465b",
+        "sha1": "d296288b5b17f36c0660dacdcec45f8d2c1d611c",
+        "crc32": "facc8d85"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 06).bin",
+      "filesize": 34884864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52c236e1d14c7adeb8489aeea5238d90",
+        "sha1": "aa0dc5b48706c224bed87fe46f6e63943811a200",
+        "crc32": "30962b10"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 07).bin",
+      "filesize": 27353760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac7410aab84c756efa99da3aeffe7900",
+        "sha1": "8c8a7083f345aaee8345607ffb419a242b6b5116",
+        "crc32": "df570b97"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 08).bin",
+      "filesize": 23853984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dff4b584c251b77dbb2f9830b6893d77",
+        "sha1": "a2ccf3e558ac8f65b850b0ba0b31fbe6157d7a44",
+        "crc32": "1ef825d4"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 09).bin",
+      "filesize": 8112048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "059e82a7b2f224f176692b0bc1dac590",
+        "sha1": "85f6f3e21287b6027e90bd9ef6c733e8b0c9f240",
+        "crc32": "cc16b7e1"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 10).bin",
+      "filesize": 35886816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41bc6307fa6692799f3b67ae8f792962",
+        "sha1": "1b1fc037589d8b8f90653a3c2c2c127fdc79a031",
+        "crc32": "4bc464bb"
+      }
+    },
+    {
+      "filename": "Afraid Gear (Japan) (Track 11).bin",
+      "filesize": 35002464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7abb9a41252e063068567053d1941e0",
+        "sha1": "28d33a92ac2226b2a51192373d01d717b577a0fc",
+        "crc32": "771bafa7"
+      }
+    }
+  ]
+}

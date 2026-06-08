@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dekiru! Game Center (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dekiru! Game Center (Japan).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6a3df3611132aa25c7812c183cf6adde",
+        "sha1": "59e7acd25bf957ddeb40910eb545a79f61a34a28",
+        "crc32": "a13e67a6"
+      }
+    },
+    {
+      "filename": "Dekiru! Game Center (Japan) (Track 1).bin",
+      "filesize": 102735360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3e3b19618ae05f35060e3297568fe7a",
+        "sha1": "68203aabfb188e3ee77311110b2e44d78bb08fde",
+        "crc32": "25a9df78"
+      }
+    },
+    {
+      "filename": "Dekiru! Game Center (Japan) (Track 2).bin",
+      "filesize": 43624896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8917d6646b521c8841387671f1f30aca",
+        "sha1": "95eb9b1ba47afad8a4f4df5f566a9a0617508bd9",
+        "crc32": "8695c16e"
+      }
+    }
+  ]
+}

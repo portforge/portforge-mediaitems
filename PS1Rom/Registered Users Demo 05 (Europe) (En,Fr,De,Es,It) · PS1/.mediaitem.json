@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Registered Users Demo 05 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Registered Users Demo 05 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 702,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0b04f9ff93923b13d1a8dec634c99b4",
+        "sha1": "3aed8bafbfee1ddf82de709f726ff49e0d4ec13c",
+        "crc32": "74a927e5"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 05 (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 351983856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e56a8ebae88eebc97f74972ce30eec8",
+        "sha1": "77fd6eb27466d0a84a46f9dae5658ff542218afb",
+        "crc32": "3f26629c"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 05 (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 21207984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f9791b7f92a858312b2c4ddd0c059d4",
+        "sha1": "1d0e781a30d27a5b386be1b4e955863e133a62bd",
+        "crc32": "72f846e1"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 05 (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 37314480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "587a00dbac596b8cfa4d586cf9175642",
+        "sha1": "209f6359ad0d0d79685a55c840890b4dd5b5acb5",
+        "crc32": "a7d2571f"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 05 (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 55693008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99a586b512e3511a166ecb86de212eb6",
+        "sha1": "6b61e9ffad49ebc84fb42934cedbae2214599649",
+        "crc32": "4ab01d97"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 05 (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

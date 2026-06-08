@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95aadc73ca526816b7f7ad9afbf30d1c",
+        "sha1": "fbd3614bf45d1b91915129ff25c27b43a71cb436",
+        "crc32": "a8afb798"
+      }
+    },
+    {
+      "filename": "Le Mans 24 Hours (Europe) (En,Fr,De,Es,It,Pt).bin",
+      "filesize": 691085808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ee0a37cf090bb7b4d3d6734fb6a73f0",
+        "sha1": "2922d702c3be811ab4ac8c61ab8d96fab723b8e6",
+        "crc32": "0af58d55"
+      }
+    }
+  ]
+}

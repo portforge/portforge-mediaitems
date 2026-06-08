@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan).cue",
+      "filesize": 976,
+      "ext": "cue",
+      "checksums": {
+        "md5": "515a365c864cafe902a7ea739e60c9e9",
+        "sha1": "05bfbdc39dc07997fe956f856e17a9776355630e",
+        "crc32": "16fe5603"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) (Track 1).bin",
+      "filesize": 238234080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6aa0bbe8c3e90d507117f6d28397653d",
+        "sha1": "f2e5c20a9837e266ebec2b4ad6398ec06dab5e0e",
+        "crc32": "6daec05c"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) (Track 2).bin",
+      "filesize": 17266032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4574903f5106dc1fb53fe3408bc1eb6b",
+        "sha1": "12553718efec766ded823a1d97dccc7ecf1c662e",
+        "crc32": "c6c550c0"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) (Track 3).bin",
+      "filesize": 30848832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0074901090f9ad24da9d36402a30e13a",
+        "sha1": "78dc171c8efb522c2399901a7596a87b353d7df2",
+        "crc32": "79e85a74"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) (Track 4).bin",
+      "filesize": 44012976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fda9d343b6271cadbdfd59a1481f219",
+        "sha1": "64fa5ad09d1fe85b671610b04822ff73a8093c48",
+        "crc32": "176bf11e"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) (Track 5).bin",
+      "filesize": 30479568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7307983971828cc94c65a694b807c93",
+        "sha1": "e12e3d27f17922c701061a7098c2f9cc97cd2d8a",
+        "crc32": "ab79d27e"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) (Track 6).bin",
+      "filesize": 32626944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca6e3fefcfdf74ca319abc420d3628c2",
+        "sha1": "ebfbe4acd834329f3cf47beb3a63e98ed46c2819",
+        "crc32": "6319d97c"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Ginga Shoujo Keisatsu 2086 (Japan) (Track 7).bin",
+      "filesize": 45033744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d24eb0049376094538bb2ce0c47f5af9",
+        "sha1": "07cea48412f9aecdfb83ed4397927c874649ea05",
+        "crc32": "a3a5dfbd"
+      }
+    }
+  ]
+}

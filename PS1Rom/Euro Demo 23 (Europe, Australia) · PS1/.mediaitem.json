@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 23 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 23 (Europe, Australia).cue",
+      "filesize": 738,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4926849e8aece14109defac5c89dfc3c",
+        "sha1": "015097cd9a0d9758e976f0dd78bbef821101cbc0",
+        "crc32": "9f99a500"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (Europe, Australia) (Track 1).bin",
+      "filesize": 225775536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "449f128d028e4ffccb96aa469424bddc",
+        "sha1": "8c269b95e2af57c8ddde7a14cd73fd1094fa9469",
+        "crc32": "35183515"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (Europe, Australia) (Track 2).bin",
+      "filesize": 28574448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae32b8d4aa725acee898a7023fa6c824",
+        "sha1": "4ea95cb122115935c043682d9aa393f0d9686dfe",
+        "crc32": "33ce6f1f"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (Europe, Australia) (Track 3).bin",
+      "filesize": 3001152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ab89358e9ca7a0ac120510e4a5bbff8",
+        "sha1": "735e688be77adbbd340a2acc08113c3207a39653",
+        "crc32": "53709f68"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (Europe, Australia) (Track 4).bin",
+      "filesize": 1058400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3281da636075f705dcc6c451dc114989",
+        "sha1": "7408ab86f7f1e7b20eb6f0e8ea5ce10086c57f97",
+        "crc32": "9c936f62"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (Europe, Australia) (Track 5).bin",
+      "filesize": 44742096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f003dc949c3adb32623297f25e8e65a1",
+        "sha1": "27de9f1b4dbb893ee994c6fef00c8ff29eeca325",
+        "crc32": "305d867b"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (Europe, Australia) (Track 6).bin",
+      "filesize": 35174160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c1a2248fe9854d15f8217456285002",
+        "sha1": "e7996186776d4502e415dc69585c4319f7e624eb",
+        "crc32": "3048c3ee"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Cup Golf - In Hyatt Dorado Beach (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Cup Golf - In Hyatt Dorado Beach (Japan).cue",
+      "filesize": 402,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f3ac5b65721117f404dbd9cbbac4dbe",
+        "sha1": "ae4b30e4201734d32c59d5f0d1bc06b674f9a0d9",
+        "crc32": "5a4d6b76"
+      }
+    },
+    {
+      "filename": "World Cup Golf - In Hyatt Dorado Beach (Japan) (Track 1).bin",
+      "filesize": 620909184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53c14b16cb5164231a919258f6ff17f2",
+        "sha1": "462090dee0ec0909493b789a50c18aa2576d395e",
+        "crc32": "cf4e39a1"
+      }
+    },
+    {
+      "filename": "World Cup Golf - In Hyatt Dorado Beach (Japan) (Track 2).bin",
+      "filesize": 29868048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c55c13e78eda741c5da914e2cde8102b",
+        "sha1": "0edc3f8a3c7fd2e0de209d9bdf311f5c2dff36be",
+        "crc32": "d586de01"
+      }
+    },
+    {
+      "filename": "World Cup Golf - In Hyatt Dorado Beach (Japan) (Track 3).bin",
+      "filesize": 33621840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5820784bc3ba62fab2c1146a235cfdaa",
+        "sha1": "785503dee5fe6e448b7686116cdc5cc9ba44212e",
+        "crc32": "f4fbb042"
+      }
+    }
+  ]
+}

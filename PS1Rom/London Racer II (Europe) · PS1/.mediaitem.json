@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "London Racer II (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "London Racer II (Europe).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ee4c15ae92bbc39f5253513040a2139",
+        "sha1": "0f404bd0dc209f0d93944fda946827f012089224",
+        "crc32": "c27d44e9"
+      }
+    },
+    {
+      "filename": "London Racer II (Europe).bin",
+      "filesize": 198221856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d7a467bed4602898ed3959dbd21288",
+        "sha1": "8c54e9c86d944ae5f2fbcb4e9fdc7caed1b6d337",
+        "crc32": "d56c626b"
+      }
+    }
+  ]
+}

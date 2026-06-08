@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dave Mirra Freestyle BMX (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dave Mirra Freestyle BMX (Europe).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8651f6ca4c0f5af3a233b79951ceeaea",
+        "sha1": "b714716d345daef55aeaa32f344393e350aa4ffc",
+        "crc32": "abbc6a6b"
+      }
+    },
+    {
+      "filename": "Dave Mirra Freestyle BMX (Europe) (Track 1).bin",
+      "filesize": 258070848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86ea68a5ba9fd08f778b79ef220c5916",
+        "sha1": "3b466267be2602e747618bf0d5238ef3ce674835",
+        "crc32": "2d322252"
+      }
+    },
+    {
+      "filename": "Dave Mirra Freestyle BMX (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

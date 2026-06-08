@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bust A Groove 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bust A Groove 2 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bca4a68b206534e813ac75a1e5b7c3f7",
+        "sha1": "5644b366c4041f23e6ae24892c5d7256d2fbfc4d",
+        "crc32": "4d851c49"
+      }
+    },
+    {
+      "filename": "Bust A Groove 2 (USA).bin",
+      "filesize": 612411408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a91343a99ddc96854a556df6461a1587",
+        "sha1": "451e6a20f719c0cb718c1eea3575f7959627a5bb",
+        "crc32": "c50191c0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "007 Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "007 Racing (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "70ddb4b1c09a15423e95b8c32509e48d",
+        "sha1": "f74c52098f149c91f066b17e9000d5a059ec4405",
+        "crc32": "5c58d484"
+      }
+    },
+    {
+      "filename": "007 Racing (USA).bin",
+      "filesize": 565011552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a51a718419e8d16e20e0ac8b5e59d24",
+        "sha1": "91c0c4b5c888f074a777f891be5432064678070e",
+        "crc32": "5a39ae64"
+      }
+    }
+  ]
+}

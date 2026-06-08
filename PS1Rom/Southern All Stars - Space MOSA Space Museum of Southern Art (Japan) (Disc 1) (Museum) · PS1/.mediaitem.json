@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Southern All Stars - Space MOSA Space Museum of Southern Art (Japan) (Disc 1) (Museum)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Southern All Stars - Space MOSA Space Museum of Southern Art (Japan) (Disc 1) (Museum).cue",
+      "filesize": 152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8c98351bf9d23a5d5e41c2b2b51a26b",
+        "sha1": "bb4014630273345c4e0ed5f9e0e077abf98dfa24",
+        "crc32": "ec4e37c7"
+      }
+    },
+    {
+      "filename": "Southern All Stars - Space MOSA Space Museum of Southern Art (Japan) (Disc 1) (Museum).bin",
+      "filesize": 385476336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc6bd09c334cec357a646489eacb2dd1",
+        "sha1": "efcc7d7d4aa64264e0b897045bbb8b776434ad71",
+        "crc32": "29d87b55"
+      }
+    }
+  ]
+}

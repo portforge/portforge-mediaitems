@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Battle Qix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Battle Qix (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72c83dec568b3c57a5490c2b7dcf1430",
+        "sha1": "58992f2fcf04a1d65825c562dee76f634fd17382",
+        "crc32": "2a8951d8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Battle Qix (Japan).bin",
+      "filesize": 161535360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9d531fdc97f5c083bd4c9b28ce5fc12",
+        "sha1": "d949772a8a34161d6899a9dca984baf0d8e8b5ba",
+        "crc32": "865ed62b"
+      }
+    }
+  ]
+}

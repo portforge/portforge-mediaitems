@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Louvre - L'Ultime Malediction (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Louvre - L'Ultime Malediction (France) (Disc 2).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9df1306d2797cc2cc3529b8b07a81f03",
+        "sha1": "340afcc9c5abe8ee0a72494d6a2a6f5599c58848",
+        "crc32": "98c64b9d"
+      }
+    },
+    {
+      "filename": "Louvre - L'Ultime Malediction (France) (Disc 2).bin",
+      "filesize": 731551968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "073a1bae889a060ade6ecb0d2d216835",
+        "sha1": "fc4b1fbe4ffbb6b4e14c126874bbfa781abc85fe",
+        "crc32": "4e9506b4"
+      }
+    }
+  ]
+}

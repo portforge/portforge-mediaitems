@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xena - Warrior Princess (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xena - Warrior Princess (France).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "64cf5310c474b92d0825716179b6e19d",
+        "sha1": "fc8d25f2ed23a9288d293f15650da750b6f04fbe",
+        "crc32": "884f600d"
+      }
+    },
+    {
+      "filename": "Xena - Warrior Princess (France).bin",
+      "filesize": 322247520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8491f866b236c1f55e3391252db8e8e",
+        "sha1": "c90d7746d4c04475b08396fc19123bed486223cf",
+        "crc32": "f0e624a4"
+      }
+    }
+  ]
+}

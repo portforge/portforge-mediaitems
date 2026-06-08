@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 2001 (USA) (En,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 2001 (USA) (En,De,Es,Nl,Sv).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f49d37eb7690c9ad05129325a176b7ff",
+        "sha1": "155837bbdbf818ae21a1e2e6b765883effb49e05",
+        "crc32": "9873a523"
+      }
+    },
+    {
+      "filename": "FIFA 2001 (USA) (En,De,Es,Nl,Sv).bin",
+      "filesize": 610797936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f954bf71ef4d060740d70236db7ad0c",
+        "sha1": "87fc8fff91bd37d5ea017f3e66b49f9ca22c8574",
+        "crc32": "f3bbbfb1"
+      }
+    }
+  ]
+}

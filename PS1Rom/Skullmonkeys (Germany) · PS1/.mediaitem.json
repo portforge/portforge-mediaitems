@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Skullmonkeys (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Skullmonkeys (Germany).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9539e22fdcca8b5f85b1dd284f4875d5",
+        "sha1": "8eb4060d1d01af2e16f24487f4229aa9539545b1",
+        "crc32": "40d466a7"
+      }
+    },
+    {
+      "filename": "Skullmonkeys (Germany).bin",
+      "filesize": 657927312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e112c975f0b16c318975350efdfcc81",
+        "sha1": "c0c33052d19e95cfdd46d142941ed889531fe558",
+        "crc32": "f9355ed5"
+      }
+    }
+  ]
+}

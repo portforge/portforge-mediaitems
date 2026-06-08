@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Motorhead (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Motorhead (Europe).cue",
+      "filesize": 1451,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1886f2909450469ed99ae63c8517c779",
+        "sha1": "52ff624d7414b3b86c52bd4e2dd4649adf493324",
+        "crc32": "06232540"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 01).bin",
+      "filesize": 188263488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5a5923621e98f198fe9b20b95a35f25",
+        "sha1": "c48eac00b290222ef668dfb9c1b8f5b9e4061e81",
+        "crc32": "5fa23e4b"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 02).bin",
+      "filesize": 7956816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a59761f6d5e7bddffa80cddad59c112e",
+        "sha1": "7a0a05662435f510517e56a962db0d542bd4237d",
+        "crc32": "8634ce35"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 03).bin",
+      "filesize": 50165808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e338e83802d950c00c351864a97713af",
+        "sha1": "dd8032bce133fe5fc5c2824ad017ee3807b1a789",
+        "crc32": "23a60dd0"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 04).bin",
+      "filesize": 47047056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56ab1c58fb750a1d376d45097a558222",
+        "sha1": "181a1bb6e0c2ad775225cf9bea07a6d47d8bf2a9",
+        "crc32": "fd77bf88"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 05).bin",
+      "filesize": 44132928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20db12ee8d2ee1b6f12fa42cfa9bf6a9",
+        "sha1": "47ce4ef34090406ab4309da22f890d15fab4858c",
+        "crc32": "6ac2127b"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 06).bin",
+      "filesize": 52602480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28384d4630933ccf255cca2f3c5c1923",
+        "sha1": "ca26d972423c44251e5a8bc5f1bdfd3672b89830",
+        "crc32": "1fff562f"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 07).bin",
+      "filesize": 57268848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9a4e358dd6eb00d99355256cbd954ca",
+        "sha1": "90f1ef8c0c6ff108a32f6d8075352b9f4d38e516",
+        "crc32": "f3bfb516"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 08).bin",
+      "filesize": 38699808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60da2c55058344a08973e1d36f1eccf1",
+        "sha1": "85d31f82c36ccc27634b5eeb6cbc0c2db226b530",
+        "crc32": "06b1c5c7"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 09).bin",
+      "filesize": 45057264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2a260e1cb4c4a2221a5c1071692d3f1",
+        "sha1": "d9a5deaaefab25afccf34287f698acebfb81e7d8",
+        "crc32": "5061a1b2"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 10).bin",
+      "filesize": 53816112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81939544f4156ada4d0233f5837275bb",
+        "sha1": "b57b23141a2a0fab04b6d53b422e2240af5dcd92",
+        "crc32": "4402aa80"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 11).bin",
+      "filesize": 45400656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b295d96864d5e9cd29398a8d27090bc0",
+        "sha1": "fbe3b4eaae46835375d8ef0c4eed1261bd05d246",
+        "crc32": "eeeecfa3"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 12).bin",
+      "filesize": 2008608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a14061cc5b23cdb5e8bd1c20adff309",
+        "sha1": "f3ed728d85f8aa095b1908bda05bcddd116667ef",
+        "crc32": "6f88b279"
+      }
+    },
+    {
+      "filename": "Motorhead (Europe) (Track 13).bin",
+      "filesize": 34207488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b1ed3090df48bf8a028550c96c58f4b",
+        "sha1": "b585516044fb6e5767d5ef2b43e1fdbd09e2e222",
+        "crc32": "bab02c5f"
+      }
+    }
+  ]
+}

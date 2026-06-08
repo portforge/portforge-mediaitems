@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 56 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 56 (Europe).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "845109fda5581222b4c36d2596de2f66",
+        "sha1": "763df3cecaa77a09ce35af0f442c798c55738f51",
+        "crc32": "0a928dfb"
+      }
+    },
+    {
+      "filename": "Euro Demo 56 (Europe) (Track 1).bin",
+      "filesize": 375383904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2b3cc6d6d4f89d7102a5e989bb74705",
+        "sha1": "bb1067b5a4bcb83babc4b13f361bbdef45ed9e47",
+        "crc32": "9560cf4e"
+      }
+    },
+    {
+      "filename": "Euro Demo 56 (Europe) (Track 2).bin",
+      "filesize": 29844528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4867bfcd999c7c55b4057b4a4adc4dc5",
+        "sha1": "3298f7526566ea0d2c5b5c312fdffa727c272245",
+        "crc32": "0a6ae950"
+      }
+    },
+    {
+      "filename": "Euro Demo 56 (Europe) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

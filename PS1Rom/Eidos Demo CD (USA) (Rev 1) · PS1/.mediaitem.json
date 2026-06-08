@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eidos Demo CD (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eidos Demo CD (USA) (Rev 1).cue",
+      "filesize": 708,
+      "ext": "cue",
+      "checksums": {
+        "md5": "97bfe65935c9af468628c85f59983488",
+        "sha1": "0ed055e746e45f537cb3f01e6c7fdb75f1c20de8",
+        "crc32": "70cd3758"
+      }
+    },
+    {
+      "filename": "Eidos Demo CD (USA) (Rev 1) (Track 1).bin",
+      "filesize": 180784128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51e45b4a6e5b4492fbacfd01895a7008",
+        "sha1": "44da79668b638c437a7d10a3f2873b10a415b0a1",
+        "crc32": "551bd557"
+      }
+    },
+    {
+      "filename": "Eidos Demo CD (USA) (Rev 1) (Track 2).bin",
+      "filesize": 26093088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cab6337c5b8c9678034cdf724f1e0593",
+        "sha1": "94cf45af4c58ed8aeed6b91bddcac553688f8135",
+        "crc32": "2ba81cab"
+      }
+    },
+    {
+      "filename": "Eidos Demo CD (USA) (Rev 1) (Track 3).bin",
+      "filesize": 4010160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75fb283dbe62ce550dd6b247bfd866a4",
+        "sha1": "2dc6f9a6009f60a4423e15e2fe8e34f0dcf8a6ff",
+        "crc32": "8c7c12f7"
+      }
+    },
+    {
+      "filename": "Eidos Demo CD (USA) (Rev 1) (Track 4).bin",
+      "filesize": 27643056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "006c2e33de95398d2526212cb40e8771",
+        "sha1": "d74b00464a1700a844f9b341f70908b4dd7d1c6e",
+        "crc32": "48555318"
+      }
+    },
+    {
+      "filename": "Eidos Demo CD (USA) (Rev 1) (Track 5).bin",
+      "filesize": 24914736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb2c608b2a3ebd330fe760661bb98600",
+        "sha1": "bd90fbe22f8d3e864d77e6fd73eb9883b0779779",
+        "crc32": "2a0fca91"
+      }
+    },
+    {
+      "filename": "Eidos Demo CD (USA) (Rev 1) (Track 6).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

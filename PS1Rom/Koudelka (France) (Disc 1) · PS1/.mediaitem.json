@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koudelka (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koudelka (France) (Disc 1).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d67ef321302118414a1352b41a8f1bab",
+        "sha1": "0f76d54c4142d72b744d3dacfc076b938088c936",
+        "crc32": "6fe429af"
+      }
+    },
+    {
+      "filename": "Koudelka (France) (Disc 1).bin",
+      "filesize": 542357088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7ba56cd83cd6e562a1e6fbae9017a41",
+        "sha1": "adaddc0bb728f95f2defb6fb168d3a5c6c2d1e35",
+        "crc32": "9372d729"
+      }
+    }
+  ]
+}

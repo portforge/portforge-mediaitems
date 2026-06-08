@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RayStorm (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RayStorm (Japan) (Demo).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f59ec7d9f00cce312643daaad9ffeaf1",
+        "sha1": "7c16177db8e3e9ea3e06da0fe9928dd544afecf1",
+        "crc32": "0bd7485f"
+      }
+    },
+    {
+      "filename": "RayStorm (Japan) (Demo).bin",
+      "filesize": 357153552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "733810ffc9fb234dfce9ac5d9379d0cb",
+        "sha1": "8c16e3fa6ba74ac0fae13d2bce74779f5a0db3c4",
+        "crc32": "03a1a1f5"
+      }
+    }
+  ]
+}

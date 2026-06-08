@@ -1,0 +1,347 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Time Crisis (Japan) (Time Crisis + GunCon)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon).cue",
+      "filesize": 4503,
+      "ext": "cue",
+      "checksums": {
+        "md5": "181b8e378fff3c2f8adfbb5570226d54",
+        "sha1": "ee87d0b9a1d1ca67b1be87db0abc4b45bf8f757d",
+        "crc32": "14bfae84"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 01).bin",
+      "filesize": 39838176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e675f43baad368d6e6bbb831c20a19a",
+        "sha1": "034aa49ce45a36efa32b86c35d27a7bbc6fbd216",
+        "crc32": "88eb8ff4"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 02).bin",
+      "filesize": 10997952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b7e2f7c4c054484754806ac542e3887",
+        "sha1": "926a4123d08643f558a073425f8fb4c8fb5bbb8a",
+        "crc32": "b072f939"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 03).bin",
+      "filesize": 7258272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00c52e9ce6c50c0135d09fdbe066550d",
+        "sha1": "eae2d2ddaee2960d1694f56abbc054cd8aa61299",
+        "crc32": "9984579d"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 04).bin",
+      "filesize": 10607520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fac9b413504d4275976162535107f9b",
+        "sha1": "873f70b256f56b6fbb9b789990f97c4be04fb470",
+        "crc32": "c7683ce8"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 05).bin",
+      "filesize": 14436576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57ec7d7d735a60cbeea60f58e147d4e1",
+        "sha1": "033130c5ba7f27deb01937af42ffcb9ab2d4ba57",
+        "crc32": "0249b5c1"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 06).bin",
+      "filesize": 28360416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "657ca4b7b2c68bdea5bc316dc5b15202",
+        "sha1": "0f8739e2d2b59aa3c35785ea6c66f0c94c4cab88",
+        "crc32": "fc51b4f8"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 07).bin",
+      "filesize": 27824160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64776712e1547e198170923de05bceae",
+        "sha1": "5cabbe91a468df041cbd49abb37cdd94cc56b4a7",
+        "crc32": "6e2fcc31"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 08).bin",
+      "filesize": 25119360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ff760e6bc147b4bdd0a942769f3bc6d",
+        "sha1": "b9dce1f62fa078fd5ee57ce14b33ee5407a969f1",
+        "crc32": "cab2de73"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 09).bin",
+      "filesize": 26662272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d6a349aab8c7da9bd41136f83e8e2a5",
+        "sha1": "74b8522ed027d5d477b73e4ebab1ce0f4be785de",
+        "crc32": "853f3ced"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 10).bin",
+      "filesize": 21765408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aee7c1dc5a4aefb2c0a52365051b71c5",
+        "sha1": "3354569094031e653231c3943abca2956dff3a6b",
+        "crc32": "58ea9ce6"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 11).bin",
+      "filesize": 33165552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1b8f0f88474921acf3e42b38f3e3df0",
+        "sha1": "9339f58234d23586a799865b9ce65150c9815741",
+        "crc32": "68e1c00b"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 12).bin",
+      "filesize": 7987392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "470fb4c534b7f03e97e8af80fa074a0c",
+        "sha1": "f2f256a3e095dce842c15a96a8d54ea384d1351b",
+        "crc32": "157b5c66"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 13).bin",
+      "filesize": 9248064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33837eb2ffd06aafd2999ea53dd380be",
+        "sha1": "46e0390b95a41b904971bcf515f1c70807965f51",
+        "crc32": "cf8499e0"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 14).bin",
+      "filesize": 32678688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2a566ea58d9dc9d0ba95bfb32c737d0",
+        "sha1": "f74bfc57cb136c962b1859aaa35f37be66e25800",
+        "crc32": "5f998424"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 15).bin",
+      "filesize": 7190064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8487331eb4c3369ca8c8c377f562dd7c",
+        "sha1": "106bcfd8acb8e19057cdb8ac5cad28505ebf8370",
+        "crc32": "b2063d32"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 16).bin",
+      "filesize": 13192368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "345027dd96910f1e65682b3eca5f3942",
+        "sha1": "41f1028b7d0433c98406b816a8c1428b14e4a686",
+        "crc32": "3bf5da5d"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 17).bin",
+      "filesize": 39092592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2d459bf89d911ceacf00dd1c7f73e3b",
+        "sha1": "ed2228ef85896c059e6cf2731e40ab9168ea486d",
+        "crc32": "81e63839"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 18).bin",
+      "filesize": 38184720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55a41f4deb356e4345afb96bf3071959",
+        "sha1": "fa5b8ee9994ca82543707520e3d00ff7fb755fa8",
+        "crc32": "bfd6f4bb"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 19).bin",
+      "filesize": 33137328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9e2ab5990f80511d44c3759c9127be7",
+        "sha1": "4f97c36e1ccadf01d7d05d27bedfb901b739c4ac",
+        "crc32": "4001971b"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 20).bin",
+      "filesize": 33643008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f394a2f3df22f868888b8ad23658b5cf",
+        "sha1": "21868643e8998e82c437e921231ecedc3fbcd65a",
+        "crc32": "b3dec219"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 21).bin",
+      "filesize": 51090144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8bf700b710137a8154b518cb9fc5b36",
+        "sha1": "1641fec7634058c24b0016daa606b66a61a103b0",
+        "crc32": "dae0239c"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 22).bin",
+      "filesize": 15920688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "933dc33b14fcc24cbe41605081d274bb",
+        "sha1": "ae526595a1d1112a2ad4b95fca7b30675c5a8bca",
+        "crc32": "36302e28"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 23).bin",
+      "filesize": 31627344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a410a316cfc0ea13ad53500a833d498d",
+        "sha1": "0d488029224208b2c3edbc7a12d3c3bd98aa9987",
+        "crc32": "2119d9e8"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 24).bin",
+      "filesize": 27240864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "640577e5d9cb8f76b2da9982aa932862",
+        "sha1": "453911f01702613b28c5acf92c7e89874b00f3ec",
+        "crc32": "644d4dfc"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 25).bin",
+      "filesize": 32307072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32c3a5aa9833fb344e5d4317d40de14e",
+        "sha1": "7b4ede554bed11a9c906a4c640da9d4865b7e149",
+        "crc32": "5c4a898e"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 26).bin",
+      "filesize": 4059552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d53928c6b86802a4a2185ca118d7430f",
+        "sha1": "ff513dfc15bf39570a9c39de3d3fcff02d1ca41d",
+        "crc32": "69a6d173"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 27).bin",
+      "filesize": 5292000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ec1f42b7b336ba235197154aaf6399f",
+        "sha1": "c517fe3cbf2c37cad761bac4dcaf001a00c040cb",
+        "crc32": "825b9c78"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 28).bin",
+      "filesize": 4461744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3817901af46c6adc8a9f257784ac088",
+        "sha1": "07c53a4fbee31eab2359941213c4e465aa3da622",
+        "crc32": "fd23496b"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 29).bin",
+      "filesize": 3410400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0d0a4a78ac57dfe96e3dc19e4a081e5",
+        "sha1": "63a6f6dd38e64db67fe4335d70b9e18fdfbc1752",
+        "crc32": "9b6cde52"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 30).bin",
+      "filesize": 5910576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c1f57cdf823034b9c317a2fb18478c",
+        "sha1": "be7777793dc3f6bf0a10db27d7abcf1d8ad332c7",
+        "crc32": "3f844c7c"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 31).bin",
+      "filesize": 4257120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c51b77eaefcc3b66766051e3190615d",
+        "sha1": "94a552623fdbf0ef0ca59a5311822757a13807f3",
+        "crc32": "b2331d11"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 32).bin",
+      "filesize": 15506736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d304d81c6472be2a91af41ba0dedb56",
+        "sha1": "6ca66376eb989cbe3d60bc11ea9f24c2bc33102b",
+        "crc32": "548e1f37"
+      }
+    },
+    {
+      "filename": "Time Crisis (Japan) (Time Crisis + GunCon) (Track 33).bin",
+      "filesize": 33236112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f3c0c2440b2cbce875788379a752609",
+        "sha1": "f0b7373493b2879199d3c1327231f91a296c550e",
+        "crc32": "b9aefc99"
+      }
+    }
+  ]
+}

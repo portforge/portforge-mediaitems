@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Planet Dob (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Planet Dob (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea7b488abf6c236efb7bf60bfdc3f5fe",
+        "sha1": "6436ffc3fce4c71306793b06307389922465e8d9",
+        "crc32": "89f9596c"
+      }
+    },
+    {
+      "filename": "Planet Dob (Japan).bin",
+      "filesize": 676776240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4979e2f1a008925c0dc607f496316d2e",
+        "sha1": "f09b69dbbc998b46b221ea65ac3c9df09ef002ab",
+        "crc32": "a3200be5"
+      }
+    }
+  ]
+}

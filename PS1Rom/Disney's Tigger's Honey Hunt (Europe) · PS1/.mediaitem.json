@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Tigger's Honey Hunt (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Tigger's Honey Hunt (Europe).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e798c314024a3e84fa9bce4bf7422126",
+        "sha1": "bc67377946a88a6d2e500a4e4dafb2bbfacc8353",
+        "crc32": "f6de99ea"
+      }
+    },
+    {
+      "filename": "Disney's Tigger's Honey Hunt (Europe).bin",
+      "filesize": 364494144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64d3bc8f180ab86cb285f418f9b56a13",
+        "sha1": "dd95449a8c8d34518f0504004328a42a7b697696",
+        "crc32": "11ad632b"
+      }
+    }
+  ]
+}

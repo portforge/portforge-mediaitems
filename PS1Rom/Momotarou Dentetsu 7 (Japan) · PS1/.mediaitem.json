@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Momotarou Dentetsu 7 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Momotarou Dentetsu 7 (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd4d37be7e033b35fd2930ac61f78986",
+        "sha1": "a130539a2285cd1692b7340f5e12234a5a098a8c",
+        "crc32": "24f443c7"
+      }
+    },
+    {
+      "filename": "Momotarou Dentetsu 7 (Japan).bin",
+      "filesize": 458630592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "795e6b20d2b28c4e3a7c2aadf9be94a4",
+        "sha1": "faeaaa6bdb77eff5bf6aeeb537526d43547c871c",
+        "crc32": "a0126503"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lomax (Europe) (En,Fr,De,Es,It) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo).cue",
+      "filesize": 1170,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9dcd40c8572b38dec5babf63d7789cde",
+        "sha1": "ce95b0be7067d0bc5da6504394ddb8147df7c407",
+        "crc32": "90af9336"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 1).bin",
+      "filesize": 33325488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3d5197efb5d8aad7b9e21f9adf33578",
+        "sha1": "0db9a39d93a3e8b9c88064aa40f135ad8a47fa70",
+        "crc32": "b68d14f2"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 2).bin",
+      "filesize": 32020128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f352f315c16317316ea751b7a368955d",
+        "sha1": "e382db1c6b38a7182daf95fde77eaa22fad0da48",
+        "crc32": "4241a4da"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 3).bin",
+      "filesize": 31432128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bacd9a2e0e604024761f0087ee9b223d",
+        "sha1": "9380434707765616cfd6d69fed5ee49e73aea36c",
+        "crc32": "c954618d"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 4).bin",
+      "filesize": 29315328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a56432a30c09f82af4d0bb305303e02",
+        "sha1": "80e77ec1d773577684f098b8cd6d2d5739762b1a",
+        "crc32": "93f921d5"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 5).bin",
+      "filesize": 19422816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f2ef737b205f0df2a34d94caa1af0a6",
+        "sha1": "f7e5ddc0c89156160bdfc328f44fab432b759159",
+        "crc32": "b8042ca6"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 6).bin",
+      "filesize": 20271888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17dd2f062835f20e26235bf38b62a360",
+        "sha1": "906ced69367de2d85d80548f6a913759335b461a",
+        "crc32": "e0da0444"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 7).bin",
+      "filesize": 12778416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38bcd9b136baa359e79d4ae69b23d359",
+        "sha1": "4ba705dc01345fcdf38839bcee02ee3ef3afe5d0",
+        "crc32": "babf8ebc"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 8).bin",
+      "filesize": 10762752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa23f925394fd6e528689d706eecceb8",
+        "sha1": "f071e4a5a949dd39fec099b3541f3693283965e3",
+        "crc32": "f7bc1f32"
+      }
+    },
+    {
+      "filename": "Lomax (Europe) (En,Fr,De,Es,It) (Demo) (Track 9).bin",
+      "filesize": 10762752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa23f925394fd6e528689d706eecceb8",
+        "sha1": "f071e4a5a949dd39fec099b3541f3693283965e3",
+        "crc32": "f7bc1f32"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Scooby-Doo et la Cybertraque (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Scooby-Doo et la Cybertraque (France).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ad2360f1c76d524aa46fb268e54b6f15",
+        "sha1": "f3c52b8d252e3f3a57d81ceaf11e735e4acae968",
+        "crc32": "5ae3f2d6"
+      }
+    },
+    {
+      "filename": "Scooby-Doo et la Cybertraque (France).bin",
+      "filesize": 187868352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b33c053d9ba297a4c94633529cbda3b",
+        "sha1": "195b081bbec9e074d2f1d61b022b8ad6398e6b8e",
+        "crc32": "ea928380"
+      }
+    }
+  ]
+}

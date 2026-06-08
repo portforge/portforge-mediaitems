@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zoku Gussun Oyoyo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zoku Gussun Oyoyo (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5ab8a3fee77f3e6fa31ec0cfbbb5d4e1",
+        "sha1": "1b6a356189fb8ae7431a729d6da0acd53794f132",
+        "crc32": "6a27007b"
+      }
+    },
+    {
+      "filename": "Zoku Gussun Oyoyo (Japan) (Track 1).bin",
+      "filesize": 595771008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aafbe492a5ffe7e81d5b03dbf1ce9388",
+        "sha1": "e8ee6e2a609d910fff4940e502edb3919554b006",
+        "crc32": "c18c7234"
+      }
+    },
+    {
+      "filename": "Zoku Gussun Oyoyo (Japan) (Track 2).bin",
+      "filesize": 32648112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6bd8f3bcc4b0eef1f10d2df3788b344",
+        "sha1": "b3912bc52092082dfc4ef4c606e3ff312883dccd",
+        "crc32": "1964e419"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "AI Shougi 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "AI Shougi 2 (Japan).cue",
+      "filesize": 321,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e34e65d17faccfe97e50065fbdb850b9",
+        "sha1": "7f1a1fd879781369dfef46b6e3f6afea1e58ccbe",
+        "crc32": "8ffa0151"
+      }
+    },
+    {
+      "filename": "AI Shougi 2 (Japan) (Track 1).bin",
+      "filesize": 15273888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c4217a0fe803df5777dd15150c21efc",
+        "sha1": "fd1464649f1ffb9906fb5ffd76854dd3af30eacb",
+        "crc32": "a6f6b4c6"
+      }
+    },
+    {
+      "filename": "AI Shougi 2 (Japan) (Track 2).bin",
+      "filesize": 21106848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2df79ac4b3a04ac40d200023027ce58d",
+        "sha1": "70ffbd7d7e4d9fd0cb560cbd4f9e619db2fba1c9",
+        "crc32": "52b8604d"
+      }
+    },
+    {
+      "filename": "AI Shougi 2 (Japan) (Track 3).bin",
+      "filesize": 66488688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61966a058870c1034886b6982d5af418",
+        "sha1": "e2f6b833da72912a4a71da656a20f77a89df0682",
+        "crc32": "7d58825b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cochons de Guerre, Les (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cochons de Guerre, Les (France).cue",
+      "filesize": 357,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29e6fd0cb87362ed56b9b340528a4113",
+        "sha1": "d493d35885242e95d176f9bc84718a98c6a8189f",
+        "crc32": "491093f8"
+      }
+    },
+    {
+      "filename": "Cochons de Guerre, Les (France) (Track 1).bin",
+      "filesize": 386236032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edc9a4fd9b15b4efccd935d18e69f289",
+        "sha1": "ccd4b6ea6fa454fa367ae871a7879e31f87f75a8",
+        "crc32": "6697784a"
+      }
+    },
+    {
+      "filename": "Cochons de Guerre, Les (France) (Track 2).bin",
+      "filesize": 29806896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c44afafe33a6863accc9accb3582e9b",
+        "sha1": "700774165df499c9b1e190d95681a943cb842678",
+        "crc32": "67641583"
+      }
+    },
+    {
+      "filename": "Cochons de Guerre, Les (France) (Track 3).bin",
+      "filesize": 12691392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "130459a05923b3a05483d865cb59bc63",
+        "sha1": "68b570c58b67c455bcd32a29216e5dae680c1f66",
+        "crc32": "362f1ff3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Versailles - Complot a la Cour du Roi Soleil (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Versailles - Complot a la Cour du Roi Soleil (France).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "050a036962b5547cda6d11e4fca83455",
+        "sha1": "81bdef380c998aa7c33e468eac0e93570e0c4e65",
+        "crc32": "603872d0"
+      }
+    },
+    {
+      "filename": "Versailles - Complot a la Cour du Roi Soleil (France).bin",
+      "filesize": 703746624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7bf3e168112aa9af7cc9f1d529a71cd",
+        "sha1": "57ab91963170d00a557644868ad4d710b3b49cd8",
+        "crc32": "5ba0b5cf"
+      }
+    }
+  ]
+}

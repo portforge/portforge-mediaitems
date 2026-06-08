@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Animal Snap - Rescue Them 2 by 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Animal Snap - Rescue Them 2 by 2 (Europe).cue",
+      "filesize": 792,
+      "ext": "cue",
+      "checksums": {
+        "md5": "193810cf759423053de67a857c9f06b5",
+        "sha1": "ddeec5b65e1f0dfbf8fc664dfb74970a908070b5",
+        "crc32": "cd66e33a"
+      }
+    },
+    {
+      "filename": "Animal Snap - Rescue Them 2 by 2 (Europe) (Track 1).bin",
+      "filesize": 56821968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ad9560b4b7ed1dbd3e10e650ddfaa8a",
+        "sha1": "28a430692a991cab8cbc0581124aa3780cd8f9b1",
+        "crc32": "d67a21d7"
+      }
+    },
+    {
+      "filename": "Animal Snap - Rescue Them 2 by 2 (Europe) (Track 2).bin",
+      "filesize": 16242912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "442ca209b98f9ec1186d63a7818dcd61",
+        "sha1": "1e1594886a7bbe214c67048dd78c41e1037a1ffc",
+        "crc32": "04da382a"
+      }
+    },
+    {
+      "filename": "Animal Snap - Rescue Them 2 by 2 (Europe) (Track 3).bin",
+      "filesize": 1792224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76d6a011345893cba36db600833877e5",
+        "sha1": "d60acda426e3fc5aff9a5a49efe8d7626d2a0002",
+        "crc32": "8f7eb770"
+      }
+    },
+    {
+      "filename": "Animal Snap - Rescue Them 2 by 2 (Europe) (Track 4).bin",
+      "filesize": 15431472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea5924a62a8f3b8a228e112edb1f2106",
+        "sha1": "9b7066342c3e714a8092830efb7952849355b5f3",
+        "crc32": "73ebd756"
+      }
+    },
+    {
+      "filename": "Animal Snap - Rescue Them 2 by 2 (Europe) (Track 5).bin",
+      "filesize": 1792224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44e11281bf59cd7ad73c3f9cc62d4bfb",
+        "sha1": "92114563ce49dec774eeb5e14813e3076383980b",
+        "crc32": "fcb43689"
+      }
+    },
+    {
+      "filename": "Animal Snap - Rescue Them 2 by 2 (Europe) (Track 6).bin",
+      "filesize": 42693504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4f62e8802236bdafc4b986e82e2f526",
+        "sha1": "20a927a3e41dec1f855b0e8c5961e84211ffae3f",
+        "crc32": "87129cc0"
+      }
+    }
+  ]
+}

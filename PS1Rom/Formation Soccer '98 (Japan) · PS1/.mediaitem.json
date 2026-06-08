@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formation Soccer '98 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formation Soccer '98 (Japan).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb177edf323060db0682fe7291cfde4a",
+        "sha1": "89a92f52fd9206777968296991e1e4280e4f0256",
+        "crc32": "c386b831"
+      }
+    },
+    {
+      "filename": "Formation Soccer '98 (Japan) (Track 1).bin",
+      "filesize": 331568496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51a9b329322763c0f2c5b3e054900773",
+        "sha1": "ddc657538a4354348e080e97b2093219d34fdfd5",
+        "crc32": "2ced7972"
+      }
+    },
+    {
+      "filename": "Formation Soccer '98 (Japan) (Track 2).bin",
+      "filesize": 43107456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "464143716e533044a7172866f753c13b",
+        "sha1": "07149c9619b00f72786db7fb66f48954ac82392d",
+        "crc32": "0d439aa6"
+      }
+    }
+  ]
+}

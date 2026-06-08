@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Toy Story Racer (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Toy Story Racer (Europe).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f2cf230f4ead5d6ade488a9ddfb3415",
+        "sha1": "da9b8b15e75957d2c6515232157086862ec45a66",
+        "crc32": "1bcf99da"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Toy Story Racer (Europe).bin",
+      "filesize": 259157472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b3ce4c59d9157a092e322da10a51787",
+        "sha1": "40cbe537780059f94d91eb783e63e4017ed8e366",
+        "crc32": "6a58a1c0"
+      }
+    }
+  ]
+}

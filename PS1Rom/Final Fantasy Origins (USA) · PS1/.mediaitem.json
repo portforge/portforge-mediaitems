@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Origins (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Origins (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "be18a9152f2a58a705bbd61e70edc561",
+        "sha1": "babf9bc1785b3893345fe66c49e53cbe295a4f9c",
+        "crc32": "d6dc1f91"
+      }
+    },
+    {
+      "filename": "Final Fantasy Origins (USA).bin",
+      "filesize": 589557024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ec86e30d99c75e64a04e9f5828a904f",
+        "sha1": "495620e1c35756f53f1d0cbec9ee000f947eb79b",
+        "crc32": "d41ab110"
+      }
+    }
+  ]
+}

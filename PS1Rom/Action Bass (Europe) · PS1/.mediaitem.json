@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Bass (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Bass (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31020f7ea9bfc382eeceaf0f29e81e7e",
+        "sha1": "51eeee5db1e336c2e5629cc3b05162b0edddfb24",
+        "crc32": "4d6a6e91"
+      }
+    },
+    {
+      "filename": "Action Bass (Europe).bin",
+      "filesize": 171905328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62f2ea966329e1339c67f8cfccd5e638",
+        "sha1": "18a7fa2146b29dcf7b892dcb6f87e4b31862e27d",
+        "crc32": "6c8e92d5"
+      }
+    }
+  ]
+}

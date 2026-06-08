@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Castlevania Chronicles (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Castlevania Chronicles (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45d88f31fd4c27e8a824e67a27664e32",
+        "sha1": "36818831976e754ed24bc3b63ea8d68030033aa9",
+        "crc32": "1acc3c13"
+      }
+    },
+    {
+      "filename": "Castlevania Chronicles (USA).bin",
+      "filesize": 528313296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "242a8ba6c3231089b59e9504a58b645f",
+        "sha1": "fd648f98ffc11c6a4778360813ecceb475789c14",
+        "crc32": "d4f5d6a1"
+      }
+    }
+  ]
+}

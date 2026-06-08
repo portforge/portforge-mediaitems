@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "559d189fb17177b10aebb4bc200f59b9",
+        "sha1": "655bb279cd230131c1c9ba16cd2b993fac2f2091",
+        "crc32": "91f6a4a7"
+      }
+    },
+    {
+      "filename": "Resident Evil (Germany).bin",
+      "filesize": 681873024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e44de975f85a5b60458d53e6d856814e",
+        "sha1": "d12c9dbea65a9a884f4b6718026ea41e18431b17",
+        "crc32": "7c3fb8f6"
+      }
+    }
+  ]
+}

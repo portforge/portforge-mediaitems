@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Ocean - The Second Story (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Ocean - The Second Story (Germany) (Disc 2).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72999e13cf9b54eed229ffd4d4b24569",
+        "sha1": "67d403e311876ac69b911593eb42194a594fc58b",
+        "crc32": "1cffff06"
+      }
+    },
+    {
+      "filename": "Star Ocean - The Second Story (Germany) (Disc 2).bin",
+      "filesize": 720786864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90c1bb54b5823e439d763c100ac7096d",
+        "sha1": "3e1ece964aa98d525e114505c64a952b027d26da",
+        "crc32": "8f737405"
+      }
+    }
+  ]
+}

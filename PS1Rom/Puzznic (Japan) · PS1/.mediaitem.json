@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puzznic (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puzznic (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ce476df700e82beb5bb9460849fec0e",
+        "sha1": "cd30b531159c99cc97eb29dc8ba23ee53402453e",
+        "crc32": "97f883e3"
+      }
+    },
+    {
+      "filename": "Puzznic (Japan).bin",
+      "filesize": 204207696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a05593c52a30915d6f87ab4fe5c4c18",
+        "sha1": "3ba1f77eca9a15ed4fc14bd4d146cada77f7e765",
+        "crc32": "ffd1bbe1"
+      }
+    }
+  ]
+}

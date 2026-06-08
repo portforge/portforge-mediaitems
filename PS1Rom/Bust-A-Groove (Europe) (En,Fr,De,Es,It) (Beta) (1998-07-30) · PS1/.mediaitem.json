@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bust-A-Groove (Europe) (En,Fr,De,Es,It) (Beta) (1998-07-30)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bust-A-Groove (Europe) (En,Fr,De,Es,It) (Beta) (1998-07-30).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21f6eba7457cd2a66faa1883ec5f37a9",
+        "sha1": "70d9e0bd88c3de18cf97fa2be6f5d839f1f34430",
+        "crc32": "7854e3bf"
+      }
+    },
+    {
+      "filename": "Bust-A-Groove (Europe) (En,Fr,De,Es,It) (Beta) (1998-07-30).bin",
+      "filesize": 401601648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9303782ac7dbbc6b20ba4e7f7302673",
+        "sha1": "95f926616648d92e37448f237e43cabab62be0d1",
+        "crc32": "3a2555b2"
+      }
+    }
+  ]
+}

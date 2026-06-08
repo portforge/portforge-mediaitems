@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Bowling 3 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Bowling 3 (Europe).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f191ea8995da1f82ed61b1c7fa0e7e1",
+        "sha1": "c1c32972e3a49011d3af3a26e711709d3a98e6a4",
+        "crc32": "98a1d1b3"
+      }
+    },
+    {
+      "filename": "King of Bowling 3 (Europe).bin",
+      "filesize": 33915840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2814f2feec9b716c5ae6ca08ea8eb99",
+        "sha1": "f857dbcfbc4329e3bca36b040946a07b741b78c9",
+        "crc32": "1a516e2e"
+      }
+    }
+  ]
+}

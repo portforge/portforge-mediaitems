@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Discworld II - Missing Presumed...! (Europe) (En,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Discworld II - Missing Presumed...! (Europe) (En,Es,It).cue",
+      "filesize": 280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28fca53b2a705ac55d53214baa45fd56",
+        "sha1": "c83ba7770fbfaca2c8991fc01069319a467f72a6",
+        "crc32": "50d7eeb9"
+      }
+    },
+    {
+      "filename": "Discworld II - Missing Presumed...! (Europe) (En,Es,It) (Track 1).bin",
+      "filesize": 705536496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7aab77b0d4ea0487fe653b77f371b5fa",
+        "sha1": "e76b76dd327ef45d0d5ec19dab04954a115f5bbd",
+        "crc32": "81a8557c"
+      }
+    },
+    {
+      "filename": "Discworld II - Missing Presumed...! (Europe) (En,Es,It) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

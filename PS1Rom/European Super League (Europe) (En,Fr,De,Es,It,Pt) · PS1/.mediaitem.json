@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "European Super League (Europe) (En,Fr,De,Es,It,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "European Super League (Europe) (En,Fr,De,Es,It,Pt).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b355c93078947f79306950cee26a66a3",
+        "sha1": "ff74b2f91ea25b125534de88131f806f179f6995",
+        "crc32": "dd4a6272"
+      }
+    },
+    {
+      "filename": "European Super League (Europe) (En,Fr,De,Es,It,Pt).bin",
+      "filesize": 386414784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5b9b43bb0d8b5c6738d06c03fa0f231",
+        "sha1": "dc52b14780e5cec4bd6da5f5799f003551f08e0c",
+        "crc32": "a8801d13"
+      }
+    }
+  ]
+}

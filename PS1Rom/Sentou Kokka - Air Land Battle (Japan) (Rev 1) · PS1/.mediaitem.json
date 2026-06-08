@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sentou Kokka - Air Land Battle (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sentou Kokka - Air Land Battle (Japan) (Rev 1).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5bec41c44cf40e8f5c07ae416d22ab8",
+        "sha1": "d5f6e9af0be7c582cca5e5e9bf4198d8241f955e",
+        "crc32": "4f734f86"
+      }
+    },
+    {
+      "filename": "Sentou Kokka - Air Land Battle (Japan) (Rev 1).bin",
+      "filesize": 268483152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49639c693c281b84e1a8e3aa730b6199",
+        "sha1": "1c9e9d2b63545de858c52a75438ccabc80c481df",
+        "crc32": "4865807f"
+      }
+    }
+  ]
+}

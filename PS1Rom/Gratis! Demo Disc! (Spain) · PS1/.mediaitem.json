@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gratis! Demo Disc! (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gratis! Demo Disc! (Spain).cue",
+      "filesize": 462,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1c6c9febf3f026ad25a13b97a272fb5e",
+        "sha1": "1cd670bef6d302e76fd9a9007b53654e4c4d41de",
+        "crc32": "b630c8f5"
+      }
+    },
+    {
+      "filename": "Gratis! Demo Disc! (Spain) (Track 1).bin",
+      "filesize": 376338816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fb3204d43403ee019bcfd327126fbf5",
+        "sha1": "464e136dc58918b742110e18ad412cb1ff5dde10",
+        "crc32": "4a0cd3eb"
+      }
+    },
+    {
+      "filename": "Gratis! Demo Disc! (Spain) (Track 2).bin",
+      "filesize": 32474064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41371a0a2913ed6ea1cbb99d8092800",
+        "sha1": "88aa669545d4b2a14e14bbbf78bcff4305d8141c",
+        "crc32": "9ec0e731"
+      }
+    },
+    {
+      "filename": "Gratis! Demo Disc! (Spain) (Track 3).bin",
+      "filesize": 32474064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c41371a0a2913ed6ea1cbb99d8092800",
+        "sha1": "88aa669545d4b2a14e14bbbf78bcff4305d8141c",
+        "crc32": "9ec0e731"
+      }
+    },
+    {
+      "filename": "Gratis! Demo Disc! (Spain) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

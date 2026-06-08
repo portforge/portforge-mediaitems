@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider - The Video Game (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider - The Video Game (Europe).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "57f6fa89374dfa9c434f33945126cad6",
+        "sha1": "3a3d51f34abe56f262bd25d33fd3b4e6d95fdf7a",
+        "crc32": "8ca15007"
+      }
+    },
+    {
+      "filename": "Spider - The Video Game (Europe).bin",
+      "filesize": 429028320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34627b1b2d204a19e23f2af328108a40",
+        "sha1": "f0d977dd4a8ab9bdff8b745e1fa700d74d1d3d4b",
+        "crc32": "e5f27912"
+      }
+    }
+  ]
+}

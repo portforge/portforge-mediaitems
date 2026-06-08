@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harry Potter and the Chamber of Secrets (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harry Potter and the Chamber of Secrets (Europe) (En,Fr,De).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "203f5ef34012fb30d1de67d85054f442",
+        "sha1": "4f5dab53fdc8f5ad89e25d012b5a29d3eb1caf30",
+        "crc32": "3cebeeae"
+      }
+    },
+    {
+      "filename": "Harry Potter and the Chamber of Secrets (Europe) (En,Fr,De).bin",
+      "filesize": 715207920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f573f8b4d5fe381c09ad99da8617c038",
+        "sha1": "79c3d76389f2728c237a5169e0c054f4ac929e17",
+        "crc32": "beb5a1b9"
+      }
+    }
+  ]
+}

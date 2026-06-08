@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Soccer - Club Edition (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Soccer - Club Edition (Europe).cue",
+      "filesize": 372,
+      "ext": "cue",
+      "checksums": {
+        "md5": "06f99bd5fba2401a39bbc707568a84a2",
+        "sha1": "d5d4b85e4461c1a9be9c144e9dc998544341e97d",
+        "crc32": "72d15de8"
+      }
+    },
+    {
+      "filename": "Actua Soccer - Club Edition (Europe) (Track 1).bin",
+      "filesize": 198254784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77dc8c9721776b8e080d5f7845b547c9",
+        "sha1": "f8d01936dc64ac38d7cad3176ea0ed17996a29e5",
+        "crc32": "7c519e2f"
+      }
+    },
+    {
+      "filename": "Actua Soccer - Club Edition (Europe) (Track 2).bin",
+      "filesize": 23595264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac87136463c095032f4944d19a4f2e83",
+        "sha1": "64a84a503ad3515215fc9819052b4556099aec21",
+        "crc32": "ffa7cd61"
+      }
+    },
+    {
+      "filename": "Actua Soccer - Club Edition (Europe) (Track 3).bin",
+      "filesize": 42818160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4327c0027665048810d8a24c00fee29",
+        "sha1": "430e0acde6463554acb34787620a41943bd54bf1",
+        "crc32": "89e85fcb"
+      }
+    }
+  ]
+}

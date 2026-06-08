@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Riven - The Sequel to Myst (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Riven - The Sequel to Myst (Europe) (Disc 2).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45b735b2182628d74ec04feea708230e",
+        "sha1": "c062cd4372d12c647b2e52003d87adf547e7b658",
+        "crc32": "c9a536a9"
+      }
+    },
+    {
+      "filename": "Riven - The Sequel to Myst (Europe) (Disc 2).bin",
+      "filesize": 731250912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51599dd272a01d460ace02f9d04f2478",
+        "sha1": "36f5c2c7a0055fb52ca05b6ca6ee46d76d98b317",
+        "crc32": "4ab2923f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RC Revenge (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RC Revenge (Japan).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d59eef494402286c8d30aa94adb6b6fe",
+        "sha1": "600afbfeb9ab1492fec9b9dbe0523b8583c3d0df",
+        "crc32": "ab5c660c"
+      }
+    },
+    {
+      "filename": "RC Revenge (Japan) (Track 1).bin",
+      "filesize": 484055712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "555174623dd5814c0735f442ddf6419a",
+        "sha1": "4d674a4c2ed1e81038b82bb090ea6c0d4aa0a103",
+        "crc32": "3a7c2301"
+      }
+    },
+    {
+      "filename": "RC Revenge (Japan) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

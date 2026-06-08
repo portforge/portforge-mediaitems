@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crusaders of Might and Magic (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crusaders of Might and Magic (Germany).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d748df877d4b4ed837794bb96e709999",
+        "sha1": "b8b9c1a731a1052893e764fcff47614b4e56c6da",
+        "crc32": "9ac5e5d2"
+      }
+    },
+    {
+      "filename": "Crusaders of Might and Magic (Germany).bin",
+      "filesize": 664588176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd94e46b36ea1e65aa0dcebbfcf309d9",
+        "sha1": "7f8182c71192aba696d32c17ebce954b82fd1955",
+        "crc32": "cee129c6"
+      }
+    }
+  ]
+}

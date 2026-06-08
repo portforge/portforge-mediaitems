@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Family Shougi - Super Strong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Family Shougi - Super Strong (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b8467b2d14ecf93924e585863b2287e",
+        "sha1": "260b18570c10aca357c91b26c28105c4e898da1c",
+        "crc32": "76a35757"
+      }
+    },
+    {
+      "filename": "Family Shougi - Super Strong (Japan).bin",
+      "filesize": 37871904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ceb5a39fc4e18334648c24060de8e043",
+        "sha1": "dc3eca64eb3380d561ffd32e437ca14abcb3e0c8",
+        "crc32": "1e2e2cc2"
+      }
+    }
+  ]
+}

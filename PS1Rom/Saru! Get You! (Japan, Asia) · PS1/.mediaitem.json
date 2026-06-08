@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saru! Get You! (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saru! Get You! (Japan, Asia).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6840b27148e7d12ecd10ca9dffb8342",
+        "sha1": "60ee6a828d0bf6a782d5900c92d1264b5a8acc34",
+        "crc32": "bd33cd68"
+      }
+    },
+    {
+      "filename": "Saru! Get You! (Japan, Asia).bin",
+      "filesize": 433259568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c70c89355b58111c1fafd050bdeef49",
+        "sha1": "06f4dc61b5345cddbe74ec56f330020e97c8903a",
+        "crc32": "1ac58c62"
+      }
+    }
+  ]
+}

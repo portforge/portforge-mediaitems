@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Toy Story 2 - Woody e Buzz alla riscossa! (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Toy Story 2 - Woody e Buzz alla riscossa! (Italy).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "edc7c8c605f6b1b25f64787757f7c6f6",
+        "sha1": "125fb76906ac467d2b491daae5c4da6bef6243f5",
+        "crc32": "a1dfbdf9"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Toy Story 2 - Woody e Buzz alla riscossa! (Italy).bin",
+      "filesize": 633243072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82ade6d2a92e8aa72c46f79491869135",
+        "sha1": "4f57828e0f3bf7b64c62c268ee409b3d4d006787",
+        "crc32": "9f50a7b3"
+      }
+    }
+  ]
+}

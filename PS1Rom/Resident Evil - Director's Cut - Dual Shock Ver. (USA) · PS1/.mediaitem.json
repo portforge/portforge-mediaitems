@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil - Director's Cut - Dual Shock Ver. (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil - Director's Cut - Dual Shock Ver. (USA).cue",
+      "filesize": 278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "77d7002e7e8ea9be3aa5c063bc435bbd",
+        "sha1": "fc79f9a9b7a57cbb0e76d43f602b616107faf25e",
+        "crc32": "b6d92e22"
+      }
+    },
+    {
+      "filename": "Resident Evil - Director's Cut - Dual Shock Ver. (USA) (Track 1).bin",
+      "filesize": 691205760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "547d112ed2d5624fc23e765485f061bc",
+        "sha1": "08fbc01ae9c3d47aa93d2a99d69fa67a54e4982b",
+        "crc32": "b01860ce"
+      }
+    },
+    {
+      "filename": "Resident Evil - Director's Cut - Dual Shock Ver. (USA) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 2) (+1 Tasu Ichi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 2) (+1 Tasu Ichi).cue",
+      "filesize": 145,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b93cfc99c01a9269fed8c8c34141eb78",
+        "sha1": "c8f572d16f32ff18d752108ac694dfa9dc8eadc4",
+        "crc32": "f6cbf20b"
+      }
+    },
+    {
+      "filename": "Little Princess - Marl Oukoku no Ningyou-hime 2 (Japan) (Disc 2) (+1 Tasu Ichi).bin",
+      "filesize": 246762432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f70a5280c02b92156c2b1b2b5d14a95",
+        "sha1": "95c3922bf135669845576a3bb3ac879013a5960e",
+        "crc32": "eb1653b2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GameGenius Ver. 5.0 (Taiwan) (En,Zh) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GameGenius Ver. 5.0 (Taiwan) (En,Zh) (Unl).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f9fcddb58ad1818aac7d2d7736876d8",
+        "sha1": "245eb4a7f563b8420b7c369d02f3135dc9eaa5a4",
+        "crc32": "568745b0"
+      }
+    },
+    {
+      "filename": "GameGenius Ver. 5.0 (Taiwan) (En,Zh) (Unl).bin",
+      "filesize": 36662976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9c6fb9b9f15968d3015c1e1d8e4516c",
+        "sha1": "097b39a45e8cd460662079f766f71c9f764b80c0",
+        "crc32": "66ac4dbe"
+      }
+    }
+  ]
+}

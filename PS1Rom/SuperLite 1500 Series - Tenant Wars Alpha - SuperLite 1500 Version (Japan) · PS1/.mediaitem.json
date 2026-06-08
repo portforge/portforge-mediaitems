@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Tenant Wars Alpha - SuperLite 1500 Version (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Tenant Wars Alpha - SuperLite 1500 Version (Japan).cue",
+      "filesize": 140,
+      "ext": "cue",
+      "checksums": {
+        "md5": "333612a77a41e5f0d983db4b20ecf2e9",
+        "sha1": "27bdd9ff37511c0f714e3b3f471503c7107f37d3",
+        "crc32": "df6832ea"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Tenant Wars Alpha - SuperLite 1500 Version (Japan).bin",
+      "filesize": 89392464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70cb3487f48a33bed8214ed5490fcaa6",
+        "sha1": "4afc3d4a4c9e7ffe0b1824f712e58c0a2a61cdca",
+        "crc32": "e640d768"
+      }
+    }
+  ]
+}

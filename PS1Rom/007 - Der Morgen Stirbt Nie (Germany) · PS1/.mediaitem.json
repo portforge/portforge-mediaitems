@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "007 - Der Morgen Stirbt Nie (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "007 - Der Morgen Stirbt Nie (Germany).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f866d01b2626b9dbd561bb7b166670be",
+        "sha1": "3712d307b1250569ea0d6e29caf7a95e0a4d2f09",
+        "crc32": "5afedf35"
+      }
+    },
+    {
+      "filename": "007 - Der Morgen Stirbt Nie (Germany).bin",
+      "filesize": 569706144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ecc6d05b7e7974fe1b85c487d1c12e2",
+        "sha1": "205a36c19e0319760297ed039de8dae14d0dd968",
+        "crc32": "7bd3b19f"
+      }
+    }
+  ]
+}

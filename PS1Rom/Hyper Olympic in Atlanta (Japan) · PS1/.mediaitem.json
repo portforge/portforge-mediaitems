@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper Olympic in Atlanta (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper Olympic in Atlanta (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0bf2e36cc57ade131ef0281db5eeadd0",
+        "sha1": "866ee6f62edc12285e5d910e2d9c31de25453383",
+        "crc32": "f8e4736f"
+      }
+    },
+    {
+      "filename": "Hyper Olympic in Atlanta (Japan).bin",
+      "filesize": 286106688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc4184dcd6a75cd67e8ee5fe0cb1bc22",
+        "sha1": "b83bdc7fa847ca214e59ec2a8940395c10519959",
+        "crc32": "4bc9be69"
+      }
+    }
+  ]
+}

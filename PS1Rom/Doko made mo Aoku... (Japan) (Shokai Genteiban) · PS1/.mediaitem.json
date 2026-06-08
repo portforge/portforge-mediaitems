@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doko made mo Aoku... (Japan) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doko made mo Aoku... (Japan) (Shokai Genteiban).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9952f9b0eb824228045c6af99071ba08",
+        "sha1": "25681fabcbb688772c241112bec3d58bdbdca973",
+        "crc32": "ed69c6b7"
+      }
+    },
+    {
+      "filename": "Doko made mo Aoku... (Japan) (Shokai Genteiban).bin",
+      "filesize": 741178704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0dce65c264b907f55309e7090550a56",
+        "sha1": "f71f38dc7ea37f03b0afbd6c1338861a2679b0a6",
+        "crc32": "7d1518d8"
+      }
+    }
+  ]
+}

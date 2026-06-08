@@ -1,0 +1,247 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Moto Racer World Tour (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Moto Racer World Tour (USA).cue",
+      "filesize": 2788,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7aad1393cadd6fe00c34919418221efd",
+        "sha1": "c19b3059222307e9cc1e665d73aa9993365bfe9a",
+        "crc32": "24fef15a"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 01).bin",
+      "filesize": 98546448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b80ff2cf79a14f10edbdeb270e580a91",
+        "sha1": "d11c3989b62f293116981552e5aba0b5d8d1c227",
+        "crc32": "d2791142"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 02).bin",
+      "filesize": 29581104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ef88593e6523aae856bdf78e27c3fae",
+        "sha1": "041077654c05325f1d2160771a5a0d6c8c5c09f1",
+        "crc32": "cff2bd37"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 03).bin",
+      "filesize": 30394896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfc9babac717ca248669e8e8157bf52d",
+        "sha1": "3fcce0f312f7aea185f8116c1f42b1957386948d",
+        "crc32": "b90373ae"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 04).bin",
+      "filesize": 34115760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b6f05e9617be1d6bc146e1f8ba7f81b",
+        "sha1": "51d886ed5b928b4f4cc091831365d565a81c12e9",
+        "crc32": "6d0f3b18"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 05).bin",
+      "filesize": 36458352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e35f771eed8fe583bccc1471b8081ff",
+        "sha1": "2bdee508d07325bc868ff27a917e23e9ee54f055",
+        "crc32": "4a4b0fca"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 06).bin",
+      "filesize": 30373728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "062274f92e65a936055932fbb5278511",
+        "sha1": "d6c320499ba589a86b65c3d5a67413a930ab7cf3",
+        "crc32": "0c16dcb2"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 07).bin",
+      "filesize": 29585808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e945b19afe102b7e0d9734b18c12f82",
+        "sha1": "8b581f8d21be138a8bd4c7b0d644bca8ca18f089",
+        "crc32": "bcfb2458"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 08).bin",
+      "filesize": 33167904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62f778ea18090b08935182ccaa3fc1f8",
+        "sha1": "d51ecf10a17b3e846d98c7ea8d581d02a2001ee1",
+        "crc32": "c832170f"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 09).bin",
+      "filesize": 32920944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2137139d0e65e35ed240b8a7681875fd",
+        "sha1": "c3ef7b03edff6e103d2ae73a765da09ab496d06a",
+        "crc32": "b0d8847f"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 10).bin",
+      "filesize": 31563840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a481f72561551d83db4e744f2ba1daa6",
+        "sha1": "a749ce5f04c79f94d22d6fdb81c2d98e0cb94fe5",
+        "crc32": "2d9a8d53"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 11).bin",
+      "filesize": 33055008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc501877414c42f6faf162e694d67536",
+        "sha1": "cbdda02a295302a1d2bac17ac23782cabadfe62d",
+        "crc32": "2b949d79"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 12).bin",
+      "filesize": 32676336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "064c14caf3c146cb0e8d3e90e225c638",
+        "sha1": "6fc2ed5c987423287f8687b92595995743712415",
+        "crc32": "e1b891f5"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 13).bin",
+      "filesize": 35494032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "751513c33e97269a648ed44a060b9585",
+        "sha1": "a24b940a9c7c4e37ce850f11c6ddc5e55c7f1706",
+        "crc32": "a751d1b1"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 14).bin",
+      "filesize": 33704160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b1e2d58ce42ecee6f3bf75294e90064",
+        "sha1": "07a17960e6a49649db0ca3142eef887f0f39d7a6",
+        "crc32": "b26a6dc8"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 15).bin",
+      "filesize": 11033232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bbb700a2dba334f69ca91318f82d56a",
+        "sha1": "c2b98be1e73bec0b8ec6804c6d15e16a4efee598",
+        "crc32": "7afaf50d"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 16).bin",
+      "filesize": 21243264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4513885cec9e48f7366901b5fed52dad",
+        "sha1": "2426b88304c53160e0e610462a4b8ac662016944",
+        "crc32": "79f37737"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 17).bin",
+      "filesize": 12270384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "243dbefafbb435e3943c9ba3afbdccdb",
+        "sha1": "7803729ccd565a116e8c7880139bf5ff1cde837c",
+        "crc32": "fb1a1ab1"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 18).bin",
+      "filesize": 1575840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "837801a7e8c908500059f0b553758655",
+        "sha1": "8ca83564744018f59adaffe7805f9d214e4e3d07",
+        "crc32": "07b6e947"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 19).bin",
+      "filesize": 4687536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a58d7e2d0f881db36c3445e5c5bfc575",
+        "sha1": "f9e08a2e8635c9c4e4f18e358eb51f08113de5bc",
+        "crc32": "3beb70fe"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 20).bin",
+      "filesize": 1909824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "297c87121f14586def65822fb04fe853",
+        "sha1": "68cf6266e3ebeb6af60cb94f9ed862ec46aa24cf",
+        "crc32": "6a96af1f"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 21).bin",
+      "filesize": 29757504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6c10065c0c494a9c75083b53fe3503b",
+        "sha1": "ffee4ad4f5bd829ea428e944f8fc11581e5441b3",
+        "crc32": "1ad66562"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 22).bin",
+      "filesize": 29472912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3eb13b885c17932001409514ee243bbb",
+        "sha1": "4af7f5ae334a6c61cacd29bb2a91dbf43b2e8eaf",
+        "crc32": "ad2e0d17"
+      }
+    },
+    {
+      "filename": "Moto Racer World Tour (USA) (Track 23).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Anastasia (Europe) (En,Fr,De,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Anastasia (Europe) (En,Fr,De,Nl).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "33cfe0ebdb662ba6a5be401924ca6abd",
+        "sha1": "fdea7b6c93669a23f5de2e16a563bf857b72fd20",
+        "crc32": "d4be8b7e"
+      }
+    },
+    {
+      "filename": "Anastasia (Europe) (En,Fr,De,Nl).bin",
+      "filesize": 512759520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47054110dd3aa772e4e2a6030b1a1665",
+        "sha1": "70afcc8eb81584ac18d52f08a77f63e803cd822d",
+        "crc32": "30735008"
+      }
+    }
+  ]
+}

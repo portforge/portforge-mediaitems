@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gex (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gex (USA) (Rev 1).cue",
+      "filesize": 315,
+      "ext": "cue",
+      "checksums": {
+        "md5": "089944271f35a3ecfaefafb20712a16e",
+        "sha1": "491180fefba282dad04929839c7e3d581a54a607",
+        "crc32": "e92853bd"
+      }
+    },
+    {
+      "filename": "Gex (USA) (Rev 1) (Track 1).bin",
+      "filesize": 353524416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44bd2647a44de1e786b7a7559c88afc3",
+        "sha1": "99c8e30bb0b742147bdb735d2d1bfd61a497263a",
+        "crc32": "52f18305"
+      }
+    },
+    {
+      "filename": "Gex (USA) (Rev 1) (Track 2).bin",
+      "filesize": 49439040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "261692b868912d818aba26e7237c116b",
+        "sha1": "ac5c3e4355852cad4e0e9af19d162199b8eea5de",
+        "crc32": "22ace4fc"
+      }
+    },
+    {
+      "filename": "Gex (USA) (Rev 1) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

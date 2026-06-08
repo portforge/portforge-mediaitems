@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "All Star Soccer (Europe) (En,Fr,De,It) (Beta) (1997-05-26)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "All Star Soccer (Europe) (En,Fr,De,It) (Beta) (1997-05-26).cue",
+      "filesize": 263,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50efa39f185f65a52ec250b527570236",
+        "sha1": "7796309225171f533ba93957c929d3b2c4fb6dd6",
+        "crc32": "9738f0d7"
+      }
+    },
+    {
+      "filename": "All Star Soccer (Europe) (En,Fr,De,It) (Beta) (1997-05-26) (Track 1).bin",
+      "filesize": 657823824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a3f09fa02ed61687679f351b35c8a85",
+        "sha1": "1f7839c85500ed5c52ab16bf53e737e5858f6f0c",
+        "crc32": "9780cf94"
+      }
+    },
+    {
+      "filename": "All Star Soccer (Europe) (En,Fr,De,It) (Beta) (1997-05-26) (Track 2).bin",
+      "filesize": 30002112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07e9ce6a2aa36a1e46c71d10636a2cce",
+        "sha1": "ffa114cd447fbd2a79c2dd132424e2aac2aa84e9",
+        "crc32": "52fb8662"
+      }
+    }
+  ]
+}

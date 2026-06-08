@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2005 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2005 (Italy).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d396c9dca0867092c16ec0d22472997",
+        "sha1": "612d535ebfd8b669217ac4e4f568bc06f0994704",
+        "crc32": "f282e330"
+      }
+    },
+    {
+      "filename": "FIFA Football 2005 (Italy).bin",
+      "filesize": 661808112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e0beb474ced9fcd41a29e5a29059fdb",
+        "sha1": "69a21bfbee916f099d77dc7e4a6d782bc39ac96b",
+        "crc32": "92c198a0"
+      }
+    }
+  ]
+}

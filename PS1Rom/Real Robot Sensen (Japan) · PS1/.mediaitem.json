@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Real Robot Sensen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Real Robot Sensen (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8a6a31b4bd3b05fc27ebc464779c33b",
+        "sha1": "46f1d28fdf0b84b8e9ca770728621e641a04a5f2",
+        "crc32": "3bb8af55"
+      }
+    },
+    {
+      "filename": "Real Robot Sensen (Japan) (Track 1).bin",
+      "filesize": 350640864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bda2fb6f3902f2b1416cea976c9dfcb",
+        "sha1": "5656f6d94f12ddfa9cfa210976bc732c8ed0f26f",
+        "crc32": "62136f9c"
+      }
+    },
+    {
+      "filename": "Real Robot Sensen (Japan) (Track 2).bin",
+      "filesize": 63268800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c6fc2e651d283df21bf853c264be75d",
+        "sha1": "1f9a85d8f788344f340eb4491e208f3970d33202",
+        "crc32": "5215a610"
+      }
+    }
+  ]
+}

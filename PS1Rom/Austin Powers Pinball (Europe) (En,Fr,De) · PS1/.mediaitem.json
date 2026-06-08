@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Austin Powers Pinball (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Austin Powers Pinball (Europe) (En,Fr,De).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7119971f195f22d182abf8bccfddeaa",
+        "sha1": "77da29f32a6b1149673a4ffba9ee734299698889",
+        "crc32": "7619d748"
+      }
+    },
+    {
+      "filename": "Austin Powers Pinball (Europe) (En,Fr,De).bin",
+      "filesize": 291977280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "939df859ba92d606e8fab765dd8d9fed",
+        "sha1": "9131a00156736e4c8d5a1ef90da08949903646f6",
+        "crc32": "e3a6ddd9"
+      }
+    }
+  ]
+}

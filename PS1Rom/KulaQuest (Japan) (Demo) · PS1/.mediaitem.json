@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "KulaQuest (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "KulaQuest (Japan) (Demo).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4f32d11b4b9a305b4afeb6ab205fa9e6",
+        "sha1": "5b03d2305554e8935548f20416d944cffd64a006",
+        "crc32": "ce2842c4"
+      }
+    },
+    {
+      "filename": "KulaQuest (Japan) (Demo).bin",
+      "filesize": 95279520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f95bc36506460fe6af254b208fb302a5",
+        "sha1": "2b034c3cddb46483eb0f0268851f98cea38b1af2",
+        "crc32": "84ba0987"
+      }
+    }
+  ]
+}

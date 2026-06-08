@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arcade's Greatest Hits - The Atari Collection 1 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arcade's Greatest Hits - The Atari Collection 1 (Europe).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1036e48a0cd53fac78e3f78f2b0190a0",
+        "sha1": "fab2a4ade2aabe9916fb1eb2c9078aedbfa65771",
+        "crc32": "c440e97e"
+      }
+    },
+    {
+      "filename": "Arcade's Greatest Hits - The Atari Collection 1 (Europe).bin",
+      "filesize": 617230656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f97faad1d427f983cb6ef18e8e3753e5",
+        "sha1": "4722473a03b400e05c0933434132b144aa7b2819",
+        "crc32": "46a28cfd"
+      }
+    }
+  ]
+}

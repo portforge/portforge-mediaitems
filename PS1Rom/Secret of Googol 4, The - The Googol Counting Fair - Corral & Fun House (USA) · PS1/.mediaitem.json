@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Secret of Googol 4, The - The Googol Counting Fair - Corral & Fun House (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Secret of Googol 4, The - The Googol Counting Fair - Corral & Fun House (USA).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67685cfaba4cb197bb19f1d9431c0351",
+        "sha1": "2fbb4906a90dcc40ec5b35a78859356334201fec",
+        "crc32": "803a9207"
+      }
+    },
+    {
+      "filename": "Secret of Googol 4, The - The Googol Counting Fair - Corral & Fun House (USA).bin",
+      "filesize": 411000240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db697fafd9f875f86b530b859b4ad7fc",
+        "sha1": "8531e8d7ac72d7e58064342b947cb3886094483d",
+        "crc32": "92c687a1"
+      }
+    }
+  ]
+}

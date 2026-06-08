@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gate Keepers (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gate Keepers (Japan) (Disc 2).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b4ffc904f71556eb14eb076a5ac1552",
+        "sha1": "1459b3add7fbbacf8f56cf40ba8ffc205f36c74f",
+        "crc32": "94fa01ea"
+      }
+    },
+    {
+      "filename": "Gate Keepers (Japan) (Disc 2).bin",
+      "filesize": 673967952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "757e9500ae79831a116a52616679e925",
+        "sha1": "f5d98d6362d66060f997a2d38038d73783145830",
+        "crc32": "bd926445"
+      }
+    }
+  ]
+}

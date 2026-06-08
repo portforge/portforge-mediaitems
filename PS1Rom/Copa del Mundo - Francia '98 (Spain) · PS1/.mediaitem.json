@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Copa del Mundo - Francia '98 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Copa del Mundo - Francia '98 (Spain).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3565ed6d9287e6ac4fe645fa5b8b057",
+        "sha1": "3a170781badf90b516db025828268dc930a630ac",
+        "crc32": "3b54c44d"
+      }
+    },
+    {
+      "filename": "Copa del Mundo - Francia '98 (Spain).bin",
+      "filesize": 732622128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c79b83c58f742c0d895ad20095757e63",
+        "sha1": "84604f6b57e48151dc938c64aeb2b2d3da9b8c1e",
+        "crc32": "3e9627c1"
+      }
+    }
+  ]
+}

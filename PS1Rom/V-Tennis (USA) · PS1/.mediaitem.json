@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "V-Tennis (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "V-Tennis (USA).cue",
+      "filesize": 306,
+      "ext": "cue",
+      "checksums": {
+        "md5": "072e8037c78ab4d4113a46538972118f",
+        "sha1": "8f578f741019138f86cfaddfb000ffec73333088",
+        "crc32": "336c73f8"
+      }
+    },
+    {
+      "filename": "V-Tennis (USA) (Track 1).bin",
+      "filesize": 174779472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e22e5b6a32e9358cfa197c05ca11bad7",
+        "sha1": "de3805ba486e68a28ae61e4f0e40ac7719a9127b",
+        "crc32": "d374d164"
+      }
+    },
+    {
+      "filename": "V-Tennis (USA) (Track 2).bin",
+      "filesize": 33624192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fe02300330e3271cdaa3e0d2a725c57",
+        "sha1": "e50ce879e17496dfae2eb64ab23c2be3269e25f4",
+        "crc32": "77c9c5df"
+      }
+    },
+    {
+      "filename": "V-Tennis (USA) (Track 3).bin",
+      "filesize": 34896624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75a279b109d5ea126464d4d6ffd72b68",
+        "sha1": "8a698bcf72e099e826c47ca920e843b4b622e97b",
+        "crc32": "dfdd958b"
+      }
+    }
+  ]
+}

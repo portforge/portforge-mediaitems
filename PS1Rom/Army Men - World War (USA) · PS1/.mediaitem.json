@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - World War (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - World War (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3637ee4f993d776e6137cd7db1219852",
+        "sha1": "7fbf0af2cefd841d8d3cf832a0b02d30d71025b5",
+        "crc32": "48951088"
+      }
+    },
+    {
+      "filename": "Army Men - World War (USA).bin",
+      "filesize": 514311840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d08d807318ef89f6241377680cdd38e",
+        "sha1": "1d3d1cc72f8dca3381072cccc9ab9968d7c83e81",
+        "crc32": "e0f23e4f"
+      }
+    }
+  ]
+}

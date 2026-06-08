@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silent Iron (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silent Iron (Europe).cue",
+      "filesize": 324,
+      "ext": "cue",
+      "checksums": {
+        "md5": "559d4c014e1f158cb0958ccbddaad379",
+        "sha1": "4359334a9e3083ca5472e0f62509769c6534254e",
+        "crc32": "91e99b84"
+      }
+    },
+    {
+      "filename": "Silent Iron (Europe) (Track 1).bin",
+      "filesize": 105668304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e031ced506ed1d13ded3f998646ae90a",
+        "sha1": "0af2a986e98f21110766bee2ca8d861f0b7ea190",
+        "crc32": "a677bdf4"
+      }
+    },
+    {
+      "filename": "Silent Iron (Europe) (Track 2).bin",
+      "filesize": 30463104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a08071d31f7714c1424c8a4d0baf377",
+        "sha1": "61ecbcd1162046b99bb98f24feeb50a7b9c8a8be",
+        "crc32": "fc1a947e"
+      }
+    },
+    {
+      "filename": "Silent Iron (Europe) (Track 3).bin",
+      "filesize": 82844496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfb3b68c8afda6106a289d3ab313f771",
+        "sha1": "1753f7187ebe56360d1a656623fcccf701d413eb",
+        "crc32": "9135769e"
+      }
+    }
+  ]
+}

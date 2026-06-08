@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dancing Blade Katte ni Momotenshi! (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dancing Blade Katte ni Momotenshi! (Japan) (Disc 3).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4be65e95ab3206fa6104bb3dc70570e8",
+        "sha1": "b5b602467b747e1a3a33e52306bd382547c98129",
+        "crc32": "eb817667"
+      }
+    },
+    {
+      "filename": "Dancing Blade Katte ni Momotenshi! (Japan) (Disc 3).bin",
+      "filesize": 466399248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "879b895b7c2f5c7a0bd35a0a7441012a",
+        "sha1": "f8cc6b5a9f402312c7b92403de16d23904263944",
+        "crc32": "c9b162c7"
+      }
+    }
+  ]
+}

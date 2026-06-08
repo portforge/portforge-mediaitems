@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mortal Kombat Trilogy (USA) (Beta) (1996-09-25)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mortal Kombat Trilogy (USA) (Beta) (1996-09-25).cue",
+      "filesize": 264,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a13b408d3419c0bbe71eaed4cdc739b5",
+        "sha1": "5aa840355d8d2bfefa29196ed2db9a5f22e000a3",
+        "crc32": "2dfc4cd5"
+      }
+    },
+    {
+      "filename": "Mortal Kombat Trilogy (USA) (Beta) (1996-09-25) (Track 1).bin",
+      "filesize": 42124320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7021ad45fd4edbeb1efabf85a8c67df2",
+        "sha1": "d6473f6a7eb541bdbe55a40e9fc28c2e00ae349d",
+        "crc32": "225c06e9"
+      }
+    },
+    {
+      "filename": "Mortal Kombat Trilogy (USA) (Beta) (1996-09-25) (Track 2).bin",
+      "filesize": 36300768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cf91aaad1c783b982d63c2bb7115d6b",
+        "sha1": "8ae7020187a7329a2cd732676dede57d42a47c03",
+        "crc32": "d9b31105"
+      }
+    }
+  ]
+}

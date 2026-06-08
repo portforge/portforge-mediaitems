@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gungho Brigade (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gungho Brigade (Japan) (Demo).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c04d6bb8522657b27b71c6bb3c2b307",
+        "sha1": "30152961844d3612cd60669b9cf2f111c01e02a5",
+        "crc32": "dfc4283a"
+      }
+    },
+    {
+      "filename": "Gungho Brigade (Japan) (Demo).bin",
+      "filesize": 69278160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f3f71aa5f879d60b86665b5be7b46e2",
+        "sha1": "7d131acdfac3857d6f3c65fed07d4c960d77f0dd",
+        "crc32": "80b94808"
+      }
+    }
+  ]
+}

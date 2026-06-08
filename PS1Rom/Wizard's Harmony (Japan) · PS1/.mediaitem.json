@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wizard's Harmony (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wizard's Harmony (Japan).cue",
+      "filesize": 572,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bdcde722908224e3e51ae412c09cd33b",
+        "sha1": "97d1584cc5e6ca69bcd8ed7183cbd4ead7029671",
+        "crc32": "6629aea1"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony (Japan) (Track 1).bin",
+      "filesize": 417197760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a27d8bafb9d7c30d828e62efc5090d0a",
+        "sha1": "dc15e7d785e73671f09e2c3645eef76ef966cb5f",
+        "crc32": "72760c48"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony (Japan) (Track 2).bin",
+      "filesize": 30900576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "225b14c5cff1ebfce349a35c005de59f",
+        "sha1": "5d1353303016c686bdab08db1ca8eb65ae4fa717",
+        "crc32": "221e50f6"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony (Japan) (Track 3).bin",
+      "filesize": 48251280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdf807f60ae73a50b9b9f75daa81c784",
+        "sha1": "20b75d23dc562c1e78279ad81d800dd1c4e35401",
+        "crc32": "b64849dd"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony (Japan) (Track 4).bin",
+      "filesize": 37401504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a48024228a77387e622f195ac3a95e0",
+        "sha1": "29eb87887b5c0e2c117564a2c7adb3609de6a519",
+        "crc32": "6bc131d4"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony (Japan) (Track 5).bin",
+      "filesize": 50979600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4fb8a61ab3c9b1d7a58d78af009b639",
+        "sha1": "0e50c1be5946598fa82fcb866c8a04ed9e041fdb",
+        "crc32": "165de9fa"
+      }
+    }
+  ]
+}

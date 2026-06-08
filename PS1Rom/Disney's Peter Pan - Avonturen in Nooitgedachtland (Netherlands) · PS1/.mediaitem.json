@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Peter Pan - Avonturen in Nooitgedachtland (Netherlands)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Peter Pan - Avonturen in Nooitgedachtland (Netherlands).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e63e1364d6753d6dc6e6fef2078da1c",
+        "sha1": "dc9d85c39f1539d3f04985a22dbddfff6a1e7c59",
+        "crc32": "32ddef35"
+      }
+    },
+    {
+      "filename": "Disney's Peter Pan - Avonturen in Nooitgedachtland (Netherlands).bin",
+      "filesize": 583815792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9b5dbf6819ab643b436ed3c71c84c67",
+        "sha1": "955d58c0955320cf02b0c8f732b78d2488b53f21",
+        "crc32": "720bf917"
+      }
+    }
+  ]
+}

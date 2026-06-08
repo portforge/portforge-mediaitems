@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider V - Chronicles (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider V - Chronicles (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f3abc1cb515e9b72f514808c6a0ada38",
+        "sha1": "f7bf2e9f25a947bd480379b9f56395ddb0e71cbe",
+        "crc32": "e2a2373b"
+      }
+    },
+    {
+      "filename": "Tomb Raider V - Chronicles (Japan).bin",
+      "filesize": 692983872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cb38c1736232216a76dcc7802ec088c",
+        "sha1": "3632794023c94c890cf00713f5fb7941b3f2847e",
+        "crc32": "f48bbcd7"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Die Hard Trilogy 2 - Viva Las Vegas (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Die Hard Trilogy 2 - Viva Las Vegas (Italy).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0149718074b6a4f639bed1204e071e28",
+        "sha1": "036057d75262f68f62d7d62fff0748cbbf1fa101",
+        "crc32": "5586e677"
+      }
+    },
+    {
+      "filename": "Die Hard Trilogy 2 - Viva Las Vegas (Italy).bin",
+      "filesize": 734470800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0655aca511ca9a6a7e5349ff9555072",
+        "sha1": "292592d64ff17b4fc565392a585602741e55c7c4",
+        "crc32": "6f60c132"
+      }
+    }
+  ]
+}

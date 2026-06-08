@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Titan A.E. (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Titan A.E. (USA) (Demo).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f83955e8fd933c7f339753804e23ff5e",
+        "sha1": "b98ce70f9d49808d19ccf2c0d3cd736b1c5b53ab",
+        "crc32": "8aebad86"
+      }
+    },
+    {
+      "filename": "Titan A.E. (USA) (Demo).bin",
+      "filesize": 421835904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b1951d03365e220950f91ce389fe3f5",
+        "sha1": "ae164c823569b34ebdd027dcae143622d5a78bca",
+        "crc32": "c025c351"
+      }
+    }
+  ]
+}

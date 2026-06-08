@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kosodate Quiz My Angel (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1).cue",
+      "filesize": 906,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c1276e9ff509bbcbef028d7c504df1e1",
+        "sha1": "e40b2640d501b525c6437678025c2488f7d3d3c1",
+        "crc32": "2c041120"
+      }
+    },
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1) (Track 1).bin",
+      "filesize": 224719488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1731ec7c4f2173b5650636f1920fe04e",
+        "sha1": "78e0035af849858f427ba984ae989d78270ba91b",
+        "crc32": "9ccfca78"
+      }
+    },
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1) (Track 2).bin",
+      "filesize": 16365216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e633f90a1a5ee1a835c62ee9b119c11b",
+        "sha1": "a15f26b49803a43d0806b561627040e94b66757a",
+        "crc32": "fff7dd2b"
+      }
+    },
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1) (Track 3).bin",
+      "filesize": 19825008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2557e202d1912675a805fa020f00701",
+        "sha1": "3eedb50f4c5f07da02beeb7aa8387ca94e6d221c",
+        "crc32": "89c88254"
+      }
+    },
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1) (Track 4).bin",
+      "filesize": 3024672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd99f6a2c9a43272117f3e4e4f91a24c",
+        "sha1": "bad90622d183ddd4410d11ff0f8714d76cdf2d1d",
+        "crc32": "459484c1"
+      }
+    },
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1) (Track 5).bin",
+      "filesize": 6985440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "621740febb4070b277daf922dccd476b",
+        "sha1": "11ee0d0b0271341d5e607f12dc00e6ce57a0ae10",
+        "crc32": "5387be08"
+      }
+    },
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1) (Track 6).bin",
+      "filesize": 9417408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9a8cbc2d4e3d6f4ceb531136c7ae288",
+        "sha1": "e682ce381dd5c3150d490949fce0fab0128dc7b1",
+        "crc32": "12b9b7d7"
+      }
+    },
+    {
+      "filename": "Kosodate Quiz My Angel (Japan) (Rev 1) (Track 7).bin",
+      "filesize": 50353968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12a58b31985bb12dda2092d972119e4d",
+        "sha1": "e64f7578193af9d6164827249ebc62e9aa20c7e0",
+        "crc32": "68902d80"
+      }
+    }
+  ]
+}

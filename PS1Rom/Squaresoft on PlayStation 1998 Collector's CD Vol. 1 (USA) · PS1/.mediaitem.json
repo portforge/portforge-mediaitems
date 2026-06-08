@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Squaresoft on PlayStation 1998 Collector's CD Vol. 1 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Squaresoft on PlayStation 1998 Collector's CD Vol. 1 (USA).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a12f5d07bf539db9d059df2d69016e8",
+        "sha1": "457626ede0ad87786ff84ac6211ee3b8ca5476e6",
+        "crc32": "f37a91d6"
+      }
+    },
+    {
+      "filename": "Squaresoft on PlayStation 1998 Collector's CD Vol. 1 (USA).bin",
+      "filesize": 487713072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60afd7b1b9c00313f52737f519e37d87",
+        "sha1": "01fe9b98bfc7d4ce24c33b6f50cc60755a6811a5",
+        "crc32": "e270aa40"
+      }
+    }
+  ]
+}

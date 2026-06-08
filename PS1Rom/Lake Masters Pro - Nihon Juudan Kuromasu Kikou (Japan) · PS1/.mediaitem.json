@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lake Masters Pro - Nihon Juudan Kuromasu Kikou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lake Masters Pro - Nihon Juudan Kuromasu Kikou (Japan).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "839e84b2b7352d9e05ad9de94d9b979f",
+        "sha1": "d6173f40be61e951e7a2fe61b3cf57b3f626830c",
+        "crc32": "f907f6d8"
+      }
+    },
+    {
+      "filename": "Lake Masters Pro - Nihon Juudan Kuromasu Kikou (Japan).bin",
+      "filesize": 494910192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d451a697f3744894a4baa6a7df51b837",
+        "sha1": "9c60bb8d25a6c710c82fbfa4e4e6f0d75d80178a",
+        "crc32": "2c31b88f"
+      }
+    }
+  ]
+}

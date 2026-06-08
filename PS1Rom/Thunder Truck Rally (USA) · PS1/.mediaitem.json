@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thunder Truck Rally (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thunder Truck Rally (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6b84db2f2b881980a04b0a2d9f715340",
+        "sha1": "431d759262e1fb7fd75526231e73c1140b032d31",
+        "crc32": "d06bcf49"
+      }
+    },
+    {
+      "filename": "Thunder Truck Rally (USA).bin",
+      "filesize": 328710816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8112844a6f71cad06a344878c0fd273d",
+        "sha1": "b35ed89a47ff1bb65a3504da58ed154a9217c815",
+        "crc32": "0a323793"
+      }
+    }
+  ]
+}

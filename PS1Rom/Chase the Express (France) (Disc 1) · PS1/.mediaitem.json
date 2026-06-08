@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chase the Express (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chase the Express (France) (Disc 1).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88c92ebeb5ae7ab7fd536bbb89c4023f",
+        "sha1": "5c0962124270acf2f6292f5e6874c3b255242052",
+        "crc32": "6a1036a0"
+      }
+    },
+    {
+      "filename": "Chase the Express (France) (Disc 1).bin",
+      "filesize": 653940672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20388d68cc1ba61063c165b51d5d0aa5",
+        "sha1": "688b3d7fde78405f09d3b942b4dd5ab11d827168",
+        "crc32": "ad416971"
+      }
+    }
+  ]
+}

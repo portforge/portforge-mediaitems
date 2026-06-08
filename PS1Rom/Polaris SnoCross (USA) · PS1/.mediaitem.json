@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Polaris SnoCross (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Polaris SnoCross (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6488a5bbba9e0a79fc1585ac2845cdb6",
+        "sha1": "8d2ce584f7a420acd9b63b8670502dd7b5d8c63c",
+        "crc32": "0dc5b0ca"
+      }
+    },
+    {
+      "filename": "Polaris SnoCross (USA).bin",
+      "filesize": 238572768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "052b82a8d31b15a89733d74a78f139ef",
+        "sha1": "599aa2852d1e99c54da92cc04c4e503455ffafc6",
+        "crc32": "ab9d8c0e"
+      }
+    }
+  ]
+}

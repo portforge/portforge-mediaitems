@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's The Emperor's New Groove (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's The Emperor's New Groove (USA).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "47c923113f0d5c41694d1da77ed286af",
+        "sha1": "db43b63ede4fcca5545e111a2b6218a3b10d5b10",
+        "crc32": "042cffa3"
+      }
+    },
+    {
+      "filename": "Disney's The Emperor's New Groove (USA).bin",
+      "filesize": 615073872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7468032a75a9d7adb251988a84ea5a84",
+        "sha1": "9ad6a86faa75eca7740365c598b517d49160c530",
+        "crc32": "2a1594f4"
+      }
+    }
+  ]
+}

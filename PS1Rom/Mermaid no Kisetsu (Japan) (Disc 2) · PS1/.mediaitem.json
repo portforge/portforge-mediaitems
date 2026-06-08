@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mermaid no Kisetsu (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mermaid no Kisetsu (Japan) (Disc 2).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73bc1556009da0f3e7daee8dace81896",
+        "sha1": "78fa5919612802a5d125eaab4f3f69fb6bcc7f8c",
+        "crc32": "6eca1b8a"
+      }
+    },
+    {
+      "filename": "Mermaid no Kisetsu (Japan) (Disc 2).bin",
+      "filesize": 694512672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57bcc594f99907bffb37c4b948ec14de",
+        "sha1": "03eb646012358cf2fa99e41253a1ddcd51106378",
+        "crc32": "d9d420b3"
+      }
+    }
+  ]
+}

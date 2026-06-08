@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Riven - The Sequel to Myst (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Riven - The Sequel to Myst (Germany) (Disc 2).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e025bd0be7a485eaf77757a2511314ae",
+        "sha1": "6b0b1728d71b16b947699934c7c834fd41645dca",
+        "crc32": "d7084390"
+      }
+    },
+    {
+      "filename": "Riven - The Sequel to Myst (Germany) (Disc 2).bin",
+      "filesize": 731109792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "745f5c45acb59a6fca56d10e57b0fdd3",
+        "sha1": "e954beeb74bcd2cdab1fddc67591870c92ef2623",
+        "crc32": "3bccea40"
+      }
+    }
+  ]
+}

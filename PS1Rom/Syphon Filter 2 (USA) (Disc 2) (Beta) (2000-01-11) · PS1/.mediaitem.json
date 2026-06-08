@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 2 (USA) (Disc 2) (Beta) (2000-01-11)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 2 (USA) (Disc 2) (Beta) (2000-01-11).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "623667a12d5493c7815f08dab38eb50a",
+        "sha1": "e001e63503fb631018c4ee2391018b82ffe9cf49",
+        "crc32": "97490a53"
+      }
+    },
+    {
+      "filename": "Syphon Filter 2 (USA) (Disc 2) (Beta) (2000-01-11).bin",
+      "filesize": 733534704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d48408b98de8fb6eb6dd27a6b79f00f1",
+        "sha1": "03a10d5541e79660b65545bdcf93bd4f4c0d8965",
+        "crc32": "29a34369"
+      }
+    }
+  ]
+}

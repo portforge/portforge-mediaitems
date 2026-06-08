@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mahjong Taikai II Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mahjong Taikai II Special (Japan).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5aebf896dc2d56a63dad36cecd220cc7",
+        "sha1": "4e1f1d045c7e1e3abdf78e698882461d74dcdbaa",
+        "crc32": "4e77881c"
+      }
+    },
+    {
+      "filename": "Mahjong Taikai II Special (Japan) (Track 1).bin",
+      "filesize": 117821088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccb5809af6f663b94ebe6cfc30768a2b",
+        "sha1": "1abaff1f409220bb43524dfb7aca089d05a1b86f",
+        "crc32": "f64a455b"
+      }
+    },
+    {
+      "filename": "Mahjong Taikai II Special (Japan) (Track 2).bin",
+      "filesize": 338706816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61faab46634ca2c0084dd325e7bb0ad6",
+        "sha1": "cf3a8d3f8b6a0e06eb372787d5bda8f3b1888d55",
+        "crc32": "a4ea2e34"
+      }
+    },
+    {
+      "filename": "Mahjong Taikai II Special (Japan) (Track 3).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

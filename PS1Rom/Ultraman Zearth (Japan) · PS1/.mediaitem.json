@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ultraman Zearth (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ultraman Zearth (Japan).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "286c2f66a69a899104732ac8740d039d",
+        "sha1": "9e56c30a8ed8374cf79c8fe3d829f4e3ccefedd6",
+        "crc32": "b8d14af0"
+      }
+    },
+    {
+      "filename": "Ultraman Zearth (Japan) (Track 1).bin",
+      "filesize": 490523712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72d3a71957a5104355add3e850d038c3",
+        "sha1": "d98eacc4ef96b143c2e1bfb03f97452675152323",
+        "crc32": "bc0a9df2"
+      }
+    },
+    {
+      "filename": "Ultraman Zearth (Japan) (Track 2).bin",
+      "filesize": 32991504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54cc0c4cdce2d4f7bd4016bb3907e92d",
+        "sha1": "b4c7b981b796de3178b421b31d768b486fb18423",
+        "crc32": "b26b6f63"
+      }
+    }
+  ]
+}

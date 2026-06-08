@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monkey Magic (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monkey Magic (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19d78469a2d6085bba9d6fad2f4453f3",
+        "sha1": "aff2eefb81eb6ad41192d20ff04aee7dc9bdab97",
+        "crc32": "e8291b4a"
+      }
+    },
+    {
+      "filename": "Monkey Magic (USA).bin",
+      "filesize": 740894112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e823e6992daa9a5c1d1ac99c14a12a9a",
+        "sha1": "e844d24e3e0c8b0628c380ce9d4050732f729548",
+        "crc32": "d3a5566e"
+      }
+    }
+  ]
+}

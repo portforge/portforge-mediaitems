@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Valor (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Valor (Japan) (Disc 1).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c30b3bf84d2db8e05d835fa0ed7313ca",
+        "sha1": "33fda6621499d056029d9d849529873685c27e9e",
+        "crc32": "3f656d81"
+      }
+    },
+    {
+      "filename": "Dragon Valor (Japan) (Disc 1).bin",
+      "filesize": 635228160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "446c789aae42e95bc8056597d65b1f7c",
+        "sha1": "82f33fd5f1c69c8e61de9e5f5645c9f722480615",
+        "crc32": "73c3abc2"
+      }
+    }
+  ]
+}

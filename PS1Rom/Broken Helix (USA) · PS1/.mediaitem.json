@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Broken Helix (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Broken Helix (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3de3299277dd496f71ff72f745fd901c",
+        "sha1": "c6cd0482f6dd8f0dd2866460f33278ffb1aa41c2",
+        "crc32": "889a444b"
+      }
+    },
+    {
+      "filename": "Broken Helix (USA).bin",
+      "filesize": 728967120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0426e245a4175e3a1edd6f284d3e30bf",
+        "sha1": "f95952ff72292cc1169d760f75e6b44c5b798517",
+        "crc32": "a417ada4"
+      }
+    }
+  ]
+}

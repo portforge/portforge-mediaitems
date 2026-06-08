@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Exhumed (Europe) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Exhumed (Europe) (En,Fr,De,Es).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5c7d860544a73e0e75c6582fb4d28c55",
+        "sha1": "07636fcafe1e487e9335ad8a2f2ac40608ff9d29",
+        "crc32": "f8ef47cc"
+      }
+    },
+    {
+      "filename": "Exhumed (Europe) (En,Fr,De,Es).bin",
+      "filesize": 635903184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb60832b77306a8771e52e892df9ede6",
+        "sha1": "a9b465ef2265ccb84a5c53fb0e1943406dbb8cd3",
+        "crc32": "9260283e"
+      }
+    }
+  ]
+}

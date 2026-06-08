@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Midnight in Vegas (Europe) (En,Fr,De) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Midnight in Vegas (Europe) (En,Fr,De) (Rev 1).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "56a2d3cf62327feef4b85266f33e9f65",
+        "sha1": "5cd5e94ed8ca38a7fe5e494f889ca0285b60e3c1",
+        "crc32": "d105d763"
+      }
+    },
+    {
+      "filename": "Midnight in Vegas (Europe) (En,Fr,De) (Rev 1).bin",
+      "filesize": 229900944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c994a8980316cbde2686afaa101e25c4",
+        "sha1": "4094bb6aaac8b85a7b584db911221a7ea4ae7cbe",
+        "crc32": "ee984ea7"
+      }
+    }
+  ]
+}

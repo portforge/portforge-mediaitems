@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater 3 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (Germany).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2610261fc617e47d8a2c0e12d70090fe",
+        "sha1": "8e10353a1f7ed9da9e6ef224153354344a9d7427",
+        "crc32": "25ccb204"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 3 (Germany).bin",
+      "filesize": 706037472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a49fa4099eaf0c87c36dac0a8f04e19b",
+        "sha1": "3bd67796467841dc641d0851f2e4370ee7638687",
+        "crc32": "d3da097b"
+      }
+    }
+  ]
+}

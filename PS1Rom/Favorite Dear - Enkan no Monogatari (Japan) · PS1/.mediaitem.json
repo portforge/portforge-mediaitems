@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Favorite Dear - Enkan no Monogatari (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Favorite Dear - Enkan no Monogatari (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee0028bb87d581d321928861cbc639da",
+        "sha1": "a70cc2b8f3f52f008c6b14040649d3f49c8760b1",
+        "crc32": "555308f1"
+      }
+    },
+    {
+      "filename": "Favorite Dear - Enkan no Monogatari (Japan).bin",
+      "filesize": 639219504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18d564e3ce5f5b9b006ead6be11a290c",
+        "sha1": "605d9dd7d6d6bf985d64f307540b431459797d35",
+        "crc32": "8c4f696f"
+      }
+    }
+  ]
+}

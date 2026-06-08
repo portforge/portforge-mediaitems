@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachi-Slot Station SP - Yamasa Best Choice (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachi-Slot Station SP - Yamasa Best Choice (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01847ab4601ca067c9eee0df4c1c94df",
+        "sha1": "ffbb3ac738f7b0f77b35291301a39d79013c26ba",
+        "crc32": "f1b9c106"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachi-Slot Station SP - Yamasa Best Choice (Japan).bin",
+      "filesize": 39840528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d48015e017ae40eb495cab463bf85920",
+        "sha1": "45e2e42f274a1c1fe2790f09e376a63ba66e3774",
+        "crc32": "bbd9c9d3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bastard!! Utsuronaru Kamigami no Utsuwa (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bastard!! Utsuronaru Kamigami no Utsuwa (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0504ad1a2f3ceb1687ad04e1856b11d0",
+        "sha1": "b9cec6249883df7789f8babaf7c61200a6c2fae6",
+        "crc32": "12c03766"
+      }
+    },
+    {
+      "filename": "Bastard!! Utsuronaru Kamigami no Utsuwa (Japan).bin",
+      "filesize": 565989984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "498a8c10d2ad215dcb4c60efa5ca3b6e",
+        "sha1": "0218f73e2b6f2ef4115ed53d1215a838c3e4de57",
+        "crc32": "baef7ab1"
+      }
+    }
+  ]
+}

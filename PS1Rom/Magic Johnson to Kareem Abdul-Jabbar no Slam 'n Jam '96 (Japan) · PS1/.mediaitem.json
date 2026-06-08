@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Magic Johnson to Kareem Abdul-Jabbar no Slam 'n Jam '96 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Magic Johnson to Kareem Abdul-Jabbar no Slam 'n Jam '96 (Japan).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9cdc5833e4aac2f54fd51bc5c1eae6cb",
+        "sha1": "665a22aa97f79ba2eaf525db9100f44b267fc759",
+        "crc32": "80a1e185"
+      }
+    },
+    {
+      "filename": "Magic Johnson to Kareem Abdul-Jabbar no Slam 'n Jam '96 (Japan).bin",
+      "filesize": 195281856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0086b783dee7cc38fdf8c867ad05464",
+        "sha1": "49f638c77989e58c712a1ecdefbca59dd08606e9",
+        "crc32": "477e7adf"
+      }
+    }
+  ]
+}

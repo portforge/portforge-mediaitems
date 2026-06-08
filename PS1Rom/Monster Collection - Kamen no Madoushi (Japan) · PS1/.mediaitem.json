@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monster Collection - Kamen no Madoushi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monster Collection - Kamen no Madoushi (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d01c5d468fa2c1e7a09b6f517d9661b",
+        "sha1": "c4fbf2f9ddb74d452358e0587452dca000f2fb32",
+        "crc32": "20a2b7f0"
+      }
+    },
+    {
+      "filename": "Monster Collection - Kamen no Madoushi (Japan).bin",
+      "filesize": 151325328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01361195e587546aff4303df8a8444cd",
+        "sha1": "43722111a2aec2daf5c89baf093d84a1b64a968b",
+        "crc32": "7e8d835d"
+      }
+    }
+  ]
+}

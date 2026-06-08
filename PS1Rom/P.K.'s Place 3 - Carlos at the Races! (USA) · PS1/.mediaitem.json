@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "P.K.'s Place 3 - Carlos at the Races! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "P.K.'s Place 3 - Carlos at the Races! (USA).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18b675ba5419313bb501f4eef0f7fcc9",
+        "sha1": "a20ef20fd859c3c5949df4123e005f5c924ea785",
+        "crc32": "20006609"
+      }
+    },
+    {
+      "filename": "P.K.'s Place 3 - Carlos at the Races! (USA).bin",
+      "filesize": 190580208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe1c8e30f4f11547e8b8b16977fa2175",
+        "sha1": "f79bba1fc85f76e75bb9b49cca743177255796db",
+        "crc32": "655d68ad"
+      }
+    }
+  ]
+}

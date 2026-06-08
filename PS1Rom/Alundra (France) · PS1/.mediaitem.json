@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alundra (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alundra (France).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e7321eaf5e52513a887867ba485cde20",
+        "sha1": "aab701e40715209416e02fdc29424a3fa66846bc",
+        "crc32": "4df4110e"
+      }
+    },
+    {
+      "filename": "Alundra (France).bin",
+      "filesize": 606206832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a190f2b66ee9e7e5f1db4cbbea9a73a1",
+        "sha1": "da7c78820ba3dc44b89e5aef828c96305df3f78f",
+        "crc32": "d8340b3e"
+      }
+    }
+  ]
+}

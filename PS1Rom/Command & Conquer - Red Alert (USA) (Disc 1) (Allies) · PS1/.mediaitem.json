@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer - Red Alert (USA) (Disc 1) (Allies)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer - Red Alert (USA) (Disc 1) (Allies).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "566f6f296b4a77a4e254903e7cc8ee39",
+        "sha1": "da55a2ad7a91a2903675fbd31ee4994e23a04f33",
+        "crc32": "e7126fb1"
+      }
+    },
+    {
+      "filename": "Command & Conquer - Red Alert (USA) (Disc 1) (Allies).bin",
+      "filesize": 735569184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95e42f19cb451bd63c4c9c490917a750",
+        "sha1": "add8810f6d040483505f8fa2ae3a72071d4f0e71",
+        "crc32": "5d9bd1b5"
+      }
+    }
+  ]
+}

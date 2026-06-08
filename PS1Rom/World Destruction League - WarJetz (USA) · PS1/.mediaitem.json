@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Destruction League - WarJetz (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Destruction League - WarJetz (USA).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "000d8b4ac156440c1aab56afad1e5443",
+        "sha1": "6140c1f88478a28fdcdd22dbf5ed4a91b8282ba2",
+        "crc32": "7c380bc9"
+      }
+    },
+    {
+      "filename": "World Destruction League - WarJetz (USA).bin",
+      "filesize": 518350224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64ea868bc1727a0b3a66da907e71127f",
+        "sha1": "fbadb406b25a57ccf98f16b4e402fc62ba888a22",
+        "crc32": "24d305a7"
+      }
+    }
+  ]
+}

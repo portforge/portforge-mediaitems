@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 47 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 47 (Europe).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85d7dd8a6ca8c07097f0c01c541b9292",
+        "sha1": "55b350e280ae3e348093cd6219740de8e10bf986",
+        "crc32": "c18d136f"
+      }
+    },
+    {
+      "filename": "Euro Demo 47 (Europe) (Track 1).bin",
+      "filesize": 407923824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4367db0b5dc6617be8b623abbc15f933",
+        "sha1": "a2092e23bc234aa14e224bb68a58b8bced5136de",
+        "crc32": "18ce2ef8"
+      }
+    },
+    {
+      "filename": "Euro Demo 47 (Europe) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

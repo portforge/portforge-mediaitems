@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Files, The (USA) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Files, The (USA) (Disc 3).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "65a1899f810476c7f82e2e588ef291ee",
+        "sha1": "f196abc3f684afc864988965d6b103c6e58012f5",
+        "crc32": "ceff78c5"
+      }
+    },
+    {
+      "filename": "X-Files, The (USA) (Disc 3).bin",
+      "filesize": 606583152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c99e26f356b85ae8fa2ed95eecfc35f",
+        "sha1": "47db5a887cde5a8c36f40283d7e7d4b0dc3b5c38",
+        "crc32": "f3db0598"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next King - Koi no Sennen Oukoku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan).cue",
+      "filesize": 384,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c0dd6b96d8eae1cb44b76a5422627b8b",
+        "sha1": "05d18e1b567cba96ab57f582d3d2835186d9853a",
+        "crc32": "4f529b77"
+      }
+    },
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan) (Track 1).bin",
+      "filesize": 543643632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69dd4031ffb8c96f2b240f5e899ea6c8",
+        "sha1": "67983342a2f2b397373786983403a01f775272bc",
+        "crc32": "458b6b34"
+      }
+    },
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan) (Track 2).bin",
+      "filesize": 34964832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c84ddc3f4bcdb2255ed4cf15631eab2d",
+        "sha1": "910f92c931288f7956b01ddcd1409d0ee53c68a6",
+        "crc32": "f1b9eb4e"
+      }
+    },
+    {
+      "filename": "Next King - Koi no Sennen Oukoku (Japan) (Track 3).bin",
+      "filesize": 34964832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f47f26c8d4a0191b1b4e965795aa096b",
+        "sha1": "6c4f6fb8526aa9a38f6f8ed9ea857ff459d448c1",
+        "crc32": "d75e9457"
+      }
+    }
+  ]
+}

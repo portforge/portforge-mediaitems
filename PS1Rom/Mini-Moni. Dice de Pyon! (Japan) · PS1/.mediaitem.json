@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mini-Moni. Dice de Pyon! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mini-Moni. Dice de Pyon! (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e88da505d7334329a0d3633636b782e",
+        "sha1": "cffbb624240b2ec576319277e715e1ac0342bacb",
+        "crc32": "108fa905"
+      }
+    },
+    {
+      "filename": "Mini-Moni. Dice de Pyon! (Japan).bin",
+      "filesize": 134771952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea80d6b79881d0f012dfa907ad6b1a47",
+        "sha1": "87b33bfd2dd6ce9a0e0e8b1e44a60ade58cf2889",
+        "crc32": "423009ee"
+      }
+    }
+  ]
+}

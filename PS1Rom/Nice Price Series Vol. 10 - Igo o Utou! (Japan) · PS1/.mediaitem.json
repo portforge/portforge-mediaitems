@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nice Price Series Vol. 10 - Igo o Utou! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nice Price Series Vol. 10 - Igo o Utou! (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "680fb3efe9aa7647994105c463cf73f0",
+        "sha1": "ff2db8306cd11de1577753da98016bb18a726f2e",
+        "crc32": "b9c1fe6c"
+      }
+    },
+    {
+      "filename": "Nice Price Series Vol. 10 - Igo o Utou! (Japan).bin",
+      "filesize": 55700064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "931e97fb23ccedb0504ed3283b33b950",
+        "sha1": "e1a4ec24b56d380345fa2e03973b8d88c858f665",
+        "crc32": "df3a7b71"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Club Solaris - Miss goda (Russia) (En,Ru) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Club Solaris - Miss goda (Russia) (En,Ru) (Unl).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "889cfd492d03f17425fb48b7de29faf9",
+        "sha1": "249e65e96e68afbd8e8bb85c3894ee9143bf0dc6",
+        "crc32": "24095e70"
+      }
+    },
+    {
+      "filename": "Club Solaris - Miss goda (Russia) (En,Ru) (Unl).bin",
+      "filesize": 684617808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40423314c6ac2d211ac86fbf2e97a795",
+        "sha1": "7f37e64920deab36a066a776449998ae2553559d",
+        "crc32": "1d74e41c"
+      }
+    }
+  ]
+}

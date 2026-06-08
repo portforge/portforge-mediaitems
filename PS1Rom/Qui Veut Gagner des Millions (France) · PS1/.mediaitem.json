@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Qui Veut Gagner des Millions (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Qui Veut Gagner des Millions (France).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69aac3aa4a208aaa1a61250378bc7362",
+        "sha1": "66684a6146e0a8cb92ed046da0c4555260adc4b1",
+        "crc32": "cfe8f1f4"
+      }
+    },
+    {
+      "filename": "Qui Veut Gagner des Millions (France).bin",
+      "filesize": 301434672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4b9065af214d32a097992c0ba055b43",
+        "sha1": "c6b456d8c366bd83d26a170aa2f6a141eb5efacb",
+        "crc32": "52e562e1"
+      }
+    }
+  ]
+}

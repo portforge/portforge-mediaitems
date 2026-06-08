@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Catan - Die erste Insel (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Catan - Die erste Insel (Germany).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf7ca87182c756eab1d6133aae7ce94f",
+        "sha1": "877d3877b20a57df44a8d9153eb7131259af952e",
+        "crc32": "92c4bc19"
+      }
+    },
+    {
+      "filename": "Catan - Die erste Insel (Germany) (Track 1).bin",
+      "filesize": 265660752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d90d59ffce104a91ac729edae1697a13",
+        "sha1": "2bf9b13706aeb21d94606cabfb0b61e14c7cc2fa",
+        "crc32": "91000f37"
+      }
+    },
+    {
+      "filename": "Catan - Die erste Insel (Germany) (Track 2).bin",
+      "filesize": 27897072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "692688b70ef5e9f1c9649bf2333169fc",
+        "sha1": "02414f81892bd6774e99dd85ba846c572ae44aa2",
+        "crc32": "1cd8d2a9"
+      }
+    },
+    {
+      "filename": "Catan - Die erste Insel (Germany) (Track 3).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

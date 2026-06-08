@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thousand Arms (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thousand Arms (USA) (Disc 1).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fe4878d7a70e96f7c3c9c63688403e1e",
+        "sha1": "0e16ec4c6d3ce171bc1eb6d5b15641df8c3bf16e",
+        "crc32": "86195cce"
+      }
+    },
+    {
+      "filename": "Thousand Arms (USA) (Disc 1).bin",
+      "filesize": 648763920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d82e3a1d20facd3a3e663494399b6659",
+        "sha1": "2c339fa39a8862c7357ce3c460b14d4fe6660fcc",
+        "crc32": "d9e104e9"
+      }
+    }
+  ]
+}

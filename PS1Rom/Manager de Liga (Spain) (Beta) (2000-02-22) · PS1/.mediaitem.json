@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Manager de Liga (Spain) (Beta) (2000-02-22)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Manager de Liga (Spain) (Beta) (2000-02-22).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb33c3d13620ed1ce79fc2dcfceb4379",
+        "sha1": "46dfaa53781046d308821c68c0e65c7078aa8eb2",
+        "crc32": "1b14ddab"
+      }
+    },
+    {
+      "filename": "Manager de Liga (Spain) (Beta) (2000-02-22).bin",
+      "filesize": 686372400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acd6db11876cc56914923e6ca1b02389",
+        "sha1": "0fbf88023fe0ee8258fc5a18de05dca7186cadfe",
+        "crc32": "3cd6a23b"
+      }
+    }
+  ]
+}

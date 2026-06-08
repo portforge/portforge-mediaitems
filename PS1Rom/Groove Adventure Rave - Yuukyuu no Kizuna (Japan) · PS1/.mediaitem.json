@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Groove Adventure Rave - Yuukyuu no Kizuna (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Groove Adventure Rave - Yuukyuu no Kizuna (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "36bcb01af607349733ab8692459bf527",
+        "sha1": "8b08b9bd42a803e9ec53810e24539382e3570526",
+        "crc32": "427254e1"
+      }
+    },
+    {
+      "filename": "Groove Adventure Rave - Yuukyuu no Kizuna (Japan).bin",
+      "filesize": 236070240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e4e87aefa2a359a9549affc71ca8a2",
+        "sha1": "2ae6bb912870d6dccc886aecc0c11dc1f0344a6f",
+        "crc32": "8204c263"
+      }
+    }
+  ]
+}

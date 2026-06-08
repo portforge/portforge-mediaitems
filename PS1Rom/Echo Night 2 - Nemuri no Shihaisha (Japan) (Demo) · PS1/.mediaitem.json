@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Echo Night 2 - Nemuri no Shihaisha (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Echo Night 2 - Nemuri no Shihaisha (Japan) (Demo).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a6310d48e7ce0bda945a8800b8d3562",
+        "sha1": "4cd897935ff506ceb515648c6ff6a264f4802ae2",
+        "crc32": "3e0e8db4"
+      }
+    },
+    {
+      "filename": "Echo Night 2 - Nemuri no Shihaisha (Japan) (Demo).bin",
+      "filesize": 87887184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fedb83b271d0d422642d76f2a5aee66",
+        "sha1": "5b8a60895c0f825de7b0de5ddafcc58992c3321b",
+        "crc32": "94c14871"
+      }
+    }
+  ]
+}

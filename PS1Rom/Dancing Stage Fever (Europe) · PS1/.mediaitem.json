@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dancing Stage Fever (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dancing Stage Fever (Europe).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "596424d6b401f4dbb80132e92449116d",
+        "sha1": "664d505b6253f8c48f1d14786a7afd01cbe490f0",
+        "crc32": "84465b47"
+      }
+    },
+    {
+      "filename": "Dancing Stage Fever (Europe).bin",
+      "filesize": 218606640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccc18ff524bf19ff2e8bb27f824063cb",
+        "sha1": "8f35b8a00f035e8412fcfcca33e030e34eb2a76c",
+        "crc32": "29f9db8c"
+      }
+    }
+  ]
+}

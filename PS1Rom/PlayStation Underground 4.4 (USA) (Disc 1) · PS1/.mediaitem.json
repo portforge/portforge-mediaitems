@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground 4.4 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground 4.4 (USA) (Disc 1).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "540b515104f063d62c3fc1a579f48ea0",
+        "sha1": "43c7e426d3fa9c24ac1775a9202d795a58f1c554",
+        "crc32": "bdb9426c"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 4.4 (USA) (Disc 1).bin",
+      "filesize": 613648560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3247be43dcb3ce0d78e5a3cb21b805a8",
+        "sha1": "89cd3628e626aa465af27284c85d1e0f01697746",
+        "crc32": "6e3b96fb"
+      }
+    }
+  ]
+}

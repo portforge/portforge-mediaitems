@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Teitoku no Ketsudan III with Power-Up Kit (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Teitoku no Ketsudan III with Power-Up Kit (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4fc8451adb7c44865282d63503273c59",
+        "sha1": "ade6ba8ec331570c26c380e0431efc1a7febe5b6",
+        "crc32": "b44d5a5f"
+      }
+    },
+    {
+      "filename": "Teitoku no Ketsudan III with Power-Up Kit (Japan).bin",
+      "filesize": 380090256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0e8f101f2df354f97f83ad8b851ae43",
+        "sha1": "907c2c9be3f0d09686bfaab0c37b7b6f03aedfcb",
+        "crc32": "8ab7631d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Qui Veut Gagner des Millions - Seconde Edition (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Qui Veut Gagner des Millions - Seconde Edition (France).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "884993ba8ca72d11caba3371ee2e7395",
+        "sha1": "41e964b4d5869b56f33ec3c281b963eb54d72a84",
+        "crc32": "c83e7e86"
+      }
+    },
+    {
+      "filename": "Qui Veut Gagner des Millions - Seconde Edition (France).bin",
+      "filesize": 370971552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3db64d87dab2f70dd08b7cbb7afc830",
+        "sha1": "d8c3e00aa8eaf00a78fd425d15ec2697a0edab22",
+        "crc32": "b07976b5"
+      }
+    }
+  ]
+}

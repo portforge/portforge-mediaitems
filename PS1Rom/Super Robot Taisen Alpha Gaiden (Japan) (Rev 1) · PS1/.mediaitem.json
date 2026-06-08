@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Robot Taisen Alpha Gaiden (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Robot Taisen Alpha Gaiden (Japan) (Rev 1).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd4d45db8ab063a953e6ae7d4a33fc38",
+        "sha1": "62ceb5074e5139d8c74fb1972cffd7723ecbfd2f",
+        "crc32": "8f894d75"
+      }
+    },
+    {
+      "filename": "Super Robot Taisen Alpha Gaiden (Japan) (Rev 1).bin",
+      "filesize": 718310208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "feb2bba0ff068258cd8c10a12fa818ab",
+        "sha1": "18ef7362bad7646a14aafac551046a4cd5c89e12",
+        "crc32": "9690ee97"
+      }
+    }
+  ]
+}

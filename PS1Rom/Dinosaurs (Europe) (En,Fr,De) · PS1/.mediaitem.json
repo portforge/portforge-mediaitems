@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dinosaurs (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dinosaurs (Europe) (En,Fr,De).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac77000e717be9bae7035f004cb6fb15",
+        "sha1": "e6c730b04ba96357936be835ce00d16b60b79b04",
+        "crc32": "8e188fb4"
+      }
+    },
+    {
+      "filename": "Dinosaurs (Europe) (En,Fr,De).bin",
+      "filesize": 612992352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "927ab1144c3059435f4ac2f836308a48",
+        "sha1": "89124d830a0965a715b702fd72f3d42a9857877f",
+        "crc32": "691441c8"
+      }
+    }
+  ]
+}

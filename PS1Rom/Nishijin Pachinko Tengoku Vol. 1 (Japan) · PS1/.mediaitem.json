@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nishijin Pachinko Tengoku Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nishijin Pachinko Tengoku Vol. 1 (Japan).cue",
+      "filesize": 652,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce0a8173b3910ddd23e5c5346792152b",
+        "sha1": "5dcf1c8ff0814f8e66d3a44138652999ea9ae167",
+        "crc32": "81c06e2e"
+      }
+    },
+    {
+      "filename": "Nishijin Pachinko Tengoku Vol. 1 (Japan) (Track 1).bin",
+      "filesize": 132104784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd8fefe5c6720edf29f7c241a880bb7d",
+        "sha1": "490a3e6768c22183e9fadd246e7d3adf34e3cf7e",
+        "crc32": "6a4e71d2"
+      }
+    },
+    {
+      "filename": "Nishijin Pachinko Tengoku Vol. 1 (Japan) (Track 2).bin",
+      "filesize": 31246320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c15386f641073697d5bd3d1e4c09e8a",
+        "sha1": "432b48983fd1d3ebf031c6d307eee4cb0c911938",
+        "crc32": "29847fc1"
+      }
+    },
+    {
+      "filename": "Nishijin Pachinko Tengoku Vol. 1 (Japan) (Track 3).bin",
+      "filesize": 98555856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c392a468348f3f48c066dffc3e86f2e4",
+        "sha1": "3c1c72f9a45e8b4086ec4e8e744096f4f2b981c7",
+        "crc32": "f90ae8c6"
+      }
+    },
+    {
+      "filename": "Nishijin Pachinko Tengoku Vol. 1 (Japan) (Track 4).bin",
+      "filesize": 32911536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe55040ec7e9662f30ac5f9bef01859b",
+        "sha1": "f39607350c5adc0370e46602196987753c748b10",
+        "crc32": "d6d3aee1"
+      }
+    },
+    {
+      "filename": "Nishijin Pachinko Tengoku Vol. 1 (Japan) (Track 5).bin",
+      "filesize": 61502448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd4f67dd59344bc7a7ab35fc143bfd6f",
+        "sha1": "9000a0f4f800792dc922b63fc109b820ee07a34f",
+        "crc32": "57608cd2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 2).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4bd60d6ce5a4379d343bb00fa23e0042",
+        "sha1": "d12f1874bcf806b5a579770cc511ce6d009347f8",
+        "crc32": "b3f0c45e"
+      }
+    },
+    {
+      "filename": "Star Wars - Rebel Assault II - The Hidden Empire (Spain) (Disc 2).bin",
+      "filesize": 733838112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce309a42b5f3d3d7a5b1299b0d72a10b",
+        "sha1": "0ee61544123c0de261b22ff99ea2c0a59074d44d",
+        "crc32": "23943f9a"
+      }
+    }
+  ]
+}

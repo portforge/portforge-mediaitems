@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cardinal Syn (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cardinal Syn (Europe).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9502c9ef733df637582b24ac4531af33",
+        "sha1": "ba36c6b0587cbcee0fde7d94bc2a69a2a7f0886f",
+        "crc32": "42fa97b9"
+      }
+    },
+    {
+      "filename": "Cardinal Syn (Europe) (Track 1).bin",
+      "filesize": 588625632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff7f153a12cd67f0e69ead9b035ae4f7",
+        "sha1": "dc95eb386f09458681abc118ab27b64ffbd9dffb",
+        "crc32": "90a1b2aa"
+      }
+    },
+    {
+      "filename": "Cardinal Syn (Europe) (Track 2).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

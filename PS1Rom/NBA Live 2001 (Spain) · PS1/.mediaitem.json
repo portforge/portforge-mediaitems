@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2001 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2001 (Spain).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1431b4afbd7f1f8d901713c2fdc52f2f",
+        "sha1": "46839787446c91074844137580a5abef8dcb7b99",
+        "crc32": "8a4e7f79"
+      }
+    },
+    {
+      "filename": "NBA Live 2001 (Spain).bin",
+      "filesize": 421591296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2280a25defbca28b01ac2d08c3a61509",
+        "sha1": "1630d05cf96d597836f1702c8923755bbf651b03",
+        "crc32": "3c2cf1bc"
+      }
+    }
+  ]
+}

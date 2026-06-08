@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dave Mirra Freestyle BMX (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dave Mirra Freestyle BMX (Japan).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1bc9ba98439b40a462e606b1ae2ab2b",
+        "sha1": "c9ccae45a7365f4cef08ee0105925176a56fc96d",
+        "crc32": "c13185a3"
+      }
+    },
+    {
+      "filename": "Dave Mirra Freestyle BMX (Japan) (Track 1).bin",
+      "filesize": 259284480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b68f3b6af7db5a1e45486bfaea3424cd",
+        "sha1": "53c8bfff51fe28d59ddc2869e33a62f1a68b1c8d",
+        "crc32": "cbcedd0b"
+      }
+    },
+    {
+      "filename": "Dave Mirra Freestyle BMX (Japan) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

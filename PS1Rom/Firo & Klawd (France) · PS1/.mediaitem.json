@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Firo & Klawd (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Firo & Klawd (France).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "852382efff527de521eda4cfa7cbe1de",
+        "sha1": "45a52ab209021cf96ad06c59c650ef85a8ad441f",
+        "crc32": "c08591ed"
+      }
+    },
+    {
+      "filename": "Firo & Klawd (France).bin",
+      "filesize": 662050368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "306cdb857ea58ba417d04c5025a5336a",
+        "sha1": "74a3ab08a69ff7b1d6abdb53ae2681199e3d38fc",
+        "crc32": "79ec45e3"
+      }
+    }
+  ]
+}

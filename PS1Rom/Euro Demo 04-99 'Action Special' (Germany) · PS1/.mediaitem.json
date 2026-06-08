@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 04-99 'Action Special' (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 04-99 'Action Special' (Germany).cue",
+      "filesize": 526,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e1d49933517f055720ba7ded1d313b0",
+        "sha1": "fd88a75431af199b720871ecca777ada3d64cf52",
+        "crc32": "513f8ccf"
+      }
+    },
+    {
+      "filename": "Euro Demo 04-99 'Action Special' (Germany) (Track 1).bin",
+      "filesize": 370176576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b35b02b50dcb4b69117a3d81c9cb56d",
+        "sha1": "b4b659481b23ddd6fd8445c75a2aa6261a40ebf2",
+        "crc32": "9aca4a7d"
+      }
+    },
+    {
+      "filename": "Euro Demo 04-99 'Action Special' (Germany) (Track 2).bin",
+      "filesize": 32046000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "681cefde3776ede56642e5f6115c62f0",
+        "sha1": "1cf0dc0032c56206d3b16e10c48bfbb8fbb1b1b3",
+        "crc32": "db5c35e7"
+      }
+    },
+    {
+      "filename": "Euro Demo 04-99 'Action Special' (Germany) (Track 3).bin",
+      "filesize": 45177216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37ae1cf76f98d84e31b3318daae5f436",
+        "sha1": "0adf77971058066321e9406d6efbdf830e5f9b64",
+        "crc32": "f89fefa8"
+      }
+    },
+    {
+      "filename": "Euro Demo 04-99 'Action Special' (Germany) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

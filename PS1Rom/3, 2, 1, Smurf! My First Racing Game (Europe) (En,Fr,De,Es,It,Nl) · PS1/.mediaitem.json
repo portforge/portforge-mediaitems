@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "3, 2, 1, Smurf! My First Racing Game (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "3, 2, 1, Smurf! My First Racing Game (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f488b55a64b5ba004d31ccd1f312e39d",
+        "sha1": "45b800c86b31bcf7904138f457d4432ae68c74e5",
+        "crc32": "f564283d"
+      }
+    },
+    {
+      "filename": "3, 2, 1, Smurf! My First Racing Game (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 250916064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3f2c0ccc5f661672a511d2e2dd0feb5",
+        "sha1": "50ea49e56a815f42899d5cebed38483e822244d4",
+        "crc32": "f17c2a33"
+      }
+    }
+  ]
+}

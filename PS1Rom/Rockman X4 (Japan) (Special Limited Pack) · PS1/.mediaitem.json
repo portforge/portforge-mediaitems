@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rockman X4 (Japan) (Special Limited Pack)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rockman X4 (Japan) (Special Limited Pack).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61df246d6c183b6f45cf1b7189e7677d",
+        "sha1": "a81c847b79612cd1b43f640dcd1a4450693f76d7",
+        "crc32": "fdab04d3"
+      }
+    },
+    {
+      "filename": "Rockman X4 (Japan) (Special Limited Pack).bin",
+      "filesize": 593722416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "648e4368c13aff43af888877993ae7da",
+        "sha1": "058b361bad40569a8f18a2f0be89b4a3983e86ab",
+        "crc32": "4f531262"
+      }
+    }
+  ]
+}

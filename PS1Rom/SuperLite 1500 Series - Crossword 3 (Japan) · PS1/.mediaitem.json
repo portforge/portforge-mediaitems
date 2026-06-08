@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Crossword 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan).cue",
+      "filesize": 941,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb01ab78d8984d916ee966789c03f348",
+        "sha1": "f2031d506ed47fbf23a694046357b088bf74950d",
+        "crc32": "3f479acf"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan) (Track 1).bin",
+      "filesize": 2373168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f9b1472b06567beacfc823d36516e73",
+        "sha1": "b717cf365c19e93df058fce14013b3b5d2024efc",
+        "crc32": "ffd2f933"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan) (Track 2).bin",
+      "filesize": 22583904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f37db820c2da56cb49c418df5f91be6",
+        "sha1": "52f457a091b122e51c229ce9464259301b428f73",
+        "crc32": "7302b3e8"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan) (Track 3).bin",
+      "filesize": 32114208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4970535b73e7cae5dd9a826a19c00a4c",
+        "sha1": "e5db52daabe90c4312637969df7dc74c9d81f99c",
+        "crc32": "92a02484"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan) (Track 4).bin",
+      "filesize": 85890336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f05204579885005ad6f11ed340985b8",
+        "sha1": "0d5fc7fdf1f811b6fef3f4caa6643978f7d117a6",
+        "crc32": "14265bdc"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan) (Track 5).bin",
+      "filesize": 106496208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15430ccdb7c11f1340a967e52ae218dd",
+        "sha1": "fc2b5fed1bbf643bed25a0825341ff54cee99ea1",
+        "crc32": "e2151528"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan) (Track 6).bin",
+      "filesize": 86530080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0a954a136f970c0e07b4e048aad5fc8",
+        "sha1": "41ba579e90cd1e4994e08b66348a39d8f84e9149",
+        "crc32": "922eeb42"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Crossword 3 (Japan) (Track 7).bin",
+      "filesize": 50692656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4904d39c8e92bb67abcac4ecbd1b9562",
+        "sha1": "b8846d39954f1fc1203a9d710dc06ff07d69144c",
+        "crc32": "34ab431d"
+      }
+    }
+  ]
+}

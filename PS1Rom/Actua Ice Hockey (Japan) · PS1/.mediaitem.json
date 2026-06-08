@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Ice Hockey (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Ice Hockey (Japan).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a67705bdb026a6cdc6b5730b68cdd98",
+        "sha1": "ab2b044d7a2478ce00e52962d8b7737c1baadfa0",
+        "crc32": "ad98a513"
+      }
+    },
+    {
+      "filename": "Actua Ice Hockey (Japan) (Track 1).bin",
+      "filesize": 89027904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ac706c9a39bac0855682d04ee0a77d3",
+        "sha1": "5496ed3663c04f4fcfdd4132cc740d169f06dce3",
+        "crc32": "6850df21"
+      }
+    },
+    {
+      "filename": "Actua Ice Hockey (Japan) (Track 2).bin",
+      "filesize": 43015728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "446b00749ada74b3620b67ce5230120f",
+        "sha1": "f3ecd4610cb7a448656d902f022e236421b839bb",
+        "crc32": "9424a4ab"
+      }
+    }
+  ]
+}

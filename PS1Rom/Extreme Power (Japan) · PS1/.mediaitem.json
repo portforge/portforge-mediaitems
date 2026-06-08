@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Extreme Power (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Extreme Power (Japan).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69288c2d10a574d4fd67390d978da5b2",
+        "sha1": "17cfcd0724e5cd5bc10baf50cbb4a67585236d9b",
+        "crc32": "a3253fc7"
+      }
+    },
+    {
+      "filename": "Extreme Power (Japan) (Track 1).bin",
+      "filesize": 395310048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faf64f6d85caf4f95411204d1a3476ba",
+        "sha1": "e8c27688167f15d7c2f72eab72ed80a8adf93416",
+        "crc32": "b9c00ef3"
+      }
+    },
+    {
+      "filename": "Extreme Power (Japan) (Track 2).bin",
+      "filesize": 32542272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e96768df8a32694bb38f29573a14259f",
+        "sha1": "af7e736b98639049186a38777ff22692a39c207e",
+        "crc32": "3085bdd7"
+      }
+    }
+  ]
+}

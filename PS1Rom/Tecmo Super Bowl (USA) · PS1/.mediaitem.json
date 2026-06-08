@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tecmo Super Bowl (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tecmo Super Bowl (USA).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ced6349f080194757b3255f1af5bc9fe",
+        "sha1": "0d5ac61184a3f25c40270a138236db6f31cac6d2",
+        "crc32": "572ee0c2"
+      }
+    },
+    {
+      "filename": "Tecmo Super Bowl (USA) (Track 1).bin",
+      "filesize": 370477632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e24c835d80ff139e9016d6869483385",
+        "sha1": "f51ca6b4f04ba968e25cc06f65c74b1c1b9315bf",
+        "crc32": "11d27a7a"
+      }
+    },
+    {
+      "filename": "Tecmo Super Bowl (USA) (Track 2).bin",
+      "filesize": 52400208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0acbe0c291c890d0630994c238f08c3f",
+        "sha1": "f6a392290d1a5333c977bd07463fb6d2f1c33090",
+        "crc32": "76661e7f"
+      }
+    }
+  ]
+}

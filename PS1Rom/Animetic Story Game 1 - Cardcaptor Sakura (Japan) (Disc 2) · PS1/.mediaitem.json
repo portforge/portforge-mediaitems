@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d0b0487b65bf18b45558bc52754432e",
+        "sha1": "764811486c11e32f5d110e552ba0644d238dd550",
+        "crc32": "89709d1a"
+      }
+    },
+    {
+      "filename": "Animetic Story Game 1 - Cardcaptor Sakura (Japan) (Disc 2).bin",
+      "filesize": 455318976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d43957755406f0b9491ee03636f99fc9",
+        "sha1": "732f1fea223d77f060dcdcd270f10ab4516ba42a",
+        "crc32": "2cab307e"
+      }
+    }
+  ]
+}

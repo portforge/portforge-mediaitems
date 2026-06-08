@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power League (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power League (Japan).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9fb8c80e3cc5cdd51289b444aa3a4829",
+        "sha1": "f4fcd525a7c242cad727eec7264c446068de07c9",
+        "crc32": "e3d03f9b"
+      }
+    },
+    {
+      "filename": "Power League (Japan) (Track 1).bin",
+      "filesize": 465825360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "912026f5e9dd39f20fd6472978f25390",
+        "sha1": "48ead9e68eb8a54e5456644267a7a5e196be3c09",
+        "crc32": "ace1f543"
+      }
+    },
+    {
+      "filename": "Power League (Japan) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

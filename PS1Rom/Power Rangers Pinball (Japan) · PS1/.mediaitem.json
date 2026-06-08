@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Rangers Pinball (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Rangers Pinball (Japan).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "05cd841d25095dc8b1d2d6a97afeb6fe",
+        "sha1": "aafee9e700ffdda99a153474268f6b106b914a2c",
+        "crc32": "16fc7d48"
+      }
+    },
+    {
+      "filename": "Power Rangers Pinball (Japan) (Track 1).bin",
+      "filesize": 279991488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2a08b7186d5cab85f3a92a8129e62c8",
+        "sha1": "5effdbf15bee158ce432db2ba9e00d90d5431634",
+        "crc32": "3f077ce9"
+      }
+    },
+    {
+      "filename": "Power Rangers Pinball (Japan) (Track 2).bin",
+      "filesize": 37406208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edf08de36bdbe922423c933f72966d34",
+        "sha1": "4fb55d307d957b614c8eb62690d922de362caedb",
+        "crc32": "871612b1"
+      }
+    }
+  ]
+}

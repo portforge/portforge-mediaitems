@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blood Lines (Europe) (Beta) (1998-06-22)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blood Lines (Europe) (Beta) (1998-06-22).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "227ad8d0ff161378c99c0ccdb4d41274",
+        "sha1": "2ca7a72413d02c690ae2fa18c046cf39bd4ecaa3",
+        "crc32": "f5200252"
+      }
+    },
+    {
+      "filename": "Blood Lines (Europe) (Beta) (1998-06-22).bin",
+      "filesize": 242996880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a239e9cb2cb0765874c71c2488cc16ee",
+        "sha1": "1c18a7893a71ecc5c06d84e55b8ef8a8076933fc",
+        "crc32": "e3e7fc11"
+      }
+    }
+  ]
+}

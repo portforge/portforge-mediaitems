@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MLB 2000 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MLB 2000 (USA) (Demo).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "789def5dbc999d8a6ff3505af3c072a2",
+        "sha1": "9aa9a17898c8c4c5805719bc1d59eb9e93d45ee3",
+        "crc32": "2139489c"
+      }
+    },
+    {
+      "filename": "MLB 2000 (USA) (Demo).bin",
+      "filesize": 535919664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9f2ee058bd4450e5b223097aed74322",
+        "sha1": "4ce3bb93621ff04767825c66783b7445fcf79ac0",
+        "crc32": "2bbea66b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 21 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 21 (Europe).cue",
+      "filesize": 1142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "edc23868cbd25bb87796d0b7e01fb039",
+        "sha1": "581a85012a735493d3325019831cde98a468f2fd",
+        "crc32": "355725fa"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 01).bin",
+      "filesize": 72902592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49ca2b4e0e90dc67b16fcc8ef9f66d9e",
+        "sha1": "859196038085e0861ed00681e3197532547b5094",
+        "crc32": "6720f9b6"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 02).bin",
+      "filesize": 15433824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f292b51398af00d03d3a642f3917ff36",
+        "sha1": "4c84530cef29df7049b9068d832056fc9aaaec49",
+        "crc32": "219ce0ff"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 03).bin",
+      "filesize": 30209088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7020c4764dc08e379e70c9c84d7f48c",
+        "sha1": "4c91fb1905b52af18f939c93b3e58f67a4d79392",
+        "crc32": "86e7bdaf"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 04).bin",
+      "filesize": 5190864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ebbc6c71e6c525c81555c47dcd1753d",
+        "sha1": "3e8c7d9c11b18cd80515b8a7bd24fb1a8dfe1c7d",
+        "crc32": "34e33b65"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 05).bin",
+      "filesize": 4981536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd99bb6f63116a939608c3f4be08777a",
+        "sha1": "8285e30e69d3ee468d968147677e4bf0ace5b39e",
+        "crc32": "767d11c2"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 06).bin",
+      "filesize": 13239408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af7eaef52ebdfcd843a648af379f8041",
+        "sha1": "01cc8c7cbac578405bc6af5ef3d2833096e00185",
+        "crc32": "536ff53e"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 07).bin",
+      "filesize": 54905088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45ce662a3f0575bc2aca051753b6ae61",
+        "sha1": "e911e9d30d875acf5e157b33dc272e5c63830bb9",
+        "crc32": "58e8bf07"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 08).bin",
+      "filesize": 2471952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9329db231dab5f9adcd405426370581",
+        "sha1": "abc93d09b66195fd0ab129804ed979407275015d",
+        "crc32": "1d75e59b"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 09).bin",
+      "filesize": 35701008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bce87bc6c7520cde4590057582c6a93",
+        "sha1": "cc3cddd9fe916e28448bd65af628c32c7b0de721",
+        "crc32": "348e4de0"
+      }
+    },
+    {
+      "filename": "Euro Demo 21 (Europe) (Track 10).bin",
+      "filesize": 54905088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45ce662a3f0575bc2aca051753b6ae61",
+        "sha1": "e911e9d30d875acf5e157b33dc272e5c63830bb9",
+        "crc32": "58e8bf07"
+      }
+    }
+  ]
+}

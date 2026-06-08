@@ -1,0 +1,337 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Burning Road (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Burning Road (USA) (Demo).cue",
+      "filesize": 3822,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc299f31f0faa773e028eadee3488977",
+        "sha1": "a5cc71f76582855a61fafe913c4ffe2ed04135bf",
+        "crc32": "a55681e2"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 01).bin",
+      "filesize": 10892112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "314a02c7e170bf30df9140b231999206",
+        "sha1": "2f938593ef673f41efa3ffce5606b11911eb0285",
+        "crc32": "43e4087c"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 02).bin",
+      "filesize": 21400848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6437afb4d249e554e60f4cc05975043b",
+        "sha1": "8a764dd16f68708f509a7e425a018d12a3294d2c",
+        "crc32": "8619f41d"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 03).bin",
+      "filesize": 38673936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89c789400773589e65b14cba7d6a764b",
+        "sha1": "6a7e95c7479162a92029b24d2bad63921ff19ca0",
+        "crc32": "e00b5840"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 04).bin",
+      "filesize": 44151744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a672527da51927c21bb3b40d8570188",
+        "sha1": "e1ead946d31daa34c46a5ae560b9e17486f9f10c",
+        "crc32": "1fbbcdeb"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 05).bin",
+      "filesize": 47757360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1edeb8f6572edf36a32cc2c7283050b7",
+        "sha1": "71f7e0e09f764085d1ace8b15aaedf01caf5e06b",
+        "crc32": "5f8eb4a5"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 06).bin",
+      "filesize": 33591264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ee92703acea3e66072371637e63da83",
+        "sha1": "ce792ffe0d22a76f6a51ee99035df933eeeba280",
+        "crc32": "285273dd"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 07).bin",
+      "filesize": 6369216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1be2a86a113862828928cf080f41343",
+        "sha1": "2bf434220399c2695b9ca2f765d7deb0e612b94c",
+        "crc32": "f2804b42"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 08).bin",
+      "filesize": 4094832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d9aebb895cf43b80278bdc7492bdfb9",
+        "sha1": "f15076991bea3c96fe347e240e0b77e8eab8d775",
+        "crc32": "946ed54e"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 09).bin",
+      "filesize": 4217136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a12453d6313bff35532d162b92947521",
+        "sha1": "2638387208d7ce42e5c3fd648666c95a1e5c4611",
+        "crc32": "a69727cc"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 10).bin",
+      "filesize": 4233600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df8fee757224dd43e0ed178cff40b623",
+        "sha1": "2ff1ee22ff3b4b9992a25cd86e7143173581b692",
+        "crc32": "9ba9a3db"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 11).bin",
+      "filesize": 4240656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0333388b4d4a4f32b3bccebbd1067c32",
+        "sha1": "d8b1ea0034a96c82ee63e39f00e44123697774c3",
+        "crc32": "ee937a20"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 12).bin",
+      "filesize": 4250064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cc41e763f62769f33a683d3c2bd7c3f",
+        "sha1": "b91f59e31505bbdea340fb5f465c0d4e065ffab3",
+        "crc32": "18c5d662"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 13).bin",
+      "filesize": 3906672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08117d5ae09202684e5f558adf760460",
+        "sha1": "1080554796a2f54202dadb5dd07961cb83985d24",
+        "crc32": "aae0fc09"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 14).bin",
+      "filesize": 4036032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "884ef97ce817bf6413874740a7aac90d",
+        "sha1": "86d1ac26e68bf3adbd9c6f5001d7155ec117155f",
+        "crc32": "f9399d75"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 15).bin",
+      "filesize": 35399952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eda973e238446ac7c8191e88897eb62c",
+        "sha1": "7e4fcd702afc5ed1b8cc071c8f128595fc68711d",
+        "crc32": "96e579f6"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 16).bin",
+      "filesize": 32191824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b482d814b8ea58168ae9a66ab96453d",
+        "sha1": "6661a3d2012ce0826a7feee1490b65531362c322",
+        "crc32": "6396ae16"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 17).bin",
+      "filesize": 22757952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d91afe2ce6cb372f68109aa6e656ff6f",
+        "sha1": "12fffbca889bce68e3742c2ab1d52eb1e9ff9f45",
+        "crc32": "570b4866"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 18).bin",
+      "filesize": 25498032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddfa2abb29595f4f2f6cfee582c3bfd7",
+        "sha1": "e49693ccf37bca4b5f5f9e84aab3a99e886e1f7e",
+        "crc32": "da59d2ec"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 19).bin",
+      "filesize": 27711264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18285aab482c3d366b170ab6fcbd62b6",
+        "sha1": "6f1217d235bae72400f0cd2dfa07e52e9d684ed9",
+        "crc32": "049cafa4"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 20).bin",
+      "filesize": 22814400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "802e5190f0cb178990003d89ae9091ab",
+        "sha1": "5dbd02746634e74d97e41d7202fa93c9e6af9d3b",
+        "crc32": "4b63e4ba"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 21).bin",
+      "filesize": 6369216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e6049a1d5aa75134fa7657cd4d3b6b3",
+        "sha1": "c9e878ff8b6d9baf0c5d4307851575e257a2cb98",
+        "crc32": "b23256ae"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 22).bin",
+      "filesize": 4146576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4703173ca209275f446db04fa35e8109",
+        "sha1": "fd4504b6bfae7cebfdb3bac319f9142302047348",
+        "crc32": "05b512e0"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 23).bin",
+      "filesize": 4212432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "975a69065a0f2e9deae3acfe1b0f16dc",
+        "sha1": "844ede7bb75f1eb70fff0b6bd8b66493abe4a3af",
+        "crc32": "be86183c"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 24).bin",
+      "filesize": 4193616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7add5140716be2f96ad4a04f4e1f8c5c",
+        "sha1": "a9d5a6695c738345a5425ada65941f6ffd618dc2",
+        "crc32": "7f44797b"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 25).bin",
+      "filesize": 4167744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78a714fa78afdf361e4b82f3074afb6b",
+        "sha1": "953033278297b5d4662d3fed43413f1f7c839b50",
+        "crc32": "b951f208"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 26).bin",
+      "filesize": 4219488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2612aaf033bc02cf002166b71af18e0a",
+        "sha1": "b6d024c8e446b5e3b3ddc3af5360f1ef0fee7945",
+        "crc32": "f6c8b8f9"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 27).bin",
+      "filesize": 4306512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e00ab6aecbc17af0e7e6c8b309897c20",
+        "sha1": "346759b4477ea00180e48f61d7cd9a82c286357a",
+        "crc32": "a5f06c8b"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 28).bin",
+      "filesize": 4294752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57e116ec9b9135c1c094b5b3db388b02",
+        "sha1": "1d5c82098a443c5d209b67b29edd4186d8b8b2ce",
+        "crc32": "dad5182b"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 29).bin",
+      "filesize": 6249264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51847d7303537bcb00313d1741986a72",
+        "sha1": "572aaeee247769a0ad2bbad70daa3a5ac0843eb4",
+        "crc32": "00ee65a7"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 30).bin",
+      "filesize": 4280640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f404f2c9e4cb72c87fddd82b5491af1b",
+        "sha1": "68b34aec93f859a5499ceb1f80caeadd00ff5dfb",
+        "crc32": "aea723ca"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 31).bin",
+      "filesize": 27525456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79bf51d0cf576242790d272bebee845f",
+        "sha1": "656bb3fb8ecff4b045ee39be408bff5bf7884493",
+        "crc32": "02c27366"
+      }
+    },
+    {
+      "filename": "Burning Road (USA) (Demo) (Track 32).bin",
+      "filesize": 27525456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79bf51d0cf576242790d272bebee845f",
+        "sha1": "656bb3fb8ecff4b045ee39be408bff5bf7884493",
+        "crc32": "02c27366"
+      }
+    }
+  ]
+}

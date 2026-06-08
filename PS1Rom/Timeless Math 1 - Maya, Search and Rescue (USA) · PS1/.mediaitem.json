@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Timeless Math 1 - Maya, Search and Rescue (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Timeless Math 1 - Maya, Search and Rescue (USA).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b1eff0bc2302d50ad18aea02a579d54",
+        "sha1": "865219f8c2056b96af35d90e54e6feb532dddf0f",
+        "crc32": "50878d49"
+      }
+    },
+    {
+      "filename": "Timeless Math 1 - Maya, Search and Rescue (USA).bin",
+      "filesize": 478690800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c249daf19bea3f298c34de60cc5edd7",
+        "sha1": "1fe5ed8de30566de703f71a2a3f3f997fc38109b",
+        "crc32": "7ebc8a80"
+      }
+    }
+  ]
+}

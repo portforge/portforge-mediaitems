@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneyn Aladdin - Nasiran Kosto (Finland)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneyn Aladdin - Nasiran Kosto (Finland).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "726ba1763b54e07583cba9ff7b26eeee",
+        "sha1": "6a41f02783550c6c0e5e6814e6e8de823dc8c434",
+        "crc32": "c59eac8b"
+      }
+    },
+    {
+      "filename": "Disneyn Aladdin - Nasiran Kosto (Finland).bin",
+      "filesize": 615897072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81016ffd382de870e39e68011d86211e",
+        "sha1": "270ce463f18d5a25ead3c8f8b4b236adaa79f8f8",
+        "crc32": "a6cb3163"
+      }
+    }
+  ]
+}

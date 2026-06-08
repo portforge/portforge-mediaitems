@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mars Moose Stay and Play 3 - In Lonnie's Classroom (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mars Moose Stay and Play 3 - In Lonnie's Classroom (USA).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7127b6fe3ad41fbd8082a1f2614c6011",
+        "sha1": "d2f47b8137b997a57b2e9c9a1cd9728cc8bae6a5",
+        "crc32": "096b70e4"
+      }
+    },
+    {
+      "filename": "Mars Moose Stay and Play 3 - In Lonnie's Classroom (USA).bin",
+      "filesize": 392713440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2c23066812f7502359a4ac34f7c4b29",
+        "sha1": "aeb2f0e98f454faae58ad5b807dd6c7c8f4e6506",
+        "crc32": "1b1f4f74"
+      }
+    }
+  ]
+}

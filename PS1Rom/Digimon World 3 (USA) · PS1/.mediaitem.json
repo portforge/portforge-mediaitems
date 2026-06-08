@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digimon World 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digimon World 3 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94dd023559d19014179f45304267a40d",
+        "sha1": "4a64c462e028d8b54c8db69ec8a6dea37e913653",
+        "crc32": "25c002d1"
+      }
+    },
+    {
+      "filename": "Digimon World 3 (USA).bin",
+      "filesize": 647526768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20370072f9309828a33916b44af059d4",
+        "sha1": "f0b022f9be53cbce14640abd8f01beaadcb35208",
+        "crc32": "e3d73a16"
+      }
+    }
+  ]
+}

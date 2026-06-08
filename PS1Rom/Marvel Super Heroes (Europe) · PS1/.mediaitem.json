@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marvel Super Heroes (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marvel Super Heroes (Europe).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e4149f1ff41ceee8102490930581159",
+        "sha1": "afe41f35b95c054d89b84a54361384b77ccc917e",
+        "crc32": "bb3c5a87"
+      }
+    },
+    {
+      "filename": "Marvel Super Heroes (Europe).bin",
+      "filesize": 483613536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d187b30eb2ae94c1c28a61111238adc",
+        "sha1": "71b0af2d0228e2df7ea5b8b1ece6819324a8d96a",
+        "crc32": "e3a1dc5c"
+      }
+    }
+  ]
+}

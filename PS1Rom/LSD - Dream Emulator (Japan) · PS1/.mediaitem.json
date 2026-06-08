@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LSD - Dream Emulator (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LSD - Dream Emulator (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "778387a89c87ada390851a12725d8a08",
+        "sha1": "adce097510c62cd6a58a57ba94b9d25e4fb829cb",
+        "crc32": "40a55db1"
+      }
+    },
+    {
+      "filename": "LSD - Dream Emulator (Japan).bin",
+      "filesize": 648088896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f548d21571db8ff1afde3fbe8c469310",
+        "sha1": "46a4bfe2a4d8ad6ffb98c70345b2cc3982456557",
+        "crc32": "3469c9c8"
+      }
+    }
+  ]
+}

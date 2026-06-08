@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Autobahn Raser II (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Autobahn Raser II (Germany).cue",
+      "filesize": 1446,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d2384c4dbef61830c54f887f9cad2e13",
+        "sha1": "6db4284e0bf398e4799c5fe80483a53c0cd14726",
+        "crc32": "1fb52a9c"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 01).bin",
+      "filesize": 107867424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e7cc0900df01df90b5b9a3dd7874371",
+        "sha1": "c43901896748a0b9fc9676afac490141cac5c7b7",
+        "crc32": "aa3ccec9"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 02).bin",
+      "filesize": 10953264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f78b786a095c4683aa7cec39d41aa48a",
+        "sha1": "fd28bd5cf885cc21e2122940994e17a7b7e2712c",
+        "crc32": "7af82e2d"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 03).bin",
+      "filesize": 6990144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bc6f579b87ad5464d419e68d5d7a9e4",
+        "sha1": "4d02ec9d916a0ec3a5a4fcccf3c04f2d28487157",
+        "crc32": "8cb712b5"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 04).bin",
+      "filesize": 7413504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c749815d3116a9b9a4e09a12bf9630e",
+        "sha1": "f10e6a421e7d186ec06b5531dde756b343d23736",
+        "crc32": "a1140802"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 05).bin",
+      "filesize": 6545616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c6d4aa9f02c27b495cb0690d93493c5",
+        "sha1": "b02643cbaa21fad82dfe4b41745fcaa3a9ec5826",
+        "crc32": "c479eef9"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 06).bin",
+      "filesize": 6846672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d40366801191ebb9f2abd0ac079b3340",
+        "sha1": "a8b485aa70e8ee05306639ca768ba0a1f841d670",
+        "crc32": "abcef8aa"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 07).bin",
+      "filesize": 7103040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c82c6f574076545263ff3c12838b933f",
+        "sha1": "dfdfefcc5df24fe92f27643c860866ebc658446f",
+        "crc32": "d1a467c6"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 08).bin",
+      "filesize": 8824704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18ad630738cd1f05c97e097561e733de",
+        "sha1": "1ec87b2b0d216c72c888914362f7a9f43d2d20de",
+        "crc32": "0ad319cd"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 09).bin",
+      "filesize": 7272384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e17329b2644e49b2c7c8f6884cbea86",
+        "sha1": "55bce7287fce113d2d7b7e79d004cc76a94d614b",
+        "crc32": "454c6be7"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 10).bin",
+      "filesize": 6990144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4bc6f579b87ad5464d419e68d5d7a9e4",
+        "sha1": "4d02ec9d916a0ec3a5a4fcccf3c04f2d28487157",
+        "crc32": "8cb712b5"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 11).bin",
+      "filesize": 6613824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e91d2a5a83ca9e7552c864c18a0756dd",
+        "sha1": "b7409349bc877b31d0aaa23a439d41238f4b7f8a",
+        "crc32": "318329e0"
+      }
+    },
+    {
+      "filename": "Autobahn Raser II (Germany) (Track 12).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "952d15640b57c777f98881d396c811b9",
+        "sha1": "17eb815534b854c7476ed098571ee8d74c6554a5",
+        "crc32": "bb550936"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Culdcept - Expansion Plus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Culdcept - Expansion Plus (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "257080c5d7e45777ad8e86c12d9b7f32",
+        "sha1": "85c851eb84ed64592fae66f026f9ff2e44847a7a",
+        "crc32": "fddfa7d4"
+      }
+    },
+    {
+      "filename": "Culdcept - Expansion Plus (Japan).bin",
+      "filesize": 408497712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "150140fab785428578e6bdf6e86a7d99",
+        "sha1": "b174d5cbc6b55ec0718ae0aa490855ea2d4997fe",
+        "crc32": "3ec483b6"
+      }
+    }
+  ]
+}

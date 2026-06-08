@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Barbie - Race & Ride (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Barbie - Race & Ride (Germany).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4be2b177600e44c779d825572550e790",
+        "sha1": "13491cbd04403775d98d41dc98cdd32618717ddb",
+        "crc32": "e1becf18"
+      }
+    },
+    {
+      "filename": "Barbie - Race & Ride (Germany).bin",
+      "filesize": 670691616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a5a00b8810d358ef892c03369fb799d",
+        "sha1": "f3d33a08d3095a5bbf802ad1c6555eb59688928a",
+        "crc32": "aa6c2f88"
+      }
+    }
+  ]
+}

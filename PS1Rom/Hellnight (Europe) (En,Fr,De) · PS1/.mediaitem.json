@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hellnight (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hellnight (Europe) (En,Fr,De).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b091fcd7ae86351e5f5a5b2658053c28",
+        "sha1": "1d44d87924c09d1b5c02700320f039680b135707",
+        "crc32": "a842c670"
+      }
+    },
+    {
+      "filename": "Hellnight (Europe) (En,Fr,De).bin",
+      "filesize": 633786384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "050d2848368af2ef945706bc73ef69ef",
+        "sha1": "6154819380f41c921f5d37f757a9985de7803a8c",
+        "crc32": "06e7b4bd"
+      }
+    }
+  ]
+}

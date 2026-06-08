@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xenogears (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xenogears (USA) (Disc 2).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54895ed8ddd01888f3b1d77731498f49",
+        "sha1": "140a5e87c34b975d829c47ad845ab44972af8c7b",
+        "crc32": "87330b6a"
+      }
+    },
+    {
+      "filename": "Xenogears (USA) (Disc 2).bin",
+      "filesize": 688700880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f942f416066a6473226b21a1504416f3",
+        "sha1": "0a4c56e6c64db11f8eada43545c2af08e948665c",
+        "crc32": "0e89ebf6"
+      }
+    }
+  ]
+}

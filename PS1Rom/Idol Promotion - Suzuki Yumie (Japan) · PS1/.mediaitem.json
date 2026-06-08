@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Idol Promotion - Suzuki Yumie (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Idol Promotion - Suzuki Yumie (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "48a16a060a0661c281b37b28d4a33ac5",
+        "sha1": "14857b7c30e12e2851953893b1abe535413421f5",
+        "crc32": "6ab26453"
+      }
+    },
+    {
+      "filename": "Idol Promotion - Suzuki Yumie (Japan).bin",
+      "filesize": 644612640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80016471667aecb415bf4570fb5e98bd",
+        "sha1": "0d7f9290c47ec040ece7d9da2dff4c4dff8bd333",
+        "crc32": "336bd7e0"
+      }
+    }
+  ]
+}

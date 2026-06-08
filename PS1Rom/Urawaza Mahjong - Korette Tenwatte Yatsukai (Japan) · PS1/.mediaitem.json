@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a205c1122ac09033531e264e71a9331c",
+        "sha1": "ca6550ef616b6133177991bcd363de312a94ff82",
+        "crc32": "3028ff48"
+      }
+    },
+    {
+      "filename": "Urawaza Mahjong - Korette Tenwatte Yatsukai (Japan).bin",
+      "filesize": 412641936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "593402fab0aedf551e9f3eacf62fdf3d",
+        "sha1": "9d2d255846abf4e48aecc3dfbead649b7c50271e",
+        "crc32": "b742804b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Interactive CD Sampler Disc Vol. 11 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Interactive CD Sampler Disc Vol. 11 (USA).cue",
+      "filesize": 522,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f265c0b181a9c116675bf4ad053ff3c8",
+        "sha1": "1869da9d729eb7ab994e228229a2d593c587a964",
+        "crc32": "d565df46"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Vol. 11 (USA) (Track 1).bin",
+      "filesize": 499661232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cd0f550dc7f1da45252d670114983a5",
+        "sha1": "6860f273544bc600c60542f04aae7f3392343f77",
+        "crc32": "bce9b476"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Vol. 11 (USA) (Track 2).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f63f0bda34cd8fd37b58e048b1e80327",
+        "sha1": "aba2f37bbf17638c8df90a9e8a51282f1a846c22",
+        "crc32": "9cd75aa3"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Vol. 11 (USA) (Track 3).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13f9035c85075be444e135a05a511682",
+        "sha1": "0eb15c23dc7ae344823c73865ce9a75d5aa709e3",
+        "crc32": "0d4dae67"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Vol. 11 (USA) (Track 4).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

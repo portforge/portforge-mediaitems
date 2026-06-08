@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ReBoot (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ReBoot (USA).cue",
+      "filesize": 78,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a9e08bcdbcbb43c96dc78cf41c754be2",
+        "sha1": "00ac518e520d7145a0d8b591d2363879473eb9e2",
+        "crc32": "24fda01b"
+      }
+    },
+    {
+      "filename": "ReBoot (USA).bin",
+      "filesize": 747369168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aadc4a922ce34917f8c7e37ff27bf815",
+        "sha1": "d98f08277ac07411345add5a4afec44f2cc38092",
+        "crc32": "30fc3f27"
+      }
+    }
+  ]
+}

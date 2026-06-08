@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31a743ea9fcd2e6a6f958e4f9e5adbca",
+        "sha1": "9b6ab4ced52db78b05e698c7613614a86279cecc",
+        "crc32": "fea525ec"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater (Japan).bin",
+      "filesize": 700771344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98f644ac7b8c5e9568b844aa650333a9",
+        "sha1": "152e4aa0d1a4dafa45b09ad8aca995bcb84d9ec9",
+        "crc32": "0a2f2270"
+      }
+    }
+  ]
+}

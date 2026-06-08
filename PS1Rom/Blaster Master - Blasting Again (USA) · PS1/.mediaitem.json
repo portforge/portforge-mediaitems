@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blaster Master - Blasting Again (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blaster Master - Blasting Again (USA).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4a463a0fc470f6fcd03f214d4f2cdb2",
+        "sha1": "769dfb5dacc924cf73a620f4fbd7921a0dd1487e",
+        "crc32": "8d043d12"
+      }
+    },
+    {
+      "filename": "Blaster Master - Blasting Again (USA) (Track 1).bin",
+      "filesize": 624641808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad2a32ec69b5afd017563d06bfd469df",
+        "sha1": "bab1a8ac4cfa98571e1660874487a6fcbf90325a",
+        "crc32": "90930dff"
+      }
+    },
+    {
+      "filename": "Blaster Master - Blasting Again (USA) (Track 2).bin",
+      "filesize": 38102400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae2df89764af009822d8f3717610bdc3",
+        "sha1": "5cf08b57adea820733f80a23bfaaff25a6202d96",
+        "crc32": "c121b8ee"
+      }
+    }
+  ]
+}

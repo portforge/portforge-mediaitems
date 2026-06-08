@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Defcon 5 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Defcon 5 (Italy).cue",
+      "filesize": 312,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e0fc32454fb55ab0fb8e5dc4d8dd5d2",
+        "sha1": "8649640be5f8e6dea81df0fdfbdc9ee3eb8004c9",
+        "crc32": "4b549221"
+      }
+    },
+    {
+      "filename": "Defcon 5 (Italy) (Track 1).bin",
+      "filesize": 372135792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54f28c4c09b951ae5b67595ce6fe8a6d",
+        "sha1": "f1bafb7207b9cf43c2203fbd4096ef91016d4fa4",
+        "crc32": "bf0f98a7"
+      }
+    },
+    {
+      "filename": "Defcon 5 (Italy) (Track 2).bin",
+      "filesize": 116438112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "786b128f1be655ee1eb67403c1a45f9a",
+        "sha1": "bd2df690ad76161c3bda3d49fff51918f24f670f",
+        "crc32": "c346d5f8"
+      }
+    },
+    {
+      "filename": "Defcon 5 (Italy) (Track 3).bin",
+      "filesize": 33323136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56a29b30d426ea5e0ccf4605cd634f00",
+        "sha1": "5f2bcfda6ef3a0e41a5003e21e2883cc4f1d82e6",
+        "crc32": "578c45f6"
+      }
+    }
+  ]
+}

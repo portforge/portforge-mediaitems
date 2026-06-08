@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warera Mitsurin Tankentai!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warera Mitsurin Tankentai!! (Japan).cue",
+      "filesize": 369,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b7577892a70448be566d76ca59e51703",
+        "sha1": "2a12cbffc325e65e4b13efef508e5d16e6e701f5",
+        "crc32": "d0cfcf60"
+      }
+    },
+    {
+      "filename": "Warera Mitsurin Tankentai!! (Japan) (Track 1).bin",
+      "filesize": 373812768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fc81cabb506e75a379e5c981d4e4405",
+        "sha1": "f9dc33d3866d6c92aa70d6beb7880af2b9fb9421",
+        "crc32": "653023f1"
+      }
+    },
+    {
+      "filename": "Warera Mitsurin Tankentai!! (Japan) (Track 2).bin",
+      "filesize": 5694192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db230a4333ce38e6867a5530d06f66a1",
+        "sha1": "7c26cf01c24d0de7a51caf857e2e2e1d3bdaedd5",
+        "crc32": "44e8f306"
+      }
+    },
+    {
+      "filename": "Warera Mitsurin Tankentai!! (Japan) (Track 3).bin",
+      "filesize": 53272800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e0780125290c5f1c615bed12e03e066",
+        "sha1": "037d1a3d7a4af7465f3a5c8f3492b80aae63ab96",
+        "crc32": "9d741f5e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (USA) (Demo).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cd7e96a26885bab87832b303623eac0",
+        "sha1": "2f43df3116bbfbb92b42032b4be15339d2448c40",
+        "crc32": "37827c0f"
+      }
+    },
+    {
+      "filename": "Galerians (USA) (Demo) (Track 1).bin",
+      "filesize": 122219328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93909ad02708f54e505ff31a397c8720",
+        "sha1": "bd3db3e9b7d40f93e5c5d7dc5ef1c6e8dbcdc2cc",
+        "crc32": "9444e86b"
+      }
+    },
+    {
+      "filename": "Galerians (USA) (Demo) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

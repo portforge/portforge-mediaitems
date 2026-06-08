@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Herc's Adventures (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Herc's Adventures (Italy).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3860354f6624c5e59190e34acd62ae79",
+        "sha1": "4afa81da1d8d9d8911ff698992965c7b02d9f035",
+        "crc32": "723375e8"
+      }
+    },
+    {
+      "filename": "Herc's Adventures (Italy).bin",
+      "filesize": 356200992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf7e08e6a4bb7874ec50f5bc62eaf19e",
+        "sha1": "a7bb35d0589820de9102973f3c2be096e844a7aa",
+        "crc32": "4158afbf"
+      }
+    }
+  ]
+}

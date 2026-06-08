@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2005 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2005 (France).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5526d4b2619588d2aaead1ca8411dc7a",
+        "sha1": "186303e094ea00d563ce88409a181aaffe1e415e",
+        "crc32": "61e91810"
+      }
+    },
+    {
+      "filename": "FIFA Football 2005 (France).bin",
+      "filesize": 564705792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0eb06eee60fc2d04d5db67f10ac1f3d",
+        "sha1": "165d1ecd1aa7684e54ee3b40d7f49674c1081581",
+        "crc32": "faa3a88b"
+      }
+    }
+  ]
+}

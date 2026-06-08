@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saikyou Ginsei Chess (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saikyou Ginsei Chess (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b75bb7441bbb9f0506926314d4c1e10",
+        "sha1": "8e1613ef30fbcb3c5b8fb0fa799fe424135fa83b",
+        "crc32": "080bbec8"
+      }
+    },
+    {
+      "filename": "Saikyou Ginsei Chess (Japan).bin",
+      "filesize": 38671584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a42c72d7fb1fb14f6c39bf0e3dfac200",
+        "sha1": "17949ba0b7d55e6cb2da70c98a926a5df47e3a67",
+        "crc32": "26d0aa26"
+      }
+    }
+  ]
+}

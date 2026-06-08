@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Tigerdyrets honningjagt (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Tigerdyrets honningjagt (Denmark).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc59a43193ed2698be4ecfa66c3bd9ab",
+        "sha1": "0bed490c912374e052f42f47047618187a1bd5bf",
+        "crc32": "bdc43884"
+      }
+    },
+    {
+      "filename": "Disneys Tigerdyrets honningjagt (Denmark).bin",
+      "filesize": 363529824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffdae5014086f43b38f92bc95c0836b5",
+        "sha1": "cfeef8f49672a3e47320960f370966f97cea35fd",
+        "crc32": "cbd7e7d0"
+      }
+    }
+  ]
+}

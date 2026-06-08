@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fear Effect (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fear Effect (France) (Disc 2).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a801c850081279acfd989b9787aa80a6",
+        "sha1": "b4aff053249ad436b53d7c784f5daba75723b7ec",
+        "crc32": "a7cb9421"
+      }
+    },
+    {
+      "filename": "Fear Effect (France) (Disc 2).bin",
+      "filesize": 543128544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faa55ed6363a54ba4416048b8878ab9e",
+        "sha1": "aadf35088cc1176b91dc3c97df3f66b186f271ac",
+        "crc32": "e8be6973"
+      }
+    }
+  ]
+}

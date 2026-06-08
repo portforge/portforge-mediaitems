@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Quaddle Family Mysteries, The 1 - The Case of the Scarce Scarab - Lobby & Kitchen (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Quaddle Family Mysteries, The 1 - The Case of the Scarce Scarab - Lobby & Kitchen (USA).cue",
+      "filesize": 153,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6dc26f68a3754ee50964724523b2bb6",
+        "sha1": "a45d91d40b6a4bf9fa9a57ddcfdcbd5b836223c6",
+        "crc32": "7154728d"
+      }
+    },
+    {
+      "filename": "Quaddle Family Mysteries, The 1 - The Case of the Scarce Scarab - Lobby & Kitchen (USA).bin",
+      "filesize": 670098912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e37dc959cc5f0c4c05adb700a634169",
+        "sha1": "8c3411e7fd50594a901ec5d4874685b972d718ba",
+        "crc32": "9ae0f344"
+      }
+    }
+  ]
+}

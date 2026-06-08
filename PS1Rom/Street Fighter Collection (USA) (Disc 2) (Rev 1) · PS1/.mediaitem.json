@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Collection (USA) (Disc 2) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 2) (Rev 1).cue",
+      "filesize": 271,
+      "ext": "cue",
+      "checksums": {
+        "md5": "acd0f4d3d523c4cd14c0cf95553a781c",
+        "sha1": "e59152874f1a23282a3ff1a0528490534c2fa4b5",
+        "crc32": "f4234ca2"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 2) (Rev 1) (Track 1).bin",
+      "filesize": 590227344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71411b4b8007e56a906efd243a2a5e0b",
+        "sha1": "e65d05cbb2b65e67383ba4797f06a6fd32f7ff1f",
+        "crc32": "29696e36"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 2) (Rev 1) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eac0a0fcea9ee1843bdd371783f1f1cc",
+        "sha1": "5504d0e184167d9b13be64b079005c6eb7b3b5bd",
+        "crc32": "f7f4ec2d"
+      }
+    }
+  ]
+}

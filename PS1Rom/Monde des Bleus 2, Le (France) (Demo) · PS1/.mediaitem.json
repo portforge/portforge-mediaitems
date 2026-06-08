@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monde des Bleus 2, Le (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monde des Bleus 2, Le (France) (Demo).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d9f7259280de2946de172c2f0a28ae0",
+        "sha1": "e1136404bd971303d9e22e693c5c75ec329ce64e",
+        "crc32": "d822c27c"
+      }
+    },
+    {
+      "filename": "Monde des Bleus 2, Le (France) (Demo).bin",
+      "filesize": 69428688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369f64a38d3576d26760f2f4a38c3bbb",
+        "sha1": "68a53e182bcdd8ddf8afcd3124c60bcbc01d847a",
+        "crc32": "07ea6b38"
+      }
+    }
+  ]
+}

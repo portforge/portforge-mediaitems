@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Alpha 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Alpha 3 (USA).cue",
+      "filesize": 231,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f23fdd9f35284bb6a9162eb22053d45",
+        "sha1": "5e640de7f4840a0dddbd6a575669ba649b8eb0c5",
+        "crc32": "1db7caa6"
+      }
+    },
+    {
+      "filename": "Street Fighter Alpha 3 (USA) (Track 1).bin",
+      "filesize": 484081584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c232562dced4e65664a9c5410e6e57a3",
+        "sha1": "ec98188f53dbfa08a59d89c981e9ca68b7f1748e",
+        "crc32": "d5e20d47"
+      }
+    },
+    {
+      "filename": "Street Fighter Alpha 3 (USA) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76acbc2b9390e485edd7af7a15630bbf",
+        "sha1": "491e2ad423ce9a554a4f0ccd8ea22a66ca1d6fa5",
+        "crc32": "e0078f93"
+      }
+    }
+  ]
+}

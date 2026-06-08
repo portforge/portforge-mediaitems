@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soukou Kihei Votoms - Woodo Kummen (Japan) (Limited Edition)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soukou Kihei Votoms - Woodo Kummen (Japan) (Limited Edition).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb100f2cd7fbb8b77075f22acd37ab35",
+        "sha1": "b701cefd4fe9c1cf5c6d9675d779b9cce52975f9",
+        "crc32": "a8f12839"
+      }
+    },
+    {
+      "filename": "Soukou Kihei Votoms - Woodo Kummen (Japan) (Limited Edition).bin",
+      "filesize": 314441232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7320fd00a0e4b2e68112c3eb613ddff",
+        "sha1": "ce5af04f854a6dbf107f860e965539f39dd6e785",
+        "crc32": "a744e618"
+      }
+    }
+  ]
+}

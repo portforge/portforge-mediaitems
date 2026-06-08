@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08955e3755cd5d461d432925d34fd72a",
+        "sha1": "4e98318d846a3ea9c01fa713ab7a2bb82baa9e26",
+        "crc32": "76b54cf3"
+      }
+    },
+    {
+      "filename": "Deep, The - Ushinawareta Shinkai (Japan) (Global Game Selection 2000).bin",
+      "filesize": 271665408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fae6eaf333ffa0e229d722c6353b8722",
+        "sha1": "e941ca9e471a87a25e9b93e86cd56d7aa99d858a",
+        "crc32": "5b2dac31"
+      }
+    }
+  ]
+}

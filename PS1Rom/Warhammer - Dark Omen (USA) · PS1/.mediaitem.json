@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warhammer - Dark Omen (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warhammer - Dark Omen (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d7f9675477580daced43ac0bcd531d7",
+        "sha1": "4979caac9ac78d01772e6e72141e5104576a35fe",
+        "crc32": "e3c4b0ee"
+      }
+    },
+    {
+      "filename": "Warhammer - Dark Omen (USA).bin",
+      "filesize": 470247120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef8c8ba8d9aef4f9ac4566ec49668507",
+        "sha1": "47a1d05ce9e3f6e67cc598cc04aae70ae90ecb23",
+        "crc32": "f4bedf10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Killing Zone (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Killing Zone (Japan).cue",
+      "filesize": 3777,
+      "ext": "cue",
+      "checksums": {
+        "md5": "230874bd1cd4191e8db78ba942bc10f8",
+        "sha1": "b4a112f1dbaac81eacd918e693792877781185f7",
+        "crc32": "16e2f662"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 01).bin",
+      "filesize": 36067920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e12ed492e615689b83017624a398aa",
+        "sha1": "bc7856c9d89773bb160da6906024e2e4efc6116d",
+        "crc32": "e9622b3f"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 02).bin",
+      "filesize": 14184912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfe53966e82f20f5b8c199bd5b0ed3b6",
+        "sha1": "f50d4a4153166f02cad7d75864f56a3c7b41a847",
+        "crc32": "305f6d5a"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 03).bin",
+      "filesize": 23305968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b66b54368db6131297a22fb9d5aa080d",
+        "sha1": "696d5bb1422900c24d47273487f75a0179934d95",
+        "crc32": "3c323165"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 04).bin",
+      "filesize": 12482064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03a5bf1e707fccdaf6ef9df0c55fcd98",
+        "sha1": "6442213c0ae645b8da0b3a6c7c9d2e429af7ebb7",
+        "crc32": "b489c316"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 05).bin",
+      "filesize": 26311824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfa56f31bc852e01f7fb5719aa76affc",
+        "sha1": "127876757b192a986b5325e54135a3b8800f7f1e",
+        "crc32": "9a3389cc"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 06).bin",
+      "filesize": 16200576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df18eff8278a01f5f23c34d5a4a5e98b",
+        "sha1": "f6e557df73f18c7d567e3d5abe5d8883f6dbb790",
+        "crc32": "4f0df9d3"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 07).bin",
+      "filesize": 20704656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "973007f872afcfba9b248b04d230846b",
+        "sha1": "f5a08d92c17ce2ee5378a3806977b445463dce38",
+        "crc32": "b71a6e46"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 08).bin",
+      "filesize": 16184112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af1e145b812af33b1522734845be9067",
+        "sha1": "a0337857ac4a9eee7c84e128992e072b74060815",
+        "crc32": "9eda683c"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 09).bin",
+      "filesize": 10412304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74cbfb48cfa44cd0a1bbcd8990092949",
+        "sha1": "50c60dfce3ed2862776da11752785032bb0c9d38",
+        "crc32": "b059d713"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 10).bin",
+      "filesize": 9271584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac1b2d1d5066508a7e727b9b801c0aff",
+        "sha1": "69792055f00e601d895f367fcb950764b7d1be29",
+        "crc32": "f52d0933"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 11).bin",
+      "filesize": 1350048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c992ca1698955e8930beb7611d469286",
+        "sha1": "71d89167ecc8cb18f479b5717bf58ff2ad30afce",
+        "crc32": "8ea1648c"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 12).bin",
+      "filesize": 1291248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c5980a59ef2391412b4016288037f89",
+        "sha1": "36f842a2496c7850471f28cf8d301719e6f259c1",
+        "crc32": "381fed5b"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 13).bin",
+      "filesize": 1255968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "619a323d43f7d34dbd16dd4d9f11b535",
+        "sha1": "0dddfdd4063313f0b4ded567d03d6832c49d6118",
+        "crc32": "d85d2ad3"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 14).bin",
+      "filesize": 1267728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "565104bf059d5c4c2f4c821d75bf2605",
+        "sha1": "c19f494aaf3f98d4d2a8e125253569d35e30d90d",
+        "crc32": "261791e8"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 15).bin",
+      "filesize": 1267728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "daac7853308a030ebf014b3082cb8096",
+        "sha1": "17b384c23e1ff0a301e5246262a08ea282886961",
+        "crc32": "3a4b0a5e"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 16).bin",
+      "filesize": 1260672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcdcccdbd4d975ef35564b416e00bb3d",
+        "sha1": "a66a95d389869fc32533e85183989ef9d33d165f",
+        "crc32": "e4f5630e"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 17).bin",
+      "filesize": 1284192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29aadb856878e0efcdd35e0a8b731817",
+        "sha1": "c148261e400b164688f095968f2c7ca09d0d2625",
+        "crc32": "c9ccb51d"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 18).bin",
+      "filesize": 1368864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92bc0a4609b225d7cabd1c979a19791b",
+        "sha1": "058e610a1125c16cf8a891b6521d291804979002",
+        "crc32": "26ec8f04"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 19).bin",
+      "filesize": 1263024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91cb0a880bfb5d6c13e7100b8585be8f",
+        "sha1": "d4141a254924d40ab272391037c8fa4fb10c43a8",
+        "crc32": "9b44e5bb"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 20).bin",
+      "filesize": 1272432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2a57d5b3fd1ec9ef70a74716621a3fc",
+        "sha1": "db9194e413f920a9a3c6d62102d6669a91b06b9d",
+        "crc32": "8efe4bed"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 21).bin",
+      "filesize": 1244208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26fe33d668418be60eb0640d9fa7c169",
+        "sha1": "1e8ab3d4c0fa5d644fee9d5b3a91afcb12b372e6",
+        "crc32": "fa345425"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 22).bin",
+      "filesize": 1263024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c47347eead89db4a1bba01f456087b2b",
+        "sha1": "30cb8c633c75388ae125b166361f939b795cbc3e",
+        "crc32": "012d3887"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 23).bin",
+      "filesize": 1246560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d95fd6caecd0dd1b8d690a226d145477",
+        "sha1": "8ff28e0426fc64e68ae6368a68d773ebd4d36eca",
+        "crc32": "ee93ef0b"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 24).bin",
+      "filesize": 1274784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed0ffb993e6a5e7fd11e00ea1ef66a92",
+        "sha1": "32e5c4b387d968cb7c76645bbddefa1951a2e352",
+        "crc32": "3a890806"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 25).bin",
+      "filesize": 1310064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48a6ed50cc5df9a6deeae9b2e17c4d59",
+        "sha1": "fdfbf2143f64c9a32e0023ee391bb12b69d174b7",
+        "crc32": "2e9efc30"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 26).bin",
+      "filesize": 1298304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6221ab6e2ddabb0b9f9cb661714d49c6",
+        "sha1": "e4a42819a6bd67bc9c237360b5d937b5a5348bdc",
+        "crc32": "2aabe2fa"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 27).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e32ebcf6a918196673d7cdef0dd877b3",
+        "sha1": "0946e3fb98aa7802a2b614b2eadbef1c07fa5dc2",
+        "crc32": "9779dcc7"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 28).bin",
+      "filesize": 1298304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd5d83ec3b33b51f5a88c11f805a9175",
+        "sha1": "e1f437c22de31607aef558238904c8e1884def50",
+        "crc32": "ba56fedd"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 29).bin",
+      "filesize": 1319472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a4fd2ae448e5e565fb8590911b59c7d",
+        "sha1": "88947627532f001e5198dd33b965150def3e09d6",
+        "crc32": "a904bb88"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 30).bin",
+      "filesize": 1267728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7516a7b40a7671fca9b6b333c398c9ae",
+        "sha1": "5d36b95121a8bb9b1e2e3d264027a3ad572cf3b7",
+        "crc32": "4fbfb8f1"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 31).bin",
+      "filesize": 1350048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c08d0adc42b31cbcb65e9f5dfcaf077",
+        "sha1": "82a65c8e57202cc5a57fa4b28c245c54ded731d3",
+        "crc32": "c1aa674b"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 32).bin",
+      "filesize": 12571440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74c5035dc3fb2a896c5251d5325d6889",
+        "sha1": "ca8d326e5599e0e29f175fda068ec71a820f86b1",
+        "crc32": "edd82857"
+      }
+    },
+    {
+      "filename": "Killing Zone (Japan) (Track 33).bin",
+      "filesize": 33960528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eaf69474051b8b3d8bcaf3dba618ab73",
+        "sha1": "82ee582ae5078ec1f8688f34b1066ab5cd2a1df8",
+        "crc32": "15dd0912"
+      }
+    }
+  ]
+}

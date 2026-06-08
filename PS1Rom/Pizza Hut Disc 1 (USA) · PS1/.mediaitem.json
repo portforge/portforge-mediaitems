@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pizza Hut Disc 1 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pizza Hut Disc 1 (USA).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "849ea750170fa722db6dfdd3eabbd3c2",
+        "sha1": "1eb0cd354a53de6214c9e04ad5a69c616381ba41",
+        "crc32": "b5a33b9f"
+      }
+    },
+    {
+      "filename": "Pizza Hut Disc 1 (USA) (Track 1).bin",
+      "filesize": 328075776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba35cca306bc28327215cb24162b4ae9",
+        "sha1": "b26fa5c71a60f6300e7075b9e5ef354b6fa7f4a1",
+        "crc32": "0507d3a5"
+      }
+    },
+    {
+      "filename": "Pizza Hut Disc 1 (USA) (Track 2).bin",
+      "filesize": 1754592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7a378afc3b29632ccfcb662be8e0b4f",
+        "sha1": "8d8b9f6e49c3da8980e6ebc36fa64884af6c5444",
+        "crc32": "7c6c0eb5"
+      }
+    }
+  ]
+}

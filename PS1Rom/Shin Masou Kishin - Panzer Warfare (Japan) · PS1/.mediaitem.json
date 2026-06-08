@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shin Masou Kishin - Panzer Warfare (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shin Masou Kishin - Panzer Warfare (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fac01d49e2f07ca4c42fbfd317a98bdd",
+        "sha1": "086a0dc75355ee1e2985748432a12ec0a3f9a3a0",
+        "crc32": "ca6f4832"
+      }
+    },
+    {
+      "filename": "Shin Masou Kishin - Panzer Warfare (Japan).bin",
+      "filesize": 380257248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "924d016753b2031ebf07b99ff2976321",
+        "sha1": "e0b0a78b9d1c48a0c6a150ab1cd55a6e72977298",
+        "crc32": "a2e984ce"
+      }
+    }
+  ]
+}

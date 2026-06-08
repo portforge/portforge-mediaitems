@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Goo-Cho de Park - Theme Park Monogatari (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Goo-Cho de Park - Theme Park Monogatari (Japan) (Demo).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59653f2fb1d7386538dce2ef82ca51fc",
+        "sha1": "6af12bf7398bdf7264c824c008eb945e6be4ad63",
+        "crc32": "a4cf7299"
+      }
+    },
+    {
+      "filename": "Goo-Cho de Park - Theme Park Monogatari (Japan) (Demo).bin",
+      "filesize": 248705184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21ebf75bcdea747540aab81f7d1cba9d",
+        "sha1": "44a97fb5b4ae23f788aef71f4de960043034ec0c",
+        "crc32": "48882a8a"
+      }
+    }
+  ]
+}

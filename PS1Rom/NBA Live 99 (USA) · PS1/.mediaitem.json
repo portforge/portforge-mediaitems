@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 99 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 99 (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b171f9129a13322963da0470e5b0d1f3",
+        "sha1": "5d8ab4c078e53387f56ac6052ea8118022eeaef7",
+        "crc32": "754233d1"
+      }
+    },
+    {
+      "filename": "NBA Live 99 (USA).bin",
+      "filesize": 626069472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "346b450095306062cc5dfab859e146a8",
+        "sha1": "f28f63adf0bf0cfbd730b25fead15f86f3974d1a",
+        "crc32": "695ff9cb"
+      }
+    }
+  ]
+}

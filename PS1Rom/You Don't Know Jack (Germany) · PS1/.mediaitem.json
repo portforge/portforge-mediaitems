@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "You Don't Know Jack (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "You Don't Know Jack (Germany).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e6ba924f68c795011bd0844fd7d6912",
+        "sha1": "1297e624b56e00a1c9b96ca464861ab214c4f25d",
+        "crc32": "21488ec5"
+      }
+    },
+    {
+      "filename": "You Don't Know Jack (Germany).bin",
+      "filesize": 580847568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d2e2a989675c52bf8bac15cedd91023",
+        "sha1": "45a3cc8dd5943ec836f75b5addc7b7c409fd0654",
+        "crc32": "59bced87"
+      }
+    }
+  ]
+}

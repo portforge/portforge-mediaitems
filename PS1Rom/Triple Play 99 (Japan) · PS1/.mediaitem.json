@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Triple Play 99 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Triple Play 99 (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5cdf077e15f0257f4923200b602ae90e",
+        "sha1": "a56b2a8613c7082c69264c9e3ece8ef0dc04f656",
+        "crc32": "a4e3b7f6"
+      }
+    },
+    {
+      "filename": "Triple Play 99 (Japan).bin",
+      "filesize": 699708240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d43a7d3ebfe470903002d2b6a51efd3",
+        "sha1": "5e478b8818bd61b42eb3579c0bbc729b4c511564",
+        "crc32": "f9017343"
+      }
+    }
+  ]
+}

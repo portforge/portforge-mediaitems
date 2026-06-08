@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saikyou Ginsei Shougi 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saikyou Ginsei Shougi 2 (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aa1090acaa771e527b979124e0df7489",
+        "sha1": "ffa7e28f0ae64d13cb566538934e8972eb134e91",
+        "crc32": "ca7e6ff7"
+      }
+    },
+    {
+      "filename": "Saikyou Ginsei Shougi 2 (Japan).bin",
+      "filesize": 79528176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8943e0711dbf41fac002831981b44613",
+        "sha1": "b5e589c674495c406db4fe48c5f34a41e3fb1c2c",
+        "crc32": "cd0cbc01"
+      }
+    }
+  ]
+}

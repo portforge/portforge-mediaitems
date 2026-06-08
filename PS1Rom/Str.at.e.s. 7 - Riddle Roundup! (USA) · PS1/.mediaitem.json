@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Str.at.e.s. 7 - Riddle Roundup! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Str.at.e.s. 7 - Riddle Roundup! (USA).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d429448c4c1a519f5dabd4affc9b2a8",
+        "sha1": "a4fd7b5881bd512ca19ad80359cea3c2b89d6e02",
+        "crc32": "cbea73b6"
+      }
+    },
+    {
+      "filename": "Str.at.e.s. 7 - Riddle Roundup! (USA).bin",
+      "filesize": 730726416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96fcfda874a52f8f76929ea1df2dd8f4",
+        "sha1": "f6956a24fa0e8ea105dc7a849a349c620df7808b",
+        "crc32": "f127cb4e"
+      }
+    }
+  ]
+}

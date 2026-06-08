@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db87e9ad32ec7e3e890a92bd8167896a",
+        "sha1": "bb774207e3961eef3337e7a05b573ac6ac07fc1b",
+        "crc32": "cc678293"
+      }
+    },
+    {
+      "filename": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).bin",
+      "filesize": 527746464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9917d611ea151da8e12c75afac84cf07",
+        "sha1": "b18603d8ee85120fd27ac41f2e4bd652fa8fe6b1",
+        "crc32": "35a01906"
+      }
+    }
+  ]
+}

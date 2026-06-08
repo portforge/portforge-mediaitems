@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vehicle Cavalier (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vehicle Cavalier (Japan).cue",
+      "filesize": 572,
+      "ext": "cue",
+      "checksums": {
+        "md5": "be3eb44e1aaa2920607b40597c685ec4",
+        "sha1": "964e4fde25f1dedcd1ee94680806ad11aef2ef67",
+        "crc32": "0ea3341e"
+      }
+    },
+    {
+      "filename": "Vehicle Cavalier (Japan) (Track 1).bin",
+      "filesize": 49961184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be327c09f169ea5eedff5b2d3d2b3c29",
+        "sha1": "cfa94e4935c6b754e86b1e21e7e429b0512cede7",
+        "crc32": "344c532a"
+      }
+    },
+    {
+      "filename": "Vehicle Cavalier (Japan) (Track 2).bin",
+      "filesize": 61977552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c917c728ed1b404ca59fc281bd721029",
+        "sha1": "2760b60d3f01e5e686d29a31e23ce7ffba443f7a",
+        "crc32": "f049f038"
+      }
+    },
+    {
+      "filename": "Vehicle Cavalier (Japan) (Track 3).bin",
+      "filesize": 45466512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a66e2ef2eecf9f410d10ac9c667449a3",
+        "sha1": "85ab4dca8053a5ff193024105f1aa3893b47c9c6",
+        "crc32": "ac551312"
+      }
+    },
+    {
+      "filename": "Vehicle Cavalier (Japan) (Track 4).bin",
+      "filesize": 10965024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1bfe26aadce9ec587fabe20b69078fd",
+        "sha1": "d6377cb58191a7676ea6933d762b3b24f18fe8f6",
+        "crc32": "08be23e0"
+      }
+    },
+    {
+      "filename": "Vehicle Cavalier (Japan) (Track 5).bin",
+      "filesize": 31890768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88a6fa72ac8855678767238c419b5165",
+        "sha1": "f2c45eaac8af48c833557271e3bb57799c2013d7",
+        "crc32": "71a02b17"
+      }
+    }
+  ]
+}

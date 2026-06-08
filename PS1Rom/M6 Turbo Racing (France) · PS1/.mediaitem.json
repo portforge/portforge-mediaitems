@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "M6 Turbo Racing (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "M6 Turbo Racing (France).cue",
+      "filesize": 808,
+      "ext": "cue",
+      "checksums": {
+        "md5": "649bdf7f96d3c2afa6be0b1f8b116715",
+        "sha1": "5152373ec87999c3c6f6dbdea24f09fe56d72732",
+        "crc32": "5c28d1a4"
+      }
+    },
+    {
+      "filename": "M6 Turbo Racing (France) (Track 1).bin",
+      "filesize": 144913776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44444602ce6c9bb02135ce8f12ea4170",
+        "sha1": "dba3a8250d8e3456847367261928cd724e482362",
+        "crc32": "01cfb89b"
+      }
+    },
+    {
+      "filename": "M6 Turbo Racing (France) (Track 2).bin",
+      "filesize": 83790000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc7a752e3a495d98196077b30de5cb61",
+        "sha1": "03766f28fb01ab13733032ba2f9e98dcaa5333b0",
+        "crc32": "7df7c098"
+      }
+    },
+    {
+      "filename": "M6 Turbo Racing (France) (Track 3).bin",
+      "filesize": 93788352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28a5e42bd58f3948370b63e2610bf777",
+        "sha1": "d8838f14a11f81497e5adacec817e14f9d03309a",
+        "crc32": "ed1e1aff"
+      }
+    },
+    {
+      "filename": "M6 Turbo Racing (France) (Track 4).bin",
+      "filesize": 64059072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bb393e7dc8261fffaf2d5cfb222f2fe",
+        "sha1": "c952479962d9b5d269137405dfcdfd517e3e947e",
+        "crc32": "44125394"
+      }
+    },
+    {
+      "filename": "M6 Turbo Racing (France) (Track 5).bin",
+      "filesize": 106082256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1f1fb30b6855463f57293321746d3ca",
+        "sha1": "100a136d7f0aa1a1d67f20357c641d49ee848239",
+        "crc32": "3b664c29"
+      }
+    },
+    {
+      "filename": "M6 Turbo Racing (France) (Track 6).bin",
+      "filesize": 100406880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afa804e4dc1abb77045fc17f32f2da74",
+        "sha1": "20399e08e4fa1559f34070f2f0e9745828f7444d",
+        "crc32": "1f123e6c"
+      }
+    },
+    {
+      "filename": "M6 Turbo Racing (France) (Track 7).bin",
+      "filesize": 68026896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02b944d355ce25904d46cc0371838c20",
+        "sha1": "0a5cc01a52a645a222040bed8f4ac724b4518377",
+        "crc32": "39177c97"
+      }
+    }
+  ]
+}

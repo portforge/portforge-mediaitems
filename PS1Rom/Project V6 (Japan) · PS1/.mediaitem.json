@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Project V6 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Project V6 (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fdec00470d6d7b45d4b5ce86914eea1",
+        "sha1": "d23936cf69b0ab5f048abcb21fd03afe86b00805",
+        "crc32": "797de8c9"
+      }
+    },
+    {
+      "filename": "Project V6 (Japan).bin",
+      "filesize": 527701776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c836e76b9bbbbc1408181ca6ae76e9f",
+        "sha1": "0211573e447d1ea71c248df2502bd5920a2fbb03",
+        "crc32": "7eb250f0"
+      }
+    }
+  ]
+}

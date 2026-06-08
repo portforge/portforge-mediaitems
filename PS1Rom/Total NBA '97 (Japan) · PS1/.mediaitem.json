@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Total NBA '97 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Total NBA '97 (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69a54add80189cb36ba9ee0bfec595e9",
+        "sha1": "4317cacc32d2c0c0b3ec6af4c00276ab52ca095a",
+        "crc32": "7328d78d"
+      }
+    },
+    {
+      "filename": "Total NBA '97 (Japan).bin",
+      "filesize": 430411296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5a4cf7ec528bbab810dfb24c5dd5b78",
+        "sha1": "a2fccb636f0f7d13d024b4780b3cad7420380391",
+        "crc32": "3bc5a5dd"
+      }
+    }
+  ]
+}

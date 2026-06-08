@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ultimate Fighting Championship (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ultimate Fighting Championship (USA) (Trade Demo).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a91f502a0ee54d1f63627cbc90faeb7",
+        "sha1": "b1c1b925a08d1c57822bf7927320c6cbdc5b7b12",
+        "crc32": "fab1777b"
+      }
+    },
+    {
+      "filename": "Ultimate Fighting Championship (USA) (Trade Demo).bin",
+      "filesize": 106352736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87c5f447d9e75b633808936835c1e32d",
+        "sha1": "37b652c8cf5a45ec621f180810a599c54c798adb",
+        "crc32": "7a4e42a2"
+      }
+    }
+  ]
+}

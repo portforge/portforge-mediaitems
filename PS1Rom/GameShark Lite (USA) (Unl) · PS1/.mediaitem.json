@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GameShark Lite (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GameShark Lite (USA) (Unl).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "527960b74bcc0346f416a11e83cbfa60",
+        "sha1": "96934592f595e3692cd3c37a8223ee2fac3104c8",
+        "crc32": "b33850fb"
+      }
+    },
+    {
+      "filename": "GameShark Lite (USA) (Unl).bin",
+      "filesize": 194331648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6358b19c6f29de1d5bc55c22a1186896",
+        "sha1": "80b4b311cc81c9b320f7c6a245cb59571e7985d0",
+        "crc32": "07f69b1a"
+      }
+    }
+  ]
+}

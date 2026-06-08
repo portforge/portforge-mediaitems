@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Motto! Oja Majo DoReMi - Maho-dou Smile Party (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Motto! Oja Majo DoReMi - Maho-dou Smile Party (Japan).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11aaf008d19e85640e44b97318ef1efe",
+        "sha1": "482ff72bb4085bc8b1c96b53425628606ceca5f6",
+        "crc32": "2166f5fb"
+      }
+    },
+    {
+      "filename": "Kids Station - Motto! Oja Majo DoReMi - Maho-dou Smile Party (Japan).bin",
+      "filesize": 578269776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc9ad0cc88c87ac67b14708fdd5832c0",
+        "sha1": "3d5ac26e2d7de7324477bce453a0a8832e06b883",
+        "crc32": "4222ff51"
+      }
+    }
+  ]
+}

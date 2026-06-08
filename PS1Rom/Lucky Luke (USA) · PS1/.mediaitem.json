@@ -1,0 +1,227 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lucky Luke (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lucky Luke (USA).cue",
+      "filesize": 2313,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ef3b84b723d4687df31ca7279a76729",
+        "sha1": "72228a6c7685d9755a0a1efb467efbc7709011ed",
+        "crc32": "80779779"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 01).bin",
+      "filesize": 159293904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c01ba9782d6719b1218e3c20b3f738ed",
+        "sha1": "789a33bbc296c0342f30fbbd68cceb2194a1642d",
+        "crc32": "de69e1b8"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 02).bin",
+      "filesize": 15344448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ad8aead18a29cebf39a489a8506bfc6",
+        "sha1": "90eab8edc4c048ee363f76161fc42e782158f9ad",
+        "crc32": "12cc2315"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 03).bin",
+      "filesize": 17369520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b2d37658db8dbdc8c48bb03d09d3b90",
+        "sha1": "bd2be23fb08f25be3c89a886810f5945d00afc3e",
+        "crc32": "57811c84"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 04).bin",
+      "filesize": 16800336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3e625655793d52b0237c423fdd98401",
+        "sha1": "46ece7f7a465ee0ea397a45e71c0b021364b3eb0",
+        "crc32": "f52a1179"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 05).bin",
+      "filesize": 14721168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "726c58edc60ccd4445c393a80cd21a97",
+        "sha1": "6cf70b3a62991aaf800bb7d638d8ef8c7e8955a8",
+        "crc32": "717fdd69"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 06).bin",
+      "filesize": 17712912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9650b12acc1c01e71b2d116b6dc421e",
+        "sha1": "046c6054c0fb30ae268d5e57b666bf122756362e",
+        "crc32": "d9a1df3f"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 07).bin",
+      "filesize": 18552576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9011c03520dda4c2b62fc483a8f49c77",
+        "sha1": "a0d44cdde0f936fded1a84c50222066ffb6c688e",
+        "crc32": "98fafae0"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 08).bin",
+      "filesize": 18284448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1947a4e512f85b237d66775f79e143f8",
+        "sha1": "65a8eb4e8155c8747ef0f78c2cc85693c08919b6",
+        "crc32": "aef1f04c"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 09).bin",
+      "filesize": 16304064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e5118bd46c358b05cafde6b0ca7197e",
+        "sha1": "5fd0e1ae4e824cba49c646a3a0afa0a3c5ffa910",
+        "crc32": "77a10040"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 10).bin",
+      "filesize": 16609824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99a3886289822281c59b842995d65924",
+        "sha1": "5150a95e0fc790d2d4d9b241c496aa69a437d40b",
+        "crc32": "eae52ae6"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 11).bin",
+      "filesize": 19107648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "031591cbc7275a5c747d74807d0789a2",
+        "sha1": "ca3c7c4b30caeaefd0b93bb7c03afb0609dfb824",
+        "crc32": "012ed0d0"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 12).bin",
+      "filesize": 15631392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7439274c7aaf0a370c585105dbeeaff",
+        "sha1": "81a77772c1d6fa0c3274cfcb7445afb8738a3ee4",
+        "crc32": "761989ca"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 13).bin",
+      "filesize": 17162544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e2536214c69d35f40d6564d4afbad15",
+        "sha1": "bc6e0a967b2c1e6099b903f4b18d2cc378039802",
+        "crc32": "5ac3d74e"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 14).bin",
+      "filesize": 17204880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "569b8fc97654f3b56ca1c56643ba7bf6",
+        "sha1": "4f6f2e42220fc913b168a2d4cde9def33efb7434",
+        "crc32": "3bc43f1c"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 15).bin",
+      "filesize": 15953616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77d0d25a37c630902315c5e19920dffa",
+        "sha1": "093f0c1c11b9c7bcf86b939877da2f40f7e32006",
+        "crc32": "c9c5034e"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 16).bin",
+      "filesize": 16661568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3eb9d5f1e48527a5383f44475d1d4fc1",
+        "sha1": "45c36d63bb1675b70c9a7e6fa3dc09f48cd6af62",
+        "crc32": "9357857b"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 17).bin",
+      "filesize": 15431472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4bbfbe7ff3bc7a811a3aa3bb0edb059",
+        "sha1": "e3dd364852c9bb1aa6c6fee79349a7b1fa87df2b",
+        "crc32": "d34597b9"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 18).bin",
+      "filesize": 18604320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e88cf7a7df636e75b46541dacd98687b",
+        "sha1": "7fa1871cd5483808b5a51c80d3a5b2fe2d572228",
+        "crc32": "08abc024"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 19).bin",
+      "filesize": 17204880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6041b372ab0198119e2d0d9715aa5fe",
+        "sha1": "9d12a0952f8ffda10001ee15fd0c13238eec308d",
+        "crc32": "81648a2c"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 20).bin",
+      "filesize": 16092384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3e16006bd799394297483d0fe0554d0",
+        "sha1": "be1916e06807a514fa46bcd994a62ab037e9339b",
+        "crc32": "be64010b"
+      }
+    },
+    {
+      "filename": "Lucky Luke (USA) (Track 21).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0580798280736865f5a3a0acf0070a3",
+        "sha1": "ebbc15d8445e79bcbfd4a229c32191c30ba9d2e0",
+        "crc32": "fd70a67f"
+      }
+    }
+  ]
+}

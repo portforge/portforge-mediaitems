@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suikoden II (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suikoden II (Europe) (Demo).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "363d2c3a776c3e2529a73395f4d8a3ba",
+        "sha1": "3dc643392dc4bfb71ba488dc6ca0cb7c0d43f1fc",
+        "crc32": "68b69627"
+      }
+    },
+    {
+      "filename": "Suikoden II (Europe) (Demo).bin",
+      "filesize": 513947280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f05daa6d715b32db80a24043f69aa428",
+        "sha1": "033d4af3100f0ed3fd66188cdddcb5b217cb45f7",
+        "crc32": "af9f1c49"
+      }
+    }
+  ]
+}

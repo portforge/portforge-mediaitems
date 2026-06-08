@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan).cue",
+      "filesize": 828,
+      "ext": "cue",
+      "checksums": {
+        "md5": "342f007ad25e3a30b9f841d3266f3f16",
+        "sha1": "d7759272d1b97918cd6da061b051faa2e7bff3b0",
+        "crc32": "c26e71c1"
+      }
+    },
+    {
+      "filename": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan) (Track 1).bin",
+      "filesize": 3405696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45c6f8469883334e393b205165a67ae4",
+        "sha1": "c6b0e137fe81ac89abca1c8e266d983879db8fa3",
+        "crc32": "14d83b0f"
+      }
+    },
+    {
+      "filename": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan) (Track 2).bin",
+      "filesize": 11578896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eed0bd28ac4d014f86ff387ae7c60541",
+        "sha1": "bdd5305788ef87e7c354c07342239e05b41588b7",
+        "crc32": "a197982f"
+      }
+    },
+    {
+      "filename": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan) (Track 3).bin",
+      "filesize": 21859488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0b378f4a83be0e4425533ef61a44e86",
+        "sha1": "4a09cabfa4a5007ed0ba6a3818af87fa4c6c0983",
+        "crc32": "f9f34da4"
+      }
+    },
+    {
+      "filename": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan) (Track 4).bin",
+      "filesize": 22160544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b3e9a28f1e0ed01babfadacd11c04c2",
+        "sha1": "a5d9192f04f5c2a336da13a6f1c0d42583956d13",
+        "crc32": "b92b110b"
+      }
+    },
+    {
+      "filename": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan) (Track 5).bin",
+      "filesize": 22473360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8db5560772b14e732ebbdf6e854ce6d5",
+        "sha1": "e6d3c382fae1df97fb99721bdd77a57e1f231577",
+        "crc32": "bfc74239"
+      }
+    },
+    {
+      "filename": "Taikyoku Igo - Shinzui Gosennin - Nigou (Japan) (Track 6).bin",
+      "filesize": 32986800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4635067b7e9d9cf9aadabe5c7a0809b",
+        "sha1": "1ccdea80b0e2e26b872e60bd7602bc635ba037f3",
+        "crc32": "c317d4be"
+      }
+    }
+  ]
+}

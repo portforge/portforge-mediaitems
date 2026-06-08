@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metamor Panic - Doki Doki Youma Busters!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metamor Panic - Doki Doki Youma Busters!! (Japan).cue",
+      "filesize": 697,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c3f753d694f900143f6b3f33e9ad861",
+        "sha1": "1642d2ba5ba45797108596d24fd5111b736878d2",
+        "crc32": "f6174ff8"
+      }
+    },
+    {
+      "filename": "Metamor Panic - Doki Doki Youma Busters!! (Japan) (Track 1).bin",
+      "filesize": 67429488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "416f981dd10e7bd1c51e8112cfdbbcdf",
+        "sha1": "c9e92c7b655927ecfcfbc273fa245eca6871d24b",
+        "crc32": "71af2a1c"
+      }
+    },
+    {
+      "filename": "Metamor Panic - Doki Doki Youma Busters!! (Japan) (Track 2).bin",
+      "filesize": 15433824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "040bc7d04bd537b0eb831c23e23e15f0",
+        "sha1": "409701a8d7321460c1eb7428554e585ff86dc959",
+        "crc32": "d7fa9313"
+      }
+    },
+    {
+      "filename": "Metamor Panic - Doki Doki Youma Busters!! (Japan) (Track 3).bin",
+      "filesize": 29557584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2303ee1121a6bf537aa858480d5625c2",
+        "sha1": "4ecdff9541f310525c4796b7ff077096a51175ce",
+        "crc32": "3eee1bc6"
+      }
+    },
+    {
+      "filename": "Metamor Panic - Doki Doki Youma Busters!! (Japan) (Track 4).bin",
+      "filesize": 38913840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22b9f1deffaa8674d23e33d56c517bbe",
+        "sha1": "af2481da8333c8195c889c8e1081225041a0a7b3",
+        "crc32": "3403db46"
+      }
+    },
+    {
+      "filename": "Metamor Panic - Doki Doki Youma Busters!! (Japan) (Track 5).bin",
+      "filesize": 26812800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8913aa6be3254a1666d88f31f3420054",
+        "sha1": "c727dc75ebd34acc5295914722ca3c0f2eb53f7e",
+        "crc32": "9321b61e"
+      }
+    }
+  ]
+}

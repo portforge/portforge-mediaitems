@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Shadow (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Shadow (Japan) (Disc 3).cue",
+      "filesize": 474,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f4d294060520228162f37e55dce412b",
+        "sha1": "0a5d43249569f7a4b4fb2e467646cbeda1cb6dc1",
+        "crc32": "920d1815"
+      }
+    },
+    {
+      "filename": "Tokyo Shadow (Japan) (Disc 3) (Track 1).bin",
+      "filesize": 244737360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4867cb3e5fdbd174301530e4d5767391",
+        "sha1": "57837e08fa4b5d0d30e824ae1be9500b06e71954",
+        "crc32": "96653046"
+      }
+    },
+    {
+      "filename": "Tokyo Shadow (Japan) (Disc 3) (Track 2).bin",
+      "filesize": 12046944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a16aefc03f5c843b956fe6e0c0c814b",
+        "sha1": "b41c5215b2968ba437a9f48ed14b7ab80b184225",
+        "crc32": "b817605b"
+      }
+    },
+    {
+      "filename": "Tokyo Shadow (Japan) (Disc 3) (Track 3).bin",
+      "filesize": 18743088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df42d9a7aa0b3daba1939a08aea60266",
+        "sha1": "f754cd988eba7e1dc9ac5c8e958ba8fbf43daa95",
+        "crc32": "c3ff3232"
+      }
+    },
+    {
+      "filename": "Tokyo Shadow (Japan) (Disc 3) (Track 4).bin",
+      "filesize": 64545936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d65c0a13b18b27ac3e17edc11606bd2",
+        "sha1": "639d619819a6de2924d8c0f8dfe8181a9825b4b7",
+        "crc32": "b9148757"
+      }
+    }
+  ]
+}

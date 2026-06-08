@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Air Attack 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Air Attack 2 (Europe).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "266bababd0508609bc1322f6bf41d872",
+        "sha1": "811738dab472c10d843f3900037e8987e3f46e3b",
+        "crc32": "c010f8e9"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack 2 (Europe).bin",
+      "filesize": 741126960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58ecfcb90d7d4fd742d7be49390cd655",
+        "sha1": "1921cf4c146667e6ed4ea370118a4578bd6de2f0",
+        "crc32": "dc353673"
+      }
+    }
+  ]
+}

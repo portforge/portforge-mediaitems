@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fluid (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fluid (Europe).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b77621af494ea7dec5f77958181b4ea",
+        "sha1": "8de386bfb0a86252def44f8611811a119badad87",
+        "crc32": "3f4e55d9"
+      }
+    },
+    {
+      "filename": "Fluid (Europe).bin",
+      "filesize": 244147008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4bb7b27863511af2bb08d38d32fe927",
+        "sha1": "8391fb9f387484638aa18da00ae10ed86ceadd60",
+        "crc32": "fb3c2ed7"
+      }
+    }
+  ]
+}

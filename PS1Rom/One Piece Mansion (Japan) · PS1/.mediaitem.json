@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "One Piece Mansion (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "One Piece Mansion (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c32591ff1528dc140d4cfb97274ded0",
+        "sha1": "29849e18137f055d7cd6dfc743852fbad6c242b5",
+        "crc32": "752b1344"
+      }
+    },
+    {
+      "filename": "One Piece Mansion (Japan).bin",
+      "filesize": 429964416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3973cb6f7b9e6a2f8f30e2a6e386c1c",
+        "sha1": "10b57d02ce365ae30a68190e2a080543a543a964",
+        "crc32": "1a042924"
+      }
+    }
+  ]
+}

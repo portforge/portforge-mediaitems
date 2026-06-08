@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Spain) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Spain) (Disc 1).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "26b0d96c2065acaa9c97f836bc877476",
+        "sha1": "80db5b8da5ed9f7eaa7e1e21e7d4ef8c169385d7",
+        "crc32": "d2bd87cc"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Spain) (Disc 1).bin",
+      "filesize": 688230480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c785b4749ae8d1960ad6e7df8ad1c8e7",
+        "sha1": "a3a3609dab8355d8162708d703271f21ed29cae8",
+        "crc32": "0cc35f6f"
+      }
+    }
+  ]
+}

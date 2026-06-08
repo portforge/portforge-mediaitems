@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pinball Fantasies Deluxe (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pinball Fantasies Deluxe (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e1370758677d3e405767338f32439720",
+        "sha1": "e785a56e2be1124732e9c8e8c6d28aadacee599a",
+        "crc32": "cd7b6c5a"
+      }
+    },
+    {
+      "filename": "Pinball Fantasies Deluxe (Japan).bin",
+      "filesize": 96450816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5238c16a044ec17830f7d533fde94df2",
+        "sha1": "32a696a5addd9f64ebe4901ef68ef76824ebece3",
+        "crc32": "2edb8cfb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Now 5 - GeGeGe no Kitarou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Now 5 - GeGeGe no Kitarou (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5b9af484c3a81177160e5b27dccdc05f",
+        "sha1": "43fddd916058b5e2f9f5f6b6df803b6f896ea764",
+        "crc32": "553fea64"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 5 - GeGeGe no Kitarou (Japan).bin",
+      "filesize": 52531920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b25c5df5f75a9f345879407630aac651",
+        "sha1": "f8cbaf2d6287c489fb9da85a794a7197cbe884a7",
+        "crc32": "2d69b9a5"
+      }
+    }
+  ]
+}

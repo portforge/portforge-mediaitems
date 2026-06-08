@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo (Europe) (Nl,Pt) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo (Europe) (Nl,Pt) (Rev 1).cue",
+      "filesize": 597,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90c9d37cdbc2f7ca5957287f04e718ad",
+        "sha1": "ff353d2d2f923edcb1e9100c18ae10437a536d10",
+        "crc32": "bc702721"
+      }
+    },
+    {
+      "filename": "Hugo (Europe) (Nl,Pt) (Rev 1) (Track 1).bin",
+      "filesize": 473191824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60e9664e64f08d5132635e6f5072a613",
+        "sha1": "cbc2cbe74a439d2517a3d43089ef049ea9198825",
+        "crc32": "3fc8cdd3"
+      }
+    },
+    {
+      "filename": "Hugo (Europe) (Nl,Pt) (Rev 1) (Track 2).bin",
+      "filesize": 23176608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7579d978216f84c15b2ebb7f1c0f767b",
+        "sha1": "c48f7dbd03c963153d903f51a302d111a57634f7",
+        "crc32": "4b9a74ce"
+      }
+    },
+    {
+      "filename": "Hugo (Europe) (Nl,Pt) (Rev 1) (Track 3).bin",
+      "filesize": 17752896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e96466e1f624c0f997710aba4b8e1d3b",
+        "sha1": "8dd29f846dacb0b63449ca1c3dd4a86af9233e8b",
+        "crc32": "4b0947c3"
+      }
+    },
+    {
+      "filename": "Hugo (Europe) (Nl,Pt) (Rev 1) (Track 4).bin",
+      "filesize": 13107696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4ebf596002e19fac3520075dab3fe37",
+        "sha1": "f9346d2864ddced9003e560f70a518faabe8e86f",
+        "crc32": "496d7fa6"
+      }
+    },
+    {
+      "filename": "Hugo (Europe) (Nl,Pt) (Rev 1) (Track 5).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "582388bb43094c9ef0c88f1c1aea0e0a",
+        "sha1": "dd5a88f1f17c9f4fa715a0d3286753af60b1c6d0",
+        "crc32": "a98886d2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WWF War Zone (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WWF War Zone (USA) (Rev 1).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b7307afafd13dcd06ef7665ad3e0867",
+        "sha1": "6a2950f0c5b7a352ced346c3c5e80072ceb1ab43",
+        "crc32": "d0673246"
+      }
+    },
+    {
+      "filename": "WWF War Zone (USA) (Rev 1) (Track 1).bin",
+      "filesize": 655514160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "079eb92dc140978722335d7209e2506a",
+        "sha1": "f22bb78d8cc6e2313852764b55fd0c195e6220ce",
+        "crc32": "c8d3cba1"
+      }
+    },
+    {
+      "filename": "WWF War Zone (USA) (Rev 1) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

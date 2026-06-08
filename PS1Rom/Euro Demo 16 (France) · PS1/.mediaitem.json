@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 16 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 16 (France).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2e5a2365b322853118d8e3ff3a837ed",
+        "sha1": "7104bfba59a9adb382a053504cf7a559fa83ac2b",
+        "crc32": "c8a9f83c"
+      }
+    },
+    {
+      "filename": "Euro Demo 16 (France) (Track 1).bin",
+      "filesize": 468873552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c8cd188c007c60318fece4d73b242d1",
+        "sha1": "1a338b56eeef38a95b948f695d79e8a07173bc1d",
+        "crc32": "a8784087"
+      }
+    },
+    {
+      "filename": "Euro Demo 16 (France) (Track 2).bin",
+      "filesize": 31660272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29dce6eae638a30ae101f26e727744e8",
+        "sha1": "e41afd06d90af8865b9af4fb4c2f56db9326f677",
+        "crc32": "d34f4088"
+      }
+    },
+    {
+      "filename": "Euro Demo 16 (France) (Track 3).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

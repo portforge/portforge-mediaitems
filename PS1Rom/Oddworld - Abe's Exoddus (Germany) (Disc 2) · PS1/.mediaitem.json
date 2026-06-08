@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oddworld - Abe's Exoddus (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oddworld - Abe's Exoddus (Germany) (Disc 2).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "876adc8e2a3f6e6018c0c7f230bd3199",
+        "sha1": "5649d22b261d827ecbf9e198c097aba0a1df4954",
+        "crc32": "3b251578"
+      }
+    },
+    {
+      "filename": "Oddworld - Abe's Exoddus (Germany) (Disc 2).bin",
+      "filesize": 483241920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29148fd2597376ebce8f7f6253ddfb04",
+        "sha1": "ee9c3a3037f10d609742246f6ee77e1c9a8cb436",
+        "crc32": "0713506d"
+      }
+    }
+  ]
+}

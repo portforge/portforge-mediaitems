@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LifeScape - Seimei 40-okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LifeScape - Seimei 40-okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae6428186727a99383c5342cb8e00666",
+        "sha1": "53b7bdd4708c67511885fd2d1f7f400d9cf098db",
+        "crc32": "9eabed66"
+      }
+    },
+    {
+      "filename": "LifeScape - Seimei 40-okunen Haruka na Tabi (Japan) (Disc 2) (Landsphere).bin",
+      "filesize": 605028480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51e72a12ec880eac46c9f17ec520e164",
+        "sha1": "1249b4752f8e9d066641b671cf462cd66699e7a9",
+        "crc32": "171f7be5"
+      }
+    }
+  ]
+}

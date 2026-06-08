@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Demolition Racer (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Demolition Racer (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6b4a6b2ba74794cabf13746d6742e0a",
+        "sha1": "e7b4e6bf14cae3703a59d287eec32432cb10e200",
+        "crc32": "925e9d02"
+      }
+    },
+    {
+      "filename": "Demolition Racer (USA).bin",
+      "filesize": 325629696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "986483c268861abf70dbd6a107a51226",
+        "sha1": "8ce65643034b3a8f996d479d00ded60033a88b87",
+        "crc32": "70d9b2c6"
+      }
+    }
+  ]
+}

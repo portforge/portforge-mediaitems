@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Groove Jigoku V (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Groove Jigoku V (Japan) (Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7db2f2e5776308e8d919a63da7fc8d41",
+        "sha1": "3ab07e453285b0e67ffd938f0b7a1118d803340c",
+        "crc32": "48c8e871"
+      }
+    },
+    {
+      "filename": "Groove Jigoku V (Japan) (Demo).bin",
+      "filesize": 96566064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "735d442dc9dc6b54f904d76006d89d9b",
+        "sha1": "4484525986709c9bc38d2a28d284c0c9d6aead6b",
+        "crc32": "f2a953b8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Suudoku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Suudoku (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bc37f1a6e93f81221b93d6dacedd483",
+        "sha1": "95d90a4bc416cdbd6e41f027ef2821e9defa3a04",
+        "crc32": "01d321fa"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Suudoku (Japan).bin",
+      "filesize": 35508144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77071e6ff94fef79077bf1cfd3403f6b",
+        "sha1": "3908c14abe0ca12c43fe746dffe819c348aebd76",
+        "crc32": "85054897"
+      }
+    }
+  ]
+}

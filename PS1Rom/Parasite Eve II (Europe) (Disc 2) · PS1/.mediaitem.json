@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parasite Eve II (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parasite Eve II (Europe) (Disc 2).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28d580f92aa5d05fb2a709213aea4296",
+        "sha1": "e8e68cf6cb56737214c1e4c852787c65b1238158",
+        "crc32": "eda93a83"
+      }
+    },
+    {
+      "filename": "Parasite Eve II (Europe) (Disc 2).bin",
+      "filesize": 622746096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0cc4e79857b05f825e1942c344f9182",
+        "sha1": "7cada794d5e40c279e57276d0758821266c98d4d",
+        "crc32": "10a3c69a"
+      }
+    }
+  ]
+}

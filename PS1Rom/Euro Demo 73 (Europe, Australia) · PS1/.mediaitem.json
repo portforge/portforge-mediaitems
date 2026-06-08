@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 73 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 73 (Europe, Australia).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "20e8ee1d092924b8fafe1920b1c19028",
+        "sha1": "528977981245b99fd7fc2663f23484fcde578320",
+        "crc32": "7412ec4d"
+      }
+    },
+    {
+      "filename": "Euro Demo 73 (Europe, Australia).bin",
+      "filesize": 675501456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f21d9bc50039e0c97852a04255b21c52",
+        "sha1": "1bb4b42a81e2cc558f5ba4cfc53605034808fa28",
+        "crc32": "0a80ebb0"
+      }
+    }
+  ]
+}

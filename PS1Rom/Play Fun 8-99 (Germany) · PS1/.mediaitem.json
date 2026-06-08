@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Fun 8-99 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Fun 8-99 (Germany).cue",
+      "filesize": 567,
+      "ext": "cue",
+      "checksums": {
+        "md5": "656a1ce74890ea8033da55e6ca026e16",
+        "sha1": "d55634c57b3ec67585cce43d10030b73650a0215",
+        "crc32": "40173446"
+      }
+    },
+    {
+      "filename": "Play Fun 8-99 (Germany) (Track 1).bin",
+      "filesize": 624719424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47c067d4a388b91dc4d7c98e92700088",
+        "sha1": "cbc5c5fe51732c6eda84a21b6fc21350b7171ba4",
+        "crc32": "228be2a8"
+      }
+    },
+    {
+      "filename": "Play Fun 8-99 (Germany) (Track 2).bin",
+      "filesize": 31455648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f78c726a9380503628cc2203df0e8bb",
+        "sha1": "17077517deb03cba5fc749ec68871301f7fa4595",
+        "crc32": "f122089f"
+      }
+    },
+    {
+      "filename": "Play Fun 8-99 (Germany) (Track 3).bin",
+      "filesize": 31455648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f78c726a9380503628cc2203df0e8bb",
+        "sha1": "17077517deb03cba5fc749ec68871301f7fa4595",
+        "crc32": "f122089f"
+      }
+    },
+    {
+      "filename": "Play Fun 8-99 (Germany) (Track 4).bin",
+      "filesize": 14591808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "924bab43caea650e0ead7dfb6f71a460",
+        "sha1": "acb60b42bd3e26e94fc0065801e50f14cd035c75",
+        "crc32": "8812162d"
+      }
+    },
+    {
+      "filename": "Play Fun 8-99 (Germany) (Track 5).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

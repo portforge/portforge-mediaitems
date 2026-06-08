@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kyaiin no Tanoshi Mail - PS. I Love You (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kyaiin no Tanoshi Mail - PS. I Love You (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ef805ce382a1cae23fc8127a69d3019",
+        "sha1": "13da98e29c441f815007e8bd81c261a1d3236aa7",
+        "crc32": "78f7bfc6"
+      }
+    },
+    {
+      "filename": "Kyaiin no Tanoshi Mail - PS. I Love You (Japan).bin",
+      "filesize": 378655536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f4dac4533a55b02ab266b75c682dca6",
+        "sha1": "e6258becde3ce7e4184f9edb31569574272f1aa5",
+        "crc32": "3161e01a"
+      }
+    }
+  ]
+}

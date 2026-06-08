@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ray-Ray CD-ROM (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ray-Ray CD-ROM (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a6a37ee21c145dd8acfc9c9acc1fcf6b",
+        "sha1": "d4bb82860738978f5b9f17ad1019045211ac74bf",
+        "crc32": "220e4a57"
+      }
+    },
+    {
+      "filename": "Ray-Ray CD-ROM (Japan).bin",
+      "filesize": 744542064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "584b80ebd9a71de1cca6aaff7f1231e0",
+        "sha1": "62646205ad69074a4719612991c0759d650c4037",
+        "crc32": "ec9e4c5e"
+      }
+    }
+  ]
+}

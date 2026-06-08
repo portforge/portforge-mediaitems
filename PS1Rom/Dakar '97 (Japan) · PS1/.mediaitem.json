@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dakar '97 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dakar '97 (Japan).cue",
+      "filesize": 981,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e34bc294a093dc38d6f7a96c80633b3",
+        "sha1": "b8603e2102237d693f987d57937376d75a5ab39a",
+        "crc32": "72d620d0"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 1).bin",
+      "filesize": 115438512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05a963dff80f773e38ac58531f1bf721",
+        "sha1": "b3d05e26f402704b9a201050ffd67bb537067d00",
+        "crc32": "e6628879"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 2).bin",
+      "filesize": 13023024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0c1f623559d776eedb8a7cb95396c87",
+        "sha1": "b0fbac189469ddf9e5ec7067478a1d02cea58009",
+        "crc32": "2545d96b"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 3).bin",
+      "filesize": 63859152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "352fc7b16b89f6ef73e9067e6eb29159",
+        "sha1": "20a2520786bc6bce66aeb38fb974a03bad0339fd",
+        "crc32": "97a0a663"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 4).bin",
+      "filesize": 63859152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc9f742a3ac9d4b5ef3cad224ec767d2",
+        "sha1": "aae7b3c5ba30d6917f9dc4df35fefa021ee50221",
+        "crc32": "0bb85b5d"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 5).bin",
+      "filesize": 63859152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ba21fa3b564878ddb546a4e84ae8ac9",
+        "sha1": "9d00e33d6cc8cbb86976851e38e80733051b46e7",
+        "crc32": "7692365e"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 6).bin",
+      "filesize": 63859152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "251d849ee29d76b9c9f86ccd2fa40abc",
+        "sha1": "0c117f64eeddc141a4a7a289770af57c92c18dc7",
+        "crc32": "ad3563ed"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 7).bin",
+      "filesize": 65439696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52b4ab7f466adfb456d213ceff65d47f",
+        "sha1": "cb99e99d835f6a5532ac0f1679b6351d3378d76b",
+        "crc32": "61927dbe"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 8).bin",
+      "filesize": 63859152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fac265948e6cd09a7364a4d65cb8fd4",
+        "sha1": "de10720674e47eeb7c684f6196d1ed6dd5a11586",
+        "crc32": "c4007220"
+      }
+    },
+    {
+      "filename": "Dakar '97 (Japan) (Track 9).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

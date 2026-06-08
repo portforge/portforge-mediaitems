@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Othello World II - Yume to Michi e no Chousen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Othello World II - Yume to Michi e no Chousen (Japan).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f198e92a56bb4113701eb12fb971f51",
+        "sha1": "a31dd8937b1f804f91e844511b9d1443c6809c2a",
+        "crc32": "d4df7496"
+      }
+    },
+    {
+      "filename": "Othello World II - Yume to Michi e no Chousen (Japan) (Track 1).bin",
+      "filesize": 154759248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8849dd459322ee5270bc648e74d413a3",
+        "sha1": "53265c7fee52342e64cde03801614380122d7e27",
+        "crc32": "2d6f2279"
+      }
+    },
+    {
+      "filename": "Othello World II - Yume to Michi e no Chousen (Japan) (Track 2).bin",
+      "filesize": 562664256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f087638f2da2b03babdab47c65f7be6",
+        "sha1": "f8aa32bf5da741cb9b06fd6b04863a6a79740216",
+        "crc32": "234d761a"
+      }
+    }
+  ]
+}

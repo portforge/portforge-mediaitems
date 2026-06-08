@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bass Landing (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bass Landing (Japan) (Demo).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bde9a84680872086f6a47b3a6e7e4abc",
+        "sha1": "2de27891566077ff2f526cdd57e06a1292eb6ea2",
+        "crc32": "9a9d2fc2"
+      }
+    },
+    {
+      "filename": "Bass Landing (Japan) (Demo).bin",
+      "filesize": 372385104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e96930d7fc6173defc141ff617015b4",
+        "sha1": "04bd8b255b16e1595ffb3f92c1066d04a0927157",
+        "crc32": "b99f5764"
+      }
+    }
+  ]
+}

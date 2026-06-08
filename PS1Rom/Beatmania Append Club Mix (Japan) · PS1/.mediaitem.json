@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beatmania Append Club Mix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beatmania Append Club Mix (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3541453c8e7c36ac6f03e4e9f7b39a21",
+        "sha1": "ba2013b5cd310b44138e50eaf3b7ee78a108031a",
+        "crc32": "2fdb75fd"
+      }
+    },
+    {
+      "filename": "Beatmania Append Club Mix (Japan).bin",
+      "filesize": 404424048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4744a78c392e60d119fe614419ac8b72",
+        "sha1": "7bb2711daebea70749a22f27b8f7493c2c7274f2",
+        "crc32": "58e28722"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DX Shachou Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DX Shachou Game (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e96fc62fbc41a4de234255f0e5661fc2",
+        "sha1": "a19d7d6f824327ddbd65a2af1200afb9edb9a6d3",
+        "crc32": "d838a4a8"
+      }
+    },
+    {
+      "filename": "DX Shachou Game (Japan).bin",
+      "filesize": 82644576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "516cbf12e6c60cb5eb06ac4d4ad74ab9",
+        "sha1": "97089b19fdf21ef14ca32f979751e38a1bac0df5",
+        "crc32": "7b2e5646"
+      }
+    }
+  ]
+}

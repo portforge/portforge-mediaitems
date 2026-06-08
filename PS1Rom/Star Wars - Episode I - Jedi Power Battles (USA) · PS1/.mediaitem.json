@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episode I - Jedi Power Battles (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episode I - Jedi Power Battles (USA).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2eb247279b71cccc4e01a5d9a867a196",
+        "sha1": "551cb4ed87affebfaddad0883cc742095912a504",
+        "crc32": "27610b57"
+      }
+    },
+    {
+      "filename": "Star Wars - Episode I - Jedi Power Battles (USA).bin",
+      "filesize": 444361008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8c47818a643c36c9dfbc2c19f0b14a7",
+        "sha1": "f66b701f1226cc59d031b1db5ef6fb1e54231481",
+        "crc32": "f930539b"
+      }
+    }
+  ]
+}

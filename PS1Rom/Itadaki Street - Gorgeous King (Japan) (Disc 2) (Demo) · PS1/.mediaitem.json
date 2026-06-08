@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Itadaki Street - Gorgeous King (Japan) (Disc 2) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Itadaki Street - Gorgeous King (Japan) (Disc 2) (Demo).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c37a5ff4894ed043d9f90de295d12a54",
+        "sha1": "24aa428fe0f95af5793934d3f967800079905ffe",
+        "crc32": "30f6655b"
+      }
+    },
+    {
+      "filename": "Itadaki Street - Gorgeous King (Japan) (Disc 2) (Demo).bin",
+      "filesize": 50088192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05cd5538215cf9e60df5f4c63dc38ea4",
+        "sha1": "77ccc94af9b7d41c58f3e25399a3c80daf61151b",
+        "crc32": "c9d8c99a"
+      }
+    }
+  ]
+}

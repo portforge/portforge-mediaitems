@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blue Breaker Burst - Hohoemi o Anata to (Japan) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blue Breaker Burst - Hohoemi o Anata to (Japan) (Shokai Genteiban).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86d459df5225957c7e65c513c80f7689",
+        "sha1": "187f7ea72208679b8a47a7b24102d01a09f2f0e5",
+        "crc32": "0b0c4d3c"
+      }
+    },
+    {
+      "filename": "Blue Breaker Burst - Hohoemi o Anata to (Japan) (Shokai Genteiban).bin",
+      "filesize": 512524320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd1a0934d4056281acf8749ab0b5dbe4",
+        "sha1": "48cb294349ac0c35e1f9a575a25dd334eff8d178",
+        "crc32": "f141c596"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formula 1 97 (Japan) (En,Ja,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formula 1 97 (Japan) (En,Ja,Fr,De,Es,It).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00e6037d4865f5e00d12b111b766be50",
+        "sha1": "ad698baf413fc48b1741de89bce424c93bea1933",
+        "crc32": "994d93c8"
+      }
+    },
+    {
+      "filename": "Formula 1 97 (Japan) (En,Ja,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 673231776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f28c3ae2268474978671f2e9df1bf75b",
+        "sha1": "5fcd0e1d265df4f3350ea550d0dd2b0a7102b236",
+        "crc32": "54b3ac9f"
+      }
+    },
+    {
+      "filename": "Formula 1 97 (Japan) (En,Ja,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3acdf1a08d047c72e595351fc548900",
+        "sha1": "632cb32ce4c7edd6cd7e2aa88cd2b631f88d5b96",
+        "crc32": "8a322cf1"
+      }
+    }
+  ]
+}

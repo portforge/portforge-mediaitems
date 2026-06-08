@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tantei Jinguuji Saburou - Early Collection (Japan) (Fukyuuban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tantei Jinguuji Saburou - Early Collection (Japan) (Fukyuuban).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cb63935ad84264ce59c69c9ebec44dcf",
+        "sha1": "15107427cb04bc7d0f1d724f4fb859bf9fe93d69",
+        "crc32": "1cb93f8e"
+      }
+    },
+    {
+      "filename": "Tantei Jinguuji Saburou - Early Collection (Japan) (Fukyuuban).bin",
+      "filesize": 532899696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c04aaed456433a4fa7278b6ce6ced06",
+        "sha1": "3169d1f81c66d31e88ab9b785d72baa9a381b70d",
+        "crc32": "7ba1e3ea"
+      }
+    }
+  ]
+}

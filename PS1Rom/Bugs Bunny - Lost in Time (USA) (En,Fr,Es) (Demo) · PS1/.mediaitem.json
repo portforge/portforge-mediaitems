@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bugs Bunny - Lost in Time (USA) (En,Fr,Es) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bugs Bunny - Lost in Time (USA) (En,Fr,Es) (Demo).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "43be2921a41eec1188b6cd57aca3c976",
+        "sha1": "6092308a655c5d1c8f5ec73ae1282a8f93bca77f",
+        "crc32": "38c256dc"
+      }
+    },
+    {
+      "filename": "Bugs Bunny - Lost in Time (USA) (En,Fr,Es) (Demo).bin",
+      "filesize": 97024704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fea60480d640c5055ac9b93dc4b050d",
+        "sha1": "d67a524ab25ef2d9c9c8d425dd27314e305d01cd",
+        "crc32": "a59e93b1"
+      }
+    }
+  ]
+}

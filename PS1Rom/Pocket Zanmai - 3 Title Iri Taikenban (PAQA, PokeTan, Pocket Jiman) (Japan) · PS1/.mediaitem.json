@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pocket Zanmai - 3 Title Iri Taikenban (PAQA, PokeTan, Pocket Jiman) (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pocket Zanmai - 3 Title Iri Taikenban (PAQA, PokeTan, Pocket Jiman) (Japan).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "855d3f9e0ad168ce74cd365ba6a592e5",
+        "sha1": "47ecf4cb26ab089053b8d4ab10e4e67036394785",
+        "crc32": "e2f2fc50"
+      }
+    },
+    {
+      "filename": "Pocket Zanmai - 3 Title Iri Taikenban (PAQA, PokeTan, Pocket Jiman) (Japan).bin",
+      "filesize": 158306064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e7a52725bcef74465d0c32a0a5dfc36",
+        "sha1": "48a56c0393ced079de2f6848c4ecd5191c354198",
+        "crc32": "4c5e636b"
+      }
+    }
+  ]
+}

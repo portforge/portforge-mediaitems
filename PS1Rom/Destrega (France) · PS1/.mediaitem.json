@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Destrega (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Destrega (France).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1e1d96eef79c8e6fda288d9940b357a3",
+        "sha1": "9c9b64e78a02801b30bc07723b8f28e6b9b4e117",
+        "crc32": "9ec5bc98"
+      }
+    },
+    {
+      "filename": "Destrega (France).bin",
+      "filesize": 568360800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "159eca1a676c91dae8bbde8459d3a47d",
+        "sha1": "6d60e232827927b1c601e42ba3849402d31cf8ad",
+        "crc32": "1b198a6c"
+      }
+    }
+  ]
+}

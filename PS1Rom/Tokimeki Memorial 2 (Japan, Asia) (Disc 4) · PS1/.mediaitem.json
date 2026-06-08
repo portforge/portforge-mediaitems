@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 (Japan, Asia) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 (Japan, Asia) (Disc 4).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a31d0401f7373c48afcd06e42dee0470",
+        "sha1": "3ff716b485d9e53fda5a1564a1662093d4daef14",
+        "crc32": "8ca04c84"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 (Japan, Asia) (Disc 4).bin",
+      "filesize": 744814896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30529fd784d770a3c371cf396834e26c",
+        "sha1": "10d5a49fafddb956e9a6f530c7ea67a2353795e3",
+        "crc32": "86e00e24"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyouryuuki - The Reportage Beyond the Sea (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyouryuuki - The Reportage Beyond the Sea (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9847cf402186584930ec3fb59c79d6e3",
+        "sha1": "6beabf58d61a402d4d128f9dc690c60bd82f4634",
+        "crc32": "95bd08ee"
+      }
+    },
+    {
+      "filename": "Hyouryuuki - The Reportage Beyond the Sea (Japan).bin",
+      "filesize": 65086896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d191310256cae66cac0a805cb76c91b3",
+        "sha1": "b14fd40c44f40ffdd0362ff254df8d40d6f373a6",
+        "crc32": "44257b30"
+      }
+    }
+  ]
+}

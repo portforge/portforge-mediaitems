@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 99 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 99 (Europe).cue",
+      "filesize": 557,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a427503345a585b43d8edaee9876f4a2",
+        "sha1": "84b35e08f67e234074a2f168687b3f4cbf3696f3",
+        "crc32": "fc4b8f1f"
+      }
+    },
+    {
+      "filename": "Euro Demo 99 (Europe) (Track 1).bin",
+      "filesize": 492689904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b13f1af04abe4bea50f4d6d86ab8043",
+        "sha1": "fa9dd8690cf07b07c512926b8cf8bb34c14709ab",
+        "crc32": "ced6b561"
+      }
+    },
+    {
+      "filename": "Euro Demo 99 (Europe) (Track 2).bin",
+      "filesize": 11202576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5514c831d084f8f2f6da818cfefb41ec",
+        "sha1": "53dda678cd39e57fa26375ee15f545ea10a49cb2",
+        "crc32": "53ceed39"
+      }
+    },
+    {
+      "filename": "Euro Demo 99 (Europe) (Track 3).bin",
+      "filesize": 11228448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f7335bd338f125cd50b543ffc482662",
+        "sha1": "22340f2855a5cffb38c75a9166882cc18e430385",
+        "crc32": "c081a6ca"
+      }
+    },
+    {
+      "filename": "Euro Demo 99 (Europe) (Track 4).bin",
+      "filesize": 4391184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "529e37be999cd835f75afb62ee144911",
+        "sha1": "7f9a8a78fa2a90748da456e00a466410a2a37c06",
+        "crc32": "3410a9cd"
+      }
+    },
+    {
+      "filename": "Euro Demo 99 (Europe) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

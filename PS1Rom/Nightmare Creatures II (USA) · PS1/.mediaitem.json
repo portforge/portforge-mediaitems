@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nightmare Creatures II (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nightmare Creatures II (USA).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "afba1c62634e3671aea7429b47359211",
+        "sha1": "cc64cacbee4b1a2c1b7eb4dec5341bf6f5d751e9",
+        "crc32": "8bd76712"
+      }
+    },
+    {
+      "filename": "Nightmare Creatures II (USA) (Track 1).bin",
+      "filesize": 610224048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7648f81f2b76d02b9367a5dd8d5495ff",
+        "sha1": "7e9a2196d97bce6e6c05f924a42b30633b45c17e",
+        "crc32": "a3a8072b"
+      }
+    },
+    {
+      "filename": "Nightmare Creatures II (USA) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0f19e333bd2c59ee5b0dfc9b88e0f65",
+        "sha1": "7a4f9a434e2b707f1864f3bc4795508cf54d5494",
+        "crc32": "c87157cf"
+      }
+    }
+  ]
+}

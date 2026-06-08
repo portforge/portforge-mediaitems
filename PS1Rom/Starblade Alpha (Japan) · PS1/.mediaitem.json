@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Starblade Alpha (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Starblade Alpha (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c223d8b2f23dddb3455579b065ce35e2",
+        "sha1": "b41251f9fdbcbb7d0bd234ceffdab3de38dc0850",
+        "crc32": "e505d031"
+      }
+    },
+    {
+      "filename": "Starblade Alpha (Japan).bin",
+      "filesize": 709078608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b30bef69cfe225e96746c6c903986a96",
+        "sha1": "9ca9ac0db107fe509977f99305cb2d9ce8a5de60",
+        "crc32": "3bf25468"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 36 (Europe, Australia) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 36 (Europe, Australia) (Demo).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90fffcc8532bb92412283c09fe41ee36",
+        "sha1": "31b7b521e433d2d80b609b0678ad22aaa128f3ee",
+        "crc32": "ff594d28"
+      }
+    },
+    {
+      "filename": "Euro Demo 36 (Europe, Australia) (Demo) (Track 1).bin",
+      "filesize": 136907568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3b5b0cfb7d2942eb2d9fa158a89569c",
+        "sha1": "2eb6b5cb339e35c40ca57ddf1e13702c158862da",
+        "crc32": "bbccae43"
+      }
+    },
+    {
+      "filename": "Euro Demo 36 (Europe, Australia) (Demo) (Track 2).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

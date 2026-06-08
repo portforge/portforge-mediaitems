@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rascal (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rascal (France) (Demo).cue",
+      "filesize": 446,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ad6872e61e1e9575ec330c8a319da68",
+        "sha1": "801193e59a8ae0d10fdcdeabda92ddd60b0ba42d",
+        "crc32": "4811558b"
+      }
+    },
+    {
+      "filename": "Rascal (France) (Demo) (Track 1).bin",
+      "filesize": 31291008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "083d47463135eee1deb12bddaa16a73b",
+        "sha1": "372d793f4b1b62a0e5803d0a826160913a4ed128",
+        "crc32": "e46daad2"
+      }
+    },
+    {
+      "filename": "Rascal (France) (Demo) (Track 2).bin",
+      "filesize": 2152080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "132ed387fe3c8403f0d345d306b0e061",
+        "sha1": "ef0d3df87cf2fe7c3e6df2dfaf1470e5504a0211",
+        "crc32": "33be0ada"
+      }
+    },
+    {
+      "filename": "Rascal (France) (Demo) (Track 3).bin",
+      "filesize": 2288496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5178dd89ee646a549a356771db39ca8d",
+        "sha1": "bf6e420f757814c722578def2130d3bed2a521cd",
+        "crc32": "6b9cbab0"
+      }
+    },
+    {
+      "filename": "Rascal (France) (Demo) (Track 4).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

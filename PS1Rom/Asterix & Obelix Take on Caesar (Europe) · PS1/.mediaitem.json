@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asterix & Obelix Take on Caesar (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe).cue",
+      "filesize": 1188,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f93330c511176e6456b84b85962c7635",
+        "sha1": "6e1cbe0950017f810e27f78551332a630633a9d4",
+        "crc32": "4f841eaa"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 1).bin",
+      "filesize": 139821696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3a6b15a0efef0e8fb45f5115b40c666",
+        "sha1": "00f8dde48933199f27b2c3040eb308cc6bcf99c7",
+        "crc32": "902bd268"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 2).bin",
+      "filesize": 72051168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1d39d8a76d6a58f0de532e97352824f",
+        "sha1": "2fd789cb0100300bf4ab65ba1e018e76c8091a8d",
+        "crc32": "b6e6893f"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 3).bin",
+      "filesize": 31617936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16fad135452e1ccffaaae33bd0c354ad",
+        "sha1": "7724abe4d7ee1434062e067b66e0438666698f54",
+        "crc32": "85a4da5a"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 4).bin",
+      "filesize": 38429328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ec6fca5d30984efcfe1a8cd18e03525",
+        "sha1": "e35d827fcf7605c79583c7dff3ab9f41b5ea190c",
+        "crc32": "3bd38799"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 5).bin",
+      "filesize": 18173904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed85dd63d4398c439861ece4e9dd5ee8",
+        "sha1": "eab9921b1d46e0e15fcf055a8c8c3a6419f36496",
+        "crc32": "bf02819f"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 6).bin",
+      "filesize": 36877008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5be99fab0a5c633e37b854e09a306eb",
+        "sha1": "9ff41afd64a12dc037c38c67f2e33b95c30a4a82",
+        "crc32": "1c74c52d"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 7).bin",
+      "filesize": 36503040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0adee6d4a3eec7f184c25082db9022e",
+        "sha1": "f015ad3165b33286d4f70e4d1f19e7e99759539d",
+        "crc32": "ef2ac671"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 8).bin",
+      "filesize": 31486224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fbf8897cb4af8b1fec558ba647729f4",
+        "sha1": "db75192e02f328a63519eafae6f22bff0fe29b80",
+        "crc32": "9e0f3bd6"
+      }
+    },
+    {
+      "filename": "Asterix & Obelix Take on Caesar (Europe) (Track 9).bin",
+      "filesize": 31735536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3263bc55d8ebcf2e252fb6d949d05990",
+        "sha1": "47764065b37fe05d710a14b7943c3d3c96d3304c",
+        "crc32": "8ad5f3bf"
+      }
+    }
+  ]
+}

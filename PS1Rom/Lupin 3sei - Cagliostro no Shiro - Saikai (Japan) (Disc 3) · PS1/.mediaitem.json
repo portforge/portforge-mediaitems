@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae0d6eced829e6b95deee81e3a591050",
+        "sha1": "75c64879f66b2f431a3dd93de7be3b725043e6f2",
+        "crc32": "dac84ce5"
+      }
+    },
+    {
+      "filename": "Lupin 3sei - Cagliostro no Shiro - Saikai (Japan) (Disc 3).bin",
+      "filesize": 616821408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6aa310862895f39e2cdc72fcc1851724",
+        "sha1": "1193ad806d23f7213b087b442edeba87bc03271a",
+        "crc32": "d74605a2"
+      }
+    }
+  ]
+}

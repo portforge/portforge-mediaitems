@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9abb594aa32fab0ec585757e2f03bb3",
+        "sha1": "6021a94ec647b5114af5347ad663db605f7917bc",
+        "crc32": "2a1b3ba8"
+      }
+    },
+    {
+      "filename": "Lucky Luke - Western Fever (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 597650256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c04def633121b8e01a2ee791034f286c",
+        "sha1": "e2d86ddc2ff4020b1a6604d760198290091cbe11",
+        "crc32": "03438c39"
+      }
+    }
+  ]
+}

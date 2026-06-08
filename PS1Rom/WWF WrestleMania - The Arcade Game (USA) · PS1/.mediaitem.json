@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WWF WrestleMania - The Arcade Game (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WWF WrestleMania - The Arcade Game (USA).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "58421329b5d50d605d2761961de371f3",
+        "sha1": "f4494c502fd40b85a9affd45d55500aaecb6708c",
+        "crc32": "f127ea3d"
+      }
+    },
+    {
+      "filename": "WWF WrestleMania - The Arcade Game (USA).bin",
+      "filesize": 135178848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e90773e6c4757cabdc4955fabbf546d",
+        "sha1": "0b967032bbed274ec0c479b6c7ce5f828227f0f0",
+        "crc32": "071283e6"
+      }
+    }
+  ]
+}

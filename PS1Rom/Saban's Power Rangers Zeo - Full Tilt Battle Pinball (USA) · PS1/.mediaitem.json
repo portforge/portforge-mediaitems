@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).cue",
+      "filesize": 286,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ac780f7d347619fbaf06d8716e237f9",
+        "sha1": "2b5ba95a3748d044df01ac1975a8be993496e3f5",
+        "crc32": "f30d0c51"
+      }
+    },
+    {
+      "filename": "Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA) (Track 1).bin",
+      "filesize": 280144368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4eec42a7ae0d21d55a29245ad023f3a",
+        "sha1": "d8aba070e936335e082c68fdf640b811b4703c6c",
+        "crc32": "e2a58fb3"
+      }
+    },
+    {
+      "filename": "Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA) (Track 2).bin",
+      "filesize": 37406208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edf08de36bdbe922423c933f72966d34",
+        "sha1": "4fb55d307d957b614c8eb62690d922de362caedb",
+        "crc32": "871612b1"
+      }
+    }
+  ]
+}

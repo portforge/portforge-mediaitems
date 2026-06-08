@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Science Is Elementary 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Science Is Elementary 2 (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "70b53c6f6c3d33792e40f1eafe064af5",
+        "sha1": "ce1b0bb7758e2ec8755c59da34903626401e5f26",
+        "crc32": "c169a95a"
+      }
+    },
+    {
+      "filename": "Science Is Elementary 2 (USA).bin",
+      "filesize": 460672128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a334ed7bb9dff584cbba107ff011c9a",
+        "sha1": "3ab709dc6c1cb3d63fca41b1b5d12c8fbfea138a",
+        "crc32": "4ef06c91"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Samurai Shodown - Warriors Rage (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Samurai Shodown - Warriors Rage (USA).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59988733a293fac0b116ba4c65eea365",
+        "sha1": "a871caadbee81177b2959868a5e72c30f91ec0fe",
+        "crc32": "d9e15d67"
+      }
+    },
+    {
+      "filename": "Samurai Shodown - Warriors Rage (USA).bin",
+      "filesize": 742959168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23a74626058ce451bfb304f35de9cdc0",
+        "sha1": "b2f674a8af04a5f8cc1b2ff3ca95d55e9577c92e",
+        "crc32": "cd01fe4b"
+      }
+    }
+  ]
+}

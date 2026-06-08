@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DoDonPachi (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DoDonPachi (Japan) (Demo).cue",
+      "filesize": 1542,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1c27557c86abe0596979bea3c4664390",
+        "sha1": "639c0da5d9f87bf04e07235ae4b5e915b3ea8e4b",
+        "crc32": "340c7c33"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 01).bin",
+      "filesize": 13133568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9a60cf59622593210842daacfee02ff",
+        "sha1": "d51b3953bb9c393a2557ac61e518b2e9769d22f3",
+        "crc32": "8d25f2ba"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 02).bin",
+      "filesize": 65028096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2896e09f4446dcfab184cdd78a41669",
+        "sha1": "13b168ad91d2f55118b8d12eccd19402c0c25104",
+        "crc32": "5feee158"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 03).bin",
+      "filesize": 69162912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43889282339b866f836d6bb9c39caff1",
+        "sha1": "e9f48a41f4aa036da185045de6152b4234b3efd1",
+        "crc32": "0ecc2a38"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 04).bin",
+      "filesize": 2272032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26eac0bd0171be0b40744a91130c74fb",
+        "sha1": "059e8407242687adb0cfb8f9e2c287c2758141e9",
+        "crc32": "c25395f5"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 05).bin",
+      "filesize": 9720816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faaed44af8b28bedff9be6841f5845ec",
+        "sha1": "f41bf42369fa753164bbee49614d7d95b1c445f9",
+        "crc32": "2d944988"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 06).bin",
+      "filesize": 17127264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d92373ac3e677ddeb8dd8c648e088a15",
+        "sha1": "6ba7c9b5d624c712e6123f7fb8f7aa683f285b9a",
+        "crc32": "d9bcd4c4"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 07).bin",
+      "filesize": 75139344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96b61878dbcd4404a7f86947b37e06c0",
+        "sha1": "913988b0e4014204663279596b591faa662fcd66",
+        "crc32": "dc7ed6e6"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 08).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5db60e8eae266c63475250c2781d440",
+        "sha1": "39cbc5a784387f3d26f40a84ae59bec9db5f68c7",
+        "crc32": "c8138446"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 09).bin",
+      "filesize": 24265584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8498eb0efca1547219e832e3f8ae97c8",
+        "sha1": "38990739d7e353ab883a72375b5d30ebb5b899c7",
+        "crc32": "40e8f030"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 10).bin",
+      "filesize": 66385200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cc36fd7053bf04713b00d80a3221d67",
+        "sha1": "d5b0c4077e35980ee634a38c37908ddf0fb9c586",
+        "crc32": "a30e7487"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 11).bin",
+      "filesize": 15560832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea12e97aa1f178195d3355983083fe6e",
+        "sha1": "52bec4e3ccb8916f209c1ad3312a51dad73cd6e2",
+        "crc32": "6497e787"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 12).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    },
+    {
+      "filename": "DoDonPachi (Japan) (Demo) (Track 13).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

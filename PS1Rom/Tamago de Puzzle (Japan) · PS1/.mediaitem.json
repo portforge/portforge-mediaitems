@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tamago de Puzzle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tamago de Puzzle (Japan).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a229886b04f208237d56c99abec9c95c",
+        "sha1": "6b1c9ce5f9feb2270fcbad2173c945b5278cf96f",
+        "crc32": "5c130655"
+      }
+    },
+    {
+      "filename": "Tamago de Puzzle (Japan) (Track 1).bin",
+      "filesize": 577218432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b3c0c829fcaab8bd7c0a7af2cde3212",
+        "sha1": "4430cfbb5bd4fba6eff1c65de289a3e1dbc33d41",
+        "crc32": "3ea01a5e"
+      }
+    },
+    {
+      "filename": "Tamago de Puzzle (Japan) (Track 2).bin",
+      "filesize": 34028736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "663bbb2df3fb18d41a3a9386dd8869c9",
+        "sha1": "81ab3dc7cc6c495ab422b493da4445d4be556827",
+        "crc32": "15ac32d2"
+      }
+    }
+  ]
+}

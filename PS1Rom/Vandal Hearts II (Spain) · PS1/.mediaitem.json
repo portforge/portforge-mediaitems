@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vandal Hearts II (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vandal Hearts II (Spain).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0fe2dcea9b9dd050c90a08fe5a596ea6",
+        "sha1": "5f4d8e4282f53f61689ff3cde695cb5eeb685632",
+        "crc32": "32a94bc7"
+      }
+    },
+    {
+      "filename": "Vandal Hearts II (Spain).bin",
+      "filesize": 287437920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1f8ad130c26dfd05804576090821af8",
+        "sha1": "bee873c813b01960c44bf35df7b25a22854ad49e",
+        "crc32": "b3291ca9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pocket Dungeon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pocket Dungeon (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "147f665522f556bd1258e43c09d7badd",
+        "sha1": "e48bb311134dfd5fc4903bb4c47b999ab171fe44",
+        "crc32": "36e94d39"
+      }
+    },
+    {
+      "filename": "Pocket Dungeon (Japan) (Track 1).bin",
+      "filesize": 189658224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ed1f06bd4e8f9c2d14d9a0048b249cd",
+        "sha1": "1c70f7f37b5b51bba3d5997fef032ee1fa083d9e",
+        "crc32": "44d42ff7"
+      }
+    },
+    {
+      "filename": "Pocket Dungeon (Japan) (Track 2).bin",
+      "filesize": 47957280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c26dafcf1528baace69b27219f7eb8c",
+        "sha1": "1ce98f749e0f4fecb6bb655060451c0d5b59dc30",
+        "crc32": "60f0449a"
+      }
+    }
+  ]
+}

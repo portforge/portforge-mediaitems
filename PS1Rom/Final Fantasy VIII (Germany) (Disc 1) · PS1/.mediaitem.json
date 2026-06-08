@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VIII (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VIII (Germany) (Disc 1).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5c69daf2b5c87d62c3ecbe4fa0ccc096",
+        "sha1": "5c7eb784a2e1e7ba1ceb83ab1893ba7f6172e7ca",
+        "crc32": "e53aa673"
+      }
+    },
+    {
+      "filename": "Final Fantasy VIII (Germany) (Disc 1).bin",
+      "filesize": 732344592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cdcc6e178faba38e576484024385a03",
+        "sha1": "0f8cb71b36b280cb103578149aa7f08e91145d8a",
+        "crc32": "af74d8b7"
+      }
+    }
+  ]
+}

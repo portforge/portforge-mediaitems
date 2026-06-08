@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vem vill bli Miljonaer (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vem vill bli Miljonaer (Sweden).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0683ff3a95538fc049130a9dadfa694f",
+        "sha1": "3b77fc01e7d25cae1ebd754fe3dc360efa48a8fa",
+        "crc32": "b741c575"
+      }
+    },
+    {
+      "filename": "Vem vill bli Miljonaer (Sweden).bin",
+      "filesize": 368701872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6501fd07f12185850cd73a0dbc6fe10d",
+        "sha1": "d616e6ca5d269436ddc145c159cfd400c47f55a8",
+        "crc32": "7c2ef54c"
+      }
+    }
+  ]
+}

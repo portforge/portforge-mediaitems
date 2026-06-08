@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Starlight Scramble - Ren'ai Kouhosei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Starlight Scramble - Ren'ai Kouhosei (Japan).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf18e5a435c57cbd50fbafc0f624676a",
+        "sha1": "2b0b460dd9147add96429ace03ed6d1fcf415653",
+        "crc32": "e63860e1"
+      }
+    },
+    {
+      "filename": "Starlight Scramble - Ren'ai Kouhosei (Japan) (Track 1).bin",
+      "filesize": 486386544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a92db77fd41d5d211ee88f862e5ea9f7",
+        "sha1": "4954cadc50d9d262f8607121e1163a2848ad6d5b",
+        "crc32": "f642f498"
+      }
+    },
+    {
+      "filename": "Starlight Scramble - Ren'ai Kouhosei (Japan) (Track 2).bin",
+      "filesize": 33433680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1252fbfa5c407f8146fac0c56acd87e",
+        "sha1": "c92f73b073327ddf7839fa1357c745352f1f6fd5",
+        "crc32": "6c02eaac"
+      }
+    }
+  ]
+}

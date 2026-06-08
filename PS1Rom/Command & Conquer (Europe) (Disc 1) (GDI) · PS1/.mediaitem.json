@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer (Europe) (Disc 1) (GDI)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer (Europe) (Disc 1) (GDI).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3715d428749df446bb4e294a68124328",
+        "sha1": "5877e0e3208cbe680ea7da7ac6e904f2366233d8",
+        "crc32": "60375166"
+      }
+    },
+    {
+      "filename": "Command & Conquer (Europe) (Disc 1) (GDI).bin",
+      "filesize": 735616224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "471b07de60bd856ecaf9f54aedf9709d",
+        "sha1": "372615362432e730b06454f412567ab1dca1603e",
+        "crc32": "5e8bd7c1"
+      }
+    }
+  ]
+}

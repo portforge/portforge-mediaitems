@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bomberman Fantasy Race (Europe) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bomberman Fantasy Race (Europe) (En,Fr,De,Es).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb28aa4c71545d5845aa65ed0d0fdced",
+        "sha1": "772b94eaf89fe85f420f5f8774179eff762a4d44",
+        "crc32": "b890327a"
+      }
+    },
+    {
+      "filename": "Bomberman Fantasy Race (Europe) (En,Fr,De,Es).bin",
+      "filesize": 267206016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fad5e8cccac33cc6f07bd7104b5e5b2",
+        "sha1": "9c9b4f824ee293fc9636de756516fc20930e9e9c",
+        "crc32": "04de5149"
+      }
+    }
+  ]
+}

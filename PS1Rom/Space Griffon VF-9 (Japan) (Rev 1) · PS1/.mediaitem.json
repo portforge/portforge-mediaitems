@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Griffon VF-9 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Griffon VF-9 (Japan) (Rev 1).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "266bea8e6e82b9fa4c84c3f7e4ac5901",
+        "sha1": "3308054606796735a1becf7d06843196c0e6c2a3",
+        "crc32": "0ba4fd86"
+      }
+    },
+    {
+      "filename": "Space Griffon VF-9 (Japan) (Rev 1) (Track 1).bin",
+      "filesize": 510181728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4919cae7b1483aeeaa23d4d90b34d340",
+        "sha1": "1ace972ca1275273517a0631a3bd0994b7959633",
+        "crc32": "670c59c0"
+      }
+    },
+    {
+      "filename": "Space Griffon VF-9 (Japan) (Rev 1) (Track 2).bin",
+      "filesize": 25140528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d1351194fa5af307cd6f9cbe4e07295",
+        "sha1": "5cf6cfd1a246bba07aae2a5deadd02c724eed4cf",
+        "crc32": "90c459a8"
+      }
+    }
+  ]
+}

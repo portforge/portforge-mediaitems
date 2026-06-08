@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mary-Kate and Ashley - Winners Circle (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mary-Kate and Ashley - Winners Circle (Europe).cue",
+      "filesize": 262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69219f8e745bd9d7cd3d57392c83384d",
+        "sha1": "2c3c8e9a470e4548c05a0b7a409faf3a9f0bd176",
+        "crc32": "3694e6a4"
+      }
+    },
+    {
+      "filename": "Mary-Kate and Ashley - Winners Circle (Europe) (Track 1).bin",
+      "filesize": 220561152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "595ae09790aaf8f703bf4d2a00f01784",
+        "sha1": "53b08bb8d435d09a9a54d1a534390a9d8daaea8f",
+        "crc32": "fa104a26"
+      }
+    },
+    {
+      "filename": "Mary-Kate and Ashley - Winners Circle (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

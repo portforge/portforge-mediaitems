@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo - The Quest for the Sunstones (Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo - The Quest for the Sunstones (Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "46ddd98f9851fc6ded8e6e7b8cc9ec45",
+        "sha1": "34dc17289f45b143ffcef02a7f223209059636fd",
+        "crc32": "c737213b"
+      }
+    },
+    {
+      "filename": "Hugo - The Quest for the Sunstones (Europe) (En,Fr,De,Es,It,Pt,Sv,No,Da,Fi).bin",
+      "filesize": 486388896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4736aaadaf2bc4bfb539633d138290cc",
+        "sha1": "57e1c50b958ce3f54d4892e6fbdb6059e3572f49",
+        "crc32": "f519fa20"
+      }
+    }
+  ]
+}

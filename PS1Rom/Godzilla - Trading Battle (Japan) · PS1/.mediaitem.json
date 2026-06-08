@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Godzilla - Trading Battle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Godzilla - Trading Battle (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "632993f09d12febd30d26d139d777004",
+        "sha1": "496c8497cd2bf534f326e6bceeaf230c90cc2265",
+        "crc32": "8173614c"
+      }
+    },
+    {
+      "filename": "Godzilla - Trading Battle (Japan).bin",
+      "filesize": 292788720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c39da7bc75cbdef116114ed6eb2123d",
+        "sha1": "085ed9b6ec7c26597d0c91813d04c9df759d4d7f",
+        "crc32": "335081c4"
+      }
+    }
+  ]
+}

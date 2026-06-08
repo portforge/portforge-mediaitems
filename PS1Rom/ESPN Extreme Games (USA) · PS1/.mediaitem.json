@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ESPN Extreme Games (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ESPN Extreme Games (USA).cue",
+      "filesize": 788,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f3ee39b9138df0438f3e174e8a78f57d",
+        "sha1": "e7d9b7ab5bff8a5e64401e8cb4d2ec5f4225b85a",
+        "crc32": "25af3649"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 1).bin",
+      "filesize": 217026096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30affebacd10a8dda1336fb3b5fd09b0",
+        "sha1": "7559572b9990c8651c40f054b9c3f39585445bf7",
+        "crc32": "ab6bcfa4"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 2).bin",
+      "filesize": 59858400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c15996314b8ff0ccefb6814d23a5b31f",
+        "sha1": "29d6dba886abab3b615055a73dcd3497ae89ed3d",
+        "crc32": "0c978917"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 3).bin",
+      "filesize": 48081936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d44b1825f6fba4b9d0eca01970657568",
+        "sha1": "568805d3f19fda23656e37f55e39f3860c5d5149",
+        "crc32": "491b90e0"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 4).bin",
+      "filesize": 66015936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc4913b09d47dc47565673c3094deace",
+        "sha1": "64196804a33109b30670721840e837b781a223cf",
+        "crc32": "bccb9158"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 5).bin",
+      "filesize": 54105408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5da9100b0b1ffcdf344149c9ffbce5b5",
+        "sha1": "70b52acbd30eb390f2a56e0f3993dbac40ab2b25",
+        "crc32": "b913df09"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 6).bin",
+      "filesize": 66867360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce995531a48e85e9267ff40fefd6602c",
+        "sha1": "1fa04d4d0e3f75a50b4e7764e6c065dbf7693b49",
+        "crc32": "0cf53577"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 7).bin",
+      "filesize": 63035952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f8b7185a903f51c238fbb92cf93c265",
+        "sha1": "08493746c51b816f66fc4a82707162a9a8a756bf",
+        "crc32": "f1c76b88"
+      }
+    },
+    {
+      "filename": "ESPN Extreme Games (USA) (Track 8).bin",
+      "filesize": 63035952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f8b7185a903f51c238fbb92cf93c265",
+        "sha1": "08493746c51b816f66fc4a82707162a9a8a756bf",
+        "crc32": "f1c76b88"
+      }
+    }
+  ]
+}

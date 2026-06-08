@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1).cue",
+      "filesize": 846,
+      "ext": "cue",
+      "checksums": {
+        "md5": "475a7eb0408b07f35f6b7b3895bfe567",
+        "sha1": "ebf072a37848c79ac8a2f3ae0599ddd4b36777ff",
+        "crc32": "a7b63645"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1) (Track 1).bin",
+      "filesize": 670418784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "795c5b10f14a6033681975d311258842",
+        "sha1": "751fc68fb48e9aa0b10d38566dc2d03caf5d4d41",
+        "crc32": "782133fa"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1) (Track 2).bin",
+      "filesize": 28386288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d88f6e35e93ef5f012ed9aba7934cbc",
+        "sha1": "7d67c9ca5c6961f89d3e2beb1c6e0750923b7fbe",
+        "crc32": "c980d46c"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1) (Track 3).bin",
+      "filesize": 20349504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6897c7003d21d478cce671142827840",
+        "sha1": "55eef285d51fc96c13aa579a0bcc2a3eae387d4c",
+        "crc32": "8219081c"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1) (Track 4).bin",
+      "filesize": 11625936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c2253773e248aea18f218417b10775f",
+        "sha1": "ab563444dbdae638bdd045b6ef997e50c8596bec",
+        "crc32": "c72df971"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1) (Track 5).bin",
+      "filesize": 1331232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2772593ad1d463fc1136e799884a2f7",
+        "sha1": "a7824841ce0fd60a2cac7a81faf75a6084299b0a",
+        "crc32": "6c7a0b09"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disc Volume 7 (USA) (Rev 1) (Track 6).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

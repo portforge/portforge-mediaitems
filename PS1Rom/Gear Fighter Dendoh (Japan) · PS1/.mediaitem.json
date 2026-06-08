@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gear Fighter Dendoh (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gear Fighter Dendoh (Japan).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb2ac1f661340e34b2c8457f1e8015de",
+        "sha1": "6a7c6c491d4060e925f83df682e37c75652ad9f3",
+        "crc32": "d579ef79"
+      }
+    },
+    {
+      "filename": "Gear Fighter Dendoh (Japan) (Track 1).bin",
+      "filesize": 105560112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cfae8abf5f270e6351666b8ce2fb26e",
+        "sha1": "6d38343c45fdc750cff8e3ec931a894aae41f615",
+        "crc32": "0a7bf552"
+      }
+    },
+    {
+      "filename": "Gear Fighter Dendoh (Japan) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

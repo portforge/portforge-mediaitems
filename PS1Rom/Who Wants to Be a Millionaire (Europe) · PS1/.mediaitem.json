@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Who Wants to Be a Millionaire (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Who Wants to Be a Millionaire (Europe).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "edb5aef2d1f67251d0a789e98391cf93",
+        "sha1": "e9d9f83b0a8055ba022d2b5f049a60c65ec9c50a",
+        "crc32": "45a5e931"
+      }
+    },
+    {
+      "filename": "Who Wants to Be a Millionaire (Europe).bin",
+      "filesize": 343918848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ab98d5df6f93b06810c6949172bd899",
+        "sha1": "a75f94ade9438cc4aac1116fb50441cc2ccad764",
+        "crc32": "86def785"
+      }
+    }
+  ]
+}

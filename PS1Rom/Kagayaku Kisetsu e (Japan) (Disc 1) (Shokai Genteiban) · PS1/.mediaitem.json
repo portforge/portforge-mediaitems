@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kagayaku Kisetsu e (Japan) (Disc 1) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kagayaku Kisetsu e (Japan) (Disc 1) (Shokai Genteiban).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d87f6020dad5eea70f0cc025ed069040",
+        "sha1": "fdd64df87e6fd03ac4dc2641a4f8be6cc507417d",
+        "crc32": "3e274597"
+      }
+    },
+    {
+      "filename": "Kagayaku Kisetsu e (Japan) (Disc 1) (Shokai Genteiban).bin",
+      "filesize": 731344992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b89505e5a08bd58f7098b23a26c40056",
+        "sha1": "8a690c579ed392a7afc7a1ed2ece335e42447bf7",
+        "crc32": "7735054b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Test Drive 5 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Test Drive 5 (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ca8ffae6f8ff7871f2f0d61c00917c71",
+        "sha1": "5d2b0a546c1a01ead94c11bae580356ba1d2cc23",
+        "crc32": "58541896"
+      }
+    },
+    {
+      "filename": "Test Drive 5 (USA).bin",
+      "filesize": 716452128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "130321865b5c4072f1f27d04ed562f04",
+        "sha1": "695942dcaf259144b0910377c4a7d17f2ed018f5",
+        "crc32": "50b90527"
+      }
+    }
+  ]
+}

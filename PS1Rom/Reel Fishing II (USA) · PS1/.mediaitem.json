@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Reel Fishing II (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Reel Fishing II (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "81caae55e02988e83d5c8593715ade40",
+        "sha1": "359e5f1f148791de9ab390d97279f45de3fd0e21",
+        "crc32": "1dba666a"
+      }
+    },
+    {
+      "filename": "Reel Fishing II (USA).bin",
+      "filesize": 348065424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fea75cb2bba79e06520e6780eaa37b57",
+        "sha1": "8329cb44b4aa93ebbc8397e57986e79d9f2fd173",
+        "crc32": "9e08c588"
+      }
+    }
+  ]
+}

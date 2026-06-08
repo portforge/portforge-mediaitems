@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Neon Genesis Evangelion - Original Screen Saver (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Neon Genesis Evangelion - Original Screen Saver (Japan).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e659b920170cd46f97a622877503567",
+        "sha1": "c6d8bf68c2f3871a64c844eaf5ebb7e4801dc81d",
+        "crc32": "9375c4e3"
+      }
+    },
+    {
+      "filename": "Neon Genesis Evangelion - Original Screen Saver (Japan).bin",
+      "filesize": 46915344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b3c1f4bfa05decc2fb81caaa09b5000",
+        "sha1": "132325eb5fbf5a130f1b073ebe4f2ba5b86eb52a",
+        "crc32": "5905d2c3"
+      }
+    }
+  ]
+}

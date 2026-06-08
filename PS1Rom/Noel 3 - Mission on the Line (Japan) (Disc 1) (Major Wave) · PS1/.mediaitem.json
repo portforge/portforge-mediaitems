@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Noel 3 - Mission on the Line (Japan) (Disc 1) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Noel 3 - Mission on the Line (Japan) (Disc 1) (Major Wave).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59a41c222a1c5f7f678689b541a1b9e7",
+        "sha1": "5aa7c25e19e30859c6faf680385fd0575b40c67d",
+        "crc32": "6beffca1"
+      }
+    },
+    {
+      "filename": "Noel 3 - Mission on the Line (Japan) (Disc 1) (Major Wave).bin",
+      "filesize": 689580528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04d5a284a5be8add7a6ab12991674158",
+        "sha1": "adbcc823b8553cdbd2cc9c29939ebb8de5813387",
+        "crc32": "0eec5105"
+      }
+    }
+  ]
+}

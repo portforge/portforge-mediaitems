@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro 2 - Ripto's Rage! (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro 2 - Ripto's Rage! (USA) (Demo).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f9e76345f5805a3d5fa275eb9ede9f7",
+        "sha1": "fab8136a37c23c606420fe3aa7e5fad1e2cef136",
+        "crc32": "67e7cffd"
+      }
+    },
+    {
+      "filename": "Spyro 2 - Ripto's Rage! (USA) (Demo) (Track 1).bin",
+      "filesize": 110341728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9cd04da79529adf21712158565cdf055",
+        "sha1": "4e8b7cd677c4e73ea87f0e439af15afed83a98ca",
+        "crc32": "d4685fa2"
+      }
+    },
+    {
+      "filename": "Spyro 2 - Ripto's Rage! (USA) (Demo) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

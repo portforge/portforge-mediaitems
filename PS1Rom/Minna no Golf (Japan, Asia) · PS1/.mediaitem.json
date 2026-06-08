@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Minna no Golf (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Minna no Golf (Japan, Asia).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0897f09c55483146f3929961162d32ad",
+        "sha1": "2ba53b29ad9ec39180f4adb035ab5eff5ab2cd33",
+        "crc32": "a92de2bf"
+      }
+    },
+    {
+      "filename": "Minna no Golf (Japan, Asia).bin",
+      "filesize": 303610272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "426588457d8743d061d57481c3aed5d2",
+        "sha1": "c8701d7422b102a14c2375f3fb4646f70f1075a9",
+        "crc32": "6db6538c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2005 (Europe) (En,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2005 (Europe) (En,Nl).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "edba2c46d3f2572d1157b6781eea9502",
+        "sha1": "f9af18ca5e2fd29f08dd4c0c30a5fb324d57e367",
+        "crc32": "7809787a"
+      }
+    },
+    {
+      "filename": "FIFA Football 2005 (Europe) (En,Nl).bin",
+      "filesize": 583455936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "062c5adf98e7620f0f185c39f7672f75",
+        "sha1": "bf795aeb1489e66564173803d86c91994bde563d",
+        "crc32": "3d81b915"
+      }
+    }
+  ]
+}

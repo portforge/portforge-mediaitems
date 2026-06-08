@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "XS Junior League Football (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "XS Junior League Football (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89108be493e1db6628395ad6df39b2b8",
+        "sha1": "c8a20d378e39f6bbe2be995c2a8d995d90c67de0",
+        "crc32": "0252bd55"
+      }
+    },
+    {
+      "filename": "XS Junior League Football (USA).bin",
+      "filesize": 221746560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4810e82ccecce29ff71c73b613892b3",
+        "sha1": "386f3a6fc68e000bd265fa9a1053fd49d140ed98",
+        "crc32": "6150bfc1"
+      }
+    }
+  ]
+}

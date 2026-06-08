@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heart of Darkness (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heart of Darkness (USA) (Disc 2).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fdc31ebc02cab25146e5b728c5d4b26",
+        "sha1": "efd433e06abc2afcbf2d6ee6448a135064975299",
+        "crc32": "10197f92"
+      }
+    },
+    {
+      "filename": "Heart of Darkness (USA) (Disc 2).bin",
+      "filesize": 691664400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6144d1d79507f3fb66ecfc9849ebc8ad",
+        "sha1": "02eab81fc5fa1bee536b28e08df40c5f9371b7b9",
+        "crc32": "db169825"
+      }
+    }
+  ]
+}

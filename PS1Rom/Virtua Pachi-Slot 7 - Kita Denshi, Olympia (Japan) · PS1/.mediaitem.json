@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan).cue",
+      "filesize": 990,
+      "ext": "cue",
+      "checksums": {
+        "md5": "06b33dd9a3419119cf756c9cce019008",
+        "sha1": "65fabf2faa37bb95221d38fcadcfda1cc7676c9f",
+        "crc32": "e11cec63"
+      }
+    },
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan) (Track 1).bin",
+      "filesize": 7117152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40031dcbaf7c242fa0adca388816e5c5",
+        "sha1": "cd6195d7b86713145e7f4d421f6b7dbcd6029706",
+        "crc32": "28842d33"
+      }
+    },
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan) (Track 2).bin",
+      "filesize": 28113456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "184742be1035f6829e7c05dcb04c129e",
+        "sha1": "bb6a8c1fe65bc6f3644af9f325602fe5ea1c0e4e",
+        "crc32": "fe690008"
+      }
+    },
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan) (Track 3).bin",
+      "filesize": 23679936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b012cf3999ffc59f0583ffeef99bc35",
+        "sha1": "7a204354d1e4a54c9d226528b6e3e0dd5804cb64",
+        "crc32": "677f4cc7"
+      }
+    },
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan) (Track 4).bin",
+      "filesize": 25500384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bcd53ae5471a9ce4c327d05e5e00e7b7",
+        "sha1": "782c2c11428336d09976bb394e30537e29cdb665",
+        "crc32": "5be755be"
+      }
+    },
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan) (Track 5).bin",
+      "filesize": 37323888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88fe7391c640dda0ec200f387e1999b4",
+        "sha1": "1ad7ab61d54f090e91fd7bad908c1a3694c46ee9",
+        "crc32": "769fc819"
+      }
+    },
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan) (Track 6).bin",
+      "filesize": 32949168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f024ccc122e4431efe0b045218645262",
+        "sha1": "ef9fc62a2de874124abe0c43e093fef1268ce4f6",
+        "crc32": "6bc045cf"
+      }
+    },
+    {
+      "filename": "Virtua Pachi-Slot 7 - Kita Denshi, Olympia (Japan) (Track 7).bin",
+      "filesize": 38845632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd6450f5606a31c84d9f9c9b7dd1a13c",
+        "sha1": "f406ba16c1ba2f0147d15a8d728b0d7b93bee42a",
+        "crc32": "5b21ddc0"
+      }
+    }
+  ]
+}

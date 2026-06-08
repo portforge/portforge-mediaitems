@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter EX2 Plus (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter EX2 Plus (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3efb543a6a24b3171705a37df6c9d251",
+        "sha1": "eb08aadf3dde1f0d50785337696bb7528c2d9e76",
+        "crc32": "9c29aecb"
+      }
+    },
+    {
+      "filename": "Street Fighter EX2 Plus (USA).bin",
+      "filesize": 447124608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6058af65fa68f2fbe0b49f41106c0c71",
+        "sha1": "11fec42e8f588cac0f51461ea8a67969488f8f0b",
+        "crc32": "1da1e361"
+      }
+    }
+  ]
+}

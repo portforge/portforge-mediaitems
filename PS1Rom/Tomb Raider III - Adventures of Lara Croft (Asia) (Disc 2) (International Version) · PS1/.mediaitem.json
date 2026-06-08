@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 2) (International Version)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 2) (International Version).cue",
+      "filesize": 148,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f20bef795a91f9badb08539f38391644",
+        "sha1": "947ea7f56132c631b47b54fe348e171a4c9e2999",
+        "crc32": "7bc6f4c2"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 2) (International Version).bin",
+      "filesize": 698626320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db8da3804ec37e814fdfad2fbd4d7fa2",
+        "sha1": "ed864373074519d15434381139d7faa83abdd82e",
+        "crc32": "d72d33ab"
+      }
+    }
+  ]
+}

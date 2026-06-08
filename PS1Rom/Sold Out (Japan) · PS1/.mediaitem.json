@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sold Out (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sold Out (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf0d2be0763de23f092fa386cfc45928",
+        "sha1": "be04ba6691e53afb9989c0184d9777daf4e3576a",
+        "crc32": "eccb70b7"
+      }
+    },
+    {
+      "filename": "Sold Out (Japan).bin",
+      "filesize": 553063392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af2e213afb53c08237da44e4b9c9c553",
+        "sha1": "2cb61a5052c039d7f742b8bb58817146302e75c1",
+        "crc32": "79e107ef"
+      }
+    }
+  ]
+}

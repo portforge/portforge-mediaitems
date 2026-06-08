@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Championship Surfer (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Championship Surfer (USA).cue",
+      "filesize": 1302,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60dc8a6c6d0293c3679068b0bb1cf540",
+        "sha1": "e761c7293d368542ab545a22ca31315b6149759e",
+        "crc32": "c0f9b736"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 01).bin",
+      "filesize": 96262656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed78da976518ee949ecc8bae9c31926d",
+        "sha1": "cbb5c3f8529ba10801709b21ae21003c27ff7409",
+        "crc32": "2ade8041"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 02).bin",
+      "filesize": 23249520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db4f4d70c2084d77290ef4dcfa6eeef5",
+        "sha1": "09c65cc4907cfa587975e63a864481e2d71da574",
+        "crc32": "1f2aa6e3"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 03).bin",
+      "filesize": 33276096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "753e987f68bc7c77a6d7b4c7785f9d03",
+        "sha1": "f261e4339515f02b59841541fc256fd5cf2d979e",
+        "crc32": "71291ec0"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 04).bin",
+      "filesize": 22050000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e05db92da0a50afcb57d4fc4a8f8c80",
+        "sha1": "d55821faf542bf57f0a8dececb78db3a1fe0e44d",
+        "crc32": "9624b1f2"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 05).bin",
+      "filesize": 22047648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6cde5198770a47fc3b45b4fc1dbd86ea",
+        "sha1": "066f24a56cad46585bb8f68a40e1db6b65b93958",
+        "crc32": "b6ca487f"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 06).bin",
+      "filesize": 22050000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4724988407efcdc581c53f294e2191e4",
+        "sha1": "f1faf9ff35fb861b2d418ac51f0bdcd7b3edef66",
+        "crc32": "16bee335"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 07).bin",
+      "filesize": 22050000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cde6203f88f09a46810d64b05cd0646e",
+        "sha1": "7ce17eedc3b98afc2dd08a8c4916b5cf758c2266",
+        "crc32": "54fe85d6"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 08).bin",
+      "filesize": 22047648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2c39a213c18231c0d4a4ea138c9d13e",
+        "sha1": "b0b6b9fab4b035683a0c5374fd3390f9089417ec",
+        "crc32": "1bd489bb"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 09).bin",
+      "filesize": 22047648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b51e81fb4a7b357f4183e5638a3ff054",
+        "sha1": "6f7c04745c23dbda3a7c067d4f1afb64ac7c4077",
+        "crc32": "199e5b5a"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 10).bin",
+      "filesize": 22047648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c92a2a6176bd8106c9523529735f37d7",
+        "sha1": "d5e5ceb20534ede05d106508a0377a39f46ac9eb",
+        "crc32": "a8ccb06a"
+      }
+    },
+    {
+      "filename": "Championship Surfer (USA) (Track 11).bin",
+      "filesize": 22047648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1ae49a9893af8d9efd81a78d40ad510",
+        "sha1": "a7b72732f33a4f0211c2e23bb8f2f8e23a29eddc",
+        "crc32": "3a52d159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Derby Stallion Magazine 2000 Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Derby Stallion Magazine 2000 Vol. 1 (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75139ed6800eed5c9bca2df9b362e7be",
+        "sha1": "08740aea331703a7312bc893403d7549e795c5e6",
+        "crc32": "dc8ffddb"
+      }
+    },
+    {
+      "filename": "Derby Stallion Magazine 2000 Vol. 1 (Japan).bin",
+      "filesize": 66747408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee526de6c7b1f161002e1e2c0690ac39",
+        "sha1": "2537f42e5e8da5683dbfd2a7c0f2762669d45882",
+        "crc32": "cc8176dc"
+      }
+    }
+  ]
+}

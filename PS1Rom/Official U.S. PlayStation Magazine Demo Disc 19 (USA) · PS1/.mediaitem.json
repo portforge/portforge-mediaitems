@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 19 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 19 (USA).cue",
+      "filesize": 717,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3203ab9f4321da93120324945b6d29e8",
+        "sha1": "4fae3c0f60df85fdc104c27816cb6080a1db828e",
+        "crc32": "cd2a0c27"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 19 (USA) (Track 1).bin",
+      "filesize": 321875904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a55251b02f0cfeafff0579df0fb75688",
+        "sha1": "b02e7f833e4fd5d83de5b5e8c84095ed14f57d04",
+        "crc32": "6c13796b"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 19 (USA) (Track 2).bin",
+      "filesize": 36439536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a7ac3d7f9ad652951ae03fe157c7c7d",
+        "sha1": "daec33c31013f1dc4f3a1c1b7aad22291aa34bd4",
+        "crc32": "49d92b4b"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 19 (USA) (Track 3).bin",
+      "filesize": 7592256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1446f11e336df4c8e8a62c3a234086c1",
+        "sha1": "9bbeb65d8d4c6138ebf4e06c08c08f30ebbe9b39",
+        "crc32": "172cb2f5"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 19 (USA) (Track 4).bin",
+      "filesize": 20572944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16a7004cac70d43b437afd8aab29ebbd",
+        "sha1": "0548a5212ea9e22257bef38b4104c1e654a01fd1",
+        "crc32": "ded8750b"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 19 (USA) (Track 5).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

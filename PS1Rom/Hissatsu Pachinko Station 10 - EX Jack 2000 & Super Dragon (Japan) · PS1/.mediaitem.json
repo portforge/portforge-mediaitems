@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station 10 - EX Jack 2000 & Super Dragon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station 10 - EX Jack 2000 & Super Dragon (Japan).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bfd1d227204543a90f2779610daea5e3",
+        "sha1": "4d922c5efc310a123dd9fbb95882080365ec8515",
+        "crc32": "11bfb992"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 10 - EX Jack 2000 & Super Dragon (Japan).bin",
+      "filesize": 57614592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f013085bc62e56370e50f2881f23eb70",
+        "sha1": "3f34535e22a9264c365e99b640b4dd2c44261f47",
+        "crc32": "38af3d10"
+      }
+    }
+  ]
+}

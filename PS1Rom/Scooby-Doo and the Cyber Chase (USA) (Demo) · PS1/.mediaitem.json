@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Scooby-Doo and the Cyber Chase (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Scooby-Doo and the Cyber Chase (USA) (Demo).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a739ea1fa97267e70abf817482717bc",
+        "sha1": "9517003d6e731ec8721e6be8925e5ee23e1047de",
+        "crc32": "06cca872"
+      }
+    },
+    {
+      "filename": "Scooby-Doo and the Cyber Chase (USA) (Demo).bin",
+      "filesize": 68447904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc45b671ce216146096be042b27d0a8e",
+        "sha1": "4e5ed5fd300fa0ef25c2bfb62842af7c9943d341",
+        "crc32": "0e7c5937"
+      }
+    }
+  ]
+}

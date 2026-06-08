@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doki Doki Pretty League - Nekketsu Otome Seishunki (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doki Doki Pretty League - Nekketsu Otome Seishunki (Japan) (Disc 1).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8969d35f38d83ff5fb568ba180ca17fa",
+        "sha1": "43487a85d706a353ec9d9c562960d5fb89d397df",
+        "crc32": "63c73ed4"
+      }
+    },
+    {
+      "filename": "Doki Doki Pretty League - Nekketsu Otome Seishunki (Japan) (Disc 1).bin",
+      "filesize": 739163040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14694b6af5ce15d935841e0638d80cba",
+        "sha1": "a00700db3c44cae5777b10548ae2bb50fd06abf3",
+        "crc32": "d679bae0"
+      }
+    }
+  ]
+}

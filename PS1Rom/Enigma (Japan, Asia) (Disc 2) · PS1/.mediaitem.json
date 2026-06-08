@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Enigma (Japan, Asia) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Enigma (Japan, Asia) (Disc 2).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c47d1ec328ac98d7e3efbc33882ff054",
+        "sha1": "1f44d01f63ac3c958d39acd6977cd4ac4c1a275e",
+        "crc32": "2c8c08f9"
+      }
+    },
+    {
+      "filename": "Enigma (Japan, Asia) (Disc 2) (Track 1).bin",
+      "filesize": 718837056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92adb5247ffb4e40ce05758ce9192903",
+        "sha1": "e2be11e788bc741ac4e12deeba6150b244615345",
+        "crc32": "26bb6a10"
+      }
+    },
+    {
+      "filename": "Enigma (Japan, Asia) (Disc 2) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947f682e2ceb918118e1bfe6b6355105",
+        "sha1": "d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0",
+        "crc32": "24cad39b"
+      }
+    }
+  ]
+}

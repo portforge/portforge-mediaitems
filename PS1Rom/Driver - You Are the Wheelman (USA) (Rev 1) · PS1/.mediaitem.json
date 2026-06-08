@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver - You Are the Wheelman (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver - You Are the Wheelman (USA) (Rev 1).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b4297c5ecb2befc61623036d5f718df",
+        "sha1": "145469b769e0b28f33eed211c5bba1073d47fc5d",
+        "crc32": "5fdbaa32"
+      }
+    },
+    {
+      "filename": "Driver - You Are the Wheelman (USA) (Rev 1).bin",
+      "filesize": 747030480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0e1270a6c916e1c6be860fc46b76863",
+        "sha1": "3df45bb77b9189258dc513d8b161b73bc0b06d6e",
+        "crc32": "6208af86"
+      }
+    }
+  ]
+}

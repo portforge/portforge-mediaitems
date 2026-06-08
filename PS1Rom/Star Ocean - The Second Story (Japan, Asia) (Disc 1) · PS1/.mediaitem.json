@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Ocean - The Second Story (Japan, Asia) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Ocean - The Second Story (Japan, Asia) (Disc 1).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "116158291229097694b720b4c14e0483",
+        "sha1": "5c0347ee59c5436a9922b7718389b81ca688033c",
+        "crc32": "cdd461c8"
+      }
+    },
+    {
+      "filename": "Star Ocean - The Second Story (Japan, Asia) (Disc 1).bin",
+      "filesize": 555946944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d80a1d2c71bb34f2975d19ce7ef35d68",
+        "sha1": "8284f9ab4d4451f7e1088ba70c2f13e76047656d",
+        "crc32": "7f5ef8d6"
+      }
+    }
+  ]
+}

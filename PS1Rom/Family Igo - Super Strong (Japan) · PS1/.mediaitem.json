@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Family Igo - Super Strong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Family Igo - Super Strong (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b62ca673a740b051ad277cc2a4d47e41",
+        "sha1": "b987ed955998685bd744e2975f5d4971fe019fd8",
+        "crc32": "a789b165"
+      }
+    },
+    {
+      "filename": "Family Igo - Super Strong (Japan).bin",
+      "filesize": 38530464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "651ccf71adacf3f35e9274f797c87da8",
+        "sha1": "da408195c4a2da943254f64eb345b26e5073c5bb",
+        "crc32": "8a9f9ed8"
+      }
+    }
+  ]
+}

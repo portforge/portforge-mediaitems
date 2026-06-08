@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fire Panic - Mack no Rescue Daisakusen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fire Panic - Mack no Rescue Daisakusen (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eff6d39623ece79daeab8a044b3e1718",
+        "sha1": "de9704711cf61998be29db93e54530ae71b17196",
+        "crc32": "b9f553dd"
+      }
+    },
+    {
+      "filename": "Fire Panic - Mack no Rescue Daisakusen (Japan).bin",
+      "filesize": 129710448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d1738d9b304af00a439c09201f56928",
+        "sha1": "6f88d1da5ecc99c2a6619bfcf797f040dd9dbdce",
+        "crc32": "55188139"
+      }
+    }
+  ]
+}

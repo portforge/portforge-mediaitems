@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lunatic Dawn - Odyssey (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lunatic Dawn - Odyssey (Japan).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bbec5b50ae80b76fe7797bd4bafe5f6e",
+        "sha1": "981c726694e4e8c89522ec05e6cd5bed3aee232f",
+        "crc32": "ab02d8dd"
+      }
+    },
+    {
+      "filename": "Lunatic Dawn - Odyssey (Japan) (Track 1).bin",
+      "filesize": 364087248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd53f1594971a9c7992e1718f04996a5",
+        "sha1": "c097f13a7e6850a6c43bdc324a94a01a4660ab06",
+        "crc32": "fa16bfb1"
+      }
+    },
+    {
+      "filename": "Lunatic Dawn - Odyssey (Japan) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

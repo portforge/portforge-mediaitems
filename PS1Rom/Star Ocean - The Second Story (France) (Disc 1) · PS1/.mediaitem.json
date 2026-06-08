@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Ocean - The Second Story (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Ocean - The Second Story (France) (Disc 1).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9558b25926d35bf3b854bffce68816fe",
+        "sha1": "c9387b5275ad93fac9b2082889463ecdd089b0a5",
+        "crc32": "ec2631f2"
+      }
+    },
+    {
+      "filename": "Star Ocean - The Second Story (France) (Disc 1).bin",
+      "filesize": 553743120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebd3febacd22e95ca528b9f450358a5d",
+        "sha1": "20aad0e9d0081b2df6358fab9628a842936caad0",
+        "crc32": "a32a30b3"
+      }
+    }
+  ]
+}

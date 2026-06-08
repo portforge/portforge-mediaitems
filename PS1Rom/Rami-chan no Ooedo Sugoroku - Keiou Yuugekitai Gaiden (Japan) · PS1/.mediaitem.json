@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rami-chan no Ooedo Sugoroku - Keiou Yuugekitai Gaiden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rami-chan no Ooedo Sugoroku - Keiou Yuugekitai Gaiden (Japan).cue",
+      "filesize": 292,
+      "ext": "cue",
+      "checksums": {
+        "md5": "936ad44a5a5a980c746c9e5fe62140fc",
+        "sha1": "a531ac984313171b6769712812393632a7174ef0",
+        "crc32": "114bc358"
+      }
+    },
+    {
+      "filename": "Rami-chan no Ooedo Sugoroku - Keiou Yuugekitai Gaiden (Japan) (Track 1).bin",
+      "filesize": 250257504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bf83ae5ef4791e0bb1239b6fc3ef759",
+        "sha1": "e7bc596866dac08a9b051f784f8405f343a542c8",
+        "crc32": "e90c863b"
+      }
+    },
+    {
+      "filename": "Rami-chan no Ooedo Sugoroku - Keiou Yuugekitai Gaiden (Japan) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0f19e333bd2c59ee5b0dfc9b88e0f65",
+        "sha1": "7a4f9a434e2b707f1864f3bc4795508cf54d5494",
+        "crc32": "c87157cf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer (USA) (Disc 1) (GDI)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer (USA) (Disc 1) (GDI).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c79765f1274aa2b60ac80abc151bc922",
+        "sha1": "7a18c69039f29b514444e84c83fe824aa8334490",
+        "crc32": "fc22ac2b"
+      }
+    },
+    {
+      "filename": "Command & Conquer (USA) (Disc 1) (GDI).bin",
+      "filesize": 736253616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e647d79da9effe88c3190501d01a9e1",
+        "sha1": "1d698fd7c2bc3eb55208b7cf8476b9142908996a",
+        "crc32": "aa2c2e6c"
+      }
+    }
+  ]
+}

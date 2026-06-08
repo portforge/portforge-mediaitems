@@ -1,0 +1,777 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "South Park Rally (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "South Park Rally (USA).cue",
+      "filesize": 8874,
+      "ext": "cue",
+      "checksums": {
+        "md5": "09836f00eb9149996763077778a33620",
+        "sha1": "4fad6159a6320441f84ce011a3a7a9605f25873c",
+        "crc32": "a5443a8a"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 01).bin",
+      "filesize": 67441248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2a6dff2e118d152d866ceac84e592066",
+        "sha1": "93f30c2f6361c8166719a98d71d3b35aaa813107",
+        "crc32": "e91ea501"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 02).bin",
+      "filesize": 38584560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87d7c6f476ee31f370c129e1f5c96691",
+        "sha1": "f75f522b69b05ed13fd29ec32fd9f151b67ca60d",
+        "crc32": "c195d7a2"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 03).bin",
+      "filesize": 35830368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f4d613e3464d6d9332030a7f3665ea0",
+        "sha1": "239d443b4279bdd9954e8228978be208cb7a3c29",
+        "crc32": "1ce537f2"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 04).bin",
+      "filesize": 44158800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42a443350938cd791957a033b2d746be",
+        "sha1": "bcde308eab8f4692ca589286791037481dc9c0d4",
+        "crc32": "be818fd0"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 05).bin",
+      "filesize": 37116912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f6f1bac88f25328730f69e00d3eea5e",
+        "sha1": "3d9c680af81af33fdd1a5876ad0f00b5c4dc2c32",
+        "crc32": "3f13ac1f"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 06).bin",
+      "filesize": 37754304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64f684361736b925df6969b8d0dd9fbf",
+        "sha1": "f7160586b5df0f02bdb5bd1f41ecb8bb8ab0b60c",
+        "crc32": "7adc3ed3"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 07).bin",
+      "filesize": 37373280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a83c73ac2df70546b0aa40a3f0dafc54",
+        "sha1": "0ef4cdac521e4e9ecc1d507f775535437023f6cb",
+        "crc32": "82d94cc2"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 08).bin",
+      "filesize": 37855440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4630c648aefd4fd55065a59f7ba05231",
+        "sha1": "cda45582116d57d99ce655b651a02b60b071b285",
+        "crc32": "fd5f3698"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 09).bin",
+      "filesize": 38876208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4c9a1d7dc24d481ea92f83c8892bcb6",
+        "sha1": "dee826c55f42723aeae70d1adaced5e2db5163dc",
+        "crc32": "159cd8c5"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 10).bin",
+      "filesize": 5578944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "031430a1e146c40e3eef3610fa565460",
+        "sha1": "2610c0cdd9c220348bf6461c8c37ef1af1949714",
+        "crc32": "60e3760b"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 11).bin",
+      "filesize": 6070512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aff77877a63238793813b0a432f85ed3",
+        "sha1": "99536cfe382f5e85375299e0cdd5149f21b2a1b2",
+        "crc32": "67cb227c"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 12).bin",
+      "filesize": 6348048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e52980ee105d46d8c67ef3caeb42350c",
+        "sha1": "2eb3fbc333ab78eeb747baee3fa9705786c4f1e0",
+        "crc32": "5eaa4d4b"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 13).bin",
+      "filesize": 5322576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "067c5f22b97c45c01cb7a50521d003a3",
+        "sha1": "54a0095f95de82470a4fece9b9817cb59a322bb8",
+        "crc32": "53a7c381"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 14).bin",
+      "filesize": 3812592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f11bdacdcf18e5f0e093fdc4c3f0b7fd",
+        "sha1": "9a07dbca09910b749938e6416b0369e9d707c3a2",
+        "crc32": "23b7ad49"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 15).bin",
+      "filesize": 4842768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2646dde3ef6470eb2f34f662c7966c20",
+        "sha1": "a93dedb7344ba196fc5c63465038413db21b8da0",
+        "crc32": "2e042f5f"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 16).bin",
+      "filesize": 8410752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "654025d3fe2352f646f252a238357662",
+        "sha1": "141af352f006605efac6b65ce95a762367424792",
+        "crc32": "552996a1"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 17).bin",
+      "filesize": 5498976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08791d9613aa2e26e619f691eb4e80e4",
+        "sha1": "c5f87da6432fcd2a5ad88f4b82997ce8b99ef2d5",
+        "crc32": "1ad900cf"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 18).bin",
+      "filesize": 4894512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3817e4a49e49c7a171e267e4ace2939a",
+        "sha1": "ee23df26fa44077cfd9e8700e5dd9c6563be4d4e",
+        "crc32": "8b59a78d"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 19).bin",
+      "filesize": 5470752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2d08121fa8e496d9bb23ba428fab051",
+        "sha1": "081555878fc07f7c8a2f27e828d62b4386c9eafa",
+        "crc32": "22e369df"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 20).bin",
+      "filesize": 3650304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9914c97705c65c025327014225cc99b",
+        "sha1": "28070639e167db87ea5a150d8f7c6cc9af654638",
+        "crc32": "4ca397bb"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 21).bin",
+      "filesize": 2596608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "211f28a1000059c420f0a3224da7baaa",
+        "sha1": "df6439d149c251bbc9e1b32f92aa9f5d57c8f472",
+        "crc32": "e28c50e2"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 22).bin",
+      "filesize": 3930192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7aeae055e7618f526ee62ea34e2c98a4",
+        "sha1": "630967816c0d1ffa23294d57b76bafaa73f57a66",
+        "crc32": "00c3a02f"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 23).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2197dfb704b7ce109b9e7fac05992faf",
+        "sha1": "49b888997e3ef48519a2cdc34f05115b5e4773c1",
+        "crc32": "33bc4f59"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 24).bin",
+      "filesize": 4101888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52d35f7836b3789078c1b382697023cd",
+        "sha1": "a7e6fcffa5ac827ee4d87d94020fd7c5339ad09b",
+        "crc32": "c0da5a3b"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 25).bin",
+      "filesize": 4595808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af42eee2e288ecf7b1ae3501c83f895c",
+        "sha1": "e61b986cdf85bbdeace1232bdd56e91b9fca02ea",
+        "crc32": "7733f688"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 26).bin",
+      "filesize": 1582896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ae32530430f5a062c13edf0020c8e7f",
+        "sha1": "5a0126db49e5afa7b864fb1ed98dfa34bda433db",
+        "crc32": "3e25ab52"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 27).bin",
+      "filesize": 1321824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29934f7244e3ba1c999e16f6ade7faf0",
+        "sha1": "e85ee7ccef405392bdb69ef8709fe21fcace6cc9",
+        "crc32": "4c28d955"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 28).bin",
+      "filesize": 1248912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a7f220f9e9867453388cc74cbecd711",
+        "sha1": "3557db0fd3e77a8fc0e7d45dfacaa7ac051ec6c0",
+        "crc32": "7175bce7"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 29).bin",
+      "filesize": 1359456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73f28ae86f1d918e92308d33c04100dd",
+        "sha1": "5b097b83be01827332597dfc75a3eb284e816ca3",
+        "crc32": "643dc5fa"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 30).bin",
+      "filesize": 1528800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35bd8609750cdc8dc84bdaad1b989321",
+        "sha1": "723d48b8dda2951ddb735731372274a25b2ce2cb",
+        "crc32": "f78d08bf"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 31).bin",
+      "filesize": 1220688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d17911b3bfc9c6e412a4b1d56b04a2f2",
+        "sha1": "edd17583ab8da71a6b7e55505b8feb6b8b193c5b",
+        "crc32": "39d3e6f5"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 32).bin",
+      "filesize": 1009008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "696afcb39f4139cfb24fc3a4f8a812f8",
+        "sha1": "d0e632819c8b9ffa56455f24bb7e9d6a2f2b5cad",
+        "crc32": "31d6e5e0"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 33).bin",
+      "filesize": 1434720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4fcd757818d25b73090e22415e5988b",
+        "sha1": "e1d270873348b25515c34ad7f274e78b6fdff08e",
+        "crc32": "8702d95e"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 34).bin",
+      "filesize": 1192464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19ca5d0c0b4b14400b9e07e8eb9753b2",
+        "sha1": "7bcbf0529311fef8717f71831c76be5d90cdaeac",
+        "crc32": "5244f53a"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 35).bin",
+      "filesize": 907872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58cc4169de4011c5aab9b20faedf5f67",
+        "sha1": "b71aad61005389b7df6c2a3afef4ed1e00aef90a",
+        "crc32": "72e0694b"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 36).bin",
+      "filesize": 1048992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e4803987b6b604b8586e0fa251a766e",
+        "sha1": "cb5cd4f116644f3bf8d07c241b76abac230a1cab",
+        "crc32": "9e421027"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 37).bin",
+      "filesize": 1488816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c486b714deb76e071db9a987675312a6",
+        "sha1": "af3521c4312baedf8c126035a5865d1f6adf1b42",
+        "crc32": "5401b308"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 38).bin",
+      "filesize": 1154832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f0e1b37b9c22f3a5ccd9e69d72a79d3",
+        "sha1": "d40dae264cba9eb0e6cde1a3b4ae8655581f4fd6",
+        "crc32": "39c20485"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 39).bin",
+      "filesize": 1441776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4db3ee5993fd5c760eebabca5820c2f",
+        "sha1": "93466da62b301c3b88de1bd5f22955acdfcca684",
+        "crc32": "15f2705d"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 40).bin",
+      "filesize": 1498224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1379a02915736ef0eb00e0657e1e9b4f",
+        "sha1": "d4114dc578ddae370543bb9ef49ef1d2ed49c642",
+        "crc32": "8f2b0429"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 41).bin",
+      "filesize": 1604064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88bfb788b48ad234975ae5c068e90f5a",
+        "sha1": "c57d13196a1d233548ec2be2a94e1a048e067040",
+        "crc32": "b734e118"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 42).bin",
+      "filesize": 1441776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff6aba75af10b0884759aebf95b9372d",
+        "sha1": "76bfc885119814319c1bf5b20f59c03a694e4114",
+        "crc32": "0b52ba3f"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 43).bin",
+      "filesize": 1557024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c05eb848830ca3dde456661bd6dadd2c",
+        "sha1": "8f9939a1666e4fa9090e29007ceee328194a8b7d",
+        "crc32": "fedaead1"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 44).bin",
+      "filesize": 1387680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecc0c4833d1b491eccab3a6929e34d1e",
+        "sha1": "f6a439c95adf034bdc4d187068cdc89d4bbb3ebc",
+        "crc32": "9789350b"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 45).bin",
+      "filesize": 1498224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f71db20469ebe9fd26cca7f492c2a803",
+        "sha1": "19c638de9b313435b09d106cf6fc1d92c78f3004",
+        "crc32": "b8b1f62e"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 46).bin",
+      "filesize": 1359456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04df08bfa79c46ccde866cbb35ce3ff3",
+        "sha1": "2ad1a717fbca20ea6bd2eef65b52a5def759f5d2",
+        "crc32": "b477fb64"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 47).bin",
+      "filesize": 1366512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46da07b1e5439ba5116cf0820ea8ead5",
+        "sha1": "4e7f323607560c5e179f24ac7bf24e7aaf54cf65",
+        "crc32": "6d8fef17"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 48).bin",
+      "filesize": 1488816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d12c5077f2b5f745665d734b9046065b",
+        "sha1": "e7f866f3e11405135b6ec3eac9db9a93cbd6352b",
+        "crc32": "409e25c7"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 49).bin",
+      "filesize": 1898064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b40aa478cd5f5aca88ba6ea4c4e3b570",
+        "sha1": "6ec28ec54cf5cc0c589787d754ad314e175af4a4",
+        "crc32": "2c948ffd"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 50).bin",
+      "filesize": 1307712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a126ce5de642708a7255ed8df1fc5c36",
+        "sha1": "0d17a3d82126c48f41a008fc5da15165e3ff4ae7",
+        "crc32": "2da9ccd1"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 51).bin",
+      "filesize": 1481760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c8bbe43f559e1cc33455a0f1d82d7cf",
+        "sha1": "3cce212230317e7385ed60779aad9e4fb756ac51",
+        "crc32": "81f336db"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 52).bin",
+      "filesize": 1481760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ed34810ae91b096c0e25153da720e8b",
+        "sha1": "7001374e754619839058071d2b7aba77ab472386",
+        "crc32": "3fc81616"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 53).bin",
+      "filesize": 1462944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6c408b1f9954f0d1da08b5721ccfb8a",
+        "sha1": "851db4b1a698e70cf708c737d879963b75f55c37",
+        "crc32": "5e79441d"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 54).bin",
+      "filesize": 1352400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "124ede2266f246ebbf43479c9f9f6ca9",
+        "sha1": "7b32bc514422c2f59e3b82c77b462ae6141b6bcc",
+        "crc32": "6983a4d7"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 55).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78aed1a677da66e59d5b7cdf4aa61204",
+        "sha1": "76f3735a8bd921e8cbfdfe97e33eb97a4c3ec96c",
+        "crc32": "a94411f1"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 56).bin",
+      "filesize": 1422960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fd47a408adcfa1b143329f19b896987",
+        "sha1": "b6ab4e87e462f071daf7948ae151b9cc525eb29d",
+        "crc32": "9779a7e0"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 57).bin",
+      "filesize": 1418256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "635cdbc47a8136c4cb31766ecab92f56",
+        "sha1": "1cf40946a3bc66684f4fa5101340a08b1ca6f61d",
+        "crc32": "89874360"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 58).bin",
+      "filesize": 1507632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35ac710e6e54c888b2317a74946d5626",
+        "sha1": "b56749c77f53871763c72b874c074b0473387d53",
+        "crc32": "77e3f06c"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 59).bin",
+      "filesize": 1512336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1e020467a8ed37043b11804a0d501e4",
+        "sha1": "754ab6c417d33002180319df0634e87c33bbb7ac",
+        "crc32": "b2feea11"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 60).bin",
+      "filesize": 4071312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ee85b54b30b85763f4985a124ad9f83",
+        "sha1": "fed42b845f6b89ac6826726d5dc6b4bb17bef484",
+        "crc32": "c1c23357"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 61).bin",
+      "filesize": 1484112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "863240952e14112baff3c1094ae998d6",
+        "sha1": "6193d17a4cf2000f93c7aa7acc0ca3a725fd3242",
+        "crc32": "aef58441"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 62).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e49d0dff1fce4ab678df02c011da4e77",
+        "sha1": "764cd4d78b1e1eba1bdd7d3838bdf366846f5090",
+        "crc32": "61320618"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 63).bin",
+      "filesize": 1303008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b85e7805d370fa5916dba554acb9883",
+        "sha1": "6c119b69a6034060b32bcbe31bc02cfe61496698",
+        "crc32": "af5f883e"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 64).bin",
+      "filesize": 1404144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7aa7d167d940ffb469eff6d2fa5b9a15",
+        "sha1": "a92f32dc886ee05c48963fce57819bdaf8a806d7",
+        "crc32": "1ae1eaf7"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 65).bin",
+      "filesize": 1714608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aed1ba07fa5152b25bfd5d37a9dd0c92",
+        "sha1": "8a574c85a3c0071ecfe97bb31bf7cae995f10675",
+        "crc32": "ea94e296"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 66).bin",
+      "filesize": 1303008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c74e494fad860758d63d42fccb24c88b",
+        "sha1": "c3845b4f090f7f3f88321fb45b316fbe49223026",
+        "crc32": "f8418869"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 67).bin",
+      "filesize": 1716960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f4246ae6ea4288911a9051c57e55a7e",
+        "sha1": "6268de21dd251db0b7c5bb653416f32138c9b009",
+        "crc32": "a9cfb888"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 68).bin",
+      "filesize": 1740480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c0c2da5c86aa58f30faad050361ca1a",
+        "sha1": "34b09035812331094564cd5abd58833c65b02d0d",
+        "crc32": "346cc04d"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 69).bin",
+      "filesize": 1512336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5611384c5d98401c7eff949e1d4ff823",
+        "sha1": "383c3c2073f7e27b3f25a3855edb900f4476377f",
+        "crc32": "d01814fe"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 70).bin",
+      "filesize": 1441776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4954237fb455a59167eaa4cf0c10dd95",
+        "sha1": "cd954c1b4a9c77e5e9f2789893998aa7861fd173",
+        "crc32": "3858cd16"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 71).bin",
+      "filesize": 1538208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04e99d4a024702128017b6754aaee3f2",
+        "sha1": "bb19c88886cb6a4ac0a9f206aa67b49ad9acd5bf",
+        "crc32": "ab72c5a4"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 72).bin",
+      "filesize": 1455888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f43bddeeab9c133982c743ab5e54faeb",
+        "sha1": "4a6825d2a533e5c3b015b8e31831de1e849bb697",
+        "crc32": "bbe1e45c"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 73).bin",
+      "filesize": 1756944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2df51b8cf3cfdff833dd478179e10a6",
+        "sha1": "3f5c2c1e932dad56fb63a3326314d2fd663c540c",
+        "crc32": "5adde02f"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 74).bin",
+      "filesize": 1559376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1c6e7f91154fec1046c0ddb1990346a",
+        "sha1": "19536de82f8b88c584f95a58d9036dfb1ccae204",
+        "crc32": "6c0b84ef"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 75).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    },
+    {
+      "filename": "South Park Rally (USA) (Track 76).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

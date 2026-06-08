@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Virus - The Battle Field (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Virus - The Battle Field (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf734bb39ac743e71411b82aed36cb5a",
+        "sha1": "6bf6437aeed76defdab75a4fee161a0e76e32046",
+        "crc32": "317888c4"
+      }
+    },
+    {
+      "filename": "Virus - The Battle Field (Japan).bin",
+      "filesize": 602057904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18d2086046430a74b312289b4bd16468",
+        "sha1": "41d8c4f83bfacf4fac3d5404ac0e73eefeec0491",
+        "crc32": "f47ac7eb"
+      }
+    }
+  ]
+}

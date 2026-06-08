@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou - Maker Suishou Manual Vol. 4 - Exhaust, Ooedo Sakura Fubuki 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou - Maker Suishou Manual Vol. 4 - Exhaust, Ooedo Sakura Fubuki 2 (Japan).cue",
+      "filesize": 153,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3da8878ff1460a64ac148a9ab313c93b",
+        "sha1": "efdf41f67808bf33eb7103c012b423d92737dd74",
+        "crc32": "c039898c"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou - Maker Suishou Manual Vol. 4 - Exhaust, Ooedo Sakura Fubuki 2 (Japan).bin",
+      "filesize": 76590528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f246b0760f850788dfb93e9574ce202",
+        "sha1": "a33ee178acc080b8d3c7132d53d371c8b759657f",
+        "crc32": "72597c41"
+      }
+    }
+  ]
+}

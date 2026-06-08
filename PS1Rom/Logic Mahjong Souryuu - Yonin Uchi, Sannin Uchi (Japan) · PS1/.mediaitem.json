@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Logic Mahjong Souryuu - Yonin Uchi, Sannin Uchi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Logic Mahjong Souryuu - Yonin Uchi, Sannin Uchi (Japan).cue",
+      "filesize": 429,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b74e77a3460ff72299c882187dc43263",
+        "sha1": "f2e28cba2309a4dbb8b79c396857ec8a9f693cb1",
+        "crc32": "38e9583e"
+      }
+    },
+    {
+      "filename": "Logic Mahjong Souryuu - Yonin Uchi, Sannin Uchi (Japan) (Track 1).bin",
+      "filesize": 29609328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1f137ed1722c4faf98f53fe876280b8",
+        "sha1": "2ef3091a8ba4873d19db438d0226d37fcbbfe501",
+        "crc32": "df33a2c7"
+      }
+    },
+    {
+      "filename": "Logic Mahjong Souryuu - Yonin Uchi, Sannin Uchi (Japan) (Track 2).bin",
+      "filesize": 33137328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb621a8dec5e9549c082acda6b8997a8",
+        "sha1": "360270bd062da6f94487cbe734b9f377fa17d51f",
+        "crc32": "27c3c7a8"
+      }
+    },
+    {
+      "filename": "Logic Mahjong Souryuu - Yonin Uchi, Sannin Uchi (Japan) (Track 3).bin",
+      "filesize": 55232016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19af9b170e02c5f94ff46092f61dc36f",
+        "sha1": "aa1c63b28422cdf34f228a1bd93691f6d315e0c5",
+        "crc32": "08fb0ec9"
+      }
+    }
+  ]
+}

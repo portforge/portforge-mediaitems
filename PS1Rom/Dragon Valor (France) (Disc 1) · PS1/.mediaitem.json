@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Valor (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Valor (France) (Disc 1).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6a5ba6aa406e54fe8a0bc1077dc2e1c3",
+        "sha1": "83bf81d5e6c80d36b16e4609b1c3a11e1c05f5bb",
+        "crc32": "3d3dfe42"
+      }
+    },
+    {
+      "filename": "Dragon Valor (France) (Disc 1) (Track 1).bin",
+      "filesize": 590006256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faf5b32cebb8decfdafb5103a423725c",
+        "sha1": "328f169ebdaf8cef0e873bfbd1b45d1899c4e9d4",
+        "crc32": "fea28792"
+      }
+    },
+    {
+      "filename": "Dragon Valor (France) (Disc 1) (Track 2).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "354582aefda8a55a5482d431e8473070",
+        "sha1": "593d3c91bb09d028ab72c1e839279c65c2108976",
+        "crc32": "a10c459b"
+      }
+    }
+  ]
+}

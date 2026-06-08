@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA Football 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA Football 2000 (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e533a65175829e8337c40267991a1eb2",
+        "sha1": "d70deba218ec97b5b7ff8f515b764a1175de2ed6",
+        "crc32": "87ebac23"
+      }
+    },
+    {
+      "filename": "NCAA Football 2000 (USA).bin",
+      "filesize": 690377856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52408766a67c8032f3f281145d7fbbfb",
+        "sha1": "60d4ee554826ef58ae5816a5a1c078bf8fa69f58",
+        "crc32": "77a0531e"
+      }
+    }
+  ]
+}

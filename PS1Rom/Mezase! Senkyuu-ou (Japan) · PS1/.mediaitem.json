@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mezase! Senkyuu-ou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mezase! Senkyuu-ou (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9544795c1cbaa9b84865f951c4b28b09",
+        "sha1": "5f9b1754edd0cb313ed255a7258208bfc75eb9db",
+        "crc32": "817ea64f"
+      }
+    },
+    {
+      "filename": "Mezase! Senkyuu-ou (Japan).bin",
+      "filesize": 106686720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3e64cc43df907fdc37f9bd7bcd41010",
+        "sha1": "c681fd3b13bf771c33298bf0751427d7708ed264",
+        "crc32": "86d0e8d0"
+      }
+    }
+  ]
+}

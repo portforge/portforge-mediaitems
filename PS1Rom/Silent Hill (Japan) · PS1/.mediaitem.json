@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silent Hill (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silent Hill (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6af09689081d102a9ab937b493dd39b9",
+        "sha1": "81a033838c15ba2b1442352f5378219afc89cde4",
+        "crc32": "2eb46615"
+      }
+    },
+    {
+      "filename": "Silent Hill (Japan).bin",
+      "filesize": 616503888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80857933cf486d0b74ebf61e9d3d6951",
+        "sha1": "0b6fb8da7883789cc8b671efa07ffe2a13c87bf6",
+        "crc32": "d1573bed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Over Drivin' DX (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Over Drivin' DX (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f196474ab48361c1464981429a73878e",
+        "sha1": "78ca27288968060558a83a3483237f80020b6147",
+        "crc32": "4bbaf546"
+      }
+    },
+    {
+      "filename": "Over Drivin' DX (Japan).bin",
+      "filesize": 638615040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "869197bd52c2e014ec426799c842dafd",
+        "sha1": "1ac6e565df7947e782507de19d5fb53a9b614a85",
+        "crc32": "9baa5c1f"
+      }
+    }
+  ]
+}

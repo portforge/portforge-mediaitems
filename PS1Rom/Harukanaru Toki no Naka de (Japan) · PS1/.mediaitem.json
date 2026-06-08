@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harukanaru Toki no Naka de (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harukanaru Toki no Naka de (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "da39ed174c693d76a9db60cbfcdd6c77",
+        "sha1": "5d0c19297a8a58d5e1b24d56920b7123d64fc7a6",
+        "crc32": "a9890c7c"
+      }
+    },
+    {
+      "filename": "Harukanaru Toki no Naka de (Japan).bin",
+      "filesize": 509680752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2899da739ab47bd9fd9ce47ba5485631",
+        "sha1": "7197dd548fd0a8d3fc6cb9b9ab607608330f3bc8",
+        "crc32": "b8afc82b"
+      }
+    }
+  ]
+}

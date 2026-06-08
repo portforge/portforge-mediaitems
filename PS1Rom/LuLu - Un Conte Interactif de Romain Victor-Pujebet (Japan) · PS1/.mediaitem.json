@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LuLu - Un Conte Interactif de Romain Victor-Pujebet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LuLu - Un Conte Interactif de Romain Victor-Pujebet (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "153023f8b16e16c0a5fd26e7da8630fb",
+        "sha1": "76ab84bdc298b85790c28296452d632e49115e13",
+        "crc32": "342ee4d9"
+      }
+    },
+    {
+      "filename": "LuLu - Un Conte Interactif de Romain Victor-Pujebet (Japan).bin",
+      "filesize": 698266464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77c1f238ddd375f99c1c9e9ab76de716",
+        "sha1": "5f89073473b967dcc61ef2ff381569dc904b502e",
+        "crc32": "2d5befc4"
+      }
+    }
+  ]
+}

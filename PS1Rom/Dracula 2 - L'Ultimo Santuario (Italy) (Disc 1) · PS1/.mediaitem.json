@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula 2 - L'Ultimo Santuario (Italy) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula 2 - L'Ultimo Santuario (Italy) (Disc 1).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "162fd557c3a3192c69c02763adc92712",
+        "sha1": "cc6b52eb7dff877427e49fb8274a5160928ac69f",
+        "crc32": "1bd01ae0"
+      }
+    },
+    {
+      "filename": "Dracula 2 - L'Ultimo Santuario (Italy) (Disc 1).bin",
+      "filesize": 688684416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80568fc94bee1ae45abd8a7c2c853e85",
+        "sha1": "b0a200d3f0471f9bef7cbfcfda371422d824f8ff",
+        "crc32": "f25a2a71"
+      }
+    }
+  ]
+}

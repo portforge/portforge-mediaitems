@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Official Catalog CD-ROM (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Official Catalog CD-ROM (Japan).cue",
+      "filesize": 256,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04d56f6c86224422bee9f3afc7fa43de",
+        "sha1": "47ac566241ba09b12fed54f83d80b2eaede1e883",
+        "crc32": "3d9a0571"
+      }
+    },
+    {
+      "filename": "PlayStation Official Catalog CD-ROM (Japan) (Track 1).bin",
+      "filesize": 435152928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c646f7c677952bbaf7c7059080da794",
+        "sha1": "38e94a805e1e35093daeb89e9715c740d063ba10",
+        "crc32": "54da1645"
+      }
+    },
+    {
+      "filename": "PlayStation Official Catalog CD-ROM (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

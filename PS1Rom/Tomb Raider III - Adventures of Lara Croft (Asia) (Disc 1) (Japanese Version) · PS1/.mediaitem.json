@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 1) (Japanese Version)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 1) (Japanese Version).cue",
+      "filesize": 143,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4cf34ccc9fcc461e62e3ed32d8e98628",
+        "sha1": "6f700b7c4326239339601b9f80c9d907a0268a11",
+        "crc32": "7524639b"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Asia) (Disc 1) (Japanese Version).bin",
+      "filesize": 698334672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "86376bc95374437bd9890bdf1d69d4cc",
+        "sha1": "16e042c3a6055a71a14e2bf1721eeb972fbf563c",
+        "crc32": "2769d6ae"
+      }
+    }
+  ]
+}

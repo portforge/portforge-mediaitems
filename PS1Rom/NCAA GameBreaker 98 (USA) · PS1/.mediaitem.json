@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA GameBreaker 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA GameBreaker 98 (USA).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a2e8386d5a3eb65d3c52d972bcf0e0c1",
+        "sha1": "2b016fcd0d18b8ccac09239b306f5172add5c4ae",
+        "crc32": "76964af7"
+      }
+    },
+    {
+      "filename": "NCAA GameBreaker 98 (USA) (Track 1).bin",
+      "filesize": 517875120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "295927c0527a76f8f0513ef54a121b03",
+        "sha1": "53c26ba0f094d36f47821446665108c291047a96",
+        "crc32": "d4470b43"
+      }
+    },
+    {
+      "filename": "NCAA GameBreaker 98 (USA) (Track 2).bin",
+      "filesize": 21457296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6d767299d6962501839eff830ce7e36",
+        "sha1": "c4229f0347b08d40dc3c406cd67f01c617ff6f5e",
+        "crc32": "f579b5ec"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 8 - The Solitaire (Japan) (Culture Publishers)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 8 - The Solitaire (Japan) (Culture Publishers).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f4f090ed8b38da775645d74545290f5",
+        "sha1": "e0d7ae99bf2474c88e9ea22ccfd9836ad66ec01a",
+        "crc32": "a7cd191c"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 8 - The Solitaire (Japan) (Culture Publishers).bin",
+      "filesize": 183467760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a32eff0fcfbca308975aa2ae1e21158b",
+        "sha1": "50525416aeb72972400d3ee3c747a83ff4961172",
+        "crc32": "62c4ab7f"
+      }
+    }
+  ]
+}

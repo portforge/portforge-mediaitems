@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dance Dance Revolution 3rd Mix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dance Dance Revolution 3rd Mix (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "daca66f1eeab142aaf3aa8fe5a71a079",
+        "sha1": "7b24885e06fc3e918ab2019a3e2849f0b1b09ba0",
+        "crc32": "f0ec8e00"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution 3rd Mix (Japan).bin",
+      "filesize": 622779024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af1c53ec3a23600894017954a72ac015",
+        "sha1": "43fc4c92b5ea8a622d954cd0883142de2f90dd3b",
+        "crc32": "41bf5554"
+      }
+    }
+  ]
+}

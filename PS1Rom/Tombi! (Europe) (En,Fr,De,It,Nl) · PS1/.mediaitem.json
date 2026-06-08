@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tombi! (Europe) (En,Fr,De,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tombi! (Europe) (En,Fr,De,It,Nl).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f6dca765009edfb0c850906c1f104ad",
+        "sha1": "1422baaa318b18b2733a553d36f6a8648082baa2",
+        "crc32": "cee8dafe"
+      }
+    },
+    {
+      "filename": "Tombi! (Europe) (En,Fr,De,It,Nl).bin",
+      "filesize": 492306528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c0ba3cb5f773e4a6c1a5af0fd942b3d",
+        "sha1": "48833672d22ddbafe8c3e904dd3aa013a280e1ee",
+        "crc32": "764bc921"
+      }
+    }
+  ]
+}

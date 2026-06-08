@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bob le Bricoleur - Reparer C'est Gagne ! (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bob le Bricoleur - Reparer C'est Gagne ! (France).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e65846cf868209183230ba63e854e89f",
+        "sha1": "8d64076f754a4129c104c0864326a9c2ce4b1124",
+        "crc32": "2e2a1807"
+      }
+    },
+    {
+      "filename": "Bob le Bricoleur - Reparer C'est Gagne ! (France).bin",
+      "filesize": 162443232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a12371522e1cd95d4098dabd534efe3",
+        "sha1": "c248107552d1c7291061962f7bd69c04fb7f2117",
+        "crc32": "cef3a7d5"
+      }
+    }
+  ]
+}

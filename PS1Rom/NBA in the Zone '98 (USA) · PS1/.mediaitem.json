@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA in the Zone '98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA in the Zone '98 (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "731cd4822c8e7943e3389612e5d7bde2",
+        "sha1": "a6385b22d7b61639a75f2fe69ee10d27bf14f86c",
+        "crc32": "eae3d2f4"
+      }
+    },
+    {
+      "filename": "NBA in the Zone '98 (USA).bin",
+      "filesize": 475141632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa8d86fcb439d5d67eb91ef3271a6a47",
+        "sha1": "1c1ff5bc09b32d89ece01243a3150f441bcd14cb",
+        "crc32": "d44ad31d"
+      }
+    }
+  ]
+}

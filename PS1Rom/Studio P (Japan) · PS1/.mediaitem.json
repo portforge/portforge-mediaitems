@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Studio P (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Studio P (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "518c11d13b1e783e99b3fadc18cbb966",
+        "sha1": "834cff00e5729d685c4ac0ea61a8e0e3b0a9ddd2",
+        "crc32": "149c940f"
+      }
+    },
+    {
+      "filename": "Studio P (Japan).bin",
+      "filesize": 582308160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7a9d2eee96c624fc13ac2af198d478b",
+        "sha1": "0e1a3bbcb8ee5a2998510a3abcc2decc04caaf98",
+        "crc32": "8d40ed1a"
+      }
+    }
+  ]
+}

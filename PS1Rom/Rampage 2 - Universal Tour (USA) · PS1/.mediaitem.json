@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rampage 2 - Universal Tour (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rampage 2 - Universal Tour (USA).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e850833af80cf3235d91e3eebe5967e5",
+        "sha1": "1a4da6cea72b381be0824e2967e8ce98c9c5c5da",
+        "crc32": "e1369dad"
+      }
+    },
+    {
+      "filename": "Rampage 2 - Universal Tour (USA).bin",
+      "filesize": 386892240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "faf55a33d3cac0ec67d2c0969fc25125",
+        "sha1": "7146646ad0d23a499850e284f2853a9a5519eb58",
+        "crc32": "6c50f779"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PO'ed (USA) (Beta) (1996-02-02)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PO'ed (USA) (Beta) (1996-02-02).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4301aaaa9bbc7e620548f43fc365060c",
+        "sha1": "bde28686d5bcf649ba66b8d5e440ae8d5ea9565f",
+        "crc32": "59cb3184"
+      }
+    },
+    {
+      "filename": "PO'ed (USA) (Beta) (1996-02-02).bin",
+      "filesize": 83954640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e54e42b2fd81194ae34e1b2d7d6b811e",
+        "sha1": "96c80ba6af15f3df18a227f596e2d8f0d883a691",
+        "crc32": "bbbc3560"
+      }
+    }
+  ]
+}

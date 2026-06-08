@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Australian Summer Special (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Australian Summer Special (Australia).cue",
+      "filesize": 375,
+      "ext": "cue",
+      "checksums": {
+        "md5": "abe0e0805de7fa7be925051dcfd961b3",
+        "sha1": "3fff6015ef2397ac6f06200908e53a171b59f694",
+        "crc32": "784b97e4"
+      }
+    },
+    {
+      "filename": "Australian Summer Special (Australia) (Track 1).bin",
+      "filesize": 448825104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e47ae5bf860ac3d0fc7caf507c9fdff5",
+        "sha1": "fe80569563ccdc32eeee992e016d0aa702a94f20",
+        "crc32": "041a16f6"
+      }
+    },
+    {
+      "filename": "Australian Summer Special (Australia) (Track 2).bin",
+      "filesize": 57304128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef3752f91299602e702fc005b15becc7",
+        "sha1": "c216c0c3b57558bc23537755da3ea32460eb16ee",
+        "crc32": "f63e25ea"
+      }
+    },
+    {
+      "filename": "Australian Summer Special (Australia) (Track 3).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

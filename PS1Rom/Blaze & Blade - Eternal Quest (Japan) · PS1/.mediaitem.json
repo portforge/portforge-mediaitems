@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blaze & Blade - Eternal Quest (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blaze & Blade - Eternal Quest (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a3014776171be8f64a4ec31db63a948f",
+        "sha1": "586dbdf517a3d71f29d53c20370407aae4e2398b",
+        "crc32": "b54d6cc8"
+      }
+    },
+    {
+      "filename": "Blaze & Blade - Eternal Quest (Japan).bin",
+      "filesize": 653914800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d33dde972def91e305b0d69dd232253",
+        "sha1": "50d22af9db8d82db56e0a25318dee8acc223480b",
+        "crc32": "fd3b6e08"
+      }
+    }
+  ]
+}

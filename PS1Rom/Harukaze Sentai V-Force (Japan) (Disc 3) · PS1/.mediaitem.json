@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harukaze Sentai V-Force (Japan) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harukaze Sentai V-Force (Japan) (Disc 3).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eaf6d71a9772957a50aed82bbe6f5630",
+        "sha1": "5d335d2456ba675a45307b54d0cb742b7e99114f",
+        "crc32": "c4a5cb22"
+      }
+    },
+    {
+      "filename": "Harukaze Sentai V-Force (Japan) (Disc 3).bin",
+      "filesize": 710386320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc65c5a1c1cd70841ea5e12e654d4bdb",
+        "sha1": "09e65bd0fda9c1480f10b82df916904270377369",
+        "crc32": "e7852712"
+      }
+    }
+  ]
+}

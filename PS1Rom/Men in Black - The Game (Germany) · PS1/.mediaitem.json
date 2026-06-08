@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Men in Black - The Game (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Men in Black - The Game (Germany).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f24fb93e15bb2a8039028a239db6fbfe",
+        "sha1": "a325fc7a7106aedf5e09e9d819f32217fd9fc657",
+        "crc32": "912dc492"
+      }
+    },
+    {
+      "filename": "Men in Black - The Game (Germany).bin",
+      "filesize": 492353568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4213b1e94b5dd3e44aa6d16e00b44b12",
+        "sha1": "d37b6d2b7abc8d1fc5d0343dec49aef7615176ab",
+        "crc32": "8ef2d10a"
+      }
+    }
+  ]
+}

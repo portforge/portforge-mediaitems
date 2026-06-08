@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Scrabble (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Scrabble (France).cue",
+      "filesize": 426,
+      "ext": "cue",
+      "checksums": {
+        "md5": "42dd6e362e9cb258d44d6b3bc65f8013",
+        "sha1": "d19645024ddee17cf751cff9ffe073d20d5566f6",
+        "crc32": "6d13c454"
+      }
+    },
+    {
+      "filename": "Scrabble (France) (Track 1).bin",
+      "filesize": 299433120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1538a870d180597c7324b7ce564ef69",
+        "sha1": "9ac97b1dee23e78b9517c6a786c24a2ae694ae2f",
+        "crc32": "929103ab"
+      }
+    },
+    {
+      "filename": "Scrabble (France) (Track 2).bin",
+      "filesize": 68379696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e13826ab9f3b33b74f3b201ce01b513c",
+        "sha1": "b8b28985c7d4149027b5fd5cf6b8da446092ef74",
+        "crc32": "8525ec1a"
+      }
+    },
+    {
+      "filename": "Scrabble (France) (Track 3).bin",
+      "filesize": 36543024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f60462a94bf1523e3d778a039f719bc",
+        "sha1": "e36300b3df33b01c03c917603265de5fedc4c10b",
+        "crc32": "0609a4cc"
+      }
+    },
+    {
+      "filename": "Scrabble (France) (Track 4).bin",
+      "filesize": 34746096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "544fa91395d041dba2fd107b658d0522",
+        "sha1": "a61685914c1c99fdef567f04535513aaf1156edc",
+        "crc32": "05ac44af"
+      }
+    }
+  ]
+}

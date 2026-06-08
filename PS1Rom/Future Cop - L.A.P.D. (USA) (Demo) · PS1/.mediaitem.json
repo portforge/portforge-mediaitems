@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Future Cop - L.A.P.D. (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Future Cop - L.A.P.D. (USA) (Demo).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee38391fe5f6237695d52006efa1a0a5",
+        "sha1": "cc99ec57fef57e90afbd9bf3ea915127f65baa32",
+        "crc32": "5d3e4714"
+      }
+    },
+    {
+      "filename": "Future Cop - L.A.P.D. (USA) (Demo).bin",
+      "filesize": 85457568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27bd2c712a621915918096c9b5c43260",
+        "sha1": "47dd7d16d4247cc5f34051fc50b04433a243c4e2",
+        "crc32": "de0b5b5f"
+      }
+    }
+  ]
+}

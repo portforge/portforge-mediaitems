@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Champions League - Season 1999-2000 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Germany).cue",
+      "filesize": 414,
+      "ext": "cue",
+      "checksums": {
+        "md5": "37a913a70106b0e914576f491547ca7c",
+        "sha1": "f6739ded6a06f74bdeee9522a3ff68fb91d550f9",
+        "crc32": "291d9593"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Germany) (Track 1).bin",
+      "filesize": 517665792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5dea8031ee966014cbae68df0010cd2",
+        "sha1": "c1067e2686392da6cccd16d90d18705b7d7a5de4",
+        "crc32": "be9e5fd2"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Germany) (Track 2).bin",
+      "filesize": 66232320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99121bf9625c14cb2945ea2b2295eb00",
+        "sha1": "2c2b7b2c33566ff907e62c78bd350cabe2a9527f",
+        "crc32": "ebcdba29"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Germany) (Track 3).bin",
+      "filesize": 66232320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99121bf9625c14cb2945ea2b2295eb00",
+        "sha1": "2c2b7b2c33566ff907e62c78bd350cabe2a9527f",
+        "crc32": "ebcdba29"
+      }
+    }
+  ]
+}

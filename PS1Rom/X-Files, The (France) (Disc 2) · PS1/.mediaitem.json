@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Files, The (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Files, The (France) (Disc 2).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a36a66f48bc842557d6f2de623a57d3",
+        "sha1": "ac2a8fb282b14992ef935dfadc1b168f9f1e6e3f",
+        "crc32": "2f67676e"
+      }
+    },
+    {
+      "filename": "X-Files, The (France) (Disc 2).bin",
+      "filesize": 719620272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b882f41a90bd03cfe047c45c66352635",
+        "sha1": "6571c2a4b001cb1eaedbee12b087dd63be7fa458",
+        "crc32": "bc5656dc"
+      }
+    }
+  ]
+}

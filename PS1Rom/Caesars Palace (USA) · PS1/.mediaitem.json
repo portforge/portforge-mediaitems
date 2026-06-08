@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Caesars Palace (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Caesars Palace (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c2b7c58ff2181984b019db80103eb631",
+        "sha1": "1e818a9c87689f54ba595cf8d010a44d65243093",
+        "crc32": "35a25af6"
+      }
+    },
+    {
+      "filename": "Caesars Palace (USA).bin",
+      "filesize": 351910944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f128c26464b078a93ae02f1ba376944",
+        "sha1": "317d3ab18c1dd309612efc3e980a2e0f81e5adcd",
+        "crc32": "20a0f529"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Return to Zork (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Return to Zork (Japan) (Disc 2).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0b87bd316a3d22dcf6f9a58736d03a4",
+        "sha1": "017d0de5b2935afc7bc7f46e2844d1af1e98702f",
+        "crc32": "7b72aecb"
+      }
+    },
+    {
+      "filename": "Return to Zork (Japan) (Disc 2).bin",
+      "filesize": 698718048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26e9a0f37436985ab28ccf1ca9f267ff",
+        "sha1": "806a285c0224c075ca71d62ebbad51574d56e64a",
+        "crc32": "74290aac"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puffy no P.S. I Love You (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puffy no P.S. I Love You (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "290b59a66d6b95683f58e1dc1b101d36",
+        "sha1": "a97a6c7f7785b5b3ad85c646a33a08c60cae604b",
+        "crc32": "d2587591"
+      }
+    },
+    {
+      "filename": "Puffy no P.S. I Love You (Japan).bin",
+      "filesize": 442928640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5087e19a5488562da17a0ddd77d428b",
+        "sha1": "d40f23a54ee5c9b58aeb55f9f6486202ed8ad86b",
+        "crc32": "ac305153"
+      }
+    }
+  ]
+}

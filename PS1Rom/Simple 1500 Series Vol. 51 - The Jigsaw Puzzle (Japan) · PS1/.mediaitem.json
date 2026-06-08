@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 51 - The Jigsaw Puzzle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 51 - The Jigsaw Puzzle (Japan).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9bb2506c9d40e28a98a67cedd56e7b1d",
+        "sha1": "4e3c6cfd4a821b971865001f0a41429ba96943c0",
+        "crc32": "99183304"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 51 - The Jigsaw Puzzle (Japan).bin",
+      "filesize": 420307104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a1aa8a473486a3b3296c61b7cf27713",
+        "sha1": "e31c12b9be0b4a1c287751d362f63bb7a03f20b2",
+        "crc32": "a0ed599a"
+      }
+    }
+  ]
+}

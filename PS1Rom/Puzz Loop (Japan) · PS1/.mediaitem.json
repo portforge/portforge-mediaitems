@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puzz Loop (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puzz Loop (Japan).cue",
+      "filesize": 1102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8c355e9106c94f5fad05763cdbdb11b",
+        "sha1": "1b7ac5d4dbf5cb0435950b8a7b46ce008e1a8f3d",
+        "crc32": "22270896"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 01).bin",
+      "filesize": 142669968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "494e872da77c37881a30e2ef6e973811",
+        "sha1": "ee17232935512f81f21726602e5d545d7f6f2854",
+        "crc32": "ce1126bb"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 02).bin",
+      "filesize": 32920944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "115a2eca290545247e18e2390c7a5466",
+        "sha1": "f17dd94c5e70511bef468734a861c44f2d3e18f6",
+        "crc32": "baddb8ae"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 03).bin",
+      "filesize": 33558336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb387dc36b57dc27eb79861e09fb1d6a",
+        "sha1": "0fc0e62bb773194635de7edf577acba611f66735",
+        "crc32": "cf3a12c7"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 04).bin",
+      "filesize": 32953872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9448101131b7cd5bc7fbdb8de1483545",
+        "sha1": "cc618611f3230f7ce3dab53439ab6b63b01ae305",
+        "crc32": "fbca55f9"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 05).bin",
+      "filesize": 32812752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b13f721e950f2bb56ac0696fb0c3962",
+        "sha1": "682dd52a2ed4799618b1300d90aedf021cc8fc87",
+        "crc32": "018ee59f"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 06).bin",
+      "filesize": 33196128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5845921afbe63d43ea7816fb73eb26ad",
+        "sha1": "71040233ed3e912eebc52240c2d0a2fb825fae34",
+        "crc32": "0f09fd15"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 07).bin",
+      "filesize": 8267280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2f363570942c7719da02d7f4dda22ed",
+        "sha1": "4ab8139641c56777d85f13f4f876efa8c76fd051",
+        "crc32": "de674487"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 08).bin",
+      "filesize": 32043648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3859513a0347f0eeb1d9304809fd087f",
+        "sha1": "2e0053d9ee2875224282ede2865c85fc906dd403",
+        "crc32": "395bcede"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 09).bin",
+      "filesize": 4800432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31725ca0a7364b8033a97428fea4327c",
+        "sha1": "1337a7d61bc1997838ba3aecbae18d2088151430",
+        "crc32": "4b720a84"
+      }
+    },
+    {
+      "filename": "Puzz Loop (Japan) (Track 10).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chrono Cross (Japan, Asia) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chrono Cross (Japan, Asia) (Disc 2).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2e857bd78dbe14944d7a005be77510ae",
+        "sha1": "0f87047b374ae279ffdb9221250dd8803bed7f6a",
+        "crc32": "63ca39ad"
+      }
+    },
+    {
+      "filename": "Chrono Cross (Japan, Asia) (Disc 2).bin",
+      "filesize": 742608720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "826a66fb8e10bccf43ad69edb1d7988b",
+        "sha1": "04d839998f7ce95c405fba756891ccafeee429f2",
+        "crc32": "8951c94d"
+      }
+    }
+  ]
+}

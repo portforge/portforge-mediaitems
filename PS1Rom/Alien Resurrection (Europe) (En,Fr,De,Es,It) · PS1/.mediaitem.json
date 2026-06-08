@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alien Resurrection (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alien Resurrection (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 534,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2af011ac4d0ff970d16a5ba9d1639aa0",
+        "sha1": "c0ccc7192c4c99a88c3b3f3bd59d36ae52fb6096",
+        "crc32": "aacc72e6"
+      }
+    },
+    {
+      "filename": "Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 503850144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4aa0eb1fe90b576cfa5850f19a31f5b",
+        "sha1": "5642c4f4ba6f06323778ae29c59c6dc863d49f55",
+        "crc32": "03e470ae"
+      }
+    },
+    {
+      "filename": "Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 15292704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc7df4b523038436294c3ae57b4eeb29",
+        "sha1": "7e8fbb82eafff3b68c2a8ea8235af5bb3ddb5c2f",
+        "crc32": "f3c18581"
+      }
+    },
+    {
+      "filename": "Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 18545520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d0c177da97d7f95877ac9526a60d62a",
+        "sha1": "6e55ee9c136cccb28c1b85c9b6c61be426a1b954",
+        "crc32": "f344ed5b"
+      }
+    },
+    {
+      "filename": "Alien Resurrection (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

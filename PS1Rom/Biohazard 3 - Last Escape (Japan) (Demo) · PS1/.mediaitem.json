@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Biohazard 3 - Last Escape (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Biohazard 3 - Last Escape (Japan) (Demo).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ded52de3629f3e5cf4d57a5581ed18ed",
+        "sha1": "925a854ed849060bdcd9785302a0e1e5bcda2d9e",
+        "crc32": "ccfd8b8b"
+      }
+    },
+    {
+      "filename": "Biohazard 3 - Last Escape (Japan) (Demo) (Track 1).bin",
+      "filesize": 69445152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2baad0dd26cbb5fe58ed0134af4d16d3",
+        "sha1": "36a831f3c5cf355f7d2124fd5001861b6dcc110a",
+        "crc32": "c6e44de1"
+      }
+    },
+    {
+      "filename": "Biohazard 3 - Last Escape (Japan) (Demo) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd8ed52396932823e8a5313e9d3ffa92",
+        "sha1": "60d8bc7007f234948f5cc7d6d0019515e80932b4",
+        "crc32": "668a7353"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Front Mission 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Front Mission 3 (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28c20ebef3348280f0099701008b18e0",
+        "sha1": "5e2f1e5efe9c37fa2248dfeb1f02909f4bfa7657",
+        "crc32": "56d8d77b"
+      }
+    },
+    {
+      "filename": "Front Mission 3 (Japan).bin",
+      "filesize": 616826112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cf885f848a4d3b4e28102f3be28f771",
+        "sha1": "e1ff357dc3907c3b788c441271e8898c1fea304b",
+        "crc32": "8b893036"
+      }
+    }
+  ]
+}

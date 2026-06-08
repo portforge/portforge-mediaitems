@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nice Price Series Vol. 09 - Paradise Casino (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nice Price Series Vol. 09 - Paradise Casino (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31d5398299bfda26990574a56dc604ff",
+        "sha1": "91a11801c59de305c15b0152df2d6b0a63f1d029",
+        "crc32": "b10ed2ee"
+      }
+    },
+    {
+      "filename": "Nice Price Series Vol. 09 - Paradise Casino (Japan).bin",
+      "filesize": 68316192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74a72e9f01ea1d2972fe0e9f3d072725",
+        "sha1": "47869877d2247b45891898f24bfb3dda3a1eef3a",
+        "crc32": "1b53d9b9"
+      }
+    }
+  ]
+}

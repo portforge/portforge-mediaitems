@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Unsolved, The - Hyper Science Adventure (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Unsolved, The - Hyper Science Adventure (Japan) (Disc 1).cue",
+      "filesize": 432,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a2e406c828d81dfca2b0074c91647902",
+        "sha1": "01ac972b0bb95387326f1eef3b54aa9a6b57f4f2",
+        "crc32": "0fb86625"
+      }
+    },
+    {
+      "filename": "Unsolved, The - Hyper Science Adventure (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 414500016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "822eec6a2c83f61ca69bc813172e7938",
+        "sha1": "b145bdcfc1b04f20f3f8ad40f7e2f86aa38a96a9",
+        "crc32": "4f286131"
+      }
+    },
+    {
+      "filename": "Unsolved, The - Hyper Science Adventure (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 42658224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e877ec8757bdb50a133e73c30d1290e",
+        "sha1": "994ce7994edfb811542389f49c8af3ec6aad0b4a",
+        "crc32": "6b5c8ed5"
+      }
+    },
+    {
+      "filename": "Unsolved, The - Hyper Science Adventure (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 47672688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b8c0820695f786b8d09b1488fa9ef18",
+        "sha1": "e9668fd1ff370a42d4f6064774c71ab5fb3e66b2",
+        "crc32": "84a0ca03"
+      }
+    }
+  ]
+}

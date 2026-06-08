@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chine - Intrigue dans la Cite Interdite (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chine - Intrigue dans la Cite Interdite (France).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b892e72bd3d03c3e9dc3c1536f4a7717",
+        "sha1": "ef26b0f6748f6fa9e94eaed4f65ae0a0f89e941d",
+        "crc32": "61dab507"
+      }
+    },
+    {
+      "filename": "Chine - Intrigue dans la Cite Interdite (France).bin",
+      "filesize": 529884432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "480a63fced941b5ead6b99351b852901",
+        "sha1": "9f05967e36bbbe7711f93ee0ad40327f408cf163",
+        "crc32": "86a67573"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Keiba Eight '98 Haru Natsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Keiba Eight '98 Haru Natsu (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1dc3d8226ef6d528eea442152cd9fc4c",
+        "sha1": "97e81f4100fb28d8c7b51f98c408092d7c028903",
+        "crc32": "8731104e"
+      }
+    },
+    {
+      "filename": "Keiba Eight '98 Haru Natsu (Japan).bin",
+      "filesize": 602598864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07315fadb723a8fbbd605a96f37953e1",
+        "sha1": "147e00f018d09e4f76df9913d2ec9efdf2e5a952",
+        "crc32": "4cfab2e1"
+      }
+    }
+  ]
+}

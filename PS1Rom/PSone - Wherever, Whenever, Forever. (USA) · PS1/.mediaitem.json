@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PSone - Wherever, Whenever, Forever. (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PSone - Wherever, Whenever, Forever. (USA).cue",
+      "filesize": 390,
+      "ext": "cue",
+      "checksums": {
+        "md5": "66c675ec15fcdf75d28b6aac43db8a7e",
+        "sha1": "5323a3c9606c48c4daee44e6e9f35e98cb5d2259",
+        "crc32": "93bfeafc"
+      }
+    },
+    {
+      "filename": "PSone - Wherever, Whenever, Forever. (USA) (Track 1).bin",
+      "filesize": 482174112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0014a427188c189cc427c76e6bee0667",
+        "sha1": "7ea4930d1d400b262bfedd0180fe7e30ff0aa425",
+        "crc32": "e0c395a4"
+      }
+    },
+    {
+      "filename": "PSone - Wherever, Whenever, Forever. (USA) (Track 2).bin",
+      "filesize": 23992752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b634b7ea92416e50bf68b15f3d4bbe1",
+        "sha1": "a863d4134e1ca3730a2938d2ff0238c4d7e92eeb",
+        "crc32": "957803ce"
+      }
+    },
+    {
+      "filename": "PSone - Wherever, Whenever, Forever. (USA) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

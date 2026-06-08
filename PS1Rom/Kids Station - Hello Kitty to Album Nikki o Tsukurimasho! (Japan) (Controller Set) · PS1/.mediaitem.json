@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Hello Kitty to Album Nikki o Tsukurimasho! (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Hello Kitty to Album Nikki o Tsukurimasho! (Japan) (Controller Set).cue",
+      "filesize": 148,
+      "ext": "cue",
+      "checksums": {
+        "md5": "24eded827d922818f5265e321ad574bb",
+        "sha1": "0aa4cf69d06b698a244db91007c029a64a3e5a76",
+        "crc32": "86f6303e"
+      }
+    },
+    {
+      "filename": "Kids Station - Hello Kitty to Album Nikki o Tsukurimasho! (Japan) (Controller Set).bin",
+      "filesize": 109890144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "463d0f24b2a08a13229aa740b664060d",
+        "sha1": "ce39e30db3b7c9c8a4b69cf1372397e52c9696cd",
+        "crc32": "3d8b9f21"
+      }
+    }
+  ]
+}

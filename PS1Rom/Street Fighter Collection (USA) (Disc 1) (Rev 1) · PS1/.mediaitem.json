@@ -1,0 +1,737 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Collection (USA) (Disc 1) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1).cue",
+      "filesize": 10278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c580c3393b2ab19f6353a24ad38a9f98",
+        "sha1": "0a8ea6a9d03f0ff2eec7805a91f2f45db23677e5",
+        "crc32": "4af1e61f"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 01).bin",
+      "filesize": 54702816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ea9d7970562e5c6c8641739d184a50d",
+        "sha1": "81ab560545f82c631dbd633a914b8cfa736913e6",
+        "crc32": "f1a74a1f"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 02).bin",
+      "filesize": 13411104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aea7e79aa1752ea69f6b9f73f106620a",
+        "sha1": "d9b22da5e87dce6424fa1755bc2e716d918dbacc",
+        "crc32": "286e2469"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 03).bin",
+      "filesize": 18999456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70ad84d5c353adf29f5f25234458a703",
+        "sha1": "2b63c56f1c26cf8c2a3c4fcd1c3d5a36e10e7390",
+        "crc32": "f55b5bb4"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 04).bin",
+      "filesize": 22842624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71543c032aecf8776222e7b40891a6da",
+        "sha1": "8ab7ee8f119634e074777b7f305f4917791f2830",
+        "crc32": "df0d9c18"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 05).bin",
+      "filesize": 20191920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dbe2608d9450455c19c0b79786b0c7e1",
+        "sha1": "7aced627c64d8feced824a59bfa835bc34dbeba0",
+        "crc32": "adeb6f07"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 06).bin",
+      "filesize": 21283248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d210eed65e6fc208bfdff0b3ec8c33cf",
+        "sha1": "4f9ae78781ae0dd008bd4760f1522426e33bc0a3",
+        "crc32": "e4160536"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 07).bin",
+      "filesize": 20384784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "453ce542923017481fcebc817bc95f30",
+        "sha1": "ca0f2e87dd4c31b0b40d4669712857ab6e42947b",
+        "crc32": "7d9d2178"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 08).bin",
+      "filesize": 13084176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bce2d6f193a7f71811517a3ddf77b2f7",
+        "sha1": "7b19e6a8bccf9e64ea2e06a7a3a69ebc3791c2a8",
+        "crc32": "b783360c"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 09).bin",
+      "filesize": 20241312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c9a0d2b3bf0d7d08ac50588a66505f",
+        "sha1": "faac5b0f0b67712f9c64919f7c6aadba2733ddcc",
+        "crc32": "a6a59798"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 10).bin",
+      "filesize": 20222496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3be93d240e7e8b293c1567b577aba1d",
+        "sha1": "211fb82ad2eaa93e56ce4b01e68899da3f436e12",
+        "crc32": "aef7e62a"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 11).bin",
+      "filesize": 20812848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a280cc9896c286eb986b953012c15a30",
+        "sha1": "f10e8c405668af9456eae237ef24d6cc98b967ae",
+        "crc32": "46d5a57f"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 12).bin",
+      "filesize": 15612576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3de726b110fceea2beeb65033a6f07e2",
+        "sha1": "99feacbc78ba8d244d0aa9e8e578c4649bdb2ecb",
+        "crc32": "d053b686"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 13).bin",
+      "filesize": 24185616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a23c39ed7ba2487fdabecdb415f8d9bb",
+        "sha1": "fa6eaf58b4df2ecd21bb11b6bdc75a417672074e",
+        "crc32": "57b4445a"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 14).bin",
+      "filesize": 14601216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2626fb0df46765ab5fe13db34741987",
+        "sha1": "35dcb73b5c25bc0c5108fcd340247a998b6d29d5",
+        "crc32": "86c45372"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 15).bin",
+      "filesize": 20779920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79ed69f9ff8c04a275d5bde85d852938",
+        "sha1": "146c3e73569c9ea6ebd75e63438786b67857c931",
+        "crc32": "324330f1"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 16).bin",
+      "filesize": 14794080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d60d0427c9e6962fbaa159c29f919be2",
+        "sha1": "a1df1ca0dfa55d347a32a04ae3ce992e6122783b",
+        "crc32": "cdb744fc"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 17).bin",
+      "filesize": 15617280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d5bb58ccb3fa39a3196e16f12feecf7",
+        "sha1": "60683104c951fdec1e3c59e1cec82da1625dbc67",
+        "crc32": "88273989"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 18).bin",
+      "filesize": 14116704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d61fa9ef5f240bc40e37f18efb1c5534",
+        "sha1": "6e8c103a1d8e724b2f453f73f0fb39ef0adb350c",
+        "crc32": "bbaeb962"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 19).bin",
+      "filesize": 5618928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8fbc689b14f781778561b7722fdd8fe",
+        "sha1": "40dca8d5cf7ca7eee1638d6cb3224d698eacceea",
+        "crc32": "e29aad19"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 20).bin",
+      "filesize": 5625984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c95b439aebdd46f95a97194f8983aaca",
+        "sha1": "8d57bb594d9ddbfc82183d962196c48f062f373c",
+        "crc32": "b6c26358"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 21).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e244b4f2c6b0b9d6e3aa2384474f286e",
+        "sha1": "3f262c1ecb19182c4b00869fa92be4670e3eb81f",
+        "crc32": "fdd6218a"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 22).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "081e2de80f6c9361a06c2e1fa04df3ea",
+        "sha1": "66b4a431bb00f0334b34051d615bbb2e54947d4c",
+        "crc32": "297c1e79"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 23).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40bcdd0604e91edc523eef73d0c6325d",
+        "sha1": "8e93f429f4570063e6c83f49b4adadeca5e148fe",
+        "crc32": "089f3516"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 24).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be393599fdb9eaf72acbefe6136d4116",
+        "sha1": "07925332b4d6c6c10dcd281a688a637df1fc02db",
+        "crc32": "1675a709"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 25).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a2e9293ad8a58d90e6b894dbbe4ab9e",
+        "sha1": "f275c63277ba07f06b0e0b0a6fceb8ddcfcfa674",
+        "crc32": "18c47c1c"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 26).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b606d742900bd6cda72bd52b02efcbce",
+        "sha1": "53728bd64af7db595e20f3aa8f164672761f9593",
+        "crc32": "5798f15d"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 27).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a24830fda42ad6db8de3130e1c970f9",
+        "sha1": "01907be1ae7ec68be604a4ae711bc936f04b5c45",
+        "crc32": "2d9bfad9"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 28).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b40216dd024a970cf146c57e1f1bb784",
+        "sha1": "8e0c12d9eeb41c985cfcb7a51a23f166a121c079",
+        "crc32": "b565a7eb"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 29).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73874bd6eaa0d8bd4921e88baac4c344",
+        "sha1": "97c238b894a9500381cbdbd1a77a3d7f6b2e5d43",
+        "crc32": "e0165238"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 30).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8181b67ab2907fb04b0599565ccd5aa",
+        "sha1": "de1245bcfec8e0bedf057271dca11c3bd7bb96e9",
+        "crc32": "43f3d3d0"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 31).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "460c14e1279d1923a64936269b1c7cfd",
+        "sha1": "c1b4690981e3e6dfcb4ee8fc4f9b2206c3de4681",
+        "crc32": "7b7c8ffb"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 32).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60fad1cb6fd16ede1d9f7235e7ea78cb",
+        "sha1": "1e72cc91338ad0aebc73d741a859c4e1763b4c02",
+        "crc32": "6b129a34"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 33).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5090062798513f8c9297522ba307f5e1",
+        "sha1": "8eb9f2b43c1f16741aa552d335bbbe07ebfd20e7",
+        "crc32": "3d2518ba"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 34).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f59b2d1a6f208ac216b5739b45d5855",
+        "sha1": "4c3cf975ad7fa20ef0061d2a25539f9911a670cd",
+        "crc32": "782f73bf"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 35).bin",
+      "filesize": 5647152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17a9014cd396158b9863741ab8eb3875",
+        "sha1": "d57b36e79264a8051b9f5da97de10ecd0d5bc73a",
+        "crc32": "a5507367"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 36).bin",
+      "filesize": 1415904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "51d5e55564a6f14e27055b0ebcbffe9e",
+        "sha1": "57cdd1b6cd1ccf9cadbdbd198c6a21be2b3b8738",
+        "crc32": "7c3d8845"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 37).bin",
+      "filesize": 1270080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbc18581cef5e66addee955641ce9db1",
+        "sha1": "acfab5d61cca881f2837ca46a7b7e75f15f4fc52",
+        "crc32": "6a44f6dd"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 38).bin",
+      "filesize": 11738832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "018c5a694aece284b4b5103e84d18984",
+        "sha1": "dd60f01402da47bd65351c12ecd0da46a9e2c492",
+        "crc32": "e102da73"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 39).bin",
+      "filesize": 6364512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "573d0829c815d2a6d8909e44d7218970",
+        "sha1": "9470e8029c244ed30234e20e3bcab11478c73ffe",
+        "crc32": "c6b16ca3"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 40).bin",
+      "filesize": 6296304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f18581e8e2706901c95b4debddeeaea",
+        "sha1": "6a8939f9062c72ea2f59060ea7ec5c420f1afcab",
+        "crc32": "0bed55e0"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 41).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7a61671d8e183fd9cedc7b5ea9ccd48",
+        "sha1": "67d4f43b9d6fe2a696194f2a156da8bafceb23b4",
+        "crc32": "a7fc7dec"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 42).bin",
+      "filesize": 5917632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "075b195e74161a93a0b193d1e8957a4f",
+        "sha1": "f2a02535c08138c07e195d66cb2d67304e7abfb2",
+        "crc32": "ac64fdec"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 43).bin",
+      "filesize": 4487616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f534505383e6d8c63c047b530883feb",
+        "sha1": "9fcc817179b7bfe50f5f1cd58834a1b57583a954",
+        "crc32": "649b83d0"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 44).bin",
+      "filesize": 5630688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b9a922a370408aad6c149a89b0d1ce3",
+        "sha1": "b6dfd352f42066bacd922bb121ebdc8574f7bddc",
+        "crc32": "c885c313"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 45).bin",
+      "filesize": 1194816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cda69ec8036a420d0dda9651b4782ee",
+        "sha1": "d4311c6fba50ee1e295706a49a63212cfe705ed8",
+        "crc32": "2f3e3e65"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 46).bin",
+      "filesize": 4760448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a153e6ba61e69007e7c53f477bb3bb1f",
+        "sha1": "eef2f926942d093587cc89c5e87af25502592d3c",
+        "crc32": "11d25bc0"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 47).bin",
+      "filesize": 2998800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1833bf34fa301390e684411459642d2e",
+        "sha1": "96a78701191ec68aa9f5ddde22facfce1f376ee4",
+        "crc32": "ee6d6af8"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 48).bin",
+      "filesize": 10233552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d9ff826dffff789c809ce2e12d90df5",
+        "sha1": "c8f059fa77da1ee71cee4f343202d6a156893cc2",
+        "crc32": "ae680269"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 49).bin",
+      "filesize": 8290800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6937d2b6fabadabbb20cfbc1883a0e76",
+        "sha1": "5d5c11d30cbbe9f6fd608baeec026485c429e162",
+        "crc32": "1bf614d3"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 50).bin",
+      "filesize": 4765152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dddbc795660e74aece469e3fab8e8f50",
+        "sha1": "5bd2a63c4a5b82ef1b84532aaabde496a421be4c",
+        "crc32": "7e6a4ffd"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 51).bin",
+      "filesize": 6703200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a583de0139f89821f3e377ad67be2a93",
+        "sha1": "8c5de24f241359c2ba81e36b64f480a077d441b0",
+        "crc32": "6e631c68"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 52).bin",
+      "filesize": 6705552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3cfee89436c0cdc21f39feda240cbc9",
+        "sha1": "8729950598d265fffe59a98744c4114311826b53",
+        "crc32": "5db7abb7"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 53).bin",
+      "filesize": 8293152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dbb859d52ba20bd6bc616b6366c95c16",
+        "sha1": "9b3f87716f053021be7f5a52321fb4456962478d",
+        "crc32": "cd6e7648"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 54).bin",
+      "filesize": 7411152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "585cf4bc1412aa1d8b69d7ba16fc52a5",
+        "sha1": "6ed8c5c923aff6c40ef7bda5c9e89475b48b5901",
+        "crc32": "68356031"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 55).bin",
+      "filesize": 12173952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31a55469e4e9426fc8c2a9148a409afa",
+        "sha1": "0a9fb5db8a63f980d21c3f6e230c4b18bed884e9",
+        "crc32": "792d80d8"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 56).bin",
+      "filesize": 18096288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e29815d98fa79f13beb60d726fdcdb1c",
+        "sha1": "b5faffaef0ab253a01edad11016179606dc74590",
+        "crc32": "65196dc2"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 57).bin",
+      "filesize": 6343344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1a8de28313bb4ac1204edd8970b504c",
+        "sha1": "7334aa0967ecf93936b4aaaee17a6b7a1a3ffaa7",
+        "crc32": "871ec341"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 58).bin",
+      "filesize": 8041488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a824dc797f0d015bb84ce314b40326c",
+        "sha1": "a50e09b722871925e718caf483c12db0989bc697",
+        "crc32": "1b26484c"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 59).bin",
+      "filesize": 7989744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fa374312bcdd07f5ac5c27e731b31f3",
+        "sha1": "f353b725b215ec94402741ee80cfec528c1879dc",
+        "crc32": "dbd3fe6f"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 60).bin",
+      "filesize": 4548768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30f3706a0079e651d1604c35a78d4dd",
+        "sha1": "2251135edd2ca9cfc6c4fc114022a7f8dd79ecc0",
+        "crc32": "0d4b679e"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 61).bin",
+      "filesize": 9732576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4bb674b80cef50ac213f33bfd6fcee6",
+        "sha1": "28c1cc22b11e20544b083d29d6b711ebae5e5878",
+        "crc32": "b3db1344"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 62).bin",
+      "filesize": 4548768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30f3706a0079e651d1604c35a78d4dd",
+        "sha1": "2251135edd2ca9cfc6c4fc114022a7f8dd79ecc0",
+        "crc32": "0d4b679e"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 63).bin",
+      "filesize": 9191616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11230c817642a205773144645e3a0f08",
+        "sha1": "6faee1e8df560a41ee281d69132c98a646a55408",
+        "crc32": "381da497"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 64).bin",
+      "filesize": 2450784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d94685a89089ccf87f59b0d62d82f838",
+        "sha1": "f5be17ca0ea1032da0451d2fe83b221cc86f3095",
+        "crc32": "2617087b"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 65).bin",
+      "filesize": 10449936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1865ccb3ed49d35bb49ca0bd61a4e4bb",
+        "sha1": "65026b656b70d2a7098f4f32e8a19891a7c89d99",
+        "crc32": "ee5cb1b8"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 66).bin",
+      "filesize": 4548768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30f3706a0079e651d1604c35a78d4dd",
+        "sha1": "2251135edd2ca9cfc6c4fc114022a7f8dd79ecc0",
+        "crc32": "0d4b679e"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 67).bin",
+      "filesize": 12352704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "138dae4a012c40d916dea74f49fb0cef",
+        "sha1": "519d9b11b6ee9a5180a417c6934c97eb416dfa43",
+        "crc32": "0e2adadf"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 68).bin",
+      "filesize": 4548768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30f3706a0079e651d1604c35a78d4dd",
+        "sha1": "2251135edd2ca9cfc6c4fc114022a7f8dd79ecc0",
+        "crc32": "0d4b679e"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 69).bin",
+      "filesize": 10120656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58907594a4d6c7fccaeb30e12ea7a19f",
+        "sha1": "9fc04864669fe030f3326bdf43490822b7eee7e6",
+        "crc32": "5a34ece1"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 70).bin",
+      "filesize": 4548768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f30f3706a0079e651d1604c35a78d4dd",
+        "sha1": "2251135edd2ca9cfc6c4fc114022a7f8dd79ecc0",
+        "crc32": "0d4b679e"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 71).bin",
+      "filesize": 9760800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af8842236969bca1c75c509cf0bbf8de",
+        "sha1": "5b61d772a22d032e4abc385008e748c8e9939889",
+        "crc32": "1b579db0"
+      }
+    },
+    {
+      "filename": "Street Fighter Collection (USA) (Disc 1) (Rev 1) (Track 72).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

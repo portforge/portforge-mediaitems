@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Youkai Hana Asobi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Youkai Hana Asobi (Japan).cue",
+      "filesize": 577,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2cc0cc3bc4c80ff79db50d0504f9a3fe",
+        "sha1": "f20c9baac3345ced66b737c46c1ff103a433c6dc",
+        "crc32": "753938b5"
+      }
+    },
+    {
+      "filename": "Youkai Hana Asobi (Japan) (Track 1).bin",
+      "filesize": 31744944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "166acdb68069c504750d4db6d8f26b48",
+        "sha1": "b5262d7dc4dd7fc09db4e58649d35717342cf140",
+        "crc32": "90a0e8bf"
+      }
+    },
+    {
+      "filename": "Youkai Hana Asobi (Japan) (Track 2).bin",
+      "filesize": 28412160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fac8349fab9d9226c73470c3e4fb6f47",
+        "sha1": "c8c9683318bb3aa790424ff22fc93e821c3821d4",
+        "crc32": "b30065e5"
+      }
+    },
+    {
+      "filename": "Youkai Hana Asobi (Japan) (Track 3).bin",
+      "filesize": 26815152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e23719061952777309a1d9861c235788",
+        "sha1": "13c38d43e2b2de36efc46650f3e6027490487bcb",
+        "crc32": "1b1de864"
+      }
+    },
+    {
+      "filename": "Youkai Hana Asobi (Japan) (Track 4).bin",
+      "filesize": 26815152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f32429d7f189817a37d4ffa5639d3683",
+        "sha1": "f1780605920a8f5314e5cd2d897429dbdcd44c72",
+        "crc32": "64769934"
+      }
+    },
+    {
+      "filename": "Youkai Hana Asobi (Japan) (Track 5).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

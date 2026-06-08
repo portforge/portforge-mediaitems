@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warzone 2100 (UK) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warzone 2100 (UK) (Demo).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce049b28d72d8170548512041661759b",
+        "sha1": "d68dbd6e99a474de9eff9ba474393d7bdb2bc4c7",
+        "crc32": "dbe08193"
+      }
+    },
+    {
+      "filename": "Warzone 2100 (UK) (Demo) (Track 1).bin",
+      "filesize": 85172976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d930f33ff8c2c29f6800a843d50b7acf",
+        "sha1": "e7dce61f44cdcd24b57dfc3ce88a9cef186d0697",
+        "crc32": "d932f199"
+      }
+    },
+    {
+      "filename": "Warzone 2100 (UK) (Demo) (Track 2).bin",
+      "filesize": 32457600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13cfced8a5ecfc0acb2955e058a6923d",
+        "sha1": "4956041c0de9c148eb60566bb7afbc0437816526",
+        "crc32": "0d19fa1f"
+      }
+    }
+  ]
+}

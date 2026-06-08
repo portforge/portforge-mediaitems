@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atelier Elie - Elie no Atelier - Salburg no Renkinjutsushi 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atelier Elie - Elie no Atelier - Salburg no Renkinjutsushi 2 (Japan).cue",
+      "filesize": 306,
+      "ext": "cue",
+      "checksums": {
+        "md5": "933a13ab0f712208210d2f395aadfc2e",
+        "sha1": "f75726ba67dc21f2557a454306c2480c3b3c2ea3",
+        "crc32": "1426abaa"
+      }
+    },
+    {
+      "filename": "Atelier Elie - Elie no Atelier - Salburg no Renkinjutsushi 2 (Japan) (Track 1).bin",
+      "filesize": 620130672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8d6f9fce4d5c488c4a87f9853744686",
+        "sha1": "3a7f617bcf540f003e1cbd5812ac5766e685b795",
+        "crc32": "3a1fb53f"
+      }
+    },
+    {
+      "filename": "Atelier Elie - Elie no Atelier - Salburg no Renkinjutsushi 2 (Japan) (Track 2).bin",
+      "filesize": 53256336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a78057591ce9f03828347913a85ad3c6",
+        "sha1": "fda38849067c0083884ddc6ffbb0daaad8896e00",
+        "crc32": "21106781"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tennis no Oujisama - Sweat & Tears (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tennis no Oujisama - Sweat & Tears (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "792f3799eecdf4267803ca871a4f2af1",
+        "sha1": "84f4cb9dd53d5c1b84365c60fb45c674bb054130",
+        "crc32": "5348a92c"
+      }
+    },
+    {
+      "filename": "Tennis no Oujisama - Sweat & Tears (Japan).bin",
+      "filesize": 649845840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0b6fadde347d09aaa69cf001afbc843",
+        "sha1": "c8c2154d07c1c284e8f1a489c0659757965d737c",
+        "crc32": "1eaaa92e"
+      }
+    }
+  ]
+}

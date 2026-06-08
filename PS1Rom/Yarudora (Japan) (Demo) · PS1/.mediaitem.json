@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yarudora (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yarudora (Japan) (Demo).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72e6635866fb3b424044e6d7049ac0a3",
+        "sha1": "b29be129bca055472b09ed4e1e45c60f39692ebd",
+        "crc32": "bfdcaca5"
+      }
+    },
+    {
+      "filename": "Yarudora (Japan) (Demo).bin",
+      "filesize": 552129648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "613d82d88da02e8bfa4cd2575a7b01ab",
+        "sha1": "2ccb0cc6464253f5443b1c0e1acbc31cfff62396",
+        "crc32": "4fcdbe99"
+      }
+    }
+  ]
+}

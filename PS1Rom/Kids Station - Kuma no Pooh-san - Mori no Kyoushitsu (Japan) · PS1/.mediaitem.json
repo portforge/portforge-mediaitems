@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "beeb65aa48df471923ad76435bdc1c02",
+        "sha1": "66237e1f541171c6b7c16725b81e3e950e878e5b",
+        "crc32": "cc268bb4"
+      }
+    },
+    {
+      "filename": "Kids Station - Kuma no Pooh-san - Mori no Kyoushitsu (Japan).bin",
+      "filesize": 266225232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b7d329d8aac99a5766e0f727d6061e3",
+        "sha1": "fe8002b80fd5f2aaeadb812de769c88979530ed9",
+        "crc32": "91ddd3ef"
+      }
+    }
+  ]
+}

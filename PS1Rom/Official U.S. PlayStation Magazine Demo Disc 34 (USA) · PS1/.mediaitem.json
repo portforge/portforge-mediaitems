@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 34 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 34 (USA).cue",
+      "filesize": 423,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3c30bce36ae4780611cbd00bd2b93865",
+        "sha1": "94d35b842a51ed0dfb564e3674eddd6fc1baabca",
+        "crc32": "f3b59e27"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 34 (USA) (Track 1).bin",
+      "filesize": 364891632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2d3ec50b349c54a56c62db7e59363d8",
+        "sha1": "26306edefec961bb86006698fc2b55ccdf10256e",
+        "crc32": "2823a02c"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 34 (USA) (Track 2).bin",
+      "filesize": 18945360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdfcaabf9f1c9500e323a5b30d1a028f",
+        "sha1": "64786447893513063820526d99b7878f648db4cc",
+        "crc32": "42cf3530"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 34 (USA) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

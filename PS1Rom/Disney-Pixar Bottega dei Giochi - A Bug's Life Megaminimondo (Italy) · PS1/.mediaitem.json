@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Bottega dei Giochi - A Bug's Life Megaminimondo (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Bottega dei Giochi - A Bug's Life Megaminimondo (Italy).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9312c8dda0ca4fcb17968f4374e751bc",
+        "sha1": "5aa4e6372c4d1cff266ad9fba27d9ccaa7ddf2db",
+        "crc32": "d1e50b96"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Bottega dei Giochi - A Bug's Life Megaminimondo (Italy).bin",
+      "filesize": 286781712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cb34798ef641375964a617a325d2f40",
+        "sha1": "658eb53b301f519fb03590728d180d6c7946cbaf",
+        "crc32": "d2743551"
+      }
+    }
+  ]
+}

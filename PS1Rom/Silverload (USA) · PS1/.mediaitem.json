@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silverload (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silverload (USA).cue",
+      "filesize": 422,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c7248f45505649f0705d09d2c583be9",
+        "sha1": "bf5c612c79e8f569127e8525a678ae176ff3122a",
+        "crc32": "2fc5b8fb"
+      }
+    },
+    {
+      "filename": "Silverload (USA) (Track 1).bin",
+      "filesize": 178984848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90c83d4534c78a4f2361e4b7afc2e377",
+        "sha1": "5812c3583ee8f907735fceb63fac00d3c09ca0b1",
+        "crc32": "f05327a9"
+      }
+    },
+    {
+      "filename": "Silverload (USA) (Track 2).bin",
+      "filesize": 445061904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21bb480a82f026c5e916e140e878360e",
+        "sha1": "3e26f238a8008cafcd468a60d3a31161aeb829d0",
+        "crc32": "f70681bb"
+      }
+    },
+    {
+      "filename": "Silverload (USA) (Track 3).bin",
+      "filesize": 5825904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d68cb87f7a8d01eda6f401019de38c11",
+        "sha1": "5dd50e086bd2aa2bd76227cc1f716a18c43355db",
+        "crc32": "7dd890fd"
+      }
+    },
+    {
+      "filename": "Silverload (USA) (Track 4).bin",
+      "filesize": 36270192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4e7e659317a4af8e71b3f326eb222b1",
+        "sha1": "23990cefd94b8a4f40e0e3e4e0e67f49a9e63a6b",
+        "crc32": "946faefa"
+      }
+    }
+  ]
+}

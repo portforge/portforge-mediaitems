@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Terry Pratchett's Discworld (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Terry Pratchett's Discworld (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2a0d842f022a547ce6caa075a76765a",
+        "sha1": "4ca8914bc36f24eadf9f6425b260325301d0f359",
+        "crc32": "e9a87ef0"
+      }
+    },
+    {
+      "filename": "Terry Pratchett's Discworld (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 538890240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7807952ed6556a9539ab8b511c3da60d",
+        "sha1": "459101399afb3ce7ae946b44ab444aa9edcd1a96",
+        "crc32": "f779cab9"
+      }
+    }
+  ]
+}

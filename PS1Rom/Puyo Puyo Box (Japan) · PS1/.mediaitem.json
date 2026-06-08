@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puyo Puyo Box (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puyo Puyo Box (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a553dbffa67f6c0e535cb346adc78023",
+        "sha1": "14d3b5544317d15b8ea3c764b1f6a2b844b385e0",
+        "crc32": "8c7825e8"
+      }
+    },
+    {
+      "filename": "Puyo Puyo Box (Japan).bin",
+      "filesize": 141853824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d59d404d8d74d35f2cc18296e51e506",
+        "sha1": "ca01a98ccc5ca796df082782a6dd1adee856c064",
+        "crc32": "0c0ad833"
+      }
+    }
+  ]
+}

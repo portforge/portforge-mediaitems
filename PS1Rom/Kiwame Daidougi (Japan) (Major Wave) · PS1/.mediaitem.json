@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kiwame Daidougi (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kiwame Daidougi (Japan) (Major Wave).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "630dff55e52e856e424aa43cbaa61a3b",
+        "sha1": "e2f1aac27d63b5a69fdc55cbd127f1e2cb589386",
+        "crc32": "9b06bc14"
+      }
+    },
+    {
+      "filename": "Kiwame Daidougi (Japan) (Major Wave).bin",
+      "filesize": 49688352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d70607741300d9f84efaa69f83c67cfc",
+        "sha1": "6e38168374fb7aa8bb28855b01cc79478fde26aa",
+        "crc32": "7e52ffef"
+      }
+    }
+  ]
+}

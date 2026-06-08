@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Toon Adventures - Buster and the Beanstalk (Europe) (Fr,De,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Toon Adventures - Buster and the Beanstalk (Europe) (Fr,De,It).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9e7461c64f3358a94ddeae6c30d8f036",
+        "sha1": "9df4d7103a53a73a223d4c55ba21cb05315402af",
+        "crc32": "88486c46"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Buster and the Beanstalk (Europe) (Fr,De,It).bin",
+      "filesize": 444662064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b359bd10d597a2aa9e4c97d795f5a6c5",
+        "sha1": "d8a3c8b17e5fee3e9d9bba8134da1b473caa1634",
+        "crc32": "901682d6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Chronicles - Final Fantasy IV (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Chronicles - Final Fantasy IV (USA, Canada).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b846636ce27314eb8a567c591666dc9e",
+        "sha1": "1e2ac3cbdb7d78e2f8a7acaaa44b780a6b02f6b5",
+        "crc32": "8298b6cf"
+      }
+    },
+    {
+      "filename": "Final Fantasy Chronicles - Final Fantasy IV (USA, Canada).bin",
+      "filesize": 385885584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e54c9b217874d8219fca6b36165ecbe",
+        "sha1": "a84f64d3281b8b5122536a8954629629d0efd9a5",
+        "crc32": "6148fdb4"
+      }
+    }
+  ]
+}

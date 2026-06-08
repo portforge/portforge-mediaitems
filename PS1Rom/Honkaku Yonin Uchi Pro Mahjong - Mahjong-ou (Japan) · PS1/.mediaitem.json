@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Honkaku Yonin Uchi Pro Mahjong - Mahjong-ou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Honkaku Yonin Uchi Pro Mahjong - Mahjong-ou (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0def3f14adc180bf5b696c082a197fb",
+        "sha1": "9c1beece244d8a08a6c26291d530a90df525cf55",
+        "crc32": "c6a8f536"
+      }
+    },
+    {
+      "filename": "Honkaku Yonin Uchi Pro Mahjong - Mahjong-ou (Japan).bin",
+      "filesize": 264731712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f417ba6461ba3eb398f03c39db84e16",
+        "sha1": "71178409e01004bcd8d98bcf700426108ffad19a",
+        "crc32": "58a9271e"
+      }
+    }
+  ]
+}

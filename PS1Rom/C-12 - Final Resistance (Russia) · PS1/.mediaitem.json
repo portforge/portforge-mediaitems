@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "C-12 - Final Resistance (Russia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "C-12 - Final Resistance (Russia).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f62393ef06697f812f07cc2ceb53394",
+        "sha1": "34cd624c89aee16e2a837b69fdca9b2aee70acd1",
+        "crc32": "7200f9aa"
+      }
+    },
+    {
+      "filename": "C-12 - Final Resistance (Russia) (Track 1).bin",
+      "filesize": 454989696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f7839e8336fff60ed716fc251de550d",
+        "sha1": "6a49920b87b80f63fdd56f97cbeb411d8b092047",
+        "crc32": "0dda8fa2"
+      }
+    },
+    {
+      "filename": "C-12 - Final Resistance (Russia) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

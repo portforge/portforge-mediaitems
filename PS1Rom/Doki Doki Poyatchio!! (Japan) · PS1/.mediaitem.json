@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doki Doki Poyatchio!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doki Doki Poyatchio!! (Japan).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "15621269be59ab7a72ba0247530b1891",
+        "sha1": "0cf2e5a1a32a4693023f3e3c9ef1242c7c9a7b48",
+        "crc32": "a5933eb7"
+      }
+    },
+    {
+      "filename": "Doki Doki Poyatchio!! (Japan).bin",
+      "filesize": 711908064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ef8ee38b5a1e85b46cbf2f704d9f463",
+        "sha1": "be62448e2f80879ceea35c00e68d0cc1d9c40695",
+        "crc32": "463daee7"
+      }
+    }
+  ]
+}

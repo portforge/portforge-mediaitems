@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gekioh - Shooting King (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gekioh - Shooting King (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87abc62fb165107db23cb1493ffebca6",
+        "sha1": "958033de251406e5f48f32f379427e0b24fe4b22",
+        "crc32": "9137997d"
+      }
+    },
+    {
+      "filename": "Gekioh - Shooting King (USA).bin",
+      "filesize": 697447968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c285c298ba210443233986557e021034",
+        "sha1": "7a41e90d624e4d20876377e62324b5980a3fa012",
+        "crc32": "e2c30d50"
+      }
+    }
+  ]
+}

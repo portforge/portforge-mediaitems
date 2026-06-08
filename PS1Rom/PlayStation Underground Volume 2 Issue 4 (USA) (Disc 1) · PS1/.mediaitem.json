@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Volume 2 Issue 4 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 4 (USA) (Disc 1).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd86433f534b8e242e43fbed2f2fa5ab",
+        "sha1": "2cec7baaad1227d035a3a5e1d5b077fcd75a3576",
+        "crc32": "40ece046"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 4 (USA) (Disc 1).bin",
+      "filesize": 718434864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7117b2f6365abea75987131afd6ca1e7",
+        "sha1": "ef5f6034e0182edbe3c04dbbdfccba68b8a78cfb",
+        "crc32": "e545b1c1"
+      }
+    }
+  ]
+}

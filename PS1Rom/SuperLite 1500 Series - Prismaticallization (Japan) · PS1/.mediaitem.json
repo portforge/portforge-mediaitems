@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Prismaticallization (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Prismaticallization (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "507f57cbf9a88cf9ec157e2d5fef3e01",
+        "sha1": "347b1fedc50b33c5bb5f0623d316dc272d161ad2",
+        "crc32": "237d992f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Prismaticallization (Japan).bin",
+      "filesize": 185377584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "905f92203421c302d36f0b2aea27881f",
+        "sha1": "2f0abd4fa37df30d695fed76186147d43939b6f0",
+        "crc32": "da3d51d5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Lilo & Stitch - Grossi Guai alle Hawaii (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Lilo & Stitch - Grossi Guai alle Hawaii (Italy).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "82c831e2f19d9277f3cd42299e38e68e",
+        "sha1": "89250633f391647b56b3ba12a7588ca710cfd583",
+        "crc32": "15fc1977"
+      }
+    },
+    {
+      "filename": "Disney Lilo & Stitch - Grossi Guai alle Hawaii (Italy).bin",
+      "filesize": 477350160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c01be086acdb819fc5a5bedb2cae7214",
+        "sha1": "a5d9725d020dc5da6607b01dac7b9150635ade18",
+        "crc32": "ed844370"
+      }
+    }
+  ]
+}

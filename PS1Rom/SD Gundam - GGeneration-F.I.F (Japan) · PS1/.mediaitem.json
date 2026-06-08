@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SD Gundam - GGeneration-F.I.F (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SD Gundam - GGeneration-F.I.F (Japan).cue",
+      "filesize": 244,
+      "ext": "cue",
+      "checksums": {
+        "md5": "979dc4514b6e730ab1f6af9d916d40af",
+        "sha1": "5db53de9b0e94bbdc95310860f2bff7623c7388b",
+        "crc32": "c14a3d14"
+      }
+    },
+    {
+      "filename": "SD Gundam - GGeneration-F.I.F (Japan) (Track 1).bin",
+      "filesize": 639656976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2aacc8d72b0406fe381177b9b9dd10a",
+        "sha1": "2e81b9d2c3cfa5000dc15e2da19441c90fc785e1",
+        "crc32": "c282a5f6"
+      }
+    },
+    {
+      "filename": "SD Gundam - GGeneration-F.I.F (Japan) (Track 2).bin",
+      "filesize": 32149488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6edd79f1937bef8f5d89c8c85f4d9026",
+        "sha1": "93d8e660fc96a66884a1f82e2719a65b682caa3f",
+        "crc32": "07ade0c8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monaco Grand Prix Racing Simulation 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monaco Grand Prix Racing Simulation 2 (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f3db473d59b501cfb406b0ddf2c4fd1",
+        "sha1": "93f5adb54d4eecab50705375747a4ce8f9974b3d",
+        "crc32": "c08b8875"
+      }
+    },
+    {
+      "filename": "Monaco Grand Prix Racing Simulation 2 (Japan).bin",
+      "filesize": 688145808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3abb4f8f1ce240a346abea45d1594d45",
+        "sha1": "ad1d2e6662340f58511c5dc9069dda5192e01b25",
+        "crc32": "2d97e06b"
+      }
+    }
+  ]
+}

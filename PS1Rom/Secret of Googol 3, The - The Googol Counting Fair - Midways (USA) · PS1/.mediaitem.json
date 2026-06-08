@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Secret of Googol 3, The - The Googol Counting Fair - Midways (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Secret of Googol 3, The - The Googol Counting Fair - Midways (USA).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73a340a2d8b7a20fabe41527f189fcef",
+        "sha1": "8922783ba64f5c268ca820537e8bf0eb22936d96",
+        "crc32": "3a8b50db"
+      }
+    },
+    {
+      "filename": "Secret of Googol 3, The - The Googol Counting Fair - Midways (USA).bin",
+      "filesize": 653540832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2188c9051a76d8f7df83e5bd924af0c2",
+        "sha1": "f35d2fc260668812363a9b3350816cb1024bf358",
+        "crc32": "f7a28807"
+      }
+    }
+  ]
+}

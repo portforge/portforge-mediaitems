@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "D-1 Grand Prix (Japan) (Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "D-1 Grand Prix (Japan) (Taikenban).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f29dd7ead4cf5ba080c2d37afb9d2aa",
+        "sha1": "e2a0d0a7e36195fd0ddc6771d76b7a2888f07bd2",
+        "crc32": "aeb36280"
+      }
+    },
+    {
+      "filename": "D-1 Grand Prix (Japan) (Taikenban).bin",
+      "filesize": 75722640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62ff5758eafa0636a1d695f91b51a0e4",
+        "sha1": "106ee4fae7d9d1cd29fa840e3796cf9b0fe06f3a",
+        "crc32": "5e3dda30"
+      }
+    }
+  ]
+}

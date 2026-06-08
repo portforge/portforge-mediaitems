@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Worms World Party (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta) (2001-09-25)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Worms World Party (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta) (2001-09-25).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d7494116f576d7af932c5699e070d2b",
+        "sha1": "a5829113b3a564df317477fb85e719713a1ae03d",
+        "crc32": "5564de33"
+      }
+    },
+    {
+      "filename": "Worms World Party (Europe) (En,Fr,De,Es,It,Nl,Sv,Da) (Beta) (2001-09-25).bin",
+      "filesize": 518357280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f26b0de77f2cd51f955aff11686112d1",
+        "sha1": "034d4f0d41fcbebf7d4c6abf5f30ad38917cd092",
+        "crc32": "9bd0f073"
+      }
+    }
+  ]
+}

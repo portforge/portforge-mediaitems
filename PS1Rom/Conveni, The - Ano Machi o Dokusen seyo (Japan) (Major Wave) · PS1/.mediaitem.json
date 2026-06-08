@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Conveni, The - Ano Machi o Dokusen seyo (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Conveni, The - Ano Machi o Dokusen seyo (Japan) (Major Wave).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4facd7693d0bd0b657a9a4fc65f894f9",
+        "sha1": "de8b91903bed6fe3be6f66ec3f24a1da0ffb7d3b",
+        "crc32": "632375f6"
+      }
+    },
+    {
+      "filename": "Conveni, The - Ano Machi o Dokusen seyo (Japan) (Major Wave).bin",
+      "filesize": 92007888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ee03168d61bcabe56710dcf94c26a28",
+        "sha1": "9c078a98cca7857668ae316d6b383f7a30ddeace",
+        "crc32": "3deea72b"
+      }
+    }
+  ]
+}

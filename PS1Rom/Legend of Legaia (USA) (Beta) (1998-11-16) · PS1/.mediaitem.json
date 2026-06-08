@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Legaia (USA) (Beta) (1998-11-16)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Legaia (USA) (Beta) (1998-11-16).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b7ce42a53c79bb9c6982118ed6c2b6f1",
+        "sha1": "2d3ae3bdfe21b5d691de1cae3579c3f30491f44e",
+        "crc32": "38dc94a7"
+      }
+    },
+    {
+      "filename": "Legend of Legaia (USA) (Beta) (1998-11-16).bin",
+      "filesize": 461932800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b93d6b08df634352aaf861339231eb67",
+        "sha1": "a58ce4094ef440e3e6e582de45599a3d2d29447c",
+        "crc32": "cbc39106"
+      }
+    }
+  ]
+}

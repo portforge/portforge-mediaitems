@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 99 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 99 (Spain).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0a8a532045f80e9015fe6b8a29aa309f",
+        "sha1": "579b613f9c623480033bcd073ac228254b041110",
+        "crc32": "c6ffd355"
+      }
+    },
+    {
+      "filename": "NBA Live 99 (Spain).bin",
+      "filesize": 496201440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb43dbab5e34ecdd6e8a148db7f607c4",
+        "sha1": "da444ad3912682151f8f58632c93506f486c58bc",
+        "crc32": "4da3947b"
+      }
+    }
+  ]
+}

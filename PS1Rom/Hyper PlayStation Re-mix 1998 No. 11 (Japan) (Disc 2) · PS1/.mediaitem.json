@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hyper PlayStation Re-mix 1998 No. 11 (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 11 (Japan) (Disc 2).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "10b71e413811e14f5c47b8331364478b",
+        "sha1": "7e3d15fd18a8c739dc0deb6f41fbec3d957a5da7",
+        "crc32": "d42467b7"
+      }
+    },
+    {
+      "filename": "Hyper PlayStation Re-mix 1998 No. 11 (Japan) (Disc 2).bin",
+      "filesize": 453964224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26b253827a1454f288441a4fcf24e91a",
+        "sha1": "9ed600396b8cf2ec27d1401b05aaa034670dff2a",
+        "crc32": "cda4c1eb"
+      }
+    }
+  ]
+}

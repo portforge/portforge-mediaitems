@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Future Cop - L.A.P.D. (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Future Cop - L.A.P.D. (Germany).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5733f1400bc69d6fe8c806615a9739b7",
+        "sha1": "5dd7a66e3bd7bc13249cc69c3b8218bd2abedcb5",
+        "crc32": "799ccd75"
+      }
+    },
+    {
+      "filename": "Future Cop - L.A.P.D. (Germany).bin",
+      "filesize": 351221808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cd223ac301a5c4fa2117621b108d06f",
+        "sha1": "c6762115e8c7b220bea05b94240241de3a8dc954",
+        "crc32": "fa5d71fe"
+      }
+    }
+  ]
+}

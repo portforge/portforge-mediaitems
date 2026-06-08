@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 2).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f529d42917dcb5b48cbf3447596d852f",
+        "sha1": "28b179f485eab7b2560f54288306130e0d88ccfb",
+        "crc32": "cc586683"
+      }
+    },
+    {
+      "filename": "Cinema Eikaiwa Series Dai-6-dan - Ai no Hate ni (Japan) (Disc 2).bin",
+      "filesize": 688830240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ab406f7b1900e3d1297628bdc14e417",
+        "sha1": "b9b45fea38be79a870fec34cebea10d1485ddea8",
+        "crc32": "9c8db48a"
+      }
+    }
+  ]
+}

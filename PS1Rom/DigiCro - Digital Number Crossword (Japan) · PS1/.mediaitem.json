@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DigiCro - Digital Number Crossword (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan).cue",
+      "filesize": 1070,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a4b8abe5521ec4215fdec225bfb5b09",
+        "sha1": "38bb5a03f22859d7bd40f760a6a50f93826cb71a",
+        "crc32": "55b93c56"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 1).bin",
+      "filesize": 75482736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "509e3d37c0d1a671d8774c393ec6a790",
+        "sha1": "9ad6c48af37d178f15cd061e5779a83c3fce039b",
+        "crc32": "f32953d6"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 2).bin",
+      "filesize": 58042656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c3500c1922c6995f76c7b86f56cf2f7",
+        "sha1": "b63538ed0319c567a77d3d00d286a45471d528da",
+        "crc32": "4a950ddc"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 3).bin",
+      "filesize": 53380992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b900c4ef34c545234f2d7c987a913c1",
+        "sha1": "f23b51957fa0d3720a44f2ede8ee3842be9b4256",
+        "crc32": "d38757c2"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 4).bin",
+      "filesize": 68894784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e63dd25f0ad6f59b3815cac09712c471",
+        "sha1": "8596b50112c108cbdabe5ddcfbacad51dba7e121",
+        "crc32": "0d3e04e6"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 5).bin",
+      "filesize": 22986096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e763cafc50c0783782fc715623a7d013",
+        "sha1": "45d3df257929aabcc6190b9368ab1f576c010199",
+        "crc32": "470776c2"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 6).bin",
+      "filesize": 6602064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fd99991ac800c0ffaf1ea976ae26ef2",
+        "sha1": "863a41ddeeb606f758d44fe06642353251054153",
+        "crc32": "b79a071d"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 7).bin",
+      "filesize": 39584160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e3ab90866594e8f69c50975ef9bab7e",
+        "sha1": "f320beb148df5944ec7f13b4d93e90bf416b0389",
+        "crc32": "2ef68014"
+      }
+    },
+    {
+      "filename": "DigiCro - Digital Number Crossword (Japan) (Track 8).bin",
+      "filesize": 39584160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e3ab90866594e8f69c50975ef9bab7e",
+        "sha1": "f320beb148df5944ec7f13b4d93e90bf416b0389",
+        "crc32": "2ef68014"
+      }
+    }
+  ]
+}

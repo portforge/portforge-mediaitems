@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL GameDay 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL GameDay 98 (USA).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45f91da7afd5d4e124e6889bd03b185e",
+        "sha1": "7ba37bf3ffcf63c5fd56b4ac4b419ccc4578f5e8",
+        "crc32": "7b6a6b3e"
+      }
+    },
+    {
+      "filename": "NFL GameDay 98 (USA) (Track 1).bin",
+      "filesize": 703542000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3e6733606ca5657c5bad68a8072d8df",
+        "sha1": "c9cbd2077ed4921c1d9f3cd397b40e8a93a23c0b",
+        "crc32": "bbf8e8bf"
+      }
+    },
+    {
+      "filename": "NFL GameDay 98 (USA) (Track 2).bin",
+      "filesize": 21810096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4db6784cb2fe97b43f74c5a49b6c0675",
+        "sha1": "c1e98ba9d7f0c5b153d06dee16bfd83c2485f095",
+        "crc32": "23d0eb25"
+      }
+    }
+  ]
+}

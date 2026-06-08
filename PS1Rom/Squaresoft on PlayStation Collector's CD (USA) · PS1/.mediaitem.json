@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Squaresoft on PlayStation Collector's CD (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Squaresoft on PlayStation Collector's CD (USA).cue",
+      "filesize": 402,
+      "ext": "cue",
+      "checksums": {
+        "md5": "785cc27f27b4888afaebf00e9de39f3c",
+        "sha1": "ae9765ba1327ad937cc10d78a5ec082cbefdaa0b",
+        "crc32": "588405f2"
+      }
+    },
+    {
+      "filename": "Squaresoft on PlayStation Collector's CD (USA) (Track 1).bin",
+      "filesize": 252059136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31705e7e326f31f28d17ce5a23b245e8",
+        "sha1": "356f8e95149f86977f6c30bc8c8b4365e416d0db",
+        "crc32": "832552c6"
+      }
+    },
+    {
+      "filename": "Squaresoft on PlayStation Collector's CD (USA) (Track 2).bin",
+      "filesize": 26826912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde70d4c7d91d12de66420acb1b8f27d",
+        "sha1": "ea44fcd76443f714993a758850254f2332efee38",
+        "crc32": "5f16ff59"
+      }
+    },
+    {
+      "filename": "Squaresoft on PlayStation Collector's CD (USA) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

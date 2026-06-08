@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gauntlet Legends (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gauntlet Legends (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8557925a67c5336d76014c16642a2cd2",
+        "sha1": "5f35ce19f1b39f5d8be3c471dbd28baa739c79b2",
+        "crc32": "3dad4507"
+      }
+    },
+    {
+      "filename": "Gauntlet Legends (USA).bin",
+      "filesize": 707895552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e788e741e9067d2e06799b7054a5d9ae",
+        "sha1": "305aaeb7ed7b51358e51dde5b404186bc52a6459",
+        "crc32": "48d578b1"
+      }
+    }
+  ]
+}

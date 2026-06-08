@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6e56d26a8a333f0563ec5d769a25264",
+        "sha1": "58ffd07a792ba9b6c062a5d82693fd3483fcd897",
+        "crc32": "6d270704"
+      }
+    },
+    {
+      "filename": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (Track 1).bin",
+      "filesize": 77451360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f7070ba26a0aeb0a022c666403171bc",
+        "sha1": "53138ce069e18d86e93a10449c3cf6b237636fde",
+        "crc32": "a0d52c0e"
+      }
+    },
+    {
+      "filename": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

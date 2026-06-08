@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Captain Love (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Captain Love (Japan) (Major Wave).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "861ead7746412f400ac58c90f0abdfe3",
+        "sha1": "23e3e45e8853fad0d1b8fda0e1449c1a3fca36a1",
+        "crc32": "3a52a9a8"
+      }
+    },
+    {
+      "filename": "Captain Love (Japan) (Major Wave).bin",
+      "filesize": 656379696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0155284ca70e4e4b329976ff77cdeb06",
+        "sha1": "3d0cab6ec6952e6abae3e954bd83e604163efd70",
+        "crc32": "6685e5ed"
+      }
+    }
+  ]
+}

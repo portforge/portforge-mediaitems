@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GZSZ Vol. 3 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GZSZ Vol. 3 (Germany).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f4731cc4d92fa9e1718e9d2bce2b3668",
+        "sha1": "7e6eaeb349dd071f6e8d24490b3b52715569de58",
+        "crc32": "b54cb26a"
+      }
+    },
+    {
+      "filename": "GZSZ Vol. 3 (Germany).bin",
+      "filesize": 652258992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0e602cf2a848c0ffcb3ab8914688495",
+        "sha1": "482ac23a32094c48f2a320c6bcfc66dfe5f56a7d",
+        "crc32": "ebd7390e"
+      }
+    }
+  ]
+}

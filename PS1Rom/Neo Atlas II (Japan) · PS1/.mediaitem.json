@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Neo Atlas II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Neo Atlas II (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e39a51f4566937c2dae75d7c2ab66793",
+        "sha1": "02e34c2671f4aff5eb72da42fdd71f903c66de7e",
+        "crc32": "e37bbf1a"
+      }
+    },
+    {
+      "filename": "Neo Atlas II (Japan).bin",
+      "filesize": 321231456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c93df70d67d996970c83e3a41075f5f",
+        "sha1": "41d89aa759cc04e72c1a4176fbad20f61254761d",
+        "crc32": "c8707e12"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guuguuthropus (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guuguuthropus (Japan) (Demo).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b31f3d14bfecba20cf465eb7577c8f0",
+        "sha1": "17ba598f7f5514334b2d46581d0d534db4e72f48",
+        "crc32": "feefa236"
+      }
+    },
+    {
+      "filename": "Guuguuthropus (Japan) (Demo).bin",
+      "filesize": 77564256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9ce833ebd395f8c2f8167645808f910",
+        "sha1": "8b1f709983db4fb02cee3a50285891e1f0257af4",
+        "crc32": "5711b79d"
+      }
+    }
+  ]
+}

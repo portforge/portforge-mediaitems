@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silent Bomber (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silent Bomber (Italy).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c6aecd6014563a4368dfb17d6507b9f",
+        "sha1": "8434ddde93a6a4a76a82753d6cc28fae356a46b3",
+        "crc32": "f02c9ae9"
+      }
+    },
+    {
+      "filename": "Silent Bomber (Italy).bin",
+      "filesize": 386699376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d55fad38204f01ad68c6222429991ce",
+        "sha1": "43e0b571630adefe8268ebdb8f1b7d011a629940",
+        "crc32": "7f3d8ea2"
+      }
+    }
+  ]
+}

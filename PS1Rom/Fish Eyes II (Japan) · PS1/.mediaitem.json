@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fish Eyes II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fish Eyes II (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2c0e3f24bd416f79a14687e4327053e",
+        "sha1": "aff0c81555193be16353faeb0a973757bbb467bd",
+        "crc32": "c5e568b7"
+      }
+    },
+    {
+      "filename": "Fish Eyes II (Japan).bin",
+      "filesize": 258409536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4807f26ac4a525e857d6514d2678dfd6",
+        "sha1": "3988f3cdac7dead473a34aa91127ad198edf9767",
+        "crc32": "7946478f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F1 Championship Season 2000 (Europe) (En,Es,Sv,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F1 Championship Season 2000 (Europe) (En,Es,Sv,Fi).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dafb0fe505517f8027eade1b9d583b36",
+        "sha1": "0c10dfa6ef867ed871deb97212e2dd063b5b15e6",
+        "crc32": "40d85ccf"
+      }
+    },
+    {
+      "filename": "F1 Championship Season 2000 (Europe) (En,Es,Sv,Fi).bin",
+      "filesize": 690615408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60c34efa0df58d87fc82a3bfdbca9c42",
+        "sha1": "b534b0744fbefd48f7474d23cfb1d22b7cfcdf03",
+        "crc32": "d2c9365a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou - Bunny Girl SP (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou - Bunny Girl SP (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2bc5f88b3e405025e942c978d3420a50",
+        "sha1": "69d7c9843c82c31d7d7ad6e5ce4bdfee421b9e92",
+        "crc32": "29c0bce1"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou - Bunny Girl SP (Japan).bin",
+      "filesize": 75111120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ddd754d1226c556f39d07a7903059ed",
+        "sha1": "be3075ba2e80ff385851ac03ef84b92fdd5437e4",
+        "crc32": "be1ebf87"
+      }
+    }
+  ]
+}

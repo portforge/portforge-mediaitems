@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lord of Monsters (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lord of Monsters (Japan) (Demo).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d87a67d03f9ef6015e95d6cfdac6c703",
+        "sha1": "9b95ec439947a4b1d54bfabfc7612c3880c8bb36",
+        "crc32": "cccb6a6f"
+      }
+    },
+    {
+      "filename": "Lord of Monsters (Japan) (Demo).bin",
+      "filesize": 679382256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "038f818947efbe145866c2b414b1e549",
+        "sha1": "412bb9bcf2d9a05a73d526bb3292b3ab9c145ac4",
+        "crc32": "58b26366"
+      }
+    }
+  ]
+}

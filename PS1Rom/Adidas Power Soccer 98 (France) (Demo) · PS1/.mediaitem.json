@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Adidas Power Soccer 98 (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Adidas Power Soccer 98 (France) (Demo).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86df099c76133b2abe3ff921daaaea59",
+        "sha1": "208e1dfd75f2c30299b8b8b97a8e41593021e601",
+        "crc32": "28e63384"
+      }
+    },
+    {
+      "filename": "Adidas Power Soccer 98 (France) (Demo).bin",
+      "filesize": 607182912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52368c1ea4c6e03819508fedac6cc670",
+        "sha1": "100b2d4533a721e74eeb8bf30782ea2e4afcc424",
+        "crc32": "8aa9deee"
+      }
+    }
+  ]
+}

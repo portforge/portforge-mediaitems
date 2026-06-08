@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Extra Collection (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Extra Collection (Japan).cue",
+      "filesize": 510,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6520e36c3ee43a0e415a1e882814edf5",
+        "sha1": "8702bbe471daec987708fed17e5d9027c3e2f510",
+        "crc32": "5eda9361"
+      }
+    },
+    {
+      "filename": "Final Fantasy Extra Collection (Japan) (Track 1).bin",
+      "filesize": 632890272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a651d826983748f4b080913dbe97897",
+        "sha1": "2ebd9a6b04b6ade5bcbf3e672f95b52b7b6fc91a",
+        "crc32": "1b089112"
+      }
+    },
+    {
+      "filename": "Final Fantasy Extra Collection (Japan) (Track 2).bin",
+      "filesize": 23409456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "098ea5de08538c161628104db006a6ef",
+        "sha1": "bf2ae48e38cb514f79b6bfe611ac782319645e37",
+        "crc32": "b1fdb5c5"
+      }
+    },
+    {
+      "filename": "Final Fantasy Extra Collection (Japan) (Track 3).bin",
+      "filesize": 16652160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1b0d4dfc381079732cafb92259f13ed",
+        "sha1": "1530caa0e5b880ceca388231e3411dc388750c2e",
+        "crc32": "f6c8b927"
+      }
+    },
+    {
+      "filename": "Final Fantasy Extra Collection (Japan) (Track 4).bin",
+      "filesize": 44283456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c56d29f63b5292f70c491d9fd01165c8",
+        "sha1": "df58370fc87a71c27d1ee955c3b5b0de88941b3a",
+        "crc32": "7cd3ab85"
+      }
+    }
+  ]
+}

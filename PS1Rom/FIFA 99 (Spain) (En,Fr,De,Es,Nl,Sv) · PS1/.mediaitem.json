@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 99 (Spain) (En,Fr,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 99 (Spain) (En,Fr,De,Es,Nl,Sv).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "afa05f3031f65b237cbe223daada5673",
+        "sha1": "a75125f0b74d65e90891c2b6c673ca9bd7827eca",
+        "crc32": "666cd228"
+      }
+    },
+    {
+      "filename": "FIFA 99 (Spain) (En,Fr,De,Es,Nl,Sv).bin",
+      "filesize": 631168608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57247733c1358c9ca9bcd76f85f233f3",
+        "sha1": "692340711420d811d7a0e223277babddb2bbc4b6",
+        "crc32": "62a0265d"
+      }
+    }
+  ]
+}

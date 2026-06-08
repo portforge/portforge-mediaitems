@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Point Blank (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Point Blank (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4d7d339fb49178fe589ba4c79e8c223",
+        "sha1": "7cbfdee30b282a4a5f3595fd4f4f046b7616c92b",
+        "crc32": "b08f3ca9"
+      }
+    },
+    {
+      "filename": "Point Blank (USA).bin",
+      "filesize": 297657360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4804593a5dab1c91caf91eb81be8742",
+        "sha1": "367a96937bfbe19ce5089c0b364f513cbe07dd1e",
+        "crc32": "df9b6c4a"
+      }
+    }
+  ]
+}

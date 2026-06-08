@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Tarzan (Netherlands) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Tarzan (Netherlands) (EDC).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a96f14ab34d95b614d48ed81cc69cdfb",
+        "sha1": "02595c718efd50891e624086d99826450d97d55a",
+        "crc32": "20d27d4a"
+      }
+    },
+    {
+      "filename": "Disney's Tarzan (Netherlands) (EDC) (Track 1).bin",
+      "filesize": 522240432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96ca105c650b6c81c39bce38e838a790",
+        "sha1": "8ef909068de65773510dffed90e231d73d800480",
+        "crc32": "48dd1214"
+      }
+    },
+    {
+      "filename": "Disney's Tarzan (Netherlands) (EDC) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

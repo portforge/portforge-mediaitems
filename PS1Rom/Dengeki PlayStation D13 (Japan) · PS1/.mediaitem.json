@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D13 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D13 (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "638335bf65344f661fdeb95b7bc79029",
+        "sha1": "dc49388eefe21faa716dba75a50cb69e204e17c4",
+        "crc32": "8f7c0231"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D13 (Japan) (Track 1).bin",
+      "filesize": 644483280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88ad03866ce605983c9b6e8ec851b81b",
+        "sha1": "9857df1cc65b44db5560cfc76f4e4ad179a4f606",
+        "crc32": "5323b518"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D13 (Japan) (Track 2).bin",
+      "filesize": 41726832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb0d3d56e893d835666a8c1fb38d8016",
+        "sha1": "81e2b5a2237b14b6f4726c7650d0e61dced75708",
+        "crc32": "2b76fe0a"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D13 (Japan) (Track 3).bin",
+      "filesize": 14116704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fe1efea174523385b26dede35ba2ed1",
+        "sha1": "367bae0c11e53a05981a5fdf4835500983d7e9fc",
+        "crc32": "cb470faf"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D13 (Japan) (Track 4).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

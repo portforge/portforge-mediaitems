@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chocobo Stallion (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chocobo Stallion (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f4233172233a102dfd347043332dd69",
+        "sha1": "9579e745315c7bc1dce12243873b1d3d3a21fe15",
+        "crc32": "219d9473"
+      }
+    },
+    {
+      "filename": "Chocobo Stallion (Japan).bin",
+      "filesize": 223618752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afdd354ae72a7d01618ead500aef97cd",
+        "sha1": "217a990d6ddab1ad666fd866941d9ecd9301c25a",
+        "crc32": "25b8b725"
+      }
+    }
+  ]
+}

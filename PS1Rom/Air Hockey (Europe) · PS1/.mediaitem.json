@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Air Hockey (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Air Hockey (Europe).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67654b337babd74fb771549860ce9bed",
+        "sha1": "ae7e3b6b25a6d30212b0f71b1245a82a520bb6d7",
+        "crc32": "6a973291"
+      }
+    },
+    {
+      "filename": "Air Hockey (Europe) (Track 1).bin",
+      "filesize": 159616128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55d3a5432f5db99298c1dad388149b05",
+        "sha1": "9146986485bc8c362f4aedbf962c77a0fec20cd3",
+        "crc32": "1f195cf0"
+      }
+    },
+    {
+      "filename": "Air Hockey (Europe) (Track 2).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3acdf1a08d047c72e595351fc548900",
+        "sha1": "632cb32ce4c7edd6cd7e2aa88cd2b631f88d5b96",
+        "crc32": "8a322cf1"
+      }
+    }
+  ]
+}

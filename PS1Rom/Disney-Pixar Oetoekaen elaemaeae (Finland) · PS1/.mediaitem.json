@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Oetoekaen elaemaeae (Finland)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Oetoekaen elaemaeae (Finland).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "730e5f8b64d18e0ce2265e1449cd5a2a",
+        "sha1": "7a5d8ff851ae3cf9cf81ff89161bb8f5c851eaa1",
+        "crc32": "0c42c164"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Oetoekaen elaemaeae (Finland).bin",
+      "filesize": 738876096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56fea2c8d6240404814ecf166814c25a",
+        "sha1": "62aa42ba58ec974b8f0f7e621573652220be8ae2",
+        "crc32": "b6e79ed8"
+      }
+    }
+  ]
+}

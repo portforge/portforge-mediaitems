@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Runabout 2 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Runabout 2 (Japan) (Demo).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba518fab2a125c6fe53511c402692281",
+        "sha1": "07eb82691cfac3e122c08380c7ef89515f6504e7",
+        "crc32": "addf6740"
+      }
+    },
+    {
+      "filename": "Runabout 2 (Japan) (Demo) (Track 1).bin",
+      "filesize": 320285952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b78dfc715da0852ca94924f718e822a",
+        "sha1": "d2d9e38011fdce4a060fd0d9134f6a63006b101f",
+        "crc32": "7b14f068"
+      }
+    },
+    {
+      "filename": "Runabout 2 (Japan) (Demo) (Track 2).bin",
+      "filesize": 32321184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79f9d77f81abeef16df94fb626117f5d",
+        "sha1": "71e571ce9245afd8eaf9945be7189304a770cd3e",
+        "crc32": "7ec512ad"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kojin Kyouju - La Lecon Particuliere (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kojin Kyouju - La Lecon Particuliere (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "095eb9deec92a493be33a566213e1309",
+        "sha1": "b03ed9035280357e52cce4ba27e40573ec28ccce",
+        "crc32": "138296bf"
+      }
+    },
+    {
+      "filename": "Kojin Kyouju - La Lecon Particuliere (Japan).bin",
+      "filesize": 719519136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4193d3a5560acda067c8d6b1ab0a3a05",
+        "sha1": "070ee165143235d0101596950bd8eeb87523600c",
+        "crc32": "8ec20f47"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GameShark CDX (USA) (Unl) (v4.11B)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GameShark CDX (USA) (Unl) (v4.11B).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d46cffed2151bad5934d9c55ab9f9433",
+        "sha1": "a939bf404187a09faf70f6c12e775970b17a1476",
+        "crc32": "3e73f945"
+      }
+    },
+    {
+      "filename": "GameShark CDX (USA) (Unl) (v4.11B).bin",
+      "filesize": 156873696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0ce3c031f5991049da47ea8583b5131",
+        "sha1": "9af2dd8b1cd881885891c2848df877c1e52a6565",
+        "crc32": "6ad56787"
+      }
+    }
+  ]
+}

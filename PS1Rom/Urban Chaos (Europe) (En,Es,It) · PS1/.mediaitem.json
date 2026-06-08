@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Urban Chaos (Europe) (En,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Urban Chaos (Europe) (En,Es,It).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "98da530b507b8491ab07270b06a65416",
+        "sha1": "d3e919b74dbb8da39d32cbe8e77b0da24ad19763",
+        "crc32": "abc474f1"
+      }
+    },
+    {
+      "filename": "Urban Chaos (Europe) (En,Es,It).bin",
+      "filesize": 696761184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12fe21e455338047dea6ce771a91b500",
+        "sha1": "49bbd51336849ed987f0b902e5e40128cf7eee50",
+        "crc32": "14c71871"
+      }
+    }
+  ]
+}

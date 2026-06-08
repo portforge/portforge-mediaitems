@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Champions League - Season 2000-2001 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Champions League - Season 2000-2001 (Germany).cue",
+      "filesize": 558,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f6593c835aee6c3eece46808aced2f24",
+        "sha1": "a7adcceb166af87384153fac357635e6d782a4b6",
+        "crc32": "edd5d37c"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 2000-2001 (Germany) (Track 1).bin",
+      "filesize": 371463120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d042f0896ec8469f311739a78c96f85a",
+        "sha1": "332ea6d7dcaca09fc6d2cf96ccd48e65b49e50c7",
+        "crc32": "912e78df"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 2000-2001 (Germany) (Track 2).bin",
+      "filesize": 39784080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccba2b05ed97b3db9061bcbbe64e13e8",
+        "sha1": "90144a1e396fb8f79936261cd24d096a02ebdd0f",
+        "crc32": "a23f35b3"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 2000-2001 (Germany) (Track 3).bin",
+      "filesize": 38297616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a76d1accedaa64b5800d954668cba04",
+        "sha1": "b93da8a6c44da14ad610e600a158c910b249c34a",
+        "crc32": "ef7a523f"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 2000-2001 (Germany) (Track 4).bin",
+      "filesize": 38297616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a76d1accedaa64b5800d954668cba04",
+        "sha1": "b93da8a6c44da14ad610e600a158c910b249c34a",
+        "crc32": "ef7a523f"
+      }
+    }
+  ]
+}

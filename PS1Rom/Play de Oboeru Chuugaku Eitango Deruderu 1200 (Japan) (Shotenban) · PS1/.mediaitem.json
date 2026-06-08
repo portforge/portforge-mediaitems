@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play de Oboeru Chuugaku Eitango Deruderu 1200 (Japan) (Shotenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play de Oboeru Chuugaku Eitango Deruderu 1200 (Japan) (Shotenban).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4669ff8e9c6a7e5b5393a99114d361af",
+        "sha1": "e5a0d9d44d9e8b8a40d09f9a2e1adc8eccb1f109",
+        "crc32": "eb3ebc09"
+      }
+    },
+    {
+      "filename": "Play de Oboeru Chuugaku Eitango Deruderu 1200 (Japan) (Shotenban).bin",
+      "filesize": 132013056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "298f63dcf0af6e95b6aea0efc02e8283",
+        "sha1": "43901e0e270d7398af1ba43b02135f13e8134fb3",
+        "crc32": "3dc41283"
+      }
+    }
+  ]
+}

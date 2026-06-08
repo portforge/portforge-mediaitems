@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ToHeart (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ToHeart (Japan) (Disc 2).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d13bd48e34c85e9fde92e923edc9303",
+        "sha1": "5b4eb3b54e3fd3173c441baa5e1b82b76e2726a4",
+        "crc32": "3d91caec"
+      }
+    },
+    {
+      "filename": "ToHeart (Japan) (Disc 2).bin",
+      "filesize": 745073616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "980a6139cfbe52a5f7f1270d7aabddc7",
+        "sha1": "883502b7296c11f142122b5214917b687417353a",
+        "crc32": "aa0edcaa"
+      }
+    }
+  ]
+}

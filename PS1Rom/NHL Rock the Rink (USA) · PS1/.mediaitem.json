@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Rock the Rink (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Rock the Rink (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de72bc5f7b7926454efd3aede3ddd243",
+        "sha1": "54e9161e27fce0f97e53a65e34e719e1ad5d194f",
+        "crc32": "3ea9771c"
+      }
+    },
+    {
+      "filename": "NHL Rock the Rink (USA).bin",
+      "filesize": 517174224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7716e2703cae647b647b560f77f2860e",
+        "sha1": "075e745790b520ae12a810878b6dc899a9c9fa0c",
+        "crc32": "7a099b4d"
+      }
+    }
+  ]
+}

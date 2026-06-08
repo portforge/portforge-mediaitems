@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bash & Spyro - Year of the Dragon (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bash & Spyro - Year of the Dragon (USA) (Demo).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86b7dedd51ee6887aa7a915ca55c594f",
+        "sha1": "64bc8ec995a7c540d25f43644777bce67982dc00",
+        "crc32": "62eed13b"
+      }
+    },
+    {
+      "filename": "Crash Bash & Spyro - Year of the Dragon (USA) (Demo) (Track 1).bin",
+      "filesize": 149321424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b6c21d40d535677e3d94e30c4e59dac",
+        "sha1": "131bdcd9520dda427e85701cc990c9d02c9affe7",
+        "crc32": "1e28b12f"
+      }
+    },
+    {
+      "filename": "Crash Bash & Spyro - Year of the Dragon (USA) (Demo) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

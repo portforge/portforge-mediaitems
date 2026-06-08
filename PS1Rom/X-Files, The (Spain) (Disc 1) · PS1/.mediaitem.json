@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Files, The (Spain) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Files, The (Spain) (Disc 1).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2fe826b8d0e10ff30d5ad48b3f2b17e2",
+        "sha1": "fea960a465eacb30e8fc70011b99660de3caddba",
+        "crc32": "15fcc0df"
+      }
+    },
+    {
+      "filename": "X-Files, The (Spain) (Disc 1).bin",
+      "filesize": 614208336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bbcbfbd7ebb071dae0142e262ad97d0",
+        "sha1": "46a378f2cece0868cb414020cd53f1a59f544c14",
+        "crc32": "47826ba3"
+      }
+    }
+  ]
+}

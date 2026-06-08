@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fear Effect (Germany) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fear Effect (Germany) (Disc 3).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88c176dd3bb6e8118fe3a7c43c159717",
+        "sha1": "1e996a977626c6ff4733983faa5c431bf40270df",
+        "crc32": "44a0ced9"
+      }
+    },
+    {
+      "filename": "Fear Effect (Germany) (Disc 3).bin",
+      "filesize": 489070176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6bb5963a64cab58e1ad83be8534574db",
+        "sha1": "061c951e4851ba4513e35a3af38543eb10257c07",
+        "crc32": "fba1ca4b"
+      }
+    }
+  ]
+}

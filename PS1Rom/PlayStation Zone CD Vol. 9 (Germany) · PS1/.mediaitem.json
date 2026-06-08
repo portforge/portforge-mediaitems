@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Zone CD Vol. 9 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Zone CD Vol. 9 (Germany).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40a2cea8f37d15b39a486766bed2da87",
+        "sha1": "9af63e5d4f801fe8312e6aa71afdb69f6cef257a",
+        "crc32": "7d1b0377"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 9 (Germany).bin",
+      "filesize": 700554960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13fe016128a55c34b7c2ca9694a89fe7",
+        "sha1": "0a60660be8238074296f8928ce89be5b5504f798",
+        "crc32": "5acb7fe6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Superstar Soccer Pro '98 (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Superstar Soccer Pro '98 (Europe) (Demo).cue",
+      "filesize": 471,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9cf31811f3eefa7a95a2e69c2ed6b80",
+        "sha1": "c4f52697108271b411417568f4acffda9dee916e",
+        "crc32": "b961b150"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer Pro '98 (Europe) (Demo) (Track 1).bin",
+      "filesize": 392798112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdc8a68d2460bbb0208b45e982ba57a3",
+        "sha1": "07ff1b051bb87a8ec684fc6a6767878c23de5429",
+        "crc32": "6632ade8"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer Pro '98 (Europe) (Demo) (Track 2).bin",
+      "filesize": 18540816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be4be08ea50a9e1d0eef21980a5faa43",
+        "sha1": "e92817d0979f32730854fe900cdd4f35a4cc28b3",
+        "crc32": "06be6b7b"
+      }
+    },
+    {
+      "filename": "International Superstar Soccer Pro '98 (Europe) (Demo) (Track 3).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97c30460187d69777c0b0dd5f91f96a4",
+        "sha1": "a5e98e974146766bb0a60b19252d12d0ca16c8fe",
+        "crc32": "ff0e6f73"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kakuge Yarou - Fighting Game Creator (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kakuge Yarou - Fighting Game Creator (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b41c4b2a1ef2df058737ff9fde7deaa",
+        "sha1": "c7d0b4428fee15fb8f5a890dd02806708c3f0fcc",
+        "crc32": "75ed7e93"
+      }
+    },
+    {
+      "filename": "Kakuge Yarou - Fighting Game Creator (Japan).bin",
+      "filesize": 242032560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4028675a789d0012a7ebf50f243baf1",
+        "sha1": "412a7d7058a8685d21fd76871d7ce93a1c71e539",
+        "crc32": "9fa4195e"
+      }
+    }
+  ]
+}

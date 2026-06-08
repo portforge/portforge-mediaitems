@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Stone Walkers (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Stone Walkers (Japan).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d0627b9e315bf269a538beb55baf59f",
+        "sha1": "2321968d4466751f2996eac511f73a49526f080f",
+        "crc32": "d7ee0567"
+      }
+    },
+    {
+      "filename": "Stone Walkers (Japan) (Track 1).bin",
+      "filesize": 112545552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b3d5d0cbe8a72697ead757435152f01",
+        "sha1": "f9cf2bd8d02bea7544d8afd7c29de0c1f308a42c",
+        "crc32": "409f0bc7"
+      }
+    },
+    {
+      "filename": "Stone Walkers (Japan) (Track 2).bin",
+      "filesize": 415558416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b39eea7ec91cd63634f9e04f9d8afae0",
+        "sha1": "2c83410a862d125ef5bfc7ded6a01e1b5cac093b",
+        "crc32": "a4b3b21e"
+      }
+    }
+  ]
+}

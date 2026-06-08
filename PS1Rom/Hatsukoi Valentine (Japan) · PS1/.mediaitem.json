@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hatsukoi Valentine (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hatsukoi Valentine (Japan).cue",
+      "filesize": 462,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d25dbebf7416e01a0160f49d5d4239e8",
+        "sha1": "843758e6f4dec2eca7232e51dbc24e914deb3e22",
+        "crc32": "659dac39"
+      }
+    },
+    {
+      "filename": "Hatsukoi Valentine (Japan) (Track 1).bin",
+      "filesize": 298976832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edf450753614a14d23ca5d13f116fbd9",
+        "sha1": "30fa589146b2d75b84a85308a5bff48c5b64afd5",
+        "crc32": "c47d42f8"
+      }
+    },
+    {
+      "filename": "Hatsukoi Valentine (Japan) (Track 2).bin",
+      "filesize": 20154288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5439d6bacbdaf7cb2f27fa674d1ecd94",
+        "sha1": "9bb2aa3f8b793818f8e4d72e64ce4629fd3ef094",
+        "crc32": "2d210a5e"
+      }
+    },
+    {
+      "filename": "Hatsukoi Valentine (Japan) (Track 3).bin",
+      "filesize": 27283200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73f225bea25eca49571591665d19c9d4",
+        "sha1": "d6c11155eedd6b378e793522d1a5f3680833692c",
+        "crc32": "c7def788"
+      }
+    },
+    {
+      "filename": "Hatsukoi Valentine (Japan) (Track 4).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

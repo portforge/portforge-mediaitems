@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Arms (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Arms (Spain).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e98de6ac877ec1f435ab00534c23b67d",
+        "sha1": "d2cbde00b15f149378d681774f8fc094b5023ac9",
+        "crc32": "cad6549a"
+      }
+    },
+    {
+      "filename": "Wild Arms (Spain).bin",
+      "filesize": 637203840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b667629cd5754f6978b28efedc913c72",
+        "sha1": "31f2c68d7e86f495726ad7a7539a336c470ed202",
+        "crc32": "ecdfea62"
+      }
+    }
+  ]
+}

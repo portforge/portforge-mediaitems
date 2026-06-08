@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zero Divide (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zero Divide (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c7e06c7637712c54e65c963937e50abb",
+        "sha1": "9f9454c2f7d168606e753d72cd551b489464f09d",
+        "crc32": "d9d3de42"
+      }
+    },
+    {
+      "filename": "Zero Divide (Japan).bin",
+      "filesize": 410887344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a7b82c0ca081a101e06a1dc73be9008",
+        "sha1": "fb6d37a188d986438d797499fe3b01c901861d98",
+        "crc32": "0493528c"
+      }
+    }
+  ]
+}

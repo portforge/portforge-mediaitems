@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "075822b91c1882b1b0c047164969b0f2",
+        "sha1": "32e91a601664fce3d518cfdf38e565e501e29ac3",
+        "crc32": "769c942c"
+      }
+    },
+    {
+      "filename": "Strider Hiryuu 1 & 2 (Japan) (Disc 2) (Strider Hiryuu 2).bin",
+      "filesize": 459242112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cf1545096b1dba116c3b4bcc8f23dc3",
+        "sha1": "46015e655fefe75616c978b2d9294a8b2a27aa5f",
+        "crc32": "8d77ccfd"
+      }
+    }
+  ]
+}

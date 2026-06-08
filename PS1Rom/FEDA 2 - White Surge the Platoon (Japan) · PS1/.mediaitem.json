@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FEDA 2 - White Surge the Platoon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FEDA 2 - White Surge the Platoon (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d130f2017ca3f298df45b5528b77a3d",
+        "sha1": "3d271756762e88a3fcbc7575d7fda0e1661b0cf6",
+        "crc32": "6946ac77"
+      }
+    },
+    {
+      "filename": "FEDA 2 - White Surge the Platoon (Japan).bin",
+      "filesize": 749227248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba534cd2e7acaabbfbe5ec917110001e",
+        "sha1": "d0cfd504823cb0ec347a15a9640b802cc573e02e",
+        "crc32": "02fcbb2c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA March Madness 99 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA March Madness 99 (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e758164571ded3b048b4bc33288ec8ed",
+        "sha1": "4aa641d462a0e82850947b0483b2a2dcb5b304cc",
+        "crc32": "48fc147f"
+      }
+    },
+    {
+      "filename": "NCAA March Madness 99 (USA).bin",
+      "filesize": 693357840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ba836e7554d3b5873dabad1c5173f16",
+        "sha1": "72a1a4786cdc99f850e38d63b90d7df307f2a3c7",
+        "crc32": "04c83075"
+      }
+    }
+  ]
+}

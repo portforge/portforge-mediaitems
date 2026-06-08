@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Pro 99 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Pro 99 (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5c5f28bc2fc5f180be3230c544ee95b",
+        "sha1": "c4a8d45a694f2167555f7cd4581d2d38dd3c7af3",
+        "crc32": "808c08d9"
+      }
+    },
+    {
+      "filename": "NBA Pro 99 (Europe).bin",
+      "filesize": 577178448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98d7cc45cc537290cd9652af7bf40414",
+        "sha1": "a833ce35878f083f5033f17deb782cb113f31ddd",
+        "crc32": "29e9fc19"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Backyard Soccer (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Backyard Soccer (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "02e4b61d328cd6a5b73fd2dbde14571f",
+        "sha1": "0b66b00e70bba72df4b318f3de5ab4f374f4721f",
+        "crc32": "3cdead58"
+      }
+    },
+    {
+      "filename": "Backyard Soccer (USA).bin",
+      "filesize": 746141424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf53d4f7254cfba8551d61868bf6a210",
+        "sha1": "f251f3b43672f9c3dfd3a42883926a99de97fa89",
+        "crc32": "4161a95b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Um Jammer Lammy (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Um Jammer Lammy (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59db98109ca23894f463fb7a075f393a",
+        "sha1": "721d3fbc42bb63759bd5d3ed774ff9f065209114",
+        "crc32": "a696377d"
+      }
+    },
+    {
+      "filename": "Um Jammer Lammy (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 743521296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da64abe3270f8ab7ce96d5b3065b0c47",
+        "sha1": "14541bb073050ddb8b29a0216a05bd6c0e015860",
+        "crc32": "bc2058c4"
+      }
+    }
+  ]
+}

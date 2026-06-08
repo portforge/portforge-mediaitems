@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Philosoma (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Philosoma (Europe) (En,Fr,De).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cb6b57ba44cac305ed8f89d0094012ec",
+        "sha1": "6879aeba6b72d5f040fbcdaedb9014c46e58cdf1",
+        "crc32": "1d33231c"
+      }
+    },
+    {
+      "filename": "Philosoma (Europe) (En,Fr,De).bin",
+      "filesize": 747343296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a5d19cd9246f6252ff5160fbd743ff9",
+        "sha1": "32c91ed433a3cda47cd99e9f647e838c9ad87709",
+        "crc32": "fdf2c675"
+      }
+    }
+  ]
+}

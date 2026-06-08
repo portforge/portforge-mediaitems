@@ -1,0 +1,147 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Three Stooges, The (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Three Stooges, The (USA).cue",
+      "filesize": 1529,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8700777355f09c239ac36c55e9f944ce",
+        "sha1": "be7bb517e3ef02b9ab6cc2a604210b8d83604fa4",
+        "crc32": "1cbb208c"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 01).bin",
+      "filesize": 83583024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1493d894c9cec79f6efea9e58814a3c8",
+        "sha1": "f1870ea983bab0bccb19ccca5e29d5f2cde5ed24",
+        "crc32": "82ab618a"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 02).bin",
+      "filesize": 4174800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce004c1f2ca528f66b67b82afefa016e",
+        "sha1": "4fb93ef6b72d56c3948eb619d2625b4da271db71",
+        "crc32": "df5c7a71"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 03).bin",
+      "filesize": 9203376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba505e1e71e1a5fbe7ac2d19968aae71",
+        "sha1": "431f7a9fb90118a7e5cd7edc1e4ef550994fac9f",
+        "crc32": "54928f2c"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 04).bin",
+      "filesize": 1881600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14f527b19c1c273441cc29626fdd8189",
+        "sha1": "80cb8f28c8b6f71aa8edc12f1b071f47d2f32f62",
+        "crc32": "86abccae"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 05).bin",
+      "filesize": 2918832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f18da00c0ed4af3fd9943fc3f7655bdd",
+        "sha1": "640d29088baff0255c285700a7fba853853f9135",
+        "crc32": "69502976"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 06).bin",
+      "filesize": 4497024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccf0f30b0d44d4295dbbbcee9f49c89d",
+        "sha1": "d82a45c09e4b4b6ec6d2cc184156935f5fc15bcf",
+        "crc32": "8cdf71bf"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 07).bin",
+      "filesize": 4645200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c9e72206461146f825df3c7d5819515",
+        "sha1": "926a15bfe2ee11fa1e4cd79151d0138913bc4a85",
+        "crc32": "88d40ddc"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 08).bin",
+      "filesize": 11268432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3db3e8a1e12ed7dc04bb21a1007205d",
+        "sha1": "9b63bec2481bd449c4e7ac512993517589ec1b9a",
+        "crc32": "e2b39b5e"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 09).bin",
+      "filesize": 10365264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b10255bf64b8396bf03516bef83a6bb0",
+        "sha1": "a1baa4a11944cc991c5559ba814c62d2b4e1c7e4",
+        "crc32": "2e054876"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 10).bin",
+      "filesize": 16125312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fad571b3d3e4136acfdc563f91281b4a",
+        "sha1": "09b8bf5a9b08f2e601d6f9711f7b927261596e9b",
+        "crc32": "f6a70fde"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 11).bin",
+      "filesize": 8107344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9326607a447796fb3e470dd701323580",
+        "sha1": "26bbf8c98d4ea850d9fe1c7fbd089fac5917caa7",
+        "crc32": "60592580"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 12).bin",
+      "filesize": 1462944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d7fa41bf945065ecd56d96dd8de03ee",
+        "sha1": "7621d876d0d9f847cf791d2db3c7dbbfd4579cb6",
+        "crc32": "30b1b13b"
+      }
+    },
+    {
+      "filename": "Three Stooges, The (USA) (Track 13).bin",
+      "filesize": 69019440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea2bb0c47fd411be711b50dd93220e18",
+        "sha1": "9aa5176ff2609ff16adf747e81e1b33d3d5e8c3f",
+        "crc32": "25a554e9"
+      }
+    }
+  ]
+}

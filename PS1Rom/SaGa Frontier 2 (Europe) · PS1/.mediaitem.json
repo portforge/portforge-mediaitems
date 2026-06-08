@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SaGa Frontier 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SaGa Frontier 2 (Europe).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "89dfdaa5d1be7b99b967670093f4728d",
+        "sha1": "c393321cee4a2382f83ecfbc264df3021927a5ba",
+        "crc32": "4a76c68b"
+      }
+    },
+    {
+      "filename": "SaGa Frontier 2 (Europe).bin",
+      "filesize": 714998592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcc77e0ad9503bea45baf1caf27b20c8",
+        "sha1": "e924ce98ee22019cee9736144a5b8ebdff928496",
+        "crc32": "f4460829"
+      }
+    }
+  ]
+}

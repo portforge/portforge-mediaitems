@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Master - Sammy SP (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Master - Sammy SP (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9ae95a0dc32511034a580ad902abb6f5",
+        "sha1": "b69aabc5932bc5b37b885e4ad11a37395fad6cc8",
+        "crc32": "04ca1b11"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Master - Sammy SP (Japan).bin",
+      "filesize": 53470368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95c025bbde905964061aa587d614ed87",
+        "sha1": "d0f92b7c25888d467bdc8d10b5f940e7266ec030",
+        "crc32": "b7aaa254"
+      }
+    }
+  ]
+}

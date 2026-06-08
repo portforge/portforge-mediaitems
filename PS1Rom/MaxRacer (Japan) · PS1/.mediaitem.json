@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MaxRacer (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MaxRacer (Japan).cue",
+      "filesize": 1314,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1af20254ef7d3fe51b57680d2f890d82",
+        "sha1": "28d6549abf8250ee040407ab20813166fd46d237",
+        "crc32": "4f81ad80"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 01).bin",
+      "filesize": 60822720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "105f9a7fcc19f25075cc4ab8eac7273e",
+        "sha1": "328242f24187ce97e8447a369f87481a7a6ac04c",
+        "crc32": "b39aadff"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 02).bin",
+      "filesize": 17395392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "704a02ae0e03378355416bcda977dbe9",
+        "sha1": "3c73764a20c1784fadb968969ce9c2e3a8444da3",
+        "crc32": "4143d7e1"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 03).bin",
+      "filesize": 23011968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d3c7c7df06ef67df9750afb2b422f02",
+        "sha1": "5f7c9be01b4c6b58b75954cc99dcb1ca9ab708e8",
+        "crc32": "b521d2f3"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 04).bin",
+      "filesize": 43867152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "427f53987f207f25964c2bf69fa425ff",
+        "sha1": "0c216db9101f9baa18e0b0e8f3e9dd82859d06bc",
+        "crc32": "1fc7d22b"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 05).bin",
+      "filesize": 46484928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a500c821b0adf8f0f29e3ff1a3af6bf",
+        "sha1": "5cb8d44e26c4b09ca19bab43f2b938554606e1f8",
+        "crc32": "377159fb"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 06).bin",
+      "filesize": 43342656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01f503566bfe3c6ce94417038745ea42",
+        "sha1": "a59130684c9bfffcedbc9d91793f0c32778990f9",
+        "crc32": "40f97c09"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 07).bin",
+      "filesize": 43843632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35e5cf8b7e9822b2eb35cf5eb47bec58",
+        "sha1": "1c028349669f6b874626b00f2da8e7ec14493e40",
+        "crc32": "61a0ad26"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 08).bin",
+      "filesize": 42848736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2239e7f675522788981a6a3aba35d9b1",
+        "sha1": "23e444c05a637998d92abdb8ed06f114558f6008",
+        "crc32": "a2f26dea"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 09).bin",
+      "filesize": 1768704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f8e0a283b7e91a193111db2311177fe",
+        "sha1": "c90f9433915fdec1e626afd5518b70a14aa43b00",
+        "crc32": "f4404dd8"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 10).bin",
+      "filesize": 10847424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29aa8e492209ba0c36ae0c49d89251fa",
+        "sha1": "a2bda8f467f55b755a8573cf6ac6ce535698415a",
+        "crc32": "2154813d"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 11).bin",
+      "filesize": 25295760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b4baa72c8259e19eedbd8c19dd47739",
+        "sha1": "1cb3b6b2780b67e3a42b8bdc55a330e45b62740e",
+        "crc32": "c9aa162c"
+      }
+    },
+    {
+      "filename": "MaxRacer (Japan) (Track 12).bin",
+      "filesize": 43690752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d078c450125a17cbc7e8d4be75be2ce",
+        "sha1": "47de6a60bac33f63b9e58ed70db2f334ed62939e",
+        "crc32": "c09d4af5"
+      }
+    }
+  ]
+}

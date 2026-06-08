@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sphere 360 (Europe) (En,Fr,De,Es,It) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sphere 360 (Europe) (En,Fr,De,Es,It) (Demo).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c24e466b3eeb45ad7c2d611600f81336",
+        "sha1": "4f2ce28a1366741592a57054adfd46b65c32cf9f",
+        "crc32": "345e3867"
+      }
+    },
+    {
+      "filename": "Sphere 360 (Europe) (En,Fr,De,Es,It) (Demo).bin",
+      "filesize": 129468192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fefaffbda255fc6f123d5b436c735837",
+        "sha1": "7bc4cdac5424298e3b95b6e1e7bc7f482c7543b0",
+        "crc32": "c0b576c9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vesjolye kartinki 3 (Russia) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vesjolye kartinki 3 (Russia) (Unl).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "875ccbbbcb5b22537d890c224428dcf6",
+        "sha1": "3a3e508cc9ec7d93e3a6d787e386e1d7097edaa6",
+        "crc32": "e9b6862a"
+      }
+    },
+    {
+      "filename": "Vesjolye kartinki 3 (Russia) (Unl).bin",
+      "filesize": 256897200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "022129f16403b607e2608f7aa3a08245",
+        "sha1": "412e740c16ae82b9207b723aeb0a1302f5da63a6",
+        "crc32": "3fe0cccc"
+      }
+    }
+  ]
+}

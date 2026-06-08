@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Never Island (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Never Island (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d62d89355762d7fdddb6826d2ce343b3",
+        "sha1": "66cea1abf94d675f687a9164d4044bda607cd3f9",
+        "crc32": "69b53628"
+      }
+    },
+    {
+      "filename": "World Never Island (Japan).bin",
+      "filesize": 150586800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bcc84b1a427f56fc7f7b1c3dbf674ef3",
+        "sha1": "8f5daae9a6a6451257f6d39c0474cb8431331807",
+        "crc32": "6cd54f86"
+      }
+    }
+  ]
+}

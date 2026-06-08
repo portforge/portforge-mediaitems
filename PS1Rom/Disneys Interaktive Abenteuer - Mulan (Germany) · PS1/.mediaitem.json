@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Interaktive Abenteuer - Mulan (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Interaktive Abenteuer - Mulan (Germany).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f8b16a89fb2857246c48a60d7340ed51",
+        "sha1": "d9880a3e06f87db2a4fcd6696a089edc97432dae",
+        "crc32": "b968dfa9"
+      }
+    },
+    {
+      "filename": "Disneys Interaktive Abenteuer - Mulan (Germany).bin",
+      "filesize": 227080896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f00eddabdf8d709e8b3bb8babe024886",
+        "sha1": "de36fbf3dc6795844289bec35f25a65f2d597596",
+        "crc32": "b3da9af2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game Guru - The Best (Russia) (En,Ru) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game Guru - The Best (Russia) (En,Ru) (Unl).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "881adf098228c6b057fc165d93bbfb11",
+        "sha1": "810759f26a097e74401c03db5b3ff94f118f9848",
+        "crc32": "3a4e6863"
+      }
+    },
+    {
+      "filename": "Game Guru - The Best (Russia) (En,Ru) (Unl).bin",
+      "filesize": 220180128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e07ebb781d021d176fb5089ed32f93e4",
+        "sha1": "43985910da8463b83afa85bd8cd7a0eca41daeaf",
+        "crc32": "24d1ed3a"
+      }
+    }
+  ]
+}

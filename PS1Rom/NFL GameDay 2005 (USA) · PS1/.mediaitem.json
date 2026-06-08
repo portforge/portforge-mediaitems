@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL GameDay 2005 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL GameDay 2005 (USA).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d2852670de2433c1cc0cb1b3a6e3021c",
+        "sha1": "a0e8665d18baf664abceea8b10d162a1998f7ad2",
+        "crc32": "333efa98"
+      }
+    },
+    {
+      "filename": "NFL GameDay 2005 (USA) (Track 1).bin",
+      "filesize": 484810704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2208603ebd092079bbc09412e9659976",
+        "sha1": "face84d427e706c48c27010720adcd54cfc51ff0",
+        "crc32": "1f0c7a4c"
+      }
+    },
+    {
+      "filename": "NFL GameDay 2005 (USA) (Track 2).bin",
+      "filesize": 21875952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77f5489cfd54a63c5640f05dda957929",
+        "sha1": "3c02ed183a3aa70790de401fa154cc821d455a4c",
+        "crc32": "802d1531"
+      }
+    }
+  ]
+}

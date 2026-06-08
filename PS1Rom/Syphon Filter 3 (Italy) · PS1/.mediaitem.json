@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter 3 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter 3 (Italy).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "802d1f5adf73664d032a5391eab2f349",
+        "sha1": "028755a6e9fb6604e4bbcb44f0140d72b2d00214",
+        "crc32": "a4a151ce"
+      }
+    },
+    {
+      "filename": "Syphon Filter 3 (Italy).bin",
+      "filesize": 689855712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c72a63b88e7e40a9371dc96725bf230",
+        "sha1": "5a662268bd5f1b783f14a7eac6e05c563c7e5199",
+        "crc32": "30709d81"
+      }
+    }
+  ]
+}

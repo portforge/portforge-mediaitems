@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Reel Fishing (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Reel Fishing (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "648be45c5bcb75721fe350551e9a7f06",
+        "sha1": "9ab106aabb1965d48ea59e4cb6cce2d838f51432",
+        "crc32": "4d96ce8b"
+      }
+    },
+    {
+      "filename": "Reel Fishing (Europe).bin",
+      "filesize": 369280464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "556abd19b8473165d51ee3590e05e224",
+        "sha1": "3ef99174a3f0ca9a184f2db4cc4d19172b8bad89",
+        "crc32": "f0a2b3e0"
+      }
+    }
+  ]
+}

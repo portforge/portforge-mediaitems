@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Worms (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Worms (Japan).cue",
+      "filesize": 945,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4cfa5d2d5c40ccf5b3ebf2668d6295f9",
+        "sha1": "95e5cb08cec00a77e5e6b0bfc2d7d16f48a552ab",
+        "crc32": "f6797d9e"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 1).bin",
+      "filesize": 133137312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d11d636655ab19cd96336f837bea9dc0",
+        "sha1": "70132a5cca09d62d298d95dce3a4bf959aaf1951",
+        "crc32": "74e91d35"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 2).bin",
+      "filesize": 60756864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46b33a8f6c6057b48913828e2ad85545",
+        "sha1": "497189d84beea471e6555e1f3a00a0445aa05381",
+        "crc32": "a0f29d03"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 3).bin",
+      "filesize": 73046064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a544862947afdea1afd1d9fc02ae078",
+        "sha1": "3c3b2b294e85875d7dc14ec0f46842925fd17b88",
+        "crc32": "0760b8a2"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 4).bin",
+      "filesize": 69574512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9896eb8ef5001a9020d0ef9bcb313d7",
+        "sha1": "c7a325a0eee48ea90d1732ca21fee74b368dacbc",
+        "crc32": "76367052"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 5).bin",
+      "filesize": 70931616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6531a94269746a5f5df4bd7c914991f5",
+        "sha1": "6ff64139eeae3c0e703e5617b42642a2bf3c8dd6",
+        "crc32": "076c2bb8"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 6).bin",
+      "filesize": 70190736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9b1431ee8105f92e69253729e627877",
+        "sha1": "1941691649c06884ea3216f212f91dc54b730b73",
+        "crc32": "0b8d1988"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 7).bin",
+      "filesize": 74031552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a4e34ec1bf5b268783807ee0ffa4caa",
+        "sha1": "0c4330e48b4b56e5050cfdc68efdb356772bb30d",
+        "crc32": "4da74fd6"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 8).bin",
+      "filesize": 55883520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c5b788096fd1abe180c6312974676cc",
+        "sha1": "f02a73f918cb8ba126e9ad52501b06218c3d080f",
+        "crc32": "c3954c3c"
+      }
+    },
+    {
+      "filename": "Worms (Japan) (Track 9).bin",
+      "filesize": 3958416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe015dd39f789a9d4300238f4db48e0e",
+        "sha1": "ef52064f84a788671c14b3a563963c24a6ca5175",
+        "crc32": "c7082fe4"
+      }
+    }
+  ]
+}

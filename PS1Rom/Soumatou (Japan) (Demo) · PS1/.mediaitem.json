@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soumatou (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soumatou (Japan) (Demo).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "23792874d7c252b39e411bd38b565487",
+        "sha1": "51e61969282731aa0180302648fce8b828771eee",
+        "crc32": "01436cef"
+      }
+    },
+    {
+      "filename": "Soumatou (Japan) (Demo).bin",
+      "filesize": 336018480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b6df2d779e95102212db2d0a94abd3f",
+        "sha1": "c23aea2d16334bf152ef6e334221e82caf180b42",
+        "crc32": "69e037ae"
+      }
+    }
+  ]
+}

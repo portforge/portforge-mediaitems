@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rascal Racers (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rascal Racers (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fcf617cfd8cf7842f45036957522df2",
+        "sha1": "25ccb83535ea0dcba8e267517137e010f272ed65",
+        "crc32": "f95d32ef"
+      }
+    },
+    {
+      "filename": "Rascal Racers (USA).bin",
+      "filesize": 138238800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d2ced3748ca77518ef48ea5fcb7423f",
+        "sha1": "5fd31ca16974c7e529c6ed633525ae8eb60901d3",
+        "crc32": "8aaf547e"
+      }
+    }
+  ]
+}

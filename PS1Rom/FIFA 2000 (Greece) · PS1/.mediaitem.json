@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 2000 (Greece)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 2000 (Greece).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "757c2d3ac33283d1afacbdc535aef638",
+        "sha1": "e45630ca1505843d996f99267bbafd903c962ab5",
+        "crc32": "17f19c25"
+      }
+    },
+    {
+      "filename": "FIFA 2000 (Greece).bin",
+      "filesize": 501453456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c287f440e556fcd41dde4d6ee0fafaf5",
+        "sha1": "522bf8b7b616ee82a90206a819b767c73a373827",
+        "crc32": "f306fa0b"
+      }
+    }
+  ]
+}

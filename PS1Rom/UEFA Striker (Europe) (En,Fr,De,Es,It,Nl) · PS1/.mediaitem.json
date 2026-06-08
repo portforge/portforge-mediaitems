@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Striker (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Striker (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4401c9e24f30a0e44b5056d70d545803",
+        "sha1": "78c48598f55c4893bb16127d9bd05a2072fde5a9",
+        "crc32": "96464bc4"
+      }
+    },
+    {
+      "filename": "UEFA Striker (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 605910480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "032558d5c84f2229e77037587a9f14a1",
+        "sha1": "720ee98a83765bec9878f725331e536bea089acd",
+        "crc32": "527bc4de"
+      }
+    }
+  ]
+}

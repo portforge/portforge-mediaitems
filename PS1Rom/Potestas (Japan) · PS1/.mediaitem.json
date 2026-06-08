@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Potestas (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Potestas (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f65fc5ae605bd7466c52bef1b96a5e01",
+        "sha1": "49274d839faf907cb1ab85649bd9b20905a45ee8",
+        "crc32": "61f8a059"
+      }
+    },
+    {
+      "filename": "Potestas (Japan).bin",
+      "filesize": 256097520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "557be9c72efbf9e59ce77b4517c40146",
+        "sha1": "ce9602ef54a90b455bb8db3fb06a045bfa71bacd",
+        "crc32": "865bcc02"
+      }
+    }
+  ]
+}

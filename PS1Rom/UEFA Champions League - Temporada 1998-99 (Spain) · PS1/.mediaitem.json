@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Champions League - Temporada 1998-99 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Champions League - Temporada 1998-99 (Spain).cue",
+      "filesize": 411,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f7fee599e2a3b21d37939fd2e86d64b",
+        "sha1": "5ef2db6732bcf258abe2159ab71cb70d0f9a832b",
+        "crc32": "be0c6d89"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Temporada 1998-99 (Spain) (Track 1).bin",
+      "filesize": 432452832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1972fd4ffe4c32b3b6caa0a8bb6818fd",
+        "sha1": "2fcae9e0a3e87f492cb803a6f08371c40e443b64",
+        "crc32": "a81578e5"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Temporada 1998-99 (Spain) (Track 2).bin",
+      "filesize": 52226160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ff7b1e21339acb9f813debe207099ed",
+        "sha1": "fb6cbb4ed873a06a1da6f41c54364cf6250de54f",
+        "crc32": "c0b85f82"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Temporada 1998-99 (Spain) (Track 3).bin",
+      "filesize": 54394704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4faaacaa5c288310941419243b50aeb2",
+        "sha1": "9702b1c7b371c12667a4ab10afe07f76136e8818",
+        "crc32": "d1f8c980"
+      }
+    }
+  ]
+}

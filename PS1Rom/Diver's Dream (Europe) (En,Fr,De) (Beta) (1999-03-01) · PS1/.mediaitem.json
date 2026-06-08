@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Diver's Dream (Europe) (En,Fr,De) (Beta) (1999-03-01)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Diver's Dream (Europe) (En,Fr,De) (Beta) (1999-03-01).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8676d6b31c636d16bc3919111705994",
+        "sha1": "eb0a0be264187045901f9ee4bb53d43cb68eb7ca",
+        "crc32": "9c959454"
+      }
+    },
+    {
+      "filename": "Diver's Dream (Europe) (En,Fr,De) (Beta) (1999-03-01).bin",
+      "filesize": 546045024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6a349b3eebff55e9c86be238b580d80",
+        "sha1": "eac3f7d818b03afd542ec3c624ab93514ce6fee0",
+        "crc32": "1b2ef1d7"
+      }
+    }
+  ]
+}

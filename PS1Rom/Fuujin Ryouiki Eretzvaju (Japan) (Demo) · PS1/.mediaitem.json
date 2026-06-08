@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fuujin Ryouiki Eretzvaju (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fuujin Ryouiki Eretzvaju (Japan) (Demo).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "332a35b5be78fd6b049d30413d83a0e1",
+        "sha1": "61ee6872167bd10d2b0b93878884fc5b0a0083c1",
+        "crc32": "a2dc08b8"
+      }
+    },
+    {
+      "filename": "Fuujin Ryouiki Eretzvaju (Japan) (Demo).bin",
+      "filesize": 113187648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08c7073dce65f4bd557b7ac5113badd2",
+        "sha1": "e5e66ef82e5aaa5ee57409cc811b053c69189c7f",
+        "crc32": "1b5720ae"
+      }
+    }
+  ]
+}

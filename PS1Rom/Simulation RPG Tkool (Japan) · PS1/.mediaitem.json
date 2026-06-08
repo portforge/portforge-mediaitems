@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simulation RPG Tkool (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simulation RPG Tkool (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b71871a37b655eb827572babe18ff247",
+        "sha1": "2c8151a9e4da5c14bcf5148b949b5496b5941438",
+        "crc32": "6e0649e5"
+      }
+    },
+    {
+      "filename": "Simulation RPG Tkool (Japan).bin",
+      "filesize": 101502912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54e7680fdbcb56ba5a1c88d1297ecf3f",
+        "sha1": "275a5de773416b26c2ade44f54442e20bf061769",
+        "crc32": "80f813f7"
+      }
+    }
+  ]
+}

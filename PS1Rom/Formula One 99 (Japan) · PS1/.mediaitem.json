@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formula One 99 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formula One 99 (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eefb69abd31d23b14f3c9bf6775f94e4",
+        "sha1": "c2bc80275563924a1e6fc8ab38f57f3a6249cedf",
+        "crc32": "2af2fc59"
+      }
+    },
+    {
+      "filename": "Formula One 99 (Japan) (Track 1).bin",
+      "filesize": 503144544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "20d9d27878d838398c2d074d86212dd7",
+        "sha1": "5f3897e0ad12280cce3b57992a85d72fda13cb0f",
+        "crc32": "df7bebb8"
+      }
+    },
+    {
+      "filename": "Formula One 99 (Japan) (Track 2).bin",
+      "filesize": 44104704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22cd72e1878e062de270ce0910537af1",
+        "sha1": "2fc20de3264f34728853fc148ea44ad0449ec484",
+        "crc32": "0473751e"
+      }
+    }
+  ]
+}

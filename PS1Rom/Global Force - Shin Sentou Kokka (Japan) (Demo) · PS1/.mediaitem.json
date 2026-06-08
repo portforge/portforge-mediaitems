@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Global Force - Shin Sentou Kokka (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Global Force - Shin Sentou Kokka (Japan) (Demo).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f261c4e3c648ad5a829e1abce3e8e213",
+        "sha1": "d61c6cf5987434662ed886b96a85064934015411",
+        "crc32": "9c820316"
+      }
+    },
+    {
+      "filename": "Global Force - Shin Sentou Kokka (Japan) (Demo).bin",
+      "filesize": 289928688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32441a74e9ad1844c2f737e7cf5a2a7b",
+        "sha1": "1a1286cfb71aa652867ae3066c1f8469fedbe42f",
+        "crc32": "dc44d515"
+      }
+    }
+  ]
+}

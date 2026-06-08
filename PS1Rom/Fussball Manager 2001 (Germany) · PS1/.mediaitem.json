@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fussball Manager 2001 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fussball Manager 2001 (Germany).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a5fe59ceb16b3125bd7c49a03af6980",
+        "sha1": "2dc363338dadbcfe6e885ff4585815854842f0dc",
+        "crc32": "28a233a0"
+      }
+    },
+    {
+      "filename": "Fussball Manager 2001 (Germany) (Track 1).bin",
+      "filesize": 499762368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93d5799954a0b7467968fe7b650f7442",
+        "sha1": "3ef4248ec7fbe2a7aace4317b13251234e85c16d",
+        "crc32": "61cc5b44"
+      }
+    },
+    {
+      "filename": "Fussball Manager 2001 (Germany) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

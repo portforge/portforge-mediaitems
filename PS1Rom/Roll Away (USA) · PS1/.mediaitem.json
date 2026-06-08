@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Roll Away (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Roll Away (USA).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e363a5af02763656c8593f56fd0b51f8",
+        "sha1": "bf96a2e8c32681add99a021bcf3e3a6b6ffd1836",
+        "crc32": "34089960"
+      }
+    },
+    {
+      "filename": "Roll Away (USA).bin",
+      "filesize": 257795664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca6082620ca3ec2e567e8bcda4735e73",
+        "sha1": "cce2a9645d1cecfa7d0ae67d1e1c6760681b1d14",
+        "crc32": "342f1508"
+      }
+    }
+  ]
+}

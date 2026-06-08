@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Demo Disc Version 1.5 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Demo Disc Version 1.5 (USA).cue",
+      "filesize": 381,
+      "ext": "cue",
+      "checksums": {
+        "md5": "928be845306a32263033d50fd46e8192",
+        "sha1": "56144bcfb465c8f08f35e21f44c98b2577fb181e",
+        "crc32": "79d68f1f"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc Version 1.5 (USA) (Track 1).bin",
+      "filesize": 471902928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e15e229c585b1d1d2990a1a3b8cb068b",
+        "sha1": "7a1ec0f33bc094020ff7e9b2cc3dfb0caeccc0ab",
+        "crc32": "55863d19"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc Version 1.5 (USA) (Track 2).bin",
+      "filesize": 28148736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b321f43dd11fcc4f2b676cc905a4404",
+        "sha1": "4394e000cbb2fe8d928b698e845b3a04f4e1894a",
+        "crc32": "d5ebc7e1"
+      }
+    },
+    {
+      "filename": "PlayStation Demo Disc Version 1.5 (USA) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

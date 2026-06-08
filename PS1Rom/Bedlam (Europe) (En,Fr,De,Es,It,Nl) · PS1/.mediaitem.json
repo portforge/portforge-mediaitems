@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bedlam (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 1014,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a9252a4a91dc7a31521c08b77995f24",
+        "sha1": "a94120a4812030448734fefe32f25adde66d021c",
+        "crc32": "6e0a59d3"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 1).bin",
+      "filesize": 82157712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2d04debd8095f93eb50251ef1b22a65",
+        "sha1": "c01f8bd0b5b08b2b8b006fea7d04abb826ed07ff",
+        "crc32": "725f01ad"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin",
+      "filesize": 37025184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee8f52220d35652aeb048c2ad8aac84f",
+        "sha1": "659ff970996b9aa9f0a4c017ee8ce3502d79e33d",
+        "crc32": "511ba896"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 3).bin",
+      "filesize": 39758208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53cdd102ee72827daddd510917736d81",
+        "sha1": "35f80dce49039423acd82164f9fda28cf697bc15",
+        "crc32": "d3fb5919"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 4).bin",
+      "filesize": 37702560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90874a917a287ca45ada2b9d17ff47bc",
+        "sha1": "f01186ff6d3783a281d59b0fc05392ddcd8648cb",
+        "crc32": "bb3c9155"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 5).bin",
+      "filesize": 38422272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "262a438060e1d0cb1c5f5ee749f85462",
+        "sha1": "fb4357096df7bce7c958bdd78003820862087532",
+        "crc32": "71dcd79b"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 6).bin",
+      "filesize": 36980496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60c14270e3e390892399ad8a0a28524b",
+        "sha1": "7898473bec6f7cbb77f482deb6cdc42d0e66ad31",
+        "crc32": "d5e42319"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 7).bin",
+      "filesize": 37815456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "208017c10cd315ad3acfb10b712bae2b",
+        "sha1": "27aac3c90aa09fe2ca26695b408a88ccea0a6f19",
+        "crc32": "97aae9e0"
+      }
+    },
+    {
+      "filename": "Bedlam (Europe) (En,Fr,De,Es,It,Nl) (Track 8).bin",
+      "filesize": 36420720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad71b6440bd4aedc198ad3d2f822567f",
+        "sha1": "64e4472de2d9c50db2676abf5c23c720ea25a599",
+        "crc32": "89871b70"
+      }
+    }
+  ]
+}

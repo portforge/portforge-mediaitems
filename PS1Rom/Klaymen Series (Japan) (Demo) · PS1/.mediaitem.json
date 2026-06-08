@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Klaymen Series (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Klaymen Series (Japan) (Demo).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fe173b98973fed910eeda21957cd5b04",
+        "sha1": "e0a6043a68261cc3f70e96c6a2f259502bd03dba",
+        "crc32": "f73b3fcf"
+      }
+    },
+    {
+      "filename": "Klaymen Series (Japan) (Demo).bin",
+      "filesize": 661681104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79ab5a1be0c11d8aca1ae0d262762e42",
+        "sha1": "a1c7593930aba90ba6b87ec1eb08993b9da3fbac",
+        "crc32": "5d1f8fb4"
+      }
+    }
+  ]
+}

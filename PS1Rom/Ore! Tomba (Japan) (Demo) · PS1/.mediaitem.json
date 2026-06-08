@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ore! Tomba (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ore! Tomba (Japan) (Demo).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30261271b993565afc1c699ea363e56b",
+        "sha1": "e4c02b587411dc3d2856276ff73bd3cb620c527a",
+        "crc32": "68ff31ad"
+      }
+    },
+    {
+      "filename": "Ore! Tomba (Japan) (Demo).bin",
+      "filesize": 135174144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c97488f78fe964434d9c8e82c9ffd27",
+        "sha1": "07068b6af3ce1839db309e9333a09066eb00ebb2",
+        "crc32": "c6b448e2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bounty Sword First (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bounty Sword First (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e05ec7ec52024af4fc7f1029764a60f",
+        "sha1": "22c22faaa1751abc949cb3661372697edd5445cc",
+        "crc32": "eb3ecdb1"
+      }
+    },
+    {
+      "filename": "Bounty Sword First (Japan).bin",
+      "filesize": 678483792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39b221a8c4c274fd0623d40ce0e1dc4b",
+        "sha1": "ed7ccfc449c8ba7ea1b6317b496c169427127902",
+        "crc32": "84d0e688"
+      }
+    }
+  ]
+}

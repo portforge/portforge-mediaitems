@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BallBlazer Champions (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BallBlazer Champions (Germany).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2621f74bc6f4f87a6796555de4e5b26b",
+        "sha1": "41246ce01574e5714b17e1e78609bd43dc23e7c3",
+        "crc32": "d96f9ceb"
+      }
+    },
+    {
+      "filename": "BallBlazer Champions (Germany).bin",
+      "filesize": 441331632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "687dab2f5998205d2b5efebb6651d357",
+        "sha1": "def3633aeace1cac705f5d92e868cf0c087062c3",
+        "crc32": "93e8d554"
+      }
+    }
+  ]
+}

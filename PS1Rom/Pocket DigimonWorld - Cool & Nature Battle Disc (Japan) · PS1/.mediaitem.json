@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pocket DigimonWorld - Cool & Nature Battle Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pocket DigimonWorld - Cool & Nature Battle Disc (Japan).cue",
+      "filesize": 280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efdef19e4a8495215c0457212b57753e",
+        "sha1": "d440588b7298a18c0be12cf490bc7908f8716e0f",
+        "crc32": "0c2d078f"
+      }
+    },
+    {
+      "filename": "Pocket DigimonWorld - Cool & Nature Battle Disc (Japan) (Track 1).bin",
+      "filesize": 279819792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "183a9730cea6a0a6f4a1b82106a8f72e",
+        "sha1": "c939f7d7058d73f408480f63348ad7fbc57667a5",
+        "crc32": "657d72ab"
+      }
+    },
+    {
+      "filename": "Pocket DigimonWorld - Cool & Nature Battle Disc (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WWF SmackDown! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WWF SmackDown! (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e57358077051e935af4e89546c0be37f",
+        "sha1": "74049240cc2be26a3d9e58407108376dd4852463",
+        "crc32": "18649a88"
+      }
+    },
+    {
+      "filename": "WWF SmackDown! (USA).bin",
+      "filesize": 593016816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21a607f7e0c40812259e85de8129b2d3",
+        "sha1": "20138d5889120350d9d6ff1e27534b4c095a53a8",
+        "crc32": "278d3804"
+      }
+    }
+  ]
+}

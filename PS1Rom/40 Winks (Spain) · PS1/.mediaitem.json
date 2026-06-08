@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "40 Winks (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "40 Winks (Spain).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "87c9e0a0d1ed79268db1ac3e900655e7",
+        "sha1": "b11bb31d90d22571e311edc270b4d3044540abe4",
+        "crc32": "d01aa77f"
+      }
+    },
+    {
+      "filename": "40 Winks (Spain).bin",
+      "filesize": 551268816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ba7755f9f5184d25d05cd391a29073b",
+        "sha1": "eac587a040ea4db03772bade7ad4a85ab81fd039",
+        "crc32": "815a014f"
+      }
+    }
+  ]
+}

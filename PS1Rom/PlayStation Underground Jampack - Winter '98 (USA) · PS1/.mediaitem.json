@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Jampack - Winter '98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Jampack - Winter '98 (USA).cue",
+      "filesize": 702,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d2e52aa30708f8f2a98997fda89da649",
+        "sha1": "8b199ee5fa94a65d2d05732569beae5b2632f620",
+        "crc32": "31d16c18"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Winter '98 (USA) (Track 1).bin",
+      "filesize": 675101616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecb867dfc541518b223b04c42cc86fd",
+        "sha1": "cbe9759be9148e2fbdd087dd9616759fb9a1f8fe",
+        "crc32": "f6030a44"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Winter '98 (USA) (Track 2).bin",
+      "filesize": 13580448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e979aa4e97e5e9f18ea0ffa9a772d64b",
+        "sha1": "70981d45820d5b2500358c85152a39e790289935",
+        "crc32": "ecfd0dab"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Winter '98 (USA) (Track 3).bin",
+      "filesize": 13596912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35b02e55bbe0fa544d90422e8020493d",
+        "sha1": "c7c37f1d07472ceb163b34be1db57e1a7303b865",
+        "crc32": "68e21663"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Winter '98 (USA) (Track 4).bin",
+      "filesize": 45901632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e22fe96e4cdbfec7e8df5120bcb0016",
+        "sha1": "cde487457b2fcc0e478dbde5ad03ddac7e44cdab",
+        "crc32": "56084ed3"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Winter '98 (USA) (Track 5).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

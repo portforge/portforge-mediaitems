@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bounty Sword - Double Edge (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bounty Sword - Double Edge (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3fc2bce8617586cce9208ae6973ec5b5",
+        "sha1": "5ce014923b7b5461b382d784bd1ef340924b73e1",
+        "crc32": "42afe31e"
+      }
+    },
+    {
+      "filename": "Bounty Sword - Double Edge (Japan).bin",
+      "filesize": 630707616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b5823a2ec2adc5d1ec547719c17f3e7",
+        "sha1": "6b3f9e455daec3fe38ee4688172a7544bebbeef9",
+        "crc32": "f52552d0"
+      }
+    }
+  ]
+}

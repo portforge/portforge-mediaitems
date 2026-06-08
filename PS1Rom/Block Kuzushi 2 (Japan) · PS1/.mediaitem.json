@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Block Kuzushi 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Block Kuzushi 2 (Japan).cue",
+      "filesize": 684,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8a56f16bc18dbd7ca4efd9c6a65d5218",
+        "sha1": "fabf51d14a4cabc03a14d3afb1ce9a206c452f12",
+        "crc32": "27b3221f"
+      }
+    },
+    {
+      "filename": "Block Kuzushi 2 (Japan) (Track 1).bin",
+      "filesize": 15008112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e2c3ccaec3e4e1e5f56f9b4610ee468",
+        "sha1": "260b88ad8c0224488c64acc0674c8ac43169ec4d",
+        "crc32": "5cae447f"
+      }
+    },
+    {
+      "filename": "Block Kuzushi 2 (Japan) (Track 2).bin",
+      "filesize": 1486464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "332c13c583164c6ed3e71e6b4b38a27e",
+        "sha1": "770d0ab9f4b25cd374b9505d0c1104a58b502401",
+        "crc32": "3b328e98"
+      }
+    },
+    {
+      "filename": "Block Kuzushi 2 (Japan) (Track 3).bin",
+      "filesize": 1310064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "942853b2d395f8734120ce8a00b099dd",
+        "sha1": "e457827672013443686f647d4d6f75ebb7a35a13",
+        "crc32": "d76005b0"
+      }
+    },
+    {
+      "filename": "Block Kuzushi 2 (Japan) (Track 4).bin",
+      "filesize": 1427664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "986aa9688584a2f590601ef73ebcb927",
+        "sha1": "30e06d4b05a280c7c8783f2b3b75589594fe3bac",
+        "crc32": "dbdaeece"
+      }
+    },
+    {
+      "filename": "Block Kuzushi 2 (Japan) (Track 5).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e83ba59a1ae397a3769220cdac2c0c97",
+        "sha1": "08a9dbaf7788146746bc5a472857d52b3580f9c8",
+        "crc32": "4591d0f6"
+      }
+    },
+    {
+      "filename": "Block Kuzushi 2 (Japan) (Track 6).bin",
+      "filesize": 63141792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4cbf65e8644342091ec270b1e887a03",
+        "sha1": "e729530c9a3f37adc11788e7028eb10f60270124",
+        "crc32": "89e600b5"
+      }
+    }
+  ]
+}

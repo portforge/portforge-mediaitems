@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ECW Anarchy Rulz (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ECW Anarchy Rulz (Europe).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6946bed83ce10a4df5da64b3be9ad3cc",
+        "sha1": "3a71e1c99b47ab2acdfd0f71671fdd66f8ed6fbe",
+        "crc32": "7379d185"
+      }
+    },
+    {
+      "filename": "ECW Anarchy Rulz (Europe) (Track 1).bin",
+      "filesize": 512583120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75b02ae8aea5ad109e4072cad385f236",
+        "sha1": "22057623b01aed3b6733abd46fe49a671a08350d",
+        "crc32": "e5561910"
+      }
+    },
+    {
+      "filename": "ECW Anarchy Rulz (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

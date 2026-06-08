@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kindaichi Shounen no Jikenbo - Jigoku Yuuen Satsujin Jiken (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kindaichi Shounen no Jikenbo - Jigoku Yuuen Satsujin Jiken (Japan) (Disc 1).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ebb723c438e957fc230c9793d4ef4508",
+        "sha1": "88eef65c7ec975a7c25e22367add4139db7ec6fe",
+        "crc32": "7e405188"
+      }
+    },
+    {
+      "filename": "Kindaichi Shounen no Jikenbo - Jigoku Yuuen Satsujin Jiken (Japan) (Disc 1).bin",
+      "filesize": 722038128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f435fa37eaed58f6d76b2123a60e317",
+        "sha1": "0dd96a16f6ac26f00332cb792071eb8096f0adb4",
+        "crc32": "2bf142bf"
+      }
+    }
+  ]
+}

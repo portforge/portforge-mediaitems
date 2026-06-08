@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Machine Hunter (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Machine Hunter (France).cue",
+      "filesize": 1398,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5154be057803c44abdef849fc11ebf5",
+        "sha1": "c2d9c917e7f4b20051d9c22b04c8907fe8485732",
+        "crc32": "33aa1902"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 01).bin",
+      "filesize": 122289888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fc8d8a5455c70d983b967f2e28e6b04",
+        "sha1": "66e4ecdf1f30527b3cd5314cb4e7017fdb230a09",
+        "crc32": "e3a3a56a"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 02).bin",
+      "filesize": 53576208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8504b138bbde17a5b07e8d5d86784e1",
+        "sha1": "3b16fcb8216df2bab3721efe5378f71e973ace39",
+        "crc32": "a13b7379"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 03).bin",
+      "filesize": 55815312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b31c849ef450ca2ab6ed45a58c0744f0",
+        "sha1": "bf1c73ac1e93c91e12d9c54a319c2bc81fda8c83",
+        "crc32": "910f16cc"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 04).bin",
+      "filesize": 48820464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fce913088063d50d0c63b85d67a1d598",
+        "sha1": "ae0911b51a5debc2868838745fef6ec95f023913",
+        "crc32": "2f634e87"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 05).bin",
+      "filesize": 39936960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c260aa2e21b05d1dee2606e61f5a0375",
+        "sha1": "dc485c39a1d7f2518443c4722079efa177b8c6c2",
+        "crc32": "4df5d43b"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 06).bin",
+      "filesize": 62612592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c477cd18c2b117f49414fef30ea94b85",
+        "sha1": "9f130b8a9b3569928b45edd87fbd93dd47c2d0f0",
+        "crc32": "b39c8c3d"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 07).bin",
+      "filesize": 61311936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d1c14f14ffcf913a358813b0868cfea",
+        "sha1": "dddea7e038b06d1f7af83eaf565bd4541a57966a",
+        "crc32": "850a1c2c"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 08).bin",
+      "filesize": 80149104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df2100991f7ca4b81325364901cb406e",
+        "sha1": "e0e65943a9cc712368f8e5ab4bb2bff43249c5b2",
+        "crc32": "74c81c82"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 09).bin",
+      "filesize": 13909728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "009ef1cb56331bb878ad4fd15c6d653f",
+        "sha1": "fbca8d62f8c53501026d27f008c7a922dfae148a",
+        "crc32": "25e3eb7e"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 10).bin",
+      "filesize": 11644752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "141e0b3aab009522432318a4a0f11b34",
+        "sha1": "c8b942497eec13df4f40f401fad4cf9615d641be",
+        "crc32": "242cfff3"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 11).bin",
+      "filesize": 1147776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5086cbb49beda98c07d39bd4256f8487",
+        "sha1": "0090bf02d80a9350f7eecafe26a7e28073228d6d",
+        "crc32": "f9066a76"
+      }
+    },
+    {
+      "filename": "Machine Hunter (France) (Track 12).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

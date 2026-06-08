@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D8 - Yarudora - Double Cast (Japan) (Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D8 - Yarudora - Double Cast (Japan) (Taikenban).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1c9097f40dfcf4b71ad0c0ba83e898d4",
+        "sha1": "47541200d78808cd4822cdc93a99cc1f725aabe0",
+        "crc32": "6fff5812"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D8 - Yarudora - Double Cast (Japan) (Taikenban).bin",
+      "filesize": 180174960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38ba517228b1b6cbbfff2a0012d88281",
+        "sha1": "5663db641e2eac1fe705186851935dfad1f91beb",
+        "crc32": "c3a3c37d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "80b3dfda1a83cf1e1b378a01b6509485",
+        "sha1": "0d5a72f1c7598759819330972891e7e4a4db95f7",
+        "crc32": "1b46a9b0"
+      }
+    },
+    {
+      "filename": "Final Fantasy Anthology - Final Fantasy V (USA) (Rev 1).bin",
+      "filesize": 252604800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4687163b08fcf730a15d2ac75e82d6a2",
+        "sha1": "3d6a2c03b34170df6e4c04042eb4eb5c2076ba2c",
+        "crc32": "d6aabbca"
+      }
+    }
+  ]
+}

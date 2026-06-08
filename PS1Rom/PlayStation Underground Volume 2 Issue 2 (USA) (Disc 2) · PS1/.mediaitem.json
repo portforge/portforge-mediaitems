@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2).cue",
+      "filesize": 1025,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75981f44bdf7d842370f2701704d810c",
+        "sha1": "19b372073db6d27eebc1f4265902fc1b1cc63f1a",
+        "crc32": "6cafad4b"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2) (Track 1).bin",
+      "filesize": 624738240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a50bc8b772e7ebcb4e067340b829a87",
+        "sha1": "098a44e53db5025c0441317b5830e06a1d981c58",
+        "crc32": "eca1d2ae"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2) (Track 2).bin",
+      "filesize": 40306224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "355f4576b380ae4710591bce9c677744",
+        "sha1": "a5bf6aed43648cba3f94a3b63e90cd8b25c5e343",
+        "crc32": "16432c96"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2) (Track 3).bin",
+      "filesize": 20349504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6897c7003d21d478cce671142827840",
+        "sha1": "55eef285d51fc96c13aa579a0bcc2a3eae387d4c",
+        "crc32": "8219081c"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2) (Track 4).bin",
+      "filesize": 11625936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c2253773e248aea18f218417b10775f",
+        "sha1": "ab563444dbdae638bdd045b6ef997e50c8596bec",
+        "crc32": "c72df971"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2) (Track 5).bin",
+      "filesize": 1331232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2772593ad1d463fc1136e799884a2f7",
+        "sha1": "a7824841ce0fd60a2cac7a81faf75a6084299b0a",
+        "crc32": "6c7a0b09"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2) (Track 6).bin",
+      "filesize": 27360816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9142f89000e611da2068497f3cb737ee",
+        "sha1": "ad95c376a519054d5c24f92aea851305fd5f42a2",
+        "crc32": "d0184b53"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Volume 2 Issue 2 (USA) (Disc 2) (Track 7).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

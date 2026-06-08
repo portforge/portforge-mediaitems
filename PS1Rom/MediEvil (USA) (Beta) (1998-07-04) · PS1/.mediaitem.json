@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MediEvil (USA) (Beta) (1998-07-04)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MediEvil (USA) (Beta) (1998-07-04).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16e48904a0bfb391f752213e9013ea87",
+        "sha1": "3bbc965c1ab5df4a9e0b075b6f1b0d8d08220825",
+        "crc32": "2957a16f"
+      }
+    },
+    {
+      "filename": "MediEvil (USA) (Beta) (1998-07-04) (Track 1).bin",
+      "filesize": 476736288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3102afb030a24f9b8b3e86cac11001dc",
+        "sha1": "2efb062f6d7cacd6e69e71c4e23b6de6a26c79d8",
+        "crc32": "be723d3a"
+      }
+    },
+    {
+      "filename": "MediEvil (USA) (Beta) (1998-07-04) (Track 2).bin",
+      "filesize": 33323136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56a29b30d426ea5e0ccf4605cd634f00",
+        "sha1": "5f2bcfda6ef3a0e41a5003e21e2883cc4f1d82e6",
+        "crc32": "578c45f6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yetisports World Tour (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yetisports World Tour (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "898bc94efd703fc07853df4a0aa9f391",
+        "sha1": "8aedbd5413131aaa6acf5c935c7dc6ad13d2e0f3",
+        "crc32": "6e479be1"
+      }
+    },
+    {
+      "filename": "Yetisports World Tour (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 119874384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d12f8efe93ef270553a86132a614d12f",
+        "sha1": "5943d312e7d485caa641c21522175823ce275515",
+        "crc32": "dc28138f"
+      }
+    }
+  ]
+}

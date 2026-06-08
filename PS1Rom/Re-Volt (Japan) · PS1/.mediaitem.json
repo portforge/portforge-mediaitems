@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Re-Volt (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Re-Volt (Japan).cue",
+      "filesize": 200,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a81783aca493df3cdd51a3b37515668",
+        "sha1": "716d74fc39da87799d274ad538963debbdefc229",
+        "crc32": "f3cf884c"
+      }
+    },
+    {
+      "filename": "Re-Volt (Japan) (Track 1).bin",
+      "filesize": 37942464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b23f3075d0501b446edd4e3d8f802007",
+        "sha1": "f9d1d550c6dee361c43ee40d77eb2cc2c6bacad3",
+        "crc32": "7a5f077f"
+      }
+    },
+    {
+      "filename": "Re-Volt (Japan) (Track 2).bin",
+      "filesize": 512449056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "431e03d7c596d58c754b1d5d0a7292a6",
+        "sha1": "2d1497fb534d2dbfa0ab0bb986d794aca1576872",
+        "crc32": "d534902c"
+      }
+    }
+  ]
+}

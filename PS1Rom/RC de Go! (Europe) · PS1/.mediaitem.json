@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RC de Go! (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RC de Go! (Europe).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34d35df0f3d0e752197f1c82c728398b",
+        "sha1": "52c8ecc47576a240142cadacc76e2cf9f09723b1",
+        "crc32": "6c6a61d0"
+      }
+    },
+    {
+      "filename": "RC de Go! (Europe) (Track 1).bin",
+      "filesize": 306016368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c86ef5189daa27808c92191244ecd412",
+        "sha1": "070e67a9104f9da5f5b4c2ac35c2d7a5592ec815",
+        "crc32": "c5761c11"
+      }
+    },
+    {
+      "filename": "RC de Go! (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

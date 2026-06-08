@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Golden Goal 98 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Golden Goal 98 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "22fab3deccd55468d0e57c389f4ca4fa",
+        "sha1": "2de7f04fdb917e8954fcb6796bfdc85a3a1efa22",
+        "crc32": "14e45e82"
+      }
+    },
+    {
+      "filename": "Golden Goal 98 (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 63647472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0727331338a0d7dacfe16f55c2412dff",
+        "sha1": "bc03b2814b56db7c2f57086894afd637ae70dabb",
+        "crc32": "23565717"
+      }
+    },
+    {
+      "filename": "Golden Goal 98 (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 32288256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "292e55d2c1a8b4e106f3e3ec1192da3c",
+        "sha1": "761cf9d159f7041544018f08acd3b010235db48c",
+        "crc32": "1e041260"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Spike - Pro Beach Volleyball (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Spike - Pro Beach Volleyball (USA).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8e16dbbd3518fc3af5fe6e383413796",
+        "sha1": "e4fd5013f719c6edec2eb1923552a19a388ed435",
+        "crc32": "df39af1c"
+      }
+    },
+    {
+      "filename": "Power Spike - Pro Beach Volleyball (USA).bin",
+      "filesize": 421118544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f890f87b5bfb4cd0880559e505524671",
+        "sha1": "2c5ebe919c4b272baab9a9d75e7809e9b53c3826",
+        "crc32": "b826edad"
+      }
+    }
+  ]
+}

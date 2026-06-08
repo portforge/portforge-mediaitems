@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hot Shot (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hot Shot (Europe).cue",
+      "filesize": 315,
+      "ext": "cue",
+      "checksums": {
+        "md5": "09ba1ac7e3e5e7efe8a9a21d40a33ee0",
+        "sha1": "6b8a35f60dfa01d558b0b608b9bbf780ce15754f",
+        "crc32": "073d34aa"
+      }
+    },
+    {
+      "filename": "Hot Shot (Europe) (Track 1).bin",
+      "filesize": 111604752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f25716fa6dd8ba057d4fc36ac41bcf79",
+        "sha1": "366863d663c63e8c4098f4b9df8a18226698be9c",
+        "crc32": "6657553c"
+      }
+    },
+    {
+      "filename": "Hot Shot (Europe) (Track 2).bin",
+      "filesize": 19909680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "542ed10c27c4cf6f78274ed8e7f4abf2",
+        "sha1": "6d83fe0507fb8321104edd41b132077d919e67ae",
+        "crc32": "b777ac08"
+      }
+    },
+    {
+      "filename": "Hot Shot (Europe) (Track 3).bin",
+      "filesize": 82844496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfb3b68c8afda6106a289d3ab313f771",
+        "sha1": "1753f7187ebe56360d1a656623fcccf701d413eb",
+        "crc32": "9135769e"
+      }
+    }
+  ]
+}

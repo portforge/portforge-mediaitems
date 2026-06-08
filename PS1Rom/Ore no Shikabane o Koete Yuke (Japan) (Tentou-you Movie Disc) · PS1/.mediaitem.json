@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ore no Shikabane o Koete Yuke (Japan) (Tentou-you Movie Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ore no Shikabane o Koete Yuke (Japan) (Tentou-you Movie Disc).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3498a37c402cae076c86bcf038b3718",
+        "sha1": "75aa5e4c1c9a513bce0e96a696c1e5a38587e1bc",
+        "crc32": "a9fa741f"
+      }
+    },
+    {
+      "filename": "Ore no Shikabane o Koete Yuke (Japan) (Tentou-you Movie Disc).bin",
+      "filesize": 106571472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32e9fe047eb9a7088551228de831f316",
+        "sha1": "62b49885f0f4a5cf967fd9e185123aab905033ea",
+        "crc32": "6b4bb0d0"
+      }
+    }
+  ]
+}

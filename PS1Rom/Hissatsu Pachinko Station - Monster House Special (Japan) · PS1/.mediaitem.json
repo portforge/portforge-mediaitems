@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station - Monster House Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan).cue",
+      "filesize": 1039,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdf02d9f4885919c76542de615776337",
+        "sha1": "7aa6263286ea47eb9b474ecc4ac8655aec9459da",
+        "crc32": "58f42b0b"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan) (Track 1).bin",
+      "filesize": 38815056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "199551b8da9c159fad6828035f2df79c",
+        "sha1": "c8ba461e1ee73d95f410f8190e4a41cf4abbc8eb",
+        "crc32": "a51185b1"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan) (Track 2).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6564660b8cf287633a05aeb717d27354",
+        "sha1": "c16e7aba10018aee4ba469a4cfca18c559547e6d",
+        "crc32": "93309b57"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan) (Track 3).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8313cb2243858eaf818157fb496298af",
+        "sha1": "0246ab4bbd3a982b175ca4de2d419ff37532d67d",
+        "crc32": "113a3ccb"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan) (Track 4).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18a14654f6608dd5e2b704178e99b0be",
+        "sha1": "dfaf6f145001aad048992bb78f08756250588300",
+        "crc32": "6bd0d8ab"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan) (Track 5).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6fcd3d26184bd337b8a59373a641f084",
+        "sha1": "67e322b6e0f7b4ec8d44dbd7b44fa9f124cd91bd",
+        "crc32": "1e63a9cd"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan) (Track 6).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62fbed20c06765e4a0762ed0907434c3",
+        "sha1": "090cbe36a2128ecba34f9568c2259c7ab5a9e65c",
+        "crc32": "83ef6140"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station - Monster House Special (Japan) (Track 7).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62fbed20c06765e4a0762ed0907434c3",
+        "sha1": "090cbe36a2128ecba34f9568c2259c7ab5a9e65c",
+        "crc32": "83ef6140"
+      }
+    }
+  ]
+}

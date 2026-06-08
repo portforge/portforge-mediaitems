@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jimmy White's 2 - Cueball (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jimmy White's 2 - Cueball (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f479deb245b39bdab404909ef840d92",
+        "sha1": "b446a154463d25bd649ca08f7ddab4f628fa18b4",
+        "crc32": "1a015530"
+      }
+    },
+    {
+      "filename": "Jimmy White's 2 - Cueball (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 240548448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d20f64416ee17cbea963359b8920327f",
+        "sha1": "5a5d31982b3e307c11d570544d865fe31eb7b830",
+        "crc32": "1e19844c"
+      }
+    }
+  ]
+}

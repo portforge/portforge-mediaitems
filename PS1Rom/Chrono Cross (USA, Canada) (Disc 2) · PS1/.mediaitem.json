@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chrono Cross (USA, Canada) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chrono Cross (USA, Canada) (Disc 2).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d58b6610068fff13c56a412347971c0",
+        "sha1": "701382fe24e44f709d4040d7e89ed03944a10b89",
+        "crc32": "a2564cd6"
+      }
+    },
+    {
+      "filename": "Chrono Cross (USA, Canada) (Disc 2).bin",
+      "filesize": 741797280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6463d040aae5156ac146d34402a7988d",
+        "sha1": "0ad65d093b36ae9ecf02aa9abb15952503cb5adf",
+        "crc32": "c7f6ab73"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan).cue",
+      "filesize": 1186,
+      "ext": "cue",
+      "checksums": {
+        "md5": "32596fb3bd681bda3ace31dbfd47803f",
+        "sha1": "2fd68b23098511de3981ff594629369da01e0948",
+        "crc32": "18a9645f"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 1).bin",
+      "filesize": 85036560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b61e8c370393f37392212b3dd23e324",
+        "sha1": "9c94527f96fb4969df2dcc33d9cfb707f7712ec1",
+        "crc32": "40847eb2"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 2).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f6e17777bb9b3dbeb3cbcc65e19c8ba",
+        "sha1": "66785afc6e1d23b01dc22fb4709a01f0a5730d14",
+        "crc32": "7f4c1d12"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 3).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc32640c97a0f4abc44b5b7a7b0994f2",
+        "sha1": "84c544378094e88a04d932ca857fc7fb9d6f9049",
+        "crc32": "9059994d"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 4).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7b5cdad347e352decaaecda7e554376",
+        "sha1": "9f542b62d583670adabf10a5b3c364570d9452a2",
+        "crc32": "04dfb429"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 5).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f40c69f131a1791c0f0d366fd10ceb8f",
+        "sha1": "a0b987c7869c89816d357450fd9cf04ab7289cec",
+        "crc32": "25ae7713"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 6).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95636aadfb01cb8ba263b5d867cd3214",
+        "sha1": "ba741308895bfcd608b0995ec15ec5638ca36175",
+        "crc32": "263c83b3"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Classic - Fukkatsu! Natsukashi no Meikitachi (Japan) (Track 7).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f6e17777bb9b3dbeb3cbcc65e19c8ba",
+        "sha1": "66785afc6e1d23b01dc22fb4709a01f0a5730d14",
+        "crc32": "7f4c1d12"
+      }
+    }
+  ]
+}

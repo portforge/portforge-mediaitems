@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Fais Ton Histoire! Mulan (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Fais Ton Histoire! Mulan (France).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6df03d4b6b74e5ffe0585de7c91c8789",
+        "sha1": "0e161dc9eb28173c40cd512901f93d7caab56b64",
+        "crc32": "c32256e4"
+      }
+    },
+    {
+      "filename": "Disney Fais Ton Histoire! Mulan (France).bin",
+      "filesize": 226490544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0ba9938c4240e4de374b95fb97945e1",
+        "sha1": "9fcefaac5ad5d30c4437a7186f59ed9b62410a41",
+        "crc32": "ae6bef80"
+      }
+    }
+  ]
+}

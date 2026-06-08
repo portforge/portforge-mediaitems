@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Versailles - Verschwoerung am Hof (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Versailles - Verschwoerung am Hof (Germany).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99657c52541f55ccad9f71c56311df04",
+        "sha1": "31c6b3e476a6115443cc94cc0a2871424c6831cf",
+        "crc32": "277040d3"
+      }
+    },
+    {
+      "filename": "Versailles - Verschwoerung am Hof (Germany).bin",
+      "filesize": 704391072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "864c5c79ab420eb0743f74f14436086d",
+        "sha1": "77567524805fbd7ac71a7ba800d99d66b2e32aef",
+        "crc32": "a5dbc5a2"
+      }
+    }
+  ]
+}

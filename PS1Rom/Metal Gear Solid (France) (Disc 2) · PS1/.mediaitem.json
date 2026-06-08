@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (France) (Disc 2).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "adea05f34355d80b7398808ce23797af",
+        "sha1": "03abf15c47bd69468e5b73d58a1d39e61706131d",
+        "crc32": "ab1e67f7"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (France) (Disc 2).bin",
+      "filesize": 701213520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "172566da95dd97562eaf7a064259ccf8",
+        "sha1": "578bef4fb45a4c20a7dd5f6645b474a5180aae04",
+        "crc32": "04228e06"
+      }
+    }
+  ]
+}

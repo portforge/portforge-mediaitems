@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "International Track & Field (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "International Track & Field (USA).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "039c2fadeaecbdffd4c6ddafaf55ae35",
+        "sha1": "ba4564f2938251b06a0df2c8a6c9ca2818962919",
+        "crc32": "66b2de0d"
+      }
+    },
+    {
+      "filename": "International Track & Field (USA).bin",
+      "filesize": 286106688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4afad63257a91d95628732b8a2f55587",
+        "sha1": "2c29a3da762e3149cf9c339be85da0b8ba9db3e2",
+        "crc32": "d3b9b1df"
+      }
+    }
+  ]
+}

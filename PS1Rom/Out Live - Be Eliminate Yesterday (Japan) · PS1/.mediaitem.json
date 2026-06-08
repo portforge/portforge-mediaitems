@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Out Live - Be Eliminate Yesterday (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Out Live - Be Eliminate Yesterday (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "baef7a6982d548efe7e451ba753c4a3e",
+        "sha1": "905a15682222f3bedb062b101e290aad1760ac8d",
+        "crc32": "5b1ac0cd"
+      }
+    },
+    {
+      "filename": "Out Live - Be Eliminate Yesterday (Japan).bin",
+      "filesize": 699409536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7d7447dbc7d002079e77e8b5d9a5a3b",
+        "sha1": "201ac8728aea93239c6ee508f7fa5d6f68741418",
+        "crc32": "d3fbc4e8"
+      }
+    }
+  ]
+}

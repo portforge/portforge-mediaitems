@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 8 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 8 (Germany).cue",
+      "filesize": 787,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2319bfe3c5394868a3c29ac3cb6c091",
+        "sha1": "a9f40be4cdf22aabfc9361085a919295921b92d9",
+        "crc32": "cd7e536e"
+      }
+    },
+    {
+      "filename": "Euro Demo 8 (Germany) (Track 1).bin",
+      "filesize": 183801744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9a899273e1210b5297da6b3b2c272b3",
+        "sha1": "c03d3413937c155507f9e69090748e38ae5b07a1",
+        "crc32": "ddaa51d5"
+      }
+    },
+    {
+      "filename": "Euro Demo 8 (Germany) (Track 2).bin",
+      "filesize": 20086080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ee1542bf415d7eaf38552bf0e81e96d",
+        "sha1": "1bfadce914fb9fb4e0691e3193a6653403df3628",
+        "crc32": "48085ec7"
+      }
+    },
+    {
+      "filename": "Euro Demo 8 (Germany) (Track 3).bin",
+      "filesize": 1258320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f367d54d7b828be5f4d263d2738f79b",
+        "sha1": "a016561ba964f09c3457513c221e6e91a0ffb382",
+        "crc32": "95093b33"
+      }
+    },
+    {
+      "filename": "Euro Demo 8 (Germany) (Track 4).bin",
+      "filesize": 2533104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd0305270d7ffd1122371e0480769dd1",
+        "sha1": "be5d01102355044369a40496f0b46031d2e89d39",
+        "crc32": "9844815a"
+      }
+    },
+    {
+      "filename": "Euro Demo 8 (Germany) (Track 5).bin",
+      "filesize": 2716560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f789ad48e56f6663fdb2c9f1c284c0f8",
+        "sha1": "604e8035486a8c4899f64beb0bb3939065b9496d",
+        "crc32": "19346f36"
+      }
+    },
+    {
+      "filename": "Euro Demo 8 (Germany) (Track 6).bin",
+      "filesize": 35503440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddece5d613dd03e152638da2171cb899",
+        "sha1": "dcf92bcdb7f1ffe855453be722f6399db4198b7c",
+        "crc32": "a58f79d7"
+      }
+    },
+    {
+      "filename": "Euro Demo 8 (Germany) (Track 7).bin",
+      "filesize": 35174160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c1a2248fe9854d15f8217456285002",
+        "sha1": "e7996186776d4502e415dc69585c4319f7e624eb",
+        "crc32": "3048c3ee"
+      }
+    }
+  ]
+}

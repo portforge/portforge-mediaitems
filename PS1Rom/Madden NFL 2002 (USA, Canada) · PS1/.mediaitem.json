@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Madden NFL 2002 (USA, Canada)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Madden NFL 2002 (USA, Canada).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "417fa7d29170e50e57265904a0ad52de",
+        "sha1": "c9e82d0ac3adce41663102a6972f13d559bf0e6a",
+        "crc32": "06883d4e"
+      }
+    },
+    {
+      "filename": "Madden NFL 2002 (USA, Canada).bin",
+      "filesize": 404856816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1100b9032fe15433507c5acd5bb9d28a",
+        "sha1": "199c9440a838bae41c2f2c20c962ab86a2966343",
+        "crc32": "1ad0b3d8"
+      }
+    }
+  ]
+}

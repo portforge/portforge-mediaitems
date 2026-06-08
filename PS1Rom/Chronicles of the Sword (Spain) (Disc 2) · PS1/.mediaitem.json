@@ -1,0 +1,507 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chronicles of the Sword (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2).cue",
+      "filesize": 6597,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cfe292db6f1c0942c01cafe17179752d",
+        "sha1": "6ad3195b3796d3215445ea974de1519fe728ba6f",
+        "crc32": "da75b953"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 01).bin",
+      "filesize": 234259200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf550de9f025ba8cf9b5ca2fc3c2d312",
+        "sha1": "7f8997be34787302236eb13a43780d5c8f1a86a2",
+        "crc32": "49ab3245"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 02).bin",
+      "filesize": 3880800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f74c2e2f4ff388b210f566022687852f",
+        "sha1": "e15eda0fc249ffb445f32510860c3148161aa6aa",
+        "crc32": "de555120"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 03).bin",
+      "filesize": 19051200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "273e9831b1903bb778ebebc5f029953f",
+        "sha1": "c55187c0967322f72684a23b301b949255f7259f",
+        "crc32": "6d5d37f2"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 04).bin",
+      "filesize": 12171600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11b82dd41d1ba8003d9021e4ffa0d6b7",
+        "sha1": "08093bf37626c37ca59380550d65a1a653f388a9",
+        "crc32": "8f6c9128"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 05).bin",
+      "filesize": 30164400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d4297c65244ac2aab9c4053084011c5",
+        "sha1": "ec5c7f9df8a57a0d23e387fa7e4f8273641f2371",
+        "crc32": "88e72b8f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 06).bin",
+      "filesize": 2469600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b6c1cf4d8f615c504964ef6f0a5cc65",
+        "sha1": "3558ebff0e648f7cd759ba7ae6bc5dd3fbb65015",
+        "crc32": "b3490ebc"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 07).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9143e7586d9fabf9fa6a0026c99a70f",
+        "sha1": "6475d8fab608d900b4c53571da5065d407e05981",
+        "crc32": "f5fe519d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 08).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9dc4ddd0f29ce60f496d708bdfdb9ad",
+        "sha1": "9850926c629ed31bd903b244d665266c1bf80ac0",
+        "crc32": "52700f82"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 09).bin",
+      "filesize": 2822400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e82afbf7a282fcb8a3a640ff1259c80",
+        "sha1": "6d2de6e104eeff7e8b59ff023a3d5a78f8670728",
+        "crc32": "54b34436"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 10).bin",
+      "filesize": 11113200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6577e04f51c958e638bf9eae8f28db81",
+        "sha1": "6308890d2c9be4a71c99a0233d0fc3b0485c8311",
+        "crc32": "0b087aea"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 11).bin",
+      "filesize": 1764000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76224f9367cc198aba10e75435c8cf92",
+        "sha1": "efbb7326cba8e0f758b0986a0861481930d25c6a",
+        "crc32": "30b2af7d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 12).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1e18c94ae1bff3ca72cff5b80d10b66",
+        "sha1": "4b6abb1438e7c11e083764e3979ed8e0f41c4050",
+        "crc32": "e664086f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 13).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bfeff3e52696097935ed7eb26c33029",
+        "sha1": "a89cadb3e460753f35ad2772db44e8756d076583",
+        "crc32": "176555cb"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 14).bin",
+      "filesize": 3175200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fced41e22b5208c1da04798a8040482d",
+        "sha1": "ecec758566627b7febf8479387dd3f4310ee7f63",
+        "crc32": "6fbbf039"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 15).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a14a88f9a090e8632c24ca2b94ffb96f",
+        "sha1": "59f7ec7a47271a0a77a5404530c71147523d1fa4",
+        "crc32": "f7a67b86"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 16).bin",
+      "filesize": 7585200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5159e0b7a5d99a3e429cc00acd49d8a0",
+        "sha1": "a8de17df3a4b9e0de4ed07657247ab6a6156b2bf",
+        "crc32": "888bdd9c"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 17).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "931531dff97121b5a82208d2e7a52b3d",
+        "sha1": "771e4a02a4f165b5ab082cdadf0f2c44717d685c",
+        "crc32": "2e0b6946"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 18).bin",
+      "filesize": 3175200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "086a35b0d75711dd144ee7afe0ab6e31",
+        "sha1": "76f71ae6eb46786ef65e8c5118ea1a478f97c02d",
+        "crc32": "45793fd6"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 19).bin",
+      "filesize": 75499200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63da773551e6192de0a1fda926976007",
+        "sha1": "87f5cf7404ff53afff78190ee9c089e21b43664f",
+        "crc32": "ae4b3966"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 20).bin",
+      "filesize": 2469600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9dd4938b23a70fd5a9500314dd36c28a",
+        "sha1": "d3a89f3464fc991591b9229b2d5532854981360e",
+        "crc32": "2213418f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 21).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80f00b5a2c849b2c8edc3c57f4380617",
+        "sha1": "878599dd8e52c7541dfef41cc4e4b26f63fdd83a",
+        "crc32": "bfc4465c"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 22).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3eabd4b93acca7ba0f1419b59f5aeb1a",
+        "sha1": "608efc7202735d7c830aed44392876bc85f76613",
+        "crc32": "5c0eeb69"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 23).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "befaace604b47352a481236264a26ac5",
+        "sha1": "0f4fac3266b8c8fb50b957fc5dd7b763dd06e3f3",
+        "crc32": "02f9a782"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 24).bin",
+      "filesize": 2469600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41c8fe23c79c970dcb5c1bbd0e4816eb",
+        "sha1": "00f0c05bb0bd09eda36cbb87beb540fc27d7a9e2",
+        "crc32": "88659a8d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 25).bin",
+      "filesize": 10407600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "072d7a3567174e69d390aa2933813c8c",
+        "sha1": "a6ae412f5378c6a9615b718496bcfe901ecb8c36",
+        "crc32": "7d9ac128"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 26).bin",
+      "filesize": 2998800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "818f4227a9fef8977e861012f3306e09",
+        "sha1": "6e846b0af31dd366f1750e83b58936ea6e10fe1b",
+        "crc32": "2e7ab05d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 27).bin",
+      "filesize": 21697200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81e767146e1aeeddf671492db1e9fa10",
+        "sha1": "c7f9b9da2c8fb6e1a4e67461590c6dbacd329a4d",
+        "crc32": "326d527d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 28).bin",
+      "filesize": 25578000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1aa84619dcaff01db8bb56b37bcadac2",
+        "sha1": "6f89307392089038a450316482ef14f4b111802c",
+        "crc32": "2dca3ccf"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 29).bin",
+      "filesize": 4410000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8fc7a296e4755f24b6dc360566cc9e7b",
+        "sha1": "0b2e78c693940970e9471c5a946b418aaef96a91",
+        "crc32": "9b1778ad"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 30).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71ac24c12f9c790514b5ed8ac526e0a7",
+        "sha1": "277158be4e68c3cd48ab9ddd7e7eeba6eb6a4193",
+        "crc32": "05c8b35c"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 31).bin",
+      "filesize": 3704400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bb4281f731092cd6923f08989005e2f",
+        "sha1": "dfdb1867787b48526b2e6fd035033e86441d992a",
+        "crc32": "706edf86"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 32).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29af7d480123cb5818972ef9902551d1",
+        "sha1": "f4fd0c0ebc0df767c7bacb8429f87d0d5179643c",
+        "crc32": "8e19c3dc"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 33).bin",
+      "filesize": 5821200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a81979bc83d3d605ab2329d1a011d8a",
+        "sha1": "ad9033510c60d82b92b57ee5bcebecd37e483b1a",
+        "crc32": "2e4959b8"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 34).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dff5f2821ac2d611d9bea4384c230e7c",
+        "sha1": "c210fc6d9a1c9a67bd9d90448034bab14317d037",
+        "crc32": "08976611"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 35).bin",
+      "filesize": 2998800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82dd2a536813a9de2dbde81e9f512836",
+        "sha1": "6fac406aa1fc8ab5ebc2ccd25d7605729b2a5fff",
+        "crc32": "41a60fc4"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 36).bin",
+      "filesize": 2293200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d9f608112a41ec319c5234c095dcef9",
+        "sha1": "d6ebb3f48ed219cf9ab6e6d556e7640a0caed4b0",
+        "crc32": "fa9317c0"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 37).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfa01adae1d77675b8478afa031f521b",
+        "sha1": "da579abb63d1b30e7a50d43e9150061cf2e26ffa",
+        "crc32": "27832b1d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 38).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c997f8e60639555eda72b8d23148c1fb",
+        "sha1": "40673ee49386e000d34b8620af610ad78339199c",
+        "crc32": "d684df00"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 39).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d3e2d221e072efb7224677102f0e981",
+        "sha1": "9fbe2813ba29cee3ca1c237cb36d9f72d0b25aa9",
+        "crc32": "0ab9f4ff"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 40).bin",
+      "filesize": 27871200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17a8b5c396deaaf4ad476751f28c7965",
+        "sha1": "ccc1add323412894b00847c28f51dfb1f3c50ad3",
+        "crc32": "0833a13b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 41).bin",
+      "filesize": 3175200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "518cfcc7a8b1e71bcf352194fce7a481",
+        "sha1": "17fd05fd5014e03b465a8452e2e88ae42ae1a017",
+        "crc32": "85c0f725"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 42).bin",
+      "filesize": 9349200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a264783533dc042c09cfb8936e03890",
+        "sha1": "28c1dca96dda7b32636ea9df329ae72f251a4f97",
+        "crc32": "bf796f3d"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 43).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e1c05d570bcbfe104525cacc2fc14f",
+        "sha1": "cdecbe3b6c1b480cedcc585e53889ca7da4de3c4",
+        "crc32": "8df1dd1f"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 44).bin",
+      "filesize": 3351600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe39b1c9d0502e4f234fc8da8d249d6c",
+        "sha1": "0dce23a6760571528f41b4734d3bb4b6df7afa6d",
+        "crc32": "7381e553"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 45).bin",
+      "filesize": 1940400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "662680268bf0e1132b46bf5e2ff8452c",
+        "sha1": "aa5dc9afc536ca0c45ea0d0f9551fe0d68e46fe3",
+        "crc32": "336e0220"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 46).bin",
+      "filesize": 8996400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1d4e4fce75134a506cb573ad27aaba1",
+        "sha1": "a3fb8516f34bfa02f3a05116f07b493ecde1736c",
+        "crc32": "b98549d6"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 47).bin",
+      "filesize": 1411200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2344db9de38ae78ea167026cd89960ab",
+        "sha1": "55c23c1b7aa7d1ae96bc555deeeffad509719f17",
+        "crc32": "59d6fd08"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 48).bin",
+      "filesize": 18698400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7365bdfcc9023d153253906fee6f72af",
+        "sha1": "8a609acb97d44aaca52369d6527755f2265cd23f",
+        "crc32": "a237e68b"
+      }
+    },
+    {
+      "filename": "Chronicles of the Sword (Spain) (Disc 2) (Track 49).bin",
+      "filesize": 33892320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17da510f4c34be9d19c6154e861d80be",
+        "sha1": "f6ef3b3be1c8d4b8741d683a85b62241784ae64c",
+        "crc32": "c62f8faf"
+      }
+    }
+  ]
+}

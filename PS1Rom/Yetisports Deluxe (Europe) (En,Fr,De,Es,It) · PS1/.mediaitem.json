@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yetisports Deluxe (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yetisports Deluxe (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 393,
+      "ext": "cue",
+      "checksums": {
+        "md5": "46564287302eef841d75c07c649c496c",
+        "sha1": "f0ec7c444ef00171a6cd5f8ba3bf20e7c39e9a10",
+        "crc32": "765ca394"
+      }
+    },
+    {
+      "filename": "Yetisports Deluxe (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 39769968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8a7789b44ad92f12eb246ab40cf07b0",
+        "sha1": "5102e3d7928b6e045bbda196037c704f6b8b5dd9",
+        "crc32": "ad6aeee8"
+      }
+    },
+    {
+      "filename": "Yetisports Deluxe (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 29336496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea0fc787fdb483f70f0c493f5f3a7760",
+        "sha1": "7f3d27085364bfd0a57f77271132e7b45bc844d1",
+        "crc32": "b05e1582"
+      }
+    },
+    {
+      "filename": "Yetisports Deluxe (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 36924048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec185acc588904a2ddc244cb06eed407",
+        "sha1": "f5794d4394c99ec213b9594732f4f428c2181c42",
+        "crc32": "f8173a5f"
+      }
+    }
+  ]
+}

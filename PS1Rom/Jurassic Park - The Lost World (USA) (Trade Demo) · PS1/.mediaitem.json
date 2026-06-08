@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jurassic Park - The Lost World (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jurassic Park - The Lost World (USA) (Trade Demo).cue",
+      "filesize": 411,
+      "ext": "cue",
+      "checksums": {
+        "md5": "789503b21779165df59cb312975c70c0",
+        "sha1": "93bfd4a8032a9188bcffe36f3f55594b7eaa327a",
+        "crc32": "5d23a66c"
+      }
+    },
+    {
+      "filename": "Jurassic Park - The Lost World (USA) (Trade Demo) (Track 1).bin",
+      "filesize": 44172912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d0e989315d8ace015e3e551e8561f0d",
+        "sha1": "191a6daa39785d4ab8d29305825d23282765fe13",
+        "crc32": "c53c124a"
+      }
+    },
+    {
+      "filename": "Jurassic Park - The Lost World (USA) (Trade Demo) (Track 2).bin",
+      "filesize": 25041744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45340bb780983ee4a77bb9954cbb2170",
+        "sha1": "b2709599f52865381f6c4f5ea0361c0f69bc5210",
+        "crc32": "d63f3c49"
+      }
+    },
+    {
+      "filename": "Jurassic Park - The Lost World (USA) (Trade Demo) (Track 3).bin",
+      "filesize": 2810640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09607479224f7af39a820636b7cc80b3",
+        "sha1": "3d6927d664fae2469f64cf14cb6fe244aa8e7faa",
+        "crc32": "1cedfbe7"
+      }
+    }
+  ]
+}

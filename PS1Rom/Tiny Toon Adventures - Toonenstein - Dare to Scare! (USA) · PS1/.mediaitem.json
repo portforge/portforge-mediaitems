@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Toon Adventures - Toonenstein - Dare to Scare! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Toon Adventures - Toonenstein - Dare to Scare! (USA).cue",
+      "filesize": 284,
+      "ext": "cue",
+      "checksums": {
+        "md5": "55209e2281b78e5e4bac2a2849ffbc90",
+        "sha1": "40ab0ac8d0c197d29f48a458f5c4011fac260dad",
+        "crc32": "9a9364ff"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Toonenstein - Dare to Scare! (USA) (Track 1).bin",
+      "filesize": 648879168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "838b2d8e0c3b2f77f2a1c4e016d66f8d",
+        "sha1": "4ee6a391f55b25e4aad13e7ef409857486158cd9",
+        "crc32": "a33c5292"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Toonenstein - Dare to Scare! (USA) (Track 2).bin",
+      "filesize": 15988896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c34c531ceb29fb91e5d804195a770749",
+        "sha1": "92b1eba93c875a2f92c40d6d80d5b140b9f75295",
+        "crc32": "e7537323"
+      }
+    }
+  ]
+}

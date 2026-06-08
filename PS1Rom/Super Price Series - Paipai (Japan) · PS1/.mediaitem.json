@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Price Series - Paipai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Price Series - Paipai (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4590e1fa06bbe6267f5b1dc422451ff",
+        "sha1": "14c94cff1d82180551dd6989b0a9a9599fa39111",
+        "crc32": "c442f228"
+      }
+    },
+    {
+      "filename": "Super Price Series - Paipai (Japan).bin",
+      "filesize": 35000112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c832a4a5e3b45572558b6ae73ebbf979",
+        "sha1": "d4cf38328794cdb9b2f2dedc562a38e86c77d5c2",
+        "crc32": "93ab6536"
+      }
+    }
+  ]
+}

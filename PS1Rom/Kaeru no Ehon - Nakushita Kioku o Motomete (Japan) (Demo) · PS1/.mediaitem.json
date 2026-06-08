@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kaeru no Ehon - Nakushita Kioku o Motomete (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kaeru no Ehon - Nakushita Kioku o Motomete (Japan) (Demo).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5bddaf475f16f9c7e69f7547e331bc83",
+        "sha1": "000ade4369ab1fba3e34d2736d0bce599be1a7a5",
+        "crc32": "b1a3fe8a"
+      }
+    },
+    {
+      "filename": "Kaeru no Ehon - Nakushita Kioku o Motomete (Japan) (Demo).bin",
+      "filesize": 213679200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c89fdf203c4c3b0ffaf314427a1ebf42",
+        "sha1": "97fb32f0d1d8897e040094deb53f885b24610c16",
+        "crc32": "aac2459f"
+      }
+    }
+  ]
+}

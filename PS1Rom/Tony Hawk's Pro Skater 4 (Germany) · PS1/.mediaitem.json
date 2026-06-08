@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater 4 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 4 (Germany).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2d4b8a6ae5a99d30a8cf9c1ca595035f",
+        "sha1": "64c335a9a511adf5eee736898a6e2a2d837f8d2a",
+        "crc32": "4ef2a05f"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 4 (Germany).bin",
+      "filesize": 747336240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b41fffc38d45f836c34a014c4e67865a",
+        "sha1": "9cc91f0984ccd476a0dc8ac272c995a880d79798",
+        "crc32": "c7c5292d"
+      }
+    }
+  ]
+}

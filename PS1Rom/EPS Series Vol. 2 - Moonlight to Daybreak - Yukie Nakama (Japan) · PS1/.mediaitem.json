@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "EPS Series Vol. 2 - Moonlight to Daybreak - Yukie Nakama (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "EPS Series Vol. 2 - Moonlight to Daybreak - Yukie Nakama (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c2fe7da2e8c44c9e3a2583c110e9db2",
+        "sha1": "42ea62c8e5c6903d266a97e71ba61063c1731f94",
+        "crc32": "0b3a27ea"
+      }
+    },
+    {
+      "filename": "EPS Series Vol. 2 - Moonlight to Daybreak - Yukie Nakama (Japan).bin",
+      "filesize": 521920560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0ae88fdea62bafdaf0619f09e4d7d51",
+        "sha1": "9276663906229eac65180094bd3d3cd224b829d2",
+        "crc32": "41b42ad3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Initial D (Japan) (Taikenban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Initial D (Japan) (Taikenban).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "12ace23fa43ca10ceb20f2470e6dfb0d",
+        "sha1": "f03792adf6c036830d8798b26e130d44aae256d6",
+        "crc32": "54ebb5e4"
+      }
+    },
+    {
+      "filename": "Initial D (Japan) (Taikenban).bin",
+      "filesize": 351873312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7aa75644df339a2b3441b197910fe3c8",
+        "sha1": "253baecaa148f3100c873d075c7162b8e998f18a",
+        "crc32": "d620e4d9"
+      }
+    }
+  ]
+}

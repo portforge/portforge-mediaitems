@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 16 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 1).cue",
+      "filesize": 490,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d3c191a09644ea338b977c54173a06f",
+        "sha1": "0a0afd222643530ad5c89b9f387d5b7ec4b78a7a",
+        "crc32": "86ba42c0"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 487816560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f80e6885712a7f16081732d20880c4ec",
+        "sha1": "40c36bacb6b3265f805893809c966332cc06033a",
+        "crc32": "f594eef4"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 1898064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87db5f85f3baa8a0d602b01340fa278c",
+        "sha1": "9a44101bc2e732d82681fc590f6200d1d5bb0af2",
+        "crc32": "40bacd7f"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 1) (Track 3).bin",
+      "filesize": 9139872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "460887b4332a2d0902d8e13dc476406b",
+        "sha1": "cd27d891b43b7d4ebdfa1ca3cf1a64fc8fac2c46",
+        "crc32": "cca6192f"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 16 (Japan) (Disc 1) (Track 4).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

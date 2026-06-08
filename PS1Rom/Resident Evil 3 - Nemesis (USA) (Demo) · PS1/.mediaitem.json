@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Resident Evil 3 - Nemesis (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Resident Evil 3 - Nemesis (USA) (Demo).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28312b328a18fdbbe9d4a453f33b9314",
+        "sha1": "db0e3408215579b81e96f85b302a5ef8383ccc39",
+        "crc32": "f1064a7b"
+      }
+    },
+    {
+      "filename": "Resident Evil 3 - Nemesis (USA) (Demo).bin",
+      "filesize": 247446864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afe63f79ac85f6033505be1ea104107e",
+        "sha1": "709e347add5f311081a2f399bbe32d5234ad5d02",
+        "crc32": "7b70af82"
+      }
+    }
+  ]
+}

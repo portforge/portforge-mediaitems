@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lord of Fist (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lord of Fist (Japan) (Demo).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a167c4783491918b7dce61cd02e7005",
+        "sha1": "337a5b8068b18a4f74c690c374a853c7db2dcb17",
+        "crc32": "9606a1b1"
+      }
+    },
+    {
+      "filename": "Lord of Fist (Japan) (Demo).bin",
+      "filesize": 282098880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2eab56403e86b630e046bba44a5f8354",
+        "sha1": "1d5dcb3a2a5b094ee17a3f59493f9d41173cbb3b",
+        "crc32": "84a88ffd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slayers Royal (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slayers Royal (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c70cf88c58f669ce613ae34b145cac78",
+        "sha1": "fbfb2cf57cc92f184cc6ec69b1134b613c006642",
+        "crc32": "7535a913"
+      }
+    },
+    {
+      "filename": "Slayers Royal (Japan).bin",
+      "filesize": 712300848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c1e359819ef1882f89290ff36ab32d3",
+        "sha1": "2c7d2c3e79d30e5e3e9fb278bf4b696c5cf23c63",
+        "crc32": "856f5618"
+      }
+    }
+  ]
+}

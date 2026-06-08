@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pitball (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pitball (Japan).cue",
+      "filesize": 1082,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2de0a9a10d6fca4e3789a989918168be",
+        "sha1": "d27bcb41d2bc99b4625819795e53bb42edf36d04",
+        "crc32": "3528f206"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 01).bin",
+      "filesize": 477568896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c42f27ab73811e6a6afb5eb0a3355408",
+        "sha1": "fe648e440294f807f536b450a74f0a5e6339be95",
+        "crc32": "f992ac44"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 02).bin",
+      "filesize": 2116800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22165291952601d29d092f7751c3597b",
+        "sha1": "03c77c415260158eb47313b741dc65f4586c7d34",
+        "crc32": "b463d4d2"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 03).bin",
+      "filesize": 7766304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af650ad5890415b64a3ac3310c28aa8b",
+        "sha1": "6fb8a9f62c50cca142547b4c83ef3e42e552b8f4",
+        "crc32": "d47a62d0"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 04).bin",
+      "filesize": 57793344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2313392a0b4901f855e1cee69dbce12d",
+        "sha1": "c5ac2166e8b9cdd096cc45352531417c94c4d24a",
+        "crc32": "1ff6acb4"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 05).bin",
+      "filesize": 23329488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "795280d66a961dd0058ab094e0349532",
+        "sha1": "f17693f8038e75589932879800dbb0adbc099fc9",
+        "crc32": "09ad1131"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 06).bin",
+      "filesize": 25293408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77e1a2d0919e15818151f938e059b805",
+        "sha1": "acc1af0315905b47d1fb54b28204d842e73b21e8",
+        "crc32": "3a09b29e"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 07).bin",
+      "filesize": 31596768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "491e17c7ab216dafdc47bad28d87af40",
+        "sha1": "f612c632d5408b247d5c757027a39a33d48933d8",
+        "crc32": "2a49adc7"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 08).bin",
+      "filesize": 22082928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "240b18d217afeef7734a27ef019db9e2",
+        "sha1": "2bdfe51516ea5050ba49cf04852a301a23685312",
+        "crc32": "ebb28cdf"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 09).bin",
+      "filesize": 21043344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5152e802b65bf30a8e27a34dae626fd6",
+        "sha1": "71494721e87823b71ea05288b8de422b6a6824ce",
+        "crc32": "63833b6a"
+      }
+    },
+    {
+      "filename": "Pitball (Japan) (Track 10).bin",
+      "filesize": 32457600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ec466952ebaf452c16abec91a7286c4f",
+        "sha1": "c03dc65803398b4243d4d5b4349218a88a5d8231",
+        "crc32": "f9d3e278"
+      }
+    }
+  ]
+}

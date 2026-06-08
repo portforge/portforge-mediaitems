@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Steel Reign (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Steel Reign (USA).cue",
+      "filesize": 981,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a2a28c1c323d804c597fc9025a55e4f0",
+        "sha1": "00aa43448f526c1c7ca4b41001f10aad63234b45",
+        "crc32": "3c9c6740"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 1).bin",
+      "filesize": 322496832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6938c2905fab1e490801fd9d576fb53",
+        "sha1": "63b24b0bf50f9b6b77978ae2fcc4aba5022f8b31",
+        "crc32": "6e335bb0"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 2).bin",
+      "filesize": 65206848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2546bd00e6c8eb7e6444a04450be2523",
+        "sha1": "ee7329b80eed308941bef7644acd7965a0b81e0d",
+        "crc32": "0c8df541"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 3).bin",
+      "filesize": 36129072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffc44c911618842a38f7021a1a7e5d40",
+        "sha1": "f61f521838145408055d8bc683f523c9eed1b5fc",
+        "crc32": "d3728153"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 4).bin",
+      "filesize": 65098656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "752d89d95a93a836db92a4bc7c74d5b1",
+        "sha1": "3ca16aeecc4755c3e32e0a682fee0ee06293bd71",
+        "crc32": "f3fa1ee4"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 5).bin",
+      "filesize": 44481024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32fab8f0b1aa1d276ad085b3ac81ab8e",
+        "sha1": "a7521aebdb1ef1b7c30461b25bae96d2315547cb",
+        "crc32": "ae14527e"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 6).bin",
+      "filesize": 36129072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffc44c911618842a38f7021a1a7e5d40",
+        "sha1": "f61f521838145408055d8bc683f523c9eed1b5fc",
+        "crc32": "d3728153"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 7).bin",
+      "filesize": 61650624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cfa17a26947a66da99a120f433018296",
+        "sha1": "9d809bf763d0856962b42745960cf313595737ca",
+        "crc32": "8dab3af5"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 8).bin",
+      "filesize": 35491680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b0cd41bedc60f5d6fc96d74503d2368",
+        "sha1": "228ed5677f240cf131a90560cd639ca956324802",
+        "crc32": "3bd15aa9"
+      }
+    },
+    {
+      "filename": "Steel Reign (USA) (Track 9).bin",
+      "filesize": 30020928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21c4d30cf615324eb613fefc027a0498",
+        "sha1": "cb0c09d6e3b245aca9c887f5758b76aac86930e5",
+        "crc32": "eeca7136"
+      }
+    }
+  ]
+}

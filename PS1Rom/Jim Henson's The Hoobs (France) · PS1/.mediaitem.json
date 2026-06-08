@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jim Henson's The Hoobs (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jim Henson's The Hoobs (France).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1bb68f86d1d279c617d0a3888eda8096",
+        "sha1": "326ee9c747e318bfb4cebfbc3efbe22b6a7d43e8",
+        "crc32": "e1be777d"
+      }
+    },
+    {
+      "filename": "Jim Henson's The Hoobs (France).bin",
+      "filesize": 384770736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6860d8b16dc275e42d148dc7d0bbbe2",
+        "sha1": "f36117d5ecd5e6bff987ea3221ea0dad85fe50ee",
+        "crc32": "83bafac9"
+      }
+    }
+  ]
+}

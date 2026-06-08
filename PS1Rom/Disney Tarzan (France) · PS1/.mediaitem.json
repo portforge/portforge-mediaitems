@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Tarzan (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Tarzan (France).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03b0c4827a6334847d17753427f2c611",
+        "sha1": "dd264bc96ec68fd5eb737bf20c306bd04638c8ce",
+        "crc32": "625c33d7"
+      }
+    },
+    {
+      "filename": "Disney Tarzan (France) (Track 1).bin",
+      "filesize": 485876160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "451fd7dd09f34ae837f03270724c2c86",
+        "sha1": "47de93e61ba16b64cb97b22272895815d94aa389",
+        "crc32": "6e99a80c"
+      }
+    },
+    {
+      "filename": "Disney Tarzan (France) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

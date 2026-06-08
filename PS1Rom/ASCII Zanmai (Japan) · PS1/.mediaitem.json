@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ASCII Zanmai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ASCII Zanmai (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4bac6f8391d33607ea0b03a5df214cec",
+        "sha1": "611b4ac548f800c77c30677f7b45968b0c1e860c",
+        "crc32": "b93b30fe"
+      }
+    },
+    {
+      "filename": "ASCII Zanmai (Japan).bin",
+      "filesize": 421040928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1647a99589661def85d6fa22fa7246e",
+        "sha1": "1437236f7b1c7d440ac22f90f3542939f3526fcd",
+        "crc32": "7ebe2421"
+      }
+    }
+  ]
+}

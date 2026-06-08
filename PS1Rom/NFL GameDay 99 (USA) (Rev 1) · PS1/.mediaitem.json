@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL GameDay 99 (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL GameDay 99 (USA) (Rev 1).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6bb22a803817c537f03d9c8b0899104c",
+        "sha1": "1dbc608709aaa43e301bd0bcd1ad82da760cc56b",
+        "crc32": "7669da50"
+      }
+    },
+    {
+      "filename": "NFL GameDay 99 (USA) (Rev 1) (Track 1).bin",
+      "filesize": 684034512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c76a10e1f551818cd568014dd47d129",
+        "sha1": "28c1d5857f2b08694033dd12fd82985b8d34eca1",
+        "crc32": "a8bf3505"
+      }
+    },
+    {
+      "filename": "NFL GameDay 99 (USA) (Rev 1) (Track 2).bin",
+      "filesize": 13361712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25593fed94b66c894ae864e746afd12e",
+        "sha1": "8ff5d315ca7b0b9ffd9865e9ca8720db35b2db16",
+        "crc32": "b0ef8b04"
+      }
+    }
+  ]
+}

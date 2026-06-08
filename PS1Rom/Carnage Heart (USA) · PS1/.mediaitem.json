@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Carnage Heart (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Carnage Heart (USA).cue",
+      "filesize": 321,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fb363fc837227e3b3c217a5cab050c1",
+        "sha1": "ad34f7f80dc66675e041616f2f050ada98846aed",
+        "crc32": "11f1303d"
+      }
+    },
+    {
+      "filename": "Carnage Heart (USA) (Track 1).bin",
+      "filesize": 58028544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6830aa39ea95f4c380f8a3f49136fee7",
+        "sha1": "e0c72b09fa0b4d29d6972b1fccb7f28ba11e8fc1",
+        "crc32": "346ba839"
+      }
+    },
+    {
+      "filename": "Carnage Heart (USA) (Track 2).bin",
+      "filesize": 24199728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a30262235325a9488bc63d2c27b59a3",
+        "sha1": "63ee7fcf998cf68fc5ea875cd1deefe137208c88",
+        "crc32": "355cbcf3"
+      }
+    },
+    {
+      "filename": "Carnage Heart (USA) (Track 3).bin",
+      "filesize": 48046656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c2c2f6636442fea063edebdbe7ca776",
+        "sha1": "0fa4f790a1933cb33e74079b46d054b14035b93b",
+        "crc32": "b61487ab"
+      }
+    }
+  ]
+}

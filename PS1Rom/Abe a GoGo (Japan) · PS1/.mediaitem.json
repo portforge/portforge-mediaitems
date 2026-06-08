@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Abe a GoGo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Abe a GoGo (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "82b35265997ba9fb3af07a2c4f954f75",
+        "sha1": "86325701dbdec1e81db1dcc64dfe14f91228ea15",
+        "crc32": "cb47e041"
+      }
+    },
+    {
+      "filename": "Abe a GoGo (Japan).bin",
+      "filesize": 751663920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9fbcf4c21a40e0455647236fd46dfe8",
+        "sha1": "f3d6545fabea9cd6f984d86814c2d31b414ee4e7",
+        "crc32": "653490e9"
+      }
+    }
+  ]
+}

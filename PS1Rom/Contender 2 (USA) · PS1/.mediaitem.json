@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Contender 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Contender 2 (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b5b7225da622e901a100fef5a489c88",
+        "sha1": "1bbce99361fa86aa88fc86007b6f7f5c0547578a",
+        "crc32": "cf4a1b1a"
+      }
+    },
+    {
+      "filename": "Contender 2 (USA).bin",
+      "filesize": 200515056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f34664590c6b142e84447f54e26275d",
+        "sha1": "e03b446a4ca60220a177c8bbbb3c7d0ee6e257a0",
+        "crc32": "a7de2cc6"
+      }
+    }
+  ]
+}

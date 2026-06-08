@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Codemasters Q3 2000 Demo (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Codemasters Q3 2000 Demo (Europe).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8af4bc06e1aec70ded08acedec284ba5",
+        "sha1": "b41f42b9bb5133cee4d0ecfa385d01d1f2786aa2",
+        "crc32": "e2801293"
+      }
+    },
+    {
+      "filename": "Codemasters Q3 2000 Demo (Europe) (Track 1).bin",
+      "filesize": 666493296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4566a73ccb0e0df4a78ce71cc58b9459",
+        "sha1": "143f9481e14056df847e42561f5111faa104b342",
+        "crc32": "89b08564"
+      }
+    },
+    {
+      "filename": "Codemasters Q3 2000 Demo (Europe) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

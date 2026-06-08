@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Tactics (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Tactics (Japan) (Rev 1).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d07a058c7f96a172edfdc87eb04d295",
+        "sha1": "de599a459976abd31c87b3336abc9ca5d7b3acbe",
+        "crc32": "348152f5"
+      }
+    },
+    {
+      "filename": "Final Fantasy Tactics (Japan) (Rev 1).bin",
+      "filesize": 541315152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3bd1deebc5c5f08d036dc8651021affb",
+        "sha1": "cfb778f0a251ee9c30d8114dd0a940d6b63212bf",
+        "crc32": "a6361fd1"
+      }
+    }
+  ]
+}

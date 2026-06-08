@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VI (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VI (Japan, Asia).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4f0264d4cabcfe6a9ed26d43440656d2",
+        "sha1": "8f7b7c4ec562f0f6760cc56374a715cf0184f9be",
+        "crc32": "121d1002"
+      }
+    },
+    {
+      "filename": "Final Fantasy VI (Japan, Asia).bin",
+      "filesize": 325133424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "732240c2f512a18cc381252e2ce4a8e6",
+        "sha1": "d2f8c4b63ad7de52083fc9f717b9d884dd52763c",
+        "crc32": "163ceaef"
+      }
+    }
+  ]
+}

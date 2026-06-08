@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Konami Arcade Classics (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Konami Arcade Classics (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99f8895ad3d78792d3050595d9376c9d",
+        "sha1": "49088a0b470494ddaa2b5527a67cdf5e7e82b03c",
+        "crc32": "757db5d8"
+      }
+    },
+    {
+      "filename": "Konami Arcade Classics (USA).bin",
+      "filesize": 104932128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8ef0b09af373bf310f1378c58790039",
+        "sha1": "221342bae97318b5d9cfa88d5a7a8d024fe9cf53",
+        "crc32": "6e0bb5c2"
+      }
+    }
+  ]
+}

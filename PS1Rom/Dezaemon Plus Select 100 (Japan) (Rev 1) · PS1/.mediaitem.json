@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dezaemon Plus Select 100 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dezaemon Plus Select 100 (Japan) (Rev 1).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18f30622e52f425e8ddc62f740a5ccd7",
+        "sha1": "7477179e12ee04331ff9bffa404e750a5a58dc37",
+        "crc32": "fd8907f5"
+      }
+    },
+    {
+      "filename": "Dezaemon Plus Select 100 (Japan) (Rev 1).bin",
+      "filesize": 152042688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de6feadba2077bd49aa3e730a889c45c",
+        "sha1": "45cb2e72a75b4e1f6ca5ad10610983752bb2d0b7",
+        "crc32": "1c29d3ab"
+      }
+    }
+  ]
+}

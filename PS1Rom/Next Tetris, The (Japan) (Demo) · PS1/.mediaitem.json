@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next Tetris, The (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next Tetris, The (Japan) (Demo).cue",
+      "filesize": 357,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e6421ce0580c1077d43a5c7d411e03bb",
+        "sha1": "4d6ab332ae5dc5e028df62ec42148263e98c224c",
+        "crc32": "efe247cb"
+      }
+    },
+    {
+      "filename": "Next Tetris, The (Japan) (Demo) (Track 1).bin",
+      "filesize": 26843376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b289d8003d246664ff18d96a598c9e79",
+        "sha1": "4183eda41ee0f35dee46a924e3f22a890c9d4134",
+        "crc32": "12fd89c0"
+      }
+    },
+    {
+      "filename": "Next Tetris, The (Japan) (Demo) (Track 2).bin",
+      "filesize": 31592064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ee75570df192cd791ba22d9968b3f18",
+        "sha1": "186105a2c15b7f92324294e2ffe088515dcd2531",
+        "crc32": "7a0a30b7"
+      }
+    },
+    {
+      "filename": "Next Tetris, The (Japan) (Demo) (Track 3).bin",
+      "filesize": 42220752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd128ae3acd2bbe0dad167b6451a714a",
+        "sha1": "a9cfd7ed169f5c1506865b4e230812d56d7ef927",
+        "crc32": "cda9e912"
+      }
+    }
+  ]
+}

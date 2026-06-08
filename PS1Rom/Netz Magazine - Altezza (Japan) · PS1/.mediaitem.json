@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Netz Magazine - Altezza (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Netz Magazine - Altezza (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a61c6afaf03a2b9bc71c746e5aa90c5",
+        "sha1": "ccee9c8bed8c6234720f890d48ea6da85af2b6ba",
+        "crc32": "dff1476b"
+      }
+    },
+    {
+      "filename": "Netz Magazine - Altezza (Japan).bin",
+      "filesize": 408417744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "013c50ee08da3a84c4b396d1786584c0",
+        "sha1": "0916cb3d05837c7862b1c5abe083875b0e5ed01f",
+        "crc32": "4159f877"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gensei Kyokou Seirei Kidoudan - Elemental Gearbolt (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gensei Kyokou Seirei Kidoudan - Elemental Gearbolt (Japan, Asia).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "02ebd40c0a341dbd593b1e8ed9f582f6",
+        "sha1": "f7cda2aa75b880480fabfa9a1a2ef255973098cc",
+        "crc32": "54a56b6c"
+      }
+    },
+    {
+      "filename": "Gensei Kyokou Seirei Kidoudan - Elemental Gearbolt (Japan, Asia).bin",
+      "filesize": 435324624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "320806a697794471a2964466efa5817d",
+        "sha1": "64f1a72c6f3711700efb4411ebfd67dc493db716",
+        "crc32": "949217ab"
+      }
+    }
+  ]
+}

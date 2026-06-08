@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play-Pre Vol. 15 (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play-Pre Vol. 15 (Japan) (Disc 1).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c9bcf6e5c16cac41996685cd6b1df51",
+        "sha1": "069f5e8fdbcf53b56d3079608957849958d9406e",
+        "crc32": "40ddab1e"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 15 (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 667586976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ef3564cda7ff17273e4535d83930968",
+        "sha1": "b7eb63e19dd77e75cf40ab965748c249dfb72313",
+        "crc32": "4ff581e1"
+      }
+    },
+    {
+      "filename": "Play-Pre Vol. 15 (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

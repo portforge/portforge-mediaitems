@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b30c733c14ef98059877b7910db6c19",
+        "sha1": "49126f28712031072ab7aeab3afdac9a82b0f24a",
+        "crc32": "b4e663d9"
+      }
+    },
+    {
+      "filename": "Syphon Filter (Germany).bin",
+      "filesize": 674292528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b9559af0cba95783a377a68ea484d0d",
+        "sha1": "f02dff579410b6599e659224cf44ee55c5c1708f",
+        "crc32": "4defa2f8"
+      }
+    }
+  ]
+}

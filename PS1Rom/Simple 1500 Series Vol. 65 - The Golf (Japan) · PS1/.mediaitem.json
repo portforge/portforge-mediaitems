@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 65 - The Golf (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 65 - The Golf (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ab4d326bf1c794bcedecf16eef214e0f",
+        "sha1": "1fc7524a0fc4d0f439641b8bc7ee526333f89f5e",
+        "crc32": "318d0b89"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 65 - The Golf (Japan).bin",
+      "filesize": 81122832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a3c1a07d78f9286d1aa4dbe5971c27f",
+        "sha1": "a9833a1dda89da31dd2d07e334f76da73962b875",
+        "crc32": "588d999e"
+      }
+    }
+  ]
+}

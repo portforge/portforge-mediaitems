@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koudelka (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koudelka (Germany) (Disc 2).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "909046c1f0f14c64c158b1c8ae9d0683",
+        "sha1": "507169a65e15cbd29d7d3961993e644919b31b75",
+        "crc32": "09a61057"
+      }
+    },
+    {
+      "filename": "Koudelka (Germany) (Disc 2).bin",
+      "filesize": 527163168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c4941240a276e690bb3e4b40800c7b7",
+        "sha1": "b2c597b8d0981705f73cb67c6c61990ca14b23c3",
+        "crc32": "6b3c1952"
+      }
+    }
+  ]
+}

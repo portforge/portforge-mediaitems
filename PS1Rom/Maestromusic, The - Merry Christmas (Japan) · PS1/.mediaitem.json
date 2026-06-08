@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maestromusic, The - Merry Christmas (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maestromusic, The - Merry Christmas (Japan).cue",
+      "filesize": 256,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14321a10f8f6e692b1143825f7672fce",
+        "sha1": "5e314df318e2ce0546e64e59019b80c9d0b7ca6c",
+        "crc32": "af6eccfb"
+      }
+    },
+    {
+      "filename": "Maestromusic, The - Merry Christmas (Japan) (Track 1).bin",
+      "filesize": 69108816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71f3b9b530cda8dfa8c108e2e5780610",
+        "sha1": "6a96978f707008384bbbe03ce89133fdbfbe3ac4",
+        "crc32": "2b60d25f"
+      }
+    },
+    {
+      "filename": "Maestromusic, The - Merry Christmas (Japan) (Track 2).bin",
+      "filesize": 33184368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2eddd45b562d3920fa9c80267a3e206",
+        "sha1": "41c574dcc0bfde56095e83fceb52d66917cf98cc",
+        "crc32": "c95df40a"
+      }
+    }
+  ]
+}

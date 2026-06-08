@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Square's Preview Vol. 4 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Square's Preview Vol. 4 (Japan, Asia).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6bf56c37151a5d10c9c0df585ec57e6",
+        "sha1": "3d4a1ede13a2d5eb867b16a9cda0712c28291911",
+        "crc32": "f0fbe128"
+      }
+    },
+    {
+      "filename": "Square's Preview Vol. 4 (Japan, Asia).bin",
+      "filesize": 582232896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e5a1b868615fa1c5d53ff7b455d9b0d",
+        "sha1": "6bf7d37086cbecf681b9815653dbb90dfad427a6",
+        "crc32": "df16afcd"
+      }
+    }
+  ]
+}

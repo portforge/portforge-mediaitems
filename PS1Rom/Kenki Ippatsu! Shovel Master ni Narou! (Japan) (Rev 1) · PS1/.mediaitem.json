@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kenki Ippatsu! Shovel Master ni Narou! (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kenki Ippatsu! Shovel Master ni Narou! (Japan) (Rev 1).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b2761e475657e9c11ba25fd61fc35478",
+        "sha1": "a8f66e23862c5881a2f0941316c924c9283b9a5a",
+        "crc32": "b82b8a0f"
+      }
+    },
+    {
+      "filename": "Kenki Ippatsu! Shovel Master ni Narou! (Japan) (Rev 1).bin",
+      "filesize": 296072112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a98e2dde7535b762c819db5fec4c6e5f",
+        "sha1": "9f0e5720f284a584f82fd55b9789c4f3b4703fe8",
+        "crc32": "e1f734d3"
+      }
+    }
+  ]
+}

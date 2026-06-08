@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koukidou Gensou - Gunparade March (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koukidou Gensou - Gunparade March (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8361aa9fff2df8e1772f7ea43fc948b1",
+        "sha1": "ff857d189b4f0132768c6946c7ba240d15bf28e6",
+        "crc32": "19d5d8fd"
+      }
+    },
+    {
+      "filename": "Koukidou Gensou - Gunparade March (Japan).bin",
+      "filesize": 440372016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66709f78abfdc5a4cc40a8a47c274441",
+        "sha1": "1fd53d0fcdc2d9c8fa61e5640206b78a5e0ed0ed",
+        "crc32": "b867c065"
+      }
+    }
+  ]
+}

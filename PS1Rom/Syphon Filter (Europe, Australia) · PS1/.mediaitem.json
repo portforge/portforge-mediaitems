@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Syphon Filter (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Syphon Filter (Europe, Australia).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7111d278f7b989b17975aaf14ad65a44",
+        "sha1": "ce75fa0fe4e8f7c98dda27c23a6fcc81d7a08f4f",
+        "crc32": "a186ff1d"
+      }
+    },
+    {
+      "filename": "Syphon Filter (Europe, Australia).bin",
+      "filesize": 697170432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d7ea4db7df02f3831cc4eed22048a8fa",
+        "sha1": "359ec0dbab05b22424fce0a1a1dc520e74017f00",
+        "crc32": "5ce14f52"
+      }
+    }
+  ]
+}

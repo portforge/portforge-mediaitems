@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 77 - The Suiei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 77 - The Suiei (Japan).cue",
+      "filesize": 262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eba5eb2c17b8015c55a993139a9e8942",
+        "sha1": "b0f6b655fbad1467d1b5f9f1bdf21972ae6a1858",
+        "crc32": "1b198ac8"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 77 - The Suiei (Japan) (Track 1).bin",
+      "filesize": 25316928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36456cf253db574aec04c05dcc7e82d8",
+        "sha1": "515293972e3fa0bd1b5042df2c2aa73fb79a8930",
+        "crc32": "817ff04e"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 77 - The Suiei (Japan) (Track 2).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bfe77946c1f3b544caefdd719610e89",
+        "sha1": "57e6403f962a9f6a60df9b7546749ebf4e98a5d3",
+        "crc32": "b7ba871d"
+      }
+    }
+  ]
+}

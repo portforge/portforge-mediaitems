@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Action Replay CDX Version 3.3 (France) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Action Replay CDX Version 3.3 (France) (Unl).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b60937b4ba2afbf07dc7e54c5e901f03",
+        "sha1": "39c1ae562c1fedfde02f7b5d6dad3dcef14d5f79",
+        "crc32": "8ed33df9"
+      }
+    },
+    {
+      "filename": "Action Replay CDX Version 3.3 (France) (Unl).bin",
+      "filesize": 49928256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7a1bafd9899006ef2307cdca4438911",
+        "sha1": "e9ee9ba0db41561c6e830a021123f197b4ad06a6",
+        "crc32": "7faf303e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "2002 FIFA World Cup (USA) (En,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "2002 FIFA World Cup (USA) (En,Es).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "37736b9d0c126a80b9073faf64d87112",
+        "sha1": "57df3eb3cfcd44be5f422c13ad181b53460dfe90",
+        "crc32": "ce349b32"
+      }
+    },
+    {
+      "filename": "2002 FIFA World Cup (USA) (En,Es).bin",
+      "filesize": 514612896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99dfc6639e0dd006bfd8c1f276d7466c",
+        "sha1": "720c8613669d684be002e1f454acc532a98eb241",
+        "crc32": "472333bc"
+      }
+    }
+  ]
+}

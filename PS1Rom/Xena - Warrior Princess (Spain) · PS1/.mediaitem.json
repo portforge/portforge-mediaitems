@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xena - Warrior Princess (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xena - Warrior Princess (Spain).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78309581b39e9d75ae341687875042a7",
+        "sha1": "db8298341cf382f1b0f0c8eec91f8c3af7112ba6",
+        "crc32": "6a1b3aee"
+      }
+    },
+    {
+      "filename": "Xena - Warrior Princess (Spain).bin",
+      "filesize": 322647360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c167d251a42dfcd54ee2f36c2d296be5",
+        "sha1": "c29377d3a8a1de78a536461c4b9803fbccad48cb",
+        "crc32": "ae926547"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt).cue",
+      "filesize": 948,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7e679f8d7e0983a76d29d32f0cf4a1c",
+        "sha1": "ab62667490aae413f9273b78c1926354ace4b2b8",
+        "crc32": "6e325409"
+      }
+    },
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 1).bin",
+      "filesize": 131065200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b2119523ebb36e3f8ec2b0013b8c8a0",
+        "sha1": "3942610d7dc23c78bfa8a2f27722c57af3f1173e",
+        "crc32": "ef733d5e"
+      }
+    },
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 2).bin",
+      "filesize": 35388192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd86c906337c97da9c121a2eadbe8acb",
+        "sha1": "fb6e826eb66343078c7315da98d0daa914041083",
+        "crc32": "444cf9ff"
+      }
+    },
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 3).bin",
+      "filesize": 33015024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bccabb99d9a83fa57d650c959ae2e096",
+        "sha1": "6f44824c247b337f008bdf843fcbdd2e5b044bd3",
+        "crc32": "fa720c3d"
+      }
+    },
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 4).bin",
+      "filesize": 33198480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c2e8c9930806a3e644e2e5baa198076",
+        "sha1": "5a45ed1f16990ba32781dc6f7dd9b36cfee85689",
+        "crc32": "2719466f"
+      }
+    },
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 5).bin",
+      "filesize": 31806096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96e2dbc1a15f7242404084bcaf2f0c1f",
+        "sha1": "2288c8ca8c09bc45b5b4ba5211eb2c5972416ea0",
+        "crc32": "8a4f2425"
+      }
+    },
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 6).bin",
+      "filesize": 30928800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68cd9d097e02555adaf6f10215d2973a",
+        "sha1": "e59075adff2a7b339233cefa0d9eb6e0ea3513c0",
+        "crc32": "ba78377e"
+      }
+    },
+    {
+      "filename": "Mission, The (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 7).bin",
+      "filesize": 36399552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9fbc19921b03ef0330f0f27a31d16272",
+        "sha1": "1619327f313937ef6569a273536b29d7aa11762e",
+        "crc32": "8bbe3d12"
+      }
+    }
+  ]
+}

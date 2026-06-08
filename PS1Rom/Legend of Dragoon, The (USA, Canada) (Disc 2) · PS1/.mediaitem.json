@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Dragoon, The (USA, Canada) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Dragoon, The (USA, Canada) (Disc 2).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a02ed7f75abc2fd9279787b015e96269",
+        "sha1": "b04d64fde4288c338e268ee23fde0faf6dadf3ea",
+        "crc32": "156c87e5"
+      }
+    },
+    {
+      "filename": "Legend of Dragoon, The (USA, Canada) (Disc 2).bin",
+      "filesize": 576009504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29972b15701425ae7a36b1cef5c818ef",
+        "sha1": "a2046ee273d42e6891732450f3d5358cacd8b65d",
+        "crc32": "8139792a"
+      }
+    }
+  ]
+}

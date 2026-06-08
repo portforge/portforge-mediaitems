@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "B Senjou no Alice - Alice on Borderlines (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "B Senjou no Alice - Alice on Borderlines (Japan) (Disc 1).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "05a58ff5163c11dba66b4dddee2d48c3",
+        "sha1": "512f886e5bcb2b9e36052321fa1190b186b84c30",
+        "crc32": "d111735d"
+      }
+    },
+    {
+      "filename": "B Senjou no Alice - Alice on Borderlines (Japan) (Disc 1).bin",
+      "filesize": 683335968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1f2e453e36b9aa3873943e4f696caa4",
+        "sha1": "e8bbae2b30ef33ab6013095a0a2ceda02fdced4d",
+        "crc32": "528db2ae"
+      }
+    }
+  ]
+}

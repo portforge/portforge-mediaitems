@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tempest X3 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tempest X3 (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "94c2db0f931759103a65bfa6a6fb492a",
+        "sha1": "0a5e7febf3c7fc7bafdbff957aa372c295919343",
+        "crc32": "51e0bfd1"
+      }
+    },
+    {
+      "filename": "Tempest X3 (Europe).bin",
+      "filesize": 375510912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "463c675dc91d36e48de9af22ff967138",
+        "sha1": "cffcb7efd8ee09ac32c2cf327347c7d06abd8392",
+        "crc32": "e82d1eb6"
+      }
+    }
+  ]
+}

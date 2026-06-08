@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 40 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 40 (Europe, Australia).cue",
+      "filesize": 612,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01b2756abd71865fe5e8985abd9ac8f4",
+        "sha1": "317803412aa037f55fe71d21e1993de757f96d86",
+        "crc32": "f56cefd3"
+      }
+    },
+    {
+      "filename": "Euro Demo 40 (Europe, Australia) (Track 1).bin",
+      "filesize": 491043504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "696c8c02c641bee96337ba09c1994c0a",
+        "sha1": "44e28c2bfa445b63b7bfe925af645d3aaf8044e7",
+        "crc32": "5f911c8f"
+      }
+    },
+    {
+      "filename": "Euro Demo 40 (Europe, Australia) (Track 2).bin",
+      "filesize": 17896368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1395fde873a14ebef516100f6669b84e",
+        "sha1": "7e79891edc73cb5c36778e3cb305f9ae688bf56b",
+        "crc32": "7d48d04a"
+      }
+    },
+    {
+      "filename": "Euro Demo 40 (Europe, Australia) (Track 3).bin",
+      "filesize": 57304128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef3752f91299602e702fc005b15becc7",
+        "sha1": "c216c0c3b57558bc23537755da3ea32460eb16ee",
+        "crc32": "f63e25ea"
+      }
+    },
+    {
+      "filename": "Euro Demo 40 (Europe, Australia) (Track 4).bin",
+      "filesize": 37314480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "587a00dbac596b8cfa4d586cf9175642",
+        "sha1": "209f6359ad0d0d79685a55c840890b4dd5b5acb5",
+        "crc32": "a7d2571f"
+      }
+    },
+    {
+      "filename": "Euro Demo 40 (Europe, Australia) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

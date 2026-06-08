@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan) (Artdink Best Choice)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan) (Artdink Best Choice).cue",
+      "filesize": 324,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c7eb35a547c8d5320d9139d56c722c9",
+        "sha1": "7883840cb8461bd75a278870b650c3571fbcdcd2",
+        "crc32": "3332d072"
+      }
+    },
+    {
+      "filename": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan) (Artdink Best Choice) (Track 1).bin",
+      "filesize": 224771232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94fbab7da641359cdc8566f58369c797",
+        "sha1": "bc07199e150bee665d9833db928a8f346895a12d",
+        "crc32": "24f643c4"
+      }
+    },
+    {
+      "filename": "Aquanaut no Kyuujitsu - Memories of Summer 1996 (Japan) (Artdink Best Choice) (Track 2).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

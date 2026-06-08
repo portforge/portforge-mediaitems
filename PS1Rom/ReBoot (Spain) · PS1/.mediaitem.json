@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ReBoot (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ReBoot (Spain).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e315ab3118fb22d5502c720bf954a620",
+        "sha1": "fa35701590f3f2264814f5f263e9895ec43e14ab",
+        "crc32": "9eec7fd0"
+      }
+    },
+    {
+      "filename": "ReBoot (Spain).bin",
+      "filesize": 748472256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4747c3379e417d2f1a3a6ef4b02c4e89",
+        "sha1": "a2a2e8d3f7b3a1f383a9a1cdd0c382fe29a0ecaa",
+        "crc32": "3bc7fc7c"
+      }
+    }
+  ]
+}

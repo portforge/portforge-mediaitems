@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple Character 2000 Series Vol. 04 - Jarinko Chie - The Hanafuda (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple Character 2000 Series Vol. 04 - Jarinko Chie - The Hanafuda (Japan).cue",
+      "filesize": 140,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf139feadd44f9c6e5f54917f8de2cdb",
+        "sha1": "cd126131be29f727185ad79a235e3660672133db",
+        "crc32": "df561046"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 04 - Jarinko Chie - The Hanafuda (Japan).bin",
+      "filesize": 64028496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37d93258af15637a7ca5712116b0a9b6",
+        "sha1": "acb572b838efb208ed45608db432d41cc3e76a4f",
+        "crc32": "6eed91f1"
+      }
+    }
+  ]
+}

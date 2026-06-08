@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Madden NFL 98 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Madden NFL 98 (Europe).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c9845a52bf34fdfa2520edc737705c0",
+        "sha1": "f275a4c1f100257d9efb78579e437766f9451e4f",
+        "crc32": "416eb12b"
+      }
+    },
+    {
+      "filename": "Madden NFL 98 (Europe).bin",
+      "filesize": 689133648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea286155812991d4d25ef20dc4cf0102",
+        "sha1": "68c247344c26149e46113a49f1f291a7a04aa7ea",
+        "crc32": "26cd53b8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Kiosk Demo Disc 2004-2005 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Kiosk Demo Disc 2004-2005 (USA).cue",
+      "filesize": 256,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0f8297be75f630006808ddad2ae6e497",
+        "sha1": "ddd6ae3854b8572d394a130c9e6e8ab593b129b1",
+        "crc32": "c6b2286e"
+      }
+    },
+    {
+      "filename": "PlayStation Kiosk Demo Disc 2004-2005 (USA) (Track 1).bin",
+      "filesize": 435959664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "705770fdfe356cc55e18c044a9ccac4d",
+        "sha1": "98754062f2a6fbbf321b03e8e3c6e827b57bd80b",
+        "crc32": "21bdad13"
+      }
+    },
+    {
+      "filename": "PlayStation Kiosk Demo Disc 2004-2005 (USA) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

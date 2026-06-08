@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D5 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D5 (Japan).cue",
+      "filesize": 602,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc7dd9df749522a2a7b3d4b11311cb1c",
+        "sha1": "6f78cfab4aac6480a2bb430fa6a56dd9c9bafa03",
+        "crc32": "fc8f74c8"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D5 (Japan) (Track 1).bin",
+      "filesize": 608986896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "448462f6ff272a76e28530ff55dd3ec2",
+        "sha1": "5be8f48f036ae8c04637e75c2bae263ef291ad23",
+        "crc32": "adc34c9f"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D5 (Japan) (Track 2).bin",
+      "filesize": 45831072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d58ee5490c250b3720323fd30b581eb2",
+        "sha1": "81389825fd1dbd45a4e4864563bc6e3119628b6f",
+        "crc32": "057fba1b"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D5 (Japan) (Track 3).bin",
+      "filesize": 19138224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d311f4fb6495aef6e8fce43b604f922",
+        "sha1": "6cd4a2a24f8e3e66766da45f6e6bc013c8b037b8",
+        "crc32": "61289a71"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D5 (Japan) (Track 4).bin",
+      "filesize": 25142880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b8988c8b86c0d6a3159c4b03331178d",
+        "sha1": "ac6e40f5b996eb7758e09db9628848dad24fd0b7",
+        "crc32": "a12fe92f"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D5 (Japan) (Track 5).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

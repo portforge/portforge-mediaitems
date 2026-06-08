@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Casper (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Casper (Europe) (En,Fr,De).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "91d6770eb9be6de9d6b6aab765edfbf5",
+        "sha1": "c86e594d4320ca56e103375073dcde18afb7c32a",
+        "crc32": "9729c57b"
+      }
+    },
+    {
+      "filename": "Casper (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 512439648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0ff7edc57e6aa6b435aa8fdec29a568",
+        "sha1": "54b9f28ce99fc5030936bc6615629d98fd28ca4b",
+        "crc32": "c37da8e4"
+      }
+    },
+    {
+      "filename": "Casper (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 28492128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "707b15f25d886d1a751f8e9f0e8d5243",
+        "sha1": "e3cd9e275f369b951c3b6ef8d5342e2db8fb629a",
+        "crc32": "f5199022"
+      }
+    }
+  ]
+}

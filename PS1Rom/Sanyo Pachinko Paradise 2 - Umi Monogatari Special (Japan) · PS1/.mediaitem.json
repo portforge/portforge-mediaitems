@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sanyo Pachinko Paradise 2 - Umi Monogatari Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sanyo Pachinko Paradise 2 - Umi Monogatari Special (Japan).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "485241554fdf48b29f99760a0b8cf4ce",
+        "sha1": "ad8c5b6120b0bbab828fec2c99ce7c5c9e879054",
+        "crc32": "12a15b4c"
+      }
+    },
+    {
+      "filename": "Sanyo Pachinko Paradise 2 - Umi Monogatari Special (Japan).bin",
+      "filesize": 178966032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd729efbb4500f6a5efa9bc23ebc5ad0",
+        "sha1": "5ff76338ef5db7a9f0d0ad5bd6fb5d164bbf1877",
+        "crc32": "cc4762a2"
+      }
+    }
+  ]
+}

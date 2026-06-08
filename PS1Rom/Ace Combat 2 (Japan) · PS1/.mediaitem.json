@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ace Combat 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ace Combat 2 (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c20be35cb873faf4b0455850afc14b5",
+        "sha1": "a83b1eda1e94076e4d608d75b5cbf3d383d78654",
+        "crc32": "2d68070c"
+      }
+    },
+    {
+      "filename": "Ace Combat 2 (Japan).bin",
+      "filesize": 580273680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4d25ff14d588a2ef8deafa4f7f6e130",
+        "sha1": "311e51e978b26c971196cae2571b858e72c6d983",
+        "crc32": "2f645ad6"
+      }
+    }
+  ]
+}

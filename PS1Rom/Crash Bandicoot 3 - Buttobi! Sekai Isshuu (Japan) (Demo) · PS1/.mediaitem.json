@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan) (Demo).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7052392418fa2f0cb20d5ffffe2b23c9",
+        "sha1": "e7be49de0b8898c6ac1b4ac29e757bbc368ba952",
+        "crc32": "1f85e791"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan) (Demo).bin",
+      "filesize": 123101328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc2f13fd6c9dcb592fa4ae79f0ea18cf",
+        "sha1": "ae6cde6f3b6a7e232d6902eb1caca52c5e923b37",
+        "crc32": "2bcfdec9"
+      }
+    }
+  ]
+}

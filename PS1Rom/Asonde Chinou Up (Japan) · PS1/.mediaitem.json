@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asonde Chinou Up (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asonde Chinou Up (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2849b3ec1406bc7b65e1b9983e7fb618",
+        "sha1": "975c8edc4f5ea0b40af99bf91fa49e6ff7817c60",
+        "crc32": "356b2fc4"
+      }
+    },
+    {
+      "filename": "Asonde Chinou Up (Japan).bin",
+      "filesize": 225309840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04b8a786fdb8293102283095edda6247",
+        "sha1": "1883efd026c881de3de9ef03fa372f1694889c56",
+        "crc32": "29fc3084"
+      }
+    }
+  ]
+}

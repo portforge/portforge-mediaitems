@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ancient Roman Extra (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ancient Roman Extra (Japan) (Demo).cue",
+      "filesize": 366,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3356dcffa7952329a5afcfe1fc57207b",
+        "sha1": "622cfadc9f64228fcd18e9330adb5f3729d7702b",
+        "crc32": "81826fb0"
+      }
+    },
+    {
+      "filename": "Ancient Roman Extra (Japan) (Demo) (Track 1).bin",
+      "filesize": 153458592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1688540304bb8748d1843e85accd9ce3",
+        "sha1": "3f6941c6ebdce1b412fc6d1fe951720426f61933",
+        "crc32": "76ae8725"
+      }
+    },
+    {
+      "filename": "Ancient Roman Extra (Japan) (Demo) (Track 2).bin",
+      "filesize": 24698352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ba4c21ea5220bbc15276cce19f4951c",
+        "sha1": "6db8bfdfe0bb35f8610cbdad498a75bfc164fa80",
+        "crc32": "540ef048"
+      }
+    },
+    {
+      "filename": "Ancient Roman Extra (Japan) (Demo) (Track 3).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75b8ec9b8b92b27a708aa63df1f41970",
+        "sha1": "3b1eaad4866edfbd8f572b73065ffcebd08bff38",
+        "crc32": "ead858db"
+      }
+    }
+  ]
+}

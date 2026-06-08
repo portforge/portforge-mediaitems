@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shadow Madness (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shadow Madness (France) (Disc 1).cue",
+      "filesize": 360,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e1d5d39b9b6ea134add6aaedb7d7a1cb",
+        "sha1": "7c590cc5c758e9d5a0e46bd3e64829a612577969",
+        "crc32": "69c197e7"
+      }
+    },
+    {
+      "filename": "Shadow Madness (France) (Disc 1) (Track 1).bin",
+      "filesize": 670454064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "814bedcc6a7c372c7905b7abf9a1875c",
+        "sha1": "5d55181af6c6d6d4df539262002dea2872ba6c97",
+        "crc32": "e66d4e77"
+      }
+    },
+    {
+      "filename": "Shadow Madness (France) (Disc 1) (Track 2).bin",
+      "filesize": 43537872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca11840094a4372325d506263af7d598",
+        "sha1": "131036da81391d2acbfa9ecce2282e6b741a7c82",
+        "crc32": "2a875c78"
+      }
+    },
+    {
+      "filename": "Shadow Madness (France) (Disc 1) (Track 3).bin",
+      "filesize": 33461904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f123ad6db1bdc0132a905426f9f29759",
+        "sha1": "fcda09987faa07551eafefc7b531f99648d8910e",
+        "crc32": "9d173621"
+      }
+    }
+  ]
+}

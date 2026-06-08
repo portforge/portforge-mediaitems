@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bomberman Fantasy Race (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bomberman Fantasy Race (USA).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8528b8427ae5490aa99502150ac0e823",
+        "sha1": "90ddf279127aad07123dbf01844850aa4ef339c1",
+        "crc32": "b586dc1b"
+      }
+    },
+    {
+      "filename": "Bomberman Fantasy Race (USA).bin",
+      "filesize": 260768592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c39e1333f90405b8b3bab30cfa53aa3",
+        "sha1": "7ce0a61c9617118976e4b47090790b342cd38045",
+        "crc32": "09f56d01"
+      }
+    }
+  ]
+}

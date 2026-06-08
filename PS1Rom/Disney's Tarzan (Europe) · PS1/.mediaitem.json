@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Tarzan (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Tarzan (Europe).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9b9f450291ae17e03c2d9ef9abaff81",
+        "sha1": "a6fc064d30c93557475af32e1eab18eaf4ac09ed",
+        "crc32": "db15f6c4"
+      }
+    },
+    {
+      "filename": "Disney's Tarzan (Europe) (Track 1).bin",
+      "filesize": 515238528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "914e96b1d3712bc2de019eb41e837ed2",
+        "sha1": "b484f7d0ac1313d64e4b48909ac84088b3795d70",
+        "crc32": "9f4bbec1"
+      }
+    },
+    {
+      "filename": "Disney's Tarzan (Europe) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

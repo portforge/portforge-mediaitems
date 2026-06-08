@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Descent (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Descent (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5fdd6da62811d88ce409f47d1a485628",
+        "sha1": "14e1f7f65977a18d9b3d30f3373b41e4bcbc501b",
+        "crc32": "5cc238a2"
+      }
+    },
+    {
+      "filename": "Descent (Japan).bin",
+      "filesize": 454291152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9fdd555d38f599970f7c1e1479eaed6",
+        "sha1": "66add2dd3c61ff43cffeb5ce3b196c703e079d2b",
+        "crc32": "08f14916"
+      }
+    }
+  ]
+}

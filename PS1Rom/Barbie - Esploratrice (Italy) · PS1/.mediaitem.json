@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Barbie - Esploratrice (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Barbie - Esploratrice (Italy).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6115321fca195178a1c41cfa076f91b6",
+        "sha1": "56350e58d3c44d3b27288ea971dd15ca87367b19",
+        "crc32": "1535895f"
+      }
+    },
+    {
+      "filename": "Barbie - Esploratrice (Italy).bin",
+      "filesize": 312917136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65b58d90a9b22d1317957fb557d2d707",
+        "sha1": "e8ac38823f6f635afd53d3655eb66dd979361952",
+        "crc32": "12456b29"
+      }
+    }
+  ]
+}

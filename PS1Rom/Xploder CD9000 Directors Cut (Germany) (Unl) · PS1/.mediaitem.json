@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xploder CD9000 Directors Cut (Germany) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xploder CD9000 Directors Cut (Germany) (Unl).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d79e0742d5c301d8b2acbde4b187904e",
+        "sha1": "775757ef5af5675f6faffa34c15951e2f9dcf3b1",
+        "crc32": "e0938e02"
+      }
+    },
+    {
+      "filename": "Xploder CD9000 Directors Cut (Germany) (Unl).bin",
+      "filesize": 9495024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8926b7ec0ba7cc3839ec4ca5281a1969",
+        "sha1": "95738a76d0cdf40428d3f4dd90c9b2833db206f8",
+        "crc32": "4abbbb13"
+      }
+    }
+  ]
+}

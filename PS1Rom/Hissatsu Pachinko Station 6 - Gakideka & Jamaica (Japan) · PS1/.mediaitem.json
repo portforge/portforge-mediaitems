@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station 6 - Gakideka & Jamaica (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station 6 - Gakideka & Jamaica (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "48f546cfe69f233bb28c939cc08753de",
+        "sha1": "43a700013d97c147d313842350bb2fd0f16d82da",
+        "crc32": "8a424d52"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station 6 - Gakideka & Jamaica (Japan).bin",
+      "filesize": 124552512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8ffdab09c96c85a61e97248d74d61d8",
+        "sha1": "bf80ff9f6c259dc868951fc58711ae335f83e680",
+        "crc32": "98671f88"
+      }
+    }
+  ]
+}

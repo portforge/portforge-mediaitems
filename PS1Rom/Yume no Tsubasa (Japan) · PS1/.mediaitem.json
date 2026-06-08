@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yume no Tsubasa (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yume no Tsubasa (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3f11c04725e74b7c3b881310b8030a96",
+        "sha1": "d4f41c8aefec224fa9886b62596b74a223b919a9",
+        "crc32": "bc21ad4c"
+      }
+    },
+    {
+      "filename": "Yume no Tsubasa (Japan).bin",
+      "filesize": 709012752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4948fd2e7083e827293c9b19b181087d",
+        "sha1": "37ec14363e6860081c16221188345f91d58a3e6b",
+        "crc32": "4faaa469"
+      }
+    }
+  ]
+}

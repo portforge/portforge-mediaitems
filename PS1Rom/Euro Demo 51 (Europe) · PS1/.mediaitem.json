@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 51 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 51 (Europe).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "59786d64e563cce242a9c9faa7ac5b80",
+        "sha1": "9167a4fadb27d8b7d2b5403c37c62a3904a5c706",
+        "crc32": "08346032"
+      }
+    },
+    {
+      "filename": "Euro Demo 51 (Europe) (Track 1).bin",
+      "filesize": 721537152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b87a322ba5aea9847dd96f4988d9267e",
+        "sha1": "480786e9fe64b0985436f2e437d29b2203209bab",
+        "crc32": "6a0f1987"
+      }
+    },
+    {
+      "filename": "Euro Demo 51 (Europe) (Track 2).bin",
+      "filesize": 355152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e89c7b0d2ecaf32a6964f77bb44fb66",
+        "sha1": "4766fee9f8950186f7c9fc34a484c118b661b5a9",
+        "crc32": "3439fc54"
+      }
+    }
+  ]
+}

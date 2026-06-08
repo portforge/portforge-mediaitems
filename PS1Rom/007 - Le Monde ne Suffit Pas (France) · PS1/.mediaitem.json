@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "007 - Le Monde ne Suffit Pas (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "007 - Le Monde ne Suffit Pas (France).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f5b6155cdd27a92be279ef2a0128846",
+        "sha1": "ff26ea5b4c4a840afbdc90123686a3012494b9d8",
+        "crc32": "b7873d96"
+      }
+    },
+    {
+      "filename": "007 - Le Monde ne Suffit Pas (France).bin",
+      "filesize": 727325424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "687837b7247025862a89e1d18eebcfcd",
+        "sha1": "183815d71895adf29c7111ea9ac57ebdc4df7333",
+        "crc32": "c2d1c87a"
+      }
+    }
+  ]
+}

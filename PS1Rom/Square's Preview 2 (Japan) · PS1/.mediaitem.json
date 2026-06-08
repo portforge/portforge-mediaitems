@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Square's Preview 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Square's Preview 2 (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b7c0cd212f82f8da36e2bc250059475",
+        "sha1": "8ad9ae995c4570c3ccb1e8f6f3bdeb3d950de6db",
+        "crc32": "93521a68"
+      }
+    },
+    {
+      "filename": "Square's Preview 2 (Japan).bin",
+      "filesize": 566265168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "183e0234f129adb0488a95388928059a",
+        "sha1": "6f69358e8108b64d50a166574028fa19b1fd5092",
+        "crc32": "61d1a1c3"
+      }
+    }
+  ]
+}

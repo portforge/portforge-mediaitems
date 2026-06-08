@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Dinosaurio (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Dinosaurio (Spain).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd72e57b539233ae0a02fe61988ce8b1",
+        "sha1": "5a38d28fc44df3551cdede50a29fd7035fe6c2d8",
+        "crc32": "76613976"
+      }
+    },
+    {
+      "filename": "Disney Dinosaurio (Spain).bin",
+      "filesize": 493981152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a56c5c511d59fb498e367e74d5b97573",
+        "sha1": "feeecd7c57f89c94c27dd0ea931cafdb8f9b0478",
+        "crc32": "568d86ff"
+      }
+    }
+  ]
+}

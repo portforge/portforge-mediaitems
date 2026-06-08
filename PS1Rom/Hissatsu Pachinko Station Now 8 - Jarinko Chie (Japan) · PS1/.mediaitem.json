@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hissatsu Pachinko Station Now 8 - Jarinko Chie (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hissatsu Pachinko Station Now 8 - Jarinko Chie (Japan).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "140098396f95c569360674e0d03ec059",
+        "sha1": "282069601941291a5b6aee1e3e16f20a8b35a451",
+        "crc32": "646c7106"
+      }
+    },
+    {
+      "filename": "Hissatsu Pachinko Station Now 8 - Jarinko Chie (Japan).bin",
+      "filesize": 48947472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd464bc27f72b565cc30994b8d00922b",
+        "sha1": "61443c6f6aba62552ca5b07ff161228058c4f5ac",
+        "crc32": "c5ea0e22"
+      }
+    }
+  ]
+}

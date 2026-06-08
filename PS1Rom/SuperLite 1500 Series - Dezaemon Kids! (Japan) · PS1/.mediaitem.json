@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Dezaemon Kids! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Dezaemon Kids! (Japan).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ba2db3f7ece66d7c24eb63db4157975",
+        "sha1": "bd9fff35b76aa2b7ccbc51316adc1c9d7b840064",
+        "crc32": "55e0d80f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Dezaemon Kids! (Japan).bin",
+      "filesize": 279855072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ca3d30141095f159795c17c5cecafe3",
+        "sha1": "efd68f7dc0ac1d96a9b1f6ca174e0a8304d07f7c",
+        "crc32": "e8e9c066"
+      }
+    }
+  ]
+}

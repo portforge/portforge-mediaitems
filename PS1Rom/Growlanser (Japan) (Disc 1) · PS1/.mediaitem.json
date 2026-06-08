@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Growlanser (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Growlanser (Japan) (Disc 1).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "39f683d3241b7018870fc33e2b2b541e",
+        "sha1": "98b88f1333047310339b9acd76d94f239253c3a8",
+        "crc32": "fe96f6a7"
+      }
+    },
+    {
+      "filename": "Growlanser (Japan) (Disc 1).bin",
+      "filesize": 736408848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c03397f19347383199bba84c4baa8bf",
+        "sha1": "78a595317b9ed3a7d6bbdcff48f6144cbff38a48",
+        "crc32": "7180dfd0"
+      }
+    }
+  ]
+}

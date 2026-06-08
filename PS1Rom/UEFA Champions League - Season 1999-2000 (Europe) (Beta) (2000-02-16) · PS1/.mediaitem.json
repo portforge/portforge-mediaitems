@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "UEFA Champions League - Season 1999-2000 (Europe) (Beta) (2000-02-16)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Europe) (Beta) (2000-02-16).cue",
+      "filesize": 471,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f6305d404a77e5dfe6569444752e3fd",
+        "sha1": "6663fce5f7713801735595bc44a7133ef67279f0",
+        "crc32": "bd8e970f"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Europe) (Beta) (2000-02-16) (Track 1).bin",
+      "filesize": 599630640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b45cc68e090e2e44cb496515d53a1040",
+        "sha1": "e4a9f17e9d004cc4090b612f45dedda0cddf32ee",
+        "crc32": "d6254d0d"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Europe) (Beta) (2000-02-16) (Track 2).bin",
+      "filesize": 66232320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8651e5afb83ecb07bee2c2ad6874a5fd",
+        "sha1": "d2544c0da692b8bcfdc1d1e728caae944165b6bc",
+        "crc32": "8aa17dc5"
+      }
+    },
+    {
+      "filename": "UEFA Champions League - Season 1999-2000 (Europe) (Beta) (2000-02-16) (Track 3).bin",
+      "filesize": 66232320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4524a5817eb4f90456bde66c1a629fd1",
+        "sha1": "4423dc4fa29601e520739900bf3d979b30bb5849",
+        "crc32": "05de7735"
+      }
+    }
+  ]
+}

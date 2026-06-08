@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Elan Plus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Elan Plus (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "06b2449b90d36121c7fb6bf523e56393",
+        "sha1": "a0240059d1b845b7b8c90e8e78aeb94a8b30daac",
+        "crc32": "c44a4715"
+      }
+    },
+    {
+      "filename": "Elan Plus (Japan).bin",
+      "filesize": 581621376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "743a8dfa46d8d8f8b9aa49abbaf1b4ec",
+        "sha1": "947de2fba102fa48c63e39ce880eaddcec91b9b4",
+        "crc32": "91d628d6"
+      }
+    }
+  ]
+}

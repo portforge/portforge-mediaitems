@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90576258e8f7e8fa677a8e0c8269d96c",
+        "sha1": "66bbb6efb98c8c34b383cd67250b82655c84168e",
+        "crc32": "913561b3"
+      }
+    },
+    {
+      "filename": "Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 1).bin",
+      "filesize": 477030288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2882e2ab38fe96240bd90fb656a9051",
+        "sha1": "08fb47b117c34ff3ed232bf9244a49a13ac04dfe",
+        "crc32": "2ea66f26"
+      }
+    },
+    {
+      "filename": "Mahjong Uranai Fortuna - Tsuki no Megamitachi (Japan) (Track 2).bin",
+      "filesize": 32109504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eebc5927d7afe9ce8ac003e7f37fbe93",
+        "sha1": "0bd43fbb148a3c048a59411b4f7633aa27e7280d",
+        "crc32": "d6082695"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Doom (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Doom (Europe).cue",
+      "filesize": 838,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac115b67c6346c73817b951fdf7ee5bc",
+        "sha1": "09587eca5f06a9313ff46aab3920a995a1b3299d",
+        "crc32": "bd64fd7c"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 1).bin",
+      "filesize": 84175728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "229df64967156fa9cd3db6e7335c9c7f",
+        "sha1": "d3f1b1c3db8bb1a31cb371cb17113419f9ddd742",
+        "crc32": "f452676e"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 2).bin",
+      "filesize": 33737088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24e137985affd7bf25ed5e823578aa6f",
+        "sha1": "9b970749ed2c9247727e6c771068cade0fdde181",
+        "crc32": "b0d25ed2"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 3).bin",
+      "filesize": 20801088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5dc58036f7a2cf7eb377ff61e0da2c77",
+        "sha1": "105be172a2ca6537565f3b3bfaa967063ce83ec1",
+        "crc32": "b5152e86"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 4).bin",
+      "filesize": 41992608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e0ef0c9c2791820de6d7c85065442ef",
+        "sha1": "5829a53feea9b3fb3f313c5c1807530de423f238",
+        "crc32": "5b53702c"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 5).bin",
+      "filesize": 36717072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9acb442faeefe3c180c0a755bb20452",
+        "sha1": "094d171831e7e3764746908d286c0eea0e7633cb",
+        "crc32": "5076ccc0"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 6).bin",
+      "filesize": 22936704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "321b630e4efcd49c8fee990e74083b27",
+        "sha1": "8cfce2f9c199f7deadc62a24582494c4a9ce5209",
+        "crc32": "9fb12048"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 7).bin",
+      "filesize": 9847824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45f679db5f3dd63ba4c7e325301118f0",
+        "sha1": "23c7727aa03edbcaa86b7ce515b804ad7b71b47f",
+        "crc32": "33c2f160"
+      }
+    },
+    {
+      "filename": "Doom (Europe) (Track 8).bin",
+      "filesize": 40560240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0bee96b093d7bde934b7a225c0fedb7a",
+        "sha1": "ce6c6c547ce57af2bb165fcc2dff9d0fe8334c74",
+        "crc32": "e80effa2"
+      }
+    }
+  ]
+}

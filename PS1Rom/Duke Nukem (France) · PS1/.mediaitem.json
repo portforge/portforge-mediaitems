@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Duke Nukem (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Duke Nukem (France).cue",
+      "filesize": 434,
+      "ext": "cue",
+      "checksums": {
+        "md5": "692fceef021ea4c777c38bc029b55aff",
+        "sha1": "84622f7d282e0a81d5ada5122fade2f659bbe0c6",
+        "crc32": "d957ee8d"
+      }
+    },
+    {
+      "filename": "Duke Nukem (France) (Track 1).bin",
+      "filesize": 556727808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c21aaf3e561dc8c67bef539d556f0c89",
+        "sha1": "f78d4861f3c8e7b9fd2ba2035611901dca74aaf6",
+        "crc32": "d641c8cd"
+      }
+    },
+    {
+      "filename": "Duke Nukem (France) (Track 2).bin",
+      "filesize": 32808048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecbdf296e49e301d7055a9494858f930",
+        "sha1": "fd8b51240b2c0af2adbfbae6801eba5145329e41",
+        "crc32": "831aed2c"
+      }
+    },
+    {
+      "filename": "Duke Nukem (France) (Track 3).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7790497bc299c11cb45dc2a8a6bb6497",
+        "sha1": "2b654a72895ddac74f6cc0cac7900353d2453394",
+        "crc32": "6fb23f7e"
+      }
+    },
+    {
+      "filename": "Duke Nukem (France) (Track 4).bin",
+      "filesize": 67758768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffb1e3edd8fcd19955898fd9d3807b35",
+        "sha1": "08384c526e34b8f82067c4de4078ed1b46170909",
+        "crc32": "666b5591"
+      }
+    }
+  ]
+}

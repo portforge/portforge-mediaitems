@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Qix 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Qix 2000 (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c9122e299c8250872db67d9dc4cdda2",
+        "sha1": "2f37fae4a655bbcd52950e28ba05ccc38afa3755",
+        "crc32": "2907a24d"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Qix 2000 (Japan).bin",
+      "filesize": 64235472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a87ec5c4f8efe6d98f2544b8ae7219c2",
+        "sha1": "aa87c1de35b9f2f5393727e84608a0c5b6e70d3e",
+        "crc32": "f5c71654"
+      }
+    }
+  ]
+}

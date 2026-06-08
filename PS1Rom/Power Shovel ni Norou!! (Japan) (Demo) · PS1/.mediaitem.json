@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Shovel ni Norou!! (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Shovel ni Norou!! (Japan) (Demo).cue",
+      "filesize": 246,
+      "ext": "cue",
+      "checksums": {
+        "md5": "726ff3113c0cc26dd8c0fe571fc02483",
+        "sha1": "54a7019a8b220c69e0011084e160c6930d902b5a",
+        "crc32": "437b4de9"
+      }
+    },
+    {
+      "filename": "Power Shovel ni Norou!! (Japan) (Demo) (Track 1).bin",
+      "filesize": 125173440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aed14730b92ce16d8865b23610144507",
+        "sha1": "f4a98e13f0f042bb5ac1d8435115a8980f0db583",
+        "crc32": "73b34c5c"
+      }
+    },
+    {
+      "filename": "Power Shovel ni Norou!! (Japan) (Demo) (Track 2).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f1c8536001328716c2a4c89f3db62f2",
+        "sha1": "1f7399f9cb0693050d499f7bfdde1fb764076316",
+        "crc32": "59cf6462"
+      }
+    }
+  ]
+}

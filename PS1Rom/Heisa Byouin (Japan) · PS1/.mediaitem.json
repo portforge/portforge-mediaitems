@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heisa Byouin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heisa Byouin (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2956f8320647ed4ec33667578843a2d4",
+        "sha1": "95870660d7ce3ad5252027114438b2d790219b94",
+        "crc32": "5728d575"
+      }
+    },
+    {
+      "filename": "Heisa Byouin (Japan).bin",
+      "filesize": 606270336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3083870f2e9d820e99564b7686bf72b7",
+        "sha1": "958d4bc66bac685fb895619aeb3cc6832d9b6ef0",
+        "crc32": "d5cfc1c0"
+      }
+    }
+  ]
+}

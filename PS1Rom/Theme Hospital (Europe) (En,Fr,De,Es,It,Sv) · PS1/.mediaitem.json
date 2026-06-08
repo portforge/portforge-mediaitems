@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ccde001cede4876ffe793a469de16958",
+        "sha1": "b4a8413b67d18a771c7bbafa558c47f68f90783c",
+        "crc32": "771d5f4d"
+      }
+    },
+    {
+      "filename": "Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).bin",
+      "filesize": 304725120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b387bdb27bd19f917c1bcbc66b23ade",
+        "sha1": "9b3a2400e99be07dbd5df8d106a2f7267446c764",
+        "crc32": "07f246b2"
+      }
+    }
+  ]
+}

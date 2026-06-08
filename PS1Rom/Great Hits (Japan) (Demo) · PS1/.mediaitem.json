@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Great Hits (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Great Hits (Japan) (Demo).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4fc9a88e883a874897000a306b893af9",
+        "sha1": "94abd42e0959600ed80aface0be3396d65d04aed",
+        "crc32": "52259a2f"
+      }
+    },
+    {
+      "filename": "Great Hits (Japan) (Demo).bin",
+      "filesize": 203412720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8afe82b630549f883dae671a03c7fe46",
+        "sha1": "e18b511640ebdfa0bd177e029cd74c742e62f855",
+        "crc32": "c05cc7b0"
+      }
+    }
+  ]
+}

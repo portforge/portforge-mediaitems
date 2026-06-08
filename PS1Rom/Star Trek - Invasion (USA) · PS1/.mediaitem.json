@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Trek - Invasion (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Trek - Invasion (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d580c4a88cf3ec03c4837fd73d06a479",
+        "sha1": "71fddc87cf924f8414fa5382145944cbfeb1a57b",
+        "crc32": "fb82e5a4"
+      }
+    },
+    {
+      "filename": "Star Trek - Invasion (USA).bin",
+      "filesize": 679718592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40af361b4eeea6383e021456205b1017",
+        "sha1": "8b51620e59d7df116a2d0de2c7e6af6c4cf0346b",
+        "crc32": "1de1eca0"
+      }
+    }
+  ]
+}

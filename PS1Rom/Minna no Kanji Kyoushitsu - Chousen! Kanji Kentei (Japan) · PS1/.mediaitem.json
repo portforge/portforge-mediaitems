@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Minna no Kanji Kyoushitsu - Chousen! Kanji Kentei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Minna no Kanji Kyoushitsu - Chousen! Kanji Kentei (Japan).cue",
+      "filesize": 284,
+      "ext": "cue",
+      "checksums": {
+        "md5": "48713be10d4387ab4f936dd48e3875a0",
+        "sha1": "58f853edb3aa218e8494fe2b67b6291b3d54c3e5",
+        "crc32": "1eda4dfa"
+      }
+    },
+    {
+      "filename": "Minna no Kanji Kyoushitsu - Chousen! Kanji Kentei (Japan) (Track 1).bin",
+      "filesize": 10332336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7def2be2a83996471ef9d2dc70de5518",
+        "sha1": "8a320873178965844e33e000bd904aa9d3f38869",
+        "crc32": "edda93da"
+      }
+    },
+    {
+      "filename": "Minna no Kanji Kyoushitsu - Chousen! Kanji Kentei (Japan) (Track 2).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3acdf1a08d047c72e595351fc548900",
+        "sha1": "632cb32ce4c7edd6cd7e2aa88cd2b631f88d5b96",
+        "crc32": "8a322cf1"
+      }
+    }
+  ]
+}

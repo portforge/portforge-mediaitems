@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jang Jang Koi Shimashow - Lovely Pop 2 in 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jang Jang Koi Shimashow - Lovely Pop 2 in 1 (Japan).cue",
+      "filesize": 707,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c749404d152af2702247496697692341",
+        "sha1": "7c8ffa6f3cc10d23eff3eae2bb054120c148e5cd",
+        "crc32": "c2c4b157"
+      }
+    },
+    {
+      "filename": "Jang Jang Koi Shimashow - Lovely Pop 2 in 1 (Japan) (Track 1).bin",
+      "filesize": 688870224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e75b0f44abd8258acead7ac889e28af",
+        "sha1": "6e8fba6bb2d965b986335264598fe006c09596ca",
+        "crc32": "501e1d19"
+      }
+    },
+    {
+      "filename": "Jang Jang Koi Shimashow - Lovely Pop 2 in 1 (Japan) (Track 2).bin",
+      "filesize": 13314672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58a723ca421f681d5f2def580fe57342",
+        "sha1": "79e20fec966fba02e6bfd0d141a9879423baae0f",
+        "crc32": "02514fed"
+      }
+    },
+    {
+      "filename": "Jang Jang Koi Shimashow - Lovely Pop 2 in 1 (Japan) (Track 3).bin",
+      "filesize": 12430320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08aef42426521a12a22dff80fe97f8ba",
+        "sha1": "4664ce016deb1cc1b4dda4de706f8c5b6e06f94d",
+        "crc32": "3d105465"
+      }
+    },
+    {
+      "filename": "Jang Jang Koi Shimashow - Lovely Pop 2 in 1 (Japan) (Track 4).bin",
+      "filesize": 12846624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b269248254c9f4bcba2129840b30c74",
+        "sha1": "084aa22a53a56bf7398bf7d08850cbb1ac3f8c62",
+        "crc32": "1cdb8475"
+      }
+    },
+    {
+      "filename": "Jang Jang Koi Shimashow - Lovely Pop 2 in 1 (Japan) (Track 5).bin",
+      "filesize": 12317424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82b9a29f0f846e1280eb3a28667b8130",
+        "sha1": "938841af502e41565ee3eb93f7e1b350d9bc1105",
+        "crc32": "9b4fab4a"
+      }
+    }
+  ]
+}

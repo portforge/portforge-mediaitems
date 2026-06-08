@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cool Boarders 3 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cool Boarders 3 (USA) (Demo).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e63755364eef5e4899972f137a11458",
+        "sha1": "7558bd6f2d2f3c1026d2764e7bdec94b4a6a14d8",
+        "crc32": "c5e62539"
+      }
+    },
+    {
+      "filename": "Cool Boarders 3 (USA) (Demo).bin",
+      "filesize": 383681760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b63a6543659d3616743e422ed5ab2b14",
+        "sha1": "d8f011540e8fdf3823e94ad43c6d134aa84e3fe6",
+        "crc32": "d3e0e113"
+      }
+    }
+  ]
+}

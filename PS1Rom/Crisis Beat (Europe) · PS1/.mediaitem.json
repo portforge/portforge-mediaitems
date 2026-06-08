@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crisis Beat (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crisis Beat (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "190d0ef3eead51659b9f97821fb38179",
+        "sha1": "b2adc72e826c99c40f82b493ceaf9c0e5569305e",
+        "crc32": "b7bff4b1"
+      }
+    },
+    {
+      "filename": "Crisis Beat (Europe).bin",
+      "filesize": 714796320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bce6f18bf2eb0f0543ca4c5b0d69493f",
+        "sha1": "f41ce71b1285648dd521979cb13c6d38a5df12bc",
+        "crc32": "38a28717"
+      }
+    }
+  ]
+}

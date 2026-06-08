@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Land Before Time, The - Return to the Great Valley (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Land Before Time, The - Return to the Great Valley (Europe).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5bfcfe6ed5389878b811ecde1c8efc84",
+        "sha1": "7dca87ebe864cb5c4178553db0848d3fe343db1c",
+        "crc32": "81183732"
+      }
+    },
+    {
+      "filename": "Land Before Time, The - Return to the Great Valley (Europe).bin",
+      "filesize": 321737136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "241524bd012a58ba6882c7e3e4169006",
+        "sha1": "fad1da712453c65135873ba193f2bc2d02b55b67",
+        "crc32": "b98dd873"
+      }
+    }
+  ]
+}

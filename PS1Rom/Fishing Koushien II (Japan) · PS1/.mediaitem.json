@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fishing Koushien II (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fishing Koushien II (Japan).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b58b6a21fd5bf70cdc08a07380c497f4",
+        "sha1": "b1e78b5e6ed4cbf7218a6b28ace39cf9a3188d8d",
+        "crc32": "39c4d4d3"
+      }
+    },
+    {
+      "filename": "Fishing Koushien II (Japan) (Track 1).bin",
+      "filesize": 119928480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66f31c490194063b7e1c01a36ceba0f5",
+        "sha1": "3bb8181de8de65fa587d90d8b8f1571199ae1fbb",
+        "crc32": "656e1973"
+      }
+    },
+    {
+      "filename": "Fishing Koushien II (Japan) (Track 2).bin",
+      "filesize": 34957776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f495a59c8751d7e80d6ff656e83e5333",
+        "sha1": "077f295ab235d473b048430ff4d942dd7ec8e4a2",
+        "crc32": "b925a23c"
+      }
+    }
+  ]
+}

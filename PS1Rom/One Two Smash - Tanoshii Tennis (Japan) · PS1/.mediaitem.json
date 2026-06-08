@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "One Two Smash - Tanoshii Tennis (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan).cue",
+      "filesize": 1046,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4077d5fdcd2f28f1c0251d799803f68a",
+        "sha1": "3235c871277c020a68d9aca2cac190cf8273e0a2",
+        "crc32": "291b1ef5"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 1).bin",
+      "filesize": 17056704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9524eec6520480f297f201dca7fc840",
+        "sha1": "f411d7e90d84d09ada5ccd3b3d75f2549c31ffd1",
+        "crc32": "c364a78d"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 2).bin",
+      "filesize": 5802384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "948f8171a714b5bd352baf0ec1a33a7d",
+        "sha1": "06fa180112b7b9f25173a4fa4cef87211ec40309",
+        "crc32": "b3008832"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 3).bin",
+      "filesize": 43441440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df39a6324409fb156ad1c407a1eb3ad1",
+        "sha1": "543eb2b0288de63757fcd3faee9b0b6776f60c31",
+        "crc32": "c3615a1f"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 4).bin",
+      "filesize": 44760912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8483e389d427545922a1e64351b6e1f",
+        "sha1": "ec2c5bea59e2408917e52d70252add76adeffd20",
+        "crc32": "e97fbc08"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 5).bin",
+      "filesize": 44492784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6bafddad3857cc6f2c58ae36f2d61a1",
+        "sha1": "a9ddf09b162431034268967777b64d86c2fe02a9",
+        "crc32": "040b521b"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 6).bin",
+      "filesize": 56269248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b35961a2613553943759aeabfadd60c4",
+        "sha1": "36324cb0f95d88047b6a275fe5363d9fa88a99eb",
+        "crc32": "459c969f"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 7).bin",
+      "filesize": 41952624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f181451d158613e7a4040ce26be3a0dd",
+        "sha1": "c4593a8a745b21f605fdb4a1294993c307bebd04",
+        "crc32": "47a48dde"
+      }
+    },
+    {
+      "filename": "One Two Smash - Tanoshii Tennis (Japan) (Track 8).bin",
+      "filesize": 33384288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed99c2966af7229722ded2d12759f82b",
+        "sha1": "97ab93083f862a475ab123584d1a554562ddd122",
+        "crc32": "f8192d3f"
+      }
+    }
+  ]
+}

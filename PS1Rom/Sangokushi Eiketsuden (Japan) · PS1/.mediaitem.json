@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sangokushi Eiketsuden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sangokushi Eiketsuden (Japan).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "97a8058f953529b4557befccbea6b36a",
+        "sha1": "efd716eb72bc1fcfc2d980b1fb82bcfc6978306d",
+        "crc32": "9b48837c"
+      }
+    },
+    {
+      "filename": "Sangokushi Eiketsuden (Japan) (Track 1).bin",
+      "filesize": 303170448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9df7ecacbe48a833a4cb251c086aeed0",
+        "sha1": "41cc9ffb7b30ceb965bae0a6e6b7d02ab954dba2",
+        "crc32": "2a3a50bb"
+      }
+    },
+    {
+      "filename": "Sangokushi Eiketsuden (Japan) (Track 2).bin",
+      "filesize": 37810752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61239a3dc22088a08f2d320918ac11a1",
+        "sha1": "7c8508996d34d2a39fd75a8fab58e2c9b766b09b",
+        "crc32": "40e86050"
+      }
+    }
+  ]
+}

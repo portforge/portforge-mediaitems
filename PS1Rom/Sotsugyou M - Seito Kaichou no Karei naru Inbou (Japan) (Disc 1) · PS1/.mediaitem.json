@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sotsugyou M - Seito Kaichou no Karei naru Inbou (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sotsugyou M - Seito Kaichou no Karei naru Inbou (Japan) (Disc 1).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba0e2fc980e614b73e8ad579f80d3793",
+        "sha1": "867832c1de29c570cad7454da75aa787f57162f3",
+        "crc32": "5d1dca93"
+      }
+    },
+    {
+      "filename": "Sotsugyou M - Seito Kaichou no Karei naru Inbou (Japan) (Disc 1).bin",
+      "filesize": 470162448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6187c7f466dd672eb97abd35c7147899",
+        "sha1": "df7f935b789f9ed5b20b28367c3adb1cf86de2c3",
+        "crc32": "dd502d25"
+      }
+    }
+  ]
+}

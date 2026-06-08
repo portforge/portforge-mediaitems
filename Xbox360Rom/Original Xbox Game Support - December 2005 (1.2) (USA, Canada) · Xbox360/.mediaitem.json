@@ -1,0 +1,27 @@
+{
+  "_itemType": "Xbox360Rom",
+  "title": "Original Xbox Game Support - December 2005 (1.2) (USA, Canada)",
+  "platform": "Xbox360",
+  "formats": [
+    {
+      "filename": "Original Xbox Game Support - December 2005 (1.2) (USA, Canada).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "298c3481fc2d3e84f176e637b8c3ffa7",
+        "sha1": "58f8f06d447b8c91d23cc6ce4531879b92ef542d",
+        "crc32": "10e23626"
+      }
+    },
+    {
+      "filename": "Original Xbox Game Support - December 2005 (1.2) (USA, Canada).bin",
+      "filesize": 4642848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab98e75457028d11c5b9d746dd792808",
+        "sha1": "fafec9ca3dd075034e5e4d8e1d3b0360684fe01e",
+        "crc32": "5117405b"
+      }
+    }
+  ]
+}

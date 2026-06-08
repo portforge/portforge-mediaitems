@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tales of Destiny (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tales of Destiny (USA).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6e212592ef804a6729d85775edebd88f",
+        "sha1": "a93a2e19b10f4586b239016d93132381d7da8d04",
+        "crc32": "aebb7c2d"
+      }
+    },
+    {
+      "filename": "Tales of Destiny (USA) (Track 1).bin",
+      "filesize": 557790912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21ca0eb29b32856d334a7cedbf5cc314",
+        "sha1": "d0d6d150b3b8abb53e0380cb328fbabef4d19c28",
+        "crc32": "bb5864ba"
+      }
+    },
+    {
+      "filename": "Tales of Destiny (USA) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

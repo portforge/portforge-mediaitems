@@ -1,0 +1,457 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26).cue",
+      "filesize": 6582,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7904ba143398a981c137268e30a8d63",
+        "sha1": "db12ec5093b05162c6ebd3b5ece1be9cb7c5327b",
+        "crc32": "9a17060e"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 01).bin",
+      "filesize": 117068448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69d04b52e76d8b59212e73ecc743ca97",
+        "sha1": "657044b0a566668947e3d56b3d0e4e24a9e86f37",
+        "crc32": "27c11265"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 02).bin",
+      "filesize": 5000352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88a6151926223069828042a6ed9a0de5",
+        "sha1": "38514f644eb8d1a7418c2d0a80f3101dc69b71cf",
+        "crc32": "06b543ae"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 03).bin",
+      "filesize": 4153632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30414f7393453820ea7d4881b05f86f2",
+        "sha1": "6bda3a7bf93d48cd6ed407aaff7902e92d9db84c",
+        "crc32": "f0d63280"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 04).bin",
+      "filesize": 6477408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6c8ca357f1a3dab07c549aa238d5c81",
+        "sha1": "02aff01e4747da83c61d403fb7bdd0154ac5bf5d",
+        "crc32": "6165d595"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 05).bin",
+      "filesize": 5070912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "acb2c5fbda692e78c1921c705e6c251b",
+        "sha1": "c1644db46004c0a2f797e89bd13c45cc4dbb010e",
+        "crc32": "d417bd6f"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 06).bin",
+      "filesize": 2507232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "987c1926b3e73ad88e5c5786fcd4c373",
+        "sha1": "774d04973c58c4c17ad91cab99537dda48e1bde2",
+        "crc32": "ff766a96"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 07).bin",
+      "filesize": 9339792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "995f676d7c5d1b3cc7db526b1b579b47",
+        "sha1": "80cc9bc402d9ea98241b51e43906ea80efbd9401",
+        "crc32": "effb0d2e"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 08).bin",
+      "filesize": 2382576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17e22428f2482fcef674587c12c3c8eb",
+        "sha1": "4809234ff5d16b34fd636461b40b1dcbf032db3f",
+        "crc32": "519f5c76"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 09).bin",
+      "filesize": 3734976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32f7befb82fd504554e37e8737fdab61",
+        "sha1": "408cd8cf5f36f8aeb17ce300c959aa4d29fc73bf",
+        "crc32": "1fd2c7c5"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 10).bin",
+      "filesize": 4988592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49b113007009f718faf341c4c78f607c",
+        "sha1": "74acbf8691338285a8a6828571d835b0b45474b3",
+        "crc32": "2cd4767c"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 11).bin",
+      "filesize": 7175952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be1d149199481e9453f2ee9627c595c4",
+        "sha1": "34e59a19c80b74c1a6c7f538cfdffaf8d268485f",
+        "crc32": "6760d678"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 12).bin",
+      "filesize": 5416656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "962adbc8f2b3a579021b3c2cae273ebe",
+        "sha1": "b7dc694caf677feb0b5ea7eae5db66236851f186",
+        "crc32": "2a97f63e"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 13).bin",
+      "filesize": 4501728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ff659b13c67e021b49f2414448a48d5",
+        "sha1": "04bec514c14725c9f23f7b7130dbd3a97f3211fc",
+        "crc32": "87777938"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 14).bin",
+      "filesize": 3798480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e34708f4d42738130738092f5ae5cf5a",
+        "sha1": "f13c6089013b9f89ad8ad266367da426cb5b2ad5",
+        "crc32": "e8e16e5c"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 15).bin",
+      "filesize": 5002704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6ba1c58464753fbd643a27e4ae9111f",
+        "sha1": "4d59949dd53caccc204842bef803c2e394c050c7",
+        "crc32": "7ffc720a"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 16).bin",
+      "filesize": 2307312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2df7fe306c172e0c5e52d460773e9335",
+        "sha1": "51ddbf5e02830409f7f1faca7e379b1fb169dabc",
+        "crc32": "590946a3"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 17).bin",
+      "filesize": 7034832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc39764f3848b0510d78399ddfad19b1",
+        "sha1": "de5d3903f097003e94f13abec2d2b779acb92304",
+        "crc32": "7112fff0"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 18).bin",
+      "filesize": 4631088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "911b6afbdd7c6bbf5d378c6ef9619860",
+        "sha1": "8c660820df5adebac62f3bc046f7936316ce28b7",
+        "crc32": "a478075e"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 19).bin",
+      "filesize": 4167744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ca211da269c5f99b5e534db56cf2489",
+        "sha1": "f66202bd053f0fa02fe7147852479d7e7516a227",
+        "crc32": "5e1662cf"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 20).bin",
+      "filesize": 2446080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b6f6e52b9bbda53a8fe81f8cf20aea4",
+        "sha1": "9970c0335d197ea1244011c71b0561975ae24b45",
+        "crc32": "9464679f"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 21).bin",
+      "filesize": 3652656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a8364efb0ee08668bbc43ecd60dff48",
+        "sha1": "e6adbd5f3735e197fa29b77ea82a2687d6b52b12",
+        "crc32": "2a600adc"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 22).bin",
+      "filesize": 4139520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82ad5d016cc917527474436793139c54",
+        "sha1": "0a37c64571b9dd0c2fc64ea1c9245f331cf7b659",
+        "crc32": "129dddbd"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 23).bin",
+      "filesize": 8641248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a023340b3ef3ead1d53db47aaa2dbcaf",
+        "sha1": "1a0c0a4b10ed02d73a571071c543fc201da13841",
+        "crc32": "5c9fd36a"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 24).bin",
+      "filesize": 6105792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c03e5f1580e39f940fa19312b7e053dd",
+        "sha1": "d1712c1aa34fcc67fa1eb3f6c6d83f4d6dc3b5f3",
+        "crc32": "377663e4"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 25).bin",
+      "filesize": 13055952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cf7530b05f997d163e4e4bd37a07dba",
+        "sha1": "085ad4290503c285cac0ecb35f52ae994700a6ec",
+        "crc32": "890b1b32"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 26).bin",
+      "filesize": 15415008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8ee4e8b22c39dd34b0a1d86b23cf097",
+        "sha1": "26253d6c3b49ee2f20fbb13e1b71b8f19dd2a2d3",
+        "crc32": "8be4d2ab"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 27).bin",
+      "filesize": 33779424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d73a99b2f4bd880a3cb9da6a25625f66",
+        "sha1": "a720f5d0d5a9f6bdd08f5c1447e295a4354b943a",
+        "crc32": "90d0bd39"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 28).bin",
+      "filesize": 31058160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f1dd0bef76bc9b1bc1bc76ea4221bed",
+        "sha1": "a9db0c48f06509c6cf55df2f4dd8a6c2696a7c7e",
+        "crc32": "3c253e69"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 29).bin",
+      "filesize": 25815552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "351bf8e9e1f3bfb1b5dcc37ce1f3e465",
+        "sha1": "915fbb9be9e74e041a15fc7a4ac53d90f51d3e6f",
+        "crc32": "0438cb7e"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 30).bin",
+      "filesize": 28767312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7673b5107769c2387849be3fce29b59",
+        "sha1": "a38c921dfed2acf7767469e2e172eddfac039575",
+        "crc32": "501b4777"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 31).bin",
+      "filesize": 44972592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8304b242783e0518570e40b9a2b6d948",
+        "sha1": "1691f1e180a418db0e624bf7b1237be6a3b5f544",
+        "crc32": "0b7698db"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 32).bin",
+      "filesize": 16388736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c1b2f3bc77eceda21f52007ab44ba6a",
+        "sha1": "6fa9ff61307f8d73e52c16a05520256e47fa1daa",
+        "crc32": "ea337d84"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 33).bin",
+      "filesize": 35795088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc9c689cc17d1a978e5f6f4039f884c4",
+        "sha1": "67e06dd38d7681ab7fe5c324b3897688b6818dbd",
+        "crc32": "51f2a3e3"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 34).bin",
+      "filesize": 22374576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61ae05ec11535827263a354f0defeb6e",
+        "sha1": "5719847a146e20f202340f5c55a670f5c7b7dfc3",
+        "crc32": "1e534ec9"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 35).bin",
+      "filesize": 16776816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f00807c171d328764f1c3e8f4afa8cd",
+        "sha1": "b0d4cccd4424dd290d345a68e04aca75f7ee08b7",
+        "crc32": "5d7deddc"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 36).bin",
+      "filesize": 27915888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c6ccf0297d29f574fa0695c2920c1646",
+        "sha1": "cee482ebb9e96872cc4060d7397e949adde1c90d",
+        "crc32": "c0f3a3aa"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 37).bin",
+      "filesize": 29943312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31103cfee58b4fe00a7c11d1972d39ba",
+        "sha1": "efcdad1dd95a009ec3213cf04f815990d8ef5192",
+        "crc32": "c39bd7b9"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 38).bin",
+      "filesize": 20015520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b63f288aba7e4816c960e36fced698ff",
+        "sha1": "ccad3711ce1af93ea8845691826c60b582a3b644",
+        "crc32": "7537a0c9"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 39).bin",
+      "filesize": 16033584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1737af05533ffd4741e8b19e559e4ce9",
+        "sha1": "6e248a314e063a55f3740472f704dca51224ea34",
+        "crc32": "eaae19a4"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 40).bin",
+      "filesize": 1834560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5583f76278427547009e859a2195833a",
+        "sha1": "f51ee4617035f9abbebe237b5196012025732b1d",
+        "crc32": "4e5476eb"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 41).bin",
+      "filesize": 31580304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b78b579f1577d2edd3c5d785e4f5d73",
+        "sha1": "df739fd0cdde42951ac5024e310112e036931f93",
+        "crc32": "ffa7a8f1"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 42).bin",
+      "filesize": 41503392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d10a6411de27934e7aeb72f1376b5f08",
+        "sha1": "4033983f59583a3d59136e6df0706fda4322c2e5",
+        "crc32": "2ef16405"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 43).bin",
+      "filesize": 25161696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fe49842ee00d6a618b6588a52b98d22",
+        "sha1": "a340764a3df44a5cf797151eac0da1dac89f29dd",
+        "crc32": "f0da2f26"
+      }
+    },
+    {
+      "filename": "Ninja - Shadow of Darkness (Europe) (Beta) (1998-08-26) (Track 44).bin",
+      "filesize": 32991504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54cc0c4cdce2d4f7bd4016bb3907e92d",
+        "sha1": "b4c7b981b796de3178b421b31d768b486fb18423",
+        "crc32": "b26b6f63"
+      }
+    }
+  ]
+}

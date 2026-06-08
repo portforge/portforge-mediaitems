@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tech PlayStation Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tech PlayStation Vol. 1 (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbcd7152f8599ea1b1396afc0fe084ba",
+        "sha1": "057a9b7d7d0049299a6911ac5abeabd75b0b8525",
+        "crc32": "c8d71bd7"
+      }
+    },
+    {
+      "filename": "Tech PlayStation Vol. 1 (Japan).bin",
+      "filesize": 517712832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4eb8057d59bcb782e9201cda5df63dab",
+        "sha1": "34f3c0c5a73c34cbbc2e5337d6e74db972ba1f44",
+        "crc32": "36f1161b"
+      }
+    }
+  ]
+}

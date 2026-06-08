@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Batman Forever - The Arcade Game (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Batman Forever - The Arcade Game (Europe).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf86787812e804403991e1bec8d9663b",
+        "sha1": "ea6294bac51cd364a561e75c7e7b6b6a2534f67f",
+        "crc32": "fcd193f9"
+      }
+    },
+    {
+      "filename": "Batman Forever - The Arcade Game (Europe) (Track 1).bin",
+      "filesize": 36270192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78750556255044d09628421f91c30c85",
+        "sha1": "bc8fd514ed7027173f8e37ea876bc4db9ec7d625",
+        "crc32": "8dc2afbf"
+      }
+    },
+    {
+      "filename": "Batman Forever - The Arcade Game (Europe) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

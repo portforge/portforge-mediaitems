@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Azure Dreams (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Azure Dreams (USA).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7123cb9eecf46ffcd164f88f5220270d",
+        "sha1": "f17d648328cea80abc4417786fe3bd56ea5d2f88",
+        "crc32": "3314c47b"
+      }
+    },
+    {
+      "filename": "Azure Dreams (USA).bin",
+      "filesize": 298576992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f0afe31a2993af90e43a5ff3139e331",
+        "sha1": "fab68454be5e4e48f7a43ac797cc8c47325c6a20",
+        "crc32": "7b0c5f60"
+      }
+    }
+  ]
+}

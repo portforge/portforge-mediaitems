@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Heart of Darkness (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Heart of Darkness (Germany) (Disc 1).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "13247c32caeb8212d5546f191f54c4f4",
+        "sha1": "1976c9035d38dc5b54a4497e0b5d8cbc8c914706",
+        "crc32": "663edfb2"
+      }
+    },
+    {
+      "filename": "Heart of Darkness (Germany) (Disc 1).bin",
+      "filesize": 576957360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12096952f7f0b6d4c3d11706412edbff",
+        "sha1": "90ab62a5473f04742aa2172b417dc2118e91b4f1",
+        "crc32": "f380e68f"
+      }
+    }
+  ]
+}

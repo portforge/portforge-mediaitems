@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Army Men - Air Attack 2 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Army Men - Air Attack 2 (Spain).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2069ef1a60a4572e63d2c007b839c12d",
+        "sha1": "0202fd0c45570efe2070f4ab86c11c093bebfe3b",
+        "crc32": "56343c79"
+      }
+    },
+    {
+      "filename": "Army Men - Air Attack 2 (Spain).bin",
+      "filesize": 739421760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "799e336e1931ed2de2ff09cf0c86e9c1",
+        "sha1": "a20c9d9dd0ee8dfb303173c5ee5749cbb826c9d1",
+        "crc32": "9a5ec39b"
+      }
+    }
+  ]
+}

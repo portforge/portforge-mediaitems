@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Helix - Fear Effect (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Helix - Fear Effect (Japan) (Disc 1).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f15c67c34733c38cba48e2359c1f2ae8",
+        "sha1": "e3e374fd6a9ecdc5c9e3caa8c53ab79bbff17f87",
+        "crc32": "f528cc2f"
+      }
+    },
+    {
+      "filename": "Helix - Fear Effect (Japan) (Disc 1).bin",
+      "filesize": 724688832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c474444af100c827f91daa4bc9ac0765",
+        "sha1": "5cce5c3be6231b8ce498b5fee4233c4b48b57115",
+        "crc32": "7aded459"
+      }
+    }
+  ]
+}

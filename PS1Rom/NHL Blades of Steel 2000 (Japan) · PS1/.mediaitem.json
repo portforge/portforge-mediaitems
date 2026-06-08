@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL Blades of Steel 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL Blades of Steel 2000 (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "18a9fe5d7e96b32264fc63fa6c5d2469",
+        "sha1": "aa1f370077fbd6d28b36384aa2d3a580319faebf",
+        "crc32": "10a3d161"
+      }
+    },
+    {
+      "filename": "NHL Blades of Steel 2000 (Japan).bin",
+      "filesize": 478798992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76821a57a87fe177fc0b65897e850a9b",
+        "sha1": "876303d942034ab1ff7ce8c600212e5f9867014f",
+        "crc32": "7a35fd84"
+      }
+    }
+  ]
+}

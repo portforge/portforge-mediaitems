@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Countdown Vampires (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Countdown Vampires (USA) (Disc 2).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40e60bd0e79e4685e542db49f971402f",
+        "sha1": "a0cbfc67db03ef34a4a2cf1344a2682747cf53db",
+        "crc32": "b14ceaf0"
+      }
+    },
+    {
+      "filename": "Countdown Vampires (USA) (Disc 2).bin",
+      "filesize": 586539408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8b6735eea83f52017ce7cc022455ca0",
+        "sha1": "23900a207a6a5dd3aa6880ecafd71e00270082ce",
+        "crc32": "9474b511"
+      }
+    }
+  ]
+}

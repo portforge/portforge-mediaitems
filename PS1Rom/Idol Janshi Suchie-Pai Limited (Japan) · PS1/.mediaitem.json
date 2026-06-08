@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Idol Janshi Suchie-Pai Limited (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Idol Janshi Suchie-Pai Limited (Japan).cue",
+      "filesize": 774,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ecabcafdec20f357cb0078e8cb757c49",
+        "sha1": "c9c9d67fd22b5b0604b7285377cbd80e4238dc93",
+        "crc32": "f8908c16"
+      }
+    },
+    {
+      "filename": "Idol Janshi Suchie-Pai Limited (Japan) (Track 1).bin",
+      "filesize": 601982640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a7ad9fe9d2c47f843ace13ee6ce4dc9",
+        "sha1": "d46f3d0db8a06d0ea2970eaa52423f2a63caa1a8",
+        "crc32": "a8a0c99e"
+      }
+    },
+    {
+      "filename": "Idol Janshi Suchie-Pai Limited (Japan) (Track 2).bin",
+      "filesize": 1754592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7f12a2173a3bba8ef68231b9a8579bfc",
+        "sha1": "c1c4d14aa9a190388986d142078968fb99bc2ce1",
+        "crc32": "5ddc5e7d"
+      }
+    },
+    {
+      "filename": "Idol Janshi Suchie-Pai Limited (Japan) (Track 3).bin",
+      "filesize": 34325088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b95a2ec82acc7654aca9180e80b03a8",
+        "sha1": "9a799f33caf0b8cfcb78f6b117b4e7ab3311be98",
+        "crc32": "871e6387"
+      }
+    },
+    {
+      "filename": "Idol Janshi Suchie-Pai Limited (Japan) (Track 4).bin",
+      "filesize": 40054560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0006dae14609b163abff1e15e16786d",
+        "sha1": "01d2df7bd35646feb3285dfb3cd0c0c4eb4059c0",
+        "crc32": "252b991b"
+      }
+    },
+    {
+      "filename": "Idol Janshi Suchie-Pai Limited (Japan) (Track 5).bin",
+      "filesize": 20389488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a435713bdfe5c1d0307f9fcde8d6157",
+        "sha1": "bd4c75f2510bd234a5130ca6b52051ea8edaa486",
+        "crc32": "95ca6499"
+      }
+    },
+    {
+      "filename": "Idol Janshi Suchie-Pai Limited (Japan) (Track 6).bin",
+      "filesize": 37552032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8241ba8b9fafeb90f7b5732d8429ca47",
+        "sha1": "c433fd31ffa6695719d9bf7c872a0ce90155cf17",
+        "crc32": "8dd3b5f4"
+      }
+    }
+  ]
+}

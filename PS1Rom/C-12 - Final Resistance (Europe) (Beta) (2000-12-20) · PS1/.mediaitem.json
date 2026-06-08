@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "C-12 - Final Resistance (Europe) (Beta) (2000-12-20)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "C-12 - Final Resistance (Europe) (Beta) (2000-12-20).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d3cce9f620a8fad9484f3e1a02a5e4d",
+        "sha1": "478d538b7bd202c79d1668d2df78da50efbfc896",
+        "crc32": "23976a44"
+      }
+    },
+    {
+      "filename": "C-12 - Final Resistance (Europe) (Beta) (2000-12-20) (Track 1).bin",
+      "filesize": 489935712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ff2e5fe88eb36792708cced01602fd8",
+        "sha1": "f51f16ce140130530efa8e48ce52b2530fb08a3c",
+        "crc32": "b04d2470"
+      }
+    },
+    {
+      "filename": "C-12 - Final Resistance (Europe) (Beta) (2000-12-20) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3e0967edcb01e90a97fa57887b30ec6",
+        "sha1": "945aab858b0afdbe417740cb940e21b5ed061a56",
+        "crc32": "f029a2bc"
+      }
+    }
+  ]
+}

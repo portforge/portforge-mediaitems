@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sonata (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sonata (Japan) (Demo).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6389860eada93efdb44de50135c3255",
+        "sha1": "103b64b46eb7d9ea7e07f84e52af2404f85d6575",
+        "crc32": "26b3330d"
+      }
+    },
+    {
+      "filename": "Sonata (Japan) (Demo).bin",
+      "filesize": 314848128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f5d28b5becab30261189d7a8572a863",
+        "sha1": "5022236f46586d887b8b7ee97b0bc1a8850fca2c",
+        "crc32": "bfd817e2"
+      }
+    }
+  ]
+}

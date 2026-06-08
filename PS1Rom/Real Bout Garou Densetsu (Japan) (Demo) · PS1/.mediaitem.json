@@ -1,0 +1,347 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Real Bout Garou Densetsu (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo).cue",
+      "filesize": 4404,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc2a44fb50ff09c44b7272c4d36bcd19",
+        "sha1": "e45051165cbdc7640fa136e41f592fa63de8fc89",
+        "crc32": "375de317"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 01).bin",
+      "filesize": 28463904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "461c1a9031f5c17f6bd69647210ac0f3",
+        "sha1": "6016662570b91009e42a768f32e5c4566df3a736",
+        "crc32": "9c55ab57"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 02).bin",
+      "filesize": 4736928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4caf849cae946523d0b056b69db8428",
+        "sha1": "d3880e9135d81d1c8ea4c257c570e5faadf51bb4",
+        "crc32": "667120db"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 03).bin",
+      "filesize": 6529152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25e96c431375efdbed5953298a270bd1",
+        "sha1": "f6977231b39945f3b9daafb51e72782153b2fa68",
+        "crc32": "cd421d5b"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 04).bin",
+      "filesize": 6529152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c214dcca3ac5614ea970be52a89c8564",
+        "sha1": "f8cec13b34a2961292dbb8f544c49430e4f4e5ee",
+        "crc32": "b2fe0ba4"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 05).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8739f0b266761d5b259e4f1e4ea6612",
+        "sha1": "ed1a1b0c6f1375a7ccfd5f4a56ee91ac21bca9fe",
+        "crc32": "792c7951"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 06).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac4cdabc640bfe8815d6e3aa876f388d",
+        "sha1": "086ecc9648c553940d96781e2fdbc7ba6dc02420",
+        "crc32": "913dd98b"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 07).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ccb8194090c780e06e2ca8d37891f3f",
+        "sha1": "0ba2e50d51d5bc9a81cb929f558e1bb50bcc067f",
+        "crc32": "dcc12f59"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 08).bin",
+      "filesize": 16221744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a74c752d49eb002746cd7fcb010971d9",
+        "sha1": "6bf1d42feaebc0107b0e1f13dd764015cea5240c",
+        "crc32": "8eb82eee"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 09).bin",
+      "filesize": 3177552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78eb2c80157e6225ae018837c37e7b2c",
+        "sha1": "9af79ca63d4227c377853257696e6178cf4eb663",
+        "crc32": "d9eebd9b"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 10).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "202359b864a2a4d0dffef423edb30aad",
+        "sha1": "6f912dbd376d9bce26da32a8062ed62165d8ce22",
+        "crc32": "d9f465c6"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 11).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60981e062d349919693d3b77978f387b",
+        "sha1": "60f80c9653e37755c5444d89fe2b49444e263b5a",
+        "crc32": "b870ecbf"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 12).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae66995d0f4993bc7ef202e0f169dd30",
+        "sha1": "9ef72a9a7305ce55566cb8e25d4714569cdd5601",
+        "crc32": "2a87ab71"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 13).bin",
+      "filesize": 10725120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "017c28b982a1f9bc22d23bd530e8bc4f",
+        "sha1": "7bb861fd51e7b94b073aaca965f78aade8603941",
+        "crc32": "ee776d4f"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 14).bin",
+      "filesize": 3782016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8289c40f314e820a0e37e4e346001e3",
+        "sha1": "a6f41820fe8769b597e06c016447e7837dfdb374",
+        "crc32": "d600c5ce"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 15).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fde2752eb5f4b8c3b33f769feeefcc9",
+        "sha1": "f6c216af33660b91e51bed011f18a9d2c3cf1f05",
+        "crc32": "ec854bc3"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 16).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcfe6711f33ec84e4b65090765b7fbac",
+        "sha1": "ff3d2a963ad5d1933765c70d956b44ba513bc55b",
+        "crc32": "24bf9840"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 17).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e7adc2e09445e59a69fc7cd3b071ab6",
+        "sha1": "9251473a8c4c8b8b3ab103c7b351b17a02fba3a4",
+        "crc32": "bb45645f"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 18).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1a72abb39e7ac7d9bd22134c67eec12",
+        "sha1": "f1fa180e60a9ea405b0ca65be1994170b474c5ee",
+        "crc32": "2312c0d7"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 19).bin",
+      "filesize": 8453088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e989f1ed5cf1df518b58739711ba158c",
+        "sha1": "4d25fe2543058de3f71df9ac3c7ed6474df66332",
+        "crc32": "11ebc46a"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 20).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "175842f11fde530cd11fa1eea4a9df09",
+        "sha1": "120efcad8ac8dac795bb5559913849a9f1606e7e",
+        "crc32": "8eeb4d0e"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 21).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "084607dd781a245d77ff8cf9940c048d",
+        "sha1": "47c377fd29d5d5e79e7dc5d5aa21f5e9b2d764a0",
+        "crc32": "f1389b3d"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 22).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2eb13afe1b78dacc9a21c7f749bb3b8",
+        "sha1": "1d3c482cb3e0febefa8ec6874f8be0494ec6fb20",
+        "crc32": "c08b5097"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 23).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f65318a68bfff301a357f520d50d120",
+        "sha1": "0ed659a74b8d88ca1d089b1f4fe34c7bd227c9f8",
+        "crc32": "b6fc80c9"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 24).bin",
+      "filesize": 2773008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c17d67918a752f3d96e249e59907265",
+        "sha1": "0e606423115e114dd8f240a08254bb69419a94df",
+        "crc32": "10ee40b3"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 25).bin",
+      "filesize": 16231152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "772773375178bda9c2a8964076978361",
+        "sha1": "dad2d2626f11bb9b5e019287bf0404d243b60927",
+        "crc32": "e6a96931"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 26).bin",
+      "filesize": 33960528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccc928634b21a6408b2c388794d01192",
+        "sha1": "ea7c30ad6ed431c12692ef83d98fff51d9b8b84b",
+        "crc32": "4ad33236"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 27).bin",
+      "filesize": 6042288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07f66ff266c6c0c914fd83b5ffc5780e",
+        "sha1": "ef8b0a3fe806cb4c4a421a74e66092fc6e95366d",
+        "crc32": "6aaaf050"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 28).bin",
+      "filesize": 14652960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b52ec695825403124cdc5896f40f91f",
+        "sha1": "03d92da57675159c1550f0ecb841f82758a9c8b9",
+        "crc32": "b590c241"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 29).bin",
+      "filesize": 2914128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f41227afce775f0b72914bf21644b9c7",
+        "sha1": "2242bca6db3be199f220c97b042c93fe6fa0ae4f",
+        "crc32": "8a9b74d1"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 30).bin",
+      "filesize": 11049696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e820e1e869103ae51158763881b479a9",
+        "sha1": "50958ded3dc02f226e1e0d1d7fa45d51306d3903",
+        "crc32": "c8457923"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 31).bin",
+      "filesize": 1328880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3712944687a71c47b45db4de983214c0",
+        "sha1": "57206ed58a04b027522d9759f846abf031dc3f10",
+        "crc32": "d8238b49"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 32).bin",
+      "filesize": 4913328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6c1efcae60a74427ae52e49625ee9eb",
+        "sha1": "41d8289a1ed88122e15d94aa10f8dc3e1898d4c5",
+        "crc32": "3c50e0c3"
+      }
+    },
+    {
+      "filename": "Real Bout Garou Densetsu (Japan) (Demo) (Track 33).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5e8f274d310fe63b235bedc4f071c35",
+        "sha1": "3a310932ac95d80fded1af5810b7de24cb213dff",
+        "crc32": "7e9c2113"
+      }
+    }
+  ]
+}

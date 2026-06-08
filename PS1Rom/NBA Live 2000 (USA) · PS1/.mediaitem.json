@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2000 (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e644273c1fc7de7998c2aa89774651c8",
+        "sha1": "c0e23ef2a67ed565bfcf0edffe2ffe13936a8a09",
+        "crc32": "495a2c21"
+      }
+    },
+    {
+      "filename": "NBA Live 2000 (USA).bin",
+      "filesize": 748538112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb2b310c573c41af37fe27041950b9b4",
+        "sha1": "1a030a5bfb6b0241b744d3e61095efed867988fa",
+        "crc32": "a0b837be"
+      }
+    }
+  ]
+}

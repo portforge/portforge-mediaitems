@@ -1,0 +1,217 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Double Dragon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Double Dragon (Japan).cue",
+      "filesize": 2302,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee441cc5e4f5d3c254bbc8eb6dca5999",
+        "sha1": "6912893930a6084a64c9a1b3ac2abd4c5840b18a",
+        "crc32": "228dd14c"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 01).bin",
+      "filesize": 68012784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99902924cecc984c4d628d3bca0d2723",
+        "sha1": "ab04bbab6e2f24bfac1f196e726412fb87f1fd9d",
+        "crc32": "b00d66ca"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 02).bin",
+      "filesize": 15831312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd3e9948c006bf01b379783763f92851",
+        "sha1": "9d62aa4b7b5bc43db8166b71539a940774cc11be",
+        "crc32": "80ad5b05"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 03).bin",
+      "filesize": 3165792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a16fe02e379ea5a8bf1e7f343482a84d",
+        "sha1": "a27d5abc9221f33d8d2bb3d6b4cab3f0bd90f108",
+        "crc32": "1f83fad3"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 04).bin",
+      "filesize": 26100144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b40924088e0458ef2562ec066f6e372b",
+        "sha1": "522c09c06f784495313e5be70548e3cbc90aa0df",
+        "crc32": "58c15394"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 05).bin",
+      "filesize": 25046448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85e86db7fd484e3d3f34a0fcb99dc872",
+        "sha1": "506969d38c213166fe2bd4049fe5453680033cfe",
+        "crc32": "4ca5787e"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 06).bin",
+      "filesize": 1625232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6893b7f0bfbd70f876b4fc0ee90a1ee",
+        "sha1": "47b4800ec1fc24588365a18bd06fad9314d83f13",
+        "crc32": "0123ee71"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 07).bin",
+      "filesize": 19815600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95534147a95787cf044684d4fa86e0c9",
+        "sha1": "42d54084dcb4f774efede9ceb70a490db3c29140",
+        "crc32": "edc2bb0f"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 08).bin",
+      "filesize": 23009616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0499b4eb9dd21af1b7852d1fd48796ad",
+        "sha1": "b8a2748e495d98c9895da614b045c5a3d2a49cd2",
+        "crc32": "0cd691ca"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 09).bin",
+      "filesize": 28212240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34a41e921557c4f6d9bc3bcc5d86832b",
+        "sha1": "35bebca7f62b79cbd0cb6fd27d211556c8cb0e8e",
+        "crc32": "68b1214a"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 10).bin",
+      "filesize": 19401648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfce2d6b9c0fca21e585c59703cea00d",
+        "sha1": "553796801b0148c87b7c9bdc6c9042b3adf499f5",
+        "crc32": "8c536fbd"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 11).bin",
+      "filesize": 25552128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9146a90ce59b330a88e055982e7d2c9",
+        "sha1": "baaf0f39c49dbe972e695ee4607bff1862bf0719",
+        "crc32": "6f87dcb2"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 12).bin",
+      "filesize": 18103344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "243aecd901e9064d73e6680c12995418",
+        "sha1": "cddb698729587e8d6f5687d9e4cf2f35ab34ab33",
+        "crc32": "0585ba06"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 13).bin",
+      "filesize": 26563488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "143ff33473bc42549ab6773dc9936c02",
+        "sha1": "ea0500966f6b2cf134df5f844058df177c36e943",
+        "crc32": "a63ff541"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 14).bin",
+      "filesize": 21064512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4645aa3075a89d8f78733a0928514a79",
+        "sha1": "eb2d5b76767950033818e58a8b05bc53dbbdc75f",
+        "crc32": "bff7cfb0"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 15).bin",
+      "filesize": 17882256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e12774f1b525540684fe951f9c9b9192",
+        "sha1": "1483c7bc09d588cb51ce4ad7a6ba598bb301cbbb",
+        "crc32": "f6de048e"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 16).bin",
+      "filesize": 16280544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7025b4d2167e7e46e7ea3ecb970c5c03",
+        "sha1": "01827f8080f76f6b658e8731521f6449f1315fba",
+        "crc32": "9e765f1f"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 17).bin",
+      "filesize": 18399696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b209810d67e5a7c85f0aec10301739e7",
+        "sha1": "baf161227ff294e2c3c16a589057362db531c37c",
+        "crc32": "8532da7e"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 18).bin",
+      "filesize": 25039392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a951d514b99c9405134ea0a079ef4ce0",
+        "sha1": "ef754b7c3e088bce27a114001f4ff5be2e688caf",
+        "crc32": "40c6b3ba"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 19).bin",
+      "filesize": 15892464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f8cfa643c0e6c39ba4cd38b0b3f9058",
+        "sha1": "914b9b3faeb9656e23c190dba6b12d7272e60055",
+        "crc32": "2fd30cff"
+      }
+    },
+    {
+      "filename": "Double Dragon (Japan) (Track 20).bin",
+      "filesize": 37507344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6963d2e262afd848aeee4aa7702839e",
+        "sha1": "a7106f5abec9f8e2b76571265c38f8ef8895cad4",
+        "crc32": "d5c85efe"
+      }
+    }
+  ]
+}

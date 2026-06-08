@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ray Tracers (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ray Tracers (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c680bf0b01219231c175fef657460bdd",
+        "sha1": "37300b4480cc0360784a55c62abbc4a418f1d766",
+        "crc32": "f6a7fefd"
+      }
+    },
+    {
+      "filename": "Ray Tracers (Europe).bin",
+      "filesize": 647893680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5cf8b5970e8d2b8393bc3967f4fafcc",
+        "sha1": "1de6378bf198729d58f63008138e993750f180ea",
+        "crc32": "cb2a782f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Granstream Saga, The (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Granstream Saga, The (Germany).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85ce7a4a67ee943b4945daa2feffbdb1",
+        "sha1": "82c3cb6c091a606be0d4c6423ec960da3f16018c",
+        "crc32": "094804d1"
+      }
+    },
+    {
+      "filename": "Granstream Saga, The (Germany).bin",
+      "filesize": 565606608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a79ed3937229873888c3b16139da1ff",
+        "sha1": "db058eac1b2d7286b61fec8641aa19c3e923d9a0",
+        "crc32": "894e09c7"
+      }
+    }
+  ]
+}

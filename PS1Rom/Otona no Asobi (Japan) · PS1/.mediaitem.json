@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Otona no Asobi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Otona no Asobi (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fcf9e75a80b0ef4e58784d1609b94cc3",
+        "sha1": "afc8cdb20f1af29473c745d3437e4c0e7932b183",
+        "crc32": "45be3ee5"
+      }
+    },
+    {
+      "filename": "Otona no Asobi (Japan).bin",
+      "filesize": 66900288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11af1d3bb43cd9ec033be74c9771860e",
+        "sha1": "665e388df963d9c2dbeb070f935802d2e26cc722",
+        "crc32": "9b54b1f6"
+      }
+    }
+  ]
+}

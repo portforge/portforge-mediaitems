@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Miss Spider's Tea Party (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Miss Spider's Tea Party (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "075738d2d620f2df7022370f3d372017",
+        "sha1": "2476094568c1fd2200e49a9d3e3780327c89b2b1",
+        "crc32": "ac0324f5"
+      }
+    },
+    {
+      "filename": "Miss Spider's Tea Party (USA).bin",
+      "filesize": 212533776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8f6c16e8a809f788c2c434c9e93998f",
+        "sha1": "08469b892b19dc4cce672cd2224137b4071d1583",
+        "crc32": "4b2c31ae"
+      }
+    }
+  ]
+}

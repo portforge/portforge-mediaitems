@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grandia (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grandia (Japan) (Disc 2).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34f8dd0c01ebd97adaad7b17290516a4",
+        "sha1": "02afad406efb3212ad5129c6bcd91fe62b0e93e9",
+        "crc32": "a35a0148"
+      }
+    },
+    {
+      "filename": "Grandia (Japan) (Disc 2).bin",
+      "filesize": 674824080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b0725d127412c9347cdcf1f7fa582f9",
+        "sha1": "4caa1a0023ed47a89a612c1f80cb46ed85128c87",
+        "crc32": "d0be4130"
+      }
+    }
+  ]
+}

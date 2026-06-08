@@ -1,0 +1,877 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Noddy's Magic Adventure (Europe) (En,Fr)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr).cue",
+      "filesize": 11592,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1e9ae54a2c3bc48281a933d45499fd55",
+        "sha1": "b4699706e239be5fc7fca4ceb556942f9362aa43",
+        "crc32": "11765a3b"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 01).bin",
+      "filesize": 348277104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56d5ca8003d2287564eefe8e9b12f854",
+        "sha1": "3e9bb81acf4688a181184627e623626c73b57d84",
+        "crc32": "de42217d"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 02).bin",
+      "filesize": 13787424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af362a03f38f6b4203d83b28fb13dbc8",
+        "sha1": "e9a092aef9923862f98d4aff3cbad8fdb9b9fab0",
+        "crc32": "0301dad8"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 03).bin",
+      "filesize": 20916336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4201846ca0350acd50a5d7470990ac12",
+        "sha1": "3f76fb7f6861fc4abd4b8b9021037564663ccc7e",
+        "crc32": "a851ac95"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 04).bin",
+      "filesize": 21191520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d3a1de14a1bde6543e8cf77bbc798a1",
+        "sha1": "ddc7e267f1c7e5a30c835bf324dd645603270a3f",
+        "crc32": "c1d274a9"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 05).bin",
+      "filesize": 30448992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "576e0252089809a820199a2a9156a311",
+        "sha1": "2ba83a7e44ed5dc323c09b792442591308a3b96e",
+        "crc32": "743b7031"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 06).bin",
+      "filesize": 15405600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8bb88a61a7d923b4522b28d2782de186",
+        "sha1": "a5dad07530e5da04f4593ccea097a66d7b21e832",
+        "crc32": "0e923c06"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 07).bin",
+      "filesize": 19893216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f132cc8b0bd58dc75293690b0d7f060",
+        "sha1": "b312c968247c17eec44c07a6137e7fa26bc6e629",
+        "crc32": "5739e916"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 08).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 09).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 10).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 11).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 12).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 13).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 14).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 15).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 16).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 17).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 18).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 19).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b790f8ef13c57ac35f29bc09148e0b3",
+        "sha1": "a7a5c75b013aa6012b2918bb5171e2cbbc75f094",
+        "crc32": "b18b97d1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 20).bin",
+      "filesize": 1829856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90e87c1c6d4d3444482943f8cbd5a29a",
+        "sha1": "1c495f04ad677d47cf0b0ca32065dbc2de5c82dc",
+        "crc32": "707b34cd"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 21).bin",
+      "filesize": 2058000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "efb797f05de905c51804750486af1805",
+        "sha1": "bab6dfe78a3603b63826d34a98cff395970a3556",
+        "crc32": "89bd8ea6"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 22).bin",
+      "filesize": 1738128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1814fddcc984679e0c0b94a74f556177",
+        "sha1": "96b2622876f070d8300ffa75a7585f1a5553a80d",
+        "crc32": "ed981f62"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 23).bin",
+      "filesize": 1876896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4f1b9ebd4100cc19950055841ce5a1b",
+        "sha1": "7ee27b37f5bda02ecbb6e7959c069170f34f4e3e",
+        "crc32": "53358fe9"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 24).bin",
+      "filesize": 2467248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aef7081eefc4487c6e40439d9070cc12",
+        "sha1": "ef2554d52c74482ed7083333b1069a658bc8b432",
+        "crc32": "92c06cae"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 25).bin",
+      "filesize": 1942752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f23d3a38eaf9b6e63a19635e1f25fd1",
+        "sha1": "d5e5033a2c5d4929fb442086969f33e115e3f695",
+        "crc32": "e40c79b0"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 26).bin",
+      "filesize": 1860432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50e68c6e24a20ce040b785b0a2ff9238",
+        "sha1": "15e9903e3c183ab265ab173e1cc4bf3dde0e9823",
+        "crc32": "ae533f10"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 27).bin",
+      "filesize": 1851024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea4236e14bb8119c88d9c71b6c291f5b",
+        "sha1": "d37b746232744a55fba8805312a5cc44ef7b4bdb",
+        "crc32": "c51b9978"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 28).bin",
+      "filesize": 1246560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3706d0103690add5def81728c15108eb",
+        "sha1": "2d7e6f4b224a7d5cbf0d45c4ca70b453351cd30b",
+        "crc32": "bf722ba5"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 29).bin",
+      "filesize": 1215984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa0939f1225e6a78e3e107f354da37bf",
+        "sha1": "aa54288df0ced1a48e3646c4eae095af5f4ace7a",
+        "crc32": "9e70e6e7"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 30).bin",
+      "filesize": 1982736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9af7cf5988f70c5c38c6f4895aec0731",
+        "sha1": "7f3963cadfdcab92017463d69fc3176d999c7b7c",
+        "crc32": "dd949d56"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 31).bin",
+      "filesize": 2140320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "605e095daf70f6ec51f057707779f950",
+        "sha1": "f9ea0375e1b561184025bc7bce6e1e59cbc4034b",
+        "crc32": "5f4b9997"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 32).bin",
+      "filesize": 1260672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e74f9de025653840c2cb810022fac3d4",
+        "sha1": "edad03ecd39a53c748c18ee0b00280d962ef2bd8",
+        "crc32": "9d7bea85"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 33).bin",
+      "filesize": 1197168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8948814bc039c577254cd81aeb6482c0",
+        "sha1": "12cac3c7bfd8668d9546d96bbebce0d096e90750",
+        "crc32": "1a0e7f56"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 34).bin",
+      "filesize": 4047792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "545d9e69515512e986a2e08874d32970",
+        "sha1": "1e69a37a0b0e65df3ee45ad2eef0023099bd6c77",
+        "crc32": "394306f2"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 35).bin",
+      "filesize": 4687536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f13f5ee7ab4483a7a27758386c5afd3c",
+        "sha1": "5a550716b32cb3d469b5e3ed83803e8c277d3a4f",
+        "crc32": "aeee05d3"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 36).bin",
+      "filesize": 1190112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae6f8e877f7144d3c155c7393033202e",
+        "sha1": "efa814eea56c0424646435b15703ce4a9b36ad6d",
+        "crc32": "4d0a6131"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 37).bin",
+      "filesize": 1629936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59444d8c632086e37e7a3246dbcfeb70",
+        "sha1": "ed34047b7850c5ae61199f91563fd59a32795807",
+        "crc32": "32f78cb7"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 38).bin",
+      "filesize": 1408848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfedc2e6bd606c74683c5d5622215632",
+        "sha1": "51a32baf85199a08a3c5740ebbe8128656892878",
+        "crc32": "fb5dbf6c"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 39).bin",
+      "filesize": 2613072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "950a50450ef3c716293b353a72bb0ec2",
+        "sha1": "46b09551b39f57173f0d90206fa5ad013ab9fd04",
+        "crc32": "e2d08672"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 40).bin",
+      "filesize": 2994096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72cea6f6ec145fe5fc7ee39da6f5f1c3",
+        "sha1": "c510697f544bc693e9a4383b2ee82a3338c0c2d1",
+        "crc32": "0b64e99c"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 41).bin",
+      "filesize": 1227744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c69d81508b7cb11e85c0dc1267f5af56",
+        "sha1": "29785e56cda716c162ac1f4e1d6294e75873995a",
+        "crc32": "7b788c7f"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 42).bin",
+      "filesize": 1533504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "872d466a551d3de15ddabeb12a6d0f16",
+        "sha1": "5c7fe6ed33a4486b56495bdf16fad5e7f831b37e",
+        "crc32": "ce326729"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 43).bin",
+      "filesize": 1279488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3ff85cd6ff1fd8dd0d77000e80865ca",
+        "sha1": "c436c464177910a73277068bfbc609392cd1533d",
+        "crc32": "9d00893c"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 44).bin",
+      "filesize": 3144624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8774b8047e30331c803ce7e11b18bcff",
+        "sha1": "29c5148fdaf1d72c9ccafe83eae88d387bc5dbd1",
+        "crc32": "c6d3b25f"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 45).bin",
+      "filesize": 3782016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b24b6c0cf846da2e66f03e7320c2d9a6",
+        "sha1": "1d553d22327fe28eb1ba7aac0be8025c324813e1",
+        "crc32": "93df2bc8"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 46).bin",
+      "filesize": 1291248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18f3984fa75d3261d48c3022fabaf4e8",
+        "sha1": "d8eef5a80a963ae4e9789d9a056f0d756056750a",
+        "crc32": "20eac587"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 47).bin",
+      "filesize": 2069760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d84b8f3ddc3a3325d4acafb0000bcd69",
+        "sha1": "4fe1ca4d6430b06c01ff8dc0b76288674f0ab2dd",
+        "crc32": "9f542206"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 48).bin",
+      "filesize": 2399040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf213f64b10c108633e46f3f7c099f0d",
+        "sha1": "36f3491dea0dc2fb06a55107de1f59c97afbc03e",
+        "crc32": "3e17bbed"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 49).bin",
+      "filesize": 1792224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7356890de9386de7ffd915008068870c",
+        "sha1": "0bd606d5e22010b5803c8056dc348aa295905ed0",
+        "crc32": "57049344"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 50).bin",
+      "filesize": 1756944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "918834f95717bf08010804d1659206c6",
+        "sha1": "fa1164f83db20166f40ccfae107a5fb33402511d",
+        "crc32": "cd445a0d"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 51).bin",
+      "filesize": 1253616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03a45ed8fcaaf0213d99662bf8842e7b",
+        "sha1": "7943e9417cfc4af9ff77a248660dfb743229fcc0",
+        "crc32": "70c5ac00"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 52).bin",
+      "filesize": 3937248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f58f5722979d8957839b9387193f1ba2",
+        "sha1": "a57a5ee311cda13b8e83771f50b796914f1e4e33",
+        "crc32": "6ee79c60"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 53).bin",
+      "filesize": 4228896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33c29d08f65da8c20cde766f1b66a826",
+        "sha1": "af76966b890e62572d9480a20076a19e520b9a81",
+        "crc32": "99d35004"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 54).bin",
+      "filesize": 1317120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a46e3037c20bc97a41e913ce2d5cf19",
+        "sha1": "ab5f9503f00e86b3b3e34c88cbb55ea958b2192a",
+        "crc32": "dcf18cd6"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 55).bin",
+      "filesize": 1255968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "801098b8f3fe4a9f056b74d143bc3eb5",
+        "sha1": "eeec29e2b0252b3a1621a31639385d2a601032b7",
+        "crc32": "ef173478"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 56).bin",
+      "filesize": 2267328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "381f159797e966f8da35458725489622",
+        "sha1": "f8858815581ccd35b2b93269bf7a28139e599e04",
+        "crc32": "40cfc02b"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 57).bin",
+      "filesize": 1672272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "485101d8309fea52c3581803c74e4a97",
+        "sha1": "fb8429632e34e41b3e32efbe04f6bd2f0a7c5a9c",
+        "crc32": "1e815dd1"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 58).bin",
+      "filesize": 1274784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f54a8f70275e5926d0422d86b728c6a5",
+        "sha1": "6142a572d0bdaee3a38db505260fef555576122a",
+        "crc32": "0290f167"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 59).bin",
+      "filesize": 3739680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f00a3a4a559becf616bde1debb51c3f",
+        "sha1": "a326e5ecd796ae98a3ee5c533dba4b72494271c0",
+        "crc32": "a48231b8"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 60).bin",
+      "filesize": 3869040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9532ba843ad9893934da2996da8918b1",
+        "sha1": "0c57918c03ae6ea7642ed3320ee584ad13f73ddd",
+        "crc32": "f07309e7"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 61).bin",
+      "filesize": 1517040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee198483c30a680404f2d952b10b5914",
+        "sha1": "148f7dc92760f41cccb196fd282554cbc8423559",
+        "crc32": "5d2eeecd"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 62).bin",
+      "filesize": 1364160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34f51e0c95e12eb5ee60de5416f6b387",
+        "sha1": "fca650fac2847be9b100f56fe867945a39c78df2",
+        "crc32": "2933ed35"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 63).bin",
+      "filesize": 5948208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a6b1b5f21b3b8488b8eddfc5e7306ef",
+        "sha1": "451a88dca03fae62d3c706872ef78f4ec64834f2",
+        "crc32": "4188b312"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 64).bin",
+      "filesize": 6336288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a92bb313cceb134845d8ce127919aa56",
+        "sha1": "c6eaefecd03e7a40e2d924af60abceeb993d3152",
+        "crc32": "07eed006"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 65).bin",
+      "filesize": 1601712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6816304321d9291ee0c021e1ce324981",
+        "sha1": "29ea3c178db9f0ae18adb4d7068dbe13fb600733",
+        "crc32": "2868d966"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 66).bin",
+      "filesize": 1211280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91972f178676fd1c864c04e795e48cf2",
+        "sha1": "cc6342f97abb992eff987dff576709c0830962f9",
+        "crc32": "f3f7f44b"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 67).bin",
+      "filesize": 1883952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3453989b903fc314575b994e3185d5e",
+        "sha1": "03dbf5f5292dfc8ad661de73065885ccb4a65fcb",
+        "crc32": "d3296c2d"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 68).bin",
+      "filesize": 3497424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db6385276efad80aca90d11dbfc1c3a8",
+        "sha1": "52957adcf9db02bf3aa255e16ea45fd806d64e77",
+        "crc32": "98f08d52"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 69).bin",
+      "filesize": 3793776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0111bee660ac6c735d46f13940fb1d16",
+        "sha1": "dff7b42e824780b8ece8f1e5dffb7543ae4ed355",
+        "crc32": "a74d0d37"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 70).bin",
+      "filesize": 1531152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "158dc9534c31354cf16d742686a873c8",
+        "sha1": "02a8c98ab466c22cc2d9f53014ca6ad737a27423",
+        "crc32": "327e5494"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 71).bin",
+      "filesize": 1707552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1d6fa737c1b763c62a399439932c598",
+        "sha1": "ddcdc32e794b94ff4f2f67990021fabf9176ffc5",
+        "crc32": "e02f971f"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 72).bin",
+      "filesize": 1258320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83cfc10142a3043720d44cbdd16652a4",
+        "sha1": "49c9bdf071277192ecb0e66c50343cfb99668145",
+        "crc32": "18667072"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 73).bin",
+      "filesize": 3556224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "560a7fe6f242de127076dd5bc7677aab",
+        "sha1": "f5afe2666c880d867517dd49459ca426b0c9653d",
+        "crc32": "847c46eb"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 74).bin",
+      "filesize": 4515840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9da63e9a656c4ed6c05ed6fa13e77d26",
+        "sha1": "a6bd9531eda415cb27e890e5ad7d38eac1d91fb4",
+        "crc32": "37cbf082"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 75).bin",
+      "filesize": 1782816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a98d5c43cc5712846d3559209d255268",
+        "sha1": "060529e483b6abebfbeac61fd9641d3191e93616",
+        "crc32": "9aaa1a41"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 76).bin",
+      "filesize": 3412752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97a166e563bd17b887794f44bbb0367a",
+        "sha1": "f221f9eee5e88284c07348d7cfd92a3ad6a111dc",
+        "crc32": "40eecbd4"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 77).bin",
+      "filesize": 3843168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0c770707fa3599cdbaf069764ad0e0d",
+        "sha1": "1df05156b66e7c56e7fc5b6fc4a69293aaaad1c5",
+        "crc32": "de7006ce"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 78).bin",
+      "filesize": 2236752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aba3ee30b7482e948e2aa71b8519375f",
+        "sha1": "b053ef0e72078705923c65cfa592ba4c67abc955",
+        "crc32": "7c462fee"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 79).bin",
+      "filesize": 2137968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fdacb9dccec0d12ff46aa0e733171de3",
+        "sha1": "417ea8cedcd35f78c51a57bb459aaffefb27ffe6",
+        "crc32": "5822a09b"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 80).bin",
+      "filesize": 1387680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74c689f513755cc5842c2e3e1a76484b",
+        "sha1": "d76149cb153666dc7c4b2f554ea82744c1b4615a",
+        "crc32": "da5a8cdc"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 81).bin",
+      "filesize": 5941152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c8d20de08c472e7d066b42fffd8e404",
+        "sha1": "d406a6b9e867886db41e94c43d968e5612fa0c8b",
+        "crc32": "42598887"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 82).bin",
+      "filesize": 6505632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "90c2696a6a2178dc2c02d4ca52a03cf8",
+        "sha1": "7f373b864b5d857bcc9837a2a53f8d61f88303f5",
+        "crc32": "71f52b20"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 83).bin",
+      "filesize": 1432368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd942dacee014c4566e2ad5dc466c3d4",
+        "sha1": "e431991262c9aff7d05f958cc2be8159594af0c7",
+        "crc32": "d5afb8a2"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 84).bin",
+      "filesize": 1253616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5de78eaf19e5c10075b8cc66aea42494",
+        "sha1": "8f6156f0a4c1348aea767770d3ffdc0a86a29515",
+        "crc32": "9fc382ca"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 85).bin",
+      "filesize": 2711856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a5880e32a5861b3af726c9db1cd5b16",
+        "sha1": "84ae96e99bf8c5e9cf51faa163a007c37e920b82",
+        "crc32": "6410ed7b"
+      }
+    },
+    {
+      "filename": "Noddy's Magic Adventure (Europe) (En,Fr) (Track 86).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

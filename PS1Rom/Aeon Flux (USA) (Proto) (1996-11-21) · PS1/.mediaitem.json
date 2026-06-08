@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Aeon Flux (USA) (Proto) (1996-11-21)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Aeon Flux (USA) (Proto) (1996-11-21).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d785127d8c53237301a374878c54bf6b",
+        "sha1": "9d155473f668801079d4b6d018cb7f9815cef0fb",
+        "crc32": "8994454b"
+      }
+    },
+    {
+      "filename": "Aeon Flux (USA) (Proto) (1996-11-21).bin",
+      "filesize": 8796480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1cb7fd5f9a9fef46f78a6f43f4bd2fa",
+        "sha1": "b30f7c6822ab66594e952c138bed7b38bb83d155",
+        "crc32": "c3c19ee2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mona & Moki 1 - Drive Me Wild! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mona & Moki 1 - Drive Me Wild! (USA).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee9197bef5cba2f4892f4b735aaed82d",
+        "sha1": "c8328dcde2a242eb80c5f66a3422e19d0900fb06",
+        "crc32": "b58612ee"
+      }
+    },
+    {
+      "filename": "Mona & Moki 1 - Drive Me Wild! (USA).bin",
+      "filesize": 408288384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc61f283dd782c74cbdd186544dea79c",
+        "sha1": "ef1253f566d1063839c09abc1a45bb4aba6afae2",
+        "crc32": "a830be49"
+      }
+    }
+  ]
+}

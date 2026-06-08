@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Juggernaut - Senritsu no Tobira (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Juggernaut - Senritsu no Tobira (Japan) (Disc 2).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8a7258843e876b4ec734d091c4986acb",
+        "sha1": "9143400d0182b0e0409421d5f7dbe1ccea5bb85c",
+        "crc32": "d202218d"
+      }
+    },
+    {
+      "filename": "Juggernaut - Senritsu no Tobira (Japan) (Disc 2).bin",
+      "filesize": 714088368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f48bf57a435f8159e15e798f2bef93b9",
+        "sha1": "81cf035b584b1c173cc131795f06759790a17334",
+        "crc32": "34f68012"
+      }
+    }
+  ]
+}

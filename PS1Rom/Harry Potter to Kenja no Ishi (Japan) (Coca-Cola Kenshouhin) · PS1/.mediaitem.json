@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harry Potter to Kenja no Ishi (Japan) (Coca-Cola Kenshouhin)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harry Potter to Kenja no Ishi (Japan) (Coca-Cola Kenshouhin).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "237e8f6e133d68b05175206f3042d7eb",
+        "sha1": "2507a3c1bf1be72d15c83ab2c205682b9a6139a5",
+        "crc32": "72bb3723"
+      }
+    },
+    {
+      "filename": "Harry Potter to Kenja no Ishi (Japan) (Coca-Cola Kenshouhin).bin",
+      "filesize": 466613280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6f21321ca9087210c2d28ec95d0896e",
+        "sha1": "0d26af68276235f4953bc145ebb32390adc9cff1",
+        "crc32": "40dd3ad7"
+      }
+    }
+  ]
+}

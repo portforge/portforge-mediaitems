@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Civizard - Majutsu no Keifu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Civizard - Majutsu no Keifu (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a837064fdb09a439028b6bf69d8f18c",
+        "sha1": "be0e35c1b399d59519b1565b6901d5d025f7d07d",
+        "crc32": "42681771"
+      }
+    },
+    {
+      "filename": "Civizard - Majutsu no Keifu (Japan).bin",
+      "filesize": 382145904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13b59594ec069d6520b5aa6b9d6301d1",
+        "sha1": "3f596bb25197d4c37dcec45812fce36addcccfb9",
+        "crc32": "a9055b75"
+      }
+    }
+  ]
+}

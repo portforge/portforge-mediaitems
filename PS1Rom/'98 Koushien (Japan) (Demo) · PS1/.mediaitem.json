@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "'98 Koushien (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "'98 Koushien (Japan) (Demo).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba3aedf4b27af49f6761cd000817f6a8",
+        "sha1": "9d667ca1e3e166b6f395efb6a27f6e812eb08b57",
+        "crc32": "6ab3e4ce"
+      }
+    },
+    {
+      "filename": "'98 Koushien (Japan) (Demo).bin",
+      "filesize": 443733024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0aa29df886d9f4f3ec5340bdd3b4f3be",
+        "sha1": "6bdd288b5768bdbd2f0f345f77dd6c283bb7ec47",
+        "crc32": "6af29073"
+      }
+    }
+  ]
+}

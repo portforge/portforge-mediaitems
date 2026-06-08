@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Youchien Gaiden - Karei naru Casino Club - Double Draw (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Youchien Gaiden - Karei naru Casino Club - Double Draw (Japan).cue",
+      "filesize": 294,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5174ced6e574d1834e6e6f5d82a56b2",
+        "sha1": "2cc413db9f991267d38e43d823fe8941da749d73",
+        "crc32": "ae779deb"
+      }
+    },
+    {
+      "filename": "Youchien Gaiden - Karei naru Casino Club - Double Draw (Japan) (Track 1).bin",
+      "filesize": 380370144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "368fcc693cda1aa622741a11ca29090d",
+        "sha1": "a14307d17ec3e9651ba0245f78ab9f168ad0672e",
+        "crc32": "014888c8"
+      }
+    },
+    {
+      "filename": "Youchien Gaiden - Karei naru Casino Club - Double Draw (Japan) (Track 2).bin",
+      "filesize": 32109504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eebc5927d7afe9ce8ac003e7f37fbe93",
+        "sha1": "0bd43fbb148a3c048a59411b4f7633aa27e7280d",
+        "crc32": "d6082695"
+      }
+    }
+  ]
+}

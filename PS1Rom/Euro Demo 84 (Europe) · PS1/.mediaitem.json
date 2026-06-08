@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 84 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 84 (Europe).cue",
+      "filesize": 672,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cf295526d85f75f3df789ce89819a56",
+        "sha1": "7d0926dbaafbe6f8efcbefa50fbd2f5831f588c4",
+        "crc32": "50157068"
+      }
+    },
+    {
+      "filename": "Euro Demo 84 (Europe) (Track 1).bin",
+      "filesize": 531483792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bcd26e29c8cc5481abb2f5b205c2cd02",
+        "sha1": "915de9100227ebc535ecdc14b38105708e7229e0",
+        "crc32": "75a750d8"
+      }
+    },
+    {
+      "filename": "Euro Demo 84 (Europe) (Track 2).bin",
+      "filesize": 17969280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09bf451859ec11852c77c00b22511068",
+        "sha1": "52c5832481db4f42626447571261ed0b8ca56cdc",
+        "crc32": "904d228c"
+      }
+    },
+    {
+      "filename": "Euro Demo 84 (Europe) (Track 3).bin",
+      "filesize": 19465152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19f123181f7a6ae0487cccd2a3fb4b1f",
+        "sha1": "693c7ea3b336438738a07345290a22d465f3b371",
+        "crc32": "fad5f6a3"
+      }
+    },
+    {
+      "filename": "Euro Demo 84 (Europe) (Track 4).bin",
+      "filesize": 37843680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6579dbdcd0735d224d90af44596c1138",
+        "sha1": "4f00e41bd4b905f505ad81965f950576ceecb00f",
+        "crc32": "e64dfa3e"
+      }
+    },
+    {
+      "filename": "Euro Demo 84 (Europe) (Track 5).bin",
+      "filesize": 11108496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c428a8c01d52e7e212d5d0c312ed7030",
+        "sha1": "ec4d964a02cabfe5495e1e2c12f015a994ca27b4",
+        "crc32": "cee746b5"
+      }
+    },
+    {
+      "filename": "Euro Demo 84 (Europe) (Track 6).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

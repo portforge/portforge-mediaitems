@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224).cue",
+      "filesize": 876,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2970de7b37e570f53ab8b158e3d74b1",
+        "sha1": "e1e7ac9cb85e1c0dd61bfc2200718b9968f0a37a",
+        "crc32": "0d449109"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224) (Track 1).bin",
+      "filesize": 481776624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fabae96db819b29460028fa58bddebb",
+        "sha1": "61d6e03262fc968bb6ba68325b5f376f718bdc16",
+        "crc32": "33b8856c"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224) (Track 2).bin",
+      "filesize": 20638800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e54b50a212ce5f0bffd81b3dab4b4dfa",
+        "sha1": "0ae38ac597d87c6b50670c1abf4681831c2222de",
+        "crc32": "70c90f37"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224) (Track 3).bin",
+      "filesize": 31897824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abd8f670c1b9a0d7efe03cf3639135ac",
+        "sha1": "85c9b4ab85a844c7803ebc0f1aae9b68dc7ad547",
+        "crc32": "83ba448b"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224) (Track 4).bin",
+      "filesize": 7585200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f484825f8ebac056dadac9acf483048",
+        "sha1": "87cd61c26d8c4b72918c576411084c37697760fa",
+        "crc32": "70b5ea80"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224) (Track 5).bin",
+      "filesize": 11649456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6376b7df349d00dd9464be2c9c55a304",
+        "sha1": "335e772113b532d29e4961825c3af6b5fcbfcf63",
+        "crc32": "71a35c7b"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Disk Volume 5 (USA) (SCUS-94224) (Track 6).bin",
+      "filesize": 10750992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c753c43ce81efd8e772daf923fa8c39",
+        "sha1": "fca09012c6238f766e52b133ecc0f38a79ba417d",
+        "crc32": "f721fde1"
+      }
+    }
+  ]
+}

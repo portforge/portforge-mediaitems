@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RPG Tkool 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RPG Tkool 3 (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf7e1ea9bd4c8c2afa8fc5d3a86cca5d",
+        "sha1": "0ad333c24c80c5c352c86d6710279fee845d7b05",
+        "crc32": "8185d57b"
+      }
+    },
+    {
+      "filename": "RPG Tkool 3 (Japan).bin",
+      "filesize": 70999824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cac484754ed0a7ac1e5822906083005b",
+        "sha1": "8003694773efe7bd066696e420e2a745e27f0cb7",
+        "crc32": "9bfb9010"
+      }
+    }
+  ]
+}

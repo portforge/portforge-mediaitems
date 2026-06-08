@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chou Mashin Eiyuuden Wataru - Another Step (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chou Mashin Eiyuuden Wataru - Another Step (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83e21caa538578142a265439720eeed1",
+        "sha1": "f97d58af809c486a070cc13f27d786014e0b9282",
+        "crc32": "32ba846e"
+      }
+    },
+    {
+      "filename": "Chou Mashin Eiyuuden Wataru - Another Step (Japan).bin",
+      "filesize": 486099600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "74eab1dba095ccfdb3943b2539ca8456",
+        "sha1": "c2c044d17f5235ff8a419d554b2dd3ab82db2161",
+        "crc32": "b1bfdf2b"
+      }
+    }
+  ]
+}

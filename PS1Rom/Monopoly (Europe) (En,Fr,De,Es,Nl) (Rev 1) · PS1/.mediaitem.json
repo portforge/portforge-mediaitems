@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monopoly (Europe) (En,Fr,De,Es,Nl) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monopoly (Europe) (En,Fr,De,Es,Nl) (Rev 1).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6256cdb31d66d67838b841152e31addc",
+        "sha1": "695504074e7c8ceffd76d587a869247b973e5838",
+        "crc32": "3fee0845"
+      }
+    },
+    {
+      "filename": "Monopoly (Europe) (En,Fr,De,Es,Nl) (Rev 1) (Track 1).bin",
+      "filesize": 365510208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98b8ddb582ea5dec1456d44981ee21de",
+        "sha1": "6a6c5e10e94a87762c6c7d699e4ca60aa12707d6",
+        "crc32": "86521972"
+      }
+    },
+    {
+      "filename": "Monopoly (Europe) (En,Fr,De,Es,Nl) (Rev 1) (Track 2).bin",
+      "filesize": 55370784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d53fd98d655afa2bf3415009778a0381",
+        "sha1": "db9665b8b20651e93c3f723b0e1c7c5af31a0977",
+        "crc32": "a36cda9d"
+      }
+    }
+  ]
+}

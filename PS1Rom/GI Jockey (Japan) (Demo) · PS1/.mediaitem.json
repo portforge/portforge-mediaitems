@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GI Jockey (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GI Jockey (Japan) (Demo).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec4e7be70691459a9cf102858fae0440",
+        "sha1": "3b3742d3e8f671f1ce4d0d3cd57a918ef959039b",
+        "crc32": "f36ac72b"
+      }
+    },
+    {
+      "filename": "GI Jockey (Japan) (Demo) (Track 1).bin",
+      "filesize": 281682576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a92b9a7ed28bb6883102807a7e383b51",
+        "sha1": "578a34e0bd720e02c0d9d93018b2bde146979a11",
+        "crc32": "af64bb7f"
+      }
+    },
+    {
+      "filename": "GI Jockey (Japan) (Demo) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cfa9a3271a784752d63afc8dfe97a40",
+        "sha1": "9eeaa933734dad68cc5f9d0b04be97e7f8f00c27",
+        "crc32": "40b6715d"
+      }
+    }
+  ]
+}

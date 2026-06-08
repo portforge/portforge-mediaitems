@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mobile Armor (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mobile Armor (USA).cue",
+      "filesize": 1338,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d3e7ec4aff2fa07c264af9dab52c017",
+        "sha1": "11730504b6dcf183e310524a83b0c9a28a90c267",
+        "crc32": "b31cea92"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 01).bin",
+      "filesize": 19658016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d58ab5495339a975f16b7b2a28c69673",
+        "sha1": "1a5d2424e1bdea63d84ea74b541d807669deb2b7",
+        "crc32": "2c6d19c6"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 02).bin",
+      "filesize": 63960288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f922996b3705f7ba599ded7f01fa748",
+        "sha1": "e9a1efc021d383328ed7fe99343483e9ea4279b9",
+        "crc32": "80adcbb1"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 03).bin",
+      "filesize": 62932464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "877cb98a0cd19411466b1a3534bbd975",
+        "sha1": "36cb3221527dc0ff8786c44a95335c95e07c7d32",
+        "crc32": "3a9f48f5"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 04).bin",
+      "filesize": 63875616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46252a3910a4fc2953d450a51fc06b84",
+        "sha1": "c0200f50f44a4fe5fbca3d92073dfbd4efe38e66",
+        "crc32": "af145289"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 05).bin",
+      "filesize": 64007328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19e0141768e9098ea9be3d4f67eac030",
+        "sha1": "efafd65949cb0bd47966bcb1a465965512d224ae",
+        "crc32": "476efbc6"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 06).bin",
+      "filesize": 63901488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea3e62647e3553332cfcb4e21e598a20",
+        "sha1": "21c9fa690803a4b5a9d4f2f5a7954d3a5dc87203",
+        "crc32": "d7fc88f9"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 07).bin",
+      "filesize": 63943824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "81029cee24c43fd7955892330c1aed82",
+        "sha1": "75832a971d10c1e16bde2af63bc91fcc8b918a19",
+        "crc32": "6def4afb"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 08).bin",
+      "filesize": 21579600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d544882e164dd3d83101d1362d52cac",
+        "sha1": "4a2570bf9ce924013f40a7503fec864be3253159",
+        "crc32": "87de23e3"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 09).bin",
+      "filesize": 2535456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5b3fab98ea13c9bfac082923ce9e716",
+        "sha1": "82c48ef4af100911f7e1e8d7f53c9f40d6fff9a8",
+        "crc32": "089a4110"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 10).bin",
+      "filesize": 63894432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecfdb3404bf5e92f00a5b3177148912f",
+        "sha1": "3cfaf152ab6ae9fefaf2366d992b279ecbeb9d1c",
+        "crc32": "08da047c"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 11).bin",
+      "filesize": 42582960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ce9eb95be53905ce4b1261c61326967",
+        "sha1": "fa20a0649e733a2f07c31eaded45e2c1ff29c01b",
+        "crc32": "9cba4474"
+      }
+    },
+    {
+      "filename": "Mobile Armor (USA) (Track 12).bin",
+      "filesize": 11477760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd7a77c9ffa79b449d10eefea0036287",
+        "sha1": "7711a900d373f536a46f9502b2bdbbeeeafdba89",
+        "crc32": "4f78e495"
+      }
+    }
+  ]
+}

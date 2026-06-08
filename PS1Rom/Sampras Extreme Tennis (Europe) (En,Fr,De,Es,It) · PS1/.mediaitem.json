@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sampras Extreme Tennis (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sampras Extreme Tennis (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec286ff61709f3f48d0eed8ebbcdaab5",
+        "sha1": "ffa5e6c74928f01e470fce1ed11bf9ca9a574e6d",
+        "crc32": "04480e4e"
+      }
+    },
+    {
+      "filename": "Sampras Extreme Tennis (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 542827488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d94f8440044df03a10e6c42328f8d126",
+        "sha1": "dc8e6781f16207776f33daaeb789cfc27f3ae25b",
+        "crc32": "366fd133"
+      }
+    },
+    {
+      "filename": "Sampras Extreme Tennis (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 41543376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8659c425e967cd360dd0ea245bb626a2",
+        "sha1": "3d6468863690e21f935f9be3ec961f78ba1493d3",
+        "crc32": "c206e837"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fade to Black (USA) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fade to Black (USA) (En,Fr,De,Es,It).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0d34fa4f10742a0724deb2a541aeba3",
+        "sha1": "28eeef911f97bef484834e1676f036b07452251f",
+        "crc32": "79dbdafc"
+      }
+    },
+    {
+      "filename": "Fade to Black (USA) (En,Fr,De,Es,It).bin",
+      "filesize": 617261232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0e6559c00e2510c3d72045bbfae0e14",
+        "sha1": "cdd0ddbe768bcd89a04132b08d050164b3f13794",
+        "crc32": "0f687cd2"
+      }
+    }
+  ]
+}

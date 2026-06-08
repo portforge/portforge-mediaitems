@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a2869cbbde4cf33736b45a6720a591e0",
+        "sha1": "71e4db6d39707c2dac5f4ecb90e0e5c2a47c713f",
+        "crc32": "e595ac8a"
+      }
+    },
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu - Shinobi Hyakusen (Japan).bin",
+      "filesize": 692515824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5706c5e94df903406154917d047ca382",
+        "sha1": "0ab2eba53b50f47a32140ce6193b3950cd0fdc84",
+        "crc32": "8b2c39ab"
+      }
+    }
+  ]
+}

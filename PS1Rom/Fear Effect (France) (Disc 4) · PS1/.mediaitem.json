@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fear Effect (France) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fear Effect (France) (Disc 4).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "532cb3a457c1485573492e1299e85a01",
+        "sha1": "00aaa8d443063e5d7b0a3bddfb75367c5579a276",
+        "crc32": "a571d983"
+      }
+    },
+    {
+      "filename": "Fear Effect (France) (Disc 4).bin",
+      "filesize": 547326864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85074c7be640792f8ac52e1b0f421e25",
+        "sha1": "4e9a7604b0aec02f4e55eb9f39440ef08b06d5f4",
+        "crc32": "4f62c8cf"
+      }
+    }
+  ]
+}

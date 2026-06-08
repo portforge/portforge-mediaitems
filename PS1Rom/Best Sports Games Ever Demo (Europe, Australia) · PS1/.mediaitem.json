@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Best Sports Games Ever Demo (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Best Sports Games Ever Demo (Europe, Australia).cue",
+      "filesize": 546,
+      "ext": "cue",
+      "checksums": {
+        "md5": "403839645650a6abd5448881b62eba1e",
+        "sha1": "e842ccc74a111b4888e67134f7b33c5ec1e821da",
+        "crc32": "9cee0196"
+      }
+    },
+    {
+      "filename": "Best Sports Games Ever Demo (Europe, Australia) (Track 1).bin",
+      "filesize": 675285072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c02c290ea07415255410e2213602705",
+        "sha1": "debf5217e79dd94f5f1ef36b91653b9636936755",
+        "crc32": "f36863bb"
+      }
+    },
+    {
+      "filename": "Best Sports Games Ever Demo (Europe, Australia) (Track 2).bin",
+      "filesize": 1681680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13f9035c85075be444e135a05a511682",
+        "sha1": "0eb15c23dc7ae344823c73865ce9a75d5aa709e3",
+        "crc32": "0d4dae67"
+      }
+    },
+    {
+      "filename": "Best Sports Games Ever Demo (Europe, Australia) (Track 3).bin",
+      "filesize": 1667568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f63f0bda34cd8fd37b58e048b1e80327",
+        "sha1": "aba2f37bbf17638c8df90a9e8a51282f1a846c22",
+        "crc32": "9cd75aa3"
+      }
+    },
+    {
+      "filename": "Best Sports Games Ever Demo (Europe, Australia) (Track 4).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

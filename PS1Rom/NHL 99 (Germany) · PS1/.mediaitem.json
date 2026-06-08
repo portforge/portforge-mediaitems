@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL 99 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL 99 (Germany).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4f41257757e7e7c7e120bc28b92f80e8",
+        "sha1": "f551c852f867d75f2b5422dbc4eb401df1ff649e",
+        "crc32": "1dcb2a93"
+      }
+    },
+    {
+      "filename": "NHL 99 (Germany).bin",
+      "filesize": 575997744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9d067ef23331747cce2222fb5a8b904",
+        "sha1": "603871a164894da16895ede5b73561bfa33c3b31",
+        "crc32": "f17ce8a8"
+      }
+    }
+  ]
+}

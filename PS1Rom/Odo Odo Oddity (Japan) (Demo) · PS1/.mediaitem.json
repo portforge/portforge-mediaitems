@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Odo Odo Oddity (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Odo Odo Oddity (Japan) (Demo).cue",
+      "filesize": 228,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0c8740f1134a81ef2bf9bf0a25d496ce",
+        "sha1": "04ece151c6af946e4c539bc406883f2ec7698a1d",
+        "crc32": "79c28f33"
+      }
+    },
+    {
+      "filename": "Odo Odo Oddity (Japan) (Demo) (Track 1).bin",
+      "filesize": 180365472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f44c847ff6722722246762ba893b1fa8",
+        "sha1": "13db3f8b26f13db0e08639879726e57f32f76372",
+        "crc32": "6b812812"
+      }
+    },
+    {
+      "filename": "Odo Odo Oddity (Japan) (Demo) (Track 2).bin",
+      "filesize": 40256832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f559348310a65f1cacda5f3eed4b4523",
+        "sha1": "8be21bf7eb022bef8c682420763105d48bb75c80",
+        "crc32": "bf75b4aa"
+      }
+    }
+  ]
+}

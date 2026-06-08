@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Timeless Math 6 - Brainswarm (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Timeless Math 6 - Brainswarm (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd8f2b6fd8d9507239463bf8c5784022",
+        "sha1": "57cecf21c2d43a113247473ea7b674f72c18c258",
+        "crc32": "3683b12f"
+      }
+    },
+    {
+      "filename": "Timeless Math 6 - Brainswarm (USA).bin",
+      "filesize": 307199424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c93d6d6e62264a67350d67b77f42740d",
+        "sha1": "39bdb3aa90bacd3fa2bc65d1526a8a70ea0f6dcb",
+        "crc32": "f2b44590"
+      }
+    }
+  ]
+}

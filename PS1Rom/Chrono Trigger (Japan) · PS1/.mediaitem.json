@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chrono Trigger (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chrono Trigger (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "574c63faee5427c5692492530f8617e0",
+        "sha1": "f94c9a2786cf3cb6a2df627107d771707606f31c",
+        "crc32": "1ecf41b1"
+      }
+    },
+    {
+      "filename": "Chrono Trigger (Japan).bin",
+      "filesize": 610367520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0be6248b5164491a4c3c44dd4beba78e",
+        "sha1": "af9a47c3aaf72581c1d57eb23b52b7124e47d429",
+        "crc32": "68d120f1"
+      }
+    }
+  ]
+}

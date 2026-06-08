@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police (Germany) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police (Germany) (Disc 1).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0aa449e6a231c7d2cb11ee8d5fc451b",
+        "sha1": "deabb8a5741caf9f38e0ec377748f9b4f330713e",
+        "crc32": "3db6d04a"
+      }
+    },
+    {
+      "filename": "G-Police (Germany) (Disc 1).bin",
+      "filesize": 714229488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a4dda61de91f3103039be5fcc28dfda",
+        "sha1": "58be1b4fa0306bd071736e6160b229b1d20ec0e0",
+        "crc32": "949f6c60"
+      }
+    }
+  ]
+}

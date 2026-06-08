@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Williams Arcade's Greatest Hits (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Williams Arcade's Greatest Hits (Europe).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5799da2d18b2af3934b951eec77f1376",
+        "sha1": "ec5be15791897b482d5b151f0a7e1cae0267da7f",
+        "crc32": "eb154f18"
+      }
+    },
+    {
+      "filename": "Williams Arcade's Greatest Hits (Europe) (Track 1).bin",
+      "filesize": 324895872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b89de06f41ce3d81159a69fc050f595",
+        "sha1": "25b02e32978daaaf375cb129d70bd367e7f38477",
+        "crc32": "501f35c5"
+      }
+    },
+    {
+      "filename": "Williams Arcade's Greatest Hits (Europe) (Track 2).bin",
+      "filesize": 46094496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "deaee240f989669262ea57df8c076195",
+        "sha1": "2944506b2d756925f7ca947e7076431b6aa4a3c3",
+        "crc32": "3490525b"
+      }
+    }
+  ]
+}

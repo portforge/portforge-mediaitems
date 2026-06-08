@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yuusha-ou GaoGaiGar - Blockaded Numbers (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yuusha-ou GaoGaiGar - Blockaded Numbers (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5e9eae54b29a3c9c3596d1344e44952d",
+        "sha1": "4d28b505e3c5a068930b7d1dba2fb64f5f6d89e0",
+        "crc32": "a0cab3e7"
+      }
+    },
+    {
+      "filename": "Yuusha-ou GaoGaiGar - Blockaded Numbers (Japan).bin",
+      "filesize": 708417696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6d5344e658121ccf52d44b2a2a4ee83",
+        "sha1": "a027204638f1b4e60fd2e6ff23db6717756a433b",
+        "crc32": "056a3944"
+      }
+    }
+  ]
+}

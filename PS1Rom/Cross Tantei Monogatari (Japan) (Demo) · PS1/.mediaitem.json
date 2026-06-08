@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cross Tantei Monogatari (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cross Tantei Monogatari (Japan) (Demo).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e5f8272b076943d16a31ad8323002e2f",
+        "sha1": "b1a2b0f085cfc1783c4ef5899d91b0f789e02e7f",
+        "crc32": "bd6b016e"
+      }
+    },
+    {
+      "filename": "Cross Tantei Monogatari (Japan) (Demo).bin",
+      "filesize": 437514336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7ccf025f7877e0a7062fc302e1f2f61",
+        "sha1": "673f7ea585a884a04db49c8263a32dc284a8bffa",
+        "crc32": "5438a1ed"
+      }
+    }
+  ]
+}

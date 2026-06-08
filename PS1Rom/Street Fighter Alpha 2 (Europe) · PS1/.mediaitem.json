@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter Alpha 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter Alpha 2 (Europe).cue",
+      "filesize": 237,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5900cea33f8eb6b317d637cf05269846",
+        "sha1": "38f14d6089d6ad77e2482b1dca38d78fb8e00f3a",
+        "crc32": "209bf457"
+      }
+    },
+    {
+      "filename": "Street Fighter Alpha 2 (Europe) (Track 1).bin",
+      "filesize": 569964864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa1232cb0078928397fb1608d6feb192",
+        "sha1": "3f964a76696fe861192dd8e86634aa274a048a02",
+        "crc32": "62ce06c2"
+      }
+    },
+    {
+      "filename": "Street Fighter Alpha 2 (Europe) (Track 2).bin",
+      "filesize": 43248576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e329384f10444b52639721e55b58873",
+        "sha1": "7c0855813c085e4f3d66550503512fcf0a0e2db8",
+        "crc32": "b05b0cc4"
+      }
+    }
+  ]
+}

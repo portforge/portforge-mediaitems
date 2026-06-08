@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Egypte 1156 AV. J.-C. - L'Enigme de la Tombe Royale (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Egypte 1156 AV. J.-C. - L'Enigme de la Tombe Royale (France).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "569c04da2afb91ca7c64245d6db8af13",
+        "sha1": "a7d8212ccf21c6950ec88a765412a4dac03216f6",
+        "crc32": "27ef3d78"
+      }
+    },
+    {
+      "filename": "Egypte 1156 AV. J.-C. - L'Enigme de la Tombe Royale (France).bin",
+      "filesize": 650243328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ae90c9d892ac8f999be4e41885cdca1",
+        "sha1": "03a7cab864397bbc4bc628c5f8e58526bbc0e168",
+        "crc32": "bf6c4604"
+      }
+    }
+  ]
+}

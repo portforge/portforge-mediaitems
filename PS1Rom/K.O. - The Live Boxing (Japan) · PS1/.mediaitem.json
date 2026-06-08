@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "K.O. - The Live Boxing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "K.O. - The Live Boxing (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c5ee0f817608421acfc6294d6ef544f",
+        "sha1": "f650d037dfb78f1e9549e8e13cad7b238b85df87",
+        "crc32": "496a6ddd"
+      }
+    },
+    {
+      "filename": "K.O. - The Live Boxing (Japan).bin",
+      "filesize": 197401008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d860568af47fc474904ce1d3e533bf7",
+        "sha1": "b6fe5d4a501b0d1e0e4ed97e73319cb0a750f394",
+        "crc32": "cddf9b71"
+      }
+    }
+  ]
+}

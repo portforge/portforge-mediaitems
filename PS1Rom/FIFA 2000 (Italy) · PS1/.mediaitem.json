@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 2000 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 2000 (Italy).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "846825fb2f8723be9e9531e9f190120e",
+        "sha1": "436ab41d9317110e24e9429d835e00b46c0fef5b",
+        "crc32": "3734b4bf"
+      }
+    },
+    {
+      "filename": "FIFA 2000 (Italy).bin",
+      "filesize": 506851296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c739000f76a75091342784399fa8c5e4",
+        "sha1": "527035b2e2d2331e3ba07c138c70d31b08e507b0",
+        "crc32": "94c76a0b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arcade Gears - ImageFight & XMultiply (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arcade Gears - ImageFight & XMultiply (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9202edbf092cf1c4cf57a0e67cebc0c0",
+        "sha1": "1dbf237917eb5845962f6fa012fd412187374769",
+        "crc32": "f3411362"
+      }
+    },
+    {
+      "filename": "Arcade Gears - ImageFight & XMultiply (Japan).bin",
+      "filesize": 423150672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aaec9f1b347e6cafb60d89d1f8afb134",
+        "sha1": "fc44f4f95a76c6e2473ea208d5a91ca14328fb54",
+        "crc32": "a06ab970"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tales of Eternia (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tales of Eternia (Japan) (Disc 1).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "77f5fbdbc0de49f9115758d32525e11c",
+        "sha1": "014e3bff59cd0c78c92c7dbfa190c7e367499294",
+        "crc32": "0c32fb9f"
+      }
+    },
+    {
+      "filename": "Tales of Eternia (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 664047216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71a30d58b8318aebcc70b6aac04f4f53",
+        "sha1": "01f11aa1349ec408f040318862908499fbf4e30c",
+        "crc32": "1e391b43"
+      }
+    },
+    {
+      "filename": "Tales of Eternia (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 32123616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f11b920d249bcbd76627f50135bea466",
+        "sha1": "773a46c3e786999c4ede2b728b480f8c5e7765c6",
+        "crc32": "2120b2da"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Timeless Math 2 - Maya, Observatory (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Timeless Math 2 - Maya, Observatory (USA).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "475c1811b14deec640fbd694d2afb4fe",
+        "sha1": "82bb44c408741c7be6a36945f5e9941b5e34dc69",
+        "crc32": "996366cb"
+      }
+    },
+    {
+      "filename": "Timeless Math 2 - Maya, Observatory (USA).bin",
+      "filesize": 483665280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1c8d63be712d6e0844bfa8bc7f3968a",
+        "sha1": "8b9c0a6391c8f4a3fc45ff38b2c59ea48a8e02f3",
+        "crc32": "4c56007b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar A Bug's Life - Megaminimondo (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar A Bug's Life - Megaminimondo (Italy).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "81c5087442c6605ac0ec4caddc313a23",
+        "sha1": "e8cc333a50d605e11da485f401ff3931683fe062",
+        "crc32": "e84b4a7e"
+      }
+    },
+    {
+      "filename": "Disney-Pixar A Bug's Life - Megaminimondo (Italy).bin",
+      "filesize": 738248112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d6bc93ae5a137210bcfa12d07663b25",
+        "sha1": "f70b32ba0fa8069516ca2b473ac2a63904a6fbe9",
+        "crc32": "82128c66"
+      }
+    }
+  ]
+}

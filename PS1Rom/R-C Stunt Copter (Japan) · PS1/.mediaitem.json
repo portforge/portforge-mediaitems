@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "R-C Stunt Copter (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "R-C Stunt Copter (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd28cb2ceb4108948aa9c2c0178343cf",
+        "sha1": "91421426eed16b929485453725fb88c5bdec064c",
+        "crc32": "aad07534"
+      }
+    },
+    {
+      "filename": "R-C Stunt Copter (Japan).bin",
+      "filesize": 688418640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e99d99871b8d588407c5217b90990d",
+        "sha1": "8405e239877475bc667a648a860615e83e09df60",
+        "crc32": "3f8ae7f3"
+      }
+    }
+  ]
+}

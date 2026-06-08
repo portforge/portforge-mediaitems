@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Squaresoft on PlayStation 2000 Collector's CD Vol. 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Squaresoft on PlayStation 2000 Collector's CD Vol. 3 (USA).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a8b5ba8727698c918ff1e6bd794fef4e",
+        "sha1": "8435c7f81ba57d5fcbb56a268bc752eeffa0c7fd",
+        "crc32": "777ae73a"
+      }
+    },
+    {
+      "filename": "Squaresoft on PlayStation 2000 Collector's CD Vol. 3 (USA).bin",
+      "filesize": 528842496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f30f88d0ce71decb8d8346e571f35f2",
+        "sha1": "dbaebcbc96ef25dcbdc05faa32b8541d3988c308",
+        "crc32": "f88c5a12"
+      }
+    }
+  ]
+}

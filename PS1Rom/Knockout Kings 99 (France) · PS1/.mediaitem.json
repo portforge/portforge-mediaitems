@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Knockout Kings 99 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Knockout Kings 99 (France).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd7b9b5453abee18ec5ab9e8ce621abb",
+        "sha1": "12a6bff5dc519ff587461510f42b4b45b5c62c55",
+        "crc32": "1bb44aba"
+      }
+    },
+    {
+      "filename": "Knockout Kings 99 (France).bin",
+      "filesize": 297455088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "edd154fab9184e1a64ab7bca67b1aadf",
+        "sha1": "7681bace547c9a22d2c32900d9219de4dc23709a",
+        "crc32": "97c83bc1"
+      }
+    }
+  ]
+}

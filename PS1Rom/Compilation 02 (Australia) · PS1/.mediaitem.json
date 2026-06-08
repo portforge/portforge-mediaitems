@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Compilation 02 (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Compilation 02 (Australia).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df5ea18b3377bd2026ca43c7357291b8",
+        "sha1": "a826dbf181b586917e43559561faee851127a446",
+        "crc32": "24007d1d"
+      }
+    },
+    {
+      "filename": "Compilation 02 (Australia) (Track 1).bin",
+      "filesize": 310407552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9037f56c2bb8a7c4564e460483e20608",
+        "sha1": "eb779a0cd7932908144d92f6a47664b89365483a",
+        "crc32": "555eb551"
+      }
+    },
+    {
+      "filename": "Compilation 02 (Australia) (Track 2).bin",
+      "filesize": 54542880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bff0d0d4b5bbc803692a51ae5e5ab9a8",
+        "sha1": "fe4c9aa7d564a5307989487e57222e8c620e7c5e",
+        "crc32": "326c3ead"
+      }
+    },
+    {
+      "filename": "Compilation 02 (Australia) (Track 3).bin",
+      "filesize": 32283552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37f1e6978286963e9261771316b53e52",
+        "sha1": "dae1885b5ac8f7aea2f5466b9be268aa8f399e66",
+        "crc32": "b516c80d"
+      }
+    }
+  ]
+}

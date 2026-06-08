@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Broken Helix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Broken Helix (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "923811e5934b4dd7121cb3206ad735e6",
+        "sha1": "82d567fbaeae86cdf7776ec4a6e965941d3732ef",
+        "crc32": "b79b77b0"
+      }
+    },
+    {
+      "filename": "Broken Helix (Japan).bin",
+      "filesize": 720506976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed0603a948770175777a856a25934132",
+        "sha1": "e58e82403e505b9d9d92efee6f083222b7926aef",
+        "crc32": "8facd30a"
+      }
+    }
+  ]
+}

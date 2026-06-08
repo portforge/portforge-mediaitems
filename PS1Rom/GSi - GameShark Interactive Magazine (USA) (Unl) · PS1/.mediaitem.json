@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GSi - GameShark Interactive Magazine (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GSi - GameShark Interactive Magazine (USA) (Unl).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "528d5f4b48434ad7a52e644aed786775",
+        "sha1": "48a52b803bb816e475690e4d383cae7f990c0fb4",
+        "crc32": "5b5af5cc"
+      }
+    },
+    {
+      "filename": "GSi - GameShark Interactive Magazine (USA) (Unl).bin",
+      "filesize": 574219632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a822912c7b45f2274f73d6bfa99395ae",
+        "sha1": "145eeb0b0f9d61a393391053b73ba152e8c083ad",
+        "crc32": "894b0d73"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Point Blank (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Point Blank (Europe) (En,Fr,De).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8eefcbbb035dbb3b0e53d94eb33e4b62",
+        "sha1": "5bc4790e0392fa60031292d650018bf211e5b8fa",
+        "crc32": "8b0dcfbb"
+      }
+    },
+    {
+      "filename": "Point Blank (Europe) (En,Fr,De).bin",
+      "filesize": 304520496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43d6d4ad01d0ccfd45721d9ce2efe864",
+        "sha1": "6e92977f54cc97ffc8fbd654ca1a517dcb488969",
+        "crc32": "7c964854"
+      }
+    }
+  ]
+}

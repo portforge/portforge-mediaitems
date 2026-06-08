@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).cue",
+      "filesize": 924,
+      "ext": "cue",
+      "checksums": {
+        "md5": "812df4868c144e218e9c908a6d544ace",
+        "sha1": "8e82949ef8c54de5268c5833a2fd953a62eb4e34",
+        "crc32": "150de5e2"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 1).bin",
+      "filesize": 77427840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac121918703702d20f0df14c9fcca39e",
+        "sha1": "0ba8b530f37019ce015fa95bd34387476559e66a",
+        "crc32": "5cd77256"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 2).bin",
+      "filesize": 31215744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4bd28845dcab2fb70b8ceb86d44d0f6",
+        "sha1": "0e4d985f538b50c9f827f8f7435e9116183a889e",
+        "crc32": "b0c125ce"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 3).bin",
+      "filesize": 11195520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b217efa46fa58c275ff744b00d474ac8",
+        "sha1": "55072ed96733f45c087bd4d473ed2b786e225b88",
+        "crc32": "b40bf274"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 4).bin",
+      "filesize": 27125616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6da012f0156f337c2bd50544411a9ded",
+        "sha1": "a96dd1cdd330170eb03884a4c6b32320a1be46bd",
+        "crc32": "a0de1b59"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 5).bin",
+      "filesize": 11336640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e44baec5f22206e3b63a23ebfbb1aa5f",
+        "sha1": "43a6d9c542b44a2404794944e96dfb06cfc4a00a",
+        "crc32": "fa389587"
+      }
+    },
+    {
+      "filename": "Hugo - Frog Fighter (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Track 6).bin",
+      "filesize": 36891120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98abe0a2b9a38f069f92ffa34cdc3f88",
+        "sha1": "79fa6d25dc761dae00e3d541b368fe756b09755e",
+        "crc32": "cb288cc9"
+      }
+    }
+  ]
+}

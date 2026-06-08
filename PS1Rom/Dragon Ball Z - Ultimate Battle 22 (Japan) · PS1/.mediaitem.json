@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Ball Z - Ultimate Battle 22 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Ball Z - Ultimate Battle 22 (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0421d864e6e720cd3d31cbc7d4b2167",
+        "sha1": "f089a741df8f0c86bfb863f9c1f34ff3abd4efd2",
+        "crc32": "ad23f343"
+      }
+    },
+    {
+      "filename": "Dragon Ball Z - Ultimate Battle 22 (Japan).bin",
+      "filesize": 335651568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c7125d57ca20d4278de4dde4172f794",
+        "sha1": "3c02c117f2821984e3a86ba324614c89ef0312cf",
+        "crc32": "f7e3c12b"
+      }
+    }
+  ]
+}

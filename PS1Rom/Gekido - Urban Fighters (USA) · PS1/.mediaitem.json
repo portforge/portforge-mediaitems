@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gekido - Urban Fighters (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gekido - Urban Fighters (USA).cue",
+      "filesize": 843,
+      "ext": "cue",
+      "checksums": {
+        "md5": "826d6e4dee0a12b51de4823c03bbd637",
+        "sha1": "d7602b14639116569351508ea347e342959a63b6",
+        "crc32": "3f78bf2e"
+      }
+    },
+    {
+      "filename": "Gekido - Urban Fighters (USA) (Track 1).bin",
+      "filesize": 69111168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "617c9963b0471a9e77096f2d60123fe2",
+        "sha1": "009d0cab7c0682ce8f159d7447abb59528da32e5",
+        "crc32": "1f000742"
+      }
+    },
+    {
+      "filename": "Gekido - Urban Fighters (USA) (Track 2).bin",
+      "filesize": 13566336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d634679ee20e87646dbec03a50878081",
+        "sha1": "aefca95d1c99b3656abd0eef62b266322b5d2bc3",
+        "crc32": "f33ac801"
+      }
+    },
+    {
+      "filename": "Gekido - Urban Fighters (USA) (Track 3).bin",
+      "filesize": 33849984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b3691870344c2252fd5d487ab4e8d8d",
+        "sha1": "b1e696547b471f8b5f3b96352c812853439269ce",
+        "crc32": "e86b6563"
+      }
+    },
+    {
+      "filename": "Gekido - Urban Fighters (USA) (Track 4).bin",
+      "filesize": 36797040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c679b7704d72539a5f62a3c7c1213630",
+        "sha1": "8403e5f9564d25505b20832644f2846fb0f7924e",
+        "crc32": "1bc07855"
+      }
+    },
+    {
+      "filename": "Gekido - Urban Fighters (USA) (Track 5).bin",
+      "filesize": 89691168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abeba0eaa9b9461b66340d1b09d81a86",
+        "sha1": "b3c2d5dfbf6624c1e93de73a008d5476298ed531",
+        "crc32": "24886588"
+      }
+    },
+    {
+      "filename": "Gekido - Urban Fighters (USA) (Track 6).bin",
+      "filesize": 56502096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50fa7d577bb0e526f3c4b851d2f1f5bf",
+        "sha1": "4b07dfedf0bda719c314354b71b0452384c1cd85",
+        "crc32": "3b898cb8"
+      }
+    },
+    {
+      "filename": "Gekido - Urban Fighters (USA) (Track 7).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40aeb8264b3df6c7f919be0a1ea6e631",
+        "sha1": "51c17891ed806636f7b53aeec285c89b3da20059",
+        "crc32": "4669cc80"
+      }
+    }
+  ]
+}

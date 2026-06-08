@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneyn Keisarin Uudet Kuviot (Finland)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneyn Keisarin Uudet Kuviot (Finland).cue",
+      "filesize": 253,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e01d92365093e588ed8cea8340be56ea",
+        "sha1": "8f421f2f8b82bddeac605483879680b25dbe3956",
+        "crc32": "da032e3a"
+      }
+    },
+    {
+      "filename": "Disneyn Keisarin Uudet Kuviot (Finland) (Track 1).bin",
+      "filesize": 624545376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e91375f56a58b9abeac5761dcd079dc",
+        "sha1": "e83ea21b29ebbae56447967abeaad33ff8b0ed11",
+        "crc32": "9d451399"
+      }
+    },
+    {
+      "filename": "Disneyn Keisarin Uudet Kuviot (Finland) (Track 2).bin",
+      "filesize": 37460304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ab3a3accf4fcfbdbf2cc2b7cc50dd0c9",
+        "sha1": "0acfcc07e011aed6a36331ca9174b429cdaeef17",
+        "crc32": "16e4bb6b"
+      }
+    }
+  ]
+}

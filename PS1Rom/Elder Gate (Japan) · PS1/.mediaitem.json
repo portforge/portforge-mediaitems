@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Elder Gate (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Elder Gate (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d437176b5be4f3b2ae866876b0d22e1f",
+        "sha1": "391873bfabbc59ed4ac454818264205264c4b59a",
+        "crc32": "22ec1035"
+      }
+    },
+    {
+      "filename": "Elder Gate (Japan).bin",
+      "filesize": 283013808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "85bb1f11b105a9b0cc121c1601ffee31",
+        "sha1": "3e06e3d5ee512140b0505cb8ef57791b637adbb2",
+        "crc32": "f793fdba"
+      }
+    }
+  ]
+}

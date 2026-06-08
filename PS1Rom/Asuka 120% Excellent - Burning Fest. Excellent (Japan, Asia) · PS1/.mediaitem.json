@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia).cue",
+      "filesize": 290,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d49abe735872d98d9a5ca6dae0d33220",
+        "sha1": "ea9e699de9a6221fea63663f2685b2fd518f3afa",
+        "crc32": "45348444"
+      }
+    },
+    {
+      "filename": "Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia) (Track 1).bin",
+      "filesize": 365169168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a888fca64ba197d52335eaef1be01ed",
+        "sha1": "0e5f3b070c33ecf81da5b010e0be4caad543c206",
+        "crc32": "6a2e320a"
+      }
+    },
+    {
+      "filename": "Asuka 120% Excellent - Burning Fest. Excellent (Japan, Asia) (Track 2).bin",
+      "filesize": 33120864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2152d43371551377e4a2de2608c22b98",
+        "sha1": "e8a05b973bc929757d6686ffa5be225da9ecaa7d",
+        "crc32": "bcdc33c1"
+      }
+    }
+  ]
+}

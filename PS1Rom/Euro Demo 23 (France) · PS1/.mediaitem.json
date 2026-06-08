@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 23 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 23 (France).cue",
+      "filesize": 672,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b0128c4a463bb7f0f1523818179c94e6",
+        "sha1": "944a578416d42f5259407c812300e469c49f9d86",
+        "crc32": "5394f82e"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (France) (Track 1).bin",
+      "filesize": 495253584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23a207c3c92697a97ffb0bd197f8fe27",
+        "sha1": "ffc63a4b3bb26e0a652d426c8fc407c3b353e72b",
+        "crc32": "156b0043"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (France) (Track 2).bin",
+      "filesize": 19189968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3543e2f246efe2880128e0079b62952f",
+        "sha1": "42ead3f2cddc386ea60f1778d75b18a6d0ca1b8c",
+        "crc32": "2ed908e7"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (France) (Track 3).bin",
+      "filesize": 36827616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "039e26727ba4665c9eafb6906915b077",
+        "sha1": "76e93e91531416aa34333e28aa8181a8ffcfb044",
+        "crc32": "3e1d753e"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (France) (Track 4).bin",
+      "filesize": 19189968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3543e2f246efe2880128e0079b62952f",
+        "sha1": "42ead3f2cddc386ea60f1778d75b18a6d0ca1b8c",
+        "crc32": "2ed908e7"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (France) (Track 5).bin",
+      "filesize": 20794032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "437019bc22b56298aeae9230c73688ed",
+        "sha1": "e53df92d137f460fbedc2f26e91217ab5c122d59",
+        "crc32": "cac70485"
+      }
+    },
+    {
+      "filename": "Euro Demo 23 (France) (Track 6).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

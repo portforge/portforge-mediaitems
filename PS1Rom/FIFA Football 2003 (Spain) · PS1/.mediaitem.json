@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2003 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2003 (Spain).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bf2df4dead3b0f152e97c752ce40707d",
+        "sha1": "c7b1ec9d5af95001634e22ecb7e42bc9f4eae454",
+        "crc32": "3c4a1123"
+      }
+    },
+    {
+      "filename": "FIFA Football 2003 (Spain).bin",
+      "filesize": 729181152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "91f3de68fa47a383211f82f5e9be992a",
+        "sha1": "7d1303ba616c0cd523a4cf3300c4059f94b76274",
+        "crc32": "bc5af926"
+      }
+    }
+  ]
+}

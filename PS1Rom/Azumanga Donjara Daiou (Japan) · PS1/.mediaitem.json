@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Azumanga Donjara Daiou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Azumanga Donjara Daiou (Japan).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8fa912422ec1aaa41a82ff40fab9f93d",
+        "sha1": "6b074f6a55c5910fa7c36aef2c62437c3028a771",
+        "crc32": "c558cf4e"
+      }
+    },
+    {
+      "filename": "Azumanga Donjara Daiou (Japan).bin",
+      "filesize": 380092608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64653d00ea5a91baee802edd5b254eff",
+        "sha1": "903b8f6af9588c46c598e1684fdfa12ee3ad21d4",
+        "crc32": "c5e4ae21"
+      }
+    }
+  ]
+}

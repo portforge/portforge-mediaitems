@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Clock Tower (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Clock Tower (France).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f3d0ac13f3a8c9f65795ea7eea10c70",
+        "sha1": "97f195053909553bc6eb0807d2353be2943ecb41",
+        "crc32": "c2aa5674"
+      }
+    },
+    {
+      "filename": "Clock Tower (France).bin",
+      "filesize": 666507408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37ab2be623cb027147e6158a37c9028a",
+        "sha1": "e3ef8aa69b33d7293dc374d10c13c0aa41368b17",
+        "crc32": "486a1a0b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Monde des Bleus, Le - Le Jeu Officiel de l'Equipe de France (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Monde des Bleus, Le - Le Jeu Officiel de l'Equipe de France (France).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8f146de653efcb39c00fb967d68a6eb4",
+        "sha1": "5f40025819c44a6adcf7358458e5004d8aa3c8cd",
+        "crc32": "3fc670bf"
+      }
+    },
+    {
+      "filename": "Monde des Bleus, Le - Le Jeu Officiel de l'Equipe de France (France).bin",
+      "filesize": 417853968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23a52ef073e3d43691d92581b73c62bc",
+        "sha1": "5c3881d4e6e77bbba593451ba1808841a70ef879",
+        "crc32": "cadc3c7d"
+      }
+    }
+  ]
+}

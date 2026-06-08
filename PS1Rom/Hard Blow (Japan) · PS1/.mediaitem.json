@@ -1,0 +1,357 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hard Blow (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hard Blow (Japan).cue",
+      "filesize": 3790,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3804f47bdc3111caa172e4364d856ae1",
+        "sha1": "72b588512a611dba8e037552d38fd5a5d78c0c75",
+        "crc32": "ce27ab30"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 01).bin",
+      "filesize": 87647280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7049d710d3f512b996e761796c58142",
+        "sha1": "c0baac1d1a78f22f32040b2373322646f4bdca8d",
+        "crc32": "390065f9"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 02).bin",
+      "filesize": 6166944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f5bb63ad190b1bf2f54d981b671f744",
+        "sha1": "caf625072a496156cc05fc14209cebad59b15152",
+        "crc32": "cadf0ed8"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 03).bin",
+      "filesize": 18430272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d25aaaf5ed86900f1aec260724c7d6b2",
+        "sha1": "2ecb2751b5cc5b21894360d815d431901402b5bf",
+        "crc32": "171940a3"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 04).bin",
+      "filesize": 13538112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8e2a38555330837cfff5a642c5ca854",
+        "sha1": "8b4a09d9ebda04ef9a41657f0964e9a9357d8d47",
+        "crc32": "b4fadfd9"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 05).bin",
+      "filesize": 14732928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b0a34ba5daa85810a6a052d989a417f",
+        "sha1": "cabf6dc910e57ed42d7dc2848d37f98550827918",
+        "crc32": "dd5681a7"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 06).bin",
+      "filesize": 12324480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54ed19089c58434b826b0b4c052241bc",
+        "sha1": "f8f29a1ea7a5bfeb758ec9ffc416ae438060de76",
+        "crc32": "6866c985"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 07).bin",
+      "filesize": 16687440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ab06a834f495e77f041f2a55973f011",
+        "sha1": "a411087671400287faf4e48ba67ab31de517c6bb",
+        "crc32": "f05972b9"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 08).bin",
+      "filesize": 17856384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "633bfad7bd76fe71202e52a57d6caaf7",
+        "sha1": "cb09cf55a5dd0ee41a662ab8c9fbf0e7e8606991",
+        "crc32": "8b8460f6"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 09).bin",
+      "filesize": 11583600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57fbe7cd004bb916df4be1dde0a3aa2e",
+        "sha1": "9a41a7dd3d5f28a9263ce088b39ece3359194bd6",
+        "crc32": "a6b08917"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 10).bin",
+      "filesize": 14850528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1936cd3d1b8701485436a9d4bed9aea4",
+        "sha1": "f5f276542c31ba33b50741760e22aad6ae035dbc",
+        "crc32": "e290bf8f"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 11).bin",
+      "filesize": 19573344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b29fa7d4d0b21602ddf9f4cb7bf9eeb",
+        "sha1": "34909bf8772fb1747632bcdf3ecf13a79deba194",
+        "crc32": "4077f98d"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 12).bin",
+      "filesize": 2145024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "453f406f34fc330adc1b6d4b011bca8f",
+        "sha1": "c9078d5c2c8ed9b30634fac0b18f2d4e62af36df",
+        "crc32": "7aa2b5bc"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 13).bin",
+      "filesize": 1973328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2f27f5a17ae75d8ca0fa752aadfd5f3",
+        "sha1": "1d459d14d8b455f33c59d50222e68b5f4866c9aa",
+        "crc32": "18e96948"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 14).bin",
+      "filesize": 1836912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48451c7a62f2107af62157785d3a3b93",
+        "sha1": "a388effcd90581ce04ef474c08cd4bc8c42c7003",
+        "crc32": "6d5022db"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 15).bin",
+      "filesize": 2010960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1dc094057d1d3566f1e6023b297fd2c4",
+        "sha1": "9d64b231bea8eeaf7f7e1961e5c149b26416a5e5",
+        "crc32": "fb9257bd"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 16).bin",
+      "filesize": 3647952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "919c6e60a0fdb9266671473183b1d3bd",
+        "sha1": "fdd8733e722db0dca4f0da4482d9eae5c50f4e18",
+        "crc32": "77c0644d"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 17).bin",
+      "filesize": 3476256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db0a03308f9bde153d0b1d7968a48246",
+        "sha1": "a7553e30fe0a444d9787302861d1ade6c483c78a",
+        "crc32": "58f062a7"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 18).bin",
+      "filesize": 1625232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bacc1aea9ba2b0315dac147310b1b4ae",
+        "sha1": "bd029039f08e472fdd71d6aec1cc8def58dc9ee2",
+        "crc32": "6d5a310d"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 19).bin",
+      "filesize": 3812592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d851bfff8c56dafb39b5784fa7ebee3",
+        "sha1": "2b1b765ef9de2ad2bc3d3e180f81321a33534bc4",
+        "crc32": "9cda844c"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 20).bin",
+      "filesize": 12305664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66863a1c5e17292675a50772e03892c5",
+        "sha1": "31d07ba514d85cbf950935dbb461bfa1fcc5cf31",
+        "crc32": "1ab6b8c5"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 21).bin",
+      "filesize": 12209232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c38922b0a8f62117739a68eb515188e",
+        "sha1": "280e2a5357791c9ae2016144eb1637ddf34f655a",
+        "crc32": "d391b0df"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 22).bin",
+      "filesize": 1865136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7a19e984cd340464dca91f4360673fa",
+        "sha1": "012b1625db75fb8e710884fd859237d2c87dd0e3",
+        "crc32": "76297c80"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 23).bin",
+      "filesize": 2234400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "11a2d832530a210ea9cc3071d30c44c7",
+        "sha1": "a279c0664067e839fea9b67faffa14b6f44d9a30",
+        "crc32": "24691032"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 24).bin",
+      "filesize": 4534656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a9c2de279dd3812ca9df0aa0fd79dd8",
+        "sha1": "048f5028cf8ee8bbd5c85abd9e828eb79a6f9cce",
+        "crc32": "b0d7d47d"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 25).bin",
+      "filesize": 11849376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01ca576c3c0b0a1bd26f0c1201317aed",
+        "sha1": "3567263d432777e7eff2d493349ee44eb6033010",
+        "crc32": "316d19f1"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 26).bin",
+      "filesize": 12098688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c95ceb88405ae7568204d3cf248df3c2",
+        "sha1": "de51955530afd8e2ac30f4daaa108dcff00e54e0",
+        "crc32": "6488dc82"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 27).bin",
+      "filesize": 12225696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68ce6ad271a1699180357dd6ec214bc7",
+        "sha1": "7ed87f155ff1b62467aca950981eb55fcea01884",
+        "crc32": "3ff299ba"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 28).bin",
+      "filesize": 12242160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9aeccbdfabc8ef15a1f9f2cf305675e",
+        "sha1": "ed938520dd10b38c2292402d7f337ba880c076c4",
+        "crc32": "725f9a77"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 29).bin",
+      "filesize": 12011664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cf83fc53acd13cb0cb0b5a38da21ca9",
+        "sha1": "d12e6e38fa043623f37043518c42a241fb6a5ce7",
+        "crc32": "05dc2fcd"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 30).bin",
+      "filesize": 12253920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa72fc66201fc5b6babe2668f88f6b2f",
+        "sha1": "2290656e49ea7a6eef66e637a4b9c9b9d026bf85",
+        "crc32": "439474ec"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 31).bin",
+      "filesize": 12317424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0b1222e2137d2cf2cc43870ca75e9623",
+        "sha1": "be51f9fc3c8154851e12708f58a818774c8feb92",
+        "crc32": "f62de3e7"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 32).bin",
+      "filesize": 12305664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66863a1c5e17292675a50772e03892c5",
+        "sha1": "31d07ba514d85cbf950935dbb461bfa1fcc5cf31",
+        "crc32": "1ab6b8c5"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 33).bin",
+      "filesize": 12209232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c38922b0a8f62117739a68eb515188e",
+        "sha1": "280e2a5357791c9ae2016144eb1637ddf34f655a",
+        "crc32": "d391b0df"
+      }
+    },
+    {
+      "filename": "Hard Blow (Japan) (Track 34).bin",
+      "filesize": 33120864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6165b21cb960177b56210a78f563a23e",
+        "sha1": "a25a2f883eb8f60972c95c12c8093b8341488627",
+        "crc32": "eff16147"
+      }
+    }
+  ]
+}

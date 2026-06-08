@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shrek Treasure Hunt (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shrek Treasure Hunt (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0965b9ce47a1b3fb757d96b69cd4c180",
+        "sha1": "a6efb2a3192dc877e08369ff3e28ef7db44a7954",
+        "crc32": "f258d3f4"
+      }
+    },
+    {
+      "filename": "Shrek Treasure Hunt (USA).bin",
+      "filesize": 262344432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c60b0c998c4c63940e7c80b67e42583",
+        "sha1": "9f5bd4f7353bdbbe645b76e104f7a1a8daaf1898",
+        "crc32": "e57032d3"
+      }
+    }
+  ]
+}

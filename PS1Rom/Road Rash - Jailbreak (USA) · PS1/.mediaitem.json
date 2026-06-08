@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Road Rash - Jailbreak (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Road Rash - Jailbreak (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d4349a0892ebeecacd81efebcfc07fcf",
+        "sha1": "7bd85ed8143cd615ca1d34e320fe12d1171b8261",
+        "crc32": "0cb5fa7c"
+      }
+    },
+    {
+      "filename": "Road Rash - Jailbreak (USA).bin",
+      "filesize": 586021968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9af58684856c79cc1722c19dd1be7f69",
+        "sha1": "be1853fa0373560cc592bdd697167663183ad8fc",
+        "crc32": "1f57bfeb"
+      }
+    }
+  ]
+}

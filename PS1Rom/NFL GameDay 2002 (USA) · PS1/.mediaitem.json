@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL GameDay 2002 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL GameDay 2002 (USA).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "66a9cddf1ef5293c73688307081774c5",
+        "sha1": "7b2d1963552624b11d5966bee58fb0f8504383c0",
+        "crc32": "a933e9be"
+      }
+    },
+    {
+      "filename": "NFL GameDay 2002 (USA) (Track 1).bin",
+      "filesize": 487306176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43baa725b053a6577b5b89a117770128",
+        "sha1": "7c6b402e5bef058ed6d34d37c2fe7d887607cd2d",
+        "crc32": "18a8601d"
+      }
+    },
+    {
+      "filename": "NFL GameDay 2002 (USA) (Track 2).bin",
+      "filesize": 21875952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77f5489cfd54a63c5640f05dda957929",
+        "sha1": "3c02ed183a3aa70790de401fa154cc821d455a4c",
+        "crc32": "802d1531"
+      }
+    }
+  ]
+}

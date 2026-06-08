@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Future Cop - L.A.P.D. (Europe) (En,Fr)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Future Cop - L.A.P.D. (Europe) (En,Fr).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a7357d9139e821650cd09b9897d1a5ed",
+        "sha1": "6a7945b399b68de8291c34b0891b77801d2b300e",
+        "crc32": "0df08fd6"
+      }
+    },
+    {
+      "filename": "Future Cop - L.A.P.D. (Europe) (En,Fr).bin",
+      "filesize": 673104768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a25a51f497d45f41755d6849da262c19",
+        "sha1": "62791ea95e4e64a94dbe4d86bf49da45de415de0",
+        "crc32": "13e76e37"
+      }
+    }
+  ]
+}

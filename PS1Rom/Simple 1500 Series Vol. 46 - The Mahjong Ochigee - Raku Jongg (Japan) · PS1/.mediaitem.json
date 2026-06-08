@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 46 - The Mahjong Ochigee - Raku Jongg (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 46 - The Mahjong Ochigee - Raku Jongg (Japan).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d79c2c344057ff6ecf9923a63e5d2a71",
+        "sha1": "150792667b3d9b2364acb42190287e96c24a881b",
+        "crc32": "4cb7855b"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 46 - The Mahjong Ochigee - Raku Jongg (Japan).bin",
+      "filesize": 243914160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d81774fe92c4d26a1958d729ff0743d2",
+        "sha1": "f03b49a693d816fa027637fcc244653f5d2d0c54",
+        "crc32": "787afd3c"
+      }
+    }
+  ]
+}

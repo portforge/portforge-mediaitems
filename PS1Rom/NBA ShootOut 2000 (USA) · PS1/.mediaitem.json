@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA ShootOut 2000 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA ShootOut 2000 (USA).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "823ef1aebb6f5ad8d175075f3c1de941",
+        "sha1": "e39c471ee1d5362db4925fe78792e7501fe936a7",
+        "crc32": "2b2db1a7"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2000 (USA) (Track 1).bin",
+      "filesize": 319375728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3501649446dec06e8db33a5226ff09b2",
+        "sha1": "d83e00f9b58e40e854a9a00af223d1745118b4be",
+        "crc32": "6d282341"
+      }
+    },
+    {
+      "filename": "NBA ShootOut 2000 (USA) (Track 2).bin",
+      "filesize": 43512000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1406883a55c4b2ae0547defe544aa1b",
+        "sha1": "a02727ebed1d9ffb1fdd72e938a1309ec4a6be9f",
+        "crc32": "f56b4d43"
+      }
+    }
+  ]
+}

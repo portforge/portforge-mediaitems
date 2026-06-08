@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Memory Card Data Book Vol. 1 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Memory Card Data Book Vol. 1 (Japan).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8730cd6f86b2e12aaf6dfc80fd368126",
+        "sha1": "75ae05b070335713068573e1848e963de69fc02f",
+        "crc32": "18597dfb"
+      }
+    },
+    {
+      "filename": "Memory Card Data Book Vol. 1 (Japan) (Track 1).bin",
+      "filesize": 31540320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17e9a855c8b6835900c95204a70bebbe",
+        "sha1": "56a8cff59dfbea4d78b0236f923ddaa1636cc21b",
+        "crc32": "62de2533"
+      }
+    },
+    {
+      "filename": "Memory Card Data Book Vol. 1 (Japan) (Track 2).bin",
+      "filesize": 47378688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d4c26fa9e43ffe462ea5740b0a61616",
+        "sha1": "cd74a68e891a63633de29295d4fd3e0e70a1b2a1",
+        "crc32": "b06da3da"
+      }
+    }
+  ]
+}

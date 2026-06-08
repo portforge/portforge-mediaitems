@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MTV Sports - T.J. Lavin's Ultimate BMX (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MTV Sports - T.J. Lavin's Ultimate BMX (Europe).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "268312a255cb9db51735a7dca7189089",
+        "sha1": "86aead955981bc726ddab99419108926772b5b7e",
+        "crc32": "0333acf3"
+      }
+    },
+    {
+      "filename": "MTV Sports - T.J. Lavin's Ultimate BMX (Europe).bin",
+      "filesize": 595759248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d06f22b327eb87c6e6a46348cf00b514",
+        "sha1": "b6d91aa5ef3cbf7abd9b941641a749b28ac9a802",
+        "crc32": "a1689862"
+      }
+    }
+  ]
+}

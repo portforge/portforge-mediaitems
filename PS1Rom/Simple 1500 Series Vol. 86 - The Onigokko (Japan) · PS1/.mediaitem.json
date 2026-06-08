@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 86 - The Onigokko (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 86 - The Onigokko (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7c8e4229976fd1d033979c881c549da3",
+        "sha1": "357a53a04d3ab5974fdcbbacb3e686c8edda9eb8",
+        "crc32": "02feeb3c"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 86 - The Onigokko (Japan).bin",
+      "filesize": 306392688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "600e4eb2cf8499ac24f647c6af180fb6",
+        "sha1": "f4d4a10bf5e47f7b6861c32c8b1b850039841b94",
+        "crc32": "854c00d0"
+      }
+    }
+  ]
+}

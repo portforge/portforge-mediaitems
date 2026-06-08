@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oz no Mahoutsukai - Another World - Rung Rung (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oz no Mahoutsukai - Another World - Rung Rung (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "032d22cde8c02f9c9ed1d307e01090fc",
+        "sha1": "9ac08e4e1c05b75ac137f184b5f1da9d66a6fe66",
+        "crc32": "e8a06ba6"
+      }
+    },
+    {
+      "filename": "Oz no Mahoutsukai - Another World - Rung Rung (Japan).bin",
+      "filesize": 513032352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e6d8f5df117f5051115730c691c19d0",
+        "sha1": "1451c476a27b3be29e846e2affe02b62a3c58816",
+        "crc32": "56010ff6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gunship (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gunship (USA).cue",
+      "filesize": 838,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6fb9ddc5e0254682aaa3c19d623a643f",
+        "sha1": "5ca547a1f82ed4c49c9d9adad69317ebf07347b6",
+        "crc32": "e9bdae72"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 1).bin",
+      "filesize": 108415440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf8013fa05793923e8d49510f89f2a",
+        "sha1": "db077318072c2afffc2418f9b7b6130a2fa82095",
+        "crc32": "e6e5b7c1"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 2).bin",
+      "filesize": 79669296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa4716a6dabb8e08fda256c03ffffef6",
+        "sha1": "3e199c2bfcaf57c226dad238f64919b7bbd788cc",
+        "crc32": "4af6907b"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 3).bin",
+      "filesize": 81207504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "792cebadad326aaa211638207123c86f",
+        "sha1": "4e06b7a874a812cf02f394b290f1ddba315d7c66",
+        "crc32": "639893bc"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 4).bin",
+      "filesize": 75129936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "331ca162d74b30815bee9ef12703df05",
+        "sha1": "09a0a4c1a9f5f3aad227ddf33843c438a3ae363c",
+        "crc32": "dcb9ca84"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 5).bin",
+      "filesize": 82451712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c757137e7dd615db51c48b5d779aa9b",
+        "sha1": "da7ce3b27d0e320e9a09c6f641c6cf50b2c984f5",
+        "crc32": "bdade22c"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 6).bin",
+      "filesize": 83070288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cde3d681c86d4ad92caed05506c73b3",
+        "sha1": "c039c1f0f96cb9d498465946104bdfec809824f2",
+        "crc32": "2b1564be"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 7).bin",
+      "filesize": 82550496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9542303b1ca90e241a5a69808de301ef",
+        "sha1": "c6464cc7687ae1756bc51ba60c9c393c1fe4cdcd",
+        "crc32": "1066662d"
+      }
+    },
+    {
+      "filename": "Gunship (USA) (Track 8).bin",
+      "filesize": 2126208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1eb926635d8b2cf2b6840ad8144e8902",
+        "sha1": "b6eae98e3e5c7521928b69d500e9eac4fd45a649",
+        "crc32": "2a8d265d"
+      }
+    }
+  ]
+}

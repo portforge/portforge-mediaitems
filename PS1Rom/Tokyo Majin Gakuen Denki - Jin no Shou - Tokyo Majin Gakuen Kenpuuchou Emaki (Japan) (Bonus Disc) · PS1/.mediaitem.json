@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokyo Majin Gakuen Denki - Jin no Shou - Tokyo Majin Gakuen Kenpuuchou Emaki (Japan) (Bonus Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokyo Majin Gakuen Denki - Jin no Shou - Tokyo Majin Gakuen Kenpuuchou Emaki (Japan) (Bonus Disc).cue",
+      "filesize": 163,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec4acd471b830cf323985965f0884e23",
+        "sha1": "b69824e0205384dfb241eefcf128694fb12e14ee",
+        "crc32": "f7d9d012"
+      }
+    },
+    {
+      "filename": "Tokyo Majin Gakuen Denki - Jin no Shou - Tokyo Majin Gakuen Kenpuuchou Emaki (Japan) (Bonus Disc).bin",
+      "filesize": 225740256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "823f4e44749d4ffd759a3aecb7556657",
+        "sha1": "4c9c8822948a55b78cbfc5ab8e17e825e47ff600",
+        "crc32": "5b86b93b"
+      }
+    }
+  ]
+}

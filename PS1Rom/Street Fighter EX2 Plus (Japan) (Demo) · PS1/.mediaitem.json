@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter EX2 Plus (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter EX2 Plus (Japan) (Demo).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86e60a026f1a8a9743501cd77a667a0f",
+        "sha1": "ad41351cbd2be60b2b048eadbbffe82eb15a0c06",
+        "crc32": "0e1e11d3"
+      }
+    },
+    {
+      "filename": "Street Fighter EX2 Plus (Japan) (Demo).bin",
+      "filesize": 368866512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3830ea0fb5f088df67a6f3afbd246931",
+        "sha1": "fde0e86d1979c22844b07d19e6b95664eeb2b8aa",
+        "crc32": "751de635"
+      }
+    }
+  ]
+}

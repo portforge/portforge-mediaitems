@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RMJ - The Mystery Hospital - Second Attack Sample CD-ROM (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RMJ - The Mystery Hospital - Second Attack Sample CD-ROM (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d71ee021d7b70f6b7e9f1c78657cb718",
+        "sha1": "68695197809d3971a69918b4bd4b91ddf5b20741",
+        "crc32": "34cfedf8"
+      }
+    },
+    {
+      "filename": "RMJ - The Mystery Hospital - Second Attack Sample CD-ROM (Japan).bin",
+      "filesize": 185584560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "986287e3cf518e6f0081a6e8655fc8d9",
+        "sha1": "e8e5f4b2acc3923a7c4bb43988593dfab78f306e",
+        "crc32": "9be5cc9c"
+      }
+    }
+  ]
+}

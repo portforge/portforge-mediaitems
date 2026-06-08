@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kaisoku Tenshi - The Rapid Angel (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kaisoku Tenshi - The Rapid Angel (Japan).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "216612a1e6bef42d69a9dd8d309cfdb1",
+        "sha1": "3820a028a2f362e604ed873f8b91b5e56b5184cd",
+        "crc32": "d26fdfaf"
+      }
+    },
+    {
+      "filename": "Kaisoku Tenshi - The Rapid Angel (Japan) (Track 1).bin",
+      "filesize": 252087360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50095ebfe968ea54bcfcc22b6f2415a7",
+        "sha1": "70b46818d132af4559aa5b143a3543189536b048",
+        "crc32": "4d764ac0"
+      }
+    },
+    {
+      "filename": "Kaisoku Tenshi - The Rapid Angel (Japan) (Track 2).bin",
+      "filesize": 41296416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c9768f39dbe11275deb2ac960fa4d46",
+        "sha1": "e7d858ebd9c058ee3aa2165763716d5ce184778a",
+        "crc32": "9dc04291"
+      }
+    }
+  ]
+}

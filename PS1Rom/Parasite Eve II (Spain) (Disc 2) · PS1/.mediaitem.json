@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parasite Eve II (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parasite Eve II (Spain) (Disc 2).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f9242f87a183180c3cba25a6494b67ea",
+        "sha1": "d0239b8c714a59edc90809b034a01d6ab3870558",
+        "crc32": "6133be0b"
+      }
+    },
+    {
+      "filename": "Parasite Eve II (Spain) (Disc 2).bin",
+      "filesize": 622696704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64b9b56628118d2f647ed4405f90874b",
+        "sha1": "708c83a1bab1b84be996118b5990534ef01084d0",
+        "crc32": "fab9286e"
+      }
+    }
+  ]
+}

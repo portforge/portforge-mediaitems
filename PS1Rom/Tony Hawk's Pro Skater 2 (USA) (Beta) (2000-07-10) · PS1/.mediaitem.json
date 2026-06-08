@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2000-07-10)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2000-07-10).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dd19b256ad66c68f3e456bde99ded5f9",
+        "sha1": "cd5c34e3d5731227985adcb287eeaa3fda38b0a8",
+        "crc32": "e281d200"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2000-07-10).bin",
+      "filesize": 344615040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea384a264bc25342037b81d6b4957eea",
+        "sha1": "b9c91e18744a312a298c750dc03d8fe22a1d85f3",
+        "crc32": "20000e88"
+      }
+    }
+  ]
+}

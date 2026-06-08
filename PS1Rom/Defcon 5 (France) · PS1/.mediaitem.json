@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Defcon 5 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Defcon 5 (France).cue",
+      "filesize": 315,
+      "ext": "cue",
+      "checksums": {
+        "md5": "46c0cd7f01bb09fafe6125974cc16f7e",
+        "sha1": "f5553d4d9bcfc72ff2ba1dea2d0e827c0a230d5d",
+        "crc32": "1544b8b7"
+      }
+    },
+    {
+      "filename": "Defcon 5 (France) (Track 1).bin",
+      "filesize": 372065232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b64b73e725f24829068fee96661335d",
+        "sha1": "1388a05fb73aa4418b6c08654bbb112d3e55f4e8",
+        "crc32": "8d72a5c4"
+      }
+    },
+    {
+      "filename": "Defcon 5 (France) (Track 2).bin",
+      "filesize": 127553664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc29daba629c7d4fd08abd684af30bc2",
+        "sha1": "75e2c50a43d38723bbf5a5b63cd88a3688bb915f",
+        "crc32": "665f0d1d"
+      }
+    },
+    {
+      "filename": "Defcon 5 (France) (Track 3).bin",
+      "filesize": 33323136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56a29b30d426ea5e0ccf4605cd634f00",
+        "sha1": "5f2bcfda6ef3a0e41a5003e21e2883cc4f1d82e6",
+        "crc32": "578c45f6"
+      }
+    }
+  ]
+}

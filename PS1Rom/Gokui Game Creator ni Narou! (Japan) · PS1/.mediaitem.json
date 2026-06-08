@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gokui Game Creator ni Narou! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gokui Game Creator ni Narou! (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04a4a3d29c417a103778405939271c21",
+        "sha1": "f56778510716d7addc95ceaedad2a96f50a9f5c9",
+        "crc32": "61434647"
+      }
+    },
+    {
+      "filename": "Gokui Game Creator ni Narou! (Japan).bin",
+      "filesize": 500049312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9696112e97c09dd3202b652502aca0e0",
+        "sha1": "b34c16406f9d9381aee8cb8958d3636edbe3dd41",
+        "crc32": "a63fa43f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police - Weapons of Justice (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police - Weapons of Justice (Spain).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f65878dd347c1aa865b41e42cfd4c1a6",
+        "sha1": "5b1dc6a7f7fe453fcb7e7bb50b2ce69e3c1e19fd",
+        "crc32": "65a08704"
+      }
+    },
+    {
+      "filename": "G-Police - Weapons of Justice (Spain).bin",
+      "filesize": 737448432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52b47613456d7ad1d7ad6c25957a8aa9",
+        "sha1": "9c8b911fe6406e2411e80e563c62d5910102d263",
+        "crc32": "5a6fb0e1"
+      }
+    }
+  ]
+}

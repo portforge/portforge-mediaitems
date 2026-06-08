@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 28 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 28 (France).cue",
+      "filesize": 902,
+      "ext": "cue",
+      "checksums": {
+        "md5": "34c2bd7a303ce092fcbc6785d2cd61e8",
+        "sha1": "ef3fd26c6af9ac293d9f0013e65f975634697ecd",
+        "crc32": "64db5c8b"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 1).bin",
+      "filesize": 319300464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92135afa6bec2858ab8efeefe081cd24",
+        "sha1": "4d75cab881572edeae146f53525bb9b202b05eba",
+        "crc32": "536fe487"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 2).bin",
+      "filesize": 26619936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41bbc93e053ce06350023c13ab5b5aa8",
+        "sha1": "aeeb3dbb55c8f2102b3d0551aecfd7db71e8706e",
+        "crc32": "227a67cf"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 3).bin",
+      "filesize": 45901632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e22fe96e4cdbfec7e8df5120bcb0016",
+        "sha1": "cde487457b2fcc0e478dbde5ad03ddac7e44cdab",
+        "crc32": "56084ed3"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 4).bin",
+      "filesize": 2267328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "615a8ee1fe7c849a8ad8bb75044e7c7f",
+        "sha1": "720dd5e1afce5270ca5c259e638bd6da0e043ef9",
+        "crc32": "e9cfad99"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 5).bin",
+      "filesize": 2250864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31f2ed1ab2236856853fa62a7c00c88c",
+        "sha1": "1c6775c413c437c377e6d9fb3131346563800343",
+        "crc32": "5754764d"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 6).bin",
+      "filesize": 2488416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ad263980386395a1418509b0f452cbf",
+        "sha1": "0b8b5cc90ad005a64ef7a6131abd82c01f05d26a",
+        "crc32": "4c84d05a"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 7).bin",
+      "filesize": 21814800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23160e8ca810f7651c07f6d6d19caaf5",
+        "sha1": "c8b7a78ab384a98818d2aa23f864f969d688d283",
+        "crc32": "bace4b88"
+      }
+    },
+    {
+      "filename": "Euro Demo 28 (France) (Track 8).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

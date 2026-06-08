@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Batman & Robin (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Batman & Robin (Italy).cue",
+      "filesize": 330,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ad6c0d5ce9a4c0c8c87b00ffcbb3a2d",
+        "sha1": "a67208033cbfa57e56e33d3c05f63218e426e012",
+        "crc32": "6683487b"
+      }
+    },
+    {
+      "filename": "Batman & Robin (Italy) (Track 1).bin",
+      "filesize": 487818912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08634335f495b8900976467210fd9b5f",
+        "sha1": "ce9d198b2af47fab3a3a2fc443b24bf280f4916e",
+        "crc32": "521543af"
+      }
+    },
+    {
+      "filename": "Batman & Robin (Italy) (Track 2).bin",
+      "filesize": 14239008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19cdcad5259984354970fc6fd978064d",
+        "sha1": "d67aa5e994347b9cf2c3893bad0f76375d2b6d01",
+        "crc32": "0707e7c6"
+      }
+    },
+    {
+      "filename": "Batman & Robin (Italy) (Track 3).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

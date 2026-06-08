@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Kuzco - L'Empereur Megalo (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Kuzco - L'Empereur Megalo (France).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "098485dbe4d959274898ea8e0bb21f51",
+        "sha1": "761d9d3a83884da4ca9595d32c438371a541d4df",
+        "crc32": "57a5b6fc"
+      }
+    },
+    {
+      "filename": "Disney Kuzco - L'Empereur Megalo (France).bin",
+      "filesize": 674617104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d940fec51d3b67993d32c5f89ed3017b",
+        "sha1": "e88f547d779e79a3d397bbf47023c62a5b4e813a",
+        "crc32": "5df0bbba"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slot! Pro - Ooedo Sakura Fubuki 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slot! Pro - Ooedo Sakura Fubuki 2 (Japan).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d46ccfcb548c609c272803e84b9fa9a",
+        "sha1": "07d8ab5889059ceb8a5f9cdc1c43146660257c36",
+        "crc32": "a282ccd3"
+      }
+    },
+    {
+      "filename": "Slot! Pro - Ooedo Sakura Fubuki 2 (Japan) (Track 1).bin",
+      "filesize": 13154736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb8ab0748dc664512ace999a43dc395b",
+        "sha1": "5e1d655ebd571328ca61a1c80a1480c5125f157d",
+        "crc32": "f667141a"
+      }
+    },
+    {
+      "filename": "Slot! Pro - Ooedo Sakura Fubuki 2 (Japan) (Track 2).bin",
+      "filesize": 48568800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b99ff10da1d15c81c371227b1ca4621",
+        "sha1": "da3a6e13389b4bc83d238cd01e59c925267a559d",
+        "crc32": "59b09064"
+      }
+    }
+  ]
+}

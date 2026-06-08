@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blood Omen - Legacy of Kain (USA) (Beta) (1996-07-15)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blood Omen - Legacy of Kain (USA) (Beta) (1996-07-15).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "98cad12674a6d0b640ada5ffe603c54e",
+        "sha1": "ea5b200f5af71bbec8174bd7a70a6f6006d52a10",
+        "crc32": "e356e813"
+      }
+    },
+    {
+      "filename": "Blood Omen - Legacy of Kain (USA) (Beta) (1996-07-15).bin",
+      "filesize": 649126128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "070fd0753f5742489138020689dc86bc",
+        "sha1": "dd40cfa469fed00853dc13021516de04eabc80a0",
+        "crc32": "8b2f6327"
+      }
+    }
+  ]
+}

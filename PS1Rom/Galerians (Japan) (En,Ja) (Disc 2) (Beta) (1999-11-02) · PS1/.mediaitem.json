@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (Japan) (En,Ja) (Disc 2) (Beta) (1999-11-02)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (Japan) (En,Ja) (Disc 2) (Beta) (1999-11-02).cue",
+      "filesize": 120,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83c5595542e87c17207cdec6784b1490",
+        "sha1": "4def935f05adeda4878ac6614cfd0ef5f99aa4f4",
+        "crc32": "d2be4602"
+      }
+    },
+    {
+      "filename": "Galerians (Japan) (En,Ja) (Disc 2) (Beta) (1999-11-02).bin",
+      "filesize": 677973408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99e1b3ae043562858cfd372952935af3",
+        "sha1": "68d760f2c6c033382647dea69da2a066e8547221",
+        "crc32": "8814174b"
+      }
+    }
+  ]
+}

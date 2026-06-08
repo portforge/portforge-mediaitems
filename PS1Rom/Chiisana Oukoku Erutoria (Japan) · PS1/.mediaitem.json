@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chiisana Oukoku Erutoria (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chiisana Oukoku Erutoria (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "60d600965994c6d845d367db69a93070",
+        "sha1": "d8aaae1ad09d8c70150472b871885bdd67886bdc",
+        "crc32": "f22de782"
+      }
+    },
+    {
+      "filename": "Chiisana Oukoku Erutoria (Japan).bin",
+      "filesize": 164741136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4eaf601c0a09d2fd323822c8f2063383",
+        "sha1": "ded4a94a2e7d963f4a42c64cdfc5ac09d07f2b15",
+        "crc32": "dd5097c1"
+      }
+    }
+  ]
+}

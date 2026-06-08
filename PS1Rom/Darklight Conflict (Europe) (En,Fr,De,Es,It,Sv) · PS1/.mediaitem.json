@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Darklight Conflict (Europe) (En,Fr,De,Es,It,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Darklight Conflict (Europe) (En,Fr,De,Es,It,Sv).cue",
+      "filesize": 264,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ef9826d0b470cb60256bdb3fb385787",
+        "sha1": "2b87e165af0f0f9a42e10137a1217dd1ba3c1547",
+        "crc32": "05906cce"
+      }
+    },
+    {
+      "filename": "Darklight Conflict (Europe) (En,Fr,De,Es,It,Sv) (Track 1).bin",
+      "filesize": 151348848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8dd1982683d603ce0f19b902155a004",
+        "sha1": "4c16edf2d2045b85e90ae3dc962af560084446b5",
+        "crc32": "a5c975b0"
+      }
+    },
+    {
+      "filename": "Darklight Conflict (Europe) (En,Fr,De,Es,It,Sv) (Track 2).bin",
+      "filesize": 391678560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd7fb919cae354f324ecb5c73cb79d79",
+        "sha1": "4a3b78c091da28b854becca1a9dcd5d131dd4874",
+        "crc32": "9801e977"
+      }
+    }
+  ]
+}

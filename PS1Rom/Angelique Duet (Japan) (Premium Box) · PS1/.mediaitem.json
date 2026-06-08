@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Angelique Duet (Japan) (Premium Box)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Angelique Duet (Japan) (Premium Box).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8c3cc7242225abd93677609723a2b2c7",
+        "sha1": "956199d38056357028aa6d6ded59d4326eb83f35",
+        "crc32": "445f9751"
+      }
+    },
+    {
+      "filename": "Angelique Duet (Japan) (Premium Box).bin",
+      "filesize": 677571216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d5311c09d40c84cdacb0086d2a8705d",
+        "sha1": "bb74363aef744951cbf2b83f09d613715997bc90",
+        "crc32": "6e08bc26"
+      }
+    }
+  ]
+}

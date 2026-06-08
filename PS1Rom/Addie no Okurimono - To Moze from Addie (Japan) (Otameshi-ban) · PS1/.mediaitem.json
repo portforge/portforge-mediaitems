@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban).cue",
+      "filesize": 450,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c04b63da3949ce45bf7b98aa69aa987d",
+        "sha1": "271530a45c6788e3ed1a8125b0ae1143c28ecd89",
+        "crc32": "62486ec2"
+      }
+    },
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban) (Track 1).bin",
+      "filesize": 23851632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "385b234d79d24709a8946d3e3a1e437b",
+        "sha1": "d010bd1a802cccf3c5c6b26498346afe8f3ab537",
+        "crc32": "0276c354"
+      }
+    },
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban) (Track 2).bin",
+      "filesize": 24794784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a02a3938e5ef45491b892049868ca401",
+        "sha1": "bf5bf38e718b615ad3d55ffdd9ffbabdf6884492",
+        "crc32": "1effbec4"
+      }
+    },
+    {
+      "filename": "Addie no Okurimono - To Moze from Addie (Japan) (Otameshi-ban) (Track 3).bin",
+      "filesize": 28002912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6d9c9a3e35905cbafa3408d3a921539",
+        "sha1": "39f3710fae10cbf1ad38269244b760fed241c896",
+        "crc32": "1c4886dd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ore no Ryouri (Japan) (Demo 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ore no Ryouri (Japan) (Demo 1).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85b105d492afc1885bf60754435e197f",
+        "sha1": "ba58496d30f59c5cd189271e30155ad45fb3574a",
+        "crc32": "872b89a4"
+      }
+    },
+    {
+      "filename": "Ore no Ryouri (Japan) (Demo 1).bin",
+      "filesize": 109638480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9cda3a4dea5c497bb35b76ee31fbe432",
+        "sha1": "fffd8f67f37e063c81b46c110fe5f50cfe1b76c8",
+        "crc32": "1fcac221"
+      }
+    }
+  ]
+}

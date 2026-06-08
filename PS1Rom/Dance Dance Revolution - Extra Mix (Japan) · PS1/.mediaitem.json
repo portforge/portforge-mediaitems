@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dance Dance Revolution - Extra Mix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dance Dance Revolution - Extra Mix (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "232e7eb17ad08f92f401920348a4a731",
+        "sha1": "66cbd35a65f98a93eff628fead90197bd1d3a1f1",
+        "crc32": "1be06666"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution - Extra Mix (Japan).bin",
+      "filesize": 486671136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45a7ceb72c0682f48cd3dd58cabfb3ae",
+        "sha1": "f825d3d1acede849dccd658f9a73171de1587222",
+        "crc32": "aee0981c"
+      }
+    }
+  ]
+}

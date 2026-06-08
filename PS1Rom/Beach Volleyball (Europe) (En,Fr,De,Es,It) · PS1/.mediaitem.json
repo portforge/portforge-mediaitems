@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beach Volleyball (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beach Volleyball (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "459a9c7e05fb878a7de5f64f4bca53b8",
+        "sha1": "61d5e0dcc9ace405f3cb6c3373ac9c155538ad56",
+        "crc32": "f8cc6d5e"
+      }
+    },
+    {
+      "filename": "Beach Volleyball (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 375136944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1063e8c9e82da3d599ae7bac3d2080c9",
+        "sha1": "93e0d6396da6ef94e09f5d0469d6d8c04826bc0f",
+        "crc32": "11c99d61"
+      }
+    },
+    {
+      "filename": "Beach Volleyball (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947f682e2ceb918118e1bfe6b6355105",
+        "sha1": "d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0",
+        "crc32": "24cad39b"
+      }
+    }
+  ]
+}

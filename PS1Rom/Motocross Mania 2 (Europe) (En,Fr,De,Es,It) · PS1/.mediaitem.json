@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Motocross Mania 2 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Motocross Mania 2 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "39177f7f431f125b36addd367f49f25d",
+        "sha1": "2303056746e31ee11dfa9ebd42f234a683da7091",
+        "crc32": "2a46fe7f"
+      }
+    },
+    {
+      "filename": "Motocross Mania 2 (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 178693200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40cd2cd21324b478f9daf49ee31006ad",
+        "sha1": "9cbd69de8bb6d03c679ac43bfa87715943fbdaa0",
+        "crc32": "620fcf50"
+      }
+    }
+  ]
+}

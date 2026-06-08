@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shin Megami Tensei - Devil Children - Kuro no Sho, Aka no Sho (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shin Megami Tensei - Devil Children - Kuro no Sho, Aka no Sho (Japan).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "31484e9362388ffc91f5fcc36fd5a3ba",
+        "sha1": "c28f061a7aa565401a0106d3907e77945f186b81",
+        "crc32": "c909d9a2"
+      }
+    },
+    {
+      "filename": "Shin Megami Tensei - Devil Children - Kuro no Sho, Aka no Sho (Japan).bin",
+      "filesize": 254258256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "850ff50c9a07a261c5f42b8b67fd3244",
+        "sha1": "f7a3e476f595e656d5d5788a27aa6beec504a5bc",
+        "crc32": "c374e0c6"
+      }
+    }
+  ]
+}

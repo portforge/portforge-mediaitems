@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Largo Winch - Commando SAR (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Largo Winch - Commando SAR (France).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1c747061a807371ca6faaef1230eac1a",
+        "sha1": "d88798beaadcc066291103737626d52f7258d591",
+        "crc32": "324941f7"
+      }
+    },
+    {
+      "filename": "Largo Winch - Commando SAR (France).bin",
+      "filesize": 269539200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fa8131bf28e2954ecd4d1d01ed00b94",
+        "sha1": "c73e5726a9b06224fdb7b9b5cef9ebf99d487fa1",
+        "crc32": "2b6134c6"
+      }
+    }
+  ]
+}

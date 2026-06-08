@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ready 2 Rumble Boxing (Europe) (En,Fr,De).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bb285a45ad8a2855e1cf14775ed44beb",
+        "sha1": "e0da4954860984656391f0eea11834a189cfbaa0",
+        "crc32": "0cf7d599"
+      }
+    },
+    {
+      "filename": "Ready 2 Rumble Boxing (Europe) (En,Fr,De).bin",
+      "filesize": 286642944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bafbe58b63de3145a9a7202b4e4c352e",
+        "sha1": "58bf4131c1bc8e7c21a08b7fef0ea14c95a2e457",
+        "crc32": "4e23978e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CART World Series (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CART World Series (USA).cue",
+      "filesize": 801,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7fa628b6406ecbb1b1454133f7dde267",
+        "sha1": "839e1fc097f690d3757c18323e12cc6ea46f8bb7",
+        "crc32": "c447986c"
+      }
+    },
+    {
+      "filename": "CART World Series (USA) (Track 1).bin",
+      "filesize": 354542832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2b90f6123ee95f6c37f5415df0c6da6",
+        "sha1": "05a51caf7aeeefa7c20f82c1fb905a8467c06ba6",
+        "crc32": "92564e43"
+      }
+    },
+    {
+      "filename": "CART World Series (USA) (Track 2).bin",
+      "filesize": 42822864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc17573a8ccb720b4695688bbe641ae7",
+        "sha1": "20116ded8efc4be4d3fe766d15612b0287609f8a",
+        "crc32": "a2801ed6"
+      }
+    },
+    {
+      "filename": "CART World Series (USA) (Track 3).bin",
+      "filesize": 42653520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bba7d4f4af36f1c5aba8c154cdd4cf09",
+        "sha1": "13aafef1ff5df7e11037c021bc0d207ef316a260",
+        "crc32": "ab5382b8"
+      }
+    },
+    {
+      "filename": "CART World Series (USA) (Track 4).bin",
+      "filesize": 42554736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1830728208d010e6caf971baaf36748b",
+        "sha1": "5110336d4ee156492eff2f3f0da93374ffbe47ec",
+        "crc32": "c88b1786"
+      }
+    },
+    {
+      "filename": "CART World Series (USA) (Track 5).bin",
+      "filesize": 42608832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43e04d4d2fcba2bd77873661e73e8b4e",
+        "sha1": "1bb6f58df03d168fde7f33926c687b29a384e08e",
+        "crc32": "c6811216"
+      }
+    },
+    {
+      "filename": "CART World Series (USA) (Track 6).bin",
+      "filesize": 45410064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a5a60b1cbbb3408a0d9f6f4d04b1d48",
+        "sha1": "ae70c984519a122190384bdb999570f88e8c2cb6",
+        "crc32": "c57d384c"
+      }
+    },
+    {
+      "filename": "CART World Series (USA) (Track 7).bin",
+      "filesize": 43639008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b0f4938123c5945da16e369e8034879",
+        "sha1": "935657b2b97e7e4e0b68f339fe7153439ab9dba6",
+        "crc32": "6f202525"
+      }
+    }
+  ]
+}

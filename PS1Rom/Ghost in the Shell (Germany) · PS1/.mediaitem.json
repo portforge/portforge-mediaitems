@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ghost in the Shell (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ghost in the Shell (Germany).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eef06c2ea315f579fce4044b3486f6a0",
+        "sha1": "5959c52acd697a035309c39062c4d50fa3990680",
+        "crc32": "b1eed05f"
+      }
+    },
+    {
+      "filename": "Ghost in the Shell (Germany).bin",
+      "filesize": 656052768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2d49114a94cf1b5d28cf4338e727810",
+        "sha1": "1d127a18f05264452fff18e2aa995817a3214cd7",
+        "crc32": "2620b739"
+      }
+    }
+  ]
+}

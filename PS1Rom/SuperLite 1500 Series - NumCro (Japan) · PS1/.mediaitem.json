@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - NumCro (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - NumCro (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e05918b7c14a0f5eedba17ed91619c6",
+        "sha1": "7b332ac6ed2f358d4a1c27d8829c7e70ab9839f0",
+        "crc32": "31a5a44e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - NumCro (Japan).bin",
+      "filesize": 34743744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f984fe45d4acad02d5efac2452362e6e",
+        "sha1": "5f640fd373e852c53153dfa14a2648326fb34c15",
+        "crc32": "1a54533d"
+      }
+    }
+  ]
+}

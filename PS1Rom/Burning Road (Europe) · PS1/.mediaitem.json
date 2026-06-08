@@ -1,0 +1,177 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Burning Road (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Burning Road (Europe).cue",
+      "filesize": 1838,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f8f907eda1b65ce7e28913f2f9b65498",
+        "sha1": "65341ec4a4c4ff749568c704b0c86bd64c5ec50e",
+        "crc32": "b9baabb4"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 01).bin",
+      "filesize": 50685600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32898c3bc28ee96e09e6ce9ff7f68757",
+        "sha1": "60c85e135932aed623bf10cb4167813743680317",
+        "crc32": "febe5888"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 02).bin",
+      "filesize": 21045696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9a097125ea1ab5eb0806039927c4263",
+        "sha1": "02f08d61aaa5df4029f93cf9f8490768ed046381",
+        "crc32": "e1229f78"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 03).bin",
+      "filesize": 38318784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62732a20a7b97e80c96a8556519d1f91",
+        "sha1": "7ac5887caef98876c5255aed5261f3b7ebc6de4e",
+        "crc32": "b8f7e957"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 04).bin",
+      "filesize": 43796592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3abee3632013e26f9d4dc707c9a40fe",
+        "sha1": "7d9e87a8dcc7f23c77aa7adadbda77688b41d333",
+        "crc32": "d8501c32"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 05).bin",
+      "filesize": 47402208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8ad9d8356335bde8301ea65629a52ae",
+        "sha1": "97dec3519f2f1ad8f7b9bf471872f79d761b1474",
+        "crc32": "c09d243d"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 06).bin",
+      "filesize": 33236112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25de3368342392dc7e2b1e7754fb8ca1",
+        "sha1": "3ef22300b26214b258b07feaeb8791df71b00d88",
+        "crc32": "8d7a2e83"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 07).bin",
+      "filesize": 6014064,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7885802cc7c10bde30103dadcab88110",
+        "sha1": "47096fcf6ca681529bfa827e0bcce978a339d91b",
+        "crc32": "eb8de6e8"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 08).bin",
+      "filesize": 3739680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf0f4ed00c41f44a41f227e89c1af627",
+        "sha1": "7e1877e4bcde2e4e6cfb7dc0074d9e9d20ae71c1",
+        "crc32": "e15e5f67"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 09).bin",
+      "filesize": 3861984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a3272779c6d133f1cb147816aaaee60",
+        "sha1": "1ed55955d0e7e0c785ad5e1cb4fdd89926b7da19",
+        "crc32": "cbb07664"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 10).bin",
+      "filesize": 3878448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ea62f0c9069fab50d0fcdc4fb11e3d1",
+        "sha1": "7bc3eec9db487632d54fe638965e041edd800f09",
+        "crc32": "e95481a8"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 11).bin",
+      "filesize": 3885504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441fc45c22379d4ffcc75c1b35513e44",
+        "sha1": "64bd69e51f8a7a638bcc948e7431dbb478b489bb",
+        "crc32": "c34392ac"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 12).bin",
+      "filesize": 3894912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "83c491f83571522587972e78e720d58f",
+        "sha1": "e80c7414b9b67ffd8ab5a6de0d4c397a9f639d42",
+        "crc32": "2994050b"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 13).bin",
+      "filesize": 3551520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fda484e8f67a9cd64fb8fb7b25f778d",
+        "sha1": "d07406ae551830b71685aca573afd63d21a91629",
+        "crc32": "8955c274"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 14).bin",
+      "filesize": 3680880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc2538b9ae4020cf37380b8dd22c7b47",
+        "sha1": "b4f665c818dafb48f63c67f1dad432267cd0a56c",
+        "crc32": "6827b981"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 15).bin",
+      "filesize": 35044800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cce22a9666cbdc9cfd5a8952d85c252f",
+        "sha1": "e69ba949b3cbd46b0131fb942cbd13588f74f0b0",
+        "crc32": "3843a253"
+      }
+    },
+    {
+      "filename": "Burning Road (Europe) (Track 16).bin",
+      "filesize": 31836672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff0170a5288a4018678f2cd8d85e3980",
+        "sha1": "f7bc98b1163652f7f6b4b85b0cdd59b3931cfbc3",
+        "crc32": "a58fee85"
+      }
+    }
+  ]
+}

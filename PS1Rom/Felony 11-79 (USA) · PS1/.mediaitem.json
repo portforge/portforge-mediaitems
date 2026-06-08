@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Felony 11-79 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Felony 11-79 (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3068465d47be69532e666cc3b6415f18",
+        "sha1": "e80a5df418334713e8766681fe8d748dd32dd35e",
+        "crc32": "69135f7c"
+      }
+    },
+    {
+      "filename": "Felony 11-79 (USA).bin",
+      "filesize": 385405776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b53f957c9e3742af4ba043f3cf1c6a22",
+        "sha1": "3f4497f20b2fedd8ad3f8d76441da3fc6c56c539",
+        "crc32": "c5468d1d"
+      }
+    }
+  ]
+}

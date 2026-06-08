@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Arms (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Arms (France).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6dd664e6b24af05229a7656b72cd742f",
+        "sha1": "cdc5d048a8f78b74d79a90e0d96dab2085448ed0",
+        "crc32": "df871846"
+      }
+    },
+    {
+      "filename": "Wild Arms (France).bin",
+      "filesize": 637206192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "623b639d2a6f2d85f42b012d0c896d60",
+        "sha1": "e05c7285b893565e5b6a56015ac4306fe35f21f9",
+        "crc32": "2a3ff23b"
+      }
+    }
+  ]
+}

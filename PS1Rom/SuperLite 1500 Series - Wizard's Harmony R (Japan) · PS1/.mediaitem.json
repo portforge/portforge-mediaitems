@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Wizard's Harmony R (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony R (Japan).cue",
+      "filesize": 846,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6aa1c0edb1387e77491b920e7a75790a",
+        "sha1": "a7a9010bafa57432ab2b9ef66894c2d78994e37e",
+        "crc32": "f1be8e27"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony R (Japan) (Track 1).bin",
+      "filesize": 352273152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ce874793d1d4f94c7b2bf116b4afada",
+        "sha1": "432c3676eef9c76aa84e2251a9274a6b98cbf339",
+        "crc32": "5ddc70b1"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony R (Japan) (Track 2).bin",
+      "filesize": 22212288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da6b0c88b31d18ac6c5eb3f1c5dba715",
+        "sha1": "6ec0d7a17a5d296b20c2bb9b4fdab26f599b9a22",
+        "crc32": "d8aff2ae"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony R (Japan) (Track 3).bin",
+      "filesize": 24058608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15f2f3276d28197c264cca452c3273c7",
+        "sha1": "1ea360dede21f0384b487c595fdaa6d0cf83a230",
+        "crc32": "9b5c8854"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony R (Japan) (Track 4).bin",
+      "filesize": 16576896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18ebcb1e5c22a37eea2ad4deea5372cd",
+        "sha1": "1e86e2e93086d7306d91c6c644df7cb7b9f0d1fb",
+        "crc32": "ce46e5bf"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony R (Japan) (Track 5).bin",
+      "filesize": 33459552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4f431daf8d6dff6149c3e63b1141e22",
+        "sha1": "f8487000eb227160a2f9ec55801490ad70d7ee7e",
+        "crc32": "86f54f09"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Wizard's Harmony R (Japan) (Track 6).bin",
+      "filesize": 50690304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f70b9168fbc35c5e6c41c87dc4b6c7a",
+        "sha1": "00f062e56f7d745ccdb885010ea8b568777b1b2f",
+        "crc32": "4db4c18e"
+      }
+    }
+  ]
+}

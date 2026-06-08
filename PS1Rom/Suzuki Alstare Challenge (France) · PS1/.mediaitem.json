@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Suzuki Alstare Challenge (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Suzuki Alstare Challenge (France).cue",
+      "filesize": 998,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b226693f372c23621b110181277416c9",
+        "sha1": "2b1654e36e7ed4894c510d27a28da3b1dbb54275",
+        "crc32": "8a06d4e5"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 1).bin",
+      "filesize": 140835408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1985d96eade50a143d6e3074a48d4f80",
+        "sha1": "994c7ca6a2ed7ba4b338deeb9006c4c274e4297d",
+        "crc32": "4946e5df"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 2).bin",
+      "filesize": 28136976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d00033e873c9d2fe8514c845125a2331",
+        "sha1": "6ca6e24825190456b7e5adea00282b890c90081a",
+        "crc32": "ec58bbcc"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 3).bin",
+      "filesize": 49377888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0774d6552ff5844a205a436dc333d2d2",
+        "sha1": "e5751c3b6cbf84c3b7199040ff622fa612c2e8bc",
+        "crc32": "e069ecc8"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 4).bin",
+      "filesize": 60281760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28e07a3d130500c803aa92fee4f3cedb",
+        "sha1": "a9f4f6b4a6eb8492b4ed7cdf2aabe78b0a866c45",
+        "crc32": "06aa963e"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 5).bin",
+      "filesize": 43377936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "663b010b98dc2b067dd43b4c8c21783b",
+        "sha1": "2a1997616469f26558f4d5b0ff8f1e5813477e96",
+        "crc32": "a683d036"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 6).bin",
+      "filesize": 36484224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c0a65effff656f7891c0b025e473027",
+        "sha1": "b348889c2334bf51042499f5b2689bb1e6f963e9",
+        "crc32": "f8b21f47"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 7).bin",
+      "filesize": 31650864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "272d04ba222196bd5c924bb3c18cbbd8",
+        "sha1": "ddeaf9cdcf157abf0e6bd88bfe22433a2c82f011",
+        "crc32": "355d6dfe"
+      }
+    },
+    {
+      "filename": "Suzuki Alstare Challenge (France) (Track 8).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "947f682e2ceb918118e1bfe6b6355105",
+        "sha1": "d9e35f62bb3dfa6e9539cb4829d5cd40958fc8c0",
+        "crc32": "24cad39b"
+      }
+    }
+  ]
+}

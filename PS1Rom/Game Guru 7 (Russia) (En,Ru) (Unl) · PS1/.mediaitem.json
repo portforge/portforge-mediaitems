@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game Guru 7 (Russia) (En,Ru) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game Guru 7 (Russia) (En,Ru) (Unl).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "40fc481b9dbd744c1b4fef52036091e5",
+        "sha1": "c895f49922c4c17706aad115fc2966b6d04b3ca5",
+        "crc32": "ab62b9dc"
+      }
+    },
+    {
+      "filename": "Game Guru 7 (Russia) (En,Ru) (Unl).bin",
+      "filesize": 63692160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00b2ed4a1f2926d7acec8ba458c81faa",
+        "sha1": "67b77ace99974e1d327487d02f14dd3ba1cab676",
+        "crc32": "96a5a0c8"
+      }
+    }
+  ]
+}

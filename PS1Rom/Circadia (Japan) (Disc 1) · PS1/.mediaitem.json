@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Circadia (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Circadia (Japan) (Disc 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5fac614918c15a0b48f94f2880b50194",
+        "sha1": "e51e31bb99bf4c00aeea1ac2a17a6db97e29e4ba",
+        "crc32": "8b547931"
+      }
+    },
+    {
+      "filename": "Circadia (Japan) (Disc 1).bin",
+      "filesize": 669261600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcb8d5652faa6e16ac265416d5cee4fb",
+        "sha1": "ac920ad0c844faf2eb131dc3afcd839b3ed1a45c",
+        "crc32": "411732d0"
+      }
+    }
+  ]
+}

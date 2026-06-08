@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Myst (Japan) (Rev 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Myst (Japan) (Rev 2).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ee0c100aff71720820b2f57c85cce742",
+        "sha1": "abcc243e862a65475b8db3d8785b910cce9017e8",
+        "crc32": "3b72128d"
+      }
+    },
+    {
+      "filename": "Myst (Japan) (Rev 2).bin",
+      "filesize": 672347424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5c60cc593959eda909fe9fd87edfa73",
+        "sha1": "a36368ed8da41e62ec17c8e238e374b2796462db",
+        "crc32": "7d46bfa6"
+      }
+    }
+  ]
+}

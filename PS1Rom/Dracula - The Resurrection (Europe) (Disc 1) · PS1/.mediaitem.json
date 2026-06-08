@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula - The Resurrection (Europe) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula - The Resurrection (Europe) (Disc 1).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c8b4a47474482582d8dfc79d8f9eccd5",
+        "sha1": "7f64669360679daaca5794f257585051ed639816",
+        "crc32": "71476261"
+      }
+    },
+    {
+      "filename": "Dracula - The Resurrection (Europe) (Disc 1).bin",
+      "filesize": 715433712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d28ec7a94cc1e0656cdcef1e1062555",
+        "sha1": "ea6f2fa3d40fbcd51804184505469fe2c563ae05",
+        "crc32": "8bc9ebb6"
+      }
+    }
+  ]
+}

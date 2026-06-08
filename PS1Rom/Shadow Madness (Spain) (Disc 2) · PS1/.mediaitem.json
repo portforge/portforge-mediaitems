@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shadow Madness (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shadow Madness (Spain) (Disc 2).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d44dfb38ece4daf710d43d4f12e02de",
+        "sha1": "a580704d14efd518182ed97f0e1082fc1eda9bf6",
+        "crc32": "83948da6"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Spain) (Disc 2) (Track 1).bin",
+      "filesize": 608464752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b1a319b62bb4d6df182832958788631",
+        "sha1": "655756d2acd4f13ae617752639e2eab00691638b",
+        "crc32": "8aab0cb7"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Spain) (Disc 2) (Track 2).bin",
+      "filesize": 43537872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca11840094a4372325d506263af7d598",
+        "sha1": "131036da81391d2acbfa9ecce2282e6b741a7c82",
+        "crc32": "2a875c78"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Spain) (Disc 2) (Track 3).bin",
+      "filesize": 33461904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f123ad6db1bdc0132a905426f9f29759",
+        "sha1": "fcda09987faa07551eafefc7b531f99648d8910e",
+        "crc32": "9d173621"
+      }
+    },
+    {
+      "filename": "Shadow Madness (Spain) (Disc 2) (Track 4).bin",
+      "filesize": 55566000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1eccb4506d9e7e843dde99e2cb12c795",
+        "sha1": "07eeab9f8c908025cfb244e1db13d9193304eee8",
+        "crc32": "fab9339a"
+      }
+    }
+  ]
+}

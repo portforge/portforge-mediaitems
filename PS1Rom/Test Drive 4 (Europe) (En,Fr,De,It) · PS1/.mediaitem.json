@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Test Drive 4 (Europe) (En,Fr,De,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Test Drive 4 (Europe) (En,Fr,De,It).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4276661f180e53934e3a7d7e334b918b",
+        "sha1": "6096671407280b011b731a118553d9968f928ac3",
+        "crc32": "f9ca448e"
+      }
+    },
+    {
+      "filename": "Test Drive 4 (Europe) (En,Fr,De,It).bin",
+      "filesize": 464795184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0317b91ac339d9f12601582ece90ff9",
+        "sha1": "fa75630a3e8f3da0dd6c7573cbef711277b9b360",
+        "crc32": "e9b97f0d"
+      }
+    }
+  ]
+}

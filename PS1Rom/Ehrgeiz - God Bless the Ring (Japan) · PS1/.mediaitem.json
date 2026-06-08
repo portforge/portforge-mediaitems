@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ehrgeiz - God Bless the Ring (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ehrgeiz - God Bless the Ring (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9e1fafdb0bba96a05d4f898c26bbc58",
+        "sha1": "9b8e012eff53f379ab65310edaee3b72acfe0fb9",
+        "crc32": "1845a7d9"
+      }
+    },
+    {
+      "filename": "Ehrgeiz - God Bless the Ring (Japan).bin",
+      "filesize": 716353344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c20ff94773fe35d4886ed06ea3082d03",
+        "sha1": "28962f580b5cbbe794ab545d236e39315c3db0ae",
+        "crc32": "60b0ba54"
+      }
+    }
+  ]
+}

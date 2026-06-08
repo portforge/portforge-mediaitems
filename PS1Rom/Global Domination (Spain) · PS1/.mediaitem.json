@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Global Domination (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Global Domination (Spain).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b51b329909f108b91ccd6c950afab97",
+        "sha1": "e6092c5f8e43aa59db833ef97715eed83bfbfde2",
+        "crc32": "22ab15ec"
+      }
+    },
+    {
+      "filename": "Global Domination (Spain).bin",
+      "filesize": 581823648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "27b2d7a1beef420dfb2871814d2bd143",
+        "sha1": "581c8d701b9af2429ae2cd878d200d047bc61f44",
+        "crc32": "0582febe"
+      }
+    }
+  ]
+}

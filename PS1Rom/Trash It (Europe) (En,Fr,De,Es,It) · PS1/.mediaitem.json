@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Trash It (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Trash It (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d647a317cd8a2a22d1ee7002c522a93",
+        "sha1": "7dd77794feeb3e32268518b9a16f2f437790a155",
+        "crc32": "105bb5d9"
+      }
+    },
+    {
+      "filename": "Trash It (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 747195120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23c54dfb738ad16d81c98199dd939693",
+        "sha1": "e173c301eb1aeb845f6c93f21bd8c643f2bc990d",
+        "crc32": "cfb5bbdf"
+      }
+    }
+  ]
+}

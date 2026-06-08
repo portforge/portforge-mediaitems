@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Love Hina 2 - Kotoba wa Konayuki no You ni (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Love Hina 2 - Kotoba wa Konayuki no You ni (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "db84d773ffc8c98b0472f5923e9e9cb5",
+        "sha1": "2f2360be6198ea0faa70104f3daaedd92c0dd660",
+        "crc32": "331160ac"
+      }
+    },
+    {
+      "filename": "Love Hina 2 - Kotoba wa Konayuki no You ni (Japan).bin",
+      "filesize": 434576688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef4ac84a89d94af5b40d29e184cd6eaa",
+        "sha1": "3ce135a8afc048eabc0846a32a72f14f13cead5c",
+        "crc32": "bb2d3180"
+      }
+    }
+  ]
+}

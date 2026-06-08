@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blackjack vs. Matsuda Jun (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blackjack vs. Matsuda Jun (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ffa5a1248fa6e2f52f78679e0ff198b",
+        "sha1": "2b65965069ef5591367fdfecf56ee57ebf370ca0",
+        "crc32": "05e9b644"
+      }
+    },
+    {
+      "filename": "Blackjack vs. Matsuda Jun (Japan).bin",
+      "filesize": 328557936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68a5bb411bc76c059d258b605f14e52a",
+        "sha1": "767f30a38402e9321fb04f48603b3213139ab689",
+        "crc32": "475046fe"
+      }
+    }
+  ]
+}

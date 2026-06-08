@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Salamander Deluxe Pack Plus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Salamander Deluxe Pack Plus (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a954df616764eb2488300ff924ca461",
+        "sha1": "fa3b9f8705a83994db453103a00e8feacf920ceb",
+        "crc32": "a44fa750"
+      }
+    },
+    {
+      "filename": "Salamander Deluxe Pack Plus (Japan).bin",
+      "filesize": 533541792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06e2385b32217ad17495c690dffc88f8",
+        "sha1": "e534f940018ad2c3974eba01a55eb31b428b9b91",
+        "crc32": "1391aa53"
+      }
+    }
+  ]
+}

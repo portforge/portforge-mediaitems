@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Checkmate (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Checkmate (Europe).cue",
+      "filesize": 654,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c606c071ccc4056f9c4193af50545e0e",
+        "sha1": "75e1d551f0df5625a9a8a547886172a8d706e67d",
+        "crc32": "df92c6b3"
+      }
+    },
+    {
+      "filename": "Checkmate (Europe) (Track 1).bin",
+      "filesize": 14121408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f928d388387a82c8c6b08f887d0ef48",
+        "sha1": "64b240b45e022c65454cbd330c55cbcbaa99a5d3",
+        "crc32": "a3ad23f5"
+      }
+    },
+    {
+      "filename": "Checkmate (Europe) (Track 2).bin",
+      "filesize": 37646112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b365b15037c893d6a8243ad9b6952fb1",
+        "sha1": "7cb3fcbb529388c8e7409398a369716e8d4d6c77",
+        "crc32": "e520e222"
+      }
+    },
+    {
+      "filename": "Checkmate (Europe) (Track 3).bin",
+      "filesize": 57706320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db0db80dee92bb92c7f7e6a92d9e0d8",
+        "sha1": "91accea4d72ee11d24099b094d3d13c3de408275",
+        "crc32": "bd4f8846"
+      }
+    },
+    {
+      "filename": "Checkmate (Europe) (Track 4).bin",
+      "filesize": 53329248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "690f390fcbe7528b31c436defe93b941",
+        "sha1": "cf4d61422e86e198c32c4c8c16422f65313c9351",
+        "crc32": "8f3b1353"
+      }
+    },
+    {
+      "filename": "Checkmate (Europe) (Track 5).bin",
+      "filesize": 33882912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de38c12e03acc05f5358bb4c7740ac9f",
+        "sha1": "c6b0cd7ee8328342e6168e7f901a3bd8c439a944",
+        "crc32": "ecc9ecf3"
+      }
+    },
+    {
+      "filename": "Checkmate (Europe) (Track 6).bin",
+      "filesize": 36895824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8b2819735b0d22cf146c4c44cbd30ca",
+        "sha1": "de27e3282ffee6e9f42c8f13af5c5d03f64f4898",
+        "crc32": "4afe2a61"
+      }
+    }
+  ]
+}

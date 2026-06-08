@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famitsu Wave 9-gatsugou Vol. 14 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famitsu Wave 9-gatsugou Vol. 14 (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "051c3c3e8005fff81280999703dd6278",
+        "sha1": "54475e71b2dbfcdbbbb0574ccff7c6470643b4c7",
+        "crc32": "67fce18e"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 9-gatsugou Vol. 14 (Japan) (Track 1).bin",
+      "filesize": 483512400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c039537bbb5666c8b3671df258c4050",
+        "sha1": "18410205cac16ce6ee3fa02057c1efa25ef3be41",
+        "crc32": "a208aa07"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 9-gatsugou Vol. 14 (Japan) (Track 2).bin",
+      "filesize": 33516000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07488d7d47ede5b5c653df471291b12e",
+        "sha1": "2a61a9adaab8ba1129d3e277cc852995234e0774",
+        "crc32": "530f71ca"
+      }
+    }
+  ]
+}

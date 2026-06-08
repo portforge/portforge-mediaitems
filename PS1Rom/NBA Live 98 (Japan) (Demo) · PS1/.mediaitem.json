@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 98 (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 98 (Japan) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "290447caf063433b482cf280d3e4439d",
+        "sha1": "777423c4c439ad8dc09f7ea2e4aa731e48e2d6b7",
+        "crc32": "b5cd9b77"
+      }
+    },
+    {
+      "filename": "NBA Live 98 (Japan) (Demo).bin",
+      "filesize": 94679760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b65d7c0b2c5361b350b1b0fd0e272a49",
+        "sha1": "fe769c137357af92178f68424ffc9a6ea873b64b",
+        "crc32": "2f92d3cc"
+      }
+    }
+  ]
+}

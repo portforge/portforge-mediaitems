@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digimon World (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digimon World (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "00eb946275586172df92635aa24100d5",
+        "sha1": "f037e1a436b27b1b654b0a2e6f2772a51480cb0b",
+        "crc32": "d48a4de2"
+      }
+    },
+    {
+      "filename": "Digimon World (USA).bin",
+      "filesize": 381771936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8520edac0f7f1454f8a008ac5e599c1a",
+        "sha1": "5611645da66183e30d11fb6c11a2784ff47e1fdb",
+        "crc32": "e6fdd00e"
+      }
+    }
+  ]
+}

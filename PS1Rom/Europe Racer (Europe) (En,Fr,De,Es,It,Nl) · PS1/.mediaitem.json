@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 1197,
+      "ext": "cue",
+      "checksums": {
+        "md5": "35a2ad9a9e96d82fb03550e4b10f9f79",
+        "sha1": "914c1b2f82190140f8879011b04f035523923b7d",
+        "crc32": "baef0938"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 1).bin",
+      "filesize": 328913088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "086b639254cf4a72481374f728cc573e",
+        "sha1": "1c367937b43a4b8b3ad30298529997c0c2952dc2",
+        "crc32": "ad6a3970"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 2).bin",
+      "filesize": 5226144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5973f93d5e52475ef541275d005baaf",
+        "sha1": "341985ed85cc470c6dc7622f30c1971e47695788",
+        "crc32": "8efa13c4"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 3).bin",
+      "filesize": 27407856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e8a9e218ca00014ce0b43ff63990ad6",
+        "sha1": "427bfd61ee7d07b9c8d91c96411e1442ad5014c2",
+        "crc32": "d457c663"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 4).bin",
+      "filesize": 32170656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "472bbdec23cf531f31b2932f24cfb97f",
+        "sha1": "26a23da91fb3d8ba910f842768e24aa47a5ce6e7",
+        "crc32": "12259b22"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 5).bin",
+      "filesize": 29352960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e84df2f9c7be887f39bebec5ac63abd",
+        "sha1": "6f6efa83f9841245707750224df8864cbde71893",
+        "crc32": "ec8eff38"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 6).bin",
+      "filesize": 35653968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbb810759e1c7f82f8e1e270e8e9a466",
+        "sha1": "9daa66ebccb540ef7f6c36f7e81f022c405584e7",
+        "crc32": "f2cfaf0a"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 7).bin",
+      "filesize": 34694352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bba3242f0f0f4be498ec349aab40643",
+        "sha1": "2fc84e00c160b9978b0a40673dfd7fc203df629b",
+        "crc32": "f162f967"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 8).bin",
+      "filesize": 31853136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a7c838669860bae2b9f5a9bac0f930d",
+        "sha1": "55111e82095b1109e4a90666429fc5cdece3e548",
+        "crc32": "1abab7f9"
+      }
+    },
+    {
+      "filename": "Europe Racer (Europe) (En,Fr,De,Es,It,Nl) (Track 9).bin",
+      "filesize": 64621200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d4aa90ad7d667f32b5a54dbf618623b",
+        "sha1": "9a24b3dfedd920b40e2e94bc03178e91dad40185",
+        "crc32": "792eee72"
+      }
+    }
+  ]
+}

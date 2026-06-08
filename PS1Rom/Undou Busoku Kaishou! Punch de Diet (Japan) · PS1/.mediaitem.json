@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Undou Busoku Kaishou! Punch de Diet (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Undou Busoku Kaishou! Punch de Diet (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a31c747483973df86ca01971a8d98dcf",
+        "sha1": "3fdbfcc54b90aac36ad578ff6032d678799825a3",
+        "crc32": "b93dd0f4"
+      }
+    },
+    {
+      "filename": "Undou Busoku Kaishou! Punch de Diet (Japan).bin",
+      "filesize": 84189840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d17572abae6a2a0e4c12c0befe6c7f6b",
+        "sha1": "f7c4c8c37f6d2b073d8e04c04ebf2f7ddfea3cf3",
+        "crc32": "670feead"
+      }
+    }
+  ]
+}

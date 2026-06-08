@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oddworld - Abe's Oddysee (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oddworld - Abe's Oddysee (Spain).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3c82fe93af82e173115d7b056738e9e",
+        "sha1": "a7ce81ed9b035237cb1750828f23086642510b3d",
+        "crc32": "a91ee8b1"
+      }
+    },
+    {
+      "filename": "Oddworld - Abe's Oddysee (Spain).bin",
+      "filesize": 702173136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "495d0d4d14e008ba50c7afefd6832fa4",
+        "sha1": "abe8d2d1ee64c6712ebd979febdf075f0b81f02f",
+        "crc32": "a4d8567a"
+      }
+    }
+  ]
+}

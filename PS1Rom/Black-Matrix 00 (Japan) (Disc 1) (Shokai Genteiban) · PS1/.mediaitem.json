@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Black-Matrix 00 (Japan) (Disc 1) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Black-Matrix 00 (Japan) (Disc 1) (Shokai Genteiban).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc3bf0d216294cacb349a70cef1895ea",
+        "sha1": "d1a6fce5492eb00d51f6a8f23c3b47750c79ecd8",
+        "crc32": "d97a3f52"
+      }
+    },
+    {
+      "filename": "Black-Matrix 00 (Japan) (Disc 1) (Shokai Genteiban).bin",
+      "filesize": 680527680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "697b8881111adc2eb16b065cb125c641",
+        "sha1": "d0ec8cce0d6c7fcd1dfb9d9d43bc42aa3e627c7f",
+        "crc32": "9b9138de"
+      }
+    }
+  ]
+}

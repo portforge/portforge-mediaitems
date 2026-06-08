@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro Action Replay - CD Alpha (Japan) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro Action Replay - CD Alpha (Japan) (Unl).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83a69c9431654a0330494d3d45decc03",
+        "sha1": "44ee8571c2fefbafc775a7968c04c7cb645039a7",
+        "crc32": "287b349a"
+      }
+    },
+    {
+      "filename": "Pro Action Replay - CD Alpha (Japan) (Unl).bin",
+      "filesize": 715008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bdc2ede0c6ddd64cccaa1b7553cf9e60",
+        "sha1": "9c1bd983bb8531f9e226b50d0b6de9968c7e0610",
+        "crc32": "e9da6930"
+      }
+    }
+  ]
+}

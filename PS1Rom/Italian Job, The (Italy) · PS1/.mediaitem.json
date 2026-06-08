@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Italian Job, The (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Italian Job, The (Italy).cue",
+      "filesize": 336,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ab6e216d03e33391d8a39a3a266a4e2",
+        "sha1": "c1b9d055952b1a58db890a4065c59f5f6eb1eb84",
+        "crc32": "9f220d60"
+      }
+    },
+    {
+      "filename": "Italian Job, The (Italy) (Track 1).bin",
+      "filesize": 675045168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39eed139f993b140948eed7f565df709",
+        "sha1": "151990d7fc91d69a3922c5def3c0228c282127a1",
+        "crc32": "a75b640e"
+      }
+    },
+    {
+      "filename": "Italian Job, The (Italy) (Track 2).bin",
+      "filesize": 8824704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de51b81ec971ea492da1ef84ef082d7e",
+        "sha1": "f817b6e188ec48b2c8d41d7c3cf24868f9f0993b",
+        "crc32": "4b98076b"
+      }
+    },
+    {
+      "filename": "Italian Job, The (Italy) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "952d15640b57c777f98881d396c811b9",
+        "sha1": "17eb815534b854c7476ed098571ee8d74c6554a5",
+        "crc32": "bb550936"
+      }
+    }
+  ]
+}

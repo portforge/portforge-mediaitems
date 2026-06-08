@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).cue",
+      "filesize": 154,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f49fc960f41c99fbf472162da1a7ea0",
+        "sha1": "61c2bb3b7559309f688a527e3fae91f965594962",
+        "crc32": "f82f2690"
+      }
+    },
+    {
+      "filename": "Kids Station - Oshaberi Oekaki - Kikansha Thomas to Nakamatachi (Japan) (Controller Set).bin",
+      "filesize": 211552992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21512ae0d52ef2f4c5a2d3dd7d2f92e5",
+        "sha1": "e5d71c381ad0493bfa5f0fab8f1db197d94f734c",
+        "crc32": "68ca2fd1"
+      }
+    }
+  ]
+}

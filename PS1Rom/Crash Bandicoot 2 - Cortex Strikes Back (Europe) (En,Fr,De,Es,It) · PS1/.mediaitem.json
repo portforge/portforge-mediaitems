@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b704c3da253bcfde87eb036d4c953f1",
+        "sha1": "a5bd21af4c6ad1dac6e6057c13106d522f84406d",
+        "crc32": "3f70cad3"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 259602000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10dabebd6a3efc1e1e9db4f8f3b864cb",
+        "sha1": "b077862d2c6e1b8060c2eae2fe82e708b228de7c",
+        "crc32": "f5e2ec49"
+      }
+    }
+  ]
+}

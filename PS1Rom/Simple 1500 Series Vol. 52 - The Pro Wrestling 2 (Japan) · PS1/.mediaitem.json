@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 52 - The Pro Wrestling 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 52 - The Pro Wrestling 2 (Japan).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "413ef3e44c75fa51460afc5c583a3ad0",
+        "sha1": "5eb3a047d3ff5a580b26bb589a51006bf9752c52",
+        "crc32": "f8f29807"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 52 - The Pro Wrestling 2 (Japan).bin",
+      "filesize": 97172880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1bccfafb3d7b01aa3599cb1e54faa57a",
+        "sha1": "27501eda909105302835c89d4ce16706e16ac5b8",
+        "crc32": "850f62b7"
+      }
+    }
+  ]
+}

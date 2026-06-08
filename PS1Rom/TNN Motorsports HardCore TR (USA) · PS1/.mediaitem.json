@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TNN Motorsports HardCore TR (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TNN Motorsports HardCore TR (USA).cue",
+      "filesize": 1390,
+      "ext": "cue",
+      "checksums": {
+        "md5": "581e6f24cd770da77f438739fc3c1ce4",
+        "sha1": "d8844a40832b8c20a4bb9a3186be78e051ef29f8",
+        "crc32": "93330012"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 01).bin",
+      "filesize": 104188896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "153caad1b9a063183cf8cc51d151719d",
+        "sha1": "6db9582f58cb88517ecef6444342a7f311ac4176",
+        "crc32": "86a60298"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 02).bin",
+      "filesize": 70585872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b969af2070fc3e4c7b54c175fa84a7b",
+        "sha1": "79e84e073da6051b84148139d8dc273b0f06f7f8",
+        "crc32": "553f4df3"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 03).bin",
+      "filesize": 53141088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "983bc844ee4320e39268fd1146a1d41b",
+        "sha1": "614df17a0d37478fb0ef18af2d77eb81c5de1a87",
+        "crc32": "b8c46557"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 04).bin",
+      "filesize": 60815664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c38910810ba933ca3e518bd114eecdc7",
+        "sha1": "a47a23582339ec0feb055cca5146d3d1b6ef55e2",
+        "crc32": "f440a7f4"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 05).bin",
+      "filesize": 57090096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddf655c7a206ebcc1f487350d06c83ea",
+        "sha1": "6c4af0800d71816b50c7503647722908b1ed8992",
+        "crc32": "005d2af3"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 06).bin",
+      "filesize": 66415776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7c3f4bf28d473c0f5b88b2d93b068ca",
+        "sha1": "6d721573fa23d67466faa9d267b1c696ad4f4aea",
+        "crc32": "15cdc632"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 07).bin",
+      "filesize": 56010528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c97a479ff43594a5f660d8d84ddc727",
+        "sha1": "307704f308a5e01a6cff2403f77fab0a8597d55e",
+        "crc32": "e3572b38"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 08).bin",
+      "filesize": 59973648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae808ffa73dd097b10f8a21cd4800c7e",
+        "sha1": "fcf8a33eb2ca190e87985f9a770664e37d8d91c9",
+        "crc32": "e0698844"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 09).bin",
+      "filesize": 59823120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a86437992467871c450117f92070352",
+        "sha1": "ec4110cde671d1b9bf9fe167b4f099e9b4140248",
+        "crc32": "8d532c3d"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 10).bin",
+      "filesize": 57927408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d6f258b16e6855a44c93bc76f2a317e",
+        "sha1": "8f606ffb90ba05e9c6ded343c7a3e6c2490a8041",
+        "crc32": "5b86f9f2"
+      }
+    },
+    {
+      "filename": "TNN Motorsports HardCore TR (USA) (Track 11).bin",
+      "filesize": 40809552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3c361b37fb54fd3f71b432f3b32a856",
+        "sha1": "ce19d88a42c875985136945ff0925a211b9dd05b",
+        "crc32": "25e8f262"
+      }
+    }
+  ]
+}

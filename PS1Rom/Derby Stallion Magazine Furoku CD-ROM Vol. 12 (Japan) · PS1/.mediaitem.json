@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Derby Stallion Magazine Furoku CD-ROM Vol. 12 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Derby Stallion Magazine Furoku CD-ROM Vol. 12 (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ab49fefc645baf072a6ac7ef561e28f",
+        "sha1": "243e5e75ed5a8f37700763f9be561648613c8b06",
+        "crc32": "d8a6b5dc"
+      }
+    },
+    {
+      "filename": "Derby Stallion Magazine Furoku CD-ROM Vol. 12 (Japan).bin",
+      "filesize": 131171040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc659a9e82cb6ad914a3d32c4921490d",
+        "sha1": "28b1ef81536cb1db28e02d2f97845a0fbea2346e",
+        "crc32": "6906032b"
+      }
+    }
+  ]
+}

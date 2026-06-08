@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bloody Roar - Hyper Beast Duel (Japan, Asia) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bloody Roar - Hyper Beast Duel (Japan, Asia) (En,Ja).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "692b65ffa9cd518b309f43bd4e470099",
+        "sha1": "399724c539310cdf3286a39f4518715946312f08",
+        "crc32": "af4c0360"
+      }
+    },
+    {
+      "filename": "Bloody Roar - Hyper Beast Duel (Japan, Asia) (En,Ja) (Track 1).bin",
+      "filesize": 585292848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b4fcda98dac36e9130e177e53b78902",
+        "sha1": "0b2b5d74ec04cde5af68555e086e225fc1b4ded3",
+        "crc32": "69bdb34c"
+      }
+    },
+    {
+      "filename": "Bloody Roar - Hyper Beast Duel (Japan, Asia) (En,Ja) (Track 2).bin",
+      "filesize": 21325584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "342186a92a6d67c4ddc700b2beeddade",
+        "sha1": "4cc9d11856ce209414a1a663105a29f1f6d9871e",
+        "crc32": "421688d5"
+      }
+    }
+  ]
+}

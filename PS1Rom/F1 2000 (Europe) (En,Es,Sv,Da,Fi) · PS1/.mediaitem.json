@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F1 2000 (Europe) (En,Es,Sv,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F1 2000 (Europe) (En,Es,Sv,Da,Fi).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb5d69de7ce95fe46f4057f37a8a284f",
+        "sha1": "b45619b4afa9b72d5e18d571740316262845b063",
+        "crc32": "14fde16a"
+      }
+    },
+    {
+      "filename": "F1 2000 (Europe) (En,Es,Sv,Da,Fi) (Track 1).bin",
+      "filesize": 532163520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "591861151fdf3a9122761f4d9f2cdb0b",
+        "sha1": "20d53cecf5b9f3c8caaaa8ca6e5613aaf3d9e4e6",
+        "crc32": "644c3014"
+      }
+    },
+    {
+      "filename": "F1 2000 (Europe) (En,Es,Sv,Da,Fi) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

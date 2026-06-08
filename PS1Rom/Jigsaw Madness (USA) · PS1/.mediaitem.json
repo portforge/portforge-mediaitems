@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jigsaw Madness (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jigsaw Madness (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d136d6bd30c39b1e3eea62fa4cb169c",
+        "sha1": "193430a73cf93f53c1412afa9dcaacff89b354ee",
+        "crc32": "b6b6cd33"
+      }
+    },
+    {
+      "filename": "Jigsaw Madness (USA).bin",
+      "filesize": 494110512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d25bdea450645024065ffe5fa5744f63",
+        "sha1": "b3ba924ba465f8805e319cdd65afdb90033d80c5",
+        "crc32": "f98aa774"
+      }
+    }
+  ]
+}

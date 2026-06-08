@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tondemo Crisis! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tondemo Crisis! (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bbe82f4666694738e21101fd1a2f3e56",
+        "sha1": "a2246d1727f35b60580524e1f3f0c236e099d774",
+        "crc32": "24fe78a6"
+      }
+    },
+    {
+      "filename": "Tondemo Crisis! (Japan).bin",
+      "filesize": 727793472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "173e0c4e4aff263dd71904698fd94508",
+        "sha1": "a793426930a971e03722d35483e789adefb6d8b6",
+        "crc32": "6eea8413"
+      }
+    }
+  ]
+}

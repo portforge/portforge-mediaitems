@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Devil's Deception (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Devil's Deception (Europe) (En,Fr,De).cue",
+      "filesize": 375,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8f3166d5388dd784283ff571de94e45",
+        "sha1": "8196e9d6e3ffb981ac20eef39c12248791161693",
+        "crc32": "acbac94b"
+      }
+    },
+    {
+      "filename": "Devil's Deception (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 418917072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67e81a023d66ec24c18512882b1eaa73",
+        "sha1": "95105c2608f187fc9f05ec30c531fd253eb066d0",
+        "crc32": "f44fba81"
+      }
+    },
+    {
+      "filename": "Devil's Deception (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 3490368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1808a625c9512589b8939dabda673b6",
+        "sha1": "22f4201b3103b2c83b12aef06183370484fbf9a9",
+        "crc32": "488b5846"
+      }
+    },
+    {
+      "filename": "Devil's Deception (Europe) (En,Fr,De) (Track 3).bin",
+      "filesize": 39226656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e91b776bd770249f19d60af08912d351",
+        "sha1": "6b59def1a6389ea9744751f26d658082fefb1171",
+        "crc32": "bb5a741d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2002 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2002 (France).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3c0178550df6c8ed3fbdf023d7400066",
+        "sha1": "41dba83d60b0bff4a28cd2a2d8f21f7297e4089b",
+        "crc32": "34aab740"
+      }
+    },
+    {
+      "filename": "FIFA Football 2002 (France).bin",
+      "filesize": 662424336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5687035d71deac506d4aaa0b611b707a",
+        "sha1": "b1fdee16898df8392cd4bd9b9d6c496e3981b9c6",
+        "crc32": "7f6d0c05"
+      }
+    }
+  ]
+}

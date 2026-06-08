@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rayman 2 - The Great Escape (Europe) (En,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rayman 2 - The Great Escape (Europe) (En,Es,It).cue",
+      "filesize": 264,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75e93af334101d6547583314c8ff3561",
+        "sha1": "029f92cb0f88f02825cc5d3ceb0d4a648f9adc0c",
+        "crc32": "b6f065df"
+      }
+    },
+    {
+      "filename": "Rayman 2 - The Great Escape (Europe) (En,Es,It) (Track 1).bin",
+      "filesize": 699734112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0bac85a7c69a0951c85766dac5a5c23c",
+        "sha1": "671e7930dc4bbe52470e5711feb6f9d4f17ac259",
+        "crc32": "f475865e"
+      }
+    },
+    {
+      "filename": "Rayman 2 - The Great Escape (Europe) (En,Es,It) (Track 2).bin",
+      "filesize": 32692800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c60a2f288492bd3b9438ba620cf7c84",
+        "sha1": "bfa21264a21eded0944d81e2a46a7ee4cab09b82",
+        "crc32": "38a1c9fa"
+      }
+    }
+  ]
+}

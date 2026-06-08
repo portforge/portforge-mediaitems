@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro Wres Sengokuden - Hyper Tag Match (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro Wres Sengokuden - Hyper Tag Match (Japan).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec74c92fea985f4a61e88882ba7759ad",
+        "sha1": "211104e3540104021bbd0722358978a9427aa46d",
+        "crc32": "087d9e6a"
+      }
+    },
+    {
+      "filename": "Pro Wres Sengokuden - Hyper Tag Match (Japan) (Track 1).bin",
+      "filesize": 197810256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b06a62cb947e5b918177e460793bdc01",
+        "sha1": "2b3e864ba94bdefc161e265c70f28c4bedbfdb33",
+        "crc32": "a5407398"
+      }
+    },
+    {
+      "filename": "Pro Wres Sengokuden - Hyper Tag Match (Japan) (Track 2).bin",
+      "filesize": 33871152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0580798280736865f5a3a0acf0070a3",
+        "sha1": "ebbc15d8445e79bcbfd4a229c32191c30ba9d2e0",
+        "crc32": "fd70a67f"
+      }
+    }
+  ]
+}

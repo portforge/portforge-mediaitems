@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Iru! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Iru! (Japan).cue",
+      "filesize": 194,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9141121aa804febdabf4f1dc6d706835",
+        "sha1": "d5e4f5272adc7f7b2fb6179a00d87c8c986495dd",
+        "crc32": "a51a2705"
+      }
+    },
+    {
+      "filename": "Iru! (Japan) (Track 1).bin",
+      "filesize": 225954288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b217cc68ea266f22378add75c3f209b5",
+        "sha1": "30398258598ae1375a06152dbfd419b3d77fbf11",
+        "crc32": "da121826"
+      }
+    },
+    {
+      "filename": "Iru! (Japan) (Track 2).bin",
+      "filesize": 42296016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "903ebfcecf448137351f6a33e94381c4",
+        "sha1": "2b4bf600ae8686f2ea4b9856f746dce127d95957",
+        "crc32": "719ab116"
+      }
+    }
+  ]
+}

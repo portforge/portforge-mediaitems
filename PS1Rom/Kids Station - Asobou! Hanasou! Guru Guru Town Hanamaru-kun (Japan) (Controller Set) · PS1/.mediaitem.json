@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Asobou! Hanasou! Guru Guru Town Hanamaru-kun (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Asobou! Hanasou! Guru Guru Town Hanamaru-kun (Japan) (Controller Set).cue",
+      "filesize": 338,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e16b49b663cf60047fb09291641cb82d",
+        "sha1": "bcedbd08cd3c8930d372d44f35b8160f548c551a",
+        "crc32": "c0ad755d"
+      }
+    },
+    {
+      "filename": "Kids Station - Asobou! Hanasou! Guru Guru Town Hanamaru-kun (Japan) (Controller Set) (Track 1).bin",
+      "filesize": 331577904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea8afba49d2f1c7fe6b47ade3df58a01",
+        "sha1": "54ea0cba055473f214b56dbbf76cd6bc72493ccb",
+        "crc32": "d7e34068"
+      }
+    },
+    {
+      "filename": "Kids Station - Asobou! Hanasou! Guru Guru Town Hanamaru-kun (Japan) (Controller Set) (Track 2).bin",
+      "filesize": 32582256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ad2ab4f694358f92ab1e85097a4cb2f",
+        "sha1": "49d6d1333dca811f5a9e952457b0e5f91990c4bf",
+        "crc32": "c21cd8eb"
+      }
+    }
+  ]
+}

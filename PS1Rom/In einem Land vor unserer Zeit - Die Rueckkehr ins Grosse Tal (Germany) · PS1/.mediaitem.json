@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "In einem Land vor unserer Zeit - Die Rueckkehr ins Grosse Tal (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "In einem Land vor unserer Zeit - Die Rueckkehr ins Grosse Tal (Germany).cue",
+      "filesize": 137,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d3c40e127b776bf4f6969557f8fdfe1",
+        "sha1": "885fc14087c245bcf9e1af34aa3c0fc4c3f93d19",
+        "crc32": "39b5d72e"
+      }
+    },
+    {
+      "filename": "In einem Land vor unserer Zeit - Die Rueckkehr ins Grosse Tal (Germany).bin",
+      "filesize": 322736736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7beba3f5ba88601b2c8c101cd7037527",
+        "sha1": "2037f69e040f80079a14def8f2d1dcd6bb6fbda2",
+        "crc32": "cb9a1226"
+      }
+    }
+  ]
+}

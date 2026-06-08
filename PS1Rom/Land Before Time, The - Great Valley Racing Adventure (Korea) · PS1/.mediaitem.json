@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Land Before Time, The - Great Valley Racing Adventure (Korea)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Land Before Time, The - Great Valley Racing Adventure (Korea).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "10251342640732a0fd2815d2c706876e",
+        "sha1": "5285ac6babc578e0464c09499beee51362a87848",
+        "crc32": "acef9ab9"
+      }
+    },
+    {
+      "filename": "Land Before Time, The - Great Valley Racing Adventure (Korea).bin",
+      "filesize": 227231424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad90194b854ccf45b19b3b27fbe91191",
+        "sha1": "70c6a8cf229ca0393cfc583ae84440d93239ede4",
+        "crc32": "d1891719"
+      }
+    }
+  ]
+}

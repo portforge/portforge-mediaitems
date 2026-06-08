@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saban's Power Rangers - Lightspeed Rescue (Europe, Australia) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saban's Power Rangers - Lightspeed Rescue (Europe, Australia) (En,Fr,De).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9f49a1b8c36ba948dbc534e52132e50",
+        "sha1": "f43aedf27e310fe8e03cbd13e94ecdfe35fccc66",
+        "crc32": "55523bbb"
+      }
+    },
+    {
+      "filename": "Saban's Power Rangers - Lightspeed Rescue (Europe, Australia) (En,Fr,De).bin",
+      "filesize": 227840592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5babcbf9140f25c3e20d06c0a736065b",
+        "sha1": "9f563f9f9616964f082a63dcb726e60b6c2253dd",
+        "crc32": "8663e3f4"
+      }
+    }
+  ]
+}

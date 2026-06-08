@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Evil Dead - Hail to the King (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Evil Dead - Hail to the King (USA) (Disc 1).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdfb72297d05624cd72d68f9fdcc3cdf",
+        "sha1": "bf6dfaf1c63b69684667bb4d714d5156d328cce6",
+        "crc32": "24fa2a88"
+      }
+    },
+    {
+      "filename": "Evil Dead - Hail to the King (USA) (Disc 1).bin",
+      "filesize": 405146112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8186e2708818e3df862caca4c8e4a44f",
+        "sha1": "0308e623e9fd5b06b8ea1a6db11a9577e52986a6",
+        "crc32": "f935b7bf"
+      }
+    }
+  ]
+}

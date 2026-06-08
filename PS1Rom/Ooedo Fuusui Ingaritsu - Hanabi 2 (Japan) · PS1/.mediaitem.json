@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ooedo Fuusui Ingaritsu - Hanabi 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ooedo Fuusui Ingaritsu - Hanabi 2 (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "074bc5c458e2e541531e95850c54e00f",
+        "sha1": "4f805f9a8b7162628eb62f29cd537feec534658e",
+        "crc32": "e3cd0ec3"
+      }
+    },
+    {
+      "filename": "Ooedo Fuusui Ingaritsu - Hanabi 2 (Japan).bin",
+      "filesize": 246583680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "736151400432d57f13e7800463b45acb",
+        "sha1": "cae18838fb3001e910fb5f29d2915b9bd4692a90",
+        "crc32": "785a909d"
+      }
+    }
+  ]
+}

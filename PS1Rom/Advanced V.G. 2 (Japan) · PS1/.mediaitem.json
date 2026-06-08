@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Advanced V.G. 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Advanced V.G. 2 (Japan).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "070dff10ad7e5e1341d457425d048ca6",
+        "sha1": "f90654a567790b98dfb63dc5485c705c43492df2",
+        "crc32": "2a5956ea"
+      }
+    },
+    {
+      "filename": "Advanced V.G. 2 (Japan) (Track 1).bin",
+      "filesize": 567688128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd0fdc0bcbfeb524081e726e50dce5e0",
+        "sha1": "7b5555338485fc02eabb13640d027456007d6364",
+        "crc32": "7afdc65d"
+      }
+    },
+    {
+      "filename": "Advanced V.G. 2 (Japan) (Track 2).bin",
+      "filesize": 58668288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34602d39a3a7e092731a25cf08b0876f",
+        "sha1": "f4c194f48c0452f77d6ec1401aeb01cb7775c2c4",
+        "crc32": "f9c23d68"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Over Drivin' IV (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Over Drivin' IV (Japan) (Demo).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d578ffed6e0d19b978fada6a1a077b00",
+        "sha1": "cc4cef7849c499146bc36a7495b82d7f30221954",
+        "crc32": "6467d60b"
+      }
+    },
+    {
+      "filename": "Over Drivin' IV (Japan) (Demo).bin",
+      "filesize": 573549312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ff2b89f15d382be44d2fb52c7be6cbc",
+        "sha1": "c934508ef1ca542c75c97030ef1227dcc036f8f4",
+        "crc32": "5b64f97a"
+      }
+    }
+  ]
+}

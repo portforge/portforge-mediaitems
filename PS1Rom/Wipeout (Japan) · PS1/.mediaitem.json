@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wipeout (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wipeout (Japan).cue",
+      "filesize": 1302,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1b7d72c11accfe5c686bf7cf387dfc42",
+        "sha1": "ec802f0ca8521e0d9a4fe8ef855aa4103513f769",
+        "crc32": "30e40e64"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 01).bin",
+      "filesize": 58703568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aab500992f94f3d4070a0c88772f26",
+        "sha1": "c5a57a218e807d0d3513419eb7fe7f9f178b2b1e",
+        "crc32": "5ea80aae"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 02).bin",
+      "filesize": 55638912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75bf1bf7a13d0a9c21355036bea7d0a3",
+        "sha1": "65ebf8c463a7cc6d6dc159457c2035c890a59087",
+        "crc32": "dac2c09c"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 03).bin",
+      "filesize": 56821968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f6a55d091b90768a482e2dacb06db4f",
+        "sha1": "6f63919e73c9f072b8e5dba5676c6f21357e7141",
+        "crc32": "211b78d1"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 04).bin",
+      "filesize": 53954880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4aa6496cfebe29db08c800c56d68f244",
+        "sha1": "c4ea9b89055682d256505a459f435fe13b502a70",
+        "crc32": "8a02d5ce"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 05).bin",
+      "filesize": 55685952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3522307b64bfbf8b63610ee95bf8f17f",
+        "sha1": "9b2fcf002b66dc4c8cd5d925f541d63e77a3a6d6",
+        "crc32": "c4b7c0b0"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 06).bin",
+      "filesize": 55911744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a737486634e348581c4561a36df138b7",
+        "sha1": "da3528a3140b6f7c0f9050bff27b33dcca31e943",
+        "crc32": "3e6628e3"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 07).bin",
+      "filesize": 56264544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07cf1d849077d1687e758345551323bd",
+        "sha1": "fbb5077e6dbb56dc88d2751ac38e6c516a783ec1",
+        "crc32": "599f1ef0"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 08).bin",
+      "filesize": 57588720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02e9c786255a1fd557a63950f011a9eb",
+        "sha1": "14cd3a70ad99167412bf45f45d4da514647780f3",
+        "crc32": "c1ce2207"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 09).bin",
+      "filesize": 54258288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b914de6bda61c383990786d4cf316cd",
+        "sha1": "b99d18164690e105b60315b3b4db91fb72c82d00",
+        "crc32": "1ad28555"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 10).bin",
+      "filesize": 68095104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e717289be3b00deaca30e5a6ab2cf8f",
+        "sha1": "ea1660b6866aa00f47e0b1f6b16d866214735060",
+        "crc32": "0e62a3e4"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 11).bin",
+      "filesize": 51656976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8814f3ffa79b9f3ae036c2e73855f8e",
+        "sha1": "af3a0c0147b0f7c7bc3d1b261403c93c5c5218c4",
+        "crc32": "da0502c2"
+      }
+    },
+    {
+      "filename": "Wipeout (Japan) (Track 12).bin",
+      "filesize": 66509856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a6c8ab7472a6c263aa2ea13e908f43b7",
+        "sha1": "e238704c87f63bb70934cd6919f74fa0f6c944df",
+        "crc32": "511a2b3e"
+      }
+    }
+  ]
+}

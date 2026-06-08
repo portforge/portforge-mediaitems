@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Power 4 (Spain) (En,Es) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Power 4 (Spain) (En,Es) (Demo).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7aad6d6628cc94b9fb88459b239b9247",
+        "sha1": "5ce1cbeb14659a731ac94f34628f41ffadfd9a4c",
+        "crc32": "4ae51593"
+      }
+    },
+    {
+      "filename": "Play Power 4 (Spain) (En,Es) (Demo) (Track 1).bin",
+      "filesize": 322983696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6073468fae2ea5f08cc375e145318cb2",
+        "sha1": "51d13ed87b793d59882383fa47aa5e3debd5a85f",
+        "crc32": "46ac7ddf"
+      }
+    },
+    {
+      "filename": "Play Power 4 (Spain) (En,Es) (Demo) (Track 2).bin",
+      "filesize": 32982096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8e0057e1dd3ef2c37a6620fe7cc9bae",
+        "sha1": "770af171ac7fd79b03259680d313251e09f5d218",
+        "crc32": "a367e0fc"
+      }
+    }
+  ]
+}

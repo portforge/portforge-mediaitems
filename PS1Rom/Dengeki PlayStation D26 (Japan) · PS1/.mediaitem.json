@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D26 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D26 (Japan).cue",
+      "filesize": 357,
+      "ext": "cue",
+      "checksums": {
+        "md5": "360d49574e8412572a3ab0529b3d26c9",
+        "sha1": "bfafd7d73c1ee4599513a04806992c7177d1ec8f",
+        "crc32": "4ad99617"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D26 (Japan) (Track 1).bin",
+      "filesize": 673871520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30659e74e10d9850ed2a05c6fdbb4607",
+        "sha1": "7ddbb2c9bd9aa7fbc0fa77856294223522357a29",
+        "crc32": "d66748e8"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D26 (Japan) (Track 2).bin",
+      "filesize": 18171552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5f92b60001244cf8e7e0b3afd3120841",
+        "sha1": "a575e1c8fa81e639604317b1c1a4250ccc904647",
+        "crc32": "5115c1cf"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D26 (Japan) (Track 3).bin",
+      "filesize": 34247472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2e12085dbaa2d4325cab31ae50a7d9d",
+        "sha1": "7b379f6e7a0a1a08e92583d27c66e8d576ebb83c",
+        "crc32": "be720962"
+      }
+    }
+  ]
+}

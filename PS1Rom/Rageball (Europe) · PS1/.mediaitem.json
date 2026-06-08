@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rageball (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rageball (Europe).cue",
+      "filesize": 537,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b5198433cb1d284e2decf696843027f8",
+        "sha1": "1bf7db345ff14bb36aba59d09f32eaba0de9e429",
+        "crc32": "5548cf13"
+      }
+    },
+    {
+      "filename": "Rageball (Europe) (Track 1).bin",
+      "filesize": 23682288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c39cd01faf725cdb9248938acc2e552f",
+        "sha1": "5a65cff1869093fb015fa7e4d08adac282ca54e2",
+        "crc32": "af87797a"
+      }
+    },
+    {
+      "filename": "Rageball (Europe) (Track 2).bin",
+      "filesize": 30463104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a08071d31f7714c1424c8a4d0baf377",
+        "sha1": "61ecbcd1162046b99bb98f24feeb50a7b9c8a8be",
+        "crc32": "fc1a947e"
+      }
+    },
+    {
+      "filename": "Rageball (Europe) (Track 3).bin",
+      "filesize": 9878400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d95a5ecccf8e88bc65c44efcb660e5ba",
+        "sha1": "3c54d7e3f0ac32176479eb560df81b0d50cba03c",
+        "crc32": "cacc1962"
+      }
+    },
+    {
+      "filename": "Rageball (Europe) (Track 4).bin",
+      "filesize": 21875952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "138c79b5ce25981206102bb131ac8d36",
+        "sha1": "0b89b42565c858faa3d5a6af64650728659e2c09",
+        "crc32": "9aedc7bf"
+      }
+    },
+    {
+      "filename": "Rageball (Europe) (Track 5).bin",
+      "filesize": 56918400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "298ff6252a8c6d0ff0c17003c9e81e38",
+        "sha1": "0c2408284f4ccab20d0bdd77e7a1f79e7e9cb0a3",
+        "crc32": "954bdb15"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Akuji the Heartless (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Akuji the Heartless (USA).cue",
+      "filesize": 339,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0276f8b069f91b8f7ae59eaea705754b",
+        "sha1": "5ab81a7fa6051ae4ac928b8e5f8ca5aa34d050d0",
+        "crc32": "1f1a2459"
+      }
+    },
+    {
+      "filename": "Akuji the Heartless (USA) (Track 1).bin",
+      "filesize": 254542848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c470701db9955e606ca345d3140cc2e",
+        "sha1": "5ec2732553ba284de04be2238e740b188ee7c6bd",
+        "crc32": "08602620"
+      }
+    },
+    {
+      "filename": "Akuji the Heartless (USA) (Track 2).bin",
+      "filesize": 23955120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f7a3af1c0ef61f78892ca261178a236",
+        "sha1": "de8cae4791b8a037353a4181663cd7af68529f9b",
+        "crc32": "c65c7898"
+      }
+    },
+    {
+      "filename": "Akuji the Heartless (USA) (Track 3).bin",
+      "filesize": 33433680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebd44e53b21b74de892bc9d789ec1894",
+        "sha1": "fa11b6fdc62ce642de5779339f862759b6f6f858",
+        "crc32": "06b2472c"
+      }
+    }
+  ]
+}

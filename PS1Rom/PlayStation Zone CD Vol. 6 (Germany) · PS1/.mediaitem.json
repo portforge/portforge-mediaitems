@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Zone CD Vol. 6 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Zone CD Vol. 6 (Germany).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f63c18d0d0435250a8d57e3ce567ed0",
+        "sha1": "4da8f5dcc0493c2c701696032aabe993fffe44a7",
+        "crc32": "a325d342"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 6 (Germany) (Track 1).bin",
+      "filesize": 479323488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e91f4fdf79c40c0363ef8bdf56a71fc6",
+        "sha1": "908e010ebc2cf4d88d29536881de66effcca6b76",
+        "crc32": "06ab8aef"
+      }
+    },
+    {
+      "filename": "PlayStation Zone CD Vol. 6 (Germany) (Track 2).bin",
+      "filesize": 33064416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb426fabe138c1eb6fdcfdcb05ec80ca",
+        "sha1": "dc7ea8ceb6c9d0bf33b76cd556fa6e7273b8533b",
+        "crc32": "87c257d9"
+      }
+    }
+  ]
+}

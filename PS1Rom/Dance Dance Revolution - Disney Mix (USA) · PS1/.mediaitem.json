@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dance Dance Revolution - Disney Mix (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dance Dance Revolution - Disney Mix (USA).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "285fb56422d89cc946c2f8b8d32f7b63",
+        "sha1": "df4a045b43d19a022c6f538b34f6651525f24f22",
+        "crc32": "15567e18"
+      }
+    },
+    {
+      "filename": "Dance Dance Revolution - Disney Mix (USA).bin",
+      "filesize": 251367648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c31eb238c63351abbd411e6412800a78",
+        "sha1": "10c604d8899ab28b7e2b5fdef677e1972a687ce1",
+        "crc32": "51276514"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA in the Zone (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA in the Zone (Europe).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ae920ff45e70244028e318a000e3648",
+        "sha1": "bcc52e94f56dda9d7c77c76c24fb1aeec9bd3098",
+        "crc32": "0156587d"
+      }
+    },
+    {
+      "filename": "NBA in the Zone (Europe).bin",
+      "filesize": 583785216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abf180a45953bb973f803fba533f8d59",
+        "sha1": "840354a37acea3c857d8c47c40de452462ab6d73",
+        "crc32": "7a536d4b"
+      }
+    }
+  ]
+}

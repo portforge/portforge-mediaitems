@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Saibara Rieko no Mahjong Toriatama Kikou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Saibara Rieko no Mahjong Toriatama Kikou (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "934141ec2ba8593d97fa41d8e47bdcb5",
+        "sha1": "8b7d47058bada1b63a9770d72a348834fe914b53",
+        "crc32": "2535e7d3"
+      }
+    },
+    {
+      "filename": "Saibara Rieko no Mahjong Toriatama Kikou (Japan).bin",
+      "filesize": 329223552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cc0fb3c6f2475bcebc85bb36d764e39",
+        "sha1": "8f3c0af5f2397d4901e07946a1f7890eb2c90bf7",
+        "crc32": "9b1d5a9d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "King of Fighters '97, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "King of Fighters '97, The (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b93e0dca4ca85c5c8e804102d037e3a4",
+        "sha1": "1891f91cf80c035e9d09cbee50911f5fd6b5832c",
+        "crc32": "36937a86"
+      }
+    },
+    {
+      "filename": "King of Fighters '97, The (Japan).bin",
+      "filesize": 418540752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c51060bbaf3adb027f0a81fea271cbcb",
+        "sha1": "9e81c3bbd1b60571d4c6ab37c58abc97a35b77e2",
+        "crc32": "9a29d4db"
+      }
+    }
+  ]
+}

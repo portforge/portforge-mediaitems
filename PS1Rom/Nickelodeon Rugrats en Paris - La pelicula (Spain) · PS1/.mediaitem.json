@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Rugrats en Paris - La pelicula (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Rugrats en Paris - La pelicula (Spain).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e363c3334466e3f5763fdfc591cd62d",
+        "sha1": "f66d1e97a579c7b61827da639835d3f769d9954e",
+        "crc32": "b0d14acf"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats en Paris - La pelicula (Spain).bin",
+      "filesize": 176329440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2cbaff59e957cef4887b14ba379cad9",
+        "sha1": "a3e18e24b82a75111e8be72220ba42f04d1fe2c1",
+        "crc32": "f740f81e"
+      }
+    }
+  ]
+}

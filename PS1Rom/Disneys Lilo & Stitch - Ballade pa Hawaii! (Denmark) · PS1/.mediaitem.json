@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Lilo & Stitch - Ballade pa Hawaii! (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Lilo & Stitch - Ballade pa Hawaii! (Denmark).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "271da30ff72d1a52449c7c9cb4710ecc",
+        "sha1": "ef1b74ef7f68c82de0b338da037bce817bafc52e",
+        "crc32": "327f4d2e"
+      }
+    },
+    {
+      "filename": "Disneys Lilo & Stitch - Ballade pa Hawaii! (Denmark).bin",
+      "filesize": 477074976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a19676915595210621fe060febee32a5",
+        "sha1": "6dda6bda295b244a410e5f02ba90c75f3d2994ec",
+        "crc32": "a891148c"
+      }
+    }
+  ]
+}

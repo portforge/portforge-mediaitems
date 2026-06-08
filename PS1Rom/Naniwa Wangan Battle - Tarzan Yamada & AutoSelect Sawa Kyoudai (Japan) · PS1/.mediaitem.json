@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Naniwa Wangan Battle - Tarzan Yamada & AutoSelect Sawa Kyoudai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Naniwa Wangan Battle - Tarzan Yamada & AutoSelect Sawa Kyoudai (Japan).cue",
+      "filesize": 136,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b90f193009e2c7c72493335e3e9b688b",
+        "sha1": "15fb0e424caae176d87278caa740cb282d1676d2",
+        "crc32": "e5743519"
+      }
+    },
+    {
+      "filename": "Naniwa Wangan Battle - Tarzan Yamada & AutoSelect Sawa Kyoudai (Japan).bin",
+      "filesize": 315852432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc17eeaf7c48f11e0c625de8be1bf5ea",
+        "sha1": "58cf3e7d03d78630f966e2b8ac0cf87d24d5d43f",
+        "crc32": "199a3149"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ReBoot (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ReBoot (France).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d4b4d179671818bd0d9d20d2bef63dd",
+        "sha1": "89a688470fd9c2150d95e18b357ce4f6e0a79446",
+        "crc32": "49da8ae3"
+      }
+    },
+    {
+      "filename": "ReBoot (France).bin",
+      "filesize": 748107696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1ac39cc74974051597093968c107690",
+        "sha1": "cb9d2d1c916c6dc2dfada998fdd5b3d4e77b10ad",
+        "crc32": "e4d161bf"
+      }
+    }
+  ]
+}

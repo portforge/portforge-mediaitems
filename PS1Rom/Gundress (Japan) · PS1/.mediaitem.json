@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gundress (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gundress (Japan).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "96b019e0f0e22defeb50ba780c9f34cc",
+        "sha1": "ace5e97b1995efa89f43b5643d7b9867b1cd55ab",
+        "crc32": "18f87088"
+      }
+    },
+    {
+      "filename": "Gundress (Japan).bin",
+      "filesize": 455391888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "376e23119238a9d2a2f49b8f2b251259",
+        "sha1": "1873cb3925a5d5a011eee98e25eaeb26396df56f",
+        "crc32": "72492a07"
+      }
+    }
+  ]
+}

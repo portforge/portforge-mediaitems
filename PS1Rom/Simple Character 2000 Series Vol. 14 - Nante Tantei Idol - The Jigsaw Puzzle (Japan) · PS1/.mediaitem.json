@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple Character 2000 Series Vol. 14 - Nante Tantei Idol - The Jigsaw Puzzle (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple Character 2000 Series Vol. 14 - Nante Tantei Idol - The Jigsaw Puzzle (Japan).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c01271f7c927d553a2673983bf63602f",
+        "sha1": "622d19b30ffd463443d5ff59a0c3d6e21864fb33",
+        "crc32": "758c87ab"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 14 - Nante Tantei Idol - The Jigsaw Puzzle (Japan).bin",
+      "filesize": 343300272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c485d26d4d2def7e748f343c43e2e9a4",
+        "sha1": "64646aae513827360eb17d53328323b00d96792d",
+        "crc32": "8cb77721"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Registered Users Demo 04 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Registered Users Demo 04 (Europe).cue",
+      "filesize": 1262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c33ee26a531519800fe1fdcbebb051a9",
+        "sha1": "3c2573056c7b7e64c28f1ee2bdd0d5fb79a7a820",
+        "crc32": "2d0b43ce"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 01).bin",
+      "filesize": 487372032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d512dac3eaa0b510ac1ef3b44c29203",
+        "sha1": "b55bb412842dfc0b2353b94de6122f64f00f4d0e",
+        "crc32": "453a3b34"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 02).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3baa78d0933dabfbb7f2a5a4952bb8ee",
+        "sha1": "17a0ebe7f4c4770275e660dbde59048a0244abc9",
+        "crc32": "1469c27f"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 03).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09c3ba82e23bc1cf36a133e71af7704c",
+        "sha1": "14fc73f00397809738a0d11cd0cc408dade1386d",
+        "crc32": "ba97911a"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 04).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73de23dcaae61b065e2edf310040fd93",
+        "sha1": "55668cde8fadbcb0ab60b68f5ca87a98c37cdf60",
+        "crc32": "3920e8ef"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 05).bin",
+      "filesize": 9466800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "629ec8d58e0ee95748a307fbf2dc52e5",
+        "sha1": "615ee31779cf2902d24034f9f29fb79f87ec054f",
+        "crc32": "eece87f1"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 06).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97cf5a55da820ff064bde615f142ac0e",
+        "sha1": "8618e11fb651ff1d223cb9f1d617875cb9ca208c",
+        "crc32": "c1094b3d"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 07).bin",
+      "filesize": 29743392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db4d1a78bf627c3049309ba4a9f7137",
+        "sha1": "eae7e7732799438efb2ddb299729232136f1e6ae",
+        "crc32": "4f64b28d"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 08).bin",
+      "filesize": 32046000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "681cefde3776ede56642e5f6115c62f0",
+        "sha1": "1cf0dc0032c56206d3b16e10c48bfbb8fbb1b1b3",
+        "crc32": "db5c35e7"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 09).bin",
+      "filesize": 27118560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db49061ad2aae6acda9245657d24b65d",
+        "sha1": "1c374632413634a0d7f5a18e05ca2b498983c5c7",
+        "crc32": "430df303"
+      }
+    },
+    {
+      "filename": "Registered Users Demo 04 (Europe) (Track 10).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

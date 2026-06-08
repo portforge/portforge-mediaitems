@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Charumera (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Charumera (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "077272ff4ff81f4ba7b6162330359fb3",
+        "sha1": "0039458e630e48e16afe39cd556a4350b0c9a101",
+        "crc32": "3731dffe"
+      }
+    },
+    {
+      "filename": "Charumera (Japan).bin",
+      "filesize": 168866544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fd00dac5b1d64274e99ddf036589cbf",
+        "sha1": "dd9dc5cb453ae5f4336e9fcc7977feed55dae552",
+        "crc32": "268086db"
+      }
+    }
+  ]
+}

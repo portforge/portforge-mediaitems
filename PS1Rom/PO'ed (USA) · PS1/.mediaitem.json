@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PO'ed (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PO'ed (USA).cue",
+      "filesize": 402,
+      "ext": "cue",
+      "checksums": {
+        "md5": "29da1d8db946b88e24a84af080231416",
+        "sha1": "88e0c230bd4d27ae619ba46355073efb9368363a",
+        "crc32": "c38976a1"
+      }
+    },
+    {
+      "filename": "PO'ed (USA) (Track 1).bin",
+      "filesize": 59797248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0a315866b4e1fdf3ca34f5ba27b09327",
+        "sha1": "59d36233027ef96dd64d5c0d90b6b9d2f0aafb77",
+        "crc32": "127b1ed9"
+      }
+    },
+    {
+      "filename": "PO'ed (USA) (Track 2).bin",
+      "filesize": 40299168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a50ac50693f71fe31e229f7e051ddb7e",
+        "sha1": "ce2fdb4fdd55779f3fe07444b4e224349dc0563d",
+        "crc32": "db8513d6"
+      }
+    },
+    {
+      "filename": "PO'ed (USA) (Track 3).bin",
+      "filesize": 14589456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "561f5a3fa92a1223846d96e01af21fc9",
+        "sha1": "cfd8475cade90a1e28189e231a496434ecac12fa",
+        "crc32": "77292f22"
+      }
+    },
+    {
+      "filename": "PO'ed (USA) (Track 4).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d78919a589b78b7b47aed908e51c5bf2",
+        "sha1": "b4361cb44464a5c33d4869fb2406574080e02d8a",
+        "crc32": "4ba8d183"
+      }
+    }
+  ]
+}

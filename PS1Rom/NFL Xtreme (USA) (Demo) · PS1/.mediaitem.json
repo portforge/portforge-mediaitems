@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL Xtreme (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL Xtreme (USA) (Demo).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a8afa77daaf015e3a1bc90d60989ac96",
+        "sha1": "dade8e46c723ccc597dd7365c46619bb201ed1d0",
+        "crc32": "53a73c54"
+      }
+    },
+    {
+      "filename": "NFL Xtreme (USA) (Demo).bin",
+      "filesize": 88063584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee2fb4bebdcae9c9e2a5a04c50532eeb",
+        "sha1": "9c0d004125576f2c49880d76cd8bc431dde4f012",
+        "crc32": "e5898ed4"
+      }
+    }
+  ]
+}

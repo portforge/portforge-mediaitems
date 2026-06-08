@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Next Wave Herbst '98 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Next Wave Herbst '98 (Germany).cue",
+      "filesize": 478,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14f41e2a24881144c68871ab11289a64",
+        "sha1": "46ad5c27a7b809e7cb687ce1ec506203e16709ca",
+        "crc32": "065b1c9b"
+      }
+    },
+    {
+      "filename": "Next Wave Herbst '98 (Germany) (Track 1).bin",
+      "filesize": 245577024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7250ee2784e0b5cf9b7a1751aa2505e2",
+        "sha1": "e1f284794a58329244d8b20419be2c9d95138909",
+        "crc32": "0146b7ea"
+      }
+    },
+    {
+      "filename": "Next Wave Herbst '98 (Germany) (Track 2).bin",
+      "filesize": 17896368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecdf932613d66c7cf9b2157faa9b7e64",
+        "sha1": "e45f08e2b6a34157133af25def21efa3d9d078a9",
+        "crc32": "b0b7fc09"
+      }
+    },
+    {
+      "filename": "Next Wave Herbst '98 (Germany) (Track 3).bin",
+      "filesize": 5997600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dda5fa5f7052d455d2a15a2cf6bb76e0",
+        "sha1": "36a8e77d13565c6948144df3ea9f173c78135dca",
+        "crc32": "8e21aa1a"
+      }
+    },
+    {
+      "filename": "Next Wave Herbst '98 (Germany) (Track 4).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

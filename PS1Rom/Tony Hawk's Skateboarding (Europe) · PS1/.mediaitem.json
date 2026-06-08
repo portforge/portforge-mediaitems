@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Skateboarding (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Skateboarding (Europe).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce8cadd8329d0cf9e91bb681704f1778",
+        "sha1": "d6f6f830b780d23113f116a45035d287ff973131",
+        "crc32": "18afcdf0"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Skateboarding (Europe).bin",
+      "filesize": 660853200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6793743bc98f9602b2c743cd8cfd192b",
+        "sha1": "292d772959c9890bd65aacb75bcb6ec7ffebbe71",
+        "crc32": "80ca2c64"
+      }
+    }
+  ]
+}

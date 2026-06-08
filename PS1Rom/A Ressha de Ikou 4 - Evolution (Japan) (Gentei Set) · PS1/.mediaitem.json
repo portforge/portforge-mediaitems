@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "A Ressha de Ikou 4 - Evolution (Japan) (Gentei Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution (Japan) (Gentei Set).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "78d86f49d59a960bb5f76a899ea12ff7",
+        "sha1": "dc24528b0dc8fda30de522da1c829a712a41ec7a",
+        "crc32": "b1872bc1"
+      }
+    },
+    {
+      "filename": "A Ressha de Ikou 4 - Evolution (Japan) (Gentei Set).bin",
+      "filesize": 28129920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ee43cf04efbc7729a3f033abcf7969b",
+        "sha1": "f575ae1bdc8dda3d36bbe9fce530422a27cf0e5d",
+        "crc32": "c609fc81"
+      }
+    }
+  ]
+}

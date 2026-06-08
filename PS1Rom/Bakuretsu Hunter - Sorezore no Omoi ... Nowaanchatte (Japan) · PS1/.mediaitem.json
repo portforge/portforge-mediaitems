@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bakuretsu Hunter - Sorezore no Omoi ... Nowaanchatte (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bakuretsu Hunter - Sorezore no Omoi ... Nowaanchatte (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "14dd416040aa1817c1156460309086a4",
+        "sha1": "60313d97c4ffa232b8a46bb0405991063efdc891",
+        "crc32": "b210871b"
+      }
+    },
+    {
+      "filename": "Bakuretsu Hunter - Sorezore no Omoi ... Nowaanchatte (Japan).bin",
+      "filesize": 744612624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "295ada011e08d29bb38f3543bdd3b2cc",
+        "sha1": "68b01e4ded49da5ebd375bd88e3c5edd2ee11ba6",
+        "crc32": "7b1f6e32"
+      }
+    }
+  ]
+}

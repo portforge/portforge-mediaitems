@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Clock Tower 2 (Japan) (Demo 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Clock Tower 2 (Japan) (Demo 1).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cafc80888c1c8b5333176e8842b9460d",
+        "sha1": "4232c0522d4b1d8fe2bc5613958f9d57da64fa32",
+        "crc32": "bdcdb0d8"
+      }
+    },
+    {
+      "filename": "Clock Tower 2 (Japan) (Demo 1).bin",
+      "filesize": 496046208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9719a5194e0767e8167d03a5aacb5b26",
+        "sha1": "f0c274062a1d13ba493cf1c43ad54c7f11e2dabf",
+        "crc32": "5d0af674"
+      }
+    }
+  ]
+}

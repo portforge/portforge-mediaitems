@@ -1,0 +1,157 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sheep (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sheep (USA).cue",
+      "filesize": 1466,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4882ad4a93daca664b7a48a8dc1d59b5",
+        "sha1": "0ac534c1300b3d4749d39c5c116d147f1c46a26b",
+        "crc32": "f884252b"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 01).bin",
+      "filesize": 224625408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "028fc11f2bee41b565c76623a4cd6553",
+        "sha1": "dfafbbfbc30f1809e4db4698e0eff355c8c2c1f1",
+        "crc32": "74a71f64"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 02).bin",
+      "filesize": 16445184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c800da7d462f5c466cd613dd4dcfb7f",
+        "sha1": "409ab51231b4f4fbf266ad82584c5ad8bfd651b3",
+        "crc32": "2271ee3a"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 03).bin",
+      "filesize": 42836976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b68f12302231e1e71d05bd3d7433f350",
+        "sha1": "1aed3af32c2f4673683817f97a325f2177ed325e",
+        "crc32": "e4a417c8"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 04).bin",
+      "filesize": 44744448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4a4b8ecd505e4e73d19deb7bca5df9b",
+        "sha1": "c6a0d6480bcba49078ef24219cacd51168bb36cd",
+        "crc32": "1b0a4dbc"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 05).bin",
+      "filesize": 43192128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a127ad359f9d3ef34ad96b793d6df92a",
+        "sha1": "87cb6585353bd7004d58687ecd89589ba361dece",
+        "crc32": "6a749325"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 06).bin",
+      "filesize": 44481024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ef8a613d884d42a87859e9fe501cbb6",
+        "sha1": "9e3c7da3ac8db449bcf0f65dbc1b7a1c5c508481",
+        "crc32": "499b5e9c"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 07).bin",
+      "filesize": 44250528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b291d3ceb365fad78b071b19ce5d4249",
+        "sha1": "609100b8469bb8a2610076a4346fb8fb560300a1",
+        "crc32": "861debd9"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 08).bin",
+      "filesize": 43907136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b994b26046438390d528eb957e75a929",
+        "sha1": "dd1168a9facc64ffbebd4d8f57f90bd337902d0a",
+        "crc32": "e698c91f"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 09).bin",
+      "filesize": 44227008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "884b4f962aef8325ed086c1e6d8250a2",
+        "sha1": "021037246e167a51cdaf4c5ab265c7711fe4c5f5",
+        "crc32": "edbb3b04"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 10).bin",
+      "filesize": 17218992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e3c38c8d8646b4a6375427bbfe4dd59",
+        "sha1": "eeb82852a5250feab8065339a5b32b3cb1bd6a92",
+        "crc32": "4a45f211"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 11).bin",
+      "filesize": 44518656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aea7492eb64e9263a7f3b6535b916f13",
+        "sha1": "840f31fce1c36ad4aa4b24a46598a0374c1c7c7c",
+        "crc32": "aca04b89"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 12).bin",
+      "filesize": 44944368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54b981e76c2be7b9b1a0b00075de0711",
+        "sha1": "6ccaa53b44857198ed30488743505c045b38746e",
+        "crc32": "616ce884"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 13).bin",
+      "filesize": 44189376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26eec2d38b837ea644ad8206e5d87b41",
+        "sha1": "4df9f8302163d9d73167191bfbed2ebb3108bd01",
+        "crc32": "5f3e2fc9"
+      }
+    },
+    {
+      "filename": "Sheep (USA) (Track 14).bin",
+      "filesize": 40586112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d5723c4391d492408f22c3f7616f2fe",
+        "sha1": "296097676d3bc1b9f8abdd464e5263fc8c3b0041",
+        "crc32": "cf94bf66"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Smash Court 3 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Smash Court 3 (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "56590b9ac6404e8df0d7d6adbb53192f",
+        "sha1": "add24f3b8be35761a0c754e8eaa5e2d65d504ba5",
+        "crc32": "eafc622a"
+      }
+    },
+    {
+      "filename": "Smash Court 3 (Japan).bin",
+      "filesize": 366312240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b39bd58db8f7dfe6f2405ad1dfe7e8e7",
+        "sha1": "de0d9dd58fea085b56702db6936c7e8697b0ba45",
+        "crc32": "a6f77079"
+      }
+    }
+  ]
+}

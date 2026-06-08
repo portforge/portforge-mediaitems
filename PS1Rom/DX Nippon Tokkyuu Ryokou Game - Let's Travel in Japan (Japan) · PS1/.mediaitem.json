@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DX Nippon Tokkyuu Ryokou Game - Let's Travel in Japan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DX Nippon Tokkyuu Ryokou Game - Let's Travel in Japan (Japan).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ebc59921a62f276c65683f83af84a3cb",
+        "sha1": "7bf8536bccfcbdef878c9b0e26d30089fa2c09fb",
+        "crc32": "e1b5a1e3"
+      }
+    },
+    {
+      "filename": "DX Nippon Tokkyuu Ryokou Game - Let's Travel in Japan (Japan).bin",
+      "filesize": 68205648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "211c7967e815fe563b264449dbe77aff",
+        "sha1": "fe248e9c1f19d93dbe1fef9bc5758b80ec7d34a2",
+        "crc32": "572ebff6"
+      }
+    }
+  ]
+}

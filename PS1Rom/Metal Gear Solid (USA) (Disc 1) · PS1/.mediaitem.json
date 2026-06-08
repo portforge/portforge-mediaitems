@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (USA) (Disc 1).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc8702cbdefb5409c12e7b12ce2ec1a7",
+        "sha1": "4c07759f5cf4a8c1bb0b6b2f66d5edde071cd2f9",
+        "crc32": "9fb64b2e"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (USA) (Disc 1).bin",
+      "filesize": 705614112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1ff786c5ff2fc4c0701a1fee068ea95",
+        "sha1": "848fcd22794526bfd093030c6d6ae6b632d87e4b",
+        "crc32": "51f233cd"
+      }
+    }
+  ]
+}

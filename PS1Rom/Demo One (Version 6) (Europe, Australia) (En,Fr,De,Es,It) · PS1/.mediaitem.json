@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Demo One (Version 6) (Europe, Australia) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Demo One (Version 6) (Europe, Australia) (En,Fr,De,Es,It).cue",
+      "filesize": 284,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a3348b5afbd9cb87931d6b69884c460",
+        "sha1": "e334bf4f8336b2c197c5faa86f2ddda1df5145eb",
+        "crc32": "0d65f051"
+      }
+    },
+    {
+      "filename": "Demo One (Version 6) (Europe, Australia) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 446139120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cff5fc532e09d2d3c89c1719c5ee77a3",
+        "sha1": "1430fe785bf3da49cb033c85739bdd6836d5e0f2",
+        "crc32": "6fe557e6"
+      }
+    },
+    {
+      "filename": "Demo One (Version 6) (Europe, Australia) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

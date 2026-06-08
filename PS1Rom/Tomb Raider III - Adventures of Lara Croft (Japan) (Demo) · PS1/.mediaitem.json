@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Adventures of Lara Croft (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Japan) (Demo).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "527811258e6db226c8f8929e79e68402",
+        "sha1": "5bd624c2dba895ec22be2ec7a78ecae538123f1a",
+        "crc32": "2a329e0e"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Japan) (Demo).bin",
+      "filesize": 509659584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7b565d894e74a9fb7cbc86beb0bab23",
+        "sha1": "6745efce5c8b4c0e212ab421e8e0831dc84ecbd6",
+        "crc32": "19a9b55b"
+      }
+    }
+  ]
+}

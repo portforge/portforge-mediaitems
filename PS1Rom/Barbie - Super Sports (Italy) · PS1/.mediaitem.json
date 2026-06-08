@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Barbie - Super Sports (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Barbie - Super Sports (Italy).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "480ebfdc08fb60c63c1e64238eb2cb2a",
+        "sha1": "194d78721779e230dfb78210eb88369784621626",
+        "crc32": "2d3e3d78"
+      }
+    },
+    {
+      "filename": "Barbie - Super Sports (Italy).bin",
+      "filesize": 332095344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53773264a486c87da3781dfe855d6560",
+        "sha1": "2fbbe93d3445af5953335bfca913841b74758e60",
+        "crc32": "500812b7"
+      }
+    }
+  ]
+}

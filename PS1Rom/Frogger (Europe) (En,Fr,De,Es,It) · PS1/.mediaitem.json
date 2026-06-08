@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Frogger (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Frogger (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1503471ee3a19fa6b6f84f6bbb5bbceb",
+        "sha1": "5a637b481e2de4bc029758ca43b3ae124bfc2cfa",
+        "crc32": "3d7b2874"
+      }
+    },
+    {
+      "filename": "Frogger (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 221760672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ec0caff1ad66e4cb9f92f6f8c3c55f7",
+        "sha1": "47040b75534ecfe9542134ee9cd0ec28529c25c1",
+        "crc32": "d542b51c"
+      }
+    },
+    {
+      "filename": "Frogger (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e32c947dd29cdd651b82b95c249d6af",
+        "sha1": "4c98a1adc53f5e15052f9b7e12eb927e42db9b78",
+        "crc32": "659b58ea"
+      }
+    }
+  ]
+}

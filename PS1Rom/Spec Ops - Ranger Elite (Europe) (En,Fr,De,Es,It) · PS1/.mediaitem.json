@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spec Ops - Ranger Elite (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spec Ops - Ranger Elite (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5fdf1d26f78617ff82d6ebcec205d35",
+        "sha1": "dc6a08ef68d84f96339ca3523b4c697f87eecefb",
+        "crc32": "6548f462"
+      }
+    },
+    {
+      "filename": "Spec Ops - Ranger Elite (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 195406512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3279c85049903acd76407740b8fe4b11",
+        "sha1": "7f76699182289c1cfefa593f72cb643deaa689c8",
+        "crc32": "19a1f5ce"
+      }
+    }
+  ]
+}

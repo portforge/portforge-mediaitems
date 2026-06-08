@@ -1,0 +1,167 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bowling (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bowling (USA).cue",
+      "filesize": 1602,
+      "ext": "cue",
+      "checksums": {
+        "md5": "786330003b1a42856d6411ab7b0d38e1",
+        "sha1": "8b8bf55436632d2f85af78b461c9407b97392175",
+        "crc32": "7b46031e"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 01).bin",
+      "filesize": 7740432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c4741d1857915ee8e6a8a39be64c90d",
+        "sha1": "d224f6c1869d05c6f455441d1e63f8a8588201fa",
+        "crc32": "a314bb68"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 02).bin",
+      "filesize": 2224992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7e97ec8f1c7abb809ef982ea624a606",
+        "sha1": "14d1dd8583907781652079ddb82dacb5e989ab37",
+        "crc32": "88f2430d"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 03).bin",
+      "filesize": 1938048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6920cd652ed3d5b5c62d99fe1b08f64b",
+        "sha1": "f03daf719d3964d7ffc0d08727e6ecc896275536",
+        "crc32": "94c658a9"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 04).bin",
+      "filesize": 2288496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da5e3473286cd17563113b626a058721",
+        "sha1": "50dcd57e8393aa819b13a34d84d2517c68ad71a2",
+        "crc32": "4d4dd0e6"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 05).bin",
+      "filesize": 2733024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd4243b92c7da2be8dd294674af925fa",
+        "sha1": "059c4821fd3b053e116dd61d74b3be7c8e2dbc98",
+        "crc32": "0435c696"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 06).bin",
+      "filesize": 2053296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b05001d05a5be79955e5e6df0e2ec161",
+        "sha1": "4333a3d45ff4ec149436de5458e6d6137bb766a5",
+        "crc32": "8ae0eba0"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 07).bin",
+      "filesize": 2121504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf5144cf8845dfa5d26f8931dd6c1888",
+        "sha1": "fe3c8070990b357ae71ab2563d77e6a27932288a",
+        "crc32": "9a1b9c00"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 08).bin",
+      "filesize": 1632288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "114f401438e6be0b8e7cea9e008cd17a",
+        "sha1": "273c5242dd71cb4a2baeb1bdb80f0cf08922d61c",
+        "crc32": "11a67422"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 09).bin",
+      "filesize": 1855728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dbeaffa6cfabb8f4647cfa7f72e95ca9",
+        "sha1": "98297b41ff1dfb857bc9022e82d86ab68d5e707b",
+        "crc32": "c6a38fcd"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 10).bin",
+      "filesize": 1905120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "172908a3e3fd016472513a4e9f27610d",
+        "sha1": "d646c64d57321f52298297ae84d79df00b95bf89",
+        "crc32": "58f810f4"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 11).bin",
+      "filesize": 2097984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ebb1646fd2746a947b816365439e9fb",
+        "sha1": "96e49dd451387fef6d39ae33e2f3b4807eac432c",
+        "crc32": "93f402f5"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 12).bin",
+      "filesize": 2399040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd995396af73a4b025c2e5acf46a66bd",
+        "sha1": "7254a6b514b73255c14da2a34d8155e83f94f4fc",
+        "crc32": "8ab1869c"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 13).bin",
+      "filesize": 35849184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e5314e4a60fe1b3b3e647213afdd5486",
+        "sha1": "c099855c01cdd25af610aa2c4c2d65410edd45b1",
+        "crc32": "be6b7f77"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 14).bin",
+      "filesize": 44441040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce8cb2b1b9be1879f02ad7b48b329d8a",
+        "sha1": "fb61404f16b10937330655078942fb4a091ec54e",
+        "crc32": "efdbdb22"
+      }
+    },
+    {
+      "filename": "Bowling (USA) (Track 15).bin",
+      "filesize": 16313472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10948fd42cc79a68b535b7605c2696e9",
+        "sha1": "21b7f6a1646c79efef7ef22445d6e6e29c4db1fb",
+        "crc32": "60e7c9c6"
+      }
+    }
+  ]
+}

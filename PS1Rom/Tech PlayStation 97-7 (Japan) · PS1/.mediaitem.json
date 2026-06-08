@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tech PlayStation 97-7 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tech PlayStation 97-7 (Japan).cue",
+      "filesize": 720,
+      "ext": "cue",
+      "checksums": {
+        "md5": "43d05ac17917a585c92a451d4683a741",
+        "sha1": "58d11c570ecaccf4fcf840d7fcbb57169b8b600c",
+        "crc32": "44a8174f"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-7 (Japan) (Track 1).bin",
+      "filesize": 563927280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "365cbf2e27029a03414b425e6622ce26",
+        "sha1": "f0dc5508fee67006b092c4a55c8d7e7e019f794b",
+        "crc32": "c5606414"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-7 (Japan) (Track 2).bin",
+      "filesize": 23828112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b5bbd1916b08c6e989f81f6e9cb4480",
+        "sha1": "98adcd4f82c1cda24e4ac4e87b61a23b43128d55",
+        "crc32": "1a66dbed"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-7 (Japan) (Track 3).bin",
+      "filesize": 20003760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de9be93fdae48ffd4a4e5f0a5f4268a3",
+        "sha1": "730781d781d1cd06720b4356da04f55e837046c7",
+        "crc32": "3e5e547f"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-7 (Japan) (Track 4).bin",
+      "filesize": 12811344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62a67f21f31e4142c85552468d571744",
+        "sha1": "78e63ab32e173097fffdc65ce67b7939cded9f8e",
+        "crc32": "ee48ea66"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-7 (Japan) (Track 5).bin",
+      "filesize": 8290800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "081bd487a79a1f109f1149f84a49ff0a",
+        "sha1": "6ee709dc375b552389c349edf3dc39f6388e2e88",
+        "crc32": "4eda4f62"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-7 (Japan) (Track 6).bin",
+      "filesize": 44022384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "552b275b7a37af135bf22441be51d827",
+        "sha1": "f086a23b50e44fb372775fb33ccb5f667b61aa48",
+        "crc32": "a26eb34c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Toon Adventures - Plucky's Big Adventure (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Toon Adventures - Plucky's Big Adventure (Europe) (En,Fr,De).cue",
+      "filesize": 300,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3f337743f1990023af1d84b16f5718e5",
+        "sha1": "8397d13113d8444175cf728f0407c18b6da195d4",
+        "crc32": "3bd161cc"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Plucky's Big Adventure (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 83486592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6db12dedd4e648d33eee0d7242fe39b8",
+        "sha1": "3ca3eb5137b21b4b7b6d3d3dfccc487d5ba1de02",
+        "crc32": "c9e4b0af"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Plucky's Big Adventure (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 32833920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f4544d5c91b8c7a8ab7d2fd621ff4e5",
+        "sha1": "3259606b1fc81f012423ffbc46f4ebb58b644c3a",
+        "crc32": "444874a1"
+      }
+    }
+  ]
+}

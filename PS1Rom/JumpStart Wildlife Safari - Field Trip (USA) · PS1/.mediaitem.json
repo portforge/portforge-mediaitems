@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "JumpStart Wildlife Safari - Field Trip (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "JumpStart Wildlife Safari - Field Trip (USA).cue",
+      "filesize": 258,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8d15fe5d758d5a2516fe526c07791181",
+        "sha1": "76c8e5569b50c01a1f376cd95fb677db2c09c5f4",
+        "crc32": "73b284c1"
+      }
+    },
+    {
+      "filename": "JumpStart Wildlife Safari - Field Trip (USA) (Track 1).bin",
+      "filesize": 72095856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed163936d3817cb0127c9e22e500b331",
+        "sha1": "9fab02fa5abab0d759b83899b096b538e90c769d",
+        "crc32": "c3b31627"
+      }
+    },
+    {
+      "filename": "JumpStart Wildlife Safari - Field Trip (USA) (Track 2).bin",
+      "filesize": 130909968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "94e9b0229bd4f3320ba552f0803a8b68",
+        "sha1": "b0d95768347a016852badcedd26995acb54afa96",
+        "crc32": "a9f0c328"
+      }
+    }
+  ]
+}

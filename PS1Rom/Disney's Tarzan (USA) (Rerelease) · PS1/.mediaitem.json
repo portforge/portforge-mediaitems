@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Tarzan (USA) (Rerelease)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Tarzan (USA) (Rerelease).cue",
+      "filesize": 213,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7149f09eaa227ef0654f388091338b23",
+        "sha1": "d4a51f896af749a54c56dfc94ad1aefadaacd811",
+        "crc32": "80457b13"
+      }
+    },
+    {
+      "filename": "Disney's Tarzan (USA) (Rerelease) (Track 1).bin",
+      "filesize": 515229120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49f5e22f10b360acdb9473b440abefd0",
+        "sha1": "d219f57892ad79dd72d70db5b7cb3b57e4abb6a8",
+        "crc32": "1fa99e39"
+      }
+    },
+    {
+      "filename": "Disney's Tarzan (USA) (Rerelease) (Track 2).bin",
+      "filesize": 31752000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35870f16963a47300468144318039831",
+        "sha1": "9ec650855235fd5988add51a5f60e3412e76b71b",
+        "crc32": "464b6ce9"
+      }
+    }
+  ]
+}

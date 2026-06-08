@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Soccer 3 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Soccer 3 (Italy).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69aa3218d65a382808fd4982faad8e5b",
+        "sha1": "231e29166fdc49f535daa933dae6c178be6b31bd",
+        "crc32": "b3560e27"
+      }
+    },
+    {
+      "filename": "Actua Soccer 3 (Italy) (Track 1).bin",
+      "filesize": 358437744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "79f1b2d8e90222c8b540f4730c05d31e",
+        "sha1": "4ccd1e66ff755da00ce08cb091a80318a067a28e",
+        "crc32": "f3f10649"
+      }
+    },
+    {
+      "filename": "Actua Soccer 3 (Italy) (Track 2).bin",
+      "filesize": 46555488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba58d271ac749bf5cdf51032416f6157",
+        "sha1": "51fed26c49b1cdf204db76ebd4462ef642931e7a",
+        "crc32": "1150776d"
+      }
+    }
+  ]
+}

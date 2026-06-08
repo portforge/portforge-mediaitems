@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "City of Lost Children, The (Europe) (En,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "City of Lost Children, The (Europe) (En,Es,It).cue",
+      "filesize": 262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "66207b5ee957bf9fde1e38e4f0f90d50",
+        "sha1": "11f3ccb352181f20b77862f48797aacc7154f77e",
+        "crc32": "b52b6071"
+      }
+    },
+    {
+      "filename": "City of Lost Children, The (Europe) (En,Es,It) (Track 1).bin",
+      "filesize": 327264336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "573b5993fa96807c37eacbc88ead579d",
+        "sha1": "34521ec52b4ed319644ea9befc2a9e903f392c57",
+        "crc32": "71ae6138"
+      }
+    },
+    {
+      "filename": "City of Lost Children, The (Europe) (En,Es,It) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

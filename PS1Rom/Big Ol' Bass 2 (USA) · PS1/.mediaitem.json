@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Big Ol' Bass 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Big Ol' Bass 2 (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e7df699c8d5c8e8cc0038b0ca3f95e00",
+        "sha1": "4340f82f870f284962f87b263c26239959470a19",
+        "crc32": "ab1e3786"
+      }
+    },
+    {
+      "filename": "Big Ol' Bass 2 (USA).bin",
+      "filesize": 366949632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc171b34118e9a9cd5d5eb3958f09b15",
+        "sha1": "ee72551eb934f39c6c3794f8be52abc54e64255a",
+        "crc32": "ed51e9d5"
+      }
+    }
+  ]
+}

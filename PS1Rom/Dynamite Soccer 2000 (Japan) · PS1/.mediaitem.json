@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dynamite Soccer 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dynamite Soccer 2000 (Japan).cue",
+      "filesize": 1080,
+      "ext": "cue",
+      "checksums": {
+        "md5": "146837e5c9804094271ad85b3d41c69b",
+        "sha1": "5bc2412fe5cdc14eac6d87d9845c50a221d62101",
+        "crc32": "4c2b4842"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 1).bin",
+      "filesize": 4259472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "107fe8e462668a5a1770648b391f10ce",
+        "sha1": "e7d9f781d3d06a81d531f2a229201d67de911df6",
+        "crc32": "94ed3dd5"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 2).bin",
+      "filesize": 6682032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b32a77aea10dacb55397e66a13c89801",
+        "sha1": "7f63e893184c79b7bc7fe078a00ca4b258f3764f",
+        "crc32": "737c8f62"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 3).bin",
+      "filesize": 32582256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44bc36b1833fe95504999ffd3ef37b88",
+        "sha1": "598742e3badd698342283992276097f2ce049995",
+        "crc32": "68d79310"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 4).bin",
+      "filesize": 31853136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c312a629bf9c1a36d11b33dd3657af2",
+        "sha1": "153bdb284997e2f9bf7c094c7554cd73c9580f7f",
+        "crc32": "183684d0"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 5).bin",
+      "filesize": 32789232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "023000070efe0dae8c6d85d52f2e2ab7",
+        "sha1": "d2f14ecaa9e00a10e6abbb808fa973abb988899f",
+        "crc32": "c984af24"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 6).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6528104ff328124c45f9345be775c095",
+        "sha1": "a04142b811e26a79fd20e83ab6d6a01044c7559d",
+        "crc32": "cedf15bf"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 7).bin",
+      "filesize": 32212992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c389396ab58d86a78531a6f51920f5ac",
+        "sha1": "48d24db95c49d4f1e4729b4efdf0ba7b353721d9",
+        "crc32": "bf34f599"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 8).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7703785310d546235493b216d5306c61",
+        "sha1": "6411f280d4ff8451ff255e7478640e2cb2898976",
+        "crc32": "bbc693b1"
+      }
+    },
+    {
+      "filename": "Dynamite Soccer 2000 (Japan) (Track 9).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32772a7d5caba5e3b875a9f003758383",
+        "sha1": "354b3c4d850c45e309a748c834d96a13f112dedf",
+        "crc32": "1428b715"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Japan) (Disc 1) (Ichi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Japan) (Disc 1) (Ichi).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "76f1e2f0a480a28a047ea1100301e4ed",
+        "sha1": "1694d3e9158de3b7490a12541ba5b75b3777427b",
+        "crc32": "c62e2514"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Japan) (Disc 1) (Ichi).bin",
+      "filesize": 710005296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db0469adb734a50d07835557174176c",
+        "sha1": "33966d8a30790a2648089aea5c2c07070c6995e1",
+        "crc32": "9f784234"
+      }
+    }
+  ]
+}

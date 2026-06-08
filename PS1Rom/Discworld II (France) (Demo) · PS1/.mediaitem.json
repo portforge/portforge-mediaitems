@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Discworld II (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Discworld II (France) (Demo).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2efcce23031607fedb240f875d0aebf",
+        "sha1": "06a5df7527a166334e30c97350529a13dd778a2a",
+        "crc32": "6d6e8eb3"
+      }
+    },
+    {
+      "filename": "Discworld II (France) (Demo).bin",
+      "filesize": 120570576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffc804eb9c17cbb01042e14053638301",
+        "sha1": "c1aacd6c6be5417da91ad2e9b29f1b528bffb785",
+        "crc32": "827fa515"
+      }
+    }
+  ]
+}

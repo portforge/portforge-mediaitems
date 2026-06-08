@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "3x3 Eyes - Tenrin'ou Genmu (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "3x3 Eyes - Tenrin'ou Genmu (Japan) (Disc 2).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "16bfcd3d57f00418992cef5c9c4d001b",
+        "sha1": "67d18110806ceb421c2f1eae951579bcc2140b23",
+        "crc32": "1eacc108"
+      }
+    },
+    {
+      "filename": "3x3 Eyes - Tenrin'ou Genmu (Japan) (Disc 2).bin",
+      "filesize": 549834096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1731cf500b9258382c44a2018fa9d149",
+        "sha1": "c171f39c0da86bf6fe9e9e8d728b431ca060eadf",
+        "crc32": "be2ecda1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Invasion (Europe) (En,Fr,De,Es,It,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Invasion (Europe) (En,Fr,De,Es,It,Nl).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88a869736f13ff0ad38dcb78317c01d4",
+        "sha1": "8eca3bb69e1b808b878f8c8161fc6e4261b40826",
+        "crc32": "1981cfc3"
+      }
+    },
+    {
+      "filename": "Invasion (Europe) (En,Fr,De,Es,It,Nl).bin",
+      "filesize": 443396688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f856c7ab295fd07dcc1cbb8bee2a223",
+        "sha1": "2c54125aa6c3a9822ddf90abae18acf09c5eaebf",
+        "crc32": "222e740e"
+      }
+    }
+  ]
+}

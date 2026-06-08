@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Breath of Fire IV (USA) (Beta) (2000-05-01)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Breath of Fire IV (USA) (Beta) (2000-05-01).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f488f1d7795d72917e89c46998cea643",
+        "sha1": "5fed9b2d54611d4cd8e0f7f0da47d7a25b53616e",
+        "crc32": "3aefe479"
+      }
+    },
+    {
+      "filename": "Breath of Fire IV (USA) (Beta) (2000-05-01).bin",
+      "filesize": 697690224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d86d1802af8f8e8b3201bd20c70254d",
+        "sha1": "923018c5ba6295fe82772fb18b05f462dbafc433",
+        "crc32": "ac255f47"
+      }
+    }
+  ]
+}

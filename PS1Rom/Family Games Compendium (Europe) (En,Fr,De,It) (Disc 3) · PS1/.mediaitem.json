@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Family Games Compendium (Europe) (En,Fr,De,It) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Family Games Compendium (Europe) (En,Fr,De,It) (Disc 3).cue",
+      "filesize": 429,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b99d860f1e5d0380632f6a6e62a32255",
+        "sha1": "0b079236f1cd3fe08b2267930e7de45006d752d2",
+        "crc32": "5d5f717c"
+      }
+    },
+    {
+      "filename": "Family Games Compendium (Europe) (En,Fr,De,It) (Disc 3) (Track 1).bin",
+      "filesize": 57522864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e710403643e677133c7507a19a20939",
+        "sha1": "9ee31fcb7bdf7ba8e2ce2bc04dba4eb34e1cfa0c",
+        "crc32": "43931714"
+      }
+    },
+    {
+      "filename": "Family Games Compendium (Europe) (En,Fr,De,It) (Disc 3) (Track 2).bin",
+      "filesize": 60573408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25c78e0ce51343ed189857219b56e388",
+        "sha1": "5b8dd4b3030bd01a6a9d083fd0fc2f8849351837",
+        "crc32": "18fb79a3"
+      }
+    },
+    {
+      "filename": "Family Games Compendium (Europe) (En,Fr,De,It) (Disc 3) (Track 3).bin",
+      "filesize": 57247680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e19e1e887fc8d199fed42713b6dd4a",
+        "sha1": "2684ab2829aed371913c6f942f5a2024c338523e",
+        "crc32": "bbd67734"
+      }
+    }
+  ]
+}

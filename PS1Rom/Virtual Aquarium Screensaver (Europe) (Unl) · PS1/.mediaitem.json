@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Virtual Aquarium Screensaver (Europe) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Virtual Aquarium Screensaver (Europe) (Unl).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f9c0500b5adcd015019a6234d053e792",
+        "sha1": "6d1cc9b2e8b2076311785f3d570f210eafecd4da",
+        "crc32": "c5c9a3e1"
+      }
+    },
+    {
+      "filename": "Virtual Aquarium Screensaver (Europe) (Unl).bin",
+      "filesize": 610421616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01820ba4efead00c522307ac8470fe6c",
+        "sha1": "3185f887330db89c7fc8485e35286fd7844e2d99",
+        "crc32": "36bf9b1a"
+      }
+    }
+  ]
+}

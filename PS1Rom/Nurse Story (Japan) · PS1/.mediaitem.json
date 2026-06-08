@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nurse Story (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nurse Story (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74d9abb54dd8272ad0573762c37b4360",
+        "sha1": "4c2dd1e4a06816c36e7d0e17385f941dce9792ca",
+        "crc32": "8ed62980"
+      }
+    },
+    {
+      "filename": "Nurse Story (Japan).bin",
+      "filesize": 537283824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9176705ad5f339d034b2ab3a51a5bc9b",
+        "sha1": "78cfcfb8f6e8c40c6f6edf808821dacb2d3819fe",
+        "crc32": "730946c4"
+      }
+    }
+  ]
+}

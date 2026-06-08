@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Ultraman Cosmos - Yuusha no Chikai (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Ultraman Cosmos - Yuusha no Chikai (Japan) (Controller Set).cue",
+      "filesize": 140,
+      "ext": "cue",
+      "checksums": {
+        "md5": "da85b27fd390508fca129fe397ad2231",
+        "sha1": "379b08bb5abd6bbbc6c04ffbc594eb87835fc84e",
+        "crc32": "247536f3"
+      }
+    },
+    {
+      "filename": "Kids Station - Ultraman Cosmos - Yuusha no Chikai (Japan) (Controller Set).bin",
+      "filesize": 497241024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39216b8a72d640b79440beb88284b914",
+        "sha1": "313cd06d743507ce720e6586bd6e28f2047a6db0",
+        "crc32": "67819848"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arthur! Ready to Race (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arthur! Ready to Race (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "466d76dea2b41da2f13fae7f6d32aed8",
+        "sha1": "299a0e9484c3f6f48cffa9d6a5675cc936afa8b1",
+        "crc32": "7587de25"
+      }
+    },
+    {
+      "filename": "Arthur! Ready to Race (USA).bin",
+      "filesize": 299668320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d44c34f036763c1c1433af0aa0740b9",
+        "sha1": "fd8ebafb7e6fe134a3da24fd6381eec59aee3dd2",
+        "crc32": "759e2384"
+      }
+    }
+  ]
+}

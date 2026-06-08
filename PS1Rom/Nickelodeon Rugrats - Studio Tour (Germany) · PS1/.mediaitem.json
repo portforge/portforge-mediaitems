@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon Rugrats - Studio Tour (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon Rugrats - Studio Tour (Germany).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ddb86addc8859720dd2a48417f87445",
+        "sha1": "c56b4ea41b8082618e9802d1b063438f4aba65a5",
+        "crc32": "d855b5f5"
+      }
+    },
+    {
+      "filename": "Nickelodeon Rugrats - Studio Tour (Germany).bin",
+      "filesize": 482771520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c832e0f27b5a8b59df4e18963c43c4d0",
+        "sha1": "59ecdb6c577ae353f9ef246442fc515831dd71af",
+        "crc32": "749d50b7"
+      }
+    }
+  ]
+}

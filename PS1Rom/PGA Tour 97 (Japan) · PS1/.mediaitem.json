@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PGA Tour 97 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PGA Tour 97 (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7a98f5453510e3d0ced3ee354f66fddc",
+        "sha1": "66a6ad2cf957db55c2922e19ccc3024dbe62f7c4",
+        "crc32": "5cfc3bdf"
+      }
+    },
+    {
+      "filename": "PGA Tour 97 (Japan).bin",
+      "filesize": 568043280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8b701261a1fa4270fa64b30a0e9a4bc",
+        "sha1": "33fe306778a365050f9c4bb389b67531bc540250",
+        "crc32": "5296008d"
+      }
+    }
+  ]
+}

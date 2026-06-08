@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Miracle Jumpers (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Miracle Jumpers (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fe76f4ffc6429f4cc9fa9dd93b6d5cc0",
+        "sha1": "fce5ce06a81f59f6853e2209658e2e47799f020b",
+        "crc32": "d37c3c37"
+      }
+    },
+    {
+      "filename": "Miracle Jumpers (Japan).bin",
+      "filesize": 341025888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6137d1571576901f6c5398507e68f41",
+        "sha1": "e54e8f16a210ac2cf08a111edb8d244cbbf408cb",
+        "crc32": "9e59add5"
+      }
+    }
+  ]
+}

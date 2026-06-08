@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer Complete (Japan) (Disc 1) (GDI)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer Complete (Japan) (Disc 1) (GDI).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "463cc49edc000380bf0a6f3b7c65d58e",
+        "sha1": "7cc389473d2c6ad2ccbbfa01a58b22ef9a49385c",
+        "crc32": "4dca7e98"
+      }
+    },
+    {
+      "filename": "Command & Conquer Complete (Japan) (Disc 1) (GDI).bin",
+      "filesize": 735258720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7582ce38f0eaef521dd549def2d3e0d9",
+        "sha1": "4a800d5bd3b86ba848ab6b18ae5b8beef7e3bdb7",
+        "crc32": "cc40c7d1"
+      }
+    }
+  ]
+}

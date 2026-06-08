@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial 2 (Japan) (Disc 5) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial 2 (Japan) (Disc 5) (Rev 1).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "36cc5662239ab7898f8765b8d57fe7af",
+        "sha1": "cad62482d2922d53c453bfee338fee622469c535",
+        "crc32": "a79b75b2"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial 2 (Japan) (Disc 5) (Rev 1).bin",
+      "filesize": 743427216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "69b456f6f9ef1cab906eea1ab393cfdd",
+        "sha1": "f8281b1b82ccfb795b6ff80cbbc0dd0c3e042615",
+        "crc32": "443335a4"
+      }
+    }
+  ]
+}

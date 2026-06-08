@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kotobuki Grand Prix (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kotobuki Grand Prix (Europe).cue",
+      "filesize": 348,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e2392c3753ea2ae92b092c008be2ae88",
+        "sha1": "964f2624f4f87c5d61fa1b50c2e6b6947def5368",
+        "crc32": "69e243b3"
+      }
+    },
+    {
+      "filename": "Kotobuki Grand Prix (Europe) (Track 1).bin",
+      "filesize": 81757872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c03b850c5cf0ec86b2da39787ad92cda",
+        "sha1": "03e08a0d05e0d245e85855c04a9929f3eff141fc",
+        "crc32": "0e9e34a1"
+      }
+    },
+    {
+      "filename": "Kotobuki Grand Prix (Europe) (Track 2).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31955d2214c853f99fcc37802ffc8140",
+        "sha1": "3cc86c95f769cfdfdc49d173cce3c87e75c40d9c",
+        "crc32": "641364c2"
+      }
+    },
+    {
+      "filename": "Kotobuki Grand Prix (Europe) (Track 3).bin",
+      "filesize": 32302368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afadcd27514f92953a2a00448cab31a4",
+        "sha1": "461cd8a7f61a6b36745fd827ffe8696dd75ad742",
+        "crc32": "e6ce5ea3"
+      }
+    }
+  ]
+}

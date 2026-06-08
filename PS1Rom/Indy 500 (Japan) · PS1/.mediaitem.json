@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Indy 500 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Indy 500 (Japan).cue",
+      "filesize": 862,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a64eccd693a896814d07c3f2c23cf866",
+        "sha1": "03585f02e972469b1248afeb8b848c69dc3d8151",
+        "crc32": "48897584"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 1).bin",
+      "filesize": 176616384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce5c7e7771bf9ac1f08045c0935fcf6a",
+        "sha1": "07736ea2bae4987b6f7c039b8e255103fabef71a",
+        "crc32": "df0b0bb3"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 2).bin",
+      "filesize": 50829072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2891e697bd80296fea1c5c43a7adae97",
+        "sha1": "4f512228b82373e01222354f584c94ad8ab25806",
+        "crc32": "fea11688"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 3).bin",
+      "filesize": 55304928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5a02ab3eb6e8195b32b747c6192bba5",
+        "sha1": "0fbe60bcab88cf603ee3431b930e341019686873",
+        "crc32": "905d5907"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 4).bin",
+      "filesize": 44979648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97346a0b43cd24e065459528dced7a18",
+        "sha1": "3d2c54b1c544dd548fa0d6b31c80b81ca56ab3a4",
+        "crc32": "8a004019"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 5).bin",
+      "filesize": 45824016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99726d786fa0f84b72f0bf4ac11160d7",
+        "sha1": "ee0c3b8183a89e62a89d6e507ab75a6a3f23511f",
+        "crc32": "eb116418"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 6).bin",
+      "filesize": 11792928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1480897d5bc4b2976eed209b93446e84",
+        "sha1": "c720d40361b0f07f2940b750a42dc506e1a70aa1",
+        "crc32": "afa10504"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 7).bin",
+      "filesize": 21487872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6627620ac462dbd88a99cc1a13125ce5",
+        "sha1": "da965ed9de4d43afe90ec264d4da4075c68f8fde",
+        "crc32": "4906dff5"
+      }
+    },
+    {
+      "filename": "Indy 500 (Japan) (Track 8).bin",
+      "filesize": 44979648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97346a0b43cd24e065459528dced7a18",
+        "sha1": "3d2c54b1c544dd548fa0d6b31c80b81ca56ab3a4",
+        "crc32": "8a004019"
+      }
+    }
+  ]
+}

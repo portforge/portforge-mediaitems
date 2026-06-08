@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episode I - The Phantom Menace (USA) (Trade Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episode I - The Phantom Menace (USA) (Trade Demo).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ba8c87f8f75d52e4933af56d41733c9",
+        "sha1": "1223e2795c8bc4845d23eeb9257a0f066250b2f1",
+        "crc32": "221e4d0f"
+      }
+    },
+    {
+      "filename": "Star Wars - Episode I - The Phantom Menace (USA) (Trade Demo).bin",
+      "filesize": 106291584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e11eb05a0fb9e30384b76db89b4e518",
+        "sha1": "2d16d58a5f3b9f22084f21cb69175b41010f4026",
+        "crc32": "1cb51e8a"
+      }
+    }
+  ]
+}

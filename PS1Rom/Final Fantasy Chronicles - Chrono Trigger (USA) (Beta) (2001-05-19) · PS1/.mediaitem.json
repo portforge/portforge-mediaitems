@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy Chronicles - Chrono Trigger (USA) (Beta) (2001-05-19)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy Chronicles - Chrono Trigger (USA) (Beta) (2001-05-19).cue",
+      "filesize": 133,
+      "ext": "cue",
+      "checksums": {
+        "md5": "500a2ee0ae882d5ab636420644ad234e",
+        "sha1": "175743caa238aba3343350385ebd0de3265be9f7",
+        "crc32": "4fc7de52"
+      }
+    },
+    {
+      "filename": "Final Fantasy Chronicles - Chrono Trigger (USA) (Beta) (2001-05-19).bin",
+      "filesize": 547470336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76a7ead9b68c1569a86455d67f9b0fb5",
+        "sha1": "0b8503ba45fe4d697a316702300186029e1e8b9d",
+        "crc32": "ebd88e55"
+      }
+    }
+  ]
+}

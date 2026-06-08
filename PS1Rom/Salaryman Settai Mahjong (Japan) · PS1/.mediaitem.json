@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Salaryman Settai Mahjong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Salaryman Settai Mahjong (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd529bc25c8b1c339cd23d71a3879024",
+        "sha1": "8895a8313bf8efd53647f3449e2562dd14de16c2",
+        "crc32": "8cf62b53"
+      }
+    },
+    {
+      "filename": "Salaryman Settai Mahjong (Japan).bin",
+      "filesize": 82541088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3be284e06c387ef5b17402e7e986690",
+        "sha1": "de6b5b62743a6e3ad0ed4edc50ad3bf99db14ab7",
+        "crc32": "28c894cd"
+      }
+    }
+  ]
+}

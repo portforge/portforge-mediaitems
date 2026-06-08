@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan) (Controller Set).cue",
+      "filesize": 141,
+      "ext": "cue",
+      "checksums": {
+        "md5": "19c9ccd4e46f14f8684d9891d2d25797",
+        "sha1": "afd19f2a475e4f401c47d4ce11e53cf7a3bd07b7",
+        "crc32": "176dbba6"
+      }
+    },
+    {
+      "filename": "Kids Station - Oshaberi Oekaki - Soreike! Anpanman (Japan) (Controller Set).bin",
+      "filesize": 143747184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e6636eabf01f57379e731d9bccafa0f",
+        "sha1": "83dd6704eed78dfe8d9d2652a692f0e09808485c",
+        "crc32": "675af995"
+      }
+    }
+  ]
+}

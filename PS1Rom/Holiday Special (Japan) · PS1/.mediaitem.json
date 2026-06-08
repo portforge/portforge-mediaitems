@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Holiday Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Holiday Special (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2c92eee53d8aba1fca851bb086d24d8",
+        "sha1": "8a511997612362166a9d853d920f0accb74baf8e",
+        "crc32": "86a79892"
+      }
+    },
+    {
+      "filename": "Holiday Special (Japan).bin",
+      "filesize": 312317376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ca855ec06606948f3f3a86a084dcab4",
+        "sha1": "f1a4933c7018ed59b41162187f118d321ee79f07",
+        "crc32": "7271f16e"
+      }
+    }
+  ]
+}

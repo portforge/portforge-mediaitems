@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dragon Valor (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dragon Valor (USA) (Disc 2).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f98d18d8ebda34a9880b2de54361b54",
+        "sha1": "bae6bee51aa682fd5e9a3b9bfd2c074976915cd0",
+        "crc32": "94e389d0"
+      }
+    },
+    {
+      "filename": "Dragon Valor (USA) (Disc 2) (Track 1).bin",
+      "filesize": 657981408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80bf8b4b01e57d63d9e49942f72b4aa7",
+        "sha1": "15e75aee2fdb989f8ba62d9269317949e835f325",
+        "crc32": "99727f4a"
+      }
+    },
+    {
+      "filename": "Dragon Valor (USA) (Disc 2) (Track 2).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "354582aefda8a55a5482d431e8473070",
+        "sha1": "593d3c91bb09d028ab72c1e839279c65c2108976",
+        "crc32": "a10c459b"
+      }
+    }
+  ]
+}

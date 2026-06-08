@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raven Project, The (Europe) (En,Fr,De) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raven Project, The (Europe) (En,Fr,De) (Disc 1).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cca0c435ab727d1a61cfaddc09f0900a",
+        "sha1": "faefc5c0c809b43dd42832b02a3fe58430585055",
+        "crc32": "756e2a76"
+      }
+    },
+    {
+      "filename": "Raven Project, The (Europe) (En,Fr,De) (Disc 1).bin",
+      "filesize": 585149376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7fb36ef7bba7655b717a0c1fe3931355",
+        "sha1": "349b4138c94e6da7947dd20b5a6572c04b9bedad",
+        "crc32": "3a4eecd3"
+      }
+    }
+  ]
+}

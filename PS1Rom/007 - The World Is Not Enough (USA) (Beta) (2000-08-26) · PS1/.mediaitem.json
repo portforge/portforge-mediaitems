@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "007 - The World Is Not Enough (USA) (Beta) (2000-08-26)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "007 - The World Is Not Enough (USA) (Beta) (2000-08-26).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fcc520747e3c785f32829955d8b3f527",
+        "sha1": "79cf7463d72934e8887c3d9977bb384858588dae",
+        "crc32": "503a4cf6"
+      }
+    },
+    {
+      "filename": "007 - The World Is Not Enough (USA) (Beta) (2000-08-26).bin",
+      "filesize": 750278592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e50b7d0db4ecdffdf6a47ac9d64f85c",
+        "sha1": "edb14c9b988cf2a6052c9f770a0190077bd7de8e",
+        "crc32": "a709d8bd"
+      }
+    }
+  ]
+}

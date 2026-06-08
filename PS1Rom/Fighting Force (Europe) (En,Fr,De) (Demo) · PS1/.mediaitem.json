@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Force (Europe) (En,Fr,De) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Force (Europe) (En,Fr,De) (Demo).cue",
+      "filesize": 792,
+      "ext": "cue",
+      "checksums": {
+        "md5": "74b7ab7d560ddb9e3336e3f0062b120c",
+        "sha1": "c42676e2388ffde2ca9841bf747bca13f21920cf",
+        "crc32": "0ad6e266"
+      }
+    },
+    {
+      "filename": "Fighting Force (Europe) (En,Fr,De) (Demo) (Track 1).bin",
+      "filesize": 27854736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72122745b504876fa6a8a375772b0a36",
+        "sha1": "f881c6cf1efb7f0310a877006120561481099810",
+        "crc32": "f5cb5615"
+      }
+    },
+    {
+      "filename": "Fighting Force (Europe) (En,Fr,De) (Demo) (Track 2).bin",
+      "filesize": 3563280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4a627e6debfb01cfc6f3e0085c75c6d",
+        "sha1": "d25f4c8f80b71a6b49a639a34d2b7de5689a614d",
+        "crc32": "b0f614d5"
+      }
+    },
+    {
+      "filename": "Fighting Force (Europe) (En,Fr,De) (Demo) (Track 3).bin",
+      "filesize": 22144080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57d0208500c752223c29851974c972fd",
+        "sha1": "90c6677d01bfdfd38eb0a2a274fe99cd741ca7db",
+        "crc32": "ea5b2f07"
+      }
+    },
+    {
+      "filename": "Fighting Force (Europe) (En,Fr,De) (Demo) (Track 4).bin",
+      "filesize": 26194224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c6504d7f589286eb6c4d382905acb81",
+        "sha1": "f11800492b056e6d4d4a8032f3aee2e4db91fe13",
+        "crc32": "7ac6fe98"
+      }
+    },
+    {
+      "filename": "Fighting Force (Europe) (En,Fr,De) (Demo) (Track 5).bin",
+      "filesize": 23684640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05f9d97a96ad1c1b3cda63fa2ab23c9b",
+        "sha1": "3ba0cc5b40a4d3cd321ecbc76b8dff1f982848e8",
+        "crc32": "981b790a"
+      }
+    },
+    {
+      "filename": "Fighting Force (Europe) (En,Fr,De) (Demo) (Track 6).bin",
+      "filesize": 53272800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e0780125290c5f1c615bed12e03e066",
+        "sha1": "037d1a3d7a4af7465f3a5c8f3492b80aae63ab96",
+        "crc32": "9d741f5e"
+      }
+    }
+  ]
+}

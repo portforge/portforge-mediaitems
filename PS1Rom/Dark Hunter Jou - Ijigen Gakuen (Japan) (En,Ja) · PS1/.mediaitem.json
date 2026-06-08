@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dark Hunter Jou - Ijigen Gakuen (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dark Hunter Jou - Ijigen Gakuen (Japan) (En,Ja).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0946e39521939f5dbe45f24df086508f",
+        "sha1": "3ffe5a9399c5ac91e5494f3593273f0165f39ffd",
+        "crc32": "10443d7f"
+      }
+    },
+    {
+      "filename": "Dark Hunter Jou - Ijigen Gakuen (Japan) (En,Ja).bin",
+      "filesize": 671477184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "14054b7f6393f6d11b53cd760e8b104f",
+        "sha1": "e56ad6a658fc02c6537c193a6129489db1888b43",
+        "crc32": "bb8f9ced"
+      }
+    }
+  ]
+}

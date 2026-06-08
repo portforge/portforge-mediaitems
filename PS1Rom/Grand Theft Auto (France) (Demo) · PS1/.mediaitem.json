@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grand Theft Auto (France) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grand Theft Auto (France) (Demo).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "04b40896e063a3f2baa8fc1fba78559a",
+        "sha1": "73365dab445636a74b73b689789d16f01bea6e93",
+        "crc32": "68646568"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (France) (Demo) (Track 1).bin",
+      "filesize": 20591760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5703541a7f562adddd970f8481c88cb1",
+        "sha1": "0d0d116fb3f78885a6d64b4d08e508fcf1242ecc",
+        "crc32": "88b208dd"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto (France) (Demo) (Track 2).bin",
+      "filesize": 43083936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d984352db5db84acd7170eaf11af65f9",
+        "sha1": "0990b2ab666c92d321643dbc255ffa39a49bd7d5",
+        "crc32": "68a3ba16"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cleopatra Fortune (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cleopatra Fortune (Europe).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "842b206491f61e483db27ef88f243504",
+        "sha1": "9c2ce36bacbae98bfb3388628e45ed13e736fbed",
+        "crc32": "040f31e9"
+      }
+    },
+    {
+      "filename": "Cleopatra Fortune (Europe) (Track 1).bin",
+      "filesize": 158748240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae38ab9078d00491d389ba6caf51b2e0",
+        "sha1": "11c5e8d2199eb1020eae3061954e3a637e9cdaab",
+        "crc32": "dc63a259"
+      }
+    },
+    {
+      "filename": "Cleopatra Fortune (Europe) (Track 2).bin",
+      "filesize": 32302368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afadcd27514f92953a2a00448cab31a4",
+        "sha1": "461cd8a7f61a6b36745fd827ffe8696dd75ad742",
+        "crc32": "e6ce5ea3"
+      }
+    }
+  ]
+}

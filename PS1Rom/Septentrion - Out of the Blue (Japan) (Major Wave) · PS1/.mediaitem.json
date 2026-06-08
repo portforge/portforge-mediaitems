@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Septentrion - Out of the Blue (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Septentrion - Out of the Blue (Japan) (Major Wave).cue",
+      "filesize": 270,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ceed0874c953bcc9f98374a68da6e91d",
+        "sha1": "5a0f3a153bf85aaea22f2b3e6bf6f4ad9dd29a8f",
+        "crc32": "dabb84e3"
+      }
+    },
+    {
+      "filename": "Septentrion - Out of the Blue (Japan) (Major Wave) (Track 1).bin",
+      "filesize": 163473408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1603cca04cfaecd1abfd2d8493e0a456",
+        "sha1": "e30efeef3cc1307cd83d5cbf23e217d75d03cfdd",
+        "crc32": "31bdff32"
+      }
+    },
+    {
+      "filename": "Septentrion - Out of the Blue (Japan) (Major Wave) (Track 2).bin",
+      "filesize": 56535024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff4e1ca3951e8412b5d913cd00761615",
+        "sha1": "180ae8034534d377f317ef4259b458b0b4be83cb",
+        "crc32": "a35e373c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Jacket (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Jacket (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8bae2c87e18aecbd86d5e5d4163661f3",
+        "sha1": "363bf28cf08887352ff4e86d6e00824be52971fe",
+        "crc32": "506bf736"
+      }
+    },
+    {
+      "filename": "Metal Jacket (Japan).bin",
+      "filesize": 228292176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "82252b00935ba88d0e22446eb8aecae7",
+        "sha1": "4bae31f77f9f432cfe4af92c6186a81f9bad223a",
+        "crc32": "c2814b71"
+      }
+    }
+  ]
+}

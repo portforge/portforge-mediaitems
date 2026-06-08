@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dance-UK eXtra Trax (UK)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dance-UK eXtra Trax (UK).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4db0a34f5d7fcf3a99229763034e65d",
+        "sha1": "a99a91e1840a2c23ba0e0f2ddbe7a7b24d19deba",
+        "crc32": "4cda0e51"
+      }
+    },
+    {
+      "filename": "Dance-UK eXtra Trax (UK).bin",
+      "filesize": 118543152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ef05aa29df1416d3f1e16348fae3882",
+        "sha1": "ac84e75117aea8e6c9d5a48b421b3a1957339a5a",
+        "crc32": "0be0bb8b"
+      }
+    }
+  ]
+}

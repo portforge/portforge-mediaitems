@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TsunTsun-gumi 2 - MojiMoji Pakkun (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TsunTsun-gumi 2 - MojiMoji Pakkun (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa6ea2a86fd85be43130592e18007227",
+        "sha1": "38bd1e4f1a73839e806add35eb97c2db6eed18b5",
+        "crc32": "3bca050f"
+      }
+    },
+    {
+      "filename": "TsunTsun-gumi 2 - MojiMoji Pakkun (Japan).bin",
+      "filesize": 44793840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98f01336a715268be6d82967b98b0523",
+        "sha1": "71ef85b8c9cae6b91c6999c93c21e3b387c9d65d",
+        "crc32": "03deb643"
+      }
+    }
+  ]
+}

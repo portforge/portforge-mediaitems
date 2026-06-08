@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Str.at.e.s. 2 - Matchamania! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Str.at.e.s. 2 - Matchamania! (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b53fd2de2c5c34022ae375196e171c1",
+        "sha1": "121f6ec6b4511d75cb870f2691b44f4a420f3831",
+        "crc32": "2509c6c9"
+      }
+    },
+    {
+      "filename": "Str.at.e.s. 2 - Matchamania! (USA).bin",
+      "filesize": 718881744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f314037e65a6d82e9d27e5525dd6023",
+        "sha1": "967dc399c985774fb5e7973cbcdaa3e40542f15b",
+        "crc32": "ea09f5cf"
+      }
+    }
+  ]
+}

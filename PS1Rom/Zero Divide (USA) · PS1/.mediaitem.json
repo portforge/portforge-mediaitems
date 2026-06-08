@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zero Divide (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zero Divide (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d7101533a08b7b262cc7776b8b37c83",
+        "sha1": "abe2fd225abe30b48b3b439b3d23678a2830e678",
+        "crc32": "fee86cbc"
+      }
+    },
+    {
+      "filename": "Zero Divide (USA).bin",
+      "filesize": 411026112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca706c95ac6212995c9561c1bdd8c43a",
+        "sha1": "4c6124e22597c4752c4559ece4974d7ba81cb906",
+        "crc32": "88ee8493"
+      }
+    }
+  ]
+}

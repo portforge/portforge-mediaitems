@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Moon - Remix RPG Adventure (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Moon - Remix RPG Adventure (Japan) (Rev 1).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "81190ef2870d4a0aaada5d1a39827eb0",
+        "sha1": "2fb0eb2cbc610c7835edc5cee6ff0e18490f6cae",
+        "crc32": "0f6f2808"
+      }
+    },
+    {
+      "filename": "Moon - Remix RPG Adventure (Japan) (Rev 1).bin",
+      "filesize": 640491936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cddca6a65595fb84ab7f79f7763a84ca",
+        "sha1": "97a52b39dbddebe097613e847041a19df6d12ce8",
+        "crc32": "4b828f86"
+      }
+    }
+  ]
+}

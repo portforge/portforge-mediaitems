@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shinri Game 9, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shinri Game 9, The (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "283272dea37bf20103f91a9e7c812308",
+        "sha1": "64441b1ef9f24498c666c34197c0f0f9a21adaee",
+        "crc32": "44cdcf27"
+      }
+    },
+    {
+      "filename": "Shinri Game 9, The (Japan).bin",
+      "filesize": 54232416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "432f340c0cfba639f560c391e257a50b",
+        "sha1": "ed9880fba53f5b2d92aaa7103854fb0b2586f281",
+        "crc32": "673559cb"
+      }
+    }
+  ]
+}

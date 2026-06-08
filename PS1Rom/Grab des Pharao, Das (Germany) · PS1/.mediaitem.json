@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grab des Pharao, Das (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grab des Pharao, Das (Germany).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "494b1ddc9c3698eb49ccf08cceab9179",
+        "sha1": "5c4db1d095d32530e76da5339483baba2d9acd78",
+        "crc32": "0f2ba534"
+      }
+    },
+    {
+      "filename": "Grab des Pharao, Das (Germany).bin",
+      "filesize": 640738896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "adcb03bc1fc2b10309bbaf8c33441a72",
+        "sha1": "3dcca49a03b74647014b58279bf2657ee21c4f1e",
+        "crc32": "0edbcfa7"
+      }
+    }
+  ]
+}

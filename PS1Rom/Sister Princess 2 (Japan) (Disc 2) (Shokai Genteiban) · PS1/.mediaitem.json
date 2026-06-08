@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sister Princess 2 (Japan) (Disc 2) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sister Princess 2 (Japan) (Disc 2) (Shokai Genteiban).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1c5058792100aa7beffcba955c0639f",
+        "sha1": "71dbab0a434c76eb058018dbd4ac386d518cbb25",
+        "crc32": "18ceda59"
+      }
+    },
+    {
+      "filename": "Sister Princess 2 (Japan) (Disc 2) (Shokai Genteiban).bin",
+      "filesize": 748900320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1aa487c1e1d085158f549efbfd81b59f",
+        "sha1": "5e715a97210f676f0358b893a534c7a8ef8b063c",
+        "crc32": "654aef68"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alundra 2 - A New Legend Begins (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alundra 2 - A New Legend Begins (Europe).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21df3893d83d0d8c518f244f88d8223a",
+        "sha1": "335d49c92931f99fa50aa0fc95239d454120baf1",
+        "crc32": "b99c45d1"
+      }
+    },
+    {
+      "filename": "Alundra 2 - A New Legend Begins (Europe).bin",
+      "filesize": 631584912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce9a7843510089d75844d9cf7a57a0b3",
+        "sha1": "d54ca153debdf2ab89b609390e887527765896ac",
+        "crc32": "edc5b1d0"
+      }
+    }
+  ]
+}

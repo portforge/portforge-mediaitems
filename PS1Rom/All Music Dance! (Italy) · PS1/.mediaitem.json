@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "All Music Dance! (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "All Music Dance! (Italy).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "551e8c1bc4403b835414c4deaf94e31a",
+        "sha1": "185401347e1836b2b60ff8d4ea1b7433cca9f997",
+        "crc32": "1b9abb2b"
+      }
+    },
+    {
+      "filename": "All Music Dance! (Italy).bin",
+      "filesize": 228228672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c0eafa0ad03bc51b5a285ccf1bd0373b",
+        "sha1": "59da473bb1dd4a988cacff02dd7b067bae9c6af4",
+        "crc32": "3c31a70e"
+      }
+    }
+  ]
+}

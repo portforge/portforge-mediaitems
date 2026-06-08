@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mars Moose Cosmic Quest 1 - City Sights (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mars Moose Cosmic Quest 1 - City Sights (USA).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d5b223716940cb06c9d41b5bedcfb54",
+        "sha1": "a1610064b6d835b7f2c8d8fbbd0b7bd0650604a3",
+        "crc32": "e3c38817"
+      }
+    },
+    {
+      "filename": "Mars Moose Cosmic Quest 1 - City Sights (USA).bin",
+      "filesize": 449022672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bffe114691d236ad6ce55f2475ff8f7d",
+        "sha1": "0e88ad4226af7567603fcd836f743acd52817f6a",
+        "crc32": "aa730c86"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hermie Hopperhead - Scrap Panic (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hermie Hopperhead - Scrap Panic (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5684c244f4e7cf5e221804c1cad015a5",
+        "sha1": "3b6dd7a13cfb2193d303821bba21f0a5490ea63b",
+        "crc32": "c08bec16"
+      }
+    },
+    {
+      "filename": "Hermie Hopperhead - Scrap Panic (Japan).bin",
+      "filesize": 429446976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9edb0bdd2d489b2268eb1b570c3ea538",
+        "sha1": "5bc6220d1b65b52cacc1f881ce67c98d771a3bf3",
+        "crc32": "1f9c3f44"
+      }
+    }
+  ]
+}

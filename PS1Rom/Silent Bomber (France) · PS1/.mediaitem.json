@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silent Bomber (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silent Bomber (France).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "056f3dddad5f1909792e9293dcac9e11",
+        "sha1": "13e3c1de6523a1c91a855f799e98af31c5e59173",
+        "crc32": "9ee4dc19"
+      }
+    },
+    {
+      "filename": "Silent Bomber (France).bin",
+      "filesize": 382740960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71fc01dd33b69875cd4446a021c0b13c",
+        "sha1": "9ab8abe6a2f1e014189e3a4d517d5d18198e884e",
+        "crc32": "ceeeb245"
+      }
+    }
+  ]
+}

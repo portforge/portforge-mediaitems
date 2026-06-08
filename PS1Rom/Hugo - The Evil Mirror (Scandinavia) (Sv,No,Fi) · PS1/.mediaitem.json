@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo - The Evil Mirror (Scandinavia) (Sv,No,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo - The Evil Mirror (Scandinavia) (Sv,No,Fi).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50e0da11cc2b0ed1a4f5879d26f45cf5",
+        "sha1": "143465e14e78306aff4b0cea7d1190b4e9b600c2",
+        "crc32": "533ae879"
+      }
+    },
+    {
+      "filename": "Hugo - The Evil Mirror (Scandinavia) (Sv,No,Fi).bin",
+      "filesize": 687856512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4cc804512cb34c4708a8e5c6393e6e52",
+        "sha1": "c0c7f89d51c4a0d4b987ed4e691fd6becb0d3717",
+        "crc32": "5e385267"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Monsterbedriften - Skrekkoya (Norway)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Monsterbedriften - Skrekkoya (Norway).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8917088d1d5b0c070225d555b219550e",
+        "sha1": "c9f18794363f3b70b5e32d38f17bdee56c353089",
+        "crc32": "142aae21"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Monsterbedriften - Skrekkoya (Norway).bin",
+      "filesize": 735964320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5d470e002eabae4efbfa84d06f60af6",
+        "sha1": "3883380e3060d111dfe82c35107f66782f07890d",
+        "crc32": "d9209f6a"
+      }
+    }
+  ]
+}

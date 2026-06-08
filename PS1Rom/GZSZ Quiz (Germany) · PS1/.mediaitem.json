@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GZSZ Quiz (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GZSZ Quiz (Germany).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83d149380567ab8c6379c16b3cb3d8a8",
+        "sha1": "285547eac0489c1a9a35440dfe49971073f1f1a5",
+        "crc32": "526878f3"
+      }
+    },
+    {
+      "filename": "GZSZ Quiz (Germany).bin",
+      "filesize": 665884128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e722a5d53e4164a7e8b207f97d44a9b6",
+        "sha1": "40bd9c8fc0e4f5a911876c5ca470f593422cb592",
+        "crc32": "63547b17"
+      }
+    }
+  ]
+}

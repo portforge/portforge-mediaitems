@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shanghai - Great Moments (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shanghai - Great Moments (Japan).cue",
+      "filesize": 360,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d621d88fb15c531947e3d40038ed6ae",
+        "sha1": "f4ddf791b73cca12bdc3f7f22debf22f4233ffeb",
+        "crc32": "761e21a0"
+      }
+    },
+    {
+      "filename": "Shanghai - Great Moments (Japan) (Track 1).bin",
+      "filesize": 376416432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d468417f82a8d5eed6d45d3afdb53ea0",
+        "sha1": "cfb8c1a557497801f1becf748d146a358ad70598",
+        "crc32": "9627ff86"
+      }
+    },
+    {
+      "filename": "Shanghai - Great Moments (Japan) (Track 2).bin",
+      "filesize": 3490368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1808a625c9512589b8939dabda673b6",
+        "sha1": "22f4201b3103b2c83b12aef06183370484fbf9a9",
+        "crc32": "488b5846"
+      }
+    },
+    {
+      "filename": "Shanghai - Great Moments (Japan) (Track 3).bin",
+      "filesize": 31728480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e243d3c1390da9027f3ca9261bb93595",
+        "sha1": "5eeefd7ed5a76576eea8f6adbe3ff93b7c4c3d0f",
+        "crc32": "bcc7f3c0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "S.C.A.R.S. (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "S.C.A.R.S. (Europe) (Demo).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b9124c08469927f3743db35aceff317",
+        "sha1": "e24bc1d06f6b182766a98deaae7559e2be6cc344",
+        "crc32": "762cdb5c"
+      }
+    },
+    {
+      "filename": "S.C.A.R.S. (Europe) (Demo) (Track 1).bin",
+      "filesize": 4908624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b0fef056b6ee62d1de87c35a4d9d2b9",
+        "sha1": "e61029668f922884d8b9a6e4895ef1971dd593ed",
+        "crc32": "e3425616"
+      }
+    },
+    {
+      "filename": "S.C.A.R.S. (Europe) (Demo) (Track 2).bin",
+      "filesize": 18839520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4eca4ee63ad0fe2e65f1a7820e18f1e0",
+        "sha1": "2ff749a882114e1e7960635dbf217d5b7a627ef1",
+        "crc32": "29e904b9"
+      }
+    },
+    {
+      "filename": "S.C.A.R.S. (Europe) (Demo) (Track 3).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56cbfe56313feb74b7532b12668502dd",
+        "sha1": "e674b300b0ea2659994817ccb6acee97066f987f",
+        "crc32": "13224f82"
+      }
+    }
+  ]
+}

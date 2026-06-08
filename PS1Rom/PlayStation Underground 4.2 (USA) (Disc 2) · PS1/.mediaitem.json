@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground 4.2 (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground 4.2 (USA) (Disc 2).cue",
+      "filesize": 254,
+      "ext": "cue",
+      "checksums": {
+        "md5": "170a62d1b86f6ef42cf616beb3667256",
+        "sha1": "b3f0cc720e7bcf14934743426f72bdf2c993ce02",
+        "crc32": "f82743a3"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 4.2 (USA) (Disc 2) (Track 1).bin",
+      "filesize": 568189104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b62fc5e0ce1f1fee12b3bf17408bd653",
+        "sha1": "4ccc6e13601f51fa98859c6232bc698b0a61b952",
+        "crc32": "aa83e6e1"
+      }
+    },
+    {
+      "filename": "PlayStation Underground 4.2 (USA) (Disc 2) (Track 2).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

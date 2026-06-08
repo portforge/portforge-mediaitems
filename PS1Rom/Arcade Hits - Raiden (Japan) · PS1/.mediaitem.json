@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arcade Hits - Raiden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arcade Hits - Raiden (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b98a8da332bb87dcf9bf2a9e0d1d6f60",
+        "sha1": "630f7c1a642166e7f8956d26e5c054459acab154",
+        "crc32": "4d520081"
+      }
+    },
+    {
+      "filename": "Arcade Hits - Raiden (Japan).bin",
+      "filesize": 55255536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22c68504df9e83b048bb7a2e7607444e",
+        "sha1": "d99fc2d8d40e6318150cb2ff42c837b96209d2b2",
+        "crc32": "bc6497c9"
+      }
+    }
+  ]
+}

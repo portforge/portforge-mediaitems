@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 99 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 99 (Europe).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9621ac3c8d53ed99f5c1408558d28a55",
+        "sha1": "5565a0d6cc45b3b8cd51ea4dfd6ab82307bc97c2",
+        "crc32": "f2585fe5"
+      }
+    },
+    {
+      "filename": "NBA Live 99 (Europe).bin",
+      "filesize": 626088288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6dd28d1cf674049d504d7a0f9ae17f0",
+        "sha1": "c85d46052d12f02773dadca0562268f01f8dbc15",
+        "crc32": "0cf79c36"
+      }
+    }
+  ]
+}

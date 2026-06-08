@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Deserted Island (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Deserted Island (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0cd54e9a8ecfdb5ff4e1b627f1818ac",
+        "sha1": "7db680e73a08daa115649319ffdd27534e02adc4",
+        "crc32": "682a083c"
+      }
+    },
+    {
+      "filename": "Deserted Island (Japan).bin",
+      "filesize": 243544896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfa222ddf35fc97c3efc9a7cd1d91965",
+        "sha1": "1d20efbb7687977e65ee4f8af3f2b299df4c5e29",
+        "crc32": "2d65f59d"
+      }
+    }
+  ]
+}

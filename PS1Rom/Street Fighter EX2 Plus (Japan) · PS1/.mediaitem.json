@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Street Fighter EX2 Plus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Street Fighter EX2 Plus (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a474176c70c5ab36da68472cf6d6ce6e",
+        "sha1": "78abccf3b2cc9ea89e7d310eb1da65ea864fa2b2",
+        "crc32": "ccc7f02e"
+      }
+    },
+    {
+      "filename": "Street Fighter EX2 Plus (Japan).bin",
+      "filesize": 371354928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ae5f1bac45006ad4cfc33194e22069d",
+        "sha1": "0a018ee03e196d6660aec665d9fcb56d62bb9e7e",
+        "crc32": "9c470485"
+      }
+    }
+  ]
+}

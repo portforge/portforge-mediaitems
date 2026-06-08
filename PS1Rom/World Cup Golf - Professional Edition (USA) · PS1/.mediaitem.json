@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Cup Golf - Professional Edition (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Cup Golf - Professional Edition (USA).cue",
+      "filesize": 393,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d816745aaff1e2c48940ba2123bed364",
+        "sha1": "649a5c0379aa112db47f0877a400c52b86b0a7d6",
+        "crc32": "68a2752e"
+      }
+    },
+    {
+      "filename": "World Cup Golf - Professional Edition (USA) (Track 1).bin",
+      "filesize": 603271536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78627c220f9f4fca390f21a9bbfa404e",
+        "sha1": "05439240049e155100c2b5b5bda35f7d08e94bcc",
+        "crc32": "b8d5e730"
+      }
+    },
+    {
+      "filename": "World Cup Golf - Professional Edition (USA) (Track 2).bin",
+      "filesize": 29868048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c55c13e78eda741c5da914e2cde8102b",
+        "sha1": "0edc3f8a3c7fd2e0de209d9bdf311f5c2dff36be",
+        "crc32": "d586de01"
+      }
+    },
+    {
+      "filename": "World Cup Golf - Professional Edition (USA) (Track 3).bin",
+      "filesize": 32509344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc37dd75b8268964dd8dc0620bde6e31",
+        "sha1": "8a7b67586a190e0fed227058f544ca1a633ff591",
+        "crc32": "50558186"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Clock Tower (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Clock Tower (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1bcb8d5adafc57673987e532ae854dfb",
+        "sha1": "96616e392fff971d2e41995ab842af6510716aee",
+        "crc32": "bd6fc4dc"
+      }
+    },
+    {
+      "filename": "Clock Tower (USA).bin",
+      "filesize": 632629200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd44b49b7b6fd0f403b3cb7790929010",
+        "sha1": "ce15c807f48f0a8450764e152100c63e3b6c64b2",
+        "crc32": "8fc9567c"
+      }
+    }
+  ]
+}

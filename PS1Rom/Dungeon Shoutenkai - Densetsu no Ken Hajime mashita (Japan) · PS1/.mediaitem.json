@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dungeon Shoutenkai - Densetsu no Ken Hajime mashita (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dungeon Shoutenkai - Densetsu no Ken Hajime mashita (Japan).cue",
+      "filesize": 125,
+      "ext": "cue",
+      "checksums": {
+        "md5": "037539d0aac54b38e7592adec9cad6aa",
+        "sha1": "796e66ee8c43bf1e79fd27d328fe18d8fcbcd935",
+        "crc32": "19f20a72"
+      }
+    },
+    {
+      "filename": "Dungeon Shoutenkai - Densetsu no Ken Hajime mashita (Japan).bin",
+      "filesize": 167241312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee3fd1eb67c68efcc4384cdd9f5a0775",
+        "sha1": "f34e6ff86de28e61cb9ee97ece655037518e8b7d",
+        "crc32": "85aa1bbe"
+      }
+    }
+  ]
+}

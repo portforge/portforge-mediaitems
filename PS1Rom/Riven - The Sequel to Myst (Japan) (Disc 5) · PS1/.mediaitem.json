@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Riven - The Sequel to Myst (Japan) (Disc 5)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Riven - The Sequel to Myst (Japan) (Disc 5).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d9adf9589b6b0ebc4d443a180a67164",
+        "sha1": "2946e990b88721a2a74abb1ea61620e1e918a9fb",
+        "crc32": "6880d1e1"
+      }
+    },
+    {
+      "filename": "Riven - The Sequel to Myst (Japan) (Disc 5).bin",
+      "filesize": 749615328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5915f50c42429dac357afb7f94acff21",
+        "sha1": "f88d54fc678dc78eb425c7afe95a1c8c1a8a52d7",
+        "crc32": "5931366f"
+      }
+    }
+  ]
+}

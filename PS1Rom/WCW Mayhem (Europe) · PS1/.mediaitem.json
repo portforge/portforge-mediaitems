@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "WCW Mayhem (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "WCW Mayhem (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0105f4a6f509e21e979b9cedcc28a6d3",
+        "sha1": "1393b67b15f3b0e2c8dc5107341b05a4427b0f27",
+        "crc32": "0dbbe71f"
+      }
+    },
+    {
+      "filename": "WCW Mayhem (Europe).bin",
+      "filesize": 728503776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f05d7e5edad41f89e3c679dad83ea5f2",
+        "sha1": "b423610aaf79b158bd71ec189e61016fff4d4bc8",
+        "crc32": "db628cdb"
+      }
+    }
+  ]
+}

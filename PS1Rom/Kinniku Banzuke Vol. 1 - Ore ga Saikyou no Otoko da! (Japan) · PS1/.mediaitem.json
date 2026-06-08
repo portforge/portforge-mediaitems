@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kinniku Banzuke Vol. 1 - Ore ga Saikyou no Otoko da! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kinniku Banzuke Vol. 1 - Ore ga Saikyou no Otoko da! (Japan).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eee7eebcba28192d37d11757ad3123a0",
+        "sha1": "200a22e92e69c1074ecfc7cc9c0fe9f9cd427c7e",
+        "crc32": "942d9ed9"
+      }
+    },
+    {
+      "filename": "Kinniku Banzuke Vol. 1 - Ore ga Saikyou no Otoko da! (Japan).bin",
+      "filesize": 434741328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d1cf50b030ec2f5f739443d3bb53668",
+        "sha1": "479e065ea81d9398acc22c67b8d3a662b76bbc97",
+        "crc32": "7d08a6ba"
+      }
+    }
+  ]
+}

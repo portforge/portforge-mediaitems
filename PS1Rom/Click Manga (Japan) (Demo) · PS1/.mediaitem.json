@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Click Manga (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Click Manga (Japan) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b53897950d45672ef967abd4b4da3b7",
+        "sha1": "a5f6f2b8cf1c0d18e10117ea943b881716d6af71",
+        "crc32": "e15231a0"
+      }
+    },
+    {
+      "filename": "Click Manga (Japan) (Demo).bin",
+      "filesize": 128099328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0eaeacbb2656181ffcc8bc814c4b4cb",
+        "sha1": "16c3cd2adb46ffb1f7549726cca2241f2c140e02",
+        "crc32": "ca424260"
+      }
+    }
+  ]
+}

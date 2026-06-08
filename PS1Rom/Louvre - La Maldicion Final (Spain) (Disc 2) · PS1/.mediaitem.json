@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Louvre - La Maldicion Final (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Louvre - La Maldicion Final (Spain) (Disc 2).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "30900378517950f785478531b6e2d893",
+        "sha1": "247d1e65c5cd654f834a72b94b87b2660bdf2e5c",
+        "crc32": "5d080e48"
+      }
+    },
+    {
+      "filename": "Louvre - La Maldicion Final (Spain) (Disc 2).bin",
+      "filesize": 732252864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37073f9517e22e7a01784a8d0716de36",
+        "sha1": "c071cc9cd4237965c4dad73e88ede2c096e3380d",
+        "crc32": "55110dc2"
+      }
+    }
+  ]
+}

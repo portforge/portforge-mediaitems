@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rapid Racer (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 1161,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e9496461b0a26c764cca5ff743821ee8",
+        "sha1": "b346d507a6d1cd2210743a5e28960f36324785c2",
+        "crc32": "0aa4a23f"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 177952320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10883ac19bc5dbaa69f722f52e70d70e",
+        "sha1": "1ab343d40648a9c4e7ef90795cc5de11888281a2",
+        "crc32": "e34fdd14"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 52912944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89ff7c458432f17bf133cf46a6e2500e",
+        "sha1": "00f21d99e0d02cbe7ffb80256ed5f37721f4c6e4",
+        "crc32": "33843cbf"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 50817312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "984ac1c05b390820947354e242efa14d",
+        "sha1": "52ed601be26398afe7cb0fa60a84f3f1f47a7f6b",
+        "crc32": "5ae330b2"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 53037600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22f0946661c1a8d199662871a665c450",
+        "sha1": "1d3c3ed73c9f2a96e8c275ed6eb3b0ba206ec05e",
+        "crc32": "0f2dccd8"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 58762368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "470949afcbff7276b56bac2bcff45838",
+        "sha1": "9449ca071619a10b181d1b5807b9dc7dd68775e1",
+        "crc32": "b136f767"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 6).bin",
+      "filesize": 56509152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fb0c67e2eb9020f6d32b3b2e6a1e479f",
+        "sha1": "32632de04ba3ac9b14df046f5112d937602442c9",
+        "crc32": "ae489247"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 7).bin",
+      "filesize": 52950576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73f73a8141969852cd2f5b35155a669f",
+        "sha1": "dd983b62408fe2af4719d78a7417b7936dfb3167",
+        "crc32": "88a236d2"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 8).bin",
+      "filesize": 33433680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f49e8a3fe1b703af3649050f23f53f77",
+        "sha1": "b7ebc04c874c68d7cab44dac0f251bf4da22a5e7",
+        "crc32": "d5e326f2"
+      }
+    },
+    {
+      "filename": "Rapid Racer (Europe) (En,Fr,De,Es,It) (Track 9).bin",
+      "filesize": 5769456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "39217bdc2689e3340f063483f031809b",
+        "sha1": "abc2024d44b327d48fb70d9a53a2e564ecb67987",
+        "crc32": "cf937f7e"
+      }
+    }
+  ]
+}

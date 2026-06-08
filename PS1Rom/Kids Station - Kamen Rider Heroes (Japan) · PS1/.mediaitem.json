@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Kamen Rider Heroes (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Kamen Rider Heroes (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a6865d063a9f6542b78bf39cf9d2a16c",
+        "sha1": "090b3ed20bc4deb83e6208acbd52fc7857a903c1",
+        "crc32": "143372f8"
+      }
+    },
+    {
+      "filename": "Kids Station - Kamen Rider Heroes (Japan).bin",
+      "filesize": 289902816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18a5565ddb3594e007a83d5ada20af3d",
+        "sha1": "645c898787bef2518ebd2871aa5160acf7493511",
+        "crc32": "cd91083c"
+      }
+    }
+  ]
+}

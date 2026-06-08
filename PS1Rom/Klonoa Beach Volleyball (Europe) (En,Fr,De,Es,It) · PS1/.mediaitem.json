@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Klonoa Beach Volleyball (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Klonoa Beach Volleyball (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4988bf3638bc151883b311b4e8a43c8c",
+        "sha1": "f0914a6ac5e22b19ede038352c3b23d249bf9498",
+        "crc32": "66203763"
+      }
+    },
+    {
+      "filename": "Klonoa Beach Volleyball (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 661575264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7580961415b946c610b1cdf9ee50c1a1",
+        "sha1": "d9103a1755282e7318026f6d7ab5d51e21e6d6cd",
+        "crc32": "28b80854"
+      }
+    }
+  ]
+}

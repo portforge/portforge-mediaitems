@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mega Man Legends (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mega Man Legends (USA).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bc8ddfe026021bdb8ae25816707bd9d9",
+        "sha1": "d6f0b7173a41b74fb9369b591bc619cac82b63bd",
+        "crc32": "9e88194d"
+      }
+    },
+    {
+      "filename": "Mega Man Legends (USA) (Track 1).bin",
+      "filesize": 487205040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d275ab5d6e4ab79b792990c70cc5970",
+        "sha1": "904489e2e8d06e1c44e60d8925329f9472b2d037",
+        "crc32": "1f55bd97"
+      }
+    },
+    {
+      "filename": "Mega Man Legends (USA) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

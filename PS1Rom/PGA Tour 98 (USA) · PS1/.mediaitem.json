@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PGA Tour 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PGA Tour 98 (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "812458c44c5a0580ca29c7572d3e341e",
+        "sha1": "ca7292dd6ddd1909926fae20d3e18ec8f574bc2e",
+        "crc32": "5106f994"
+      }
+    },
+    {
+      "filename": "PGA Tour 98 (USA).bin",
+      "filesize": 366933168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2393320e388330843c507036b04f7e3a",
+        "sha1": "22835619344fe5be366038f736ce08bbdb65efd8",
+        "crc32": "04c9a059"
+      }
+    }
+  ]
+}

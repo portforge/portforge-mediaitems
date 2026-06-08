@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA Football 2003 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA Football 2003 (Germany).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e00f125676a0e4e99ccb96d3d94465ba",
+        "sha1": "a9a4231fb0d86e58d03e5967bdf9738c6e5d715b",
+        "crc32": "c82e1b56"
+      }
+    },
+    {
+      "filename": "FIFA Football 2003 (Germany).bin",
+      "filesize": 631806000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd222d02061a7acbc87b2c56760c1188",
+        "sha1": "8a70ee20519f329b1c1b784ef547825ce862691c",
+        "crc32": "b82f500b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 80 - The Jintori (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 80 - The Jintori (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2eeb760c2c052b322b09c03ae9636f24",
+        "sha1": "a71eba7b82846b505edf2bc03d253992d2ad11e9",
+        "crc32": "aa2262d8"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 80 - The Jintori (Japan).bin",
+      "filesize": 703845408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a65f979702075ab372c7f9948348595b",
+        "sha1": "787537ff53ad671f3b80b50c85f895e096fce087",
+        "crc32": "5a1273f7"
+      }
+    }
+  ]
+}

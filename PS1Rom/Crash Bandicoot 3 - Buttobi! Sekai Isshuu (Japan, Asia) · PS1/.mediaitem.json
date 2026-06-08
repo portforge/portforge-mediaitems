@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan, Asia).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "76ce5a53f3976fd686f24e039011b460",
+        "sha1": "c85addb2cc4ff90168225f3547a3f7dcb51d42a3",
+        "crc32": "2d74df04"
+      }
+    },
+    {
+      "filename": "Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan, Asia).bin",
+      "filesize": 466643856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "546920c7a9af2e678685be1bbda02e03",
+        "sha1": "437138866b50cb7bb8af82cce61470f85388050c",
+        "crc32": "7e59a4ce"
+      }
+    }
+  ]
+}

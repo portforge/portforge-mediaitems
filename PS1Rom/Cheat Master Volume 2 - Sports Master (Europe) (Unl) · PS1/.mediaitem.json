@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cheat Master Volume 2 - Sports Master (Europe) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cheat Master Volume 2 - Sports Master (Europe) (Unl).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2aa2d75cce082334102b9603db4d8085",
+        "sha1": "908eb8e15663ede38cde1f12380e502b226319c5",
+        "crc32": "33050b62"
+      }
+    },
+    {
+      "filename": "Cheat Master Volume 2 - Sports Master (Europe) (Unl).bin",
+      "filesize": 7422912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde4e1ec11209f1e2eb2279f318ef7fc",
+        "sha1": "168759b23d2fa1c57c3b6ae7becce635a1b0f3ee",
+        "crc32": "037b1f5a"
+      }
+    }
+  ]
+}

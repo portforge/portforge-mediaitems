@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fushigi na Data Disc 2 (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fushigi na Data Disc 2 (Japan, Asia).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85c05a927d73738f10575b3a028edd04",
+        "sha1": "7392628f1decb911783f03c664b31fd8bb87064b",
+        "crc32": "85307d21"
+      }
+    },
+    {
+      "filename": "Fushigi na Data Disc 2 (Japan, Asia).bin",
+      "filesize": 643942320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e3d2d960fcbcf36816fdde9c7bc00853",
+        "sha1": "a159e6f85270b6eec31f64431689b864ae96ddf1",
+        "crc32": "93c09b44"
+      }
+    }
+  ]
+}

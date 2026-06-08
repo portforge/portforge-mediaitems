@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pandemonium! (USA) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pandemonium! (USA) (Rev 1).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f32cdd953fdabf985e2c2b3afe7d452",
+        "sha1": "54ca3426b67a140835d4a88cb9c7d1d9061fdbb0",
+        "crc32": "abcb73b5"
+      }
+    },
+    {
+      "filename": "Pandemonium! (USA) (Rev 1) (Track 1).bin",
+      "filesize": 225314544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d82d4ab02f27e4bdee328364cb32a3d",
+        "sha1": "35938c910d26bf5a79e1c3058a794f1278f85960",
+        "crc32": "1294599d"
+      }
+    },
+    {
+      "filename": "Pandemonium! (USA) (Rev 1) (Track 2).bin",
+      "filesize": 20511792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ed6dba71f5543a2fc7b3c68061d703c",
+        "sha1": "b30aa9dfa63189cf604c40001356e3854fd8c479",
+        "crc32": "e0c3c1e4"
+      }
+    },
+    {
+      "filename": "Pandemonium! (USA) (Rev 1) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

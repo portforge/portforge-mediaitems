@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bushido Blade (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bushido Blade (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae042a5cd19302d059560a1aa34dbba6",
+        "sha1": "6c2e6b20fc945e6d1b982b2fe8f2b05550e0aa81",
+        "crc32": "8dfb4be2"
+      }
+    },
+    {
+      "filename": "Bushido Blade (Japan).bin",
+      "filesize": 510021792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d15fae01f383d72ca6338286767df91",
+        "sha1": "8e18de6604fb2a52f843c6a08423e2f0187fdc6e",
+        "crc32": "82a0f019"
+      }
+    }
+  ]
+}

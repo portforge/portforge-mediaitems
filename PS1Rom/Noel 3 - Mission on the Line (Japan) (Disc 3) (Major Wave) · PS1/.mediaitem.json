@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Noel 3 - Mission on the Line (Japan) (Disc 3) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Noel 3 - Mission on the Line (Japan) (Disc 3) (Major Wave).cue",
+      "filesize": 438,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1ccf1e6e7161acd5dddbfb4ad6b0ecf1",
+        "sha1": "a9f6592dbbf763aa9db96117071446e384ba8731",
+        "crc32": "ae2e9876"
+      }
+    },
+    {
+      "filename": "Noel 3 - Mission on the Line (Japan) (Disc 3) (Major Wave) (Track 1).bin",
+      "filesize": 604271136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d349dc7d617914a6e40bf6c72157a148",
+        "sha1": "84462d8e65996949b3ddeadd1516f974f3be65c7",
+        "crc32": "b63d20d5"
+      }
+    },
+    {
+      "filename": "Noel 3 - Mission on the Line (Japan) (Disc 3) (Major Wave) (Track 2).bin",
+      "filesize": 43735440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a27baafd4a44cbe1a8cc6d58891522fc",
+        "sha1": "2cc08d0f0ad72c44c5ecd7d616cace832e24be26",
+        "crc32": "6472ea04"
+      }
+    },
+    {
+      "filename": "Noel 3 - Mission on the Line (Japan) (Disc 3) (Major Wave) (Track 3).bin",
+      "filesize": 46785984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "46545b273f19a41ae77eff5f6364486e",
+        "sha1": "e6defde3e55b5696e467dec51983189e886d0402",
+        "crc32": "9378cb1a"
+      }
+    }
+  ]
+}

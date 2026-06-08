@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DeathMask (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DeathMask (Japan) (Disc 2).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f37c8f278995dc561a1ec89cdbd3222",
+        "sha1": "d3968b1eb121c5da257fb8317300e85d2332addf",
+        "crc32": "26588e49"
+      }
+    },
+    {
+      "filename": "DeathMask (Japan) (Disc 2).bin",
+      "filesize": 726530448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "95434ca0c64865d67d24b6860fb37ce6",
+        "sha1": "c2c6565173d2582d0d643c11a91f3596b4d0a87f",
+        "crc32": "8afc20c4"
+      }
+    }
+  ]
+}

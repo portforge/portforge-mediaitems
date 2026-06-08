@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "World Championship Snooker (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "World Championship Snooker (Europe) (En,Fr,De).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea6d0756016f146b76508809ed9c7796",
+        "sha1": "9bbb93d0e6859bdffa79444d1e3b16b995b53221",
+        "crc32": "aa4aa9ee"
+      }
+    },
+    {
+      "filename": "World Championship Snooker (Europe) (En,Fr,De).bin",
+      "filesize": 362880672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c4993e19df093005c2b570d2a1b43d7",
+        "sha1": "ae51c1ff1960c5d9f127224a28475a3c84846caf",
+        "crc32": "7fd28b2d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maboroshi Tsukiyo - Tsukiyono Kitan (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maboroshi Tsukiyo - Tsukiyono Kitan (Japan) (Disc 1).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0126ae1786d9af01812a5035978b2e3c",
+        "sha1": "ab54c9b48083e83ece5ea5533e94072091b60c75",
+        "crc32": "c56ea486"
+      }
+    },
+    {
+      "filename": "Maboroshi Tsukiyo - Tsukiyono Kitan (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 524815872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "56cb9b9afb32ba60681c723cb2905461",
+        "sha1": "7a6d19fdb1ae7f642bd2f3a7124485dcd66510d6",
+        "crc32": "8539e719"
+      }
+    },
+    {
+      "filename": "Maboroshi Tsukiyo - Tsukiyono Kitan (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 37954224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf269cee0860d2dcf2db3b47a8afc80d",
+        "sha1": "7a3c7c12f572706414cdf8bd4e7d0fa2f55f5139",
+        "crc32": "fce59985"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Tank (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Tank (Spain).cue",
+      "filesize": 204,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83c36db3f36581bb6bf003646dad7a3b",
+        "sha1": "0ab7f89974819cbf094fac644db617e66d280315",
+        "crc32": "3702ee6d"
+      }
+    },
+    {
+      "filename": "Tiny Tank (Spain) (Track 1).bin",
+      "filesize": 709146816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b96b69c386da550d744d64729e0b4e26",
+        "sha1": "4265a1c0298d28b9b093dc0b80e697b542558f71",
+        "crc32": "c83b2a4a"
+      }
+    },
+    {
+      "filename": "Tiny Tank (Spain) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

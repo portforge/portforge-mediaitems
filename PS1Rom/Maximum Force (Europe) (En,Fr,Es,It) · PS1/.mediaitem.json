@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Maximum Force (Europe) (En,Fr,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Maximum Force (Europe) (En,Fr,Es,It).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a517ccdefcf3e0eb982fcb1fde89636a",
+        "sha1": "78369a15be5897787e55aa57e4e2e64fc90c3c04",
+        "crc32": "30f76098"
+      }
+    },
+    {
+      "filename": "Maximum Force (Europe) (En,Fr,Es,It).bin",
+      "filesize": 508457712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "06848714974373c43200f32915efe9ce",
+        "sha1": "5dd29c77bb5734a55510595a1e3e9fef1dfbbf09",
+        "crc32": "a97f80dc"
+      }
+    }
+  ]
+}

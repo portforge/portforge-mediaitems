@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gekka no Kishi - Ouryuusen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gekka no Kishi - Ouryuusen (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "76546e8107e92af1e50228c07feda5cf",
+        "sha1": "acb31bff7a81d68b52242017406aa80aee37730b",
+        "crc32": "9f9e7e44"
+      }
+    },
+    {
+      "filename": "Gekka no Kishi - Ouryuusen (Japan).bin",
+      "filesize": 116518080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9cad025535ac175d2bf290cd6536d9d",
+        "sha1": "37d7e499e22cb30856de67fd712a8015846e6253",
+        "crc32": "c3cec49f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikkyou Powerful Pro Yakyuu 2001 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 2001 (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f5d19b0914399035d01fead979c2060f",
+        "sha1": "25fd0fd2ea60ebc3fd65ccfdcf4aee448ead8980",
+        "crc32": "7e033b21"
+      }
+    },
+    {
+      "filename": "Jikkyou Powerful Pro Yakyuu 2001 (Japan).bin",
+      "filesize": 242067840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e21ffc57bcd6b21622233f9a165617cb",
+        "sha1": "5ed49342240060e472372a6c98227e53146f0fa5",
+        "crc32": "a4aa7c49"
+      }
+    }
+  ]
+}

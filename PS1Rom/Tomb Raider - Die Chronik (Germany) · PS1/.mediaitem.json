@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider - Die Chronik (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider - Die Chronik (Germany).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "80d7ae0ae76e9cfecee072279861e3e6",
+        "sha1": "4f28e254dc5b401df70993cbe30fd272b347ac2c",
+        "crc32": "5adf08c1"
+      }
+    },
+    {
+      "filename": "Tomb Raider - Die Chronik (Germany).bin",
+      "filesize": 651955584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cfae0339c62945c82e06c3d99cead74",
+        "sha1": "68aa702a10eaf9dcdb54211dfff37a08ea8730bb",
+        "crc32": "73a08597"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Johnny Bazooka (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Johnny Bazooka (Japan).cue",
+      "filesize": 214,
+      "ext": "cue",
+      "checksums": {
+        "md5": "57475ff0d82675a5279b57d85830ad48",
+        "sha1": "b41910fc129a62b73f01418e39d6fc93df132493",
+        "crc32": "4f98ba9e"
+      }
+    },
+    {
+      "filename": "Johnny Bazooka (Japan) (Track 1).bin",
+      "filesize": 512411424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "794f56371873d17ccfc88db65c3d17d1",
+        "sha1": "9d36466f2d3853634ca05372f102e798357fee67",
+        "crc32": "d89563ee"
+      }
+    },
+    {
+      "filename": "Johnny Bazooka (Japan) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ecc8ec30542c5fae7d8a31e5d1b6e75",
+        "sha1": "ddf605aad53c844af620d9c2ac247db49668d0aa",
+        "crc32": "c5026e08"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pro Mahjong Kiwame Plus (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pro Mahjong Kiwame Plus (Japan).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "df8c6a7e06854462de070a5526e8923e",
+        "sha1": "aedde066a2ae7e998fd2eed4d314f6875144a2b9",
+        "crc32": "46c34c2e"
+      }
+    },
+    {
+      "filename": "Pro Mahjong Kiwame Plus (Japan) (Track 1).bin",
+      "filesize": 23924544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dd2a365eeb0fec44f9e845fde5653fa6",
+        "sha1": "c13d5992730bc4335d82ffd9858897a09ac13ac3",
+        "crc32": "8977a95a"
+      }
+    },
+    {
+      "filename": "Pro Mahjong Kiwame Plus (Japan) (Track 2).bin",
+      "filesize": 343154448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ccc8af2bd7a93264b8607023dfd6fc7",
+        "sha1": "36eebca2ee6d2872491954ba32a9af0ea1517243",
+        "crc32": "744dc0c3"
+      }
+    }
+  ]
+}

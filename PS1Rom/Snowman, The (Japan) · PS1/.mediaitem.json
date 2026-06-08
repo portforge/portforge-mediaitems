@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Snowman, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Snowman, The (Japan).cue",
+      "filesize": 324,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86a73e8321fd202d4d7261d0159c5311",
+        "sha1": "697df61a66dbe94f52449f14f655444486c6745e",
+        "crc32": "9e51123d"
+      }
+    },
+    {
+      "filename": "Snowman, The (Japan) (Track 1).bin",
+      "filesize": 567565824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c93c347f01d6f26ff7e56d538e00cac1",
+        "sha1": "6316b2f548a7fe4c4f20d397bffff5b5c4d218de",
+        "crc32": "1657629e"
+      }
+    },
+    {
+      "filename": "Snowman, The (Japan) (Track 2).bin",
+      "filesize": 26685792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77c934c710afac577cffe5df476bd6aa",
+        "sha1": "e3d584cac4b9c5e2b1c3c1efd827498ebe8a855f",
+        "crc32": "bcc1fa9e"
+      }
+    },
+    {
+      "filename": "Snowman, The (Japan) (Track 3).bin",
+      "filesize": 16266432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72014c08d066b479e3ffe2f4dfb86596",
+        "sha1": "419e94aee186ee039cd81501443e0e0e31d817e5",
+        "crc32": "495fd60c"
+      }
+    }
+  ]
+}

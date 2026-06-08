@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2002 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2002 (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d0a5576bfc1264f9c028b30baaebb41",
+        "sha1": "511f7d6132bfb4ecec96d859fd2351156b81312e",
+        "crc32": "974b31aa"
+      }
+    },
+    {
+      "filename": "NBA Live 2002 (Germany).bin",
+      "filesize": 547945440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d6019c0c3da4e78d83f0b965aa55f3ba",
+        "sha1": "56f508732f274c80040fb86da33bb8e0e329f51e",
+        "crc32": "aa89f256"
+      }
+    }
+  ]
+}

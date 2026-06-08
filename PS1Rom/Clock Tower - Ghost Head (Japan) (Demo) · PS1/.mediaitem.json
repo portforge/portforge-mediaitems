@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Clock Tower - Ghost Head (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Clock Tower - Ghost Head (Japan) (Demo).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c9d8a4914e9b557c2d046f2fe79eca8",
+        "sha1": "1937a7e1264e5e6a989bb0532a4c40e312ff0d44",
+        "crc32": "bae78813"
+      }
+    },
+    {
+      "filename": "Clock Tower - Ghost Head (Japan) (Demo).bin",
+      "filesize": 526570464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "901e3daa5258023196560bc25d29a97f",
+        "sha1": "cc3e5ce83c235ccaa85fbdbc5ab22c598581b431",
+        "crc32": "cf5298c1"
+      }
+    }
+  ]
+}

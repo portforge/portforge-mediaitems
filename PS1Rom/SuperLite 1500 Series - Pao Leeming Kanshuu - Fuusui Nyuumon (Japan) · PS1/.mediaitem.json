@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Pao Leeming Kanshuu - Fuusui Nyuumon (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Pao Leeming Kanshuu - Fuusui Nyuumon (Japan).cue",
+      "filesize": 134,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba1228ae50377a265ec3e3fe9e372eb2",
+        "sha1": "39b164cbf128f67f265b7719284ec7d170269ade",
+        "crc32": "f93723b5"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Pao Leeming Kanshuu - Fuusui Nyuumon (Japan).bin",
+      "filesize": 446553072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e06bee4030911bf2ae459e4ddcb53c67",
+        "sha1": "445e57c026bb99b9c7e6d42155acdbe5065a82fd",
+        "crc32": "a49140a6"
+      }
+    }
+  ]
+}

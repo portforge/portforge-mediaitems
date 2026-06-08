@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Madden NFL 2001 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Madden NFL 2001 (USA).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "64132bbed442f472eed02d6233f9cfcd",
+        "sha1": "3630d4f54ed489771e24e9841f2f72be1c24c1b0",
+        "crc32": "418a54fd"
+      }
+    },
+    {
+      "filename": "Madden NFL 2001 (USA).bin",
+      "filesize": 377321952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcf091a93ba66a7b80e9f8659c73788a",
+        "sha1": "aacf651f4e22577e90d73082cc9ad21f19b49724",
+        "crc32": "cb711549"
+      }
+    }
+  ]
+}

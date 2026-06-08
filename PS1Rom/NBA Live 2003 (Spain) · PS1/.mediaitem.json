@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2003 (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2003 (Spain).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c121f1a23f182270686b12f4bd9607f",
+        "sha1": "127ac1956aade4dfdd82c99218d9b10626ffbff6",
+        "crc32": "fb3581c0"
+      }
+    },
+    {
+      "filename": "NBA Live 2003 (Spain).bin",
+      "filesize": 393280272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0285fde7add1be22f59705eee6bae54",
+        "sha1": "222bcfc8678b2077b35bd358dc0caa6cd0a66716",
+        "crc32": "d80c8665"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Athena - Awakening from the Ordinary Life (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Athena - Awakening from the Ordinary Life (Japan) (Disc 2).cue",
+      "filesize": 286,
+      "ext": "cue",
+      "checksums": {
+        "md5": "434b265bb0c745e1f60be5f8fab1efb7",
+        "sha1": "c82179db0b7e58542f1a7029e9df569ac060d0ed",
+        "crc32": "a45c839d"
+      }
+    },
+    {
+      "filename": "Athena - Awakening from the Ordinary Life (Japan) (Disc 2) (Track 1).bin",
+      "filesize": 606891264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2a0f4e087faf0a23c31a97ec3788b32",
+        "sha1": "66a8236e63460086f2211c7caca9a3f4ecb5f719",
+        "crc32": "efedc911"
+      }
+    },
+    {
+      "filename": "Athena - Awakening from the Ordinary Life (Japan) (Disc 2) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

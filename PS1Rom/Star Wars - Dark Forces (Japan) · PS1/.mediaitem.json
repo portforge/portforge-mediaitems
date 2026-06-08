@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Dark Forces (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Dark Forces (Japan).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "573de15d7528b287b3d398baf491ebea",
+        "sha1": "75b9e10b375c5979ac9f37d0321a3841e41c77d4",
+        "crc32": "ab2844d4"
+      }
+    },
+    {
+      "filename": "Star Wars - Dark Forces (Japan).bin",
+      "filesize": 526650432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66393a1b9770440b4cbf7ff9769e6ff2",
+        "sha1": "ec8333e88ad32a05752c39af6cfeefbf366ee45b",
+        "crc32": "28fcec83"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nice Price Series Vol. 02 - Honkaku Shougi Shinan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nice Price Series Vol. 02 - Honkaku Shougi Shinan (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2133d3709e3d4a2b5fa741af5ad26a8c",
+        "sha1": "f0394c5f21d683e4dc10d294a1094fb3c14af2d6",
+        "crc32": "2eb4b94a"
+      }
+    },
+    {
+      "filename": "Nice Price Series Vol. 02 - Honkaku Shougi Shinan (Japan).bin",
+      "filesize": 53759664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7bef3c5bbbf22179914530547735b08",
+        "sha1": "0089cb7e46758fd41e4f3392fbdecca433185056",
+        "crc32": "659c1073"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Test Drive 6 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Test Drive 6 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4235911d70ad46f69ec7d12959532f70",
+        "sha1": "2f735328f5e08041639d75a38ed8b34aa58c0b99",
+        "crc32": "288aa866"
+      }
+    },
+    {
+      "filename": "Test Drive 6 (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 482350512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49df685ab400d081a3574e32b3f77df2",
+        "sha1": "633dfeec24df1fb52e2d31f43be477b5410b0a16",
+        "crc32": "f2f086ed"
+      }
+    }
+  ]
+}

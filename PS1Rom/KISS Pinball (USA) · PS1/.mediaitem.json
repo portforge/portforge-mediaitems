@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "KISS Pinball (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "KISS Pinball (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2c731ed6947658145fadfcbf5fc69bd4",
+        "sha1": "892509595b9ee72fdb0a603dcb86a16a57a614bf",
+        "crc32": "ef868196"
+      }
+    },
+    {
+      "filename": "KISS Pinball (USA).bin",
+      "filesize": 283213728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38044c6aa756e82c2f85546bd156cfd4",
+        "sha1": "a0b9d74c52b330ecd68fb45df3cfa6e0f42adfd0",
+        "crc32": "fbca0d9a"
+      }
+    }
+  ]
+}

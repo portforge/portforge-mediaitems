@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Ring of Sias (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Ring of Sias (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1a31d501ac83b3da733004401ffc95d1",
+        "sha1": "0c73eeab6c596c3d00e452725f32402d9c11c04f",
+        "crc32": "8517cf55"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Ring of Sias (Japan).bin",
+      "filesize": 548740416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b697e55fcc4ba2efb5cf9c03a1c3cb8b",
+        "sha1": "6578271560b66cda532b734700fdd7946d5fce82",
+        "crc32": "ca93695f"
+      }
+    }
+  ]
+}

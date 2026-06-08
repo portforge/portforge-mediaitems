@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hello Kitty - Cube Frenzy (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hello Kitty - Cube Frenzy (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a8d1befd8fae36067bfd24370c10177",
+        "sha1": "4978cb981feba442991ce556c2d5a7dadb10c891",
+        "crc32": "c958fe1d"
+      }
+    },
+    {
+      "filename": "Hello Kitty - Cube Frenzy (USA).bin",
+      "filesize": 246162672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f60d2cec1fed1bf739b8e38aca576a7",
+        "sha1": "9bf801335206e22ffa1e246370e0ed7966f02e3b",
+        "crc32": "1eb97c4e"
+      }
+    }
+  ]
+}

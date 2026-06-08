@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episode I - Jedi Power Battles (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episode I - Jedi Power Battles (France).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9155500ef59dcd462a27b9e6bcac05f7",
+        "sha1": "c1642dd73b706e161f8f8372954027c2e5262257",
+        "crc32": "84104409"
+      }
+    },
+    {
+      "filename": "Star Wars - Episode I - Jedi Power Battles (France).bin",
+      "filesize": 443961168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e11a4a848d1ded2899531689c8401ad",
+        "sha1": "8bbf0fe7996589d41042ca3cc0eef961b3cd2f9a",
+        "crc32": "e3ac79b6"
+      }
+    }
+  ]
+}

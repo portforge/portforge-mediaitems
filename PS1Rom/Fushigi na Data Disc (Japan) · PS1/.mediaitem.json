@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fushigi na Data Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fushigi na Data Disc (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "adf82e8f03d3e15534708237d2cccb8c",
+        "sha1": "e8d25ee1f09c559f8f05de117799cf2629a0f605",
+        "crc32": "ecb43c32"
+      }
+    },
+    {
+      "filename": "Fushigi na Data Disc (Japan).bin",
+      "filesize": 257849760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "817b5142ea66872081777d0951c350b4",
+        "sha1": "e697c753f01582e6f4d36f7dfe83c162d4925d5e",
+        "crc32": "52db7fca"
+      }
+    }
+  ]
+}

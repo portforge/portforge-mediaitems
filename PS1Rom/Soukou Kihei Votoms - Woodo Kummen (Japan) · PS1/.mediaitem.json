@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soukou Kihei Votoms - Woodo Kummen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soukou Kihei Votoms - Woodo Kummen (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "954ff03562e6b4d2a12c9a72c5d23676",
+        "sha1": "9dcd28291656281949e85066fd71696d2c3ae5d1",
+        "crc32": "f5561866"
+      }
+    },
+    {
+      "filename": "Soukou Kihei Votoms - Woodo Kummen (Japan).bin",
+      "filesize": 314441232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2af5e0427a462ee2778899ee6c29bb3d",
+        "sha1": "920c8c5f0dc9d7a39e8f5c85b07e38c9cebb58b7",
+        "crc32": "20749833"
+      }
+    }
+  ]
+}

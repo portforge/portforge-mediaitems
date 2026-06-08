@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo (Future) 106 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo (Future) 106 (Europe).cue",
+      "filesize": 1368,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d01d4e4b183b37df0054c0221fbd61f8",
+        "sha1": "8ec2136579fe96bed87b8810e57250f7bd19b59f",
+        "crc32": "2744fe94"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 01).bin",
+      "filesize": 554366400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9455fae62d19a900060bb3b5f2e5ae92",
+        "sha1": "59d7a1ebaff9b82948e8b78700ceaa76fd8a3064",
+        "crc32": "2b1714df"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 02).bin",
+      "filesize": 11435424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccaab2c01e94489ae867570858a9feb0",
+        "sha1": "9c87f54d7071fcd621548be4f53fed2349ba4d82",
+        "crc32": "8d2d201d"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 03).bin",
+      "filesize": 12738432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "663a7f74772b5bc2678b3172cfab2d74",
+        "sha1": "60159ca28f0f01d6ad99ed6aa44f775e582d49cc",
+        "crc32": "2406b600"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 04).bin",
+      "filesize": 7185360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf5d17f41208bfd1bd83413645e6a388",
+        "sha1": "3aa27638606ad5b347867312c4e3de3b15a16e4f",
+        "crc32": "5b9f2998"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 05).bin",
+      "filesize": 1157184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e8200c6bd962c1f7f9c6a9c5a3f55b80",
+        "sha1": "edf7306244e9fc37258ff133cb238275939a132f",
+        "crc32": "befb9dad"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 06).bin",
+      "filesize": 5190864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1ebbc6c71e6c525c81555c47dcd1753d",
+        "sha1": "3e8c7d9c11b18cd80515b8a7bd24fb1a8dfe1c7d",
+        "crc32": "34e33b65"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 07).bin",
+      "filesize": 4981536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd99bb6f63116a939608c3f4be08777a",
+        "sha1": "8285e30e69d3ee468d968147677e4bf0ace5b39e",
+        "crc32": "767d11c2"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 08).bin",
+      "filesize": 1834560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5583f76278427547009e859a2195833a",
+        "sha1": "f51ee4617035f9abbebe237b5196012025732b1d",
+        "crc32": "4e5476eb"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 09).bin",
+      "filesize": 26093088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cab6337c5b8c9678034cdf724f1e0593",
+        "sha1": "94cf45af4c58ed8aeed6b91bddcac553688f8135",
+        "crc32": "2ba81cab"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 10).bin",
+      "filesize": 16765056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5cd540dc93ba54755bab845247b11528",
+        "sha1": "0cb5ae07ebb609c46ad5a499499ce2cdc1277b5c",
+        "crc32": "6a5bcfd3"
+      }
+    },
+    {
+      "filename": "Euro Demo (Future) 106 (Europe) (Track 11).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

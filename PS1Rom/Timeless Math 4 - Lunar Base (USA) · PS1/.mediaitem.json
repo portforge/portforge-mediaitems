@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Timeless Math 4 - Lunar Base (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Timeless Math 4 - Lunar Base (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c20c51bb5f2d775c55c075da4be8862",
+        "sha1": "f8bb29613444bf71931ff065fec0e37f0d814e65",
+        "crc32": "10164856"
+      }
+    },
+    {
+      "filename": "Timeless Math 4 - Lunar Base (USA).bin",
+      "filesize": 329334096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e0953494aade3fa5d3a01088ecbaabe6",
+        "sha1": "5086d8b63f811ac8e67da0120e8e5e584370f04b",
+        "crc32": "e92fd8fd"
+      }
+    }
+  ]
+}

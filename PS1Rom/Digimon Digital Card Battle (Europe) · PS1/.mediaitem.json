@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Digimon Digital Card Battle (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Digimon Digital Card Battle (Europe).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a5cacd04b6832bd201d8287a22dee95",
+        "sha1": "d85d2f66aaf36d2209a8ecde23acf7aa54f5a542",
+        "crc32": "2766be18"
+      }
+    },
+    {
+      "filename": "Digimon Digital Card Battle (Europe).bin",
+      "filesize": 215803056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "864891330b40a2fd043f2e9b14bb1fe3",
+        "sha1": "30d519490d14a042f52095c9f35b87fd19369ef6",
+        "crc32": "84cfd91a"
+      }
+    }
+  ]
+}

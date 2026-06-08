@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "O.D.T. (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "O.D.T. (France).cue",
+      "filesize": 200,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3adddf58d6fefe817c09720b7d86ab0f",
+        "sha1": "d4cd4acefcf5cc84c5eb69cf9a5788254a78775f",
+        "crc32": "390d5b96"
+      }
+    },
+    {
+      "filename": "O.D.T. (France) (Track 1).bin",
+      "filesize": 569273376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55319b7b6abbe2ddde147535387496e0",
+        "sha1": "1ae12d37b22bb37c74c81f032e0015f22fd1ff28",
+        "crc32": "2c6cc816"
+      }
+    },
+    {
+      "filename": "O.D.T. (France) (Track 2).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

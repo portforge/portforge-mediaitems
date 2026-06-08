@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koudelka (Japan) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koudelka (Japan) (Disc 4).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a80e3e3e3b0a1836804209cb85836e3",
+        "sha1": "7b6c599d1313391806c84e5ddd9efde891a71374",
+        "crc32": "c9b495cc"
+      }
+    },
+    {
+      "filename": "Koudelka (Japan) (Disc 4).bin",
+      "filesize": 628416768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b0044826bfb471b588564751bde8612b",
+        "sha1": "2f60dabd224834e9b9d02bde44cd7c142243e8bf",
+        "crc32": "855b8d01"
+      }
+    }
+  ]
+}

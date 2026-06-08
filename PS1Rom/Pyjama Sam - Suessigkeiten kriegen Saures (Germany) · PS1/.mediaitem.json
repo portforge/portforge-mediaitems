@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pyjama Sam - Suessigkeiten kriegen Saures (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pyjama Sam - Suessigkeiten kriegen Saures (Germany).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f80916fe09b58c6f0a7ecaa6a09c081",
+        "sha1": "c000260049c5fdaf547a358edf77da73447e2220",
+        "crc32": "c42bc374"
+      }
+    },
+    {
+      "filename": "Pyjama Sam - Suessigkeiten kriegen Saures (Germany).bin",
+      "filesize": 524594784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c9c6f25eadde83b300946165fb2635b",
+        "sha1": "c21786e46dcde6c1dfed9f3ff7a5b0722bc08ff9",
+        "crc32": "da330f81"
+      }
+    }
+  ]
+}

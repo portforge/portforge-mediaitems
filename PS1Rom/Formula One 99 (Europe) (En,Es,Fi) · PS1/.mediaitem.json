@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formula One 99 (Europe) (En,Es,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formula One 99 (Europe) (En,Es,Fi).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "497bf91cd1015ea9f39a6f58005bd144",
+        "sha1": "cff847bd09caefbffad9e38a1d3fa4cf5830f785",
+        "crc32": "6bba2772"
+      }
+    },
+    {
+      "filename": "Formula One 99 (Europe) (En,Es,Fi).bin",
+      "filesize": 541929024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99a3f373494ea31c1e0a8149ca6a5899",
+        "sha1": "58acb62820c284af482986aeb4ff6276025b7d6a",
+        "crc32": "d69b1dce"
+      }
+    }
+  ]
+}

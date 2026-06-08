@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Qix Neo (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Qix Neo (USA).cue",
+      "filesize": 79,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f9f03266eadbf0abb71c7a8b5701a162",
+        "sha1": "09cc5a409ed22ae0f2e7b9a4fd91b110af66f58b",
+        "crc32": "6653bd2a"
+      }
+    },
+    {
+      "filename": "Qix Neo (USA).bin",
+      "filesize": 353874864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4306047f3c243a748409a81d6d5cf0b",
+        "sha1": "7961b40de0270f91b44de90e8e2c3e11bf9a4616",
+        "crc32": "80a5b66b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Quest for Fame - Be a Virtual Rock Legend (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Quest for Fame - Be a Virtual Rock Legend (Japan) (Disc 1).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "13a38f82c6665b129097bec0bbd8d894",
+        "sha1": "30d57a8ee81b27c008e5be634eb568a2681d82e0",
+        "crc32": "e8fe59fb"
+      }
+    },
+    {
+      "filename": "Quest for Fame - Be a Virtual Rock Legend (Japan) (Disc 1).bin",
+      "filesize": 741225744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c1cc1e91ddecfb834ed96265ad6be62",
+        "sha1": "ba28495e19207e0c18f1d29380f571dd16477bc2",
+        "crc32": "8717a2fd"
+      }
+    }
+  ]
+}

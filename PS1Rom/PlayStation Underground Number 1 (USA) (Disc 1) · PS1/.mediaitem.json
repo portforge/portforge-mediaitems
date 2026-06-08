@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Number 1 (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Number 1 (USA) (Disc 1).cue",
+      "filesize": 687,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e5ec17fd0592ffd356410a54af028335",
+        "sha1": "60c4f27ce3b149683c30a919055020fb8952192f",
+        "crc32": "d91f3bfa"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 1 (USA) (Disc 1) (Track 1).bin",
+      "filesize": 647724336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "543fedee886b6a2906b8bf06c1fcccd1",
+        "sha1": "3e65908f5a1632590f4c8688c9de5cd516052d02",
+        "crc32": "95741ac4"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 1 (USA) (Disc 1) (Track 2).bin",
+      "filesize": 31975440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54e1d124397a8a4831263a749f7e0e0d",
+        "sha1": "5427cdf0b41d3d41f195638fee0f858bf8f16263",
+        "crc32": "95229bc0"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 1 (USA) (Disc 1) (Track 3).bin",
+      "filesize": 18964176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3053c39da0965c1bb5a32b5f8c0f4c74",
+        "sha1": "cd2b42180f6b9657d86606059b57401f6122e3a3",
+        "crc32": "d210a0e0"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 1 (USA) (Disc 1) (Track 4).bin",
+      "filesize": 32255328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbaca362cf1b04821627fa9263fe1624",
+        "sha1": "7e7b1456a1f095c818a6d4c3f7987373d8a348d8",
+        "crc32": "38886f61"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Number 1 (USA) (Disc 1) (Track 5).bin",
+      "filesize": 2810640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09607479224f7af39a820636b7cc80b3",
+        "sha1": "3d6927d664fae2469f64cf14cb6fe244aa8e7faa",
+        "crc32": "1cedfbe7"
+      }
+    }
+  ]
+}

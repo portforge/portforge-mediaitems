@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Konchuuden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Konchuuden (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3df523ac15a53d67a57c7e9b150af60",
+        "sha1": "63cbb4a3895da902c3b4e0950f2588a8f86ad6ac",
+        "crc32": "edf5e943"
+      }
+    },
+    {
+      "filename": "Battle Konchuuden (Japan).bin",
+      "filesize": 448662816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1fdd6ea7b38af8e7138941b175848b0",
+        "sha1": "c6c0e6fb6b4e921c6c8fda58b4c078fedbdbc492",
+        "crc32": "d5c6e783"
+      }
+    }
+  ]
+}

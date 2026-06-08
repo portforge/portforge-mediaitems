@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "M&M's - Shell Shocked (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "M&M's - Shell Shocked (France).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e3ea4640ca01c27dc4719ad0ea68e2ed",
+        "sha1": "81b05e6171dbfecf6c57426a056218616c3d84d5",
+        "crc32": "2983eeaa"
+      }
+    },
+    {
+      "filename": "M&M's - Shell Shocked (France).bin",
+      "filesize": 439435920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73b8d68f68c99b36c85f349af09948fd",
+        "sha1": "d82f0c2459be055ecf6991ab144b78482cdaf0db",
+        "crc32": "7a6d84ff"
+      }
+    }
+  ]
+}

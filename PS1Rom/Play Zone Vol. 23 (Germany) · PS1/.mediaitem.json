@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Zone Vol. 23 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Zone Vol. 23 (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1f3583db86f059f5742968da3eebefdd",
+        "sha1": "b36cc2fc677cc88e72a46d196c80aeb300062815",
+        "crc32": "de91ee15"
+      }
+    },
+    {
+      "filename": "Play Zone Vol. 23 (Germany).bin",
+      "filesize": 583667616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2398d0566e3bbaa21021879f61092ef5",
+        "sha1": "d757eb9e1392f7ba9418973748091909ef4c0f36",
+        "crc32": "2bdbb501"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Invaders (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Invaders (USA).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8f62103a16f09d5d6567c3163db8780",
+        "sha1": "e17b9869bb8b72d3f2df61b15770f6888fe6cbde",
+        "crc32": "a4901e1c"
+      }
+    },
+    {
+      "filename": "Space Invaders (USA) (Track 1).bin",
+      "filesize": 169336944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa9a3c72cb31c0852ee931ee443758d6",
+        "sha1": "494b05970810bcd4980f7b24326ddb5bb93ced2a",
+        "crc32": "5830239a"
+      }
+    },
+    {
+      "filename": "Space Invaders (USA) (Track 2).bin",
+      "filesize": 32634000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0bcda18a061e585c3ddf7dbc45bd887",
+        "sha1": "aca5f81a73812e4e5f786edace39376fcc1be4b8",
+        "crc32": "82befabf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Thornberrys, The - Animal Adventures (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Thornberrys, The - Animal Adventures (USA).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d541c45da5b3c2d874d0965aca4598a9",
+        "sha1": "3bda34a646c64854dfaa5fb14dfda1ac458e2006",
+        "crc32": "2acf9792"
+      }
+    },
+    {
+      "filename": "Wild Thornberrys, The - Animal Adventures (USA).bin",
+      "filesize": 632624496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9ded72d7dfb1cb26bd5a6c37c60a24f4",
+        "sha1": "1553caad1b248ea194a4f7c72d3b96f77b52d94c",
+        "crc32": "3bda1388"
+      }
+    }
+  ]
+}

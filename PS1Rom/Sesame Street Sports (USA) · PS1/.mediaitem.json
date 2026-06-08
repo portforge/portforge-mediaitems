@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sesame Street Sports (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sesame Street Sports (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9adf23a8ec819a03069cabbcf9298dd2",
+        "sha1": "be2d4019462425f59e4c79c9508ef98a52c7ef87",
+        "crc32": "2effa1b6"
+      }
+    },
+    {
+      "filename": "Sesame Street Sports (USA).bin",
+      "filesize": 377039712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f52678a85282e4ccfa3cb72b295e9f35",
+        "sha1": "afa15eb5044dfc4217f2485d5db2ead5fd1ce98f",
+        "crc32": "c42ecaab"
+      }
+    }
+  ]
+}

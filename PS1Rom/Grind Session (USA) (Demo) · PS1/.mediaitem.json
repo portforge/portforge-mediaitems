@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grind Session (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grind Session (USA) (Demo).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4b57db5d8b847716fa7f59e67f300949",
+        "sha1": "c19adb9ce04d16c967e7773881e6e2e6147ff26d",
+        "crc32": "deba2585"
+      }
+    },
+    {
+      "filename": "Grind Session (USA) (Demo).bin",
+      "filesize": 94764432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a0bee376c887d56ee888df7845183ca7",
+        "sha1": "70ee799a91d94dc6078800375c6ec28e8fedfa1a",
+        "crc32": "581a4f4f"
+      }
+    }
+  ]
+}

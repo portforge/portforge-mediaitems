@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "JoJo's Bizarre Adventure (Europe) (Beta) (2000-01-21)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "JoJo's Bizarre Adventure (Europe) (Beta) (2000-01-21).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1179575e1c3b92affbfd7db041931ac9",
+        "sha1": "dca3e67ecffa485b80407d11f1852ea518b2ceb2",
+        "crc32": "33fb76d0"
+      }
+    },
+    {
+      "filename": "JoJo's Bizarre Adventure (Europe) (Beta) (2000-01-21).bin",
+      "filesize": 666843744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80f794c9a10b61bae8673e4172f37def",
+        "sha1": "99c5507f797f526f183c135e821d461213bbfcfb",
+        "crc32": "39fa95ae"
+      }
+    }
+  ]
+}

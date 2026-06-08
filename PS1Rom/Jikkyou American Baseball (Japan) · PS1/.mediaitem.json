@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jikkyou American Baseball (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jikkyou American Baseball (Japan).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b4efccab06608c08736a1b87aeb3970f",
+        "sha1": "09b67a01adb9896d47a66cbcdd893b64940251b1",
+        "crc32": "00592e7c"
+      }
+    },
+    {
+      "filename": "Jikkyou American Baseball (Japan) (Track 1).bin",
+      "filesize": 433156080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fc157124d0017a0ea1d5e0f186eb0b0",
+        "sha1": "d3b568e55624c9aa02b1fb4fbfa643f7ce328913",
+        "crc32": "4ee1f276"
+      }
+    },
+    {
+      "filename": "Jikkyou American Baseball (Japan) (Track 2).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5549199f9a1a7c73c92a359267f00bef",
+        "sha1": "00e6f1bb035ddfe16ac70842d3b1f261ceb7f3ea",
+        "crc32": "dad57741"
+      }
+    }
+  ]
+}

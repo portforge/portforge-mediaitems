@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Invaders (USA) (Beta) (1999-08-17)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Invaders (USA) (Beta) (1999-08-17).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ec0cbc7f02ca7dfa931d351a005ca4de",
+        "sha1": "b2a06501995d0834c78f531555970e9bc236f352",
+        "crc32": "9e72f00b"
+      }
+    },
+    {
+      "filename": "Space Invaders (USA) (Beta) (1999-08-17).bin",
+      "filesize": 169336944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55b6afeb83e66d44ef2d5a7c91315d24",
+        "sha1": "3d07b422d3c9491a6da163715e1b9c3940e0f602",
+        "crc32": "b68ff4a4"
+      }
+    }
+  ]
+}

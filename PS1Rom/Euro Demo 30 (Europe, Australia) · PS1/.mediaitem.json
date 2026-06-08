@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 30 (Europe, Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 30 (Europe, Australia).cue",
+      "filesize": 360,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4940a47e49c1f8391d41906f41d5543",
+        "sha1": "77c051e34d62fb47bf7e413f5b24c3bf77b6925a",
+        "crc32": "121e7229"
+      }
+    },
+    {
+      "filename": "Euro Demo 30 (Europe, Australia) (Track 1).bin",
+      "filesize": 188211744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aeedeced47e9fa4fedf4530b9e7567b5",
+        "sha1": "b8feb2fc609e422eb2260a846022c2901e2ee7c1",
+        "crc32": "a6199c1d"
+      }
+    },
+    {
+      "filename": "Euro Demo 30 (Europe, Australia) (Track 2).bin",
+      "filesize": 21207984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f9791b7f92a858312b2c4ddd0c059d4",
+        "sha1": "1d0e781a30d27a5b386be1b4e955863e133a62bd",
+        "crc32": "72f846e1"
+      }
+    },
+    {
+      "filename": "Euro Demo 30 (Europe, Australia) (Track 3).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}

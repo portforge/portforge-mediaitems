@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Jam (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Jam (USA).cue",
+      "filesize": 200,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2f334dbbccd972eeffe2bf950c3970f8",
+        "sha1": "c2309b3b5ebd9fbf6ca771e04303277396c5e954",
+        "crc32": "94dc8970"
+      }
+    },
+    {
+      "filename": "Space Jam (USA) (Track 1).bin",
+      "filesize": 243483744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c1e748bd908e5af8d4965834ac8dc41",
+        "sha1": "7bd855afb4888f3a5fff2c69777aa53209f9d47c",
+        "crc32": "e96fdda6"
+      }
+    },
+    {
+      "filename": "Space Jam (USA) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88aa16698a904e9841f2279a4e9beb23",
+        "sha1": "bea344b803475b463195df6fd60834069afe246e",
+        "crc32": "9eb22530"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Player Manager - Epoca 98-99 (Portugal)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Player Manager - Epoca 98-99 (Portugal).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "08e83c6872b96b75dd92be6d0249f737",
+        "sha1": "e4af584465a5651d42db44c0ce05b653ca4220ed",
+        "crc32": "7d4065f3"
+      }
+    },
+    {
+      "filename": "Player Manager - Epoca 98-99 (Portugal).bin",
+      "filesize": 148688736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e61d1d428887c8b663f5fa757832d1eb",
+        "sha1": "d922f9918c68b6cf46ba041330e8327291ba5108",
+        "crc32": "7cb3af9a"
+      }
+    }
+  ]
+}

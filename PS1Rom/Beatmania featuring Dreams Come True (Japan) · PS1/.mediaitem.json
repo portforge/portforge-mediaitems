@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beatmania featuring Dreams Come True (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beatmania featuring Dreams Come True (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d2f9d1c90e5469aacd85525d2f77756",
+        "sha1": "3522ede71c88b1d580e5df5778dee0c657f71481",
+        "crc32": "f958a2f6"
+      }
+    },
+    {
+      "filename": "Beatmania featuring Dreams Come True (Japan).bin",
+      "filesize": 184831920,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa6bd001e8989dd1b9d3ceacece83f35",
+        "sha1": "1ad4410b02fa66b1f04a8e31e1b6067cbbdb40cf",
+        "crc32": "ce482e93"
+      }
+    }
+  ]
+}

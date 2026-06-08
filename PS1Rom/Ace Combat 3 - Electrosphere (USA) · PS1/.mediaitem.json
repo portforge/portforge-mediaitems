@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ace Combat 3 - Electrosphere (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ace Combat 3 - Electrosphere (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f90802e0f6f55a4044b3b24be89146b",
+        "sha1": "387418c52e2b7bf02f7187e31274ecff67ce59d5",
+        "crc32": "b8624d3d"
+      }
+    },
+    {
+      "filename": "Ace Combat 3 - Electrosphere (USA).bin",
+      "filesize": 644977200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9709b211d1e241147bcfe14e95547c5a",
+        "sha1": "9b690c02cdb7754f2fa478c4974ec69600f2f269",
+        "crc32": "a9dbe00f"
+      }
+    }
+  ]
+}

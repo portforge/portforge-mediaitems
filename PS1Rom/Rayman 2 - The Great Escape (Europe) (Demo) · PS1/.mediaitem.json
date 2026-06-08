@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rayman 2 - The Great Escape (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rayman 2 - The Great Escape (Europe) (Demo).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ecd7373e4e28ff4a6b0a943a233e8ec",
+        "sha1": "7c52f153d674c7fc9bc4a9e26355abb647efec06",
+        "crc32": "2887b6e4"
+      }
+    },
+    {
+      "filename": "Rayman 2 - The Great Escape (Europe) (Demo).bin",
+      "filesize": 81499152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5be79678e2a2607caf9b375ce9baa31",
+        "sha1": "ab99458a2a447c8cfed36a07f05ae8e50c54b075",
+        "crc32": "ae567781"
+      }
+    }
+  ]
+}

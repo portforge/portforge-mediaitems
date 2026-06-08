@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Uchuu Senkan Yamato - Haruka naru Hoshi Iscandar (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Uchuu Senkan Yamato - Haruka naru Hoshi Iscandar (Japan) (Rev 1).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5002e2a2957f16e76b8b0e87aeeac3d7",
+        "sha1": "e67d15b6f942b8413ecd2b24295323b1b75d139d",
+        "crc32": "3568419d"
+      }
+    },
+    {
+      "filename": "Uchuu Senkan Yamato - Haruka naru Hoshi Iscandar (Japan) (Rev 1).bin",
+      "filesize": 701606304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a90f1721c6176d42c6a3ac35f5d538d",
+        "sha1": "0a0ab98b2bebad452d69e93dcfbc80a4ad4933c8",
+        "crc32": "1a89bbd5"
+      }
+    }
+  ]
+}

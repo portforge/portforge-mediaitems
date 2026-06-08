@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Houma Hunter Lime - Special Collection Vol. 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Houma Hunter Lime - Special Collection Vol. 2 (Japan).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "72b921ef44bc51d4e2dae54befa7d6f4",
+        "sha1": "ace07845ee2f835f45d24af8d1c0d56196428dab",
+        "crc32": "afd09e75"
+      }
+    },
+    {
+      "filename": "Houma Hunter Lime - Special Collection Vol. 2 (Japan).bin",
+      "filesize": 744610272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2323048ebd129892c02c51b0d9c3b70e",
+        "sha1": "1c54a173ef1ed8ca15785228aa3f55da18fda1f6",
+        "crc32": "4ff519eb"
+      }
+    }
+  ]
+}

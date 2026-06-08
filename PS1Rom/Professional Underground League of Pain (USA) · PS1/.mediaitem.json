@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Professional Underground League of Pain (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Professional Underground League of Pain (USA).cue",
+      "filesize": 816,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e3e683ecfd27a8cda7d9a7a1391e420a",
+        "sha1": "4749ffd46a8e8186b004f17024321548702d1a55",
+        "crc32": "4a7fdd21"
+      }
+    },
+    {
+      "filename": "Professional Underground League of Pain (USA) (Track 1).bin",
+      "filesize": 189390096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b4a8bc047428ed4a4c8e4b90f5c10f9",
+        "sha1": "f87f841e070dec303ef484509c501c8e228e8ded",
+        "crc32": "cf29b8dd"
+      }
+    },
+    {
+      "filename": "Professional Underground League of Pain (USA) (Track 2).bin",
+      "filesize": 32194176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a80797588317996d900979f980cb347",
+        "sha1": "c3d74188b7c13a81b1bfb4725a8b9b2bef0c913c",
+        "crc32": "b6696503"
+      }
+    },
+    {
+      "filename": "Professional Underground League of Pain (USA) (Track 3).bin",
+      "filesize": 14775264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0dc3edf60f93ec6debb4c9b40a7eaa3f",
+        "sha1": "08a6861960bc60f5a6e07cb7fb4bbcb304211fa7",
+        "crc32": "425288aa"
+      }
+    },
+    {
+      "filename": "Professional Underground League of Pain (USA) (Track 4).bin",
+      "filesize": 24173856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6e6f075279d676dc1ec670df07725b4",
+        "sha1": "1071cced4861c5ad473be5e1e3f5ab3b13d0c981",
+        "crc32": "d8a61d48"
+      }
+    },
+    {
+      "filename": "Professional Underground League of Pain (USA) (Track 5).bin",
+      "filesize": 28315728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c6e37a3201b755550ad9d7f8fcb4725",
+        "sha1": "37b041efa12e1727ecef55ca6bf37b8ad839fba1",
+        "crc32": "f054acc1"
+      }
+    },
+    {
+      "filename": "Professional Underground League of Pain (USA) (Track 6).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

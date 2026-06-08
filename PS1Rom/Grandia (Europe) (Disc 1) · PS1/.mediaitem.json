@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grandia (Europe) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grandia (Europe) (Disc 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d63b2c1d7810bcb5865e85fa83e8a3ae",
+        "sha1": "a89e0600155e79c9ff592df164387f78c9fff6a5",
+        "crc32": "0f50c3b1"
+      }
+    },
+    {
+      "filename": "Grandia (Europe) (Disc 1).bin",
+      "filesize": 693162624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7474b953db8f91dd79e08848e4a7831d",
+        "sha1": "6442e695fc4374f1a5c0dab4e147c004badd2092",
+        "crc32": "29ae8f2d"
+      }
+    }
+  ]
+}

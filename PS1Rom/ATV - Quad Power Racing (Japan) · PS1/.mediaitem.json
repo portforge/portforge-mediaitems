@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "ATV - Quad Power Racing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "ATV - Quad Power Racing (Japan).cue",
+      "filesize": 232,
+      "ext": "cue",
+      "checksums": {
+        "md5": "851c2ebbf3993429a4c1740c9a4376a2",
+        "sha1": "8e22a36191ae5c96ee976c5f2902c597117178ae",
+        "crc32": "3ba604f2"
+      }
+    },
+    {
+      "filename": "ATV - Quad Power Racing (Japan) (Track 1).bin",
+      "filesize": 295818096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "525e593d7139030a27d7a966dd2f7d54",
+        "sha1": "1647d9f9f9a9a6113920df80a2cfcba9c34ddc5a",
+        "crc32": "699eaa9e"
+      }
+    },
+    {
+      "filename": "ATV - Quad Power Racing (Japan) (Track 2).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "092a1d1e6932a3c99426b9020c8ef8fb",
+        "sha1": "e0d19c9171c39ec9a0119d326ca4c9d96df3d4eb",
+        "crc32": "78d53eba"
+      }
+    }
+  ]
+}

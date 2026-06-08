@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tricky Sliders - Freestyle Snowboard (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tricky Sliders - Freestyle Snowboard (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83c6e19adae79b000206a898657255c8",
+        "sha1": "5e40d7bf331cc694d9679bad901cd164d04b5fb7",
+        "crc32": "09318280"
+      }
+    },
+    {
+      "filename": "Tricky Sliders - Freestyle Snowboard (Japan).bin",
+      "filesize": 221417280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f12465ca182dae867fc002fba1bf6d15",
+        "sha1": "429072a4b5363e6ddb4b89b1352d6cb73104899a",
+        "crc32": "4e87c9ea"
+      }
+    }
+  ]
+}

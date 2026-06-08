@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kaijuu Senki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kaijuu Senki (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a9cf64bd5febde7938b1d2e51dcc058",
+        "sha1": "8d56f8afa3526679724f59e426e1c452cd8a0661",
+        "crc32": "16664eae"
+      }
+    },
+    {
+      "filename": "Kaijuu Senki (Japan).bin",
+      "filesize": 274894704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60fb3909459fab9daf963219dcdc87bf",
+        "sha1": "007898202a8b7b066d13b922f8ca721e60249418",
+        "crc32": "23e7f63f"
+      }
+    }
+  ]
+}

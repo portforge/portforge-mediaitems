@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tail Concerto (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tail Concerto (USA) (Demo).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "648a34d5fb9763a07f563f9984c29ac1",
+        "sha1": "32af7d26cdf9d1a034c0608d14a68131bffaeadd",
+        "crc32": "baa13ec1"
+      }
+    },
+    {
+      "filename": "Tail Concerto (USA) (Demo) (Track 1).bin",
+      "filesize": 548077152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "826623addbfa19be05238f075afaf6d2",
+        "sha1": "f882452b26f204fdc501f4aa172ca5f7f67911e1",
+        "crc32": "eec9708f"
+      }
+    },
+    {
+      "filename": "Tail Concerto (USA) (Demo) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

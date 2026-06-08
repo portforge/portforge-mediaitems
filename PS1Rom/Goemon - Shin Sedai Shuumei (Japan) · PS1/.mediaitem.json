@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Goemon - Shin Sedai Shuumei (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Goemon - Shin Sedai Shuumei (Japan).cue",
+      "filesize": 240,
+      "ext": "cue",
+      "checksums": {
+        "md5": "32247ef7a2b60da871a39e09e8ea857d",
+        "sha1": "4ab71e82b48401ac0d01faf001d1ad4465921d85",
+        "crc32": "79eecb9e"
+      }
+    },
+    {
+      "filename": "Goemon - Shin Sedai Shuumei (Japan) (Track 1).bin",
+      "filesize": 578302704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "818575b178db167b88d8f823266d770d",
+        "sha1": "e59b5b39ff3fde8359ba649cb5c2861b17fbb18e",
+        "crc32": "1cec71c9"
+      }
+    },
+    {
+      "filename": "Goemon - Shin Sedai Shuumei (Japan) (Track 2).bin",
+      "filesize": 35632800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5077c51b199bba566c19674f3bd71268",
+        "sha1": "211e908b122ad42b6346855242571c75293200a0",
+        "crc32": "e04b33be"
+      }
+    }
+  ]
+}

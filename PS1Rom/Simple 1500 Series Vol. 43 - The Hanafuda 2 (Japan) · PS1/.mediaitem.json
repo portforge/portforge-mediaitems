@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 43 - The Hanafuda 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 43 - The Hanafuda 2 (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1fb554fbaf90f13881279e0330a5ef52",
+        "sha1": "f24daa1cad7734da086f370f9e5fb93ebb31ea86",
+        "crc32": "4a24bd8a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 43 - The Hanafuda 2 (Japan).bin",
+      "filesize": 56544432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8cc00ccd142a1cc4ee5a2e2421a06650",
+        "sha1": "0b580e57b2ac687ec960139742f94ab2a8cabed6",
+        "crc32": "30366c7f"
+      }
+    }
+  ]
+}

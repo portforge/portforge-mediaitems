@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Station 6 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Station 6 (Europe).cue",
+      "filesize": 206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fac5688ae75730e381fa10c6bc43631c",
+        "sha1": "daf65b2c5541a1bdca7564a5c1b016ded309c1b2",
+        "crc32": "a5a30f1d"
+      }
+    },
+    {
+      "filename": "Station 6 (Europe) (Track 1).bin",
+      "filesize": 289317168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cb0cefe29cc394ab3e6af636d5bb69f",
+        "sha1": "00a48c1e5529ac6fbc8becde59ec27b7246973a9",
+        "crc32": "9bcb512d"
+      }
+    },
+    {
+      "filename": "Station 6 (Europe) (Track 2).bin",
+      "filesize": 54542880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bff0d0d4b5bbc803692a51ae5e5ab9a8",
+        "sha1": "fe4c9aa7d564a5307989487e57222e8c620e7c5e",
+        "crc32": "326c3ead"
+      }
+    }
+  ]
+}

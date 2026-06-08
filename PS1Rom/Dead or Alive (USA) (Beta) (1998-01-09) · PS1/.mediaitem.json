@@ -1,0 +1,387 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dead or Alive (USA) (Beta) (1998-01-09)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09).cue",
+      "filesize": 4112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "71ff9602f479c641aafb2e2a8ea26b3a",
+        "sha1": "58c21bcc0cd2a604d5cf9499fbeb60d847d07f0c",
+        "crc32": "51194615"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 01).bin",
+      "filesize": 115144512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68127a2a8a8317fb37637eae643e99b6",
+        "sha1": "0b71e31e9c7a46645e38cf0b3bd5d42190017568",
+        "crc32": "fd74a50b"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 02).bin",
+      "filesize": 30390192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "626968d9b97adf7312591b698ce47f6d",
+        "sha1": "2b0c68a6951ac771b529f692e56dcecb6c30bd2c",
+        "crc32": "441b046c"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 03).bin",
+      "filesize": 31302768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca0279b4f035d6266a98989846c94eaa",
+        "sha1": "ce9a121d0f6e83c0315f41bc8078e2f0d1a14fe8",
+        "crc32": "4b52fa4f"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 04).bin",
+      "filesize": 30018576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a30320415029ee236044eca8cff81d7b",
+        "sha1": "b182edbda9eed5da8db0ec4d9cf38a0282714885",
+        "crc32": "1336c680"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 05).bin",
+      "filesize": 32358816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ecceb9921c5961b75c9525c318bf977a",
+        "sha1": "1adcf52c10eaa64861e23516dc990d30a98debf5",
+        "crc32": "5b1f6c51"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 06).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3ec3a19c73f9f87aa2a06883e4a32c6",
+        "sha1": "d3e537e4c10891edf3600546ef374a6cbc7e6170",
+        "crc32": "da281fb9"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 07).bin",
+      "filesize": 32074224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7d74c147b88f343841dd6539674c8073",
+        "sha1": "449af933078008b767048c5a6df4c15899185615",
+        "crc32": "3f36a775"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 08).bin",
+      "filesize": 31076976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42ac4086ec5585bb02c72e4d636476d0",
+        "sha1": "5b61b9fb2dff3bd32c4d48e2c2f9dde69df30135",
+        "crc32": "e72d59fc"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 09).bin",
+      "filesize": 33259632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e6932a3d01402f0f8fafc7ad0ffa00a",
+        "sha1": "baaa76f408ef4ac736adab4d77fb6d54994593f2",
+        "crc32": "8f235ef9"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 10).bin",
+      "filesize": 37721376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a60a8ce7f7974ee1ebea85273c703c4",
+        "sha1": "c9ff06dfbdb08a20ecbfc5d581dad21113dd1c27",
+        "crc32": "143e8a64"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 11).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f71705596a600461a9dc10d9f580430a",
+        "sha1": "9e898581bf8b68990a14ade0a2b0c5c7d1980927",
+        "crc32": "44578168"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 12).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30af59281c8d1ba6f6194dbd2322c250",
+        "sha1": "08a7fa35808a0b8e5b784944fa24581964f46aeb",
+        "crc32": "1f07ffad"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 13).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24fabb5bd758c53a2d66288a1c0f01b0",
+        "sha1": "35e0aafb9a2320442f64231f8bcb7fb9565531f0",
+        "crc32": "3bbe80d1"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 14).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7be9733c68cc82d5dc4f3af4d89a1f22",
+        "sha1": "949e5bf69f57f28d3efa2230787b28f1832413b4",
+        "crc32": "6b5a8341"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 15).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e7b4ce52bff0c29dc6d8d651c29af58",
+        "sha1": "8ce13c7d5173a829ccaf0e2f283296bd35eca485",
+        "crc32": "ab1c81bf"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 16).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e43d272511cf61b5317deaf7494a60e9",
+        "sha1": "92a93efc792e4336698e2f57ea7f648174fda6d2",
+        "crc32": "8d24c3b5"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 17).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b460e98f0c8b24041ea901eb70188d3",
+        "sha1": "5c07e4aa46959e54697690f37117ecbfddf7d38a",
+        "crc32": "110bc7c3"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 18).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8c3f09a7375d6c330d005ddf54f7974b",
+        "sha1": "119b2ddacc5913e1e2f514b87240a82267c914c9",
+        "crc32": "76d6a4f7"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 19).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4f3bedeb4e56d482f0fd43e5b786df0",
+        "sha1": "c94f0509bd4942021d8fc8c1c7b02666b3a63557",
+        "crc32": "2a1f7b05"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 20).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3068f0ee908c49503acfdfcfc81d42f7",
+        "sha1": "e94ac312aef44d1292563616e116b5d68b059c87",
+        "crc32": "0c7c1292"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 21).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2c27b676493300fa4adc5ad0ac089cf",
+        "sha1": "09923e96aa9734aa631bd5a6718e5573a8f39dd3",
+        "crc32": "0e1494be"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 22).bin",
+      "filesize": 2747136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53c0c4e5d88577420963a8d3966f8257",
+        "sha1": "733f63d1d532ecb6a32cba45e8394f6047942ca4",
+        "crc32": "535d5ae3"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 23).bin",
+      "filesize": 9464448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f45fec5d30cdb2496b0f65890cfee00",
+        "sha1": "df144bd836ceb4260da1bdab20218fe3426e0975",
+        "crc32": "1884303b"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 24).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b662e8e3d5a68a5a4035c190c0eeb7e",
+        "sha1": "c501b73009ad7de7b945ef30f42fdf38619dad96",
+        "crc32": "6878db1e"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 25).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e0642fc0c133d27d1a801d563806bec",
+        "sha1": "2fd8a0ab422d787650711d981048c4618dd38663",
+        "crc32": "e3170c86"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 26).bin",
+      "filesize": 8243760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8145d4642baca9dbe536fe632b53ac1",
+        "sha1": "6b3a98106df34d8ec349aad34950515d7f902644",
+        "crc32": "14e8a7f0"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 27).bin",
+      "filesize": 1199520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e0642fc0c133d27d1a801d563806bec",
+        "sha1": "2fd8a0ab422d787650711d981048c4618dd38663",
+        "crc32": "e3170c86"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 28).bin",
+      "filesize": 26304768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b75649dd13d6b616210fcfeaf3c346d",
+        "sha1": "d9aa3d6a9e4217e00c513c5531a1bf81b133c302",
+        "crc32": "d4651284"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 29).bin",
+      "filesize": 25472160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0887af94dd56d21936d15245c05188dd",
+        "sha1": "e822cb5db5112325554e565bf0336aea07b115d4",
+        "crc32": "2ad0dbd4"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 30).bin",
+      "filesize": 29251824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "32ed3958f1cab6c515397b0a16a79c7c",
+        "sha1": "d8b45cc629d275a3b68421797f435ea0b6ed69ca",
+        "crc32": "5d3d6893"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 31).bin",
+      "filesize": 31091088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e71e29f1bc54d3caf5997f692acc9c9d",
+        "sha1": "6cb70775dedfeb49fce9f5bb781d2eaa0110beba",
+        "crc32": "0c8cc9a6"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 32).bin",
+      "filesize": 32095392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8650800a050ddd7e7b9fa0b13e02d2e5",
+        "sha1": "7a06a23b0edc9bfa47e3a0ed5c7353caca0728d6",
+        "crc32": "295caee5"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 33).bin",
+      "filesize": 33184368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "559ebcaed4aa0dd5cd9253822efd1314",
+        "sha1": "9e4d98b2a47523bbafc86515e0ef4d0f90296cb5",
+        "crc32": "9642ff41"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 34).bin",
+      "filesize": 30564240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2eabe7c0a809b2f2227a30650f9ebd6a",
+        "sha1": "6a127bf4c7805d979ceca0894dbcab45e66850d3",
+        "crc32": "f795fed5"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 35).bin",
+      "filesize": 29741040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6eb24b85a04850e1be5d654729868582",
+        "sha1": "d721344e3c15bfacf1bec57b66d686965e9ecefc",
+        "crc32": "ce10e969"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 36).bin",
+      "filesize": 33250224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36b2fe27a6945026511efa5588fb0671",
+        "sha1": "8151f868848277970bb9280cb6fb82f790358a49",
+        "crc32": "0d17527f"
+      }
+    },
+    {
+      "filename": "Dead or Alive (USA) (Beta) (1998-01-09) (Track 37).bin",
+      "filesize": 32060112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a38e4a778f5516cce05531aeba1ce6fe",
+        "sha1": "2c66f8b89d44ac01219d877734d65e7e33d7b868",
+        "crc32": "48c0c392"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hard Edge (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hard Edge (Europe) (En,Fr,De).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b80938b5efa10dd1892dbb0f5a4b3ec",
+        "sha1": "9bc9098a418055f1e07d13cc4428e3bb56b0b556",
+        "crc32": "56de6885"
+      }
+    },
+    {
+      "filename": "Hard Edge (Europe) (En,Fr,De).bin",
+      "filesize": 751682736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d07822b3274ebe1267d42b296380d387",
+        "sha1": "f22433f28679b8956f4c89ab17ccb01d8951fbe4",
+        "crc32": "6e89407f"
+      }
+    }
+  ]
+}

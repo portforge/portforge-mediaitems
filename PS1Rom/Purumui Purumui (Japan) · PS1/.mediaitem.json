@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Purumui Purumui (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Purumui Purumui (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e15c5c363e2db39d676110a1b511e0d6",
+        "sha1": "c648251ef3d9f533c64e6f08c14ad154cec462f8",
+        "crc32": "367827b9"
+      }
+    },
+    {
+      "filename": "Purumui Purumui (Japan).bin",
+      "filesize": 602888160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37c243142f28d5311db8c0d4a368079e",
+        "sha1": "83aded18f88fe743b20dc58ce6f7cdb99d53c3f0",
+        "crc32": "3561ef1f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA Football GameBreaker (USA) (Beta) (1996-07-16)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA Football GameBreaker (USA) (Beta) (1996-07-16).cue",
+      "filesize": 272,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7c0020a1f343e966e7c47268f038e6bd",
+        "sha1": "3bc4bfd10dbb6dacec7682fde267743ee4ac9dcc",
+        "crc32": "2b697e6f"
+      }
+    },
+    {
+      "filename": "NCAA Football GameBreaker (USA) (Beta) (1996-07-16) (Track 1).bin",
+      "filesize": 199141488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a35dc56c17cc514d86828d1c6679789",
+        "sha1": "8728021077aae41f0353cc43a468b8d993a1d37a",
+        "crc32": "faa05571"
+      }
+    },
+    {
+      "filename": "NCAA Football GameBreaker (USA) (Beta) (1996-07-16) (Track 2).bin",
+      "filesize": 1874544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77d98058e8a0e265e5dc7498cb69789d",
+        "sha1": "476985680fa45222ca0de859858bf782954ffcce",
+        "crc32": "bbff3239"
+      }
+    }
+  ]
+}

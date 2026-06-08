@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Peter Pan - L'Avventura nell'Isola che non c'e (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Peter Pan - L'Avventura nell'Isola che non c'e (Italy).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "402449cec91c451fed8972c8a2faca6a",
+        "sha1": "d14004ec9cdf144c0b52d5cc482e7cde0770b408",
+        "crc32": "c81d85c1"
+      }
+    },
+    {
+      "filename": "Disney Peter Pan - L'Avventura nell'Isola che non c'e (Italy).bin",
+      "filesize": 584022768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ae456cd78e8e99a202f96f0e7a477c8",
+        "sha1": "0441a23959b9b518ac36d9b33c609b2d41228eb2",
+        "crc32": "a9a3fe6d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lone Soldier (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lone Soldier (Germany).cue",
+      "filesize": 1152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68f9591848664f067b76856e2c96b90c",
+        "sha1": "6ab2cb78362fa29c2696774af993c2dfce587288",
+        "crc32": "3d6317c1"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 01).bin",
+      "filesize": 192664080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f46c2c32fe0c882858efef4eaa97a472",
+        "sha1": "ba94e25b03fcc3bb47423000e3b10e57a87a39b0",
+        "crc32": "f1e9714e"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 02).bin",
+      "filesize": 7916832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d956f7f9e0cdae2076c4e263fd897e2",
+        "sha1": "e5d6f8443fba1ff54d978b3a5e6c2e8fd91bf086",
+        "crc32": "2a47526b"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 03).bin",
+      "filesize": 31672032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3b2e1d9c22dc08548cd367817be82c1e",
+        "sha1": "078ebf83c4e656648006dc28e9aadd996543a31a",
+        "crc32": "f88f9f2d"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 04).bin",
+      "filesize": 32187120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "555cc6a0d9b83bb6977bfbf037cbaab1",
+        "sha1": "c94c00a4a1b9cabb1609a3ad8f913a3dfbaff093",
+        "crc32": "6272f20d"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 05).bin",
+      "filesize": 32427024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6a52df09c25cfcfa79b192d0c0e76f12",
+        "sha1": "6c532a1e65f86c5a99ff7d7626d9939d78215f1b",
+        "crc32": "0f618dbe"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 06).bin",
+      "filesize": 32055408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c54e097ceba7781fdd71726cd855e38",
+        "sha1": "155ebb39a510f454479a782c460d04786717f4f9",
+        "crc32": "8b782d13"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 07).bin",
+      "filesize": 32130672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a431cfc16c5bfba9a2b9421064188f5f",
+        "sha1": "f7386a2f8c621239df5cb114b3907365caf9ffb9",
+        "crc32": "c72e511d"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 08).bin",
+      "filesize": 32184768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7e941048ec4575b507b07d449f14a13",
+        "sha1": "b8e74dc4d2f2feb4452544820b7db805fda2f38e",
+        "crc32": "c0ec294f"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 09).bin",
+      "filesize": 31768464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da8d8006c91ab4cf5672ea1903ed0e6f",
+        "sha1": "7db95002f6af89bee313c2262c926ebe743b8fd1",
+        "crc32": "83e2ec7d"
+      }
+    },
+    {
+      "filename": "Lone Soldier (Germany) (Track 10).bin",
+      "filesize": 32594016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e080e9dbd99290d963f9b958d303dcd4",
+        "sha1": "c8d0c718d4da45758dad2bab0f07135428545c21",
+        "crc32": "e4b30715"
+      }
+    }
+  ]
+}

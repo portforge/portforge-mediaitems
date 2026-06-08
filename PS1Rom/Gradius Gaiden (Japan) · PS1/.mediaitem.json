@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gradius Gaiden (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gradius Gaiden (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bff37092d0ffa3582bda2834260e881e",
+        "sha1": "2669e0de6cfe1b61d86100f3d0f245bb0e67a3d1",
+        "crc32": "78446299"
+      }
+    },
+    {
+      "filename": "Gradius Gaiden (Japan).bin",
+      "filesize": 589716960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b67cd1d98c2b6c0b98d883ea5128a5b",
+        "sha1": "5a7229fab091e3e4b78e270ca41401a48488ba6b",
+        "crc32": "df155ae9"
+      }
+    }
+  ]
+}

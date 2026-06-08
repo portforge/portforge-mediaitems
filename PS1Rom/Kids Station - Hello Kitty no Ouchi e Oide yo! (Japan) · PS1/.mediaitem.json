@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan).cue",
+      "filesize": 278,
+      "ext": "cue",
+      "checksums": {
+        "md5": "54ff093f75cc60d855e05f8144429bdf",
+        "sha1": "142ab83f57868336d99efeab5acb5eb3ca6b878d",
+        "crc32": "679ab646"
+      }
+    },
+    {
+      "filename": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan) (Track 1).bin",
+      "filesize": 242775792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fe986f958049342135afec19a5611d4",
+        "sha1": "25b06c9bfd67eb5e4d1c48336ae6e0b8a3166129",
+        "crc32": "6a75a7cf"
+      }
+    },
+    {
+      "filename": "Kids Station - Hello Kitty no Ouchi e Oide yo! (Japan) (Track 2).bin",
+      "filesize": 32582256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ad2ab4f694358f92ab1e85097a4cb2f",
+        "sha1": "49d6d1333dca811f5a9e952457b0e5f91990c4bf",
+        "crc32": "c21cd8eb"
+      }
+    }
+  ]
+}

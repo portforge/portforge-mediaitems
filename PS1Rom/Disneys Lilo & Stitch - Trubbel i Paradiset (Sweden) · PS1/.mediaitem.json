@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Lilo & Stitch - Trubbel i Paradiset (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Lilo & Stitch - Trubbel i Paradiset (Sweden).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd075d97800b12f26d99d9c5969d8722",
+        "sha1": "2b87893b308287cc7937020ee85cafbbdec307ed",
+        "crc32": "176f60b6"
+      }
+    },
+    {
+      "filename": "Disneys Lilo & Stitch - Trubbel i Paradiset (Sweden).bin",
+      "filesize": 476903280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7d1bec26ef25eb63820c829257f4bcf",
+        "sha1": "56601ba01edcf9ef23ec57db6c057d592714108e",
+        "crc32": "da4e8988"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vigilante 8 (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vigilante 8 (Europe) (Demo).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "93e4e84882338de105c4778a1f74b5bc",
+        "sha1": "e4b71c1b45b2cd87d6f590181433a76e26623814",
+        "crc32": "01b926c5"
+      }
+    },
+    {
+      "filename": "Vigilante 8 (Europe) (Demo) (Track 1).bin",
+      "filesize": 12832512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05d9b2992d2f499cea9b5ff4ccb305c2",
+        "sha1": "6875f920dd2ba1b3c00d34c703eac8ad9741ec67",
+        "crc32": "56aea2c1"
+      }
+    },
+    {
+      "filename": "Vigilante 8 (Europe) (Demo) (Track 2).bin",
+      "filesize": 33595968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "485678953fced938cfe647442e04e1b0",
+        "sha1": "0829c2710f6382079859ece3eeb2fdbbb492f792",
+        "crc32": "e8981337"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "40 Winks (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "40 Winks (USA).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9c26456a7f58a1417ae096f4d0985e6c",
+        "sha1": "327eb468983d8aeebc67998a7e8a017d5c41bdd3",
+        "crc32": "1d060c48"
+      }
+    },
+    {
+      "filename": "40 Winks (USA).bin",
+      "filesize": 540854160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "355e1fed8e13a751b82a7b8e67d53716",
+        "sha1": "68b0e80f3f59cb673fc5ae7c4ebb8eba4a7b6a50",
+        "crc32": "5b53f0a5"
+      }
+    }
+  ]
+}

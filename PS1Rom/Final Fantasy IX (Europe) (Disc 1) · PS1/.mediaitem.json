@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IX (Europe) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IX (Europe) (Disc 1).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "771db1450e71acb455d251905ae1b4f0",
+        "sha1": "bb2b1f4a081997d65940684db2564b2b1692175d",
+        "crc32": "f0f30ff9"
+      }
+    },
+    {
+      "filename": "Final Fantasy IX (Europe) (Disc 1).bin",
+      "filesize": 740731824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "067bb3d7635e7b780ba52c1f98a460d2",
+        "sha1": "efb95015a057fe55206f4d7aeba4ce9d18f9234d",
+        "crc32": "b3fdc4f4"
+      }
+    }
+  ]
+}

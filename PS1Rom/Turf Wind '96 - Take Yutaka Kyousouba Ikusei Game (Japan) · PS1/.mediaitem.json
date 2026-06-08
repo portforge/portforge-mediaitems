@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Turf Wind '96 - Take Yutaka Kyousouba Ikusei Game (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Turf Wind '96 - Take Yutaka Kyousouba Ikusei Game (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "26a064485e1bc067d158c90cce17f03d",
+        "sha1": "462586e5a791c6c74fcb6ac6f8a1e4e7125785fb",
+        "crc32": "978de387"
+      }
+    },
+    {
+      "filename": "Turf Wind '96 - Take Yutaka Kyousouba Ikusei Game (Japan).bin",
+      "filesize": 715683024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62f47ffbd9ff1abafa9d0d4125956744",
+        "sha1": "bf6f28b8215ac03c75ed19b420b686846c116dc3",
+        "crc32": "7ed26d3f"
+      }
+    }
+  ]
+}

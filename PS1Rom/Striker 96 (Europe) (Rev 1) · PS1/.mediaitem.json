@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Striker 96 (Europe) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Striker 96 (Europe) (Rev 1).cue",
+      "filesize": 224,
+      "ext": "cue",
+      "checksums": {
+        "md5": "81e873a1054ef82084f63e74233e96b5",
+        "sha1": "bd354654a6357f095e0b3874a5360c0c5c5217a6",
+        "crc32": "68b853ea"
+      }
+    },
+    {
+      "filename": "Striker 96 (Europe) (Rev 1) (Track 1).bin",
+      "filesize": 75019392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e6764028ef8f0b14930e6cd980ceef6d",
+        "sha1": "80884b5ec183633feb547de9434dba652ee59ec3",
+        "crc32": "8f8418c1"
+      }
+    },
+    {
+      "filename": "Striker 96 (Europe) (Rev 1) (Track 2).bin",
+      "filesize": 250793760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba93ae38e12f4cc9ff9b45a0ce0a73fa",
+        "sha1": "f5bc9f35112a04b5707cd033d3dcba6e89213367",
+        "crc32": "4b1dba20"
+      }
+    }
+  ]
+}

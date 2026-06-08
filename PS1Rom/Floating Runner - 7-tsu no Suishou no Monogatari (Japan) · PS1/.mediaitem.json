@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Floating Runner - 7-tsu no Suishou no Monogatari (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Floating Runner - 7-tsu no Suishou no Monogatari (Japan).cue",
+      "filesize": 282,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e35b5e195b54f5d1ddb48f4dabe5241",
+        "sha1": "8795cb05eb821a6ac9ff44fcd2c87f4ec273ab02",
+        "crc32": "4d203b8c"
+      }
+    },
+    {
+      "filename": "Floating Runner - 7-tsu no Suishou no Monogatari (Japan) (Track 1).bin",
+      "filesize": 10407600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "248fb396a70a1505c9cc3bbe59c7d322",
+        "sha1": "e9f45ba4214f8ed72835727dbf07f29a8d0bd0e2",
+        "crc32": "a6606a8d"
+      }
+    },
+    {
+      "filename": "Floating Runner - 7-tsu no Suishou no Monogatari (Japan) (Track 2).bin",
+      "filesize": 573462288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ebde5454122b73a1fce3a4f3d9a7110",
+        "sha1": "fe260bde543d2a0daedbe916573ce62f49a4e91c",
+        "crc32": "3e41fea9"
+      }
+    }
+  ]
+}

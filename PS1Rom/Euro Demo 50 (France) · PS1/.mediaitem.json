@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 50 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 50 (France).cue",
+      "filesize": 557,
+      "ext": "cue",
+      "checksums": {
+        "md5": "048b77ceedd184b0db9d0bcf49e700e2",
+        "sha1": "942f6b3196b22347bb096b71f580a388ff5950e8",
+        "crc32": "de39e0a6"
+      }
+    },
+    {
+      "filename": "Euro Demo 50 (France) (Track 1).bin",
+      "filesize": 326304720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9b2b41de682345783b9526d97b164bcf",
+        "sha1": "39ce44bb3245d1486953382e81543e08b2145fff",
+        "crc32": "2f780dec"
+      }
+    },
+    {
+      "filename": "Euro Demo 50 (France) (Track 2).bin",
+      "filesize": 11202576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f7f5763cbb11599c8e1ab06df92dc01",
+        "sha1": "cb6d1812e381a2f06cee92beecd19763a14455b7",
+        "crc32": "ae5996cd"
+      }
+    },
+    {
+      "filename": "Euro Demo 50 (France) (Track 3).bin",
+      "filesize": 11228448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8720f61640673993e593d3727cdbdcd5",
+        "sha1": "f4a338ccc9ec92c15aeafd53abdc37e09bd0874e",
+        "crc32": "14682784"
+      }
+    },
+    {
+      "filename": "Euro Demo 50 (France) (Track 4).bin",
+      "filesize": 4391184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f4a5242cb1bb7ce9059debdf7b0fa207",
+        "sha1": "9f7fc88be3dac1a6821d00471d000ff7189fee32",
+        "crc32": "39d78264"
+      }
+    },
+    {
+      "filename": "Euro Demo 50 (France) (Track 5).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76c0dc1f4fc397d23189aa41bdff02bf",
+        "sha1": "1815ed90a0d172503de5f8d6a760574ed48758c1",
+        "crc32": "1cbd4a07"
+      }
+    }
+  ]
+}

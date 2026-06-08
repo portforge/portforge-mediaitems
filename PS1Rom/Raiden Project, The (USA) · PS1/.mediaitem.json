@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Raiden Project, The (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Raiden Project, The (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c64af53c1d1d3f06274dc27d80a0f2b4",
+        "sha1": "efa2c2d7bf1f7431921c8c3f933495b648135073",
+        "crc32": "d060cba4"
+      }
+    },
+    {
+      "filename": "Raiden Project, The (USA).bin",
+      "filesize": 58007376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e303a3b300aaeaeee2826587ab377ea5",
+        "sha1": "ede004b0181171506f9216b8e8931ab6a80395e3",
+        "crc32": "4e820d9a"
+      }
+    }
+  ]
+}

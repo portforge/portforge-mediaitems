@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shin Megami Tensei If... (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shin Megami Tensei If... (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7018aaa7bc32fe192a0b74d10e5beff8",
+        "sha1": "4cba439f3604a26602b7997c39a5a96526161cf1",
+        "crc32": "de6a09ff"
+      }
+    },
+    {
+      "filename": "Shin Megami Tensei If... (Japan).bin",
+      "filesize": 256417392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f6348150071dc0a2aa9be07250c8806",
+        "sha1": "0ba77a9f61da7a2e2914bcbe2afc25a21549c5c2",
+        "crc32": "074affde"
+      }
+    }
+  ]
+}

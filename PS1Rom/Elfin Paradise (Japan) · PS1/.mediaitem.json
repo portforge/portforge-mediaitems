@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Elfin Paradise (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Elfin Paradise (Japan).cue",
+      "filesize": 330,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7bfce808e7912ede37d2ea3fcad39183",
+        "sha1": "450a30de9bbf6433ad4740dff27e4a930aef7338",
+        "crc32": "35cce2c7"
+      }
+    },
+    {
+      "filename": "Elfin Paradise (Japan) (Track 1).bin",
+      "filesize": 144457488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "561d2009d015066cf9913f68b4a6bf44",
+        "sha1": "eb1c20af0ddc41d1696874c6f6c303a349e7d71f",
+        "crc32": "34d417ba"
+      }
+    },
+    {
+      "filename": "Elfin Paradise (Japan) (Track 2).bin",
+      "filesize": 46524912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbce98fb9b10ff85dbe4cc61ab3e6af9",
+        "sha1": "514096370e4ce5672321d2c677c156e3d649826e",
+        "crc32": "77888aee"
+      }
+    },
+    {
+      "filename": "Elfin Paradise (Japan) (Track 3).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 48 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 48 (France).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "21e13cf1e859426d79ac1dbce643ebd0",
+        "sha1": "182aa7dd8828c27338505ace151182aa5e7076f8",
+        "crc32": "c349fcd1"
+      }
+    },
+    {
+      "filename": "Euro Demo 48 (France).bin",
+      "filesize": 479274096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b4a5ca696cf26df96a7358883ebbc22",
+        "sha1": "8cf4fb7848ae8569841cd2baf0fa134a1559b388",
+        "crc32": "fc770922"
+      }
+    }
+  ]
+}

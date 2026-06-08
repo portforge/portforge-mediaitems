@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bugi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bugi (Japan).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd4de0cd40221f4dddf4802589d325ed",
+        "sha1": "832ab296e688d89147b2bae593533f6d16ba6dd2",
+        "crc32": "80cb78c3"
+      }
+    },
+    {
+      "filename": "Bugi (Japan).bin",
+      "filesize": 369654432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ce0491b3f6d611fe0570940e9a3af7d",
+        "sha1": "2ee7e6617d45a3a793f68cd37c03d53089892183",
+        "crc32": "6b02bca4"
+      }
+    }
+  ]
+}

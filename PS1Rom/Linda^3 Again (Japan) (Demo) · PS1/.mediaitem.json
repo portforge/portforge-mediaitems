@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Linda^3 Again (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Linda^3 Again (Japan) (Demo).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9a08b2b1ef17f26ddbae0a24de96bc5",
+        "sha1": "9e211e12dc97cae6d2db554c82f6e38460e2ace7",
+        "crc32": "5bd54698"
+      }
+    },
+    {
+      "filename": "Linda^3 Again (Japan) (Demo).bin",
+      "filesize": 498972096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3cf5b26101f12ef21405160322bf8e13",
+        "sha1": "5ea62732beb4dd4347305f8787297968e7eda014",
+        "crc32": "2c6474fc"
+      }
+    }
+  ]
+}

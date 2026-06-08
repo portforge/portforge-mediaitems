@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koudelka (Europe) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koudelka (Europe) (Disc 4).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4e3490071bef8d918e008689859ddade",
+        "sha1": "531af9878671dcf217fd600988f138c875136722",
+        "crc32": "ded279e6"
+      }
+    },
+    {
+      "filename": "Koudelka (Europe) (Disc 4).bin",
+      "filesize": 633061968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "137c2512d55e9d6174fe4685bf553860",
+        "sha1": "3a64731471a96b917207e609610bd7c3e5eb64f1",
+        "crc32": "fee955d2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Space Hulk - Vengeance of the Blood Angels (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Space Hulk - Vengeance of the Blood Angels (USA).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e23bc545167c72b157922f21236f285",
+        "sha1": "e0e670eb32bf3490e626533731bf3c37442dd0d4",
+        "crc32": "22d9e072"
+      }
+    },
+    {
+      "filename": "Space Hulk - Vengeance of the Blood Angels (USA) (Track 1).bin",
+      "filesize": 541232832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d2f4f992efccc0647bd2c311dc56831",
+        "sha1": "e0b1e7873a7c7ad04591a3f8930744c0ed5bcca0",
+        "crc32": "3d7f5583"
+      }
+    },
+    {
+      "filename": "Space Hulk - Vengeance of the Blood Angels (USA) (Track 2).bin",
+      "filesize": 32511696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d259c4efa37ad5883508a4d273e3d51b",
+        "sha1": "2382766723c375a43130a872a9b079625320f9ef",
+        "crc32": "00cae651"
+      }
+    }
+  ]
+}

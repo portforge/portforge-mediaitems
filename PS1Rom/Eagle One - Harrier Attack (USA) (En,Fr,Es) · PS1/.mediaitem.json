@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eagle One - Harrier Attack (USA) (En,Fr,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eagle One - Harrier Attack (USA) (En,Fr,Es).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "673ed75c16309ce068af8d97b00df7f6",
+        "sha1": "0f26fadb91ab4e2201032a137f24f3745d22787b",
+        "crc32": "852d57bf"
+      }
+    },
+    {
+      "filename": "Eagle One - Harrier Attack (USA) (En,Fr,Es).bin",
+      "filesize": 575261568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e52fa3d1107e5b21d19483bdb99bc413",
+        "sha1": "97f87850a02c977f43d40e1cc967fb2753be3b44",
+        "crc32": "adf3c284"
+      }
+    }
+  ]
+}

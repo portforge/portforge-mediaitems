@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dancing Stage - Euromix (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dancing Stage - Euromix (Europe).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c50483c63b5eed78fe2eddbd24e4475d",
+        "sha1": "c5639ae650832a6c6132cfa95c279ad116807eae",
+        "crc32": "0c93b285"
+      }
+    },
+    {
+      "filename": "Dancing Stage - Euromix (Europe).bin",
+      "filesize": 337864800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbb8e4d10665634238e95f234f357616",
+        "sha1": "e4c4a1e0f2cb27064150032f09243231a9af3210",
+        "crc32": "2eb49d7d"
+      }
+    }
+  ]
+}

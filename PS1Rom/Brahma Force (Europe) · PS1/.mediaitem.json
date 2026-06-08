@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Brahma Force (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Brahma Force (Europe).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3025e13ebd5973087ec96494bf04851b",
+        "sha1": "52d4fd24e4334f10c22773e79def511ecfe7b32a",
+        "crc32": "f8bbb3b1"
+      }
+    },
+    {
+      "filename": "Brahma Force (Europe).bin",
+      "filesize": 619291008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de3fcfab9c0448ac1204cb8d0c8a1e89",
+        "sha1": "25e59e43baafd35f120130ed11fc32fcaf9934f3",
+        "crc32": "72ef11d8"
+      }
+    }
+  ]
+}

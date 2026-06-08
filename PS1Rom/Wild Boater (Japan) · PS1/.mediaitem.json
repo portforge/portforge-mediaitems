@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wild Boater (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wild Boater (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ff9f7af2fe68f361294410ac502b89e4",
+        "sha1": "5ef52a6c77de587330464f12e55445d7907469a5",
+        "crc32": "7ca2997e"
+      }
+    },
+    {
+      "filename": "Wild Boater (Japan).bin",
+      "filesize": 64477728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3434b54cfa6c8c3d4ef608773dffcdc7",
+        "sha1": "223df81de4295369883841c093efd5c41c14d764",
+        "crc32": "78d8b609"
+      }
+    }
+  ]
+}

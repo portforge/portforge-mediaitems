@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soukoban - Nanmon Shinan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soukoban - Nanmon Shinan (Japan).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a7805a498f6d3568f8e9b9f945692f3",
+        "sha1": "ea39a0d449e5d71b498ffb24f7b9ac5d6dda47d7",
+        "crc32": "95055c1e"
+      }
+    },
+    {
+      "filename": "Soukoban - Nanmon Shinan (Japan) (Track 1).bin",
+      "filesize": 95747568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b68afe0f04ea687361f695b3c6f2cbea",
+        "sha1": "c3f8e8b630e8b06ebb30fb2766220a5a3a194cbb",
+        "crc32": "58ef8cce"
+      }
+    },
+    {
+      "filename": "Soukoban - Nanmon Shinan (Japan) (Track 2).bin",
+      "filesize": 37432080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1f5ffc4db0a61fa68e5bef9ce9c7dd7",
+        "sha1": "e198ee8a6506271665e54622ec9aeb8bc910b078",
+        "crc32": "c0b74ccb"
+      }
+    }
+  ]
+}

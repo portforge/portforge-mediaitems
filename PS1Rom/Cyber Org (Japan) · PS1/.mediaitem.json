@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cyber Org (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cyber Org (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73575c46378e07da58a02ee4e6d20962",
+        "sha1": "cb9c4803a6352bb0bb46f43ee4fc6d168950d4cb",
+        "crc32": "d3561248"
+      }
+    },
+    {
+      "filename": "Cyber Org (Japan).bin",
+      "filesize": 738751440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1345dc81a6a9b15fb58dc6b9c128d54f",
+        "sha1": "85797ce1799ed37d47c2ddbea407c76eb734cc80",
+        "crc32": "f3db883b"
+      }
+    }
+  ]
+}

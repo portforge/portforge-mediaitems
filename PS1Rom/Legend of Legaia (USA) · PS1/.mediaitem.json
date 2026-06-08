@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Legaia (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Legaia (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d1e585deb7bd51c875050e18047c262d",
+        "sha1": "9073bccaab46b9e455eb010de4fb67cd5cd4898f",
+        "crc32": "2ce421dd"
+      }
+    },
+    {
+      "filename": "Legend of Legaia (USA).bin",
+      "filesize": 466714416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "741c234177eca1c1509b8a6af6843292",
+        "sha1": "f162656d34de19ec025074f184bb3f7c0ba1a2f1",
+        "crc32": "627ee76b"
+      }
+    }
+  ]
+}

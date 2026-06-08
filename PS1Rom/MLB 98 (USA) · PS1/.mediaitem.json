@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MLB 98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MLB 98 (USA).cue",
+      "filesize": 194,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0443a579d2dc7448b12bac8aafa259b4",
+        "sha1": "7bf9d3c8f9dad436011f9474ace00b4ff9b07c3a",
+        "crc32": "80fcae60"
+      }
+    },
+    {
+      "filename": "MLB 98 (USA) (Track 1).bin",
+      "filesize": 318220896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b054375bd205b76e4d215b04615ad762",
+        "sha1": "dc58e6cef78cca2e50d260eaec15fedb7d4113bf",
+        "crc32": "7a3ad64d"
+      }
+    },
+    {
+      "filename": "MLB 98 (USA) (Track 2).bin",
+      "filesize": 31672032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35a94244f80695d2144263edc8ae185b",
+        "sha1": "8ff2708bfed435832971690bd9624e40b13eda9b",
+        "crc32": "b7023791"
+      }
+    }
+  ]
+}

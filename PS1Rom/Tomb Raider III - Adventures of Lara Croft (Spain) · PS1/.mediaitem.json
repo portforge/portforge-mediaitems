@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider III - Adventures of Lara Croft (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Spain).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1cd4dbf177a743251ff89a1ae388ad96",
+        "sha1": "f0715830ef3b9d2165e993db53bf98dc1f78d4aa",
+        "crc32": "892030c4"
+      }
+    },
+    {
+      "filename": "Tomb Raider III - Adventures of Lara Croft (Spain).bin",
+      "filesize": 700192752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af36965aeef9d5e818c3d705fa30a9e5",
+        "sha1": "763eb294a5c4067f23a1de6e3280fdc63c41ef11",
+        "crc32": "23d106c5"
+      }
+    }
+  ]
+}

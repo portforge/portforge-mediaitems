@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Louvre - The Final Curse (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Louvre - The Final Curse (Europe) (Disc 2).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efeb5ac68af12dd44767883cdd037801",
+        "sha1": "43b07e33905edc1474f59e5c5dd874504c3ee3e0",
+        "crc32": "5a5bf623"
+      }
+    },
+    {
+      "filename": "Louvre - The Final Curse (Europe) (Disc 2).bin",
+      "filesize": 730032576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59f0cfe1e603f1ac79a749f5db47b125",
+        "sha1": "7f2f403f24cce228ff4c95b1036f9159ed96fe9e",
+        "crc32": "16566e04"
+      }
+    }
+  ]
+}

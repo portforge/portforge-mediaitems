@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Block Wars (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Block Wars (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fc00f89f237872dd580af49c31582349",
+        "sha1": "40d895ad179cdf1042a0f885a9f244ef40ab0b3d",
+        "crc32": "66cb0cbe"
+      }
+    },
+    {
+      "filename": "Block Wars (Japan).bin",
+      "filesize": 259787808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13c96255e56c839c77cb8187047d3fc1",
+        "sha1": "d1baf302266bdcce60d233123d378f48278c19fe",
+        "crc32": "1f1ef598"
+      }
+    }
+  ]
+}

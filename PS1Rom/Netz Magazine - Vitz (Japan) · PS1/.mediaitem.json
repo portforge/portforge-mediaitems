@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Netz Magazine - Vitz (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Netz Magazine - Vitz (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "105b7b830a82f91c5e53f06bdd624069",
+        "sha1": "ff7ae86edccac8332949b7f5b07c1f04e6fcf02e",
+        "crc32": "79c46f84"
+      }
+    },
+    {
+      "filename": "Netz Magazine - Vitz (Japan).bin",
+      "filesize": 515671296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8dd898e2445ba86109825e302dff4057",
+        "sha1": "ba47240b3a9e0f49dafde40f1095217d3c5481e4",
+        "crc32": "cbc420d9"
+      }
+    }
+  ]
+}

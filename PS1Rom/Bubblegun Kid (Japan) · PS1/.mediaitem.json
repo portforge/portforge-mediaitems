@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bubblegun Kid (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bubblegun Kid (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "097716600de76471916d4ca1675fde99",
+        "sha1": "2bae06c6abb799426a80c299398128a92d16a60e",
+        "crc32": "cbc9f17c"
+      }
+    },
+    {
+      "filename": "Bubblegun Kid (Japan).bin",
+      "filesize": 374017392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7911ca8bbd5db1b5205b6f38e2175ee2",
+        "sha1": "c2edbd23c8acab8b2f78ef1af7bfc51ad7998655",
+        "crc32": "d7eb8546"
+      }
+    }
+  ]
+}

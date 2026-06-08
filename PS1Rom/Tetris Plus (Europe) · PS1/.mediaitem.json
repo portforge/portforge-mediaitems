@@ -1,0 +1,537 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tetris Plus (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tetris Plus (Europe).cue",
+      "filesize": 5962,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bfdbfebaff33e891642249877b336c4c",
+        "sha1": "cd8d4168dc1c29c6d509eb8f19270bb4d707a1e9",
+        "crc32": "ca635601"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 01).bin",
+      "filesize": 52597776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e977e0d749379f28605359ffdafa7a64",
+        "sha1": "486381c21ee1e0419fc63976a29b6d9dffe4d951",
+        "crc32": "8303f653"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 02).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f1f14dba30596668b77ec96eb938a49",
+        "sha1": "15fabbbe86b4b3779f61c06b48cde390c161bf5a",
+        "crc32": "25de8a7f"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 03).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d63e9fe4dad3ad3b653f62eedae82d33",
+        "sha1": "852771e5a4bd4e2e22d85a2925a077b39d268274",
+        "crc32": "7d483674"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 04).bin",
+      "filesize": 12171600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12b4382658e7c9a98774775d7314afdb",
+        "sha1": "e0ea02c80a8e7b7c88e3f8baf294093bee9d3406",
+        "crc32": "685fca74"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 05).bin",
+      "filesize": 11642400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1259441200d1983d3ffc5ad8fd990657",
+        "sha1": "22aa04dafbfb3fa1ca384d9ee795d71facda31a6",
+        "crc32": "76580cf0"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 06).bin",
+      "filesize": 15276240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b037eba82cce7abb2d9e4eae268699a",
+        "sha1": "1184bdaead536f1f523a8b8b1afcb8c8bb1cbc41",
+        "crc32": "fb7504ee"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 07).bin",
+      "filesize": 13813296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8e02a4a663af87ad7ebde94805dae2eb",
+        "sha1": "a9b1b9e9e0a03266e10006d74c2ece65cef0e127",
+        "crc32": "6086ae58"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 08).bin",
+      "filesize": 12966576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eab037ead10476ef8cb90ac7b95280da",
+        "sha1": "6a57612ccc6681a3e9146017e13059f7f0afef5d",
+        "crc32": "ad16c686"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 09).bin",
+      "filesize": 14394240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "907c611151be283743dc109d2dd51281",
+        "sha1": "b4fed7762538ff4c7dc67e1104c286979507307a",
+        "crc32": "4ad4eae6"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 10).bin",
+      "filesize": 15894816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5ad69e58ab081def45f42c9c1ca8a2d",
+        "sha1": "c34bddf2f994cc940388d1ce9d8c074a317a661a",
+        "crc32": "92c12bc7"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 11).bin",
+      "filesize": 12665520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af2e5748ca7015977c7c2920d6c1856f",
+        "sha1": "1b8505161e9fbf29aa29cfc20b572546bd47f872",
+        "crc32": "d6555664"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 12).bin",
+      "filesize": 26020176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28535a0e62bb580cd848a0bb17d76d84",
+        "sha1": "4855c131d9ce2e48b2d37b6050ae78a38ee64cef",
+        "crc32": "fb4dd1c9"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 13).bin",
+      "filesize": 22755600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66c26918625ea4a69127b25da16d914e",
+        "sha1": "307b1c9af20595c1bfd4ed11ee126a413366ef61",
+        "crc32": "eae57ed8"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 14).bin",
+      "filesize": 8114400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db06d4fb5db58f82a6bdfb2a8f6d7ff8",
+        "sha1": "65095740dbaf9c879f253759dea1bc506f5d24cf",
+        "crc32": "62db3ee7"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 15).bin",
+      "filesize": 8344896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7859ca8ec3bfcd645e5e46daef1773cd",
+        "sha1": "e558c123d606e24fc67630a4fe98ad7eba539a8c",
+        "crc32": "0b83931c"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 16).bin",
+      "filesize": 10584000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3f5c38e68e5aaaa30460324bd39892a",
+        "sha1": "42e8301cba0b264493a3e074bcd195be39f11b8e",
+        "crc32": "89f2a71b"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 17).bin",
+      "filesize": 9878400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "739e160a18dcde7ae81723e497950e2b",
+        "sha1": "430f5ee6a68fff56e3d92732309c6d029c41f065",
+        "crc32": "c66a39c4"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 18).bin",
+      "filesize": 21520800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1629543367d1e2cbed3a3ec1ba0123a",
+        "sha1": "03fe3afff6985c7403f52571b7c967e7bb7907cf",
+        "crc32": "72973d37"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 19).bin",
+      "filesize": 11995200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc2b9f9bb3609e422d6eb97f52b5fe5a",
+        "sha1": "1953488c7796ec09b0bd62c151cb6f16ff38c835",
+        "crc32": "3e6c8fad"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 20).bin",
+      "filesize": 11501280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8121f1d693d034feaa252f92569cbfb2",
+        "sha1": "5c6ef37e50ad12a5717ac5b7401e3c605d1b6f8f",
+        "crc32": "73a05908"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 21).bin",
+      "filesize": 10972080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "963c069f79b4d4bb953b1d4a45b575e7",
+        "sha1": "48d3c3c1a572a47a844fc8db39f55fd999f82d64",
+        "crc32": "728e87a8"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 22).bin",
+      "filesize": 20286000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72345b465b147e2f994ef4108ee62839",
+        "sha1": "a2c9dab553056cd6149b3a802e8b3f31dbaa4f8f",
+        "crc32": "7f94005f"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 23).bin",
+      "filesize": 26248320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15b488e24133ece1bcfee56e2807f9f1",
+        "sha1": "a426428932d28d5efa7f94179b25f39dc40dbfbd",
+        "crc32": "85d11f3a"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 24).bin",
+      "filesize": 1587600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77cb1f6075e38bf7c93dc63d7f0e8cfe",
+        "sha1": "9ff8f45a20e885daf3e450a6ddb086ad1c62a35a",
+        "crc32": "22ae96d7"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 25).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18ef3a932fbafdd2ff36531efb871dd5",
+        "sha1": "2af28c557d6cde2a48fd016787af90a68fe3d1d3",
+        "crc32": "e4a322eb"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 26).bin",
+      "filesize": 4939200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a9fbf9efdfc625c1242d7ac47247bb3",
+        "sha1": "31f61d41ccbda0cec71d4ccde2b90082df836a05",
+        "crc32": "c9ae4930"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 27).bin",
+      "filesize": 8043840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "07e664be9986ebe93ddf1e2dd4021e81",
+        "sha1": "9831e5ce4ba394ae2274ebf277d22b4fda21d257",
+        "crc32": "69aec6e0"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 28).bin",
+      "filesize": 19227600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ed59a143b6f7b46684e56a89ae69443c",
+        "sha1": "ed0b740fcbbf2d48cbca28a596167903c7a0e3b1",
+        "crc32": "f8bb9001"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 29).bin",
+      "filesize": 10936800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c661a3a874bcb6b6c7a0089fd2c0d43",
+        "sha1": "52e0943652c8bdce2397b56b4a446634eecae175",
+        "crc32": "66f03c94"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 30).bin",
+      "filesize": 6526800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b0b8e42bb2bfda90acf3e3c1ae1692e",
+        "sha1": "fa582c00f2003ede633db9ede13f0e1029ff1524",
+        "crc32": "254e6810"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 31).bin",
+      "filesize": 11289600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "503056043337be5dc12bcf3d1913702c",
+        "sha1": "a732e32c97aff55bfa2051d759d3aa7d2ff86da6",
+        "crc32": "da2d66f4"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 32).bin",
+      "filesize": 9525600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f34d1f092218c384a1499d36bb2020db",
+        "sha1": "6d871ace7e7385aa099bb3378b22deebec6d7b9f",
+        "crc32": "cc34abf5"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 33).bin",
+      "filesize": 18345600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a2966718a865f7c7f619640178b4daa",
+        "sha1": "60b5076b748bd8d2e7d0277f106bd12479af3aed",
+        "crc32": "d7e5367d"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 34).bin",
+      "filesize": 5644800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9720c5e81e475a82e2fc0e4633482756",
+        "sha1": "c1c919b05d20fb11fcb49cab1b1f7fd9f7fb1dbd",
+        "crc32": "f2354b12"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 35).bin",
+      "filesize": 12260976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5ac009f6f2eb90eff2ff4ae6a3fab86",
+        "sha1": "8b47362de8a715be43daae486c026118a4948e3e",
+        "crc32": "63b3c290"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 36).bin",
+      "filesize": 11590656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40d8877753eac8cc2dbb307e832e12d1",
+        "sha1": "cd187273e6969eb34feebcad1f7ee1ca008cbb12",
+        "crc32": "8ae9ee54"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 37).bin",
+      "filesize": 8114400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5222ce36e117c4d3138fb747f237041",
+        "sha1": "eb2c720d82b833d23479d4ab59c7260e97245c19",
+        "crc32": "ae38994e"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 38).bin",
+      "filesize": 8361360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75901d5bd98e71d7575036e2ac1948c6",
+        "sha1": "d7026b51a2c82992b6a10279cfaab8ceddcb3b2d",
+        "crc32": "466db8dc"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 39).bin",
+      "filesize": 21927696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe4c030d78365b05f5d3f1a525c9cda8",
+        "sha1": "d26d2bfbb8044c08932b81c5082524aec655b6ed",
+        "crc32": "379ac9dd"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 40).bin",
+      "filesize": 11995200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "374ba8de2b8ddacbfa2ab13b857cfa85",
+        "sha1": "813fb0049f28ce8fe05c06731434e572b7aff927",
+        "crc32": "95860192"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 41).bin",
+      "filesize": 11414256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a9d2bcc0438b0b02a6fe45eeace1998",
+        "sha1": "9e49e367ed63dbc97151468f019042b2b93a46ef",
+        "crc32": "b2bc3409"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 42).bin",
+      "filesize": 10936800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ce0f584fdc49ee2917e13fe12150181",
+        "sha1": "5d40467d04ef3423e593057067c75ba5f0e70e0f",
+        "crc32": "531738a2"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 43).bin",
+      "filesize": 19333440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01d74f77306ef9b77dd453e8947ff17a",
+        "sha1": "e479f9150b642f28b862d62b97cfded5fd949d74",
+        "crc32": "02eb9cfb"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 44).bin",
+      "filesize": 1430016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a13a806fb267b55f87ace661139dae07",
+        "sha1": "a8261da6db31c62e1b9f71622c1ef5c90251e75e",
+        "crc32": "4cc69795"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 45).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6eef9b646aba411fd58b8a3e6d29985f",
+        "sha1": "daac22ed677a12122bb3765f098dfd8f4e23b684",
+        "crc32": "16d59f59"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 46).bin",
+      "filesize": 4939200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5aa04b30b3c74e642b5428b7905feca9",
+        "sha1": "e6cf067534bdf624205f32dea870d544b8178e04",
+        "crc32": "2754000b"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 47).bin",
+      "filesize": 8062656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ddf7d25031a25a8f3a87b260507d11d",
+        "sha1": "9547f943be9496dfeee1192690f843d34497377c",
+        "crc32": "830c02e5"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 48).bin",
+      "filesize": 19227600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65894fdafd8d5f0aba8e42da204b141a",
+        "sha1": "92161da607ef454e7c52253d0a587a514bab2f7e",
+        "crc32": "d1b2f016"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 49).bin",
+      "filesize": 10901520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52efe2d24cb9693f10b1cfae355e1c9e",
+        "sha1": "8200df2c4c56b90ffe9d139ff86658cd9e6a0b3c",
+        "crc32": "71ecb272"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 50).bin",
+      "filesize": 6703200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "857cc8d11f8df06745aa51caf6dc7d29",
+        "sha1": "20e404ebf940991a87972932682192ab3988c0b4",
+        "crc32": "01464f07"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 51).bin",
+      "filesize": 11061456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d10133cb214b318b035830c4e0966b7e",
+        "sha1": "3111a4c0ab38069a2630395d3de1968b97689c04",
+        "crc32": "d76197df"
+      }
+    },
+    {
+      "filename": "Tetris Plus (Europe) (Track 52).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

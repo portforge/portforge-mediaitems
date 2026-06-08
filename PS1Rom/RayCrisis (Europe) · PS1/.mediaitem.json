@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RayCrisis (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RayCrisis (Europe).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99f1901550a727b5e6e98c8577cc8caf",
+        "sha1": "3e917b6b7b40f9f59710a7d73bd9397e27c5a748",
+        "crc32": "5612cfd2"
+      }
+    },
+    {
+      "filename": "RayCrisis (Europe).bin",
+      "filesize": 489660528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "659728ea359bea03028dbcb2d1b4a885",
+        "sha1": "950efc0db3c7084f2d136a4fafaf9807fed0800c",
+        "crc32": "10dde335"
+      }
+    }
+  ]
+}

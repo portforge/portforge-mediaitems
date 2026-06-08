@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 17 - Planetarium (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 17 - Planetarium (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b3136828cecd39001b6ccee53d85826",
+        "sha1": "6c9eed7282576cd8cdacef2ca644222529294eac",
+        "crc32": "c6146ce7"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 17 - Planetarium (Japan).bin",
+      "filesize": 477114960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f7f6b52aeb2bd92eec9c967ff149d9c",
+        "sha1": "4d0202ef680bc5084a1661a20ccc1ccf57c257c2",
+        "crc32": "e43aa9f3"
+      }
+    }
+  ]
+}

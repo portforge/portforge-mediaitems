@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sister Princess 2 - Premium Fan Disc (Japan) (Disc A)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sister Princess 2 - Premium Fan Disc (Japan) (Disc A).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85a9267f6315385679a9567d07213d20",
+        "sha1": "a8bd91cb63b3a68e726964f9ff927c18e0ce9cdc",
+        "crc32": "65ac46b5"
+      }
+    },
+    {
+      "filename": "Sister Princess 2 - Premium Fan Disc (Japan) (Disc A).bin",
+      "filesize": 561619968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3ed7530cc65fc55e9073472b0968b1a6",
+        "sha1": "22e4bee2c4f37989b232884f1143e1aae85c4421",
+        "crc32": "ec26d119"
+      }
+    }
+  ]
+}

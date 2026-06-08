@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "V.I.P. (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "V.I.P. (USA).cue",
+      "filesize": 78,
+      "ext": "cue",
+      "checksums": {
+        "md5": "55561d5156b645070ee96105ed57ad4e",
+        "sha1": "76c47ca005d82995e476507b0ad49c9770fb0c57",
+        "crc32": "0929a772"
+      }
+    },
+    {
+      "filename": "V.I.P. (USA).bin",
+      "filesize": 633784032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2f753aebe805cd082dbbe05b3c85eff",
+        "sha1": "0a9e872e9031fb37b4768256d0dd2b818411579a",
+        "crc32": "6f15705a"
+      }
+    }
+  ]
+}

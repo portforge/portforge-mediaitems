@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DemoDemo PlayStation Vol. 19 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan).cue",
+      "filesize": 892,
+      "ext": "cue",
+      "checksums": {
+        "md5": "efe53cfd480a2536913ba661ed0af6eb",
+        "sha1": "b2a645751764bda46241b372eeb80335d2398118",
+        "crc32": "2e9c77f5"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan) (Track 1).bin",
+      "filesize": 259903056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c011644c6dff6902792797b37991850",
+        "sha1": "de563a9cc8318a272fa1b84f281b5eb7875d8838",
+        "crc32": "6ef335e9"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan) (Track 2).bin",
+      "filesize": 6799632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60923ddbc18578f461278a86c32b47d1",
+        "sha1": "1244f4c7bc479b85fc7fc8738bf533814b2bd2ea",
+        "crc32": "f328b258"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan) (Track 3).bin",
+      "filesize": 21283248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b2e42127aa5371857e655c3195db7b2",
+        "sha1": "4ebfb29ed39e7a901a44b2d0d63cb2368e6f818d",
+        "crc32": "e49411a8"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan) (Track 4).bin",
+      "filesize": 16539264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c246e1b280b3c403ad807b3bec7eaf19",
+        "sha1": "2bf34beedbad1d78951b5f33669d2c798fd1a99d",
+        "crc32": "ab3126fe"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan) (Track 5).bin",
+      "filesize": 9535008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "293be831efead8ae9e3abe0d9cd3de11",
+        "sha1": "679809f08329c1def957be0c43beb94efebe02b1",
+        "crc32": "af39a730"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan) (Track 6).bin",
+      "filesize": 2359056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41df9253c03a8a5ae6f2a5c82bac3be3",
+        "sha1": "24d9c15fc4736e2daeee21fd682106b986cfc6c7",
+        "crc32": "d81c4e45"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 19 (Japan) (Track 7).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Super Price Series - Mahjong (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Super Price Series - Mahjong (Japan).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8e2d62b5d7716737f5ba26691e5b309a",
+        "sha1": "d3324ec21d3bb81993c9f03a90d9a3608473e2e2",
+        "crc32": "d165145c"
+      }
+    },
+    {
+      "filename": "Super Price Series - Mahjong (Japan).bin",
+      "filesize": 35562240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d80e8612f522aa4b29e03b53a2fe254",
+        "sha1": "c9966a2fab5195ae004dc2bae1f4f9cf6204781b",
+        "crc32": "c4357255"
+      }
+    }
+  ]
+}

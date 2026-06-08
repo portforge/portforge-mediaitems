@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hive Wars, The (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hive Wars, The (Japan) (Disc 1).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28c41606ef0285ffcd8d552b4784dc7a",
+        "sha1": "13397422a98fa2cdf5ba1f9083d1b8fb4a8834c1",
+        "crc32": "5a0a402f"
+      }
+    },
+    {
+      "filename": "Hive Wars, The (Japan) (Disc 1).bin",
+      "filesize": 697887792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "429cb46fab13b588ddcef3aa36145f7c",
+        "sha1": "3b004672efaa27a5b8f8ec674c80d9305d1fabc5",
+        "crc32": "fbd56356"
+      }
+    }
+  ]
+}

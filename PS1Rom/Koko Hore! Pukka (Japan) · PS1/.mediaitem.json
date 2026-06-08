@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koko Hore! Pukka (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koko Hore! Pukka (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f89bcf0d5f5f755536240a56e7f1a3a0",
+        "sha1": "d51b8591750df1081899aabecbc6d5a094b8dec1",
+        "crc32": "9a4c4bba"
+      }
+    },
+    {
+      "filename": "Koko Hore! Pukka (Japan).bin",
+      "filesize": 240891840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d0b176facecd1f8d0ad4144fd9a8662",
+        "sha1": "438161b8fc0cfdf9972ce3431f8d6f5557adf0ea",
+        "crc32": "d3fde631"
+      }
+    }
+  ]
+}

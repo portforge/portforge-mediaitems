@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Aventuras de Peter Pan en el Pais de Nunca Jamas (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Aventuras de Peter Pan en el Pais de Nunca Jamas (Spain).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e49b794f1732dc303c1ba00b9af8b110",
+        "sha1": "e7a17a8091955b408117332cbee9ffa1542f8a40",
+        "crc32": "e778e73b"
+      }
+    },
+    {
+      "filename": "Disney Aventuras de Peter Pan en el Pais de Nunca Jamas (Spain).bin",
+      "filesize": 583893408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4e9dfef10dd9314ceaaabbc63d94ba6",
+        "sha1": "60bf48212572907cfa1ca0e8ed8edc779e71346d",
+        "crc32": "366c8d23"
+      }
+    }
+  ]
+}

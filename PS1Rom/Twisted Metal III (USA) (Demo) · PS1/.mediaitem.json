@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Twisted Metal III (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Twisted Metal III (USA) (Demo).cue",
+      "filesize": 230,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d68ded242686967dcba8b627b3ff5ba1",
+        "sha1": "8eca9f686247aefa42f9bdd3eb2f635767f677f4",
+        "crc32": "f3f5a521"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Demo) (Track 1).bin",
+      "filesize": 22939056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c662644e993ba292b4726b6a63f837a6",
+        "sha1": "2ab934a738411c8a71652e08c8313e6469939b46",
+        "crc32": "207b1445"
+      }
+    },
+    {
+      "filename": "Twisted Metal III (USA) (Demo) (Track 2).bin",
+      "filesize": 39149040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "863477b11a5529ce84c60242a6878f6c",
+        "sha1": "f2eea0c6a1d5fdbe58842846b7243c21e2ebe7a9",
+        "crc32": "859805fd"
+      }
+    }
+  ]
+}

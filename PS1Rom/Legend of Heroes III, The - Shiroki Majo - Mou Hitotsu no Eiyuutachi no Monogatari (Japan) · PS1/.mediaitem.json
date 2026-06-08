@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan).cue",
+      "filesize": 156,
+      "ext": "cue",
+      "checksums": {
+        "md5": "76027465b96b009ae7e8428103a315b7",
+        "sha1": "89d082076c8285cc26deeaf81c5498d6b17479de",
+        "crc32": "973d56a7"
+      }
+    },
+    {
+      "filename": "Legend of Heroes III, The - Shiroki Majo - Mou Hitotsu no Eiyuutachi no Monogatari (Japan).bin",
+      "filesize": 473742192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3661074303cab6330f342992ed82643e",
+        "sha1": "1e9e1d83d0fac933e2499a3ee8bda810bfbb98ab",
+        "crc32": "10805100"
+      }
+    }
+  ]
+}

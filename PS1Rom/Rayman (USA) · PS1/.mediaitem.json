@@ -1,0 +1,527 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rayman (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rayman (USA).cue",
+      "filesize": 5439,
+      "ext": "cue",
+      "checksums": {
+        "md5": "95d8b036718f2fffeb9377f9a3045fd4",
+        "sha1": "b5f5cbf9c39482c95b361f44f23d45edcf30c241",
+        "crc32": "7d2ed939"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 01).bin",
+      "filesize": 98043120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aed88c79bea141a9eb9765834b65aa10",
+        "sha1": "010c0a41ebab67ec925596111c9425deefb6c715",
+        "crc32": "0db4057a"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 02).bin",
+      "filesize": 1999200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1573f473c6feab984d2e0e97777416a",
+        "sha1": "b1306f4f886b0f092fc4c1783903e6267038020b",
+        "crc32": "466cc814"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 03).bin",
+      "filesize": 12249216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "96fac342643c37820d7f1d585ac9794e",
+        "sha1": "e6de643322e27c916353c27ff75d164bde1c3124",
+        "crc32": "328250ee"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 04).bin",
+      "filesize": 11884656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "998626b37f9a015f507518a123b0a21d",
+        "sha1": "5f5595a4ff57e04fd351627ad626bb7a2fb8b6d4",
+        "crc32": "5e2f0386"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 05).bin",
+      "filesize": 11522448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ea015159e813e163fe373a3f7d08f5f",
+        "sha1": "480c40d45e2715b2d9cfebfeeb05f20862b0022a",
+        "crc32": "b8e24d85"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 06).bin",
+      "filesize": 4990944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "856b87b7d87e1ab5e7df97808dd4e2cc",
+        "sha1": "25ac61a41858431a3b648553a7109634f4b1d3db",
+        "crc32": "fc31a46b"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 07).bin",
+      "filesize": 12656112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8d07da9d144c3be8ace4cc76dfde072c",
+        "sha1": "b678c5b2758600fbc33d47182edd74de23615d06",
+        "crc32": "f2fe24f6"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 08).bin",
+      "filesize": 10833312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00a75040dc6280db1ddce2878aa66869",
+        "sha1": "ddf5c341014724206d56889402c821d6554c3f12",
+        "crc32": "8179e0a2"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 09).bin",
+      "filesize": 9996000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "898bba6c1311f67d2cae4c5837c6507f",
+        "sha1": "62dfb915d20763319de4dbaef214169faca0e5c1",
+        "crc32": "ba96058b"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 10).bin",
+      "filesize": 11458944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3d97dc6a0fa6164466a8f5ab9290f760",
+        "sha1": "2e49a9446a1c3b63fda1a9e3dbbd41067b151b11",
+        "crc32": "e8533783"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 11).bin",
+      "filesize": 15330336,
+      "ext": "bin",
+      "checksums": {
+        "md5": "001ba90ac3d4ba2623e0b6f793fdb5a8",
+        "sha1": "459fba565cae42cdebf488a684a0abb1aaabfb7b",
+        "crc32": "0c3f86f1"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 12).bin",
+      "filesize": 10990896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "176eb7b46041fdd5641a10eb316eb0c5",
+        "sha1": "0602ac781ef8fa3feed1e24f28419bb39f5139cc",
+        "crc32": "a5f32904"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 13).bin",
+      "filesize": 12225696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21835483be12f24cb0559439789b0a7d",
+        "sha1": "52927f6e9e460a0698ac4e937dcee1a6adb5881a",
+        "crc32": "c47e5c7e"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 14).bin",
+      "filesize": 11367216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0451495f37a4c2ed449c63a598e49660",
+        "sha1": "ac3fbc041b3d698d1cde251837759084d3d732a9",
+        "crc32": "8ee56138"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 15).bin",
+      "filesize": 11602416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad35c65a41ade491973284152a3aa68b",
+        "sha1": "0d63f2395e979f31ebb0c8d22d5805cb5ad6cf8f",
+        "crc32": "dc4d85a8"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 16).bin",
+      "filesize": 12077520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d7727f6c8316d1462178b689223865f",
+        "sha1": "ed7341646456937a3db4c3c6a0e47243471e8399",
+        "crc32": "ac0b4c97"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 17).bin",
+      "filesize": 8316672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e7358575af2e5f4f73b86b52d29e4eb",
+        "sha1": "8ce004729bf71938c5e6357d82d3e82a88d8d4af",
+        "crc32": "787905cd"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 18).bin",
+      "filesize": 10202976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fd9ca6cfb5dffadd47cad04332864e68",
+        "sha1": "ae77ef33a0e97e38e33d4dfaeae062a8366493fd",
+        "crc32": "412fffef"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 19).bin",
+      "filesize": 10033632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ffbe2dd03800de40c4074d7801c1d2e",
+        "sha1": "7c59c59e8f5c2e00434a4c3bc00332def767dd83",
+        "crc32": "5afb1ded"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 20).bin",
+      "filesize": 11621232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5d164a63fa9716f2aabb4cca161a40fb",
+        "sha1": "a1a284958a2299f0af9710c7c2dbf1986cc0c14c",
+        "crc32": "cd959c6b"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 21).bin",
+      "filesize": 11614176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "88b74328d491a19c45f4d9d73e064f3e",
+        "sha1": "f46cbe1eed82df7b298c22d0809c6fbdd77f3ec8",
+        "crc32": "50b1c521"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 22).bin",
+      "filesize": 13587504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22eeb46bd4ce9506a8a47d1b75421084",
+        "sha1": "1a9dca132f5b8f4a4c51e64f8c3f0feb2e5794a4",
+        "crc32": "e48dcc75"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 23).bin",
+      "filesize": 6388032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "766bc0f791f7c5b643337346c3ca3843",
+        "sha1": "7ca71d128521a5d444eedac59a9a8c2a982d7515",
+        "crc32": "d413061f"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 24).bin",
+      "filesize": 6420960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2b1e3fa194356327eccb84d28c830d0a",
+        "sha1": "4f161190fc78273d56e4c075ff8f9d8667b96834",
+        "crc32": "4b5ee23e"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 25).bin",
+      "filesize": 11919936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "99b522022d8eef8080f747389356d4dd",
+        "sha1": "ce0b3033e150ba2ae00889478a77d3f9eed7df4c",
+        "crc32": "e4f05c03"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 26).bin",
+      "filesize": 11955216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7aa4f6b5fb6c59bbd6c8e69455793221",
+        "sha1": "5af6e3d5f84418dc06c2b89171fa1aeda80305eb",
+        "crc32": "d64d897d"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 27).bin",
+      "filesize": 11783520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c7b39fde4b86fb1538a130c7159fb76",
+        "sha1": "9fcd75b3ff7b70f1961c99c2d8b913e690893f61",
+        "crc32": "bda11b51"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 28).bin",
+      "filesize": 12531456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5375c402948827301f6a22b1c0dfb92a",
+        "sha1": "5c75319a1d58208def371fc511a4d450b909a0aa",
+        "crc32": "121baee2"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 29).bin",
+      "filesize": 1495872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29eaf7f3010c9e8d1bfb96975696a206",
+        "sha1": "ec9e4a03ca5b5a312d5892596465db4d7eaf3932",
+        "crc32": "1bcd551c"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 30).bin",
+      "filesize": 1281840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2ad1a4ef5a5cdb1ac7137316ce60234",
+        "sha1": "793ed39d3762eada2fa89e18c225acfd12650601",
+        "crc32": "bfa0a1c3"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 31).bin",
+      "filesize": 14601216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7cd63d7cd214c4e313b3e572d86bc114",
+        "sha1": "5f733a6c5c8c8c00667bf14984a9878536df49a0",
+        "crc32": "a1372665"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 32).bin",
+      "filesize": 11814096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f31b9d79b04be81a31eab9e7e28e5991",
+        "sha1": "f64fd47d519d2d02bf40b842c8dbd9fac4703cf9",
+        "crc32": "1bd466b9"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 33).bin",
+      "filesize": 10574592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b85165213707d30a7f4094a6a523386f",
+        "sha1": "69d0e8fc80c394266dee191429716b8904d24438",
+        "crc32": "c2d11eac"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 34).bin",
+      "filesize": 12592608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "70cabcdaa1ae3cdc6df155ba15019450",
+        "sha1": "5484558e12ef552229b92cde2c3f017214a424c3",
+        "crc32": "58c9bcc7"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 35).bin",
+      "filesize": 12333888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c7a882170261c090ad45b6137874fef2",
+        "sha1": "0a7d3170135262821f8c3fce2302a84861de2244",
+        "crc32": "03ebf52e"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 36).bin",
+      "filesize": 11409552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "320c75bbdbce0a31b3e00135a45b4bd7",
+        "sha1": "ec5b5e252355ea8fbc31a4a5366a4cbe866e3d05",
+        "crc32": "f6788ee8"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 37).bin",
+      "filesize": 12098688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "497331ed04d42f6640cac0f55424a4ab",
+        "sha1": "0b5d7a13d4617ab4cd47bdbda324e4a27455fab8",
+        "crc32": "2f57e478"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 38).bin",
+      "filesize": 11618880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "674684287571c9617d144fddbb06669b",
+        "sha1": "670b9a983d7f50f2e3907c1df433a9e51b6fd7a1",
+        "crc32": "60e762c9"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 39).bin",
+      "filesize": 10440528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2699c789b2d5ed02849e252a4917f52f",
+        "sha1": "a70f5fc20133edf7099c50160df213f538bfd7b3",
+        "crc32": "0130b040"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 40).bin",
+      "filesize": 8293152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c1ecaf6222b263f868d8d42f8c313549",
+        "sha1": "90107c5da7581d8b6422ef824291d5a41ff0ab95",
+        "crc32": "6c3d7106"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 41).bin",
+      "filesize": 12851328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3f4f2f43d5947d5a4e5d53357770e16a",
+        "sha1": "5d0b379adb6419e8ae6fcc35a9acbc87eb42adb9",
+        "crc32": "606bb2b6"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 42).bin",
+      "filesize": 11129664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0269fb055b4f7a0fb732b768e60e1ed",
+        "sha1": "753231f2f645200958246f321b7bdd33a3d7db45",
+        "crc32": "8ab01ea0"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 43).bin",
+      "filesize": 11705904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "589f34b71370c78e4bbc88b324ff797f",
+        "sha1": "4ac8f7e683ce52c9772346c417f47ac9e3ccb757",
+        "crc32": "06bbb1bd"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 44).bin",
+      "filesize": 12141024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7dab1ad8484e333ddeb643f1e45400c",
+        "sha1": "af81f16d837664d16239b4b41027dc34ce527139",
+        "crc32": "2efb003d"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 45).bin",
+      "filesize": 11741184,
+      "ext": "bin",
+      "checksums": {
+        "md5": "da36629da4168c16fb9199ce80c9ccce",
+        "sha1": "0e281444bd4b050b3973f3f34c73bf1d094995ec",
+        "crc32": "a9dd5171"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 46).bin",
+      "filesize": 10299408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25d201d415e95dd966981477273ac77b",
+        "sha1": "4ef9cb3ef2627c86ce52715c5f9b1a9016aeccc0",
+        "crc32": "aa272162"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 47).bin",
+      "filesize": 11284896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "910af86266bb9dab2e0c32ed16134790",
+        "sha1": "6ff5c44ae46fcd11732076ff65fdcd15a00bfe92",
+        "crc32": "8fe1c098"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 48).bin",
+      "filesize": 10950912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4d8f352d54d464ee0ec726db0b3760e",
+        "sha1": "f45bafa54a0d7c856daa3e4af5363136508660c4",
+        "crc32": "6dc42d8f"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 49).bin",
+      "filesize": 7074816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "521abee63ec15c1b327dc4509078dcbc",
+        "sha1": "aec70f306dd73ebf292d8f82f8d8be69b0ac8bff",
+        "crc32": "255b91ec"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 50).bin",
+      "filesize": 7646352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a90fa4b9ea3f4fb338825304cafd4f4f",
+        "sha1": "d3e4cd67d199d817f5795978e68160177900cf3d",
+        "crc32": "0697df82"
+      }
+    },
+    {
+      "filename": "Rayman (USA) (Track 51).bin",
+      "filesize": 6225744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "169e24467278afd3584e45ca2d607404",
+        "sha1": "5589a012c00cee6e49b9ce79563b050053ff71ce",
+        "crc32": "324846b9"
+      }
+    }
+  ]
+}

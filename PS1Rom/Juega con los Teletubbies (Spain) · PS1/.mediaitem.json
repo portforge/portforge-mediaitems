@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Juega con los Teletubbies (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Juega con los Teletubbies (Spain).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb61495b7e6a35269c04bfc5a5715b73",
+        "sha1": "1ad3603f16d27a611510e76bf621d18911dc8f0a",
+        "crc32": "17515b62"
+      }
+    },
+    {
+      "filename": "Juega con los Teletubbies (Spain) (Track 1).bin",
+      "filesize": 717009552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3645a01e2e8859420dd83287c66c5af6",
+        "sha1": "d7a18d244ed0e215508e14ddf58795ca4d1f27e7",
+        "crc32": "501bdc00"
+      }
+    },
+    {
+      "filename": "Juega con los Teletubbies (Spain) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "952d15640b57c777f98881d396c811b9",
+        "sha1": "17eb815534b854c7476ed098571ee8d74c6554a5",
+        "crc32": "bb550936"
+      }
+    }
+  ]
+}

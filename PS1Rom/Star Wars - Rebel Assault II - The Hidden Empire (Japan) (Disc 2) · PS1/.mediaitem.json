@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Rebel Assault II - The Hidden Empire (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Rebel Assault II - The Hidden Empire (Japan) (Disc 2).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ae6045adfe65ed573ef941ba2d7af058",
+        "sha1": "980937b2d5c69fbe7fb246b1052a0103b989fbd8",
+        "crc32": "b64d8a95"
+      }
+    },
+    {
+      "filename": "Star Wars - Rebel Assault II - The Hidden Empire (Japan) (Disc 2).bin",
+      "filesize": 746181408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4796038d878be47b10ecc16d648d8651",
+        "sha1": "2cd24bb5be1d3f414b2a84d0c7a3b1b4276d5376",
+        "crc32": "9b2bfed3"
+      }
+    }
+  ]
+}

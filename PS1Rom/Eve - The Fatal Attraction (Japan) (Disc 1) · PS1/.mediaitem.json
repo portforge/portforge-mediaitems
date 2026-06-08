@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eve - The Fatal Attraction (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eve - The Fatal Attraction (Japan) (Disc 1).cue",
+      "filesize": 256,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3564b336c90b22b989eb167f97d75fb5",
+        "sha1": "743d3671443d5ffe45f155ea5e5fb87f4193d7fe",
+        "crc32": "a475c669"
+      }
+    },
+    {
+      "filename": "Eve - The Fatal Attraction (Japan) (Disc 1) (Track 1).bin",
+      "filesize": 701834448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "45bcc30fdad7e574012d359de9371e27",
+        "sha1": "f25e05f924b50aff30457bfa1a3276a67dee5e5f",
+        "crc32": "3d48ecd1"
+      }
+    },
+    {
+      "filename": "Eve - The Fatal Attraction (Japan) (Disc 1) (Track 2).bin",
+      "filesize": 41962032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef8f94cd60551fab4ae5a8d171bf409f",
+        "sha1": "c3cd97527346acc2116c3ead8c5421e41e2d236c",
+        "crc32": "503e2441"
+      }
+    }
+  ]
+}

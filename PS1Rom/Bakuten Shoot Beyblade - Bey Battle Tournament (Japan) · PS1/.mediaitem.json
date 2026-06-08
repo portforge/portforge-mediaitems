@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan).cue",
+      "filesize": 1018,
+      "ext": "cue",
+      "checksums": {
+        "md5": "737d25e9b8e840781592eea971e8949e",
+        "sha1": "4627dd63ce0b2591bd4ba3ef307f79d8c4cf608f",
+        "crc32": "606ffe5e"
+      }
+    },
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan) (Track 1).bin",
+      "filesize": 112244496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba47e1c901de74ed2f6e93c716837195",
+        "sha1": "cf64ac0f905c8871c030eb86a93e5f6d2c75b502",
+        "crc32": "f54ad81f"
+      }
+    },
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan) (Track 2).bin",
+      "filesize": 21360864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dae7eca62d8e0691377b3669c66eaedd",
+        "sha1": "bf95d0c238ff9d3a619e2f6977f637642d6d744c",
+        "crc32": "774c79ff"
+      }
+    },
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan) (Track 3).bin",
+      "filesize": 31996608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52387aee5dda98d4d237c8b77388131f",
+        "sha1": "94d0b4fa1a20a1be085d6e7032d77480bbebf6ca",
+        "crc32": "0a9eb307"
+      }
+    },
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan) (Track 4).bin",
+      "filesize": 33831168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d8e1ae1f885be1defa0ed1cc33be9e9",
+        "sha1": "e4a3af46a0c8a182c4540d137c137cc64f7e48fb",
+        "crc32": "912193dd"
+      }
+    },
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan) (Track 5).bin",
+      "filesize": 1688736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc9e3ec82746849785f8c97c1ed6da39",
+        "sha1": "21ae8778d250df255a3eb4b822b909e03980d910",
+        "crc32": "34f8dd1b"
+      }
+    },
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan) (Track 6).bin",
+      "filesize": 1460592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b043cd37fb7a8c979cc199887b7458c2",
+        "sha1": "1968c491683f92dacee919d17d490b9fdd852522",
+        "crc32": "25c6df09"
+      }
+    },
+    {
+      "filename": "Bakuten Shoot Beyblade - Bey Battle Tournament (Japan) (Track 7).bin",
+      "filesize": 31813152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4b882da5dd288f28d2540c4987bf9869",
+        "sha1": "e679022f61e8672d76386db9e5d1c4fc11dd73c3",
+        "crc32": "196de168"
+      }
+    }
+  ]
+}

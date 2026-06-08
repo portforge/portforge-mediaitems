@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Choro Q Jet - Rainbow Wings (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Choro Q Jet - Rainbow Wings (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "20d85c20b4c43e7af44ef3607b96f907",
+        "sha1": "fe23055763bb3055fe80416c6d8793d983df6d51",
+        "crc32": "1bff1794"
+      }
+    },
+    {
+      "filename": "Choro Q Jet - Rainbow Wings (Japan).bin",
+      "filesize": 733824000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21521989eb4b2b4335ec1f427de7f165",
+        "sha1": "d6322b4750fcf299d0428c11054520cf87b07d9b",
+        "crc32": "b1a5cf03"
+      }
+    }
+  ]
+}

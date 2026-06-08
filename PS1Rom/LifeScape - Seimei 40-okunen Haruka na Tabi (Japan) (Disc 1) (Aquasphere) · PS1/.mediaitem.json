@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "LifeScape - Seimei 40-okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "LifeScape - Seimei 40-okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d22694b4e0adfb00bdff777e042e6732",
+        "sha1": "1d222359ccb33efa00ab4187935701d6d3e46390",
+        "crc32": "192d0ef9"
+      }
+    },
+    {
+      "filename": "LifeScape - Seimei 40-okunen Haruka na Tabi (Japan) (Disc 1) (Aquasphere).bin",
+      "filesize": 618453696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d0cb70797d2b0e46a1163e3a8ca992c",
+        "sha1": "46576a3d77182b84b4deadec957587c57dd125a6",
+        "crc32": "a8c2265e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomb Raider (USA) (Rev 6)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomb Raider (USA) (Rev 6).cue",
+      "filesize": 6822,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c2427a8006ef490b98e3fe7b860b3d82",
+        "sha1": "8884b43c02b1325f93e99d747d3e180f733e37b0",
+        "crc32": "26f2cc26"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 01).bin",
+      "filesize": 343417872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "786a284ef28e71336debce138e5376ae",
+        "sha1": "204a8f248ef4b8a8ab0571b49427269938fd6a5f",
+        "crc32": "93f4f732"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 02).bin",
+      "filesize": 34675536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d9b29532bf6f167fe02bece59baef3b",
+        "sha1": "e55d5a6cccd78b87d885c63ff736d300a881af8a",
+        "crc32": "3561d9d7"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 03).bin",
+      "filesize": 11284896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cc27c76f39505293a37a87001bc58b6",
+        "sha1": "9c267444a801277785c357cf1e2e49d6646e3530",
+        "crc32": "61bcb9fb"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 04).bin",
+      "filesize": 21788928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e644102f41d5f2ead93364f07abc6b2f",
+        "sha1": "7e094cf598d8e281f10b18353b1e0927571d157d",
+        "crc32": "7a211860"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 05).bin",
+      "filesize": 21193872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "582724c6f7515fadd59224cae760f13d",
+        "sha1": "a53d1d0b7c3f899683d59e6cd88dc1c0500797f0",
+        "crc32": "4fe619d7"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 06).bin",
+      "filesize": 13580448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "146ff8cdefb24a804f83741ffec45b77",
+        "sha1": "e86955b321fedaa97d58a2eddbfa24f1f0015adc",
+        "crc32": "795deeaa"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 07).bin",
+      "filesize": 9857232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25af269a2197ebd83fcd3116748a6887",
+        "sha1": "d9a78b3a02aec82e701687301b897baebba82652",
+        "crc32": "fc7254df"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 08).bin",
+      "filesize": 12039888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fae5abbc74db3305d4c7d1ea1133477",
+        "sha1": "71e6c29446f05ccb21a130efa12aa6355f94757b",
+        "crc32": "a010b7dc"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 09).bin",
+      "filesize": 7070112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4ec6982f2eb7eb9467753a2a0d1b7af9",
+        "sha1": "307d279ac8fe771076f0a53d5b1228a1d28ff08e",
+        "crc32": "b999e2df"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 10).bin",
+      "filesize": 13984992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aae11f816e57e1d96a203563ec5c1b8e",
+        "sha1": "81542d6601ab30cfd00bb9edcb0416d52bc30b3f",
+        "crc32": "bef5279d"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 11).bin",
+      "filesize": 1498224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba930a1669aae155bcf336c817927664",
+        "sha1": "b5112c95e8010b3a8ef4c4e957f52331a46a3fb7",
+        "crc32": "4f4b95b3"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 12).bin",
+      "filesize": 2643648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b7f78db2d851b6937ce3734de21b346e",
+        "sha1": "d9c0e710b6d0595ac29bc59f24d3dbe13ffc554c",
+        "crc32": "67351b91"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 13).bin",
+      "filesize": 1241856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e42975f44d0208aa54f5d688cd06dde5",
+        "sha1": "1ab17bbcb52ce47ab606bb70cda315bce34557b0",
+        "crc32": "61fdd093"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 14).bin",
+      "filesize": 2128560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff9e9f3cd6ae40752de1448d18ecd888",
+        "sha1": "b822e5f78f2cabdaf3284b8dc6ae54f98bd57f16",
+        "crc32": "a55a662b"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 15).bin",
+      "filesize": 1947456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59ad1c7ea31b41a48242ee86f8f67da7",
+        "sha1": "fd69f277f3d944726c9b3e9f9102936ac4107d4c",
+        "crc32": "8e9eacd2"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 16).bin",
+      "filesize": 6851376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2a432c1a687d27f2fa14ea72a613a70",
+        "sha1": "d702c417a938742cc41f5813a3daef9f44c20782",
+        "crc32": "7e8a6af6"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 17).bin",
+      "filesize": 7559328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce5e271c9df1f44970759b9bb0126b11",
+        "sha1": "21bf84308f8944d15202d7499fb3589ea27e0075",
+        "crc32": "0737e16f"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 18).bin",
+      "filesize": 4466448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca33ab9a1ae78a5a28f909978a96e595",
+        "sha1": "72a718d52ca7345a31ab986c57f8944893530565",
+        "crc32": "9fd3412d"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 19).bin",
+      "filesize": 15629040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9efaebbef4c39267fa6b23d08690c0f3",
+        "sha1": "69e73640f92bba3698bab25bc8d494ddaae0f2cc",
+        "crc32": "d8d8aaa8"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 20).bin",
+      "filesize": 9565584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68c60a726d0411f8eeb0457b8f52b7b2",
+        "sha1": "895ac2ef2b3046f5fb9137d6c555bebb67733107",
+        "crc32": "971b5129"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 21).bin",
+      "filesize": 7272384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c0dec422968860ea660f4aa840d272d",
+        "sha1": "c1f4e83dbfb60afdeba76667210b146c59c9c0f1",
+        "crc32": "2a5cd721"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 22).bin",
+      "filesize": 11202576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0c82533ad1c4c948180d591ceac69b1c",
+        "sha1": "f9bd8850a45f4e983e14bcf338e7fb1ceec811f6",
+        "crc32": "d8ce4e30"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 23).bin",
+      "filesize": 10158288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "729f4f78078b5e7c12e8332e5975c401",
+        "sha1": "1ffc775ac71b4440b27cbb59c7083bac4f791a75",
+        "crc32": "8aab8d34"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 24).bin",
+      "filesize": 2711856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a2090e8e78b844697503308c71086a85",
+        "sha1": "9e73751fcd2350e076f35cf99bf0d0c60440c649",
+        "crc32": "c9d8be17"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 25).bin",
+      "filesize": 6498576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4daf78aae8e31a38ac6bc3996574be25",
+        "sha1": "01b12dd55fc1b0c0f34b533eafbefc1b548c46f4",
+        "crc32": "823d1e36"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 26).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b68583d6a69da488f70fc5a905cd5075",
+        "sha1": "1164e0ff54fd16cb85d369267db565e4b16e63f6",
+        "crc32": "5a561731"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 27).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c98e853f5b646f6441fc2872d8840b90",
+        "sha1": "4c3b397861c99b99c5bc632c2d516c9db25db400",
+        "crc32": "f02c6ba3"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 28).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "44ca3bf26c7f9099109b4cbf0eecc6a9",
+        "sha1": "06ab055fa5583f6cab91026743a414d0d25764a4",
+        "crc32": "c02d5d5c"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 29).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16dd8198d3814d8bbde560affa9ee870",
+        "sha1": "3f02f2425e58dacb95e5d37fe066d96cfd7345cb",
+        "crc32": "f7031048"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 30).bin",
+      "filesize": 1406496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "942b93bcfdc705afd0a67b596dc7e099",
+        "sha1": "b084178ffc2a3c1c1ecf5e3d54a09e4d5a3c4709",
+        "crc32": "38e2e24d"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 31).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e994b9b783b3cee777d5827091e82d69",
+        "sha1": "063f00fc06ee3d55bad02787e57f4d52c56e8ee9",
+        "crc32": "d10d43ab"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 32).bin",
+      "filesize": 1676976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9614a2e450c9bfb967d49f023d851183",
+        "sha1": "32be222c2e86fd209284bc937f8dd5903279bb02",
+        "crc32": "a97a7442"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 33).bin",
+      "filesize": 1686384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfaf6f612120d404cc8992526be32683",
+        "sha1": "59f8c95116327c30e38119c203c9d6d339bf4f68",
+        "crc32": "ee6ab865"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 34).bin",
+      "filesize": 1345344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2077b32b47991da5c65da137bdb05b56",
+        "sha1": "07eddaa58a0d1dc774fda8e2d8b79b60c19929af",
+        "crc32": "98c4d098"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 35).bin",
+      "filesize": 1267728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f99c6595fe7d99711ff19c3fbee608e",
+        "sha1": "b74e67a81db3835a989e8f07a5a91b83c5c35ef2",
+        "crc32": "6b36e2aa"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 36).bin",
+      "filesize": 2989392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d69d15ad16f876f4c24fc76a43d881d2",
+        "sha1": "133509d16ba75246a1d7dbf6a09bee27584c5208",
+        "crc32": "569b9e4a"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 37).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6e1a9b43904436065c61e90142f3c648",
+        "sha1": "3391563ec2e7b485e72ab304c5293002ac288557",
+        "crc32": "4fc5f281"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 38).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "556f0318f1c135414bbaf567284a8866",
+        "sha1": "ef842071081c9e1a4482ac0acd9d4ddcffedc594",
+        "crc32": "6b3bda75"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 39).bin",
+      "filesize": 2836512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e04f9111baf95f7c3bacc3f869d39a14",
+        "sha1": "5f2ab536f81e1f1dc63032139d8dbea7f43894b7",
+        "crc32": "7a7bba9f"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 40).bin",
+      "filesize": 1858080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d76cc9898c9339e74a1180439974b857",
+        "sha1": "0a6d8a8867246158c3eb49610f25623fc6358136",
+        "crc32": "c72abdc0"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 41).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fe2c25b6b82f2e689ba7e9a626c1f137",
+        "sha1": "69a79d5710e3c9d95db06c6e06cc971e6456282e",
+        "crc32": "81816eb5"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 42).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89b47f968be21e97ccde067169e4a86d",
+        "sha1": "817c2d24eb9e16fb32442558fbf5b646d095c1c1",
+        "crc32": "cae4da94"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 43).bin",
+      "filesize": 1618176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6dfa59b664a15956a37b94e1f4e3f92a",
+        "sha1": "03192280016f3315197e6afe90d1ce179a7b49c0",
+        "crc32": "d9a641dc"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 44).bin",
+      "filesize": 1467648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2499fc4bc244e96e7dd32b9faf44829",
+        "sha1": "c52e124c96975cbc9d18cb72a458663ef9d7ccc6",
+        "crc32": "05ebe3ae"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 45).bin",
+      "filesize": 1742832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80c4be801d3c8a907cfa722ceacded22",
+        "sha1": "d0b5ee0e6409422debd30cf566f96f1c7906ab1f",
+        "crc32": "be5b15a8"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 46).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bbae73696599628e99fa6ac42e0527a2",
+        "sha1": "17d91b17cd7077952d0b4f243a0f167c3c95802e",
+        "crc32": "1ce6f4d1"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 47).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78dba85fae0f8b4c0a33e9a6da41805d",
+        "sha1": "f0484076c91c953aeaed4b0e2b0ded517d578c5d",
+        "crc32": "ed8e6d76"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 48).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b9c6016ca99bfe4c09e5305a199dbb1",
+        "sha1": "e40f70c35d98645118bf5e4502483f90f69403ad",
+        "crc32": "2cdc860c"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 49).bin",
+      "filesize": 2812992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1e0e1ad3d545d273b0a6018c8518528",
+        "sha1": "7507d0befe73bbc532b4b5bede097e934bb5bd6a",
+        "crc32": "69188424"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 50).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f7694abf354fbfea47c5d85a08fc6fb2",
+        "sha1": "d2cf55aeb6e48480e1d112f9b7535275f1f0df40",
+        "crc32": "727f6853"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 51).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3512bb87b5c991dd7d7ae74398395169",
+        "sha1": "d9ea579e514fa54a8df01a5826d529c80bcc656d",
+        "crc32": "ff5f5472"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 52).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cd996d8b4e161f28643cd32bddaa7da",
+        "sha1": "4dc61ae5484e81e3de1e16928bb4ebc020ee0c4d",
+        "crc32": "0f2ae638"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 53).bin",
+      "filesize": 1634640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa094aaa7b6b420fb80ab853f0200c47",
+        "sha1": "74ce28bbfc49a6df37d6aed39077efa69bb71236",
+        "crc32": "62e57fae"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 54).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a2d46cc83b0d2ae8721bdf180f58b9c",
+        "sha1": "739e111c50284a20f80c47f4a6b6c2a6ff15c865",
+        "crc32": "450a3fc1"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 55).bin",
+      "filesize": 1714608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "02f64c453a1fe40dcf018eb4f91d17d4",
+        "sha1": "ea8fdaea4018b9a6e16e59b889d34a7ce8952677",
+        "crc32": "9bd85c19"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 56).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9280500e9f893498702382b709769a47",
+        "sha1": "c3dec249e622453ca149810c8aca858ec03aa641",
+        "crc32": "7678bffd"
+      }
+    },
+    {
+      "filename": "Tomb Raider (USA) (Rev 6) (Track 57).bin",
+      "filesize": 35103600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ece4ee4bd7df81a2b2fe09926ab9b67f",
+        "sha1": "67f6e8792b15f581d256f99eed66cb724dddb329",
+        "crc32": "7d46743f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple Character 2000 Series Vol. 01 - Kidou Senshi Gundam - The Gunjin Shougi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple Character 2000 Series Vol. 01 - Kidou Senshi Gundam - The Gunjin Shougi (Japan).cue",
+      "filesize": 152,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce877fa9e899fbc54a4db52277ac9624",
+        "sha1": "ffbbf1504a61f3106f1ed5c92d788dc090829d1f",
+        "crc32": "b98b7e9b"
+      }
+    },
+    {
+      "filename": "Simple Character 2000 Series Vol. 01 - Kidou Senshi Gundam - The Gunjin Shougi (Japan).bin",
+      "filesize": 60246480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cf1d3341c216198a9a2cdc55a2a3e55",
+        "sha1": "54b62621a48cebc724b29bc41f6d852c1694585d",
+        "crc32": "d29a82f5"
+      }
+    }
+  ]
+}

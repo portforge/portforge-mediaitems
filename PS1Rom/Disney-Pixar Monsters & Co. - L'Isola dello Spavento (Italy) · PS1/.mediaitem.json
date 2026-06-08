@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney-Pixar Monsters & Co. - L'Isola dello Spavento (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney-Pixar Monsters & Co. - L'Isola dello Spavento (Italy).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8dc10dbfaa2215b546eed753e5660fbc",
+        "sha1": "3ba02356541d1bd40b0979a0f94d2ad25027f45b",
+        "crc32": "ddf46f3f"
+      }
+    },
+    {
+      "filename": "Disney-Pixar Monsters & Co. - L'Isola dello Spavento (Italy).bin",
+      "filesize": 735639744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d07c03b5c8bcba4ffe8ba69b656d813b",
+        "sha1": "a7d2778404a7b961b72c4c37a646177cab8292d3",
+        "crc32": "1de5370b"
+      }
+    }
+  ]
+}

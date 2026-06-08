@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 53 - The Helicopter (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 53 - The Helicopter (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01382c9c2f5f00edf3d0a1af6dddfcf7",
+        "sha1": "57fc66c7d30877664f8061538e19f1b75b367689",
+        "crc32": "90f62ddc"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 53 - The Helicopter (Japan).bin",
+      "filesize": 55709472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "752282720cd49e64219246ae5c17543f",
+        "sha1": "170647eba5f2a81354c774756b7c86b667cf60bb",
+        "crc32": "f9eb002f"
+      }
+    }
+  ]
+}

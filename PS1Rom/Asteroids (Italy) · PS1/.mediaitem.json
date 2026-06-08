@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asteroids (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asteroids (Italy).cue",
+      "filesize": 204,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2eebfcf1d3a7c3ce8965184b6db0650f",
+        "sha1": "1ae92afe93d51ad1aeb82a7de73c1951bf350032",
+        "crc32": "e2abbc33"
+      }
+    },
+    {
+      "filename": "Asteroids (Italy) (Track 1).bin",
+      "filesize": 195112512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "43d85c46d871ba20728595db66815c3e",
+        "sha1": "71c0dc876eb4ae7df3861c7d9c281657b9503bcb",
+        "crc32": "3c01b284"
+      }
+    },
+    {
+      "filename": "Asteroids (Italy) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "034c3867de60622ca603502902968ab8",
+        "sha1": "58c7fc8a14ad29c9f3546e5cca3e19367a39397f",
+        "crc32": "ce6b485b"
+      }
+    }
+  ]
+}

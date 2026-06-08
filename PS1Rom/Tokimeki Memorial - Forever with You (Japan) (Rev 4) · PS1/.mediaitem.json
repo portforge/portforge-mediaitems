@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial - Forever with You (Japan) (Rev 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial - Forever with You (Japan) (Rev 4).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e23e003955eda4aefe5ea3d7fe460658",
+        "sha1": "7cbc2475754726fd846113118a96d76d3e826281",
+        "crc32": "e5a999e2"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial - Forever with You (Japan) (Rev 4) (Track 1).bin",
+      "filesize": 702104928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d002a3d08093ed107f84d312764fb20c",
+        "sha1": "0ec8e3b093291ac7ce3af2bb62beda5228f09435",
+        "crc32": "47391502"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial - Forever with You (Japan) (Rev 4) (Track 2).bin",
+      "filesize": 45151344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c327f00fe9c4d6910d154e0ae1ccd4a",
+        "sha1": "6cdd8500168ab4ecb18b78ef7589586d26bc4501",
+        "crc32": "77a1e449"
+      }
+    }
+  ]
+}

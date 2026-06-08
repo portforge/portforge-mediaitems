@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Screen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Screen (Japan).cue",
+      "filesize": 198,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c2e41dbbfc924abc4e771bb4ad77a230",
+        "sha1": "1da84c17f28e891230dc1f31bc23718f90064379",
+        "crc32": "8ce8ac77"
+      }
+    },
+    {
+      "filename": "Screen (Japan) (Track 1).bin",
+      "filesize": 709878288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4539f8164ab02407433155f30a603c8b",
+        "sha1": "4c48a9e3bfdd299d3fcf07ade7c3210784767d30",
+        "crc32": "9e7d5d93"
+      }
+    },
+    {
+      "filename": "Screen (Japan) (Track 2).bin",
+      "filesize": 34913088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c0afb7a1d89dd6bff974ec289011925",
+        "sha1": "bb7b7e5a5b9c7ae59b95a07ff506f37c0dc9dbba",
+        "crc32": "e2b5af12"
+      }
+    }
+  ]
+}

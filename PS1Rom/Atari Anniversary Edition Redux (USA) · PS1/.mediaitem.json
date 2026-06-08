@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atari Anniversary Edition Redux (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atari Anniversary Edition Redux (USA).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "57b1efe05dd815be4f334d23a4f1a5b8",
+        "sha1": "498ea39ed377dbb434d8071980fa1b4738beb134",
+        "crc32": "b805ecc7"
+      }
+    },
+    {
+      "filename": "Atari Anniversary Edition Redux (USA).bin",
+      "filesize": 636761664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2cf13b12176ef8c2a5a1164586a2d9f",
+        "sha1": "53f49e7b280434cb02a31e115d5e3622f1ae70bc",
+        "crc32": "28ee0e9f"
+      }
+    }
+  ]
+}

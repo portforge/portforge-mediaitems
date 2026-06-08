@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Soccer 3 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Soccer 3 (Germany).cue",
+      "filesize": 218,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d14f0d468eb755f1bd022886d5923f5",
+        "sha1": "5b550b71ac35daae1a58dbe02fba484ecb791f48",
+        "crc32": "e9323122"
+      }
+    },
+    {
+      "filename": "Actua Soccer 3 (Germany) (Track 1).bin",
+      "filesize": 367996272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2759e40d6cb271599dd3beac8940d9b8",
+        "sha1": "4ba06a90f1d6f27dbf18ba0c636524ff4f9888eb",
+        "crc32": "03075260"
+      }
+    },
+    {
+      "filename": "Actua Soccer 3 (Germany) (Track 2).bin",
+      "filesize": 46555488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba58d271ac749bf5cdf51032416f6157",
+        "sha1": "51fed26c49b1cdf204db76ebd4462ef642931e7a",
+        "crc32": "1150776d"
+      }
+    }
+  ]
+}

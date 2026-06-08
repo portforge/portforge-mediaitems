@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Test Drive Off-Road 2 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Test Drive Off-Road 2 (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17282ef1576860f585a7cc9c9f2e8147",
+        "sha1": "60357cee2e8d8a1b1f2c2844421da182473c32a6",
+        "crc32": "ad334b6e"
+      }
+    },
+    {
+      "filename": "Test Drive Off-Road 2 (USA).bin",
+      "filesize": 316875552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc6ad7f8f61e6df2c0517e4404e9f5c2",
+        "sha1": "0e50cc8a9b5fd1bc2bb16198be44965342071d7b",
+        "crc32": "555c471d"
+      }
+    }
+  ]
+}

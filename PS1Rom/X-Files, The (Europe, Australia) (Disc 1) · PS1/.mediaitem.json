@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "X-Files, The (Europe, Australia) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "X-Files, The (Europe, Australia) (Disc 1).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "71d467a2c3c71730ec835ce99fffe5df",
+        "sha1": "eec68ea19a29e4c5ded1ff621edec447e083f4bb",
+        "crc32": "ea127f8c"
+      }
+    },
+    {
+      "filename": "X-Files, The (Europe, Australia) (Disc 1).bin",
+      "filesize": 613375728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a05ebd7bff70809665eba4d0c99e4e3",
+        "sha1": "3bb019d359eb24ef7329de14c14d45cbec6fdf02",
+        "crc32": "c42be37d"
+      }
+    }
+  ]
+}

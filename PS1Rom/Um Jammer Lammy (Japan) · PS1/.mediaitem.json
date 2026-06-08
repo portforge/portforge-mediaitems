@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Um Jammer Lammy (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Um Jammer Lammy (Japan).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3470c817d96248e0d8aba1abf63fd428",
+        "sha1": "eded00b5f32c2a2d3c31704b91c6ca1cdbba9220",
+        "crc32": "e7136de9"
+      }
+    },
+    {
+      "filename": "Um Jammer Lammy (Japan).bin",
+      "filesize": 741145776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2086e431c7b37304343dbe961a33c887",
+        "sha1": "9d936d397454f3609ca2868b53f36f9d407bf932",
+        "crc32": "e902ff4e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sougaku Toshi Osaka (Japan) (Disc 1) (Method)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sougaku Toshi Osaka (Japan) (Disc 1) (Method).cue",
+      "filesize": 260,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d10bd87a7e843ff0f44f3eb19390229",
+        "sha1": "de9a84f0390ec22cb2970836c49c4ad5d5d9297e",
+        "crc32": "e9bc3282"
+      }
+    },
+    {
+      "filename": "Sougaku Toshi Osaka (Japan) (Disc 1) (Method) (Track 1).bin",
+      "filesize": 476157696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "15f80c797854987548f71e75368bb0a1",
+        "sha1": "bc70baecc37dbda9faae8d9aaa56d2ee1bc6b964",
+        "crc32": "bf7c45ec"
+      }
+    },
+    {
+      "filename": "Sougaku Toshi Osaka (Japan) (Disc 1) (Method) (Track 2).bin",
+      "filesize": 33019728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "213d27c91b1e77d18dfff28ba357254f",
+        "sha1": "04071c1dabe5b1091e3fbabbea0c350177f2433b",
+        "crc32": "de7a15e3"
+      }
+    }
+  ]
+}

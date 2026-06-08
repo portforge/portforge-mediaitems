@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Poy Poy (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Poy Poy (Europe).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c65cc964f50a1b15a478270349f9a700",
+        "sha1": "f9fcd6c3adc9d4bad2966bc411689de7caca3658",
+        "crc32": "d986b893"
+      }
+    },
+    {
+      "filename": "Poy Poy (Europe).bin",
+      "filesize": 275099328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bb408f1393826ddbf4ee97e7ab7fccee",
+        "sha1": "9b6c3fb18f00578c2e9a345ab6a6afa2f8dd60a8",
+        "crc32": "51ee0d69"
+      }
+    }
+  ]
+}

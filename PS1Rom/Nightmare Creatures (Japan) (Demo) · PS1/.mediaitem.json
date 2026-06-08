@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nightmare Creatures (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nightmare Creatures (Japan) (Demo).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "52e513ecd441c6cf8dc2b8c7257a110c",
+        "sha1": "d6b3bdad8a41025821400f7b22078146ef67383e",
+        "crc32": "4fc9c84a"
+      }
+    },
+    {
+      "filename": "Nightmare Creatures (Japan) (Demo).bin",
+      "filesize": 125646192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18232d90569fdf0e0b59c140e977418f",
+        "sha1": "81c04a75ecb1e710d4fd491110e3569b94eb23ef",
+        "crc32": "fdcd274e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galaxian^3 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galaxian^3 (Europe).cue",
+      "filesize": 434,
+      "ext": "cue",
+      "checksums": {
+        "md5": "25a7bf4f07fbea67d72144a89e9ab598",
+        "sha1": "a992dea419cd78a96936c03d9b59fa6e248d3cb8",
+        "crc32": "29afa521"
+      }
+    },
+    {
+      "filename": "Galaxian^3 (Europe) (Track 1).bin",
+      "filesize": 584617824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4976a656351358b435c6d5e6acf55a01",
+        "sha1": "4820bca28c4b373fe72eccc1437ad9f9d67f608c",
+        "crc32": "ed32f2c6"
+      }
+    },
+    {
+      "filename": "Galaxian^3 (Europe) (Track 2).bin",
+      "filesize": 9603216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34c0586ba79ea87a099a50cfc3b81ac1",
+        "sha1": "7ab86d5e67bf7a388732ca3fa165498bef04a6e6",
+        "crc32": "fd572815"
+      }
+    },
+    {
+      "filename": "Galaxian^3 (Europe) (Track 3).bin",
+      "filesize": 3405696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2fdcab322f8ddd1a50020b888a535a9e",
+        "sha1": "7ebf5e888247b328f3d9cdfaa38cdfc41e21dd9a",
+        "crc32": "fce1bcf0"
+      }
+    },
+    {
+      "filename": "Galaxian^3 (Europe) (Track 4).bin",
+      "filesize": 32107152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "582eb9f28212e6666f141dcb384d7aee",
+        "sha1": "9970fa11c87780fcd3c00196fb2cce982f035643",
+        "crc32": "d9f81e07"
+      }
+    }
+  ]
+}

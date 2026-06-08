@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lost World, The - Jurassic Park (Europe) (En,Fr,De,Es,It,Nl,Sv) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lost World, The - Jurassic Park (Europe) (En,Fr,De,Es,It,Nl,Sv) (EDC).cue",
+      "filesize": 471,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f894beacc03904573163ec5a95bd840e",
+        "sha1": "08781244e820d9e8ad51219b04e208d6dd6853a9",
+        "crc32": "c4d48bd5"
+      }
+    },
+    {
+      "filename": "Lost World, The - Jurassic Park (Europe) (En,Fr,De,Es,It,Nl,Sv) (EDC) (Track 1).bin",
+      "filesize": 270781056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "72d08b9f7095d08a0503ebf73391506a",
+        "sha1": "cd5caa3a11079a25878d404df82f603357e9b0ae",
+        "crc32": "146cb7d3"
+      }
+    },
+    {
+      "filename": "Lost World, The - Jurassic Park (Europe) (En,Fr,De,Es,It,Nl,Sv) (EDC) (Track 2).bin",
+      "filesize": 456854832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92ee4eef88c2f12e92aafdd494ac98ff",
+        "sha1": "732afa4260160c06996ec4fbdfa85902166ac630",
+        "crc32": "7e4963ad"
+      }
+    },
+    {
+      "filename": "Lost World, The - Jurassic Park (Europe) (En,Fr,De,Es,It,Nl,Sv) (EDC) (Track 3).bin",
+      "filesize": 10936800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "67e2198ef6dc4c6c234ef791ee13bc8a",
+        "sha1": "ea3b156235b3554b5d522054f83c811a3fc3188e",
+        "crc32": "d786ed68"
+      }
+    }
+  ]
+}

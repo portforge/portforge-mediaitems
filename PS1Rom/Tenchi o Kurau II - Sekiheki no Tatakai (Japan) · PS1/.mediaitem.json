@@ -1,0 +1,437 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan).cue",
+      "filesize": 5946,
+      "ext": "cue",
+      "checksums": {
+        "md5": "292f5fe57519e02604c4bc01b2eba78f",
+        "sha1": "82257877c73681ef6a32450a6e1c489b82188fcb",
+        "crc32": "88795c47"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 01).bin",
+      "filesize": 14946960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fc29093788cb1d2678af5db17a81651d",
+        "sha1": "30300d8a0505faed911a5ce45194e3466cbd85c1",
+        "crc32": "3d43b139"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 02).bin",
+      "filesize": 14843472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b249312e578a392562708c7f913d3893",
+        "sha1": "18ea8c08f2c6f33b53864487e6deaf4375a507db",
+        "crc32": "73a4e9f0"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 03).bin",
+      "filesize": 37312128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4d25acd26e8397d6b62ba3b18ee2f5d",
+        "sha1": "2e82fe089e088ed4050fb1379a7ec3a6f3fa2bfd",
+        "crc32": "35277ad9"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 04).bin",
+      "filesize": 21765408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "069551e3fb1f8a3601f567cdca2d84ec",
+        "sha1": "b387c9b67f74f4840dba0795cba0d97a418fac5e",
+        "crc32": "b429d807"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 05).bin",
+      "filesize": 40955376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c31725d50d9977a05cee67f7286ad475",
+        "sha1": "0e6980096c48e88ba696166afba107fafcc62014",
+        "crc32": "b5c8ec2b"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 06).bin",
+      "filesize": 26930400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ddcab847836ced092ae39b243740eb5",
+        "sha1": "ec79f8d16173ff57b6c8f4dcad9526efd69d068d",
+        "crc32": "fd9112ba"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 07).bin",
+      "filesize": 33614784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e71f717ab8fa21fb6b6ebfea60ddda93",
+        "sha1": "1178f069710e4ffdc8d08830d9b861071a04c80e",
+        "crc32": "8dbf3e5b"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 08).bin",
+      "filesize": 23755200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "707d85f68a611ae1bcc7da8ea49233d0",
+        "sha1": "ef88f73d7f57b7716eec62d04a19757653fe0b0f",
+        "crc32": "01bae47b"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 09).bin",
+      "filesize": 30900576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebcab6a14cd01152c407fac23574947b",
+        "sha1": "b569ae1340b3d1a4948caf7789ddcf7dd2ee7154",
+        "crc32": "3e8a0cbb"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 10).bin",
+      "filesize": 37627296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cba0a0f7e5dd099c99818fd26d5bc836",
+        "sha1": "e95363baa5387404e8d996701ab195cc354a7c55",
+        "crc32": "3b8ca133"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 11).bin",
+      "filesize": 37116912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9b3af8efe692d300e854d3f666b4455",
+        "sha1": "c5a327688cff4ccb5e6fffdd8432ae6cbae98133",
+        "crc32": "2d8cb56e"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 12).bin",
+      "filesize": 41143536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5a603a23efe7803b8f25a2bf9f4740b",
+        "sha1": "a70e1aa8b125a2ea9415d8918a99e1965e59509b",
+        "crc32": "b9d22cd2"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 13).bin",
+      "filesize": 29811600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f61dfe8ced9be88099c95be8db55652",
+        "sha1": "0b3bdc1780f40199d80001fa6336fed01219312b",
+        "crc32": "f94cd067"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 14).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a766b3ae2351a2d02bf3a23de3108b80",
+        "sha1": "4580fa0c115894cbde16c7efd5e49e545302a150",
+        "crc32": "2c9e4dc8"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 15).bin",
+      "filesize": 46442592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "28c42c1d6c33877ff67990cea279f51f",
+        "sha1": "7d312cc412ab311c705fbd674e50993dc88621fa",
+        "crc32": "bf463470"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 16).bin",
+      "filesize": 47063520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc637b7944eab0fca36314617bd6d522",
+        "sha1": "b13a2faa6ba19145f3e0963cb6fade8864330fd1",
+        "crc32": "0ce6e1ff"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 17).bin",
+      "filesize": 4849824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17e51a80dc5c7a44f1ca28e9139c3b0e",
+        "sha1": "9e26b2a721a7e01d80835e293e8cd4d484dc773a",
+        "crc32": "1240196d"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 18).bin",
+      "filesize": 8603616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3589f012d41e53178c1f16c1bb7c1182",
+        "sha1": "8ef9cb02d3ba7c500ad2fe3364fd404d30e240c1",
+        "crc32": "7e718786"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 19).bin",
+      "filesize": 1465296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c58834dbc4356de2e3fba29ec168d32b",
+        "sha1": "d794edd1ef82a105b60eba9d99f3a9e7dea54e5e",
+        "crc32": "a39ce324"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 20).bin",
+      "filesize": 2836512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "89505f37174a163cdbd56cedbe6ed404",
+        "sha1": "e2731230fa581777d9a092c0a4801ac53d0058ed",
+        "crc32": "e24485e0"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 21).bin",
+      "filesize": 15182160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2da5c479cd000176f0249c7e521e9a86",
+        "sha1": "eed025b97d89df4b358508cb700ad9474df86d7b",
+        "crc32": "103a5723"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 22).bin",
+      "filesize": 3064656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dcbd45b4a3c3583a8f2f0ad27dcfa49f",
+        "sha1": "5b6e4af0b03f104beac70cb18764342491358479",
+        "crc32": "5e960aec"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 23).bin",
+      "filesize": 4809840,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2e29f984d5897612654ee625f31c26ea",
+        "sha1": "27842a16a35fece0c49afeec857cb30bc521dddd",
+        "crc32": "82908482"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 24).bin",
+      "filesize": 3984288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc3fb34e8c9ef5a4367093dc151b5de2",
+        "sha1": "126491e1d26c525762411db07dbc611342109695",
+        "crc32": "6ff7eeea"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 25).bin",
+      "filesize": 5788272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aca91a59aec4fd694eebb80448428708",
+        "sha1": "84fb85e57d93bcc413855f38af33641c117b10c2",
+        "crc32": "8ddddf9f"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 26).bin",
+      "filesize": 5063856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7128c4c1edf7b47a20ce14931355d7d1",
+        "sha1": "837448ca5666d830a4a2b7e65de65c08e556c313",
+        "crc32": "62c346a5"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 27).bin",
+      "filesize": 4374720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d71353567ebf349037b7e1a30c845646",
+        "sha1": "fa3f2beee19fc41512701f304f9a645f0a7177d2",
+        "crc32": "dafead22"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 28).bin",
+      "filesize": 10847424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18668e899737fa27c62fe71d07d7f867",
+        "sha1": "3efe5f0f1e9d5d683ce92cb5f8b75d8fa5ca3d5d",
+        "crc32": "dfdf5958"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 29).bin",
+      "filesize": 6773760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8694ff2dedd0001f8fc4da1ffe686b9e",
+        "sha1": "fcbde0aed3628fedafc84c87eb04ae9bf6295160",
+        "crc32": "90a79c6f"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 30).bin",
+      "filesize": 20408304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db2a994dfa289571451a4ea48a688238",
+        "sha1": "c37f030c8253472066998086d50cb303bbc7a0ec",
+        "crc32": "902f5bff"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 31).bin",
+      "filesize": 7634592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6168b7c390e1587388e99f942577c476",
+        "sha1": "c1fc30599b4c854db51af646a2856f49351e0cde",
+        "crc32": "6f6d7340"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 32).bin",
+      "filesize": 7415856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df649c8a56e012cb6a081332eab0eb58",
+        "sha1": "89a5e11f059a43008161d759a36cb4e8e57c6e6a",
+        "crc32": "4cc3d053"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 33).bin",
+      "filesize": 8596560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "becbe1aca207a146f46aadea18c525d8",
+        "sha1": "419c36414886190cfdbdb3de8c92e1c3b68b048a",
+        "crc32": "fab36ade"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 34).bin",
+      "filesize": 13192368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e32e5424c64131d351ea77b8de069b12",
+        "sha1": "b34c07426bd1ba0511dcd8b8c0776fe69302ac9b",
+        "crc32": "ecb73691"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 35).bin",
+      "filesize": 1183056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1e151c8db9f6194a5bdf7ce3a59355a",
+        "sha1": "a33d2759a09fffc1f9ce80d30160b65f10c45560",
+        "crc32": "bcf74ffb"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 36).bin",
+      "filesize": 15565536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f5bebafd00938e4fad8e6c8764648c3",
+        "sha1": "23bc667c11bd26a4d77b91bdf3ea4d461a8ddf1f",
+        "crc32": "311f177d"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 37).bin",
+      "filesize": 11381328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0c299b07cb9bb9bbf5655df4243af53",
+        "sha1": "0d0df0067db62653f3c6ace1635a1476b77908aa",
+        "crc32": "c63ec746"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 38).bin",
+      "filesize": 4341792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9d8f0322661a7450f42298714322e047",
+        "sha1": "58004786de389f879c94fb9d299dfd9292243b9f",
+        "crc32": "06127c35"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 39).bin",
+      "filesize": 17985744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1210f7607846573534abe6aa4b33a573",
+        "sha1": "53934c317e6f95d0427e8202d8b4f3b698f39f24",
+        "crc32": "835ace96"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 40).bin",
+      "filesize": 5089728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3610ae272aae3242c24e068a506692fc",
+        "sha1": "c61a6eb58bd3c556ba705549fd14af316e103406",
+        "crc32": "4ab6f25b"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 41).bin",
+      "filesize": 31937808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25b54eb2170f6563c176d243d7e8c8ac",
+        "sha1": "c1c4f4a0917ac98c4f05c1892109435320ccaa9a",
+        "crc32": "6978f8ca"
+      }
+    },
+    {
+      "filename": "Tenchi o Kurau II - Sekiheki no Tatakai (Japan) (Track 42).bin",
+      "filesize": 1764000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3078714f29b09408fbf800f7a2ce03d0",
+        "sha1": "923937048d6b3fe908cbe4115a099a3b7a195d0b",
+        "crc32": "e7887563"
+      }
+    }
+  ]
+}

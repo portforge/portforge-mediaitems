@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Motor Toon Grand Prix 2 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Motor Toon Grand Prix 2 (Europe).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d11da041c1973b6ea4ff75dd19e16480",
+        "sha1": "9b2a71f46c32f334534031434cbf19049e830948",
+        "crc32": "24910efd"
+      }
+    },
+    {
+      "filename": "Motor Toon Grand Prix 2 (Europe).bin",
+      "filesize": 569216928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b33bff38d5317b619eeeb9009342ea6",
+        "sha1": "6041a9ed508335535f70022e8dc5cc8b7f92d8cf",
+        "crc32": "856d934e"
+      }
+    }
+  ]
+}

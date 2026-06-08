@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pet in TV (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pet in TV (France).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e0cfa877296da75c9c045fc8779d3997",
+        "sha1": "ea46174564ef07ff35c76d27e25846adb1b10bc9",
+        "crc32": "1a3efe27"
+      }
+    },
+    {
+      "filename": "Pet in TV (France).bin",
+      "filesize": 151301808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "289e5d2e1fbefa29c41fb9fc82df0c93",
+        "sha1": "bfe8e78d742a977b869290597e46e44e1d4d0a15",
+        "crc32": "18423496"
+      }
+    }
+  ]
+}

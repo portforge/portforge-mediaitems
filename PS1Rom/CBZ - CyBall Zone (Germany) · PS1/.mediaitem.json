@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CBZ - CyBall Zone (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CBZ - CyBall Zone (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "366a17e7d35df087b660e6eb6390b747",
+        "sha1": "9e613c7df9b3167f7b2ff5e6b14d2df3fe75eb20",
+        "crc32": "7e4f7613"
+      }
+    },
+    {
+      "filename": "CBZ - CyBall Zone (Germany).bin",
+      "filesize": 372911952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1a620a287a97417e0b22b534c2839b75",
+        "sha1": "b0adc9d4c6970bcbd87d53d6a931bf8140e1ca22",
+        "crc32": "422c87ed"
+      }
+    }
+  ]
+}

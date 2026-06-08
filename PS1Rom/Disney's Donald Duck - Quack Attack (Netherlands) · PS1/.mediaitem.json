@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Donald Duck - Quack Attack (Netherlands)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Donald Duck - Quack Attack (Netherlands).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5bd92bcc2fe5063ce983747d85b8c910",
+        "sha1": "1a9b57c43e636adec523505f5b9f508bbf85b15e",
+        "crc32": "94beb958"
+      }
+    },
+    {
+      "filename": "Disney's Donald Duck - Quack Attack (Netherlands).bin",
+      "filesize": 654806208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e4478f0b46de053c4046fe29975452c",
+        "sha1": "1a15248b085761dacd413ebddda6cd50580edb37",
+        "crc32": "464d38e6"
+      }
+    }
+  ]
+}

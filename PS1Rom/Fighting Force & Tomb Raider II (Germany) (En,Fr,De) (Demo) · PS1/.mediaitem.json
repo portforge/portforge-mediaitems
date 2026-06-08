@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo).cue",
+      "filesize": 1206,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ea864efb64195274d05ed20ecc1a5d41",
+        "sha1": "c4ce11827e1a086436c8e34f44853931528c8ca8",
+        "crc32": "583e51f8"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 1).bin",
+      "filesize": 105635376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31439dc2d133f40bc1e4bec57adff3bc",
+        "sha1": "a2d3a9c6b5377cc1f2e21a3313d7138173bcd6e2",
+        "crc32": "eab65988"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 2).bin",
+      "filesize": 29745744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cbe8e549b5f7673d247f8dbe63cebabb",
+        "sha1": "de47fa5bdc6679b3d2c46344297c7f81618b0913",
+        "crc32": "977cdb5e"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 3).bin",
+      "filesize": 22144080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57d0208500c752223c29851974c972fd",
+        "sha1": "90c6677d01bfdfd38eb0a2a274fe99cd741ca7db",
+        "crc32": "ea5b2f07"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 4).bin",
+      "filesize": 26194224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4c6504d7f589286eb6c4d382905acb81",
+        "sha1": "f11800492b056e6d4d4a8032f3aee2e4db91fe13",
+        "crc32": "7ac6fe98"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 5).bin",
+      "filesize": 23684640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05f9d97a96ad1c1b3cda63fa2ab23c9b",
+        "sha1": "3ba0cc5b40a4d3cd321ecbc76b8dff1f982848e8",
+        "crc32": "981b790a"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 6).bin",
+      "filesize": 30961728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e587b2e51737084e9639c958f8d7e86b",
+        "sha1": "b22558b9be82811c41e27f2a347b4b9098d4e54e",
+        "crc32": "469b7e1c"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 7).bin",
+      "filesize": 34508544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "436d2d7e18e660c26837e6c07ed01364",
+        "sha1": "2ab8e638bebc399698dd5ae10145be2ba1b5c9f6",
+        "crc32": "6c54dcb3"
+      }
+    },
+    {
+      "filename": "Fighting Force & Tomb Raider II (Germany) (En,Fr,De) (Demo) (Track 8).bin",
+      "filesize": 53272800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e0780125290c5f1c615bed12e03e066",
+        "sha1": "037d1a3d7a4af7465f3a5c8f3492b80aae63ab96",
+        "crc32": "9d741f5e"
+      }
+    }
+  ]
+}

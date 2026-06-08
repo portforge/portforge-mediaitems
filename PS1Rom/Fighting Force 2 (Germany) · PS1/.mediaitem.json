@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Force 2 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Force 2 (Germany).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41b928f710e5c6f9c17b3945197b341e",
+        "sha1": "702ffdeb0d87a7be11ee778cd4ef5d835e6fe772",
+        "crc32": "fddb64c3"
+      }
+    },
+    {
+      "filename": "Fighting Force 2 (Germany) (Track 1).bin",
+      "filesize": 377594784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f9400a40c19419857a6be510c8e60ecd",
+        "sha1": "4b61464d6bcc573e41c0c672a84bc71b55779b70",
+        "crc32": "24cea9ac"
+      }
+    },
+    {
+      "filename": "Fighting Force 2 (Germany) (Track 2).bin",
+      "filesize": 32991504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54cc0c4cdce2d4f7bd4016bb3907e92d",
+        "sha1": "b4c7b981b796de3178b421b31d768b486fb18423",
+        "crc32": "b26b6f63"
+      }
+    }
+  ]
+}

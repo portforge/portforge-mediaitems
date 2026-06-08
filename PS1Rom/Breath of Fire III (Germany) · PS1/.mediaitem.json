@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Breath of Fire III (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Breath of Fire III (Germany).cue",
+      "filesize": 226,
+      "ext": "cue",
+      "checksums": {
+        "md5": "450fdc7035eab332aad7f3791210c3ad",
+        "sha1": "d8974d6bdb3536f803a8f2419398c939ac2cd088",
+        "crc32": "fe2b016a"
+      }
+    },
+    {
+      "filename": "Breath of Fire III (Germany) (Track 1).bin",
+      "filesize": 442862784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d6ba6a9f1fb13c69a51ece086a1cb42",
+        "sha1": "3cbb6d99dc29c9ad039aca04c6c47f9fc713b0b3",
+        "crc32": "6d3536ac"
+      }
+    },
+    {
+      "filename": "Breath of Fire III (Germany) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

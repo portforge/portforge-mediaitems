@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (USA) (Disc 1).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f3d4fabe88d4af28b71b4fd055564e49",
+        "sha1": "260325135311245fb6580da57a2560d204ac278f",
+        "crc32": "86d716de"
+      }
+    },
+    {
+      "filename": "Galerians (USA) (Disc 1).bin",
+      "filesize": 695399376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "217885a22fbb0f3092f8405ce42419ea",
+        "sha1": "f69e7299e5cea91a74e1e4c9893e6781d1227d1d",
+        "crc32": "7455948e"
+      }
+    }
+  ]
+}

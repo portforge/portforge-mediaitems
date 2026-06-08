@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shiki Oriori no Bass Tsuri (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shiki Oriori no Bass Tsuri (Japan).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8b120238b7dd1fd86bc590342ead322",
+        "sha1": "704ecc9010815e8b6a8e644f9153b69aa04a356f",
+        "crc32": "2a998c51"
+      }
+    },
+    {
+      "filename": "Shiki Oriori no Bass Tsuri (Japan) (Track 1).bin",
+      "filesize": 18289152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e95af7361b11b5482f9b0cbb29c425de",
+        "sha1": "4fb7287603da9e1f6b70611cbf196f10798cfda9",
+        "crc32": "1c046234"
+      }
+    },
+    {
+      "filename": "Shiki Oriori no Bass Tsuri (Japan) (Track 2).bin",
+      "filesize": 44481024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "000eea1c4ac7b16f7ea2fc1291bbbb4d",
+        "sha1": "2ccf63b7faae438b25cd64ec8df0754a2a55cd17",
+        "crc32": "0df3fb8b"
+      }
+    }
+  ]
+}

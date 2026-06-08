@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Muppet RaceMania (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Muppet RaceMania (Italy).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6af5958aba39a1aac2fb8d916bc2c1fc",
+        "sha1": "a093986a4f988ca28c78b894d142deee63c80234",
+        "crc32": "cb1c8cdc"
+      }
+    },
+    {
+      "filename": "Muppet RaceMania (Italy).bin",
+      "filesize": 506620800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1a1b1867c7baa067455eb3a746bf681",
+        "sha1": "c36f04ebbfc7373c64207203869fc7ceaafe95d2",
+        "crc32": "938b4791"
+      }
+    }
+  ]
+}

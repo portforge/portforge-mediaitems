@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Perfect Golf 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Perfect Golf 2 (Japan).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "20c42b30bba879fc72cc06f95906be7d",
+        "sha1": "c795614ac4957135e273e0bdf936b3e06d194ab6",
+        "crc32": "b03da924"
+      }
+    },
+    {
+      "filename": "Perfect Golf 2 (Japan).bin",
+      "filesize": 548023056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "601689976a880f4af8647e0c96892b92",
+        "sha1": "3d50df926d8cace4f82ecf2890b277350d92fa7b",
+        "crc32": "141e75ed"
+      }
+    }
+  ]
+}

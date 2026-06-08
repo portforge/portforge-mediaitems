@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BallBlazer Champions (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BallBlazer Champions (Japan).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "47f8d8caa5990567bf2d96ea6cd712ec",
+        "sha1": "8ead4cd8d8ea7439d6240ea11bd1e16435e9a3a4",
+        "crc32": "5b0b73fb"
+      }
+    },
+    {
+      "filename": "BallBlazer Champions (Japan).bin",
+      "filesize": 446971728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5996fc9391ddd0b21c1875eb9284e3f8",
+        "sha1": "49a9b8109c8d1f8d4e14536dbfff76a46dfbaa0a",
+        "crc32": "2d17192e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gallop Racer 2000 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gallop Racer 2000 (Japan).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a5090837601e056abfa5dbfc6fc8500e",
+        "sha1": "e0f3a1a7d3ceabe3ef95aa8df0718c2b616aa8ea",
+        "crc32": "b86b03b1"
+      }
+    },
+    {
+      "filename": "Gallop Racer 2000 (Japan) (Track 1).bin",
+      "filesize": 330122016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ba0d45994870fd97442153eb6684b4db",
+        "sha1": "820f38d0a1129efaeb28263722782b92995085db",
+        "crc32": "74ee90a8"
+      }
+    },
+    {
+      "filename": "Gallop Racer 2000 (Japan) (Track 2).bin",
+      "filesize": 40797792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47c3964061188871b86c9cec1421af9e",
+        "sha1": "0d4fc20f0b073cb1cf1675bf93e6a70595072608",
+        "crc32": "b4006ec2"
+      }
+    }
+  ]
+}

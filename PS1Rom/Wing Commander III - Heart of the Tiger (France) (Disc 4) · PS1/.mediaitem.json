@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wing Commander III - Heart of the Tiger (France) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wing Commander III - Heart of the Tiger (France) (Disc 4).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f9fd39096707d487dc36518b64f9b797",
+        "sha1": "e34bc8a2993df47b0a2d01c53cc8e6695b8b11d7",
+        "crc32": "f839812e"
+      }
+    },
+    {
+      "filename": "Wing Commander III - Heart of the Tiger (France) (Disc 4).bin",
+      "filesize": 728948304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c8b652b41cd2d3955ab3f60b81159cb",
+        "sha1": "31f6b666b1e16b43a859e18980a4b110e9c7465b",
+        "crc32": "53028ea9"
+      }
+    }
+  ]
+}

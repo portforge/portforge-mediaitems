@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Paca Paca Passion Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Paca Paca Passion Special (Japan).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a797fc981cf4cdf5fbe0d2dfe73036af",
+        "sha1": "8ea9a5fa72893283ade9c26daea51d6dc59a6d4f",
+        "crc32": "9fa77a7a"
+      }
+    },
+    {
+      "filename": "Paca Paca Passion Special (Japan).bin",
+      "filesize": 265105680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93135a4d6ec4a4385572b1824c234558",
+        "sha1": "a74e11eabc5c1f680a5d635e4f5e45fb3bdfc8c3",
+        "crc32": "5b548c06"
+      }
+    }
+  ]
+}

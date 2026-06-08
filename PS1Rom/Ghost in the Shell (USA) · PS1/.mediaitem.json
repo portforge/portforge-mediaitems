@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ghost in the Shell (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ghost in the Shell (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67bedcfd1d9b78021a721eb1acb49b55",
+        "sha1": "f393120ac09cfe95cf48216ffce42999ad37af98",
+        "crc32": "de91befa"
+      }
+    },
+    {
+      "filename": "Ghost in the Shell (USA).bin",
+      "filesize": 655683504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6926d77ff2737521a132ead8ab1cc844",
+        "sha1": "a5739b656d1d593e85931f1593935f9a528b9b3a",
+        "crc32": "90af3ca7"
+      }
+    }
+  ]
+}

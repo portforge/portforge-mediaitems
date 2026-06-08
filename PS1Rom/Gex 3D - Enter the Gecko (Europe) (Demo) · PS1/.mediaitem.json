@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gex 3D - Enter the Gecko (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gex 3D - Enter the Gecko (Europe) (Demo).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0d64a4dbcea9c1ec0098c826e2a23bea",
+        "sha1": "44c89c4416f97c5e81ba43b805a1d3cbd694efdb",
+        "crc32": "62519e5f"
+      }
+    },
+    {
+      "filename": "Gex 3D - Enter the Gecko (Europe) (Demo).bin",
+      "filesize": 60989712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c389623f50a1d9931064eadaf7b9d85",
+        "sha1": "fb3c75b0ff6b5cddeba88c11b25cd8527e5af194",
+        "crc32": "f0162f1f"
+      }
+    }
+  ]
+}

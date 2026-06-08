@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Marby Baby Story (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Marby Baby Story (Japan).cue",
+      "filesize": 926,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb8b74f12fc4584f52234c4b16c3e11f",
+        "sha1": "9934bbc37148803652ac83b90ec4f2f548ddf55d",
+        "crc32": "9669641c"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 1).bin",
+      "filesize": 148738128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5b58705aa47c23842dad624c48f12417",
+        "sha1": "939f17576f114973e9ab5ee810142e94a9d0bc60",
+        "crc32": "2fa401dc"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 2).bin",
+      "filesize": 6305712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "306447eebec983d2ce65d98a67cb2a85",
+        "sha1": "a1b3a39a1038bf9de3a09b7964c8874259b3fd46",
+        "crc32": "a15fe9ce"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 3).bin",
+      "filesize": 41080032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "063f1b56243b3c7b45464c13f8313cf4",
+        "sha1": "efd68745c5da1d7823e1749c7373d3e1ccc026bb",
+        "crc32": "14a67d87"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 4).bin",
+      "filesize": 35143584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3a5ea609a88c681e3d0a9f9e5c4bd2b",
+        "sha1": "1a655914d86318c0e60edd77a8b73e7b410b0127",
+        "crc32": "9e3c6c65"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 5).bin",
+      "filesize": 39341904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64e9cc5780bdd6bedd168d51efa461a7",
+        "sha1": "14d294c8167e2573ee7e886e586cca7c7f5c9abf",
+        "crc32": "7c74371c"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 6).bin",
+      "filesize": 34485024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2da861f584ad71727539f3bd413dd59b",
+        "sha1": "b71c78a6fdac10dbb579d4efbb5b36ff2e990e63",
+        "crc32": "fef69af0"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 7).bin",
+      "filesize": 14128464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "af32385c3e59cd29b72e916bd94367af",
+        "sha1": "0aef5e65ec30b7502c8f5a73d87c357c4c5e9ac4",
+        "crc32": "ea79e78f"
+      }
+    },
+    {
+      "filename": "Marby Baby Story (Japan) (Track 8).bin",
+      "filesize": 34485024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2da861f584ad71727539f3bd413dd59b",
+        "sha1": "b71c78a6fdac10dbb579d4efbb5b36ff2e990e63",
+        "crc32": "fef69af0"
+      }
+    }
+  ]
+}

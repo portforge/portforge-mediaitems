@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Treasures of the Deep (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Treasures of the Deep (France).cue",
+      "filesize": 354,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c5cc092da5a2d523e7ab9ef0f6fe2c71",
+        "sha1": "49600eb9b578f58c8857ee21ff9671c30d5c09f3",
+        "crc32": "08f40b66"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (France) (Track 1).bin",
+      "filesize": 451337040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "93e869c0bb430b6528c071afb59bd4c6",
+        "sha1": "9f995685706f81737dfacfad83decf4116f23c1b",
+        "crc32": "a5db48f0"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (France) (Track 2).bin",
+      "filesize": 27118560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db49061ad2aae6acda9245657d24b65d",
+        "sha1": "1c374632413634a0d7f5a18e05ca2b498983c5c7",
+        "crc32": "430df303"
+      }
+    },
+    {
+      "filename": "Treasures of the Deep (France) (Track 3).bin",
+      "filesize": 20709360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66b809bae4f4a8c1045e201d49d6dc2b",
+        "sha1": "4713fb95cf70216b0da545a93993d5ad3c9ab7bb",
+        "crc32": "a1defd07"
+      }
+    }
+  ]
+}

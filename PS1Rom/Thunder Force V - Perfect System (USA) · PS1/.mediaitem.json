@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Thunder Force V - Perfect System (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Thunder Force V - Perfect System (USA).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "52902aa0ee4afa411475f44ca2fa530a",
+        "sha1": "e588056ccfedc9b85b83763f0c9bb63cf32667af",
+        "crc32": "282ad4d5"
+      }
+    },
+    {
+      "filename": "Thunder Force V - Perfect System (USA).bin",
+      "filesize": 594275136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8bce4f9f7ca0d5e29f1df1fac1751bb4",
+        "sha1": "496b432b63277613412d835dca7b0150181f557a",
+        "crc32": "878f2211"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Asteroids (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Asteroids (Japan).cue",
+      "filesize": 257,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3539643aad29b381bf7aabf3f05728b4",
+        "sha1": "51bb6cc9283dfefb895fa64f0c50f41bb56af600",
+        "crc32": "e3da89d5"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Asteroids (Japan) (Track 1).bin",
+      "filesize": 120349488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b4fe8471da9ee0d5f8b50ecc587500c4",
+        "sha1": "892fd09d8ca7e2fc5833954c7af6c9cd45097e60",
+        "crc32": "837cff54"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Asteroids (Japan) (Track 2).bin",
+      "filesize": 49330848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c671d2af0e8df5ab8a4b25a19e988589",
+        "sha1": "bd7a68bb32edb2cb05de4e0e38c1665e43898b26",
+        "crc32": "18538a6e"
+      }
+    }
+  ]
+}

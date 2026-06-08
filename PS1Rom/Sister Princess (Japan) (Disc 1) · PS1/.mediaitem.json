@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sister Princess (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sister Princess (Japan) (Disc 1).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "845ed8e92cf86b061f870ef822a61750",
+        "sha1": "9c17f87bf3f43bbd6a820ecba9b69a974b29cc41",
+        "crc32": "296e31cb"
+      }
+    },
+    {
+      "filename": "Sister Princess (Japan) (Disc 1).bin",
+      "filesize": 672933072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0efe1a833da43b0c9be3a6e7c8c1e30",
+        "sha1": "ec27d33cd275f6bda2b9c01e99622f815dcf4545",
+        "crc32": "aa5a5cb5"
+      }
+    }
+  ]
+}

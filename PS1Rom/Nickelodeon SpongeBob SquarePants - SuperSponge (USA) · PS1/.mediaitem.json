@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nickelodeon SpongeBob SquarePants - SuperSponge (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nickelodeon SpongeBob SquarePants - SuperSponge (USA).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5bd9f6529f644ec6feedfe415c510e9d",
+        "sha1": "52cadd06b56e2b3a7999ef44d7b97d04b5909540",
+        "crc32": "7254674b"
+      }
+    },
+    {
+      "filename": "Nickelodeon SpongeBob SquarePants - SuperSponge (USA).bin",
+      "filesize": 205804704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "adcfd5205854381a4d64a5b3f4a7e349",
+        "sha1": "bae52e653ffee0008b063b04e73c824726f870b8",
+        "crc32": "f1b4e9a3"
+      }
+    }
+  ]
+}

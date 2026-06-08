@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Michelin Rally Masters - Race of Champions (USA) (En,Fr,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Michelin Rally Masters - Race of Champions (USA) (En,Fr,Es).cue",
+      "filesize": 288,
+      "ext": "cue",
+      "checksums": {
+        "md5": "62dbc48bcea602cf01426069108fb2eb",
+        "sha1": "56f1749a338402e2354d71cfdca882c2cd67f946",
+        "crc32": "f5d68445"
+      }
+    },
+    {
+      "filename": "Michelin Rally Masters - Race of Champions (USA) (En,Fr,Es) (Track 1).bin",
+      "filesize": 711061344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "48d3552bd5072814a3a7cc6d609e6b49",
+        "sha1": "81dde03a361edf4257ad92939a67248f08be4e32",
+        "crc32": "5877db21"
+      }
+    },
+    {
+      "filename": "Michelin Rally Masters - Race of Champions (USA) (En,Fr,Es) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b67bfdde80dab8e7f88bf8bbacb314fe",
+        "sha1": "c56c260f0030caa96f1eb7ab4cbb2c450a5aafbf",
+        "crc32": "1d48da20"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dancing Stage featuring Dreams Come True (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dancing Stage featuring Dreams Come True (Japan).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "06460f98ff3fc56ce8eb0423f5c3072a",
+        "sha1": "3dee1dfacd7a4480ba88aed011860ee3d0a89dd9",
+        "crc32": "fb6c8dda"
+      }
+    },
+    {
+      "filename": "Dancing Stage featuring Dreams Come True (Japan).bin",
+      "filesize": 147769104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64d5ab1399293b361b6f7bccedd886aa",
+        "sha1": "26599050df40ed42b5120ea5071afb89efcd456a",
+        "crc32": "53083874"
+      }
+    }
+  ]
+}

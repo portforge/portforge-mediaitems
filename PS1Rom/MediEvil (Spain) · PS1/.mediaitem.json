@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MediEvil (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MediEvil (Spain).cue",
+      "filesize": 202,
+      "ext": "cue",
+      "checksums": {
+        "md5": "92e965c6ed66aca4b8c1dfc9fd698ba8",
+        "sha1": "6ad813c79c70f93ee6ab7c1069de3b9e20a36a87",
+        "crc32": "3d1fd7f8"
+      }
+    },
+    {
+      "filename": "MediEvil (Spain) (Track 1).bin",
+      "filesize": 530550048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b0e7ececa92577ba2d775f7727c4adc",
+        "sha1": "3dcc1ff1a84baa6a80f08ae17e8562e2b6f216f7",
+        "crc32": "1dabd667"
+      }
+    },
+    {
+      "filename": "MediEvil (Spain) (Track 2).bin",
+      "filesize": 32989152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cb1f07b42251cec83cc9c004ac12e23",
+        "sha1": "14c0c0c0b67e8f839e06aeb51a939daefc03688b",
+        "crc32": "b97ffd28"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NCAA Football 2001 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NCAA Football 2001 (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c9e86e1507341e5fd5b5fac5ef242c16",
+        "sha1": "e05f29e18bb680ce1d035e985ebd9537dfe0097b",
+        "crc32": "0aaa487b"
+      }
+    },
+    {
+      "filename": "NCAA Football 2001 (USA).bin",
+      "filesize": 747430320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8ce4831cb07ed0a086c1f8c64d24a511",
+        "sha1": "0980c2f8135750ada797dd363406032b37c051d1",
+        "crc32": "0f40b583"
+      }
+    }
+  ]
+}

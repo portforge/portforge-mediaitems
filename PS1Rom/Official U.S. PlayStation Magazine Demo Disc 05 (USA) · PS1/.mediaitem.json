@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Official U.S. PlayStation Magazine Demo Disc 05 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 05 (USA).cue",
+      "filesize": 570,
+      "ext": "cue",
+      "checksums": {
+        "md5": "530c95ffb1249c56f67e4157f74748d8",
+        "sha1": "ab93a1924ea69e89ea39d6cc5bee14c27757cd18",
+        "crc32": "284f0380"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 05 (USA) (Track 1).bin",
+      "filesize": 234612000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3191d31187c57140048dda78a1ae5758",
+        "sha1": "e2e1168ccbc54e4d50593c683dd94fc987244f8c",
+        "crc32": "00f31b04"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 05 (USA) (Track 2).bin",
+      "filesize": 26826912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde70d4c7d91d12de66420acb1b8f27d",
+        "sha1": "ea44fcd76443f714993a758850254f2332efee38",
+        "crc32": "5f16ff59"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 05 (USA) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    },
+    {
+      "filename": "Official U.S. PlayStation Magazine Demo Disc 05 (USA) (Track 4).bin",
+      "filesize": 20782272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b82a53b9aa3f0c80ae3d797317060829",
+        "sha1": "55ac5dba712753a134d57ece70eb845f5a6eac2a",
+        "crc32": "95e149f4"
+      }
+    }
+  ]
+}

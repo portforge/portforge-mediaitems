@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Titan Wars (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Titan Wars (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b821add684de060f0c126be4827a2ce",
+        "sha1": "42296ff690a810cfa80d7c9dd55d83884abd9de2",
+        "crc32": "438bc550"
+      }
+    },
+    {
+      "filename": "Titan Wars (Europe).bin",
+      "filesize": 682145856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "590e9a06854cace3cafab6563efc94de",
+        "sha1": "cebe4d88736ebc863ada3bdaa57b5aeefa68e629",
+        "crc32": "cfb73f4e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Startling Adventures - Kuusou 3x Daibouken (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Startling Adventures - Kuusou 3x Daibouken (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "723bdc3db5b06cb956a2522aa07c7bc7",
+        "sha1": "7958e31a34fcdeb00674f0f08b36a37d4e73d18c",
+        "crc32": "99078611"
+      }
+    },
+    {
+      "filename": "Startling Adventures - Kuusou 3x Daibouken (Japan).bin",
+      "filesize": 551591040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4289e76b06be9bc32bf8d6688bb85e2c",
+        "sha1": "fc314e4c4db2ca05f3df6ca383f26ea4a55e1c6d",
+        "crc32": "45a1663c"
+      }
+    }
+  ]
+}

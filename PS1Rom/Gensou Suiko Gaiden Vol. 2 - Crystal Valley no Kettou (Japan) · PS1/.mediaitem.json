@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gensou Suiko Gaiden Vol. 2 - Crystal Valley no Kettou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gensou Suiko Gaiden Vol. 2 - Crystal Valley no Kettou (Japan).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ab7dd83c01fcecebb501e2d2e77b8d5e",
+        "sha1": "61a2ff96d91b5dd325ab236902c431f62e6038bb",
+        "crc32": "3a6f133a"
+      }
+    },
+    {
+      "filename": "Gensou Suiko Gaiden Vol. 2 - Crystal Valley no Kettou (Japan).bin",
+      "filesize": 458830512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42649c8b52bb2aa28def0c51b36c6397",
+        "sha1": "da01346d921dd711c01593394bacd1c1697d62c4",
+        "crc32": "f11b6f29"
+      }
+    }
+  ]
+}

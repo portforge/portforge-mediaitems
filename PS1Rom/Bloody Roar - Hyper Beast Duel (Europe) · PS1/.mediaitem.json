@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bloody Roar - Hyper Beast Duel (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bloody Roar - Hyper Beast Duel (Europe).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8373c7f048ab6fc3d2ca9ba1544c66cf",
+        "sha1": "3d3b6cc29cef28759589f57852d055dc6b9b649a",
+        "crc32": "091de6fa"
+      }
+    },
+    {
+      "filename": "Bloody Roar - Hyper Beast Duel (Europe) (Track 1).bin",
+      "filesize": 586177200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fa5dae5e024c00229b7982653e79d81",
+        "sha1": "4ee0b953cf05f1659a6f5f29716398cbe363b6df",
+        "crc32": "99ece2b7"
+      }
+    },
+    {
+      "filename": "Bloody Roar - Hyper Beast Duel (Europe) (Track 2).bin",
+      "filesize": 21325584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "342186a92a6d67c4ddc700b2beeddade",
+        "sha1": "4cc9d11856ce209414a1a663105a29f1f6d9871e",
+        "crc32": "421688d5"
+      }
+    }
+  ]
+}

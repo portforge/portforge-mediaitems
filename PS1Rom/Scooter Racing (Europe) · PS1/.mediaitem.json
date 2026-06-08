@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Scooter Racing (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Scooter Racing (Europe).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5614e3f3f13cd222da9851227446dedb",
+        "sha1": "cca134155e53f8eee30e6c7cc2763552ef9ceb2b",
+        "crc32": "d8fefd0d"
+      }
+    },
+    {
+      "filename": "Scooter Racing (Europe).bin",
+      "filesize": 136778208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2c7a50ddbb6fafe6ceaa028376559b7",
+        "sha1": "401e11dd9ba2b6d17111051880909ce73ff306a0",
+        "crc32": "ebf6795d"
+      }
+    }
+  ]
+}

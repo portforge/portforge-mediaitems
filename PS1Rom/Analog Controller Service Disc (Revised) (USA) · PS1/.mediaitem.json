@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Analog Controller Service Disc (Revised) (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Analog Controller Service Disc (Revised) (USA).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cdbdf02921cd89ed791272563ab8c2d",
+        "sha1": "2f2400798fa7ef4b5af85e8ec68257126cdb4e29",
+        "crc32": "d7641f30"
+      }
+    },
+    {
+      "filename": "Analog Controller Service Disc (Revised) (USA).bin",
+      "filesize": 16628640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "224a4f3973e165b2ff6762a1ef6e4ef1",
+        "sha1": "07c297474702d60b25a56509c03ab977311e8d56",
+        "crc32": "6e9fa614"
+      }
+    }
+  ]
+}

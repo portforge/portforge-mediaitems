@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula 2 - El Ultimo Santuario (Spain) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula 2 - El Ultimo Santuario (Spain) (Disc 2).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "73c26d186a5d2525ae8826f109668eea",
+        "sha1": "9f1de46fa4d52d8abbc608c8f531d88e9c265640",
+        "crc32": "4d96ddf8"
+      }
+    },
+    {
+      "filename": "Dracula 2 - El Ultimo Santuario (Spain) (Disc 2).bin",
+      "filesize": 565933536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f946c1cc767ad1c00dff9253b184fd19",
+        "sha1": "6de29740a434b5a6fd276570fe9a5398197ed8b7",
+        "crc32": "6cd47b98"
+      }
+    }
+  ]
+}

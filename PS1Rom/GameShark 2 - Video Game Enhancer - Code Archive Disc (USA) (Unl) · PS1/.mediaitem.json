@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (Unl).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ff6db3af8a8ef0ed17a1f08f2ed4fe8e",
+        "sha1": "dd13cd14394b8f4a23b0560abc30ea17d03c043e",
+        "crc32": "79fa8885"
+      }
+    },
+    {
+      "filename": "GameShark 2 - Video Game Enhancer - Code Archive Disc (USA) (Unl).bin",
+      "filesize": 359105712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61c077d2382ce16e80905532a5466f2c",
+        "sha1": "1c103a177a7894e0eca1b9d6566774c81990499b",
+        "crc32": "1eb7169f"
+      }
+    }
+  ]
+}

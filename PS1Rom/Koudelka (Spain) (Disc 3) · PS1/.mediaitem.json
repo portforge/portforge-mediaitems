@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Koudelka (Spain) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Koudelka (Spain) (Disc 3).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5fc8aed16363ec01d8293fadef92164f",
+        "sha1": "d0e5e9b9cad11b3e4ba858840f816ea9c5f70efc",
+        "crc32": "78a876d5"
+      }
+    },
+    {
+      "filename": "Koudelka (Spain) (Disc 3).bin",
+      "filesize": 680666448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f67254f02b0e917b460e0b89c76484fa",
+        "sha1": "025b8e4bdfdba32979ef1d01e7b135d1e1146bf8",
+        "crc32": "a9c3af56"
+      }
+    }
+  ]
+}

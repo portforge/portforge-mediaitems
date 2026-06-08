@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hugo - Black Diamond Fever (Europe) (Fr,De,Nl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hugo - Black Diamond Fever (Europe) (Fr,De,Nl).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "37c0943fdac184a7b1f65230181c88ee",
+        "sha1": "78dbd6ec4a2399037ba4d500739d26a70c606240",
+        "crc32": "4b614b6f"
+      }
+    },
+    {
+      "filename": "Hugo - Black Diamond Fever (Europe) (Fr,De,Nl).bin",
+      "filesize": 578422656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7792813b71dbb9226ee6f7857161ccc4",
+        "sha1": "83e7d0c7f4a9865143cd97e709ef5346a8254976",
+        "crc32": "52969eda"
+      }
+    }
+  ]
+}

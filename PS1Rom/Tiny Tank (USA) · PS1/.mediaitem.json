@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Tank (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Tank (USA).cue",
+      "filesize": 200,
+      "ext": "cue",
+      "checksums": {
+        "md5": "33d7af2271c0c03b1e90a9116dd3535c",
+        "sha1": "8185a77cafd96f348b8bfa7f952e48bd8e812cd9",
+        "crc32": "7592fd65"
+      }
+    },
+    {
+      "filename": "Tiny Tank (USA) (Track 1).bin",
+      "filesize": 711397680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e4fdedd21008422bac6aa0289e322678",
+        "sha1": "42fdf17a05d6eb7280a3b0877d46923b0133209f",
+        "crc32": "633ed616"
+      }
+    },
+    {
+      "filename": "Tiny Tank (USA) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

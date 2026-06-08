@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "One (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "One (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 597,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4879365292a31d9e67888334f80a3bbb",
+        "sha1": "74abc7f9eb9bff9f9cd7daee42bc2192b64974c8",
+        "crc32": "64dbcc34"
+      }
+    },
+    {
+      "filename": "One (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 62694912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c4dd2db1ad483280d7b33ddfe9269c3",
+        "sha1": "afdc9ee5349a6d143a80173986c554b85d01fff4",
+        "crc32": "3cd46547"
+      }
+    },
+    {
+      "filename": "One (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 9231600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3ccd54fff0af239e56b2e09d5825d09",
+        "sha1": "cac5cdc8d59749effd57309bde688d9064545027",
+        "crc32": "d2357943"
+      }
+    },
+    {
+      "filename": "One (Europe) (En,Fr,De,Es,It) (Track 3).bin",
+      "filesize": 21163296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c10625b904349b27c881b6399cfcfb36",
+        "sha1": "e430976456c222988178c4b11b387f9d50116d15",
+        "crc32": "342de7c1"
+      }
+    },
+    {
+      "filename": "One (Europe) (En,Fr,De,Es,It) (Track 4).bin",
+      "filesize": 5788272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ebede7e6e984ffdf5f4055e2034072c3",
+        "sha1": "4c88b2e3e5956c7052ef2a0091ab1fba4ca50be5",
+        "crc32": "0095b346"
+      }
+    },
+    {
+      "filename": "One (Europe) (En,Fr,De,Es,It) (Track 5).bin",
+      "filesize": 32288256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "292e55d2c1a8b4e106f3e3ec1192da3c",
+        "sha1": "761cf9d159f7041544018f08acd3b010235db48c",
+        "crc32": "1e041260"
+      }
+    }
+  ]
+}

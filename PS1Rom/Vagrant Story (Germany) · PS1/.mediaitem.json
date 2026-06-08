@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vagrant Story (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vagrant Story (Germany).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2b792caee4c6cc362f04e4a00d6800c7",
+        "sha1": "df54d5033cf02bf6504362301369b17d8b50b586",
+        "crc32": "f1287cf4"
+      }
+    },
+    {
+      "filename": "Vagrant Story (Germany).bin",
+      "filesize": 750643152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "997c24192378e990343c6df3c2de35fa",
+        "sha1": "f29a9bdb5c03f06951f5ad5a422c65a841cbc107",
+        "crc32": "d19c494b"
+      }
+    }
+  ]
+}

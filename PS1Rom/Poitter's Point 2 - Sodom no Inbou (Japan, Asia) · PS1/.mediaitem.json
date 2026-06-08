@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Poitter's Point 2 - Sodom no Inbou (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Poitter's Point 2 - Sodom no Inbou (Japan, Asia).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f8a4783dc3483ef8d9bf10d895307a98",
+        "sha1": "14d5c1e2e1c53160469521788834e07c194d78ab",
+        "crc32": "53ff9446"
+      }
+    },
+    {
+      "filename": "Poitter's Point 2 - Sodom no Inbou (Japan, Asia).bin",
+      "filesize": 438981984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2f3f527f677484fc61ed9774e2ea1dd",
+        "sha1": "5fa947cb87f4232b1b191c9403d8eaf5da754074",
+        "crc32": "23ea3af8"
+      }
+    }
+  ]
+}

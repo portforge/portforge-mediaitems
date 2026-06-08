@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Silver Jiken - The Silver - Experience (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Silver Jiken - The Silver - Experience (Japan) (Demo).cue",
+      "filesize": 119,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d153075a3957a8279ecd559522672a0e",
+        "sha1": "084e4510bec15cac2d43d9b5e339f50799c27e03",
+        "crc32": "f788e884"
+      }
+    },
+    {
+      "filename": "Silver Jiken - The Silver - Experience (Japan) (Demo).bin",
+      "filesize": 714779856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "77d49a7c8384f54369cf0bc4c0615888",
+        "sha1": "c002aa2b23b8b5a7f674e7d5e46174290792d9f3",
+        "crc32": "cdc0dcfb"
+      }
+    }
+  ]
+}

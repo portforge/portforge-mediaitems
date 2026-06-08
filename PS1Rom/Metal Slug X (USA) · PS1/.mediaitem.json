@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Slug X (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Slug X (USA).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3f7584d4de401e140f26a63ffbf74d11",
+        "sha1": "3c4b2b6f58c8c9d9dddb72d755d19587550e1787",
+        "crc32": "e56f7d46"
+      }
+    },
+    {
+      "filename": "Metal Slug X (USA).bin",
+      "filesize": 104315904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37d9e1179a32661800e74858009a4f8b",
+        "sha1": "f1ea9a0ae2115f476bd4767b1ac0ba9d0b5ac972",
+        "crc32": "34100b04"
+      }
+    }
+  ]
+}

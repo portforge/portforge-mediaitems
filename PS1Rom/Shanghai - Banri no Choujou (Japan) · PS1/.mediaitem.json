@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shanghai - Banri no Choujou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shanghai - Banri no Choujou (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "93187aefef79d48991983820152cb075",
+        "sha1": "e9d495c920579dc5b3f154b76b0490cacae3edea",
+        "crc32": "0950a040"
+      }
+    },
+    {
+      "filename": "Shanghai - Banri no Choujou (Japan).bin",
+      "filesize": 283884048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "846011577afbc5d66deb2f0e73bc6639",
+        "sha1": "fbb9c595ec0dda21cb46624adc960ef10c775c78",
+        "crc32": "c072b79e"
+      }
+    }
+  ]
+}

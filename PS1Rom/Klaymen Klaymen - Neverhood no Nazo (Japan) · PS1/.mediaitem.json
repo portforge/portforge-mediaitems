@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Klaymen Klaymen - Neverhood no Nazo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Klaymen Klaymen - Neverhood no Nazo (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4ce7f98a99a867dbdc34bdb165bd1f82",
+        "sha1": "48d8275cf226d1540771e9a12425bf163177af4f",
+        "crc32": "21344c53"
+      }
+    },
+    {
+      "filename": "Klaymen Klaymen - Neverhood no Nazo (Japan).bin",
+      "filesize": 749881104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37bd13a8fa9aad60a958ab6a5c446eea",
+        "sha1": "8d7e3d0a00a47df710c35257c688fb6354ab4e6e",
+        "crc32": "9abfc08e"
+      }
+    }
+  ]
+}

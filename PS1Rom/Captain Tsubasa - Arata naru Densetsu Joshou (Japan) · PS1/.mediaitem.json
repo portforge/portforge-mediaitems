@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Captain Tsubasa - Arata naru Densetsu Joshou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Captain Tsubasa - Arata naru Densetsu Joshou (Japan).cue",
+      "filesize": 274,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e4963bc63a1ecae4bc1ee8358384e28e",
+        "sha1": "837fa7c25a633e3554cabb92a272e793eae496b3",
+        "crc32": "ef8f420d"
+      }
+    },
+    {
+      "filename": "Captain Tsubasa - Arata naru Densetsu Joshou (Japan) (Track 1).bin",
+      "filesize": 310546320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f5f057037f6c83a46be2f0a11f664734",
+        "sha1": "d24be3fc6da340956252fd099ef69f5ba62a2e6b",
+        "crc32": "119ca128"
+      }
+    },
+    {
+      "filename": "Captain Tsubasa - Arata naru Densetsu Joshou (Japan) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

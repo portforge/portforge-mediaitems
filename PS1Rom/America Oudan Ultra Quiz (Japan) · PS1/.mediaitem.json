@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "America Oudan Ultra Quiz (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "America Oudan Ultra Quiz (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "13f5ecdd56d4c076fb05d6e0f617f4a8",
+        "sha1": "4910edb7cdb38b3b459dc23efb76c0eaa055efe7",
+        "crc32": "e70c80a3"
+      }
+    },
+    {
+      "filename": "America Oudan Ultra Quiz (Japan).bin",
+      "filesize": 485685648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "854c331d3e67dadc829fbfdab48d38e2",
+        "sha1": "fd033cfe5dc9bb4541036a78ba5cfef18eef7d2d",
+        "crc32": "6601889b"
+      }
+    }
+  ]
+}

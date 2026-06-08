@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Card Games (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Card Games (USA).cue",
+      "filesize": 82,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ead695f898f69e4e1d5177ce50e10cf1",
+        "sha1": "e6034b0587794b33e9b4e777894dbdc4156ef4e1",
+        "crc32": "e5f2d275"
+      }
+    },
+    {
+      "filename": "Card Games (USA).bin",
+      "filesize": 87826032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "578fd9432de4c9045b3bdb24e330ff43",
+        "sha1": "b7725d7ee08c5ca95015cf45eeae3d39615d12c4",
+        "crc32": "e3d12141"
+      }
+    }
+  ]
+}

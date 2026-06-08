@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spice World (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spice World (Spain).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9511c157be7d6fc8f9d26569614c210c",
+        "sha1": "a05e9f981df375940ac38c3b1a37048add7655de",
+        "crc32": "bab8fe29"
+      }
+    },
+    {
+      "filename": "Spice World (Spain).bin",
+      "filesize": 417752832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b34b5a99fb6c7cfd284f12595284f268",
+        "sha1": "0092f82f5907bb9b0932b8b6afe1f2f3116f5327",
+        "crc32": "f9e22a1b"
+      }
+    }
+  ]
+}

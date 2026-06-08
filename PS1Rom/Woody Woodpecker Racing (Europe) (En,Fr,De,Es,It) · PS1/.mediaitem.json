@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Woody Woodpecker Racing (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Woody Woodpecker Racing (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb2ad2079538398b85587ccd9d936c0f",
+        "sha1": "00f341806e002cc729f715008242c27c851eea9b",
+        "crc32": "8ee15031"
+      }
+    },
+    {
+      "filename": "Woody Woodpecker Racing (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 131714352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e46f41496f753159de8fb365eecebb4",
+        "sha1": "1b7f0aee120e5867d1287200978d410e28064129",
+        "crc32": "fcf215de"
+      }
+    }
+  ]
+}

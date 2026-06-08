@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "58ffbe8f97aa7bc56ced05c0d7e984da",
+        "sha1": "25fc34ce3243addc5e9ed5fe0c68d731f858c88b",
+        "crc32": "78dd3330"
+      }
+    },
+    {
+      "filename": "Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 546428400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4f7b056116646e62911ee6b07378c39d",
+        "sha1": "cb0a623a3ef449d7dcafbea1c7bbd3831294eafc",
+        "crc32": "5aad542a"
+      }
+    }
+  ]
+}

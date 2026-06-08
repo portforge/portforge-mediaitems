@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Johnny Bazookatone (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Johnny Bazookatone (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9eebc3d5cb29a45a67b78c0cd4fb9355",
+        "sha1": "3a198dfbe9e9c7ff6f831d4b5da713e9f9fcbcf8",
+        "crc32": "02d7d66b"
+      }
+    },
+    {
+      "filename": "Johnny Bazookatone (USA).bin",
+      "filesize": 524230224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d8e95fdb8e189fe501f6e4e2b8b5152",
+        "sha1": "b71841dc814140fd699beecd75e7b49c9fba88ae",
+        "crc32": "7f41d135"
+      }
+    }
+  ]
+}

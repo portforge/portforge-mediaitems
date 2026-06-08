@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spider-Man (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spider-Man (France).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fa498663a83e6f5e6876778094a82ebf",
+        "sha1": "f09e889980f6a72233c6de039fcc67d150d99961",
+        "crc32": "313bf4d9"
+      }
+    },
+    {
+      "filename": "Spider-Man (France).bin",
+      "filesize": 716172240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "173d7adbef15c49602961f154f400fb2",
+        "sha1": "2b8c754c66179cabde1fdeb55fdb69a494f65450",
+        "crc32": "d59cd008"
+      }
+    }
+  ]
+}

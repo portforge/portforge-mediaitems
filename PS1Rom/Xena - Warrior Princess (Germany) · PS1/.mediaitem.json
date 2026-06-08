@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xena - Warrior Princess (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xena - Warrior Princess (Germany).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f2a412c1215f30ec427d48c760923931",
+        "sha1": "22ac767a0e7acae3cf7cae83bc78fe91e550ebc9",
+        "crc32": "1ac61d44"
+      }
+    },
+    {
+      "filename": "Xena - Warrior Princess (Germany).bin",
+      "filesize": 322322784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c716afbe59bf37e71e56bed1a7ef595",
+        "sha1": "fbaccb4a05f261b0357dd79ee4f6ee105c161e7f",
+        "crc32": "3864ac15"
+      }
+    }
+  ]
+}

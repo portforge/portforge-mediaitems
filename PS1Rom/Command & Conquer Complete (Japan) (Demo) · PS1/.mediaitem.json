@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Command & Conquer Complete (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Command & Conquer Complete (Japan) (Demo).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d54af0babb5f49c573e8f8feb1c44f60",
+        "sha1": "8ae3081c72207637e7f99ce35fac48d877f0172e",
+        "crc32": "2fad79c3"
+      }
+    },
+    {
+      "filename": "Command & Conquer Complete (Japan) (Demo).bin",
+      "filesize": 52308480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5410e239f80eb332f8bc34c1bfeb8446",
+        "sha1": "43afbccd67884ecd638abd86c66e27f344d543d5",
+        "crc32": "8c8b23d9"
+      }
+    }
+  ]
+}

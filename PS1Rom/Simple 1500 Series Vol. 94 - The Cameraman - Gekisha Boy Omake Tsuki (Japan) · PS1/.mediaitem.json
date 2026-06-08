@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 94 - The Cameraman - Gekisha Boy Omake Tsuki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 94 - The Cameraman - Gekisha Boy Omake Tsuki (Japan).cue",
+      "filesize": 142,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d9c9554abda7161e7a92a4300dc8566d",
+        "sha1": "a26b1ae5a4d06462061680e08a324c519f6406ef",
+        "crc32": "a623be1d"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 94 - The Cameraman - Gekisha Boy Omake Tsuki (Japan).bin",
+      "filesize": 51247728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e630f76cb500baa550c004223d37094",
+        "sha1": "71a40f1b892393f091238940afaa420492e19c21",
+        "crc32": "53f9deb0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VIII (Europe, Australia) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VIII (Europe, Australia) (Disc 2).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9961a776dada9bc7ef310a8247ec42c9",
+        "sha1": "ffc606af9f47e148706ef707a510dbdf52ec9179",
+        "crc32": "56f00457"
+      }
+    },
+    {
+      "filename": "Final Fantasy VIII (Europe, Australia) (Disc 2).bin",
+      "filesize": 692993280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "896c78acea25074b3e28570726990625",
+        "sha1": "cf7997c00e28e9af7ea1db23e41f962d7d471352",
+        "crc32": "71a40ea0"
+      }
+    }
+  ]
+}

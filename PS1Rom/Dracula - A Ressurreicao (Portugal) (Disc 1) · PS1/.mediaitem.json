@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula - A Ressurreicao (Portugal) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula - A Ressurreicao (Portugal) (Disc 1).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "284625892098e046855c683cd36e7416",
+        "sha1": "ff2182e32f46c17a94d97f4dbb141075a34fb239",
+        "crc32": "0aca0a06"
+      }
+    },
+    {
+      "filename": "Dracula - A Ressurreicao (Portugal) (Disc 1).bin",
+      "filesize": 715294944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a93b09580d18ff4ce985102fb9b9c988",
+        "sha1": "7b906a68fb0e172e4403a375fd9a9c7ff44714d5",
+        "crc32": "70cf56e0"
+      }
+    }
+  ]
+}

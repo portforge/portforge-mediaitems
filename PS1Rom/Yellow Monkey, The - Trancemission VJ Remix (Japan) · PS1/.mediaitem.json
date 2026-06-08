@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yellow Monkey, The - Trancemission VJ Remix (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yellow Monkey, The - Trancemission VJ Remix (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8cab79e869c5aaa3863a7292e4a0e99a",
+        "sha1": "04665c1974361ed34a010c141a83b0eb72f22e81",
+        "crc32": "56f6b849"
+      }
+    },
+    {
+      "filename": "Yellow Monkey, The - Trancemission VJ Remix (Japan).bin",
+      "filesize": 503024592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c36671d0831dc6f95dcf442f46f6ae7",
+        "sha1": "e6ac1a2ad642ea4555c2756f8ed69e2d444e4e7c",
+        "crc32": "8c4ce90f"
+      }
+    }
+  ]
+}

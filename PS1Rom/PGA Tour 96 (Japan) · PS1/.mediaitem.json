@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PGA Tour 96 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PGA Tour 96 (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "20e5023f134cf64f2b5d866b3f2483aa",
+        "sha1": "d9f670e3b0af37c401c057c2fe2889d28b9aad34",
+        "crc32": "89f947a3"
+      }
+    },
+    {
+      "filename": "PGA Tour 96 (Japan).bin",
+      "filesize": 624928752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7368639d2c5298c7a8e5cb17d4c04e5f",
+        "sha1": "2c40bbc161afc70ca34c1ebef3e1f80e047a286c",
+        "crc32": "4b9249d2"
+      }
+    }
+  ]
+}

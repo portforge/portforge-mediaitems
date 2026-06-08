@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wizard's Harmony R (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wizard's Harmony R (Japan).cue",
+      "filesize": 582,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f1131f0bbfa3ff45aff7621c97d2d374",
+        "sha1": "f33e3466266bbd7fb737a89692747d6efb500162",
+        "crc32": "10de4d1c"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony R (Japan) (Track 1).bin",
+      "filesize": 352202592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cf830386e93d4e1a8d17e716d75b6070",
+        "sha1": "7042eeddf9eb2974e4fc83ff04b23236617fd9f4",
+        "crc32": "8f6648b8"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony R (Japan) (Track 2).bin",
+      "filesize": 21859488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "774896eb65c7c6a9648f3c35f7d7c2c8",
+        "sha1": "6e962b5e03c109d95044e9ddc97776654c8f3e5f",
+        "crc32": "15926796"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony R (Japan) (Track 3).bin",
+      "filesize": 23705808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d0c449ea1982ece64c23615f9b3f29bd",
+        "sha1": "237365edc7cf8ca4bb3828e96bd3831843188cbc",
+        "crc32": "896b3881"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony R (Japan) (Track 4).bin",
+      "filesize": 16224096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e655533917246a4272a2fd0315ca2769",
+        "sha1": "25222a8c2677dffe31a2104f741ce2f179dfa9bf",
+        "crc32": "6fbe956b"
+      }
+    },
+    {
+      "filename": "Wizard's Harmony R (Japan) (Track 5).bin",
+      "filesize": 33459552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "66c2756f0087c1b2cd067acf7146f327",
+        "sha1": "5d394dfa196bb9182111a2e07c921efc1f1fe363",
+        "crc32": "ebc3b159"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NHL 2001 (Europe) (Fr,Cs)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NHL 2001 (Europe) (Fr,Cs).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "69f69cfde750f0e28c675b82219caba4",
+        "sha1": "f7fc0bee3c738e105b176536f21f726b2c7bbd75",
+        "crc32": "38eb46bc"
+      }
+    },
+    {
+      "filename": "NHL 2001 (Europe) (Fr,Cs).bin",
+      "filesize": 734877696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f69301f8afcb53af3bbb8928b65b65f",
+        "sha1": "69ac3800a883f9be7e37c69c1bfad85ac9ea63e4",
+        "crc32": "0ba55f2c"
+      }
+    }
+  ]
+}

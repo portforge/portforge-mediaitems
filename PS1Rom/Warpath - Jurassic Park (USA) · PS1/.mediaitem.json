@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Warpath - Jurassic Park (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Warpath - Jurassic Park (USA).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6c4453fee1837e94b148ff1ed0fe47c7",
+        "sha1": "146aeb45e0169d7eb529c9d5cf3be4862216ef7c",
+        "crc32": "130a2d11"
+      }
+    },
+    {
+      "filename": "Warpath - Jurassic Park (USA).bin",
+      "filesize": 619902528,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8134a36ef578b7eb19e06e286e74cb13",
+        "sha1": "6bac3e2b338de0da29dd71c8245ba15fe5ecb025",
+        "crc32": "8c194cb5"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hi-Octane (Europe) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hi-Octane (Europe) (En,Fr,De,Es).cue",
+      "filesize": 486,
+      "ext": "cue",
+      "checksums": {
+        "md5": "35e0163de28da2f28a78ee55683bfdf8",
+        "sha1": "18bd992a8c2e3f7779683aad30de07c04d949c73",
+        "crc32": "0c4af7c5"
+      }
+    },
+    {
+      "filename": "Hi-Octane (Europe) (En,Fr,De,Es) (Track 1).bin",
+      "filesize": 16793280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4034fad396fc4e5f1ad09b728ad622b",
+        "sha1": "15efd3d68b634de3c53f2f149c7a7678f0bc4ac5",
+        "crc32": "2d5cee05"
+      }
+    },
+    {
+      "filename": "Hi-Octane (Europe) (En,Fr,De,Es) (Track 2).bin",
+      "filesize": 107761584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4a30985a783a8e9656b424557b6dd95",
+        "sha1": "b90f6eb98ef482cda135d1de9cbf50f28db11368",
+        "crc32": "8573ce54"
+      }
+    },
+    {
+      "filename": "Hi-Octane (Europe) (En,Fr,De,Es) (Track 3).bin",
+      "filesize": 117350688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47aea69da34df9e21d0ccc44e4c5f0bb",
+        "sha1": "5218489cdc1dc721ac92138be038a9852f4f442e",
+        "crc32": "e7f24541"
+      }
+    },
+    {
+      "filename": "Hi-Octane (Europe) (En,Fr,De,Es) (Track 4).bin",
+      "filesize": 105002688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfbdcd6282b724e437c4055974af4082",
+        "sha1": "ffdfa39c94d43157e14f38a7022f6638b064a15c",
+        "crc32": "55735dce"
+      }
+    }
+  ]
+}

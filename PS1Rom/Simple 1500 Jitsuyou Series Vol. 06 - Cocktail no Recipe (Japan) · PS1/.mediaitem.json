@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe (Japan).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d02393684172d4b110192e616e9bb1fb",
+        "sha1": "545ec589f3be5064fb94b7435828e94ed36ef2a3",
+        "crc32": "5012e4ac"
+      }
+    },
+    {
+      "filename": "Simple 1500 Jitsuyou Series Vol. 06 - Cocktail no Recipe (Japan).bin",
+      "filesize": 435072960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d9d43a56cd7f5baef75ecc3326fe787d",
+        "sha1": "21e518ee95ee31bfab0316f7f0edd933b34e5848",
+        "crc32": "bbab6121"
+      }
+    }
+  ]
+}

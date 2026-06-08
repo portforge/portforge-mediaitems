@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Creative Journey (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Creative Journey (USA).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb5037cc40122ad58e1880bcc4dc2fc0",
+        "sha1": "31a51d018ab03bcc765b8c560f00d0397350fb76",
+        "crc32": "25834647"
+      }
+    },
+    {
+      "filename": "Creative Journey (USA).bin",
+      "filesize": 58416624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "863a5f1c9247c59debcf990e07f4e167",
+        "sha1": "f197360417072bf19d987b727ff9152f82e4730f",
+        "crc32": "1e6b4438"
+      }
+    }
+  ]
+}

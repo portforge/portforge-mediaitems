@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Famitsu Wave 2-gatsugou Vol. 19 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Famitsu Wave 2-gatsugou Vol. 19 (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eae1b8b80db0de2caeeed38cec532fe9",
+        "sha1": "c5a4f9fbd474c631d0534c6512b586ee8b51dfbe",
+        "crc32": "d7862501"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 2-gatsugou Vol. 19 (Japan) (Track 1).bin",
+      "filesize": 572429760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a5040451b35744dc69966f03387612a",
+        "sha1": "9dfd7f4fdb8473738e96c655719a8de95d25e956",
+        "crc32": "6c6490d5"
+      }
+    },
+    {
+      "filename": "Famitsu Wave 2-gatsugou Vol. 19 (Japan) (Track 2).bin",
+      "filesize": 33433680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b1252fbfa5c407f8146fac0c56acd87e",
+        "sha1": "c92f73b073327ddf7839fa1357c745352f1f6fd5",
+        "crc32": "6c02eaac"
+      }
+    }
+  ]
+}

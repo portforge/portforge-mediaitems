@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Elemental Gearbolt (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Elemental Gearbolt (USA).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ce6f2a13a038a4c349bdecacf5c132cf",
+        "sha1": "bf48df0d01baaeaf93d072e8a5a25e519e9fa9f4",
+        "crc32": "41de948c"
+      }
+    },
+    {
+      "filename": "Elemental Gearbolt (USA).bin",
+      "filesize": 533000832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff5508c7b567650a15357ecf843c335a",
+        "sha1": "c3cd7720515020b55a10f680ab47a7bca1e2fc34",
+        "crc32": "8a6d6287"
+      }
+    }
+  ]
+}

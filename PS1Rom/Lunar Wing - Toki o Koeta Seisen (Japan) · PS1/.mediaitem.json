@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Lunar Wing - Toki o Koeta Seisen (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Lunar Wing - Toki o Koeta Seisen (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "815867feea72e2cb9b4cca31b74096bf",
+        "sha1": "8fd7b1aa746b58fe9066355e339c0f220fa2de96",
+        "crc32": "5d3fb196"
+      }
+    },
+    {
+      "filename": "Lunar Wing - Toki o Koeta Seisen (Japan).bin",
+      "filesize": 562643088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ea91b227ef85d38ed1d25395aef8c79d",
+        "sha1": "7becfc789a2109089c0beb555e4748910e1fdcbf",
+        "crc32": "76009965"
+      }
+    }
+  ]
+}

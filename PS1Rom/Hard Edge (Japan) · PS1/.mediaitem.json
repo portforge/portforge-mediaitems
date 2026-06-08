@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hard Edge (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hard Edge (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0186dff101bf579e9c3f2a60d69d8e97",
+        "sha1": "8d530179e99fb5cfdf518fb159f721e4518ef8fa",
+        "crc32": "509346bb"
+      }
+    },
+    {
+      "filename": "Hard Edge (Japan).bin",
+      "filesize": 744958368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "716b7999d52c82e8748abad30af34782",
+        "sha1": "000b9810a8a2cea600b2f3edaadcd9f539e44570",
+        "crc32": "a8024217"
+      }
+    }
+  ]
+}

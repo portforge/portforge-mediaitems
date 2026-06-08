@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jade Cocoon - La Leggenda del Tamamayu (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jade Cocoon - La Leggenda del Tamamayu (Italy).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "92d040e610bad944111d12673ef4717f",
+        "sha1": "cacdadaa65cda5ce5cc9cee59aa9ce31b7f4fe05",
+        "crc32": "9970bcdd"
+      }
+    },
+    {
+      "filename": "Jade Cocoon - La Leggenda del Tamamayu (Italy).bin",
+      "filesize": 627718224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fcc17c447b1bfa8c72c402cd373a1cc6",
+        "sha1": "3f98611e63e6c21042d53479a5cabff60f5bb858",
+        "crc32": "6a0d9b58"
+      }
+    }
+  ]
+}

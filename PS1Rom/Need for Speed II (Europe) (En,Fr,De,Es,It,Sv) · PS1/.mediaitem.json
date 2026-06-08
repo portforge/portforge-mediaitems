@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Need for Speed II (Europe) (En,Fr,De,Es,It,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Need for Speed II (Europe) (En,Fr,De,Es,It,Sv).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b77eaf87ee356429c9e111cdb1a962ea",
+        "sha1": "65cf1614e1954c50a6567bb53eb19d2626e6f74c",
+        "crc32": "3da16747"
+      }
+    },
+    {
+      "filename": "Need for Speed II (Europe) (En,Fr,De,Es,It,Sv).bin",
+      "filesize": 549248448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "931fb67dbc12177774ab2fa8deb49ef8",
+        "sha1": "0dae1860df154c850373675d8e38525d7d98be9d",
+        "crc32": "a26cb88e"
+      }
+    }
+  ]
+}

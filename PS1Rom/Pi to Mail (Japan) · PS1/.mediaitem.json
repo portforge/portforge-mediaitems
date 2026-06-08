@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pi to Mail (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pi to Mail (Japan).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "838a63d34f6d4cc507f78f092eb4841d",
+        "sha1": "507b52156916e358e49aede88b8bfc429be0ed96",
+        "crc32": "cef7eecb"
+      }
+    },
+    {
+      "filename": "Pi to Mail (Japan).bin",
+      "filesize": 44394000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "80b7175161c252f41d653cac72d79630",
+        "sha1": "85cf3ab89b98cd795610e4ffaf8cabea741cb923",
+        "crc32": "f175f7a5"
+      }
+    }
+  ]
+}

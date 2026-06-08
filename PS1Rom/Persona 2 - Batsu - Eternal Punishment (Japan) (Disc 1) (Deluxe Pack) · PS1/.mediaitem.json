@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Persona 2 - Batsu - Eternal Punishment (Japan) (Disc 1) (Deluxe Pack)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Persona 2 - Batsu - Eternal Punishment (Japan) (Disc 1) (Deluxe Pack).cue",
+      "filesize": 135,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dfcd367684db01414c6cbc34f62d986a",
+        "sha1": "0bc31ee3a45964ac7f0e2ab5053c859842400953",
+        "crc32": "619ff176"
+      }
+    },
+    {
+      "filename": "Persona 2 - Batsu - Eternal Punishment (Japan) (Disc 1) (Deluxe Pack).bin",
+      "filesize": 725145120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7e813517d660c458f3edaeb89d320c34",
+        "sha1": "ca85752873a6d30ce7cb75f162635c1457075791",
+        "crc32": "33103d7e"
+      }
+    }
+  ]
+}

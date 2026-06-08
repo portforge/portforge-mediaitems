@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Frogger 2 - Swampy's Revenge (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Frogger 2 - Swampy's Revenge (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c778e43b716a2b0067e588056a96bb2c",
+        "sha1": "7b6e4e623d48e0d3dcfb0c00d21e4a18e0bd798e",
+        "crc32": "a3395b5a"
+      }
+    },
+    {
+      "filename": "Frogger 2 - Swampy's Revenge (USA).bin",
+      "filesize": 371338464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8cd4f236c9a6d6acee5a418282dea4b",
+        "sha1": "f2f0f071c5a4ad096d6eec749c95026d9a693f90",
+        "crc32": "dfa0ef5f"
+      }
+    }
+  ]
+}

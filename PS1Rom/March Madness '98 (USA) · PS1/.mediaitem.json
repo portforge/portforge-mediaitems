@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "March Madness '98 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "March Madness '98 (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "de2ab28ea8f7f7e5f9c7c9be35079809",
+        "sha1": "25fcfa5b506deb3503847668285647be4907944e",
+        "crc32": "68289754"
+      }
+    },
+    {
+      "filename": "March Madness '98 (USA).bin",
+      "filesize": 568165584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2f1e95a38a23eb2524065aaf33ad2c7",
+        "sha1": "322d15496d1deb3e357ee55bf152cc9e6ce078ca",
+        "crc32": "e338845c"
+      }
+    }
+  ]
+}

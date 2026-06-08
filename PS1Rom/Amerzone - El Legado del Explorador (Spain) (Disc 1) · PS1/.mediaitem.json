@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Amerzone - El Legado del Explorador (Spain) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Amerzone - El Legado del Explorador (Spain) (Disc 1).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c63a4d07dbcdc4d2b9dbc4bfb99f6def",
+        "sha1": "500345fcc228e2082fe47006791ed32d74b7574d",
+        "crc32": "47aef34e"
+      }
+    },
+    {
+      "filename": "Amerzone - El Legado del Explorador (Spain) (Disc 1).bin",
+      "filesize": 684107424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08407456ada211b531d2207bb2f5a8f4",
+        "sha1": "a8e2df17df16095a710052e17fd78bb1298e133c",
+        "crc32": "e0527dec"
+      }
+    }
+  ]
+}

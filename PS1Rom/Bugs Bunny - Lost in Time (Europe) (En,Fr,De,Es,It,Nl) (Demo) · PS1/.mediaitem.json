@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bugs Bunny - Lost in Time (Europe) (En,Fr,De,Es,It,Nl) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bugs Bunny - Lost in Time (Europe) (En,Fr,De,Es,It,Nl) (Demo).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7d6cf16701b39c1a05607801688498d3",
+        "sha1": "4c7e6231d8a43e2fdb2541e6db96bbd6628ce045",
+        "crc32": "f0a23888"
+      }
+    },
+    {
+      "filename": "Bugs Bunny - Lost in Time (Europe) (En,Fr,De,Es,It,Nl) (Demo).bin",
+      "filesize": 100987824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6dd0383c73ad7e03b4d7387d572abdd3",
+        "sha1": "675099343d8ebd55e895a39b1b0e32defdac7f5b",
+        "crc32": "b3c46bec"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Underground Jampack - Fall 2001 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Underground Jampack - Fall 2001 (USA).cue",
+      "filesize": 411,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8b3f84844cda954fb0b427505389c189",
+        "sha1": "c1b5bb9dc62f86259f5e787e6b675c15d35ec3e3",
+        "crc32": "324acda6"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Fall 2001 (USA) (Track 1).bin",
+      "filesize": 553865424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01d631fb867bd8839a792c53fde91dc7",
+        "sha1": "a427392172476270da9bb8c30fa7027d882c1f26",
+        "crc32": "a925a591"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Fall 2001 (USA) (Track 2).bin",
+      "filesize": 23992752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b634b7ea92416e50bf68b15f3d4bbe1",
+        "sha1": "a863d4134e1ca3730a2938d2ff0238c4d7e92eeb",
+        "crc32": "957803ce"
+      }
+    },
+    {
+      "filename": "PlayStation Underground Jampack - Fall 2001 (USA) (Track 3).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54734d3fe6f75e0d6cf73fa0d3b63c83",
+        "sha1": "d11089e8cd3f7d9fc4dfd1156e1a02f2f992897a",
+        "crc32": "780b1fc7"
+      }
+    }
+  ]
+}

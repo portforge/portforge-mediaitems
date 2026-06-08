@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Golgo 13 Vol. 2 - Mienai Guntai (Japan) (En,Ja)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Golgo 13 Vol. 2 - Mienai Guntai (Japan) (En,Ja).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "af348753a598f2fca13f960467a90703",
+        "sha1": "d50dd4d9c8f2b8f91061ba762e50df3b7cb398bb",
+        "crc32": "8d58ba67"
+      }
+    },
+    {
+      "filename": "Golgo 13 Vol. 2 - Mienai Guntai (Japan) (En,Ja).bin",
+      "filesize": 221177376,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ed6e9ba7702fc698809257dfeef839e",
+        "sha1": "1889009dce2509fba74b913cf460e02faff1eea1",
+        "crc32": "91d2f269"
+      }
+    }
+  ]
+}

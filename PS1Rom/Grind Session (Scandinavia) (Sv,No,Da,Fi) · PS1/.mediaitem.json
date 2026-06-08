@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grind Session (Scandinavia) (Sv,No,Da,Fi)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grind Session (Scandinavia) (Sv,No,Da,Fi).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "47c159da986e93f61140b35af8baaa6c",
+        "sha1": "912442fa29e48195b5b7c388ffd695fe53b733fb",
+        "crc32": "4b24c5ad"
+      }
+    },
+    {
+      "filename": "Grind Session (Scandinavia) (Sv,No,Da,Fi).bin",
+      "filesize": 694216320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a4dad3e2eeb12c04b0ff4b3a93fcdf5",
+        "sha1": "7120b8d241ea8431520a630a8a6526a0532785bc",
+        "crc32": "6eec02bd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo Germany 10-01 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo Germany 10-01 (Germany).cue",
+      "filesize": 363,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f6775ef937b7ff1bc396b750a064f7b",
+        "sha1": "85b60980b4ecbff7a27347169062c90d97b97e33",
+        "crc32": "06c49567"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 10-01 (Germany) (Track 1).bin",
+      "filesize": 347794944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e2d898467b596ba7de4d1ffe9729238",
+        "sha1": "bc255238ad88991c30d3af1ff340f2924690a4d6",
+        "crc32": "6e90b4b7"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 10-01 (Germany) (Track 2).bin",
+      "filesize": 36439536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a7ac3d7f9ad652951ae03fe157c7c7d",
+        "sha1": "daec33c31013f1dc4f3a1c1b7aad22291aa34bd4",
+        "crc32": "49d92b4b"
+      }
+    },
+    {
+      "filename": "Euro Demo Germany 10-01 (Germany) (Track 3).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slam 'n Jam '96 featuring Magic & Kareem (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slam 'n Jam '96 featuring Magic & Kareem (Europe).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e62b7d521bd93b71f23f8e167c24837d",
+        "sha1": "fca5c692b50ccb11f60a6e00c25bc59ad3e41257",
+        "crc32": "c8ed4c7b"
+      }
+    },
+    {
+      "filename": "Slam 'n Jam '96 featuring Magic & Kareem (Europe).bin",
+      "filesize": 195248928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b9a8b299453108a846f30357ba343744",
+        "sha1": "7f328998694ba5f4fa518d285f6babbb81cbcd00",
+        "crc32": "802622bd"
+      }
+    }
+  ]
+}

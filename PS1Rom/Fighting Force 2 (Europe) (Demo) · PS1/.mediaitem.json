@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Fighting Force 2 (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Fighting Force 2 (Europe) (Demo).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "553fd0192712038cba2129f8a8f6df33",
+        "sha1": "24eb34572e8b04fa5d0b7b9c38b4d5f8b91ec82c",
+        "crc32": "3b86a365"
+      }
+    },
+    {
+      "filename": "Fighting Force 2 (Europe) (Demo).bin",
+      "filesize": 41689200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cc15d213b9154bfb57aeb4e842b441db",
+        "sha1": "c68ad97490fe6391a3fcc77a3e7d207bbdd6fda8",
+        "crc32": "44891f69"
+      }
+    }
+  ]
+}

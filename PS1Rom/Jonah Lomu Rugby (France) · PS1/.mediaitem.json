@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jonah Lomu Rugby (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jonah Lomu Rugby (France).cue",
+      "filesize": 458,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9b638f1b25c4053fd799e873333a6930",
+        "sha1": "ae9ca22f616150050a38c843f41b82f6d05ebc2e",
+        "crc32": "d5ad4773"
+      }
+    },
+    {
+      "filename": "Jonah Lomu Rugby (France) (Track 1).bin",
+      "filesize": 190196832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7dd150cbb490e3f73d28a56cbdb08c30",
+        "sha1": "f4f645c49e1913cc1480a970af6574568bcb7fd3",
+        "crc32": "77564962"
+      }
+    },
+    {
+      "filename": "Jonah Lomu Rugby (France) (Track 2).bin",
+      "filesize": 42169008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9eef48f846438dcd1e78bfda65f5e948",
+        "sha1": "1c489c8509809613c6f038727f9cb6a34885a497",
+        "crc32": "4f91a7d2"
+      }
+    },
+    {
+      "filename": "Jonah Lomu Rugby (France) (Track 3).bin",
+      "filesize": 18046896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbaf7ee76d6b081fb079703fae550c8f",
+        "sha1": "ada39676f540d10a962f9b75e927543f2d9f0ed3",
+        "crc32": "c48c7faf"
+      }
+    },
+    {
+      "filename": "Jonah Lomu Rugby (France) (Track 4).bin",
+      "filesize": 32610480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6bc4c7328c53e51011727d777a0e752",
+        "sha1": "6e91bda2a5cb4d99f1d6c65fa11f084869210872",
+        "crc32": "cf63ce67"
+      }
+    }
+  ]
+}

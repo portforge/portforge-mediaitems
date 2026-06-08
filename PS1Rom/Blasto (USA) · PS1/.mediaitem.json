@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blasto (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blasto (USA).cue",
+      "filesize": 78,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aeed96185481ce3ba9371e9d66f55858",
+        "sha1": "2f0be12e85599964fef635f631f56d2f267f2441",
+        "crc32": "35df9904"
+      }
+    },
+    {
+      "filename": "Blasto (USA).bin",
+      "filesize": 369548592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "425b95bfeb90e1a4e72d8db5ed77971c",
+        "sha1": "a74bc51d9bff5fc2ad5b6b4deec2001ce9dfc015",
+        "crc32": "9bd04ccf"
+      }
+    }
+  ]
+}

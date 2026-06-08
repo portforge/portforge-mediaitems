@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Toon Adventures - The Great Beanstalk (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Toon Adventures - The Great Beanstalk (USA).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d7e408f3ac6cedbf372417d4873a683",
+        "sha1": "01d4325b0fa5baac3cf73e4e9fb542a5bcc61084",
+        "crc32": "5293bdf7"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - The Great Beanstalk (USA).bin",
+      "filesize": 158336640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2653469d6948f3cf358e3e1cf81cb58c",
+        "sha1": "7ebbe748be345bfbe04525e062aec6a04abf78da",
+        "crc32": "a3a64d16"
+      }
+    }
+  ]
+}

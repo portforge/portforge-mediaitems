@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Philosoma Art Book Movie CD-ROM (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Philosoma Art Book Movie CD-ROM (Japan).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3724e39a38a9921d3680a33aa730664c",
+        "sha1": "441d487215fcda532ae3a890fa9287d3c37dc050",
+        "crc32": "9bf7c1af"
+      }
+    },
+    {
+      "filename": "Philosoma Art Book Movie CD-ROM (Japan).bin",
+      "filesize": 506893632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c5c637f880c9c8ebf3681a9d8d12443f",
+        "sha1": "1368b1a9e1a6ca3896650e41d1f3228508982101",
+        "crc32": "535cc9d5"
+      }
+    }
+  ]
+}

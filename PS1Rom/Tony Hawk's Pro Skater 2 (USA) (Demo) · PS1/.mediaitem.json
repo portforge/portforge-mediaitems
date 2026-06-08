@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tony Hawk's Pro Skater 2 (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA) (Demo).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8dc19f7a5768dce2be3e0747cba25622",
+        "sha1": "97c99ad4902a2c2a310b53dce1e348b333db9e4c",
+        "crc32": "2c8e90b9"
+      }
+    },
+    {
+      "filename": "Tony Hawk's Pro Skater 2 (USA) (Demo).bin",
+      "filesize": 70976304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "628343d1bc17d22dc4b73e43411dbd58",
+        "sha1": "8ea565acbcd6058d936c50d5fb045fdadab61030",
+        "crc32": "f79c20ab"
+      }
+    }
+  ]
+}

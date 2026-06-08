@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IX (Italy) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IX (Italy) (Disc 2).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "576ebefff5c03f3ab23f31e69f1fbc3b",
+        "sha1": "a6750d32ff9a3d6083662a9e44952ec4ce8cf807",
+        "crc32": "960bcaec"
+      }
+    },
+    {
+      "filename": "Final Fantasy IX (Italy) (Disc 2).bin",
+      "filesize": 689058384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "153ec3b78da6b10592f0adf70d44abd3",
+        "sha1": "2569cfcaf0e808ab658556580a8d99d14ceadb38",
+        "crc32": "2a4f36f3"
+      }
+    }
+  ]
+}

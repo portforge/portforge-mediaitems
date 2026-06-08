@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Carnage Heart EZ (Easy Zapping) (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Carnage Heart EZ (Easy Zapping) (Japan).cue",
+      "filesize": 381,
+      "ext": "cue",
+      "checksums": {
+        "md5": "596936e0b0438c2f2311eb3179164907",
+        "sha1": "975ba1e196c0c83be01910b5eba8d75541cd1c11",
+        "crc32": "9844d915"
+      }
+    },
+    {
+      "filename": "Carnage Heart EZ (Easy Zapping) (Japan) (Track 1).bin",
+      "filesize": 71131536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f0dd89d9424140e271fd3ca4e50892da",
+        "sha1": "610b385efb132d44dedc452eb009453945170157",
+        "crc32": "3ff7a633"
+      }
+    },
+    {
+      "filename": "Carnage Heart EZ (Easy Zapping) (Japan) (Track 2).bin",
+      "filesize": 18197424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71c47c5a80e558fa6d11c72b997e7ecd",
+        "sha1": "52926bab0eb26f3811c551bb4936ac249fab283f",
+        "crc32": "fe97a2d3"
+      }
+    },
+    {
+      "filename": "Carnage Heart EZ (Easy Zapping) (Japan) (Track 3).bin",
+      "filesize": 37399152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a4c4724af6c154aef24da4b2e152b3c4",
+        "sha1": "f8e38e1ea1294d12e267e0a01f3553ff0fc17537",
+        "crc32": "bbdd6515"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parlor! Pro Jr. Vol. 4 - Thunder Skeleton X (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parlor! Pro Jr. Vol. 4 - Thunder Skeleton X (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ddcfa02da9fa217fe9a1a110f073fbc6",
+        "sha1": "ba42bc61c1bb0cf84a4a3749e3ecd69f67819b68",
+        "crc32": "d328055f"
+      }
+    },
+    {
+      "filename": "Parlor! Pro Jr. Vol. 4 - Thunder Skeleton X (Japan).bin",
+      "filesize": 49944720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "33f41b0de4312156dad22ce3db865657",
+        "sha1": "183c9604bf110f6d04c36fe8203f46565805973f",
+        "crc32": "6512963a"
+      }
+    }
+  ]
+}

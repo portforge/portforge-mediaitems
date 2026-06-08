@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Psychic Detective (USA) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Psychic Detective (USA) (Disc 2).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6ca3313fa69c28992e513247d84d1206",
+        "sha1": "d1df89810c55cf500d381750ca14d993f4735c3e",
+        "crc32": "c883eefe"
+      }
+    },
+    {
+      "filename": "Psychic Detective (USA) (Disc 2).bin",
+      "filesize": 513505104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f22d4c73675ba72c83f0237a1f4474e",
+        "sha1": "9ed4cd9767d2351d1054b01d4311d34446c84ac2",
+        "crc32": "8dd903d4"
+      }
+    }
+  ]
+}

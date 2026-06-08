@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Soreike! Anpanman (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Soreike! Anpanman (Japan) (Controller Set).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99af3573c6664c6e1befca4ab55c5c93",
+        "sha1": "5459db2c1df165afaf63fe970c9b5d2943b7f7bb",
+        "crc32": "94483173"
+      }
+    },
+    {
+      "filename": "Kids Station - Soreike! Anpanman (Japan) (Controller Set).bin",
+      "filesize": 368730096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f798aacb127aa81d28a0c070b312f481",
+        "sha1": "d213c0a29bbe2305e7800202fae0e02b5cd22511",
+        "crc32": "a1a3a6c5"
+      }
+    }
+  ]
+}

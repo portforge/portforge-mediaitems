@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "F1 GP Nippon no Chousen - Dome no Yabou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "F1 GP Nippon no Chousen - Dome no Yabou (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99c29e118019b2dff068b8ded95a9ac7",
+        "sha1": "77151ca3e3337a8d90b517a8640f924fe46e027b",
+        "crc32": "92c29ce6"
+      }
+    },
+    {
+      "filename": "F1 GP Nippon no Chousen - Dome no Yabou (Japan).bin",
+      "filesize": 165686640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "325745cb5ef6062f68579507ef43cfe0",
+        "sha1": "0045aece0a2eb305d319a921575c164cce2f04b9",
+        "crc32": "06bd9b81"
+      }
+    }
+  ]
+}

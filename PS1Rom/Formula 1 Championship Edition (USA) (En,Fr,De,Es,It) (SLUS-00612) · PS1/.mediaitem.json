@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Formula 1 Championship Edition (USA) (En,Fr,De,Es,It) (SLUS-00612)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Formula 1 Championship Edition (USA) (En,Fr,De,Es,It) (SLUS-00612).cue",
+      "filesize": 302,
+      "ext": "cue",
+      "checksums": {
+        "md5": "86e99e5da8de8b912cf4a938d4eaf740",
+        "sha1": "e1ec03f76ad69a00d70451b9f8377a2cbb88d749",
+        "crc32": "77c9ffe0"
+      }
+    },
+    {
+      "filename": "Formula 1 Championship Edition (USA) (En,Fr,De,Es,It) (SLUS-00612) (Track 1).bin",
+      "filesize": 656476128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c99a21d0bde44f3326f183428c7b89e",
+        "sha1": "96feb91d144bb05a00f087e9f2a8597f2c9692a8",
+        "crc32": "36d2e94b"
+      }
+    },
+    {
+      "filename": "Formula 1 Championship Edition (USA) (En,Fr,De,Es,It) (SLUS-00612) (Track 2).bin",
+      "filesize": 42688800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d3acdf1a08d047c72e595351fc548900",
+        "sha1": "632cb32ce4c7edd6cd7e2aa88cd2b631f88d5b96",
+        "crc32": "8a322cf1"
+      }
+    }
+  ]
+}

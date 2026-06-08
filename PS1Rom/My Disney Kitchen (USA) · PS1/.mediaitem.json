@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "My Disney Kitchen (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "My Disney Kitchen (USA).cue",
+      "filesize": 89,
+      "ext": "cue",
+      "checksums": {
+        "md5": "23784868632ecb5fe742a18489415c80",
+        "sha1": "e06e1d3afd7047e9af0891e95d3f8153036faa5d",
+        "crc32": "4af0b8d4"
+      }
+    },
+    {
+      "filename": "My Disney Kitchen (USA).bin",
+      "filesize": 365100960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d2c5290ed8868b6af9af7700a33d2c8e",
+        "sha1": "3ac95b2ef5cbbe6f6aec78faf994707cda9cde65",
+        "crc32": "c1a45d59"
+      }
+    }
+  ]
+}

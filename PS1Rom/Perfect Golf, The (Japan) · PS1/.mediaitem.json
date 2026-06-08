@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Perfect Golf, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Perfect Golf, The (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "104c6b46eee71ac9bdfae85876e488b8",
+        "sha1": "fb07f2ac1e5b61f473b3f28c448960996109c9ae",
+        "crc32": "29e4de10"
+      }
+    },
+    {
+      "filename": "Perfect Golf, The (Japan).bin",
+      "filesize": 741091680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bf6b378fcedcae643e439edef45741b3",
+        "sha1": "274da6874d554d6b42809b9a062dbbdcbc956448",
+        "crc32": "37681894"
+      }
+    }
+  ]
+}

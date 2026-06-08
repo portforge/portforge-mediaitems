@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Atlantis - De Verzonken Stad (Netherlands)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Atlantis - De Verzonken Stad (Netherlands).cue",
+      "filesize": 272,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5dd92ee51276cfc89642e26ce049a3e8",
+        "sha1": "af7b6550f2dd68246cd8a72bdad04674711b2e37",
+        "crc32": "98e285bf"
+      }
+    },
+    {
+      "filename": "Disney's Atlantis - De Verzonken Stad (Netherlands) (Track 1).bin",
+      "filesize": 336561792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "64ecc380207d2c568c28a8fb0a3b8f25",
+        "sha1": "85f3656b9e8190b2e81255134b18055bee156acc",
+        "crc32": "091f9008"
+      }
+    },
+    {
+      "filename": "Disney's Atlantis - De Verzonken Stad (Netherlands) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

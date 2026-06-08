@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Play Zone Vol. 25 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Play Zone Vol. 25 (Germany).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "50c6b50b715140fd3a8149a3390acc3f",
+        "sha1": "ba9de7886f07f6fc2a5a9de82a4cb030e6dd3394",
+        "crc32": "6f9622a6"
+      }
+    },
+    {
+      "filename": "Play Zone Vol. 25 (Germany).bin",
+      "filesize": 528659040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c780bf5b6429f61049f0436b47dcded",
+        "sha1": "3785b6c1af9f9c23671b8cda2ecda2bd527a3918",
+        "crc32": "7aa8eb5a"
+      }
+    }
+  ]
+}

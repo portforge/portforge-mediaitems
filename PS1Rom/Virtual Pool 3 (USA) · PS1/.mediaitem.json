@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Virtual Pool 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Virtual Pool 3 (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2184e01d399335c0f829b701816fad1c",
+        "sha1": "404dcf711d178da160219a1eebf241d68734b71b",
+        "crc32": "ca28033e"
+      }
+    },
+    {
+      "filename": "Virtual Pool 3 (USA).bin",
+      "filesize": 173198928,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fab98a012825406c18d958d207c00845",
+        "sha1": "d0d3be11a418717d721ae7b200af61b32fc465db",
+        "crc32": "36a0ed36"
+      }
+    }
+  ]
+}

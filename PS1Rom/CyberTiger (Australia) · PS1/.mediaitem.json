@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "CyberTiger (Australia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "CyberTiger (Australia).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac5b6465c25ff83f2d271118e61d0aec",
+        "sha1": "9c421b09649b463ebe46e19d8d53c5af38f20b52",
+        "crc32": "1b5abf81"
+      }
+    },
+    {
+      "filename": "CyberTiger (Australia).bin",
+      "filesize": 313359312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21db5419a487518cbe7c0d2c277449e3",
+        "sha1": "217e8ca6bf15b703635557f79c7df152040d80ff",
+        "crc32": "e6372f3f"
+      }
+    }
+  ]
+}

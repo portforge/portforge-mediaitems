@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ape Escape (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ape Escape (Europe) (Demo).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dca7e5db8cb42ff71aecce0c85dc4b29",
+        "sha1": "5d929979e3b489ecd2bb8808619f304e022fd040",
+        "crc32": "af919e0b"
+      }
+    },
+    {
+      "filename": "Ape Escape (Europe) (Demo) (Track 1).bin",
+      "filesize": 69104112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "817ecef281833ae75d7022f0c8e6c6cc",
+        "sha1": "4fa8a6bbb01e3fd6d1a2610b4e5665972728b84d",
+        "crc32": "1692a410"
+      }
+    },
+    {
+      "filename": "Ape Escape (Europe) (Demo) (Track 2).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

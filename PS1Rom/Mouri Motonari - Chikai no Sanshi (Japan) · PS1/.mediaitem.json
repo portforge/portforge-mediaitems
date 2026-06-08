@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mouri Motonari - Chikai no Sanshi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mouri Motonari - Chikai no Sanshi (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "23edfdc6fbf6eb63bbef54e2b241d163",
+        "sha1": "a150d3d71415a29dbabf8b13d71120decec8b09a",
+        "crc32": "57b07fb8"
+      }
+    },
+    {
+      "filename": "Mouri Motonari - Chikai no Sanshi (Japan).bin",
+      "filesize": 393193248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63fe31be821d6f5438cd4f0bd985792a",
+        "sha1": "47e52e18ff3f88dc7b3c08b5fd0de63e912dadef",
+        "crc32": "f21fe1cb"
+      }
+    }
+  ]
+}

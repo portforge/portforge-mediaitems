@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Tarzan (Sweden)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Tarzan (Sweden).cue",
+      "filesize": 216,
+      "ext": "cue",
+      "checksums": {
+        "md5": "66e097b7a929cfc41aa660f2b072e461",
+        "sha1": "eb838157fcb55390a173692149d109e5ecd7842f",
+        "crc32": "a45d2037"
+      }
+    },
+    {
+      "filename": "Disneys Tarzan (Sweden) (Track 1).bin",
+      "filesize": 485871456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbce9ca5bc36f592767f2eed35bb110b",
+        "sha1": "06b351b3c5e88f9461dcd1f0aa61051e9eacf570",
+        "crc32": "8a0bb8a2"
+      }
+    },
+    {
+      "filename": "Disneys Tarzan (Sweden) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

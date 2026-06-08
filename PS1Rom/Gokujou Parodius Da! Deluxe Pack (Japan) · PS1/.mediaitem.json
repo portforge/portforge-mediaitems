@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gokujou Parodius Da! Deluxe Pack (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gokujou Parodius Da! Deluxe Pack (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6e24c2325beac1ab0ee07f997fadc9a",
+        "sha1": "66b1fde64f203860f1843b1c51e04cf32e3aec92",
+        "crc32": "9f210bfb"
+      }
+    },
+    {
+      "filename": "Gokujou Parodius Da! Deluxe Pack (Japan).bin",
+      "filesize": 645083040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "872e2dd44c0fff66faf2c29be32f3201",
+        "sha1": "b2d207caf01c486da3a6703a1002698b571eadb5",
+        "crc32": "9c787b3f"
+      }
+    }
+  ]
+}

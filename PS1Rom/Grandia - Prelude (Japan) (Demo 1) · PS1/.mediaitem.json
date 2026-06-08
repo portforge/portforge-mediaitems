@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Grandia - Prelude (Japan) (Demo 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Grandia - Prelude (Japan) (Demo 1).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cae85e83ac6e0769c70e02b85bc7234f",
+        "sha1": "c9e9c4ca1ffc6699cd4456ac6046198561be4854",
+        "crc32": "9b660b80"
+      }
+    },
+    {
+      "filename": "Grandia - Prelude (Japan) (Demo 1).bin",
+      "filesize": 210529872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b946ea05a82b2f06f317fe83bbd22b59",
+        "sha1": "d9d3b920aa5992da683b0374e0bab3b79796d342",
+        "crc32": "aaa9abba"
+      }
+    }
+  ]
+}

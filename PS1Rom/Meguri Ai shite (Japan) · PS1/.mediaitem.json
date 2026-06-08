@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Meguri Ai shite (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Meguri Ai shite (Japan).cue",
+      "filesize": 333,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c3cf4db2de1d2e69239aa791300c6f4b",
+        "sha1": "e5c79daa9ed92f5f717f6108cc6c5c9c8a1f7eeb",
+        "crc32": "b41fd30d"
+      }
+    },
+    {
+      "filename": "Meguri Ai shite (Japan) (Track 1).bin",
+      "filesize": 597172800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cf90e16f6a82859f94008f71a3d8062",
+        "sha1": "1942c96c0631f61261c4dcbea5edb2e58411bd93",
+        "crc32": "f5634623"
+      }
+    },
+    {
+      "filename": "Meguri Ai shite (Japan) (Track 2).bin",
+      "filesize": 31667328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54f94b20820fd5dd39a1b809d06c333e",
+        "sha1": "1aa288ac22d0834e68c6f0d512ab9f39af1d4961",
+        "crc32": "4ed06c8d"
+      }
+    },
+    {
+      "filename": "Meguri Ai shite (Japan) (Track 3).bin",
+      "filesize": 31667328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54f94b20820fd5dd39a1b809d06c333e",
+        "sha1": "1aa288ac22d0834e68c6f0d512ab9f39af1d4961",
+        "crc32": "4ed06c8d"
+      }
+    }
+  ]
+}

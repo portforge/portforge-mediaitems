@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "South Park - Chef's Luv Shack (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "South Park - Chef's Luv Shack (USA).cue",
+      "filesize": 369,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bffaadcb744c5f1cda7765ac8a494bdc",
+        "sha1": "c5e652d742d3a2897ced8af199970a12cb45e8c8",
+        "crc32": "4dc86d1b"
+      }
+    },
+    {
+      "filename": "South Park - Chef's Luv Shack (USA) (Track 1).bin",
+      "filesize": 419069952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2782358f22806dcaa18d8d04543a2afa",
+        "sha1": "37b2226934e71b48380206144625836291946dad",
+        "crc32": "0b1a17bb"
+      }
+    },
+    {
+      "filename": "South Park - Chef's Luv Shack (USA) (Track 2).bin",
+      "filesize": 31810800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55571f661ce16d60c9aee81d9dc4d586",
+        "sha1": "47d8a30dfe8760dce9dd1d5c48f51a59e66ec322",
+        "crc32": "5c7652ab"
+      }
+    },
+    {
+      "filename": "South Park - Chef's Luv Shack (USA) (Track 3).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cross Romance - Koi to Mahjong to Hanafuda to (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cross Romance - Koi to Mahjong to Hanafuda to (Japan).cue",
+      "filesize": 276,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f36a651180bab6924194d376513379fa",
+        "sha1": "00774a17e8925d79cb3ae4bee47e6e74aa3c4e77",
+        "crc32": "7306a0ce"
+      }
+    },
+    {
+      "filename": "Cross Romance - Koi to Mahjong to Hanafuda to (Japan) (Track 1).bin",
+      "filesize": 630098448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "285caa7af967e6f976e2302ebc18685a",
+        "sha1": "59a06a5d698a70b8a99c7ce04bee0491dd3718f0",
+        "crc32": "97517f51"
+      }
+    },
+    {
+      "filename": "Cross Romance - Koi to Mahjong to Hanafuda to (Japan) (Track 2).bin",
+      "filesize": 44671536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b13bf6b49c77fc6175e8a421839bb559",
+        "sha1": "5e9e066fa3a01a16f452cb37d5f23d9b87b0ae8d",
+        "crc32": "b1ab9122"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Vagrant Story (Japan, Asia)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Vagrant Story (Japan, Asia).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ece7b1fc9f6c37304cba891cdcd7cccb",
+        "sha1": "004223de16f2130f862f421e668884cc976d0320",
+        "crc32": "ecee9f9b"
+      }
+    },
+    {
+      "filename": "Vagrant Story (Japan, Asia).bin",
+      "filesize": 750643152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "482b80f38e915aa2045a43935899c3b0",
+        "sha1": "3a528593b822982993e9317efc8ba608b129dae3",
+        "crc32": "74c57fc7"
+      }
+    }
+  ]
+}

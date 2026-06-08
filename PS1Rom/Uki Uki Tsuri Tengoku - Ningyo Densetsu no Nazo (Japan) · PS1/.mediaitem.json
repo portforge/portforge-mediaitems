@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan).cue",
+      "filesize": 1025,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e0947824bef3eed994a5d51d0572866",
+        "sha1": "ff1d3440d29e4bbffd36eaa935f8db4288d43c0c",
+        "crc32": "a48c117b"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan) (Track 1).bin",
+      "filesize": 198426480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5fc596cb4378f4a9680b2c11fdd223d4",
+        "sha1": "3e3b752e7f7b7a73f629441d967fc632bed7514a",
+        "crc32": "432745c6"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan) (Track 2).bin",
+      "filesize": 30834720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "40389f30f0eab16a6a257e3312bf18cb",
+        "sha1": "80a3fdaa391c1f859ce2c47eed5736872a30bf48",
+        "crc32": "9081a7d2"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan) (Track 3).bin",
+      "filesize": 3878448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "17b5523c2ddfe376485996bfc86871fc",
+        "sha1": "a1b497ada9095c76700cfa041d2fdf08bc347b0f",
+        "crc32": "dd9d508e"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan) (Track 4).bin",
+      "filesize": 5160288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "18c635adb51483f7a0a73f9355310fa6",
+        "sha1": "3db2973d0ef49714733c6321657db1ab714efd25",
+        "crc32": "ad20f935"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan) (Track 5).bin",
+      "filesize": 2083872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c05d73733e4e78ca511fbf1cb679b03",
+        "sha1": "431f585a70b937b30f821864315f0976ab902a5f",
+        "crc32": "7fcab6cf"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan) (Track 6).bin",
+      "filesize": 4261824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fca477dd9ebd52160a026cd51934111c",
+        "sha1": "c7615d3bc3cc1f1b1760bd6c22d327a69b1cf9db",
+        "crc32": "15d90797"
+      }
+    },
+    {
+      "filename": "Uki Uki Tsuri Tengoku - Ningyo Densetsu no Nazo (Japan) (Track 7).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10e3952c9ba74cc486ee0a9dd66c1a84",
+        "sha1": "4a5ce8d624b04507f739bb8e647cbb0d8b81a768",
+        "crc32": "c699c622"
+      }
+    }
+  ]
+}

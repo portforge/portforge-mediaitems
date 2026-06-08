@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tales of Destiny II (USA) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tales of Destiny II (USA) (Disc 3).cue",
+      "filesize": 238,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3240582c45022625540ee396ac810a05",
+        "sha1": "b6e8d4b7f6fb9c45679f2f4912b37611a4854552",
+        "crc32": "56ba2579"
+      }
+    },
+    {
+      "filename": "Tales of Destiny II (USA) (Disc 3) (Track 1).bin",
+      "filesize": 607857936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfed0d5c8ad186859231de7da3b0f11c",
+        "sha1": "e65a3ed3440ce181fa0d81ec901f4e47cd8d3078",
+        "crc32": "bd3c1560"
+      }
+    },
+    {
+      "filename": "Tales of Destiny II (USA) (Disc 3) (Track 2).bin",
+      "filesize": 32123616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f11b920d249bcbd76627f50135bea466",
+        "sha1": "773a46c3e786999c4ede2b728b480f8c5e7765c6",
+        "crc32": "2120b2da"
+      }
+    }
+  ]
+}

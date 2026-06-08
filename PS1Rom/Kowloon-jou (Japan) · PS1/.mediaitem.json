@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kowloon-jou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kowloon-jou (Japan).cue",
+      "filesize": 999,
+      "ext": "cue",
+      "checksums": {
+        "md5": "85d426421fbb1b12ec84ba6fbe5bb961",
+        "sha1": "bc08d50eea9b3d3f5bfbdaa1a80c39bff9b14c01",
+        "crc32": "fb934e3f"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 1).bin",
+      "filesize": 1733424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "25975b9159a01422e3f08f8d4b701ccc",
+        "sha1": "c4720b6c5a4af54e5b9af6d69173e909d6d91b64",
+        "crc32": "8bd6b6be"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 2).bin",
+      "filesize": 11964624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5739d9ba3d0570aee4067697b0934257",
+        "sha1": "bbe4c4246ed147901593314061236a07293032e5",
+        "crc32": "5960f71b"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 3).bin",
+      "filesize": 26375328,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be25ac73d355af5be38bb3a21976d2f0",
+        "sha1": "1b1a34e14014a35be49f089845a950abe28bda6a",
+        "crc32": "1ebadb85"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 4).bin",
+      "filesize": 14935200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ffd2fc0784eea8a1309105f1632cbf0c",
+        "sha1": "79f063706265b76ea99511badafe30f30451574d",
+        "crc32": "36becf18"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 5).bin",
+      "filesize": 15770160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50020123b6a6650fb621753b6b950a78",
+        "sha1": "46c464ca02581df0862d38fce3d16a61ae164eea",
+        "crc32": "aaf83d74"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 6).bin",
+      "filesize": 17505936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5c112d5939d2187071483c2df78c003e",
+        "sha1": "527784b8f0c6639af04c19fdc0a6e8caaeca490a",
+        "crc32": "88e972e7"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 7).bin",
+      "filesize": 1860432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "529b6efbb036b84ec56c8bc624842667",
+        "sha1": "d85ab6b97661b2595627111487fb5d95efa82be5",
+        "crc32": "8fd0dfaf"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 8).bin",
+      "filesize": 24157392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "836bd6d37f5ade0994eb2064c4d509f4",
+        "sha1": "4c358a66826c44b442b11ce12a66ff9b5097f049",
+        "crc32": "1af8cb04"
+      }
+    },
+    {
+      "filename": "Kowloon-jou (Japan) (Track 9).bin",
+      "filesize": 40336800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "312c5fc16adadff2fd69302d6a2a863c",
+        "sha1": "aaca866ea085a1f59a17b84cbf16c268e755ad7c",
+        "crc32": "416fded0"
+      }
+    }
+  ]
+}

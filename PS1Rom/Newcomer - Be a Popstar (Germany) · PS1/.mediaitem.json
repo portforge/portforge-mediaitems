@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Newcomer - Be a Popstar (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Newcomer - Be a Popstar (Germany).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6f857f15c155f280f38db80d19d0d6bb",
+        "sha1": "f725172fa259b6469b3c7e80568ff8126a51d55c",
+        "crc32": "5bcf1b8c"
+      }
+    },
+    {
+      "filename": "Newcomer - Be a Popstar (Germany) (Track 1).bin",
+      "filesize": 36778224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bc5f48a2c32bd842549cf1f47cc8358d",
+        "sha1": "2cacb256cf9d93a23bb336ce480bf7b4203d4197",
+        "crc32": "e9f4ef44"
+      }
+    },
+    {
+      "filename": "Newcomer - Be a Popstar (Germany) (Track 2).bin",
+      "filesize": 33508944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "308db86e70bdb4192f6c3603a9451a45",
+        "sha1": "26cd8247c03111249119495f64923196f85bc74e",
+        "crc32": "82ccd767"
+      }
+    }
+  ]
+}

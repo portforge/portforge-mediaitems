@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl) (Demo).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4643129b4a77e54f78a8a8873d67f530",
+        "sha1": "d2e26e7d420a250506d7dc49356d6e13b597c493",
+        "crc32": "ab6eda5e"
+      }
+    },
+    {
+      "filename": "Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl) (Demo).bin",
+      "filesize": 282244704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb910565d292929b06f26e5cd4955484",
+        "sha1": "1593e76d5085818932524793f13f571e3b9a4138",
+        "crc32": "1c05cd68"
+      }
+    }
+  ]
+}

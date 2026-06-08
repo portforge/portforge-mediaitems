@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kartia - The Word of Fate (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kartia - The Word of Fate (USA).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cc78afda5be32afade2cd691c91edb10",
+        "sha1": "5e29bcf1bd5a1f43ce1bc801572a6bc90740d193",
+        "crc32": "2b4309e2"
+      }
+    },
+    {
+      "filename": "Kartia - The Word of Fate (USA).bin",
+      "filesize": 531937728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "674d1dd5c315873f4cd795576ae419eb",
+        "sha1": "803a93070f70d3b7ec172517033329efdad1f4ca",
+        "crc32": "d3b9df56"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Chibi Maruko-chan - Maruko Enikki World (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Chibi Maruko-chan - Maruko Enikki World (Japan).cue",
+      "filesize": 546,
+      "ext": "cue",
+      "checksums": {
+        "md5": "61f4ee07360fdffbc97818520fff98cb",
+        "sha1": "414ce98a53ee83bdd133ff3a42369bba0602aa0c",
+        "crc32": "a125e18f"
+      }
+    },
+    {
+      "filename": "Chibi Maruko-chan - Maruko Enikki World (Japan) (Track 1).bin",
+      "filesize": 580080816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4d4d1d34484bd861bbd3e8cefd2777b6",
+        "sha1": "999ef40ee26745b25b9b9143146a30fef9a5475b",
+        "crc32": "05e1a46e"
+      }
+    },
+    {
+      "filename": "Chibi Maruko-chan - Maruko Enikki World (Japan) (Track 2).bin",
+      "filesize": 15454992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08533a8f2ccc7ed2e9131fe217a2bedc",
+        "sha1": "405648f3ee3b3832065e3e2101535981995c8aa8",
+        "crc32": "f2973369"
+      }
+    },
+    {
+      "filename": "Chibi Maruko-chan - Maruko Enikki World (Japan) (Track 3).bin",
+      "filesize": 15699600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1305b96ec7ffc3298430c5f3cef20d25",
+        "sha1": "8e9e8bbec9b738e290bd1aa31b6e9f69cda91d29",
+        "crc32": "72907b82"
+      }
+    },
+    {
+      "filename": "Chibi Maruko-chan - Maruko Enikki World (Japan) (Track 4).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hi-Octane - The Track Fights Back! (USA) (En,Fr,De,Es)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hi-Octane - The Track Fights Back! (USA) (En,Fr,De,Es).cue",
+      "filesize": 574,
+      "ext": "cue",
+      "checksums": {
+        "md5": "720c16b28953e88b0162f5584bb36517",
+        "sha1": "50366237923b688df322db14a130b7dee00d4ab0",
+        "crc32": "04d50fc6"
+      }
+    },
+    {
+      "filename": "Hi-Octane - The Track Fights Back! (USA) (En,Fr,De,Es) (Track 1).bin",
+      "filesize": 13051248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "180ad947eb68e144e8e77857697ce661",
+        "sha1": "2a232f5b0aa8b1ca2add82069b21644786921b56",
+        "crc32": "f7675fcc"
+      }
+    },
+    {
+      "filename": "Hi-Octane - The Track Fights Back! (USA) (En,Fr,De,Es) (Track 2).bin",
+      "filesize": 107761584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4a30985a783a8e9656b424557b6dd95",
+        "sha1": "b90f6eb98ef482cda135d1de9cbf50f28db11368",
+        "crc32": "8573ce54"
+      }
+    },
+    {
+      "filename": "Hi-Octane - The Track Fights Back! (USA) (En,Fr,De,Es) (Track 3).bin",
+      "filesize": 117350688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "47aea69da34df9e21d0ccc44e4c5f0bb",
+        "sha1": "5218489cdc1dc721ac92138be038a9852f4f442e",
+        "crc32": "e7f24541"
+      }
+    },
+    {
+      "filename": "Hi-Octane - The Track Fights Back! (USA) (En,Fr,De,Es) (Track 4).bin",
+      "filesize": 105002688,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dfbdcd6282b724e437c4055974af4082",
+        "sha1": "ffdfa39c94d43157e14f38a7022f6638b064a15c",
+        "crc32": "55735dce"
+      }
+    }
+  ]
+}

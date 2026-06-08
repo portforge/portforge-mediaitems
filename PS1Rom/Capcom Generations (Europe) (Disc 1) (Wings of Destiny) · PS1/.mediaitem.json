@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Capcom Generations (Europe) (Disc 1) (Wings of Destiny)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Capcom Generations (Europe) (Disc 1) (Wings of Destiny).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c4aca644630423610c20322ff107ef1f",
+        "sha1": "1ff673887c436a76aa63f9b760018a4ffc410c3f",
+        "crc32": "6b018079"
+      }
+    },
+    {
+      "filename": "Capcom Generations (Europe) (Disc 1) (Wings of Destiny).bin",
+      "filesize": 456116304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "38c76e2d8f94728a0c1457cbd10c26bc",
+        "sha1": "254cc8fb61419aa5462df217c2a70256f1c40e78",
+        "crc32": "d1516902"
+      }
+    }
+  ]
+}

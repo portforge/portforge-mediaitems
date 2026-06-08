@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Motto! Nyan to Wonderful 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Motto! Nyan to Wonderful 2 (Japan).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "383394d09f0644ce082a8686eb8efa38",
+        "sha1": "79418dc5203c53d4802a117bfbc491393c5f4198",
+        "crc32": "93067d21"
+      }
+    },
+    {
+      "filename": "Motto! Nyan to Wonderful 2 (Japan).bin",
+      "filesize": 373316496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df3e71fb4f0e05165d8291095e2e6d91",
+        "sha1": "eb47ec891e293afbd20e0dd18ab9a6ff7df31974",
+        "crc32": "dcc6a7f1"
+      }
+    }
+  ]
+}

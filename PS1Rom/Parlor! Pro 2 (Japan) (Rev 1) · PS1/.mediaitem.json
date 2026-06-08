@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Parlor! Pro 2 (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Parlor! Pro 2 (Japan) (Rev 1).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8844bfe1263513961fe17f9e044c93c0",
+        "sha1": "838f22cf276cda3dccb598848386dd6f8659b4ad",
+        "crc32": "667ff9e2"
+      }
+    },
+    {
+      "filename": "Parlor! Pro 2 (Japan) (Rev 1).bin",
+      "filesize": 89924016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f483cf60640ee3a1ca244eccc1a1d1d1",
+        "sha1": "f8481f06b3813a433cd2cc2362866d8cfe48fd83",
+        "crc32": "82fa3266"
+      }
+    }
+  ]
+}

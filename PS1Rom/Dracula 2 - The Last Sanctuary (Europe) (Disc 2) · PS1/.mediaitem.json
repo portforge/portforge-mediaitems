@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula 2 - The Last Sanctuary (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula 2 - The Last Sanctuary (Europe) (Disc 2).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6bc8faef20ef502f1b3358c84c7b21f",
+        "sha1": "e27a43b62eaf624626878289740f54cbe55746c9",
+        "crc32": "329ff66f"
+      }
+    },
+    {
+      "filename": "Dracula 2 - The Last Sanctuary (Europe) (Disc 2).bin",
+      "filesize": 568868832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ddbcd7e01d9cf1ee8329977f841584c",
+        "sha1": "07093dbe65336b718b65941f8bfe81a4c248a81f",
+        "crc32": "175394ff"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou - Beat the Dragon 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou - Beat the Dragon 2 (Japan).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3e90a0cf038ecb1fc7c535c3d5fb55d1",
+        "sha1": "df3ae20384589e81278c8cc9e7aa20faa671b97b",
+        "crc32": "bce4a839"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou - Beat the Dragon 2 (Japan).bin",
+      "filesize": 156645552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8206f34028c41661bdaa319470a263e3",
+        "sha1": "508d3b04249fee8e1c07bac908cceb18dd0c29db",
+        "crc32": "ac2f9aac"
+      }
+    }
+  ]
+}

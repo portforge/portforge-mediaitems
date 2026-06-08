@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Break Point (Europe) (En,Fr)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Break Point (Europe) (En,Fr).cue",
+      "filesize": 714,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2a3a5e26bf72ab1c5e5a5dfceec36b0a",
+        "sha1": "dcea108f5471a0bfe3283b4564fcba11b318612b",
+        "crc32": "06e30f2b"
+      }
+    },
+    {
+      "filename": "Break Point (Europe) (En,Fr) (Track 1).bin",
+      "filesize": 10835664,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f8a29148069751c15fa4b96527a55d2d",
+        "sha1": "c1fa8b6098e7c390b02133032bacf0a912b16272",
+        "crc32": "3569de4e"
+      }
+    },
+    {
+      "filename": "Break Point (Europe) (En,Fr) (Track 2).bin",
+      "filesize": 23160144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "68e330c42ebe5f11eab12945d51b66ca",
+        "sha1": "139be96cdf7166aacc7558da1e5d10bf23a72771",
+        "crc32": "8a3bc80a"
+      }
+    },
+    {
+      "filename": "Break Point (Europe) (En,Fr) (Track 3).bin",
+      "filesize": 23019024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b47d68f6765423015e360328a6699315",
+        "sha1": "141fce4fb12fe8d2a62d976007f83afde4804eba",
+        "crc32": "b0032c18"
+      }
+    },
+    {
+      "filename": "Break Point (Europe) (En,Fr) (Track 4).bin",
+      "filesize": 23117808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d752b138adcefff7aae3ec0f257d4b6d",
+        "sha1": "4a79d6dcfc8d0c78d28ddb93c64f702d403abe1c",
+        "crc32": "2317d5be"
+      }
+    },
+    {
+      "filename": "Break Point (Europe) (En,Fr) (Track 5).bin",
+      "filesize": 23084880,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12a89f6b2724fae5a91e608f1636570e",
+        "sha1": "e6c7e018b4e1ae5a326ef387214691533dd48546",
+        "crc32": "a0812937"
+      }
+    },
+    {
+      "filename": "Break Point (Europe) (En,Fr) (Track 6).bin",
+      "filesize": 28120512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "926cb690282a3ef71bd5272984c4b841",
+        "sha1": "254245a8e776cf6755a85d92647f6a649af2b156",
+        "crc32": "b92d7f5b"
+      }
+    }
+  ]
+}

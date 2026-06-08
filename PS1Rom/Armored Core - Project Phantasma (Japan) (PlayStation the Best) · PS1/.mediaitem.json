@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Armored Core - Project Phantasma (Japan) (PlayStation the Best)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Armored Core - Project Phantasma (Japan) (PlayStation the Best).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d526202f3ba14d0c13cfbfaff8424ef",
+        "sha1": "94e39dce1cd19f14d6ec48931df64af713db8658",
+        "crc32": "456971fc"
+      }
+    },
+    {
+      "filename": "Armored Core - Project Phantasma (Japan) (PlayStation the Best).bin",
+      "filesize": 545007792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cebe19753af95c58401a61bb73fdabe",
+        "sha1": "ba26e6d8c947eaf64e19ad52054080e140b25d08",
+        "crc32": "8b8c0d5c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Xploder CD9000 Version 1 (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Xploder CD9000 Version 1 (USA) (Unl).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a4755b48d4ab67dfdef019631fd6b87",
+        "sha1": "99ccd88ca026058e504ad3b6b9383971d4e5f6c5",
+        "crc32": "2bf537ef"
+      }
+    },
+    {
+      "filename": "Xploder CD9000 Version 1 (USA) (Unl).bin",
+      "filesize": 7342944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca3c42919c0f57f0acf7276988e62cc0",
+        "sha1": "d60d57966a6dbf23bcb47f6136ddbbfa00014236",
+        "crc32": "116745aa"
+      }
+    }
+  ]
+}

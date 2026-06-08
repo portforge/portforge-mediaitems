@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Great Rugby Jikkyou '98 - World Cup e no Michi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Great Rugby Jikkyou '98 - World Cup e no Michi (Japan).cue",
+      "filesize": 574,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0f8163a3f0577efb385fc0b201dbc74",
+        "sha1": "afcc0f8471426d4aa4d23f62dfa138c8da003b73",
+        "crc32": "5155d737"
+      }
+    },
+    {
+      "filename": "Great Rugby Jikkyou '98 - World Cup e no Michi (Japan) (Track 1).bin",
+      "filesize": 186828768,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b500f83259b2223ac03182b36c4c47c6",
+        "sha1": "03fe879b0e99ffede7e6cf28154673f86cbbf9fd",
+        "crc32": "ddb2b1f5"
+      }
+    },
+    {
+      "filename": "Great Rugby Jikkyou '98 - World Cup e no Michi (Japan) (Track 2).bin",
+      "filesize": 42691152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "50e79d13f4d415b763870cedf719daff",
+        "sha1": "b06f6023759f84c6493efac0895ff7c5ebcc3365",
+        "crc32": "9e4b25d5"
+      }
+    },
+    {
+      "filename": "Great Rugby Jikkyou '98 - World Cup e no Michi (Japan) (Track 3).bin",
+      "filesize": 18046896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9370d9348ffb2059bafd01983b87cb6",
+        "sha1": "e6daaa665489eb352d97f26b4474d1c0fdfe8f18",
+        "crc32": "0b0c0dfe"
+      }
+    },
+    {
+      "filename": "Great Rugby Jikkyou '98 - World Cup e no Michi (Japan) (Track 4).bin",
+      "filesize": 32610480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f6bc4c7328c53e51011727d777a0e752",
+        "sha1": "6e91bda2a5cb4d99f1d6c65fa11f084869210872",
+        "crc32": "cf63ce67"
+      }
+    }
+  ]
+}

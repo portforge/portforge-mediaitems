@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Muppet Monster Adventure (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Muppet Monster Adventure (France).cue",
+      "filesize": 236,
+      "ext": "cue",
+      "checksums": {
+        "md5": "45b5fcdf7f6a2b6c126071261e247417",
+        "sha1": "a7922c2fd2ba4a22c91fcdf820b75c77dc4e30b1",
+        "crc32": "68fed8fb"
+      }
+    },
+    {
+      "filename": "Muppet Monster Adventure (France) (Track 1).bin",
+      "filesize": 498621648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a1822bc25823f19defdfc439097cc337",
+        "sha1": "188f9867f28a17492ec19ff13dacc72d223bb0ce",
+        "crc32": "8e6878fc"
+      }
+    },
+    {
+      "filename": "Muppet Monster Adventure (France) (Track 2).bin",
+      "filesize": 48724032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6ee0f0a90b0e627a2e3506043adadc1d",
+        "sha1": "82a5915544fd71b4bc50bf63e798478847f27753",
+        "crc32": "fb1c7b92"
+      }
+    }
+  ]
+}

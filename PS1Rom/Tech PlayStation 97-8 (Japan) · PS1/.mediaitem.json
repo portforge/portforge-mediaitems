@@ -1,0 +1,77 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tech PlayStation 97-8 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tech PlayStation 97-8 (Japan).cue",
+      "filesize": 720,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68b2eca135008d1dcf9efc670010f8e4",
+        "sha1": "31fbf6a58ffb7040384587a07c765474787fd87b",
+        "crc32": "6b4a77bb"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-8 (Japan) (Track 1).bin",
+      "filesize": 572726112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d4596cd06407db61a266fdcc464959c5",
+        "sha1": "c1630c9d76ce685085df1f30472921f6a69e03d7",
+        "crc32": "6b3eb8a4"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-8 (Japan) (Track 2).bin",
+      "filesize": 2389632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a24ffe8ba961259f975c8d22512d6a4",
+        "sha1": "b8611528bc0af3e1fbc3db7a9ee3e13c77ed10c4",
+        "crc32": "30ad31ea"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-8 (Japan) (Track 3).bin",
+      "filesize": 7399392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "351f3daa10b81da0b868304fc8bf21af",
+        "sha1": "2d39004be4e180636f3664679c5b0388c3cd36d6",
+        "crc32": "27c4b2fc"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-8 (Japan) (Track 4).bin",
+      "filesize": 10953264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "57b000efee8deb199704adcee488b793",
+        "sha1": "85811d0998fab0edb0ad9f043b16c05e33e136db",
+        "crc32": "38edb7fb"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-8 (Japan) (Track 5).bin",
+      "filesize": 1173648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "53fee1e95006c174f9065628d3a6df29",
+        "sha1": "dcd5d1d4fe1ebc0e2c43265afe143dcaab3ed5b0",
+        "crc32": "5b5bab06"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-8 (Japan) (Track 6).bin",
+      "filesize": 47122320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "850b1d0303c9da75fff6f305278ad75a",
+        "sha1": "a99ce95119fa912f5cfdbcd1376c529df083df0a",
+        "crc32": "a8213d08"
+      }
+    }
+  ]
+}

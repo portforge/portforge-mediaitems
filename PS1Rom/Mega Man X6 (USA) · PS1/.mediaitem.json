@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mega Man X6 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mega Man X6 (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1e179189708c2eb6ee782ea7c96e906f",
+        "sha1": "4f029ca2a8e134e70130c5309b31046da9d73432",
+        "crc32": "870718a8"
+      }
+    },
+    {
+      "filename": "Mega Man X6 (USA).bin",
+      "filesize": 599985792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ff50af80533a1a9a3a9fe6fbe4a8560f",
+        "sha1": "80f856d4ecf4b7bd25a15173e1228ab73b48af98",
+        "crc32": "031be0e9"
+      }
+    }
+  ]
+}

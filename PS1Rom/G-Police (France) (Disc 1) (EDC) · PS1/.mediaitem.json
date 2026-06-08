@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G-Police (France) (Disc 1) (EDC)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G-Police (France) (Disc 1) (EDC).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1d1ef089d42630149a084c6582a0ab36",
+        "sha1": "5224c0e33b0824454f12bbe55c876ad2852aed17",
+        "crc32": "537d0d58"
+      }
+    },
+    {
+      "filename": "G-Police (France) (Disc 1) (EDC).bin",
+      "filesize": 739285344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b19eb2b2cb45ed96cafa7e271c4a1e7",
+        "sha1": "6ff413f60cff1e4dba4ea46139d5e23b58108ab0",
+        "crc32": "4d3660f8"
+      }
+    }
+  ]
+}

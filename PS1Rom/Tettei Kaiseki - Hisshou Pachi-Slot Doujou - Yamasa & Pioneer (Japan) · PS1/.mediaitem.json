@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tettei Kaiseki - Hisshou Pachi-Slot Doujou - Yamasa & Pioneer (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tettei Kaiseki - Hisshou Pachi-Slot Doujou - Yamasa & Pioneer (Japan).cue",
+      "filesize": 634,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7956092a5b932c8cd21a38c48d9d0428",
+        "sha1": "1af48b69d7cbd4f3b7677b7249f61bfe0f71fea7",
+        "crc32": "49ff3d40"
+      }
+    },
+    {
+      "filename": "Tettei Kaiseki - Hisshou Pachi-Slot Doujou - Yamasa & Pioneer (Japan) (Track 1).bin",
+      "filesize": 11548320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c3a624680da43c6a41c3f628be2dd98",
+        "sha1": "da5be3aca261a6c4cd63a4578a987e870008db45",
+        "crc32": "acf20296"
+      }
+    },
+    {
+      "filename": "Tettei Kaiseki - Hisshou Pachi-Slot Doujou - Yamasa & Pioneer (Japan) (Track 2).bin",
+      "filesize": 33878208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "36ee2ec711e460874403122b36c38d49",
+        "sha1": "e2f1e4883c36244fa97153175f0298911cb431e3",
+        "crc32": "b2a5693f"
+      }
+    },
+    {
+      "filename": "Tettei Kaiseki - Hisshou Pachi-Slot Doujou - Yamasa & Pioneer (Japan) (Track 3).bin",
+      "filesize": 24545472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd94561f5b52c4d3e9c7947f04f96bbd",
+        "sha1": "3dedda3507180212342ba055fa76260c7c494faa",
+        "crc32": "3626d2a1"
+      }
+    },
+    {
+      "filename": "Tettei Kaiseki - Hisshou Pachi-Slot Doujou - Yamasa & Pioneer (Japan) (Track 4).bin",
+      "filesize": 40353264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "76d1247ace938d4021595fdcd4e4dd5d",
+        "sha1": "c9562a235770504f552b002f383c523983e7c0cd",
+        "crc32": "8123e8fd"
+      }
+    }
+  ]
+}

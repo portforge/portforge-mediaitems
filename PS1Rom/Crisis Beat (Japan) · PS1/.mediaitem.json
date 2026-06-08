@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crisis Beat (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crisis Beat (Japan).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "726664010e1732e7ace078096edf0b8a",
+        "sha1": "4e691f67483874796a27f84797e3b098512e6633",
+        "crc32": "caa32d4a"
+      }
+    },
+    {
+      "filename": "Crisis Beat (Japan).bin",
+      "filesize": 676665696,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04f9ba0bb61f62cd4390b7818a1a967a",
+        "sha1": "13009290f574751a01d42895d5a8d899e80c4bc4",
+        "crc32": "c82c759a"
+      }
+    }
+  ]
+}

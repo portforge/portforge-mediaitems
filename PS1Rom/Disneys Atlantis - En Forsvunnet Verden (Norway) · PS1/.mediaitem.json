@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Atlantis - En Forsvunnet Verden (Norway)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Atlantis - En Forsvunnet Verden (Norway).cue",
+      "filesize": 266,
+      "ext": "cue",
+      "checksums": {
+        "md5": "99e3c124d88a784479675f37dc4f3b85",
+        "sha1": "e423af38939cd8a5dad808e1f3b022f713b9d1fb",
+        "crc32": "665342ef"
+      }
+    },
+    {
+      "filename": "Disneys Atlantis - En Forsvunnet Verden (Norway) (Track 1).bin",
+      "filesize": 337796592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5a4c2522472c697ac74dc78ed13906b4",
+        "sha1": "87f9a2034ab21597e261a5ec324468ea2d892f0a",
+        "crc32": "d6afefbd"
+      }
+    },
+    {
+      "filename": "Disneys Atlantis - En Forsvunnet Verden (Norway) (Track 2).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

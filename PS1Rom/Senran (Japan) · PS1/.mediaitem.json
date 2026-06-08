@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Senran (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Senran (Japan).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c81cdab7717f473cfeb89de7f1ee7e9b",
+        "sha1": "358a3ca286ba8899d6169fb3fd1d64c76aa4e248",
+        "crc32": "a61385a3"
+      }
+    },
+    {
+      "filename": "Senran (Japan).bin",
+      "filesize": 42902832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dee62ae993f759ab59c5735c7447202b",
+        "sha1": "32066b34432763504d87b3b64d8da55c83c32e18",
+        "crc32": "3bec87a2"
+      }
+    }
+  ]
+}

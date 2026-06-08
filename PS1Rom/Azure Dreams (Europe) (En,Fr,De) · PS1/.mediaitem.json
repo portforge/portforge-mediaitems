@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Azure Dreams (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Azure Dreams (Europe) (En,Fr,De).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1222b23a8042d0574e9b8b832c2b99a3",
+        "sha1": "90d91b1b680ce3c5356c0c5d3dcc461b270bb191",
+        "crc32": "bc867b03"
+      }
+    },
+    {
+      "filename": "Azure Dreams (Europe) (En,Fr,De).bin",
+      "filesize": 524688864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a06c5b98773d0134bd0782851cd6ea6f",
+        "sha1": "c26830d0ca84eb1f3d39623395f9ddd29a53ad4d",
+        "crc32": "4a560723"
+      }
+    }
+  ]
+}

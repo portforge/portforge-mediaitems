@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Murakoshi Seikai no Bakuchou Nihon Rettou 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Murakoshi Seikai no Bakuchou Nihon Rettou 2 (Japan).cue",
+      "filesize": 117,
+      "ext": "cue",
+      "checksums": {
+        "md5": "424ae9797be8dc16cb4ce71937c183f5",
+        "sha1": "89c004f9bf30801a1c2baa83a550ecea45ef6537",
+        "crc32": "95066246"
+      }
+    },
+    {
+      "filename": "Murakoshi Seikai no Bakuchou Nihon Rettou 2 (Japan).bin",
+      "filesize": 603398544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c3bcf185ea51a9a4e1958c1106571cda",
+        "sha1": "3ec64ab745d23f7ded27645fe1f35c339b0c61b8",
+        "crc32": "fd053ee6"
+      }
+    }
+  ]
+}

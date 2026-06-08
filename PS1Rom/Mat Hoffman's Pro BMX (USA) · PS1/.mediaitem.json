@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mat Hoffman's Pro BMX (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mat Hoffman's Pro BMX (USA).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67d1740c3abf6e210687bc3812475c0b",
+        "sha1": "a0260a1e6b0f472a6e2c09eafffbd4e3ad4dbf90",
+        "crc32": "0acb1bcd"
+      }
+    },
+    {
+      "filename": "Mat Hoffman's Pro BMX (USA).bin",
+      "filesize": 692711040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f0d999b2dff12be8780f27f41afb5bb",
+        "sha1": "0c5e76f6d6129c39d13758189ae1eedd1df417eb",
+        "crc32": "9488f911"
+      }
+    }
+  ]
+}

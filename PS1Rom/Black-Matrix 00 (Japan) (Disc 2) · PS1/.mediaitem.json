@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Black-Matrix 00 (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Black-Matrix 00 (Japan) (Disc 2).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e62eed1cfbc98472d04361aedbef461a",
+        "sha1": "ebeecff58b173befb370ed4434f632dbf97fdcf5",
+        "crc32": "133a304b"
+      }
+    },
+    {
+      "filename": "Black-Matrix 00 (Japan) (Disc 2).bin",
+      "filesize": 613655616,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c9fb19007be4efda1d92bb17b7af257",
+        "sha1": "bd2e111a087b2dc5cb041a6b7643e6743da281ef",
+        "crc32": "ee1e0369"
+      }
+    }
+  ]
+}

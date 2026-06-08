@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rescue Shot Bubibo (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rescue Shot Bubibo (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9995caa0985c85b0be2c378eddb638e4",
+        "sha1": "fa9dbda84378933ff2d9af06acdcef0e591dbaed",
+        "crc32": "3ac45429"
+      }
+    },
+    {
+      "filename": "Rescue Shot Bubibo (Japan).bin",
+      "filesize": 397742016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "102d7580d050b12aacc09ebab6ea1047",
+        "sha1": "27e921b97ddb2f1703f8d16a4a40399857392860",
+        "crc32": "ec44c20c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Psychic Detective (Europe) (Disc 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Psychic Detective (Europe) (Disc 3).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac8c8225bd8a8283674eb183ae414a2a",
+        "sha1": "3bec978b3729abe51f49dc1243f2248d4eb779cf",
+        "crc32": "fdd1f43e"
+      }
+    },
+    {
+      "filename": "Psychic Detective (Europe) (Disc 3).bin",
+      "filesize": 644970144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "23b99fc0b010ed95b85577f82dce954c",
+        "sha1": "4dcc871f2c51d635cdf1729ade0498c4cc17cd61",
+        "crc32": "52dc269b"
+      }
+    }
+  ]
+}

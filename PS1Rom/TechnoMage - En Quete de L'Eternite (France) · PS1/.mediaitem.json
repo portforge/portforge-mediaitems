@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "TechnoMage - En Quete de L'Eternite (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "TechnoMage - En Quete de L'Eternite (France).cue",
+      "filesize": 110,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6551372205305955ad13d5d60e4378fc",
+        "sha1": "aefe1d47c49e1ef47bd6c2e059f93d39db238fd5",
+        "crc32": "c17633fb"
+      }
+    },
+    {
+      "filename": "TechnoMage - En Quete de L'Eternite (France).bin",
+      "filesize": 679666848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d73df9c091570a1489648bd63db43276",
+        "sha1": "c54b68713ff2c4a0f43dff411243bb1ff538e6a8",
+        "crc32": "a111b887"
+      }
+    }
+  ]
+}

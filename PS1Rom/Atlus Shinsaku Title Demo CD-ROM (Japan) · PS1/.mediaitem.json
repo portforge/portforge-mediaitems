@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Atlus Shinsaku Title Demo CD-ROM (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Atlus Shinsaku Title Demo CD-ROM (Japan).cue",
+      "filesize": 250,
+      "ext": "cue",
+      "checksums": {
+        "md5": "27686067e70b3d52b213811238f38664",
+        "sha1": "872965eeb5ac8c1347a25b80386fbe95f727b579",
+        "crc32": "33a028a1"
+      }
+    },
+    {
+      "filename": "Atlus Shinsaku Title Demo CD-ROM (Japan) (Track 1).bin",
+      "filesize": 278528544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4acbbb744332f694b2ca60f572d632c1",
+        "sha1": "fa965ef4be5785eac08d2c7f4f6b09e6fba3ef6f",
+        "crc32": "e045b0ba"
+      }
+    },
+    {
+      "filename": "Atlus Shinsaku Title Demo CD-ROM (Japan) (Track 2).bin",
+      "filesize": 59931312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b2ce5c1ee42d4f13bd2cc586b03a4866",
+        "sha1": "a794de6cb03ec8e42b74d7712d1c399c79844a81",
+        "crc32": "f6552e69"
+      }
+    }
+  ]
+}

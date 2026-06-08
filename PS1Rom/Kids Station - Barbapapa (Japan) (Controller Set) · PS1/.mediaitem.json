@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kids Station - Barbapapa (Japan) (Controller Set)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kids Station - Barbapapa (Japan) (Controller Set).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4bb3778929e458cc74a840e79da5cb4a",
+        "sha1": "3955510ce6aba46f5b924f22026ac99634a7c996",
+        "crc32": "3032754d"
+      }
+    },
+    {
+      "filename": "Kids Station - Barbapapa (Japan) (Controller Set).bin",
+      "filesize": 84697872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b79565163fc0952b48e3fff946878fd3",
+        "sha1": "75ccdfc07bdbcf103857ed256a5a33f0fc52bf2a",
+        "crc32": "363233d8"
+      }
+    }
+  ]
+}

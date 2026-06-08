@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Geometry Duel (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Geometry Duel (Japan).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cf0a4adaec98b06db6d079eeaff7ce96",
+        "sha1": "10b7fe8ac5bd26630b32942f28f5ba0f3307a76d",
+        "crc32": "3b0c30fc"
+      }
+    },
+    {
+      "filename": "Geometry Duel (Japan).bin",
+      "filesize": 512891232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "df0c96c268f51512ccda96a2fba18e0f",
+        "sha1": "994dde209bc2c2d533bb768ed94dbcf858b25ae7",
+        "crc32": "3a65d250"
+      }
+    }
+  ]
+}

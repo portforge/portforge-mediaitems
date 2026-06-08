@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harry Potter and the Philosopher's Stone (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harry Potter and the Philosopher's Stone (Europe) (En,Fr,De).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a2d64a8629e27a9b7576b2de206a5a73",
+        "sha1": "b2092ff07e8b381439eea69231ab4107a2da571f",
+        "crc32": "cc448cf1"
+      }
+    },
+    {
+      "filename": "Harry Potter and the Philosopher's Stone (Europe) (En,Fr,De).bin",
+      "filesize": 623562240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "03cfa8f918e1b10a3023ef41fc58adff",
+        "sha1": "07ebc3c37bba72429a817b95798fdfaa15139e79",
+        "crc32": "86def74b"
+      }
+    }
+  ]
+}

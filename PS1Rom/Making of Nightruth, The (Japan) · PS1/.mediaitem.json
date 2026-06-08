@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Making of Nightruth, The (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Making of Nightruth, The (Japan).cue",
+      "filesize": 234,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d0987dd2972f5aae9be29a9483b84c70",
+        "sha1": "c6f28965b14f878962eba408ef90611d83da089d",
+        "crc32": "b097b88f"
+      }
+    },
+    {
+      "filename": "Making of Nightruth, The (Japan) (Track 1).bin",
+      "filesize": 703626672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b29dc68395a3e1d1b677488b4233e7d1",
+        "sha1": "86dca2e84bdd70605295fca7323294de9e98ece8",
+        "crc32": "7cc6acde"
+      }
+    },
+    {
+      "filename": "Making of Nightruth, The (Japan) (Track 2).bin",
+      "filesize": 46019232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e33841fb9fd004e8796d93bdfdbeb07",
+        "sha1": "af8227d1ecc03ef4948485d11aa0f589e4d71cb5",
+        "crc32": "04c70d72"
+      }
+    }
+  ]
+}

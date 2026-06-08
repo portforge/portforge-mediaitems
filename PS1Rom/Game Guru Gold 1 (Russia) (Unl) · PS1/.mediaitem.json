@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game Guru Gold 1 (Russia) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game Guru Gold 1 (Russia) (Unl).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fd6708fc7576509a0b95bdaf07654cf9",
+        "sha1": "1b3f64ad3a3fafa79b49c99848231ba27d955bc7",
+        "crc32": "4bf84bdf"
+      }
+    },
+    {
+      "filename": "Game Guru Gold 1 (Russia) (Unl).bin",
+      "filesize": 672102816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7da9c3c374959e4f6e169047aeb21bf6",
+        "sha1": "bde48ead335c7dfc6c5194a67ffc4192de7f236a",
+        "crc32": "b0e97cc7"
+      }
+    }
+  ]
+}

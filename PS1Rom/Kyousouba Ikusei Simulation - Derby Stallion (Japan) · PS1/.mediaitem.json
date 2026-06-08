@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kyousouba Ikusei Simulation - Derby Stallion (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kyousouba Ikusei Simulation - Derby Stallion (Japan).cue",
+      "filesize": 118,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d8c1e1fb792b99ade3e448fc650099c",
+        "sha1": "ae2e0eaa424ba188b64befd481392d2473a8f121",
+        "crc32": "33240376"
+      }
+    },
+    {
+      "filename": "Kyousouba Ikusei Simulation - Derby Stallion (Japan).bin",
+      "filesize": 405917568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "229628af174c756e2d72875347ae6cd1",
+        "sha1": "3746df50240f09124381905c792b48cdfa7d953e",
+        "crc32": "e79cd418"
+      }
+    }
+  ]
+}

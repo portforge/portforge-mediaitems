@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Broken Helix (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Broken Helix (Germany).cue",
+      "filesize": 88,
+      "ext": "cue",
+      "checksums": {
+        "md5": "018ff57d1104c53c76c960ab0c0af00b",
+        "sha1": "e938be90936fc0e0befca0925bfca2e69343f2d6",
+        "crc32": "cd8f22ac"
+      }
+    },
+    {
+      "filename": "Broken Helix (Germany).bin",
+      "filesize": 727546512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4a593f4eb38fc109658b3a327f5aa83",
+        "sha1": "b25c5ea78296b0c522cbda34ff0b061ace44d2ac",
+        "crc32": "c3fa5cc9"
+      }
+    }
+  ]
+}

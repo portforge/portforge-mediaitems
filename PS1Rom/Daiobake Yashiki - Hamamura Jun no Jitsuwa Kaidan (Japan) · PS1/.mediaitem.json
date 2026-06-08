@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Daiobake Yashiki - Hamamura Jun no Jitsuwa Kaidan (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Daiobake Yashiki - Hamamura Jun no Jitsuwa Kaidan (Japan).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7f357d7cbb3c9898296dc70052010506",
+        "sha1": "826187850d1c1be7e5c28a744210a300810ab370",
+        "crc32": "b40c94fe"
+      }
+    },
+    {
+      "filename": "Daiobake Yashiki - Hamamura Jun no Jitsuwa Kaidan (Japan).bin",
+      "filesize": 652209600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ce76d9e48440bb9cb257a1f3c2fc976",
+        "sha1": "0279093e19788c1594f24352904fb81f3c7bfbec",
+        "crc32": "f9c0d91e"
+      }
+    }
+  ]
+}

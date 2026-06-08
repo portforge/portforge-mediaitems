@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gex (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gex (Japan).cue",
+      "filesize": 77,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a8541921c9bd99fdea434dbda5d0fa37",
+        "sha1": "bf4359e213b183c10fc561f8dc8c94213b7ad344",
+        "crc32": "7f527e94"
+      }
+    },
+    {
+      "filename": "Gex (Japan).bin",
+      "filesize": 172403952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7ee5f0cf44eb304201479989c48589ee",
+        "sha1": "0475465d0d6d1c56c269d4497268d1b3e1e3f884",
+        "crc32": "496215e2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dino Crisis (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dino Crisis (Germany).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41211717adc12a9f3e0c38573474ac8f",
+        "sha1": "47c8a9c14ab2477c2b85cb7375bfc236fd254e46",
+        "crc32": "d2a10808"
+      }
+    },
+    {
+      "filename": "Dino Crisis (Germany) (Track 1).bin",
+      "filesize": 387334416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "775dd8c828da9179b1181a3a1399646d",
+        "sha1": "d323a7f2b2603aefd1e286f260dd2bc0b2e2695f",
+        "crc32": "3bbb9b8f"
+      }
+    },
+    {
+      "filename": "Dino Crisis (Germany) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MoHo (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MoHo (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2509ac7368d90473d9d89b034dc5d836",
+        "sha1": "9a088157fe3098459d235185905be3cd013f6854",
+        "crc32": "20c88bc5"
+      }
+    },
+    {
+      "filename": "MoHo (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 532612752,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2040ffdb1c13f5de7ee8a9d4ddcbe677",
+        "sha1": "e12b4919cef3f827df41265c65b37722f9662823",
+        "crc32": "955eeb89"
+      }
+    }
+  ]
+}

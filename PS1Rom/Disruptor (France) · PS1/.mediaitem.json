@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disruptor (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disruptor (France).cue",
+      "filesize": 84,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1ce91401e509abb65d31ece0518100f",
+        "sha1": "9fb57c805670cb8532612b3a1ab94be5f22776eb",
+        "crc32": "e00ae15d"
+      }
+    },
+    {
+      "filename": "Disruptor (France).bin",
+      "filesize": 638283408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "682c71f2b6b7bb6e1311b7a698be075f",
+        "sha1": "c3c7b64543908dda8366b2662e08faa927e90469",
+        "crc32": "f10da090"
+      }
+    }
+  ]
+}

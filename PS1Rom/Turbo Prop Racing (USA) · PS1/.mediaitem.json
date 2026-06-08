@@ -1,0 +1,107 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Turbo Prop Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Turbo Prop Racing (USA).cue",
+      "filesize": 1035,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a1bba36d2f1d1792c80b7e909c7e1df5",
+        "sha1": "27d80f473d6d649557c6e890101b122c82bde38a",
+        "crc32": "c4ee8036"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 1).bin",
+      "filesize": 212355024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8dad788c6b313a866b768831b8210a4f",
+        "sha1": "61f187951cb904bda0f328d678dcccaf238e2513",
+        "crc32": "7b3dacf8"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 2).bin",
+      "filesize": 55984656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "19ec8152ca9628b622ceab6066383969",
+        "sha1": "a0ab986d80b664fb1811ce395f79d8c4377702ca",
+        "crc32": "80848f40"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 3).bin",
+      "filesize": 51266544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01f6aad146f271ce513ee0607faa85d2",
+        "sha1": "5346a886f28cf9468412fe3a1122bda5e7e6145f",
+        "crc32": "efa48437"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 4).bin",
+      "filesize": 54352368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bb6dec66d06b89e20ab814d9d31f811",
+        "sha1": "4e55fe29fd6e4c60cb86fb5e8dc454e339b99f03",
+        "crc32": "74076814"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 5).bin",
+      "filesize": 58964640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "35b04375b82d28dd464585d016cf9bc1",
+        "sha1": "1c6322f3f98f791542a35145439af33c87ac576c",
+        "crc32": "ffe70d95"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 6).bin",
+      "filesize": 54766320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7a549b47278aa15b511a5477010ecff5",
+        "sha1": "368f0758cf158aadcb2e0afb665886250b00dbc3",
+        "crc32": "815f06b4"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 7).bin",
+      "filesize": 54145392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71a753a41b2ac893fec99f708137b2a9",
+        "sha1": "f7d42bdfeddd4ab1adcb3a57e00f93286efa3ab0",
+        "crc32": "2c1f4f72"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 8).bin",
+      "filesize": 34877808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6bb6911a5f680e2e0b3240e49aad2c1",
+        "sha1": "7ad49e1dec9e475f015a2a319a4d250db9172dd1",
+        "crc32": "9e3b35ab"
+      }
+    },
+    {
+      "filename": "Turbo Prop Racing (USA) (Track 9).bin",
+      "filesize": 34877808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6bb6911a5f680e2e0b3240e49aad2c1",
+        "sha1": "7ad49e1dec9e475f015a2a319a4d250db9172dd1",
+        "crc32": "9e3b35ab"
+      }
+    }
+  ]
+}

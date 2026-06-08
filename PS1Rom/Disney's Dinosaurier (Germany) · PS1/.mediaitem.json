@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney's Dinosaurier (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney's Dinosaurier (Germany).cue",
+      "filesize": 96,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2e147b1ef42f965687d71a7c5dfdf7cf",
+        "sha1": "839e40b7313a90aa2888b2568191dbb2d87189f7",
+        "crc32": "c0e86a64"
+      }
+    },
+    {
+      "filename": "Disney's Dinosaurier (Germany).bin",
+      "filesize": 497229264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0ae7b3ef9dff6b8e4c722367a6deebd9",
+        "sha1": "333af3fe9afdadc060b0c9da48673694fc778251",
+        "crc32": "ec9f1390"
+      }
+    }
+  ]
+}

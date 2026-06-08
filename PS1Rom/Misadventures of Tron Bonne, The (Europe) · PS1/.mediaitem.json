@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Misadventures of Tron Bonne, The (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Misadventures of Tron Bonne, The (Europe).cue",
+      "filesize": 252,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e54a1720d666d6e97b02cc30de30065c",
+        "sha1": "1182448ee140ec0b7f941be89efd9da6cfb16886",
+        "crc32": "f6b6a852"
+      }
+    },
+    {
+      "filename": "Misadventures of Tron Bonne, The (Europe) (Track 1).bin",
+      "filesize": 349947024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f2e4a1fc24643fcecdfdd8f5d9b4646",
+        "sha1": "bd24f4400d59ea258753e8096de890f1f2c37eb9",
+        "crc32": "e9101133"
+      }
+    },
+    {
+      "filename": "Misadventures of Tron Bonne, The (Europe) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "De Sang Froid (France) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "De Sang Froid (France) (Disc 2).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fba2481fdf66393b727289c3d715fe17",
+        "sha1": "f42faf0f01e79e76e0f3af6d071b59343dd4ba99",
+        "crc32": "4536566e"
+      }
+    },
+    {
+      "filename": "De Sang Froid (France) (Disc 2).bin",
+      "filesize": 655982208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24fe471ce2aca8a073ca9b9dd6f78693",
+        "sha1": "ef70a8a2e16184a49568b0ea6fd3f1ba19568401",
+        "crc32": "7f8f9bf5"
+      }
+    }
+  ]
+}

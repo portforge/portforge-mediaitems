@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Japan) (Disc 2).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "014fa8f4408368a2361a9b8a53dd7b86",
+        "sha1": "712d38674ca4c7373bdbab1978c4b7a01f2121b9",
+        "crc32": "412625f1"
+      }
+    },
+    {
+      "filename": "Cinema Eikaiwa Series Dai-4-dan - Boy's Life (Japan) (Disc 2).bin",
+      "filesize": 583105488,
+      "ext": "bin",
+      "checksums": {
+        "md5": "864327c6c8ab8d0b5aebb1723663f604",
+        "sha1": "613af9613d4931ba9bcea580ddf97e0ebd124da9",
+        "crc32": "90a4fdca"
+      }
+    }
+  ]
+}

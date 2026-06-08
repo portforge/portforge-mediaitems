@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "EPS Series Vol. 3 - Come and Kiss Me - Tomomi Tsunoda (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "EPS Series Vol. 3 - Come and Kiss Me - Tomomi Tsunoda (Japan).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "68870a314cabdec07249e28503c22017",
+        "sha1": "633f4239e49d2972e2777392eb792de163d2bf80",
+        "crc32": "244643e8"
+      }
+    },
+    {
+      "filename": "EPS Series Vol. 3 - Come and Kiss Me - Tomomi Tsunoda (Japan).bin",
+      "filesize": 489291264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ca4312dd36c9ff4452602e129d164c36",
+        "sha1": "5f672ffa1101a1c50edb787ad3798bdf038b23d4",
+        "crc32": "ff3bd5a8"
+      }
+    }
+  ]
+}

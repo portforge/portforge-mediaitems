@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Ixiom (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Ixiom (Europe).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d519dab8538685b9bdae2e7fe1901079",
+        "sha1": "53a47764463a36cd24de9ffcd134ab4f29572aee",
+        "crc32": "58e6c63d"
+      }
+    },
+    {
+      "filename": "Star Ixiom (Europe).bin",
+      "filesize": 474993456,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f91680648b2892cf4eafd4ef7e974e93",
+        "sha1": "1e6bf1773306332ae3b84f59e075fd37d76dabd6",
+        "crc32": "bf458eb3"
+      }
+    }
+  ]
+}

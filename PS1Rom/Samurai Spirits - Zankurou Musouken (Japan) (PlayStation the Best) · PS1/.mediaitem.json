@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Samurai Spirits - Zankurou Musouken (Japan) (PlayStation the Best)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Samurai Spirits - Zankurou Musouken (Japan) (PlayStation the Best).cue",
+      "filesize": 132,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bdc0444ddbcfe8fa00e46ba7cddddf22",
+        "sha1": "27760a16e47852c2a67e116a0783c9d62a6ef94b",
+        "crc32": "53de4e30"
+      }
+    },
+    {
+      "filename": "Samurai Spirits - Zankurou Musouken (Japan) (PlayStation the Best).bin",
+      "filesize": 415184448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "22e8ac5f67daa933afb0887402570a25",
+        "sha1": "d98b25e079e2ee20cd670ff1677945820aa49666",
+        "crc32": "1dc1fbda"
+      }
+    }
+  ]
+}

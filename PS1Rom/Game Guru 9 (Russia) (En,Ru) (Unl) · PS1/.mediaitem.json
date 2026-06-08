@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Game Guru 9 (Russia) (En,Ru) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Game Guru 9 (Russia) (En,Ru) (Unl).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "51ecea4d5a0cf9ffe2321bb05470ee85",
+        "sha1": "fff396e83aef2987f5d7857f0292e574e8ba2df0",
+        "crc32": "1f55d098"
+      }
+    },
+    {
+      "filename": "Game Guru 9 (Russia) (En,Ru) (Unl).bin",
+      "filesize": 86633568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "de8a3afbc5bac0fd26210556d15182de",
+        "sha1": "e536bb601323eb9c96125e2ab43e2912d406c4ea",
+        "crc32": "2d8970cb"
+      }
+    }
+  ]
+}

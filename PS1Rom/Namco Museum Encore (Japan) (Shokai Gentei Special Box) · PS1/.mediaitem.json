@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Namco Museum Encore (Japan) (Shokai Gentei Special Box)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Namco Museum Encore (Japan) (Shokai Gentei Special Box).cue",
+      "filesize": 280,
+      "ext": "cue",
+      "checksums": {
+        "md5": "43c97881712179636378fd3498672788",
+        "sha1": "254282a1a9167d6d3fd227ecc372c79dd613230c",
+        "crc32": "1cab810e"
+      }
+    },
+    {
+      "filename": "Namco Museum Encore (Japan) (Shokai Gentei Special Box) (Track 1).bin",
+      "filesize": 700084560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dc822e93b108f243b2edb9ffce4f6a2a",
+        "sha1": "2afee0f242cc6753d7e3e425e165dc4551ce0f82",
+        "crc32": "45028712"
+      }
+    },
+    {
+      "filename": "Namco Museum Encore (Japan) (Shokai Gentei Special Box) (Track 2).bin",
+      "filesize": 32636352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d13307f0db521cdf421342c27682b6c",
+        "sha1": "3266136ea852ec02ee1be87c7db94974e2e7b0f5",
+        "crc32": "71571d7c"
+      }
+    }
+  ]
+}

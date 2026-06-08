@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NBA Live 2001 (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NBA Live 2001 (Italy).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b1f6422efa6c51996347e0717a9e2cfb",
+        "sha1": "06acec470a34cd56e320b6cd172158a30f8c7496",
+        "crc32": "d70a8ea1"
+      }
+    },
+    {
+      "filename": "NBA Live 2001 (Italy).bin",
+      "filesize": 417948048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9bcce6e8b7728d40cb574c945ecaf73d",
+        "sha1": "c043230ac9595a84861ba0d9904475a7480940fd",
+        "crc32": "4ee1fea0"
+      }
+    }
+  ]
+}

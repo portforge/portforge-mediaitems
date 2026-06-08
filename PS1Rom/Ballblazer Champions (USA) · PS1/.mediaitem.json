@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Ballblazer Champions (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Ballblazer Champions (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9f87c617d97b1fd80942fba676e87a06",
+        "sha1": "b791ffc919ac7f9749d0a8de8e23eb573c1b5783",
+        "crc32": "878c946f"
+      }
+    },
+    {
+      "filename": "Ballblazer Champions (USA).bin",
+      "filesize": 446971728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21b21b9bf11a597cd45cda940bf4cf4b",
+        "sha1": "60b515764ea252095c064110da40d0325e3b52af",
+        "crc32": "6147eda6"
+      }
+    }
+  ]
+}

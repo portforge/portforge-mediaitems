@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kahen Soukou Gunbike - Speed Power Gunbike (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kahen Soukou Gunbike - Speed Power Gunbike (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "076f35fcc3309142f830ad2b82703ecd",
+        "sha1": "1133fdece3bb5965e0678544eb60adeebea80fb0",
+        "crc32": "00c79f45"
+      }
+    },
+    {
+      "filename": "Kahen Soukou Gunbike - Speed Power Gunbike (Japan).bin",
+      "filesize": 450944256,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73c645e6bc42b858f9aead1569db41dc",
+        "sha1": "eae947a013f11015529f5174a5ce5a1322155c03",
+        "crc32": "d58457d1"
+      }
+    }
+  ]
+}

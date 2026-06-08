@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Cosmic Cookoff - Mathematics (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Cosmic Cookoff - Mathematics (USA).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "83bcb242a2a281a7c3a42d0eeb5b8f7e",
+        "sha1": "b5877da788a926c3d1292dca9b8e5ab98a50c421",
+        "crc32": "378431d4"
+      }
+    },
+    {
+      "filename": "Cosmic Cookoff - Mathematics (USA).bin",
+      "filesize": 231982464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04128936323a0688652e56cb463fd066",
+        "sha1": "78708054b9292d593bc8bb13a771b471e07b1b87",
+        "crc32": "bf282afb"
+      }
+    }
+  ]
+}

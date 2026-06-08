@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Keiba Eight '98 Aki Fuyu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Keiba Eight '98 Aki Fuyu (Japan).cue",
+      "filesize": 98,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ba9a2284ec2893dc64277b4bd08664ea",
+        "sha1": "7100403d211078346607498b55ed4883b40a6a44",
+        "crc32": "afa6019c"
+      }
+    },
+    {
+      "filename": "Keiba Eight '98 Aki Fuyu (Japan).bin",
+      "filesize": 621518352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef60539bbb66ca566a4cbdc956eeedae",
+        "sha1": "1c3bc7b41d01575a7825cb25270a95d54c2d3ae8",
+        "crc32": "ce67987d"
+      }
+    }
+  ]
+}

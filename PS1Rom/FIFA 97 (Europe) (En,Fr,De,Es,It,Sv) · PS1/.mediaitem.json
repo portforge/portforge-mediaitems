@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv).cue",
+      "filesize": 892,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f99f7749fb8d83f88a7934e7cfdc0301",
+        "sha1": "69a678b3a2ef6e00cbc20a341b9a78e53d7f5edd",
+        "crc32": "5fe7b05b"
+      }
+    },
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv) (Track 1).bin",
+      "filesize": 432826800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d8ece34cbb0adef16f8deb44971027ea",
+        "sha1": "f3686b8dc72ed814e4908f6b838a02c02adcb2d7",
+        "crc32": "4c1cc8f4"
+      }
+    },
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv) (Track 2).bin",
+      "filesize": 29684592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "98d314b654b778f3f95e069f232e02d5",
+        "sha1": "40d66bc037ab078dfd14dff8d5679fc06d14df5b",
+        "crc32": "5677105f"
+      }
+    },
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv) (Track 3).bin",
+      "filesize": 29449392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ddd8d70ddc3191c266a2f3ef2ee2ad6f",
+        "sha1": "301f85b928397eba09bdaf7e087cbe8bc84e90eb",
+        "crc32": "49ace38e"
+      }
+    },
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv) (Track 4).bin",
+      "filesize": 23016672,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7facc83e5d64d9c724b96f4d2ab0d9ed",
+        "sha1": "8026741618ce8b5df6eb01447e136022c3a7f2e8",
+        "crc32": "b63ce4a8"
+      }
+    },
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv) (Track 5).bin",
+      "filesize": 21389088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a73358e3d4757ca4c779ba93180d8f1b",
+        "sha1": "f7f1f986aa2f7089768f09ac5b4d5bf5942eacf0",
+        "crc32": "4c79ad24"
+      }
+    },
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv) (Track 6).bin",
+      "filesize": 12402096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75201eab685bef7c644a0a82d52170e8",
+        "sha1": "b24ccd1c7a9a6e08318457c015b56fccc7547367",
+        "crc32": "8b12c3b5"
+      }
+    },
+    {
+      "filename": "FIFA 97 (Europe) (En,Fr,De,Es,It,Sv) (Track 7).bin",
+      "filesize": 22162896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1542bbe9bfff739c574844426a71c2ab",
+        "sha1": "6adf8a9282ce102b6b1a5c5581cb74ef6b9c712d",
+        "crc32": "9a9b8efc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tech PlayStation 97-5 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tech PlayStation 97-5 (Japan).cue",
+      "filesize": 1222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "03e3ad59a5f7b7a4e8c09363d497283d",
+        "sha1": "0c1cd7d051e6123b1b6d9015b4a04ba448f0e44f",
+        "crc32": "9dad11a9"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 01).bin",
+      "filesize": 560044128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92d63f43c6832b9028b7e436daed239b",
+        "sha1": "8f13026240a73441531843f5154568fcbd60932d",
+        "crc32": "9ee11090"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 02).bin",
+      "filesize": 35962080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2cf557ab893be8568e7ef6f1d58a3124",
+        "sha1": "bcec26fe7d2b31183ab2db08b9094f36772a2b6a",
+        "crc32": "8c8a5e5f"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 03).bin",
+      "filesize": 4235952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e49c9c7b693fc68182247eff726fdbb9",
+        "sha1": "722188d18355f952127ef9c1e537887fc7b4ad9a",
+        "crc32": "cde7e0d4"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 04).bin",
+      "filesize": 11341344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f348d53defd6c0974b0f2ab723dea983",
+        "sha1": "bacff5dac8c12c2cb0f373f66a6816a3938d8834",
+        "crc32": "f8bc8dac"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 05).bin",
+      "filesize": 11703552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c4b2a3f926246bc0b396b4982576975c",
+        "sha1": "98bf5583ef748d451406a56b6a209a4f84406383",
+        "crc32": "e99e564e"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 06).bin",
+      "filesize": 3490368,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f1808a625c9512589b8939dabda673b6",
+        "sha1": "22f4201b3103b2c83b12aef06183370484fbf9a9",
+        "crc32": "488b5846"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 07).bin",
+      "filesize": 3403344,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e1e2cd528aa61d0a508d8680de5f5a0d",
+        "sha1": "233c17ebd8642b246e590051bc5e7f48e352e4e3",
+        "crc32": "34e863b2"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 08).bin",
+      "filesize": 1401792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d1d1d87794413bb32b6898b4d1d4ff6c",
+        "sha1": "fd710addfb7f27d51e48c07d12fc49dec976f5b4",
+        "crc32": "1871a269"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 09).bin",
+      "filesize": 1397088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa7c18dbd34a1d0428ea31def8b922af",
+        "sha1": "06a5dbc0be98d1f37295c06a4e64a6ec3bfe9807",
+        "crc32": "e8627c10"
+      }
+    },
+    {
+      "filename": "Tech PlayStation 97-5 (Japan) (Track 10).bin",
+      "filesize": 32104800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "65aea234c174ee35fb574d981fe3fc4f",
+        "sha1": "bd1fde88c2b79e3cf8821c969373460d51f3155a",
+        "crc32": "9b94ea54"
+      }
+    }
+  ]
+}

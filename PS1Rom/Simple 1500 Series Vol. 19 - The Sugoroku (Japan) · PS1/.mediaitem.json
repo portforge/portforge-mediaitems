@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 19 - The Sugoroku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 19 - The Sugoroku (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "47b32b39ba8a71a8766c7829e9c85405",
+        "sha1": "9bee9a69a05dc8421bb098a1e72aa305cba8c750",
+        "crc32": "89dd5c3a"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 19 - The Sugoroku (Japan).bin",
+      "filesize": 39544176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7d76a2827002fc675c87962313311b5",
+        "sha1": "5a864b3ae16684f67db0cb870a220596950a710e",
+        "crc32": "3a5c2066"
+      }
+    }
+  ]
+}

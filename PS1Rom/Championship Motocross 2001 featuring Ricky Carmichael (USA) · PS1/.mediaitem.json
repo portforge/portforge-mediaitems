@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Championship Motocross 2001 featuring Ricky Carmichael (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Championship Motocross 2001 featuring Ricky Carmichael (USA).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "eb590199066019f12f88796d7f49540f",
+        "sha1": "7ab6c4c92eeb0ddd283df120f3204760eb6f9dae",
+        "crc32": "d7096235"
+      }
+    },
+    {
+      "filename": "Championship Motocross 2001 featuring Ricky Carmichael (USA).bin",
+      "filesize": 406903056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e90b36d924035692d8e2ee398a5e311c",
+        "sha1": "e0e702e9992f0d6c5175962567372a3a9f11003e",
+        "crc32": "f90c88db"
+      }
+    }
+  ]
+}

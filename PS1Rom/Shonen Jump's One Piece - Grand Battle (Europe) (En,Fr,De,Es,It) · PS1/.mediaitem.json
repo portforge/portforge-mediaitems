@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Shonen Jump's One Piece - Grand Battle (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Shonen Jump's One Piece - Grand Battle (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "32f059fbb3a8de398db0922f26e5b95f",
+        "sha1": "b5619b83793bf2f858bcc1657b4a6529259a0109",
+        "crc32": "e4ce3dd5"
+      }
+    },
+    {
+      "filename": "Shonen Jump's One Piece - Grand Battle (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 639191280,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e54d11102ec35f454d3edb987b9a18ba",
+        "sha1": "b977e54dfb62ded89fcc391f6ef2967f595a4492",
+        "crc32": "fb4a90ed"
+      }
+    }
+  ]
+}

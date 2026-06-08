@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jumping Flash! 2 - Aloha Danshaku Ooyowari no Maki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jumping Flash! 2 - Aloha Danshaku Ooyowari no Maki (Japan).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "63dd880be84e507e73d6491c71cec924",
+        "sha1": "159774dfd81d1c444444b51d1c63a305c204c8aa",
+        "crc32": "ccd53f1f"
+      }
+    },
+    {
+      "filename": "Jumping Flash! 2 - Aloha Danshaku Ooyowari no Maki (Japan).bin",
+      "filesize": 445819248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa84825aef97d2b7b9f10ebb6ac728e0",
+        "sha1": "9128a88698b67c5b3ae37466fd3b3af71e45f614",
+        "crc32": "308574dc"
+      }
+    }
+  ]
+}

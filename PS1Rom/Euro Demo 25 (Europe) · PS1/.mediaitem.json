@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 25 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 25 (Europe).cue",
+      "filesize": 212,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e3468814bb54211b5bf6def6370e8fc",
+        "sha1": "7a60d9d3e2054f0d77f3e1857d523acf1d697432",
+        "crc32": "98363dcd"
+      }
+    },
+    {
+      "filename": "Euro Demo 25 (Europe) (Track 1).bin",
+      "filesize": 269002944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1cade27e58bac9ad00d1ff9a03faa36d",
+        "sha1": "04e8938b6ef5d87eaa6c253b9875e8fce15f0b05",
+        "crc32": "f3248bbd"
+      }
+    },
+    {
+      "filename": "Euro Demo 25 (Europe) (Track 2).bin",
+      "filesize": 35174160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c1a2248fe9854d15f8217456285002",
+        "sha1": "e7996186776d4502e415dc69585c4319f7e624eb",
+        "crc32": "3048c3ee"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1).cue",
+      "filesize": 139,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ac6b312db985bfaf3f3986230f090341",
+        "sha1": "b633bc9d773bf5f09bd6b14031379070acec3187",
+        "crc32": "9700642b"
+      }
+    },
+    {
+      "filename": "Tokimeki Memorial Drama Series Vol. 3 - Tabidachi no Uta (Japan) (Disc 1).bin",
+      "filesize": 693482496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4dd5aa030506f625f015cf43db72e121",
+        "sha1": "3876c84912b580a61e7127904ae4cdb30d89251d",
+        "crc32": "de2cae8b"
+      }
+    }
+  ]
+}

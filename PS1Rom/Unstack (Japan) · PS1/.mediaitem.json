@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Unstack (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Unstack (Japan).cue",
+      "filesize": 1082,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f0ce5c01372f3c382576d64dc3a7035a",
+        "sha1": "bf69bbc88d87505447c747902a878c49a0798738",
+        "crc32": "d8a26709"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 01).bin",
+      "filesize": 147785568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9608fa17605cccd49fb98356fdee8b3f",
+        "sha1": "a245bab94fcc5250dd31d71e815ab7e5e2f788ea",
+        "crc32": "11b88f5d"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 02).bin",
+      "filesize": 23830464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a10e77ee19f72ffa8be3970eca59fbc6",
+        "sha1": "14c55e8a249b24998acd9a85d3ed2f34867f62a8",
+        "crc32": "19023e5e"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 03).bin",
+      "filesize": 23809296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db051bcd1a9a4e3f1548201cde47e937",
+        "sha1": "928ff9ffc31df40a2861fdf580e2d0df043517a9",
+        "crc32": "591ecd23"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 04).bin",
+      "filesize": 31909584,
+      "ext": "bin",
+      "checksums": {
+        "md5": "21e3d967d216ee3b71da032f3f9dd1fd",
+        "sha1": "c5f442d97c1a2821338fe4fccb12ae898120b376",
+        "crc32": "e4eeec18"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 05).bin",
+      "filesize": 25448640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8edce0bda67a77fdbb8c62a6ae8ecba8",
+        "sha1": "7bb0de37958dbeac0b011e343b9b6b8b50f97a51",
+        "crc32": "0b4de0c9"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 06).bin",
+      "filesize": 26530560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fe4f78a269180404d14a8801f306a32",
+        "sha1": "d10a27106290885d2e70a06af95757b0bf6cd868",
+        "crc32": "908c0ea5"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 07).bin",
+      "filesize": 3231648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1deb971b9e018a4864289b346deb0b6a",
+        "sha1": "95e5922762cb7f452240dfc07c20c68ddf893d32",
+        "crc32": "83f3f10a"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 08).bin",
+      "filesize": 29983296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9a103032aa3fb8a0a95c5ef463192ae9",
+        "sha1": "511ef86d0eebfa979c396e132339aba4dca5f6f0",
+        "crc32": "849e8bd4"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 09).bin",
+      "filesize": 33222000,
+      "ext": "bin",
+      "checksums": {
+        "md5": "285a6b4546073384a6d4013e1efb01d1",
+        "sha1": "e6dee5866b1465eb63f6dc77e68367f3036f8a2f",
+        "crc32": "e9d70081"
+      }
+    },
+    {
+      "filename": "Unstack (Japan) (Track 10).bin",
+      "filesize": 38024784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1676d693ffdec58afe0e3b38063303fb",
+        "sha1": "0879ef1939116b7112ae7f41fd6dca2e0876ac19",
+        "crc32": "9a7ce407"
+      }
+    }
+  ]
+}

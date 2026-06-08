@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Louvre - A Maldicao (Portugal) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Louvre - A Maldicao (Portugal) (Disc 1).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0bbeac4b4581bb405d07ab4d332be260",
+        "sha1": "cae13f92d5fa45835dd1ef7277987d2bf73c7b79",
+        "crc32": "7e8cc6be"
+      }
+    },
+    {
+      "filename": "Louvre - A Maldicao (Portugal) (Disc 1).bin",
+      "filesize": 593005056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b564a1a256292b995d73d2d769329257",
+        "sha1": "5a9ec191c884df2b0d2deac4d53ea2404b4a99cb",
+        "crc32": "b6520e3f"
+      }
+    }
+  ]
+}

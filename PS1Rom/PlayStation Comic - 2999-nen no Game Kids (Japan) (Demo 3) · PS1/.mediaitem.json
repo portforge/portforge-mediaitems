@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation Comic - 2999-nen no Game Kids (Japan) (Demo 3)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation Comic - 2999-nen no Game Kids (Japan) (Demo 3).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3f5e28bbdff72ed6ebf4d818b986cab0",
+        "sha1": "c9778101e854ef896b9d2dfa089aea6986caaa31",
+        "crc32": "9df66a3f"
+      }
+    },
+    {
+      "filename": "PlayStation Comic - 2999-nen no Game Kids (Japan) (Demo 3).bin",
+      "filesize": 250499760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f3c0535508a664505c30297168344dce",
+        "sha1": "bc02be44557712aea66d22214f64bb02adcf7339",
+        "crc32": "5811e990"
+      }
+    }
+  ]
+}

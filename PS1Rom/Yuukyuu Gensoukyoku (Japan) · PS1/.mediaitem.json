@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Yuukyuu Gensoukyoku (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan).cue",
+      "filesize": 587,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3a374dbc3da301f1f3183a65ab41db27",
+        "sha1": "2ff2ec2c2b3ae30e6f382d0bf67c7bcc3ffd9256",
+        "crc32": "d3ab9924"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Track 1).bin",
+      "filesize": 571632432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c07c1edbfc2310ad283e06510f38e625",
+        "sha1": "a55f7982e71b90ede68524c4b31cb03fa18ca59c",
+        "crc32": "daf250a3"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Track 2).bin",
+      "filesize": 29461152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "92182c17304b4e128a568bb44176d2e3",
+        "sha1": "062dc82a5f87c361ab75bb083ead14ea87881bc9",
+        "crc32": "08816c46"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Track 3).bin",
+      "filesize": 21875952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71537f877a2f43c28481aaa556defdf5",
+        "sha1": "44585d60d9575d32014497ea217bd16055904128",
+        "crc32": "0e4090e6"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Track 4).bin",
+      "filesize": 21875952,
+      "ext": "bin",
+      "checksums": {
+        "md5": "478ef45a558d29bd704119c262c9d106",
+        "sha1": "248ed4af2f10d2494b8ef8f0c6c81aea45349a27",
+        "crc32": "c4fbb845"
+      }
+    },
+    {
+      "filename": "Yuukyuu Gensoukyoku (Japan) (Track 5).bin",
+      "filesize": 48512352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d5cd8d0f4b88c38a0a2bbfd1d7b2d066",
+        "sha1": "5d1277bc24cc4ddc4115f6587c3b7605b4a333cd",
+        "crc32": "b4ba88f3"
+      }
+    }
+  ]
+}

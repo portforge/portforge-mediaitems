@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Alexi Lalas International Soccer (USA) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Alexi Lalas International Soccer (USA) (En,Fr,De,Es,It).cue",
+      "filesize": 121,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a0579c5c9d76b5fad4de4f52aa0ab9c5",
+        "sha1": "09e0564a597b607ca820022590f47a4d64fbeb2e",
+        "crc32": "6200b2b7"
+      }
+    },
+    {
+      "filename": "Alexi Lalas International Soccer (USA) (En,Fr,De,Es,It).bin",
+      "filesize": 100893744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e9b68bb1bccc28d5a8532ff09002ada9",
+        "sha1": "6cef824cf7f33198dba99dcbac7db5e5b8a3adf8",
+        "crc32": "dc0abc0a"
+      }
+    }
+  ]
+}

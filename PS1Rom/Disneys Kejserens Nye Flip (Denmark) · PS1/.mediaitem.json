@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disneys Kejserens Nye Flip (Denmark)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disneys Kejserens Nye Flip (Denmark).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "957a13056a18801b833d3d69e7c8be3e",
+        "sha1": "649264a4011a2373296dec4428f209fa670ff4c1",
+        "crc32": "2c512c34"
+      }
+    },
+    {
+      "filename": "Disneys Kejserens Nye Flip (Denmark).bin",
+      "filesize": 616520352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e004ade7038418517b8a7e44d30a4ff3",
+        "sha1": "de37c3455c13c5f5aa08e03d81627967a537170a",
+        "crc32": "15354209"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "OverBlood 2 (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "OverBlood 2 (Europe) (Disc 2).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "741ea11a5479a0dc970a477f1e0ec777",
+        "sha1": "13c41791e4e96b8d34e200543e51ff12d5c7e412",
+        "crc32": "f384c315"
+      }
+    },
+    {
+      "filename": "OverBlood 2 (Europe) (Disc 2).bin",
+      "filesize": 725526144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30ed5c2d69fc38631d11b72bf6dc4831",
+        "sha1": "e4249b6daed805c544527a223b138c7284d58157",
+        "crc32": "aea0f76c"
+      }
+    }
+  ]
+}

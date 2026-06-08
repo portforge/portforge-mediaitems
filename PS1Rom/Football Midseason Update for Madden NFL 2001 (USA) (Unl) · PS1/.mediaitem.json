@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Football Midseason Update for Madden NFL 2001 (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Football Midseason Update for Madden NFL 2001 (USA) (Unl).cue",
+      "filesize": 123,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9a6c52f145b2f9253541c0229b7361d9",
+        "sha1": "b49261587f7a9abb8363ef7ac691919c9ff922f0",
+        "crc32": "2312e36d"
+      }
+    },
+    {
+      "filename": "Football Midseason Update for Madden NFL 2001 (USA) (Unl).bin",
+      "filesize": 152296704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ac57f079c461218baa4376a7c1c7b155",
+        "sha1": "158808f330c9e856d922f6c90e4d97c76beb93f5",
+        "crc32": "1a13c8f4"
+      }
+    }
+  ]
+}

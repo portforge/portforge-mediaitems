@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wangan Trial (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wangan Trial (Japan) (Disc 2).cue",
+      "filesize": 95,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4d2f25fabc65b7901eb62ce24aca6fa2",
+        "sha1": "108178887005d9247e043385808c4b717a3d8388",
+        "crc32": "8c754278"
+      }
+    },
+    {
+      "filename": "Wangan Trial (Japan) (Disc 2).bin",
+      "filesize": 650313888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "52bd68e91f80ad05d892f75bd00a0bab",
+        "sha1": "7c61949af6078c450873c075f374b1dea02dbd76",
+        "crc32": "6ec8fee1"
+      }
+    }
+  ]
+}

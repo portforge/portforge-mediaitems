@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Matsukata Hiroki no World Fishing (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Matsukata Hiroki no World Fishing (Japan).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a7fc36d588668ac35d7a7d6b2b5eb363",
+        "sha1": "125f153f985e4c26dfdce8ae3b9143f0c6e7d2b1",
+        "crc32": "6170f373"
+      }
+    },
+    {
+      "filename": "Matsukata Hiroki no World Fishing (Japan).bin",
+      "filesize": 695916816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0e70d77dae4444409328d2a0c1a689b3",
+        "sha1": "5ed1cc2792e148ea46f08aa73e255d1a433b8bf0",
+        "crc32": "51f88a25"
+      }
+    }
+  ]
+}

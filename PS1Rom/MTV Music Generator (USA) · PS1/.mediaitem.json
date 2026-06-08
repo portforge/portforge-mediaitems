@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MTV Music Generator (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MTV Music Generator (USA).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4c32d14007ab40398f8fdb2de5d0c0a2",
+        "sha1": "2b05a62b89bd0e30085b38225062c3996a323615",
+        "crc32": "cd1827a8"
+      }
+    },
+    {
+      "filename": "MTV Music Generator (USA) (Track 1).bin",
+      "filesize": 637145040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2ab887a6a332ba7434d4c4dedbaae517",
+        "sha1": "ec948924d9943c2d5cf3046129061b4d1ce21d67",
+        "crc32": "1bff6646"
+      }
+    },
+    {
+      "filename": "MTV Music Generator (USA) (Track 2).bin",
+      "filesize": 33873504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b55803f1b22784de5af3af4f7102bc6",
+        "sha1": "2ebad99b34271014ebfa419fbece2c5c0cdcf4e2",
+        "crc32": "f4a24410"
+      }
+    }
+  ]
+}

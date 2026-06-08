@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PlayStation-Pepsi Sampler Disc (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PlayStation-Pepsi Sampler Disc (USA).cue",
+      "filesize": 372,
+      "ext": "cue",
+      "checksums": {
+        "md5": "63db69bad094444f3fd5d7d4c4d77fd4",
+        "sha1": "53eda45547494626b01130aed73aa50fc277f0d7",
+        "crc32": "27c15266"
+      }
+    },
+    {
+      "filename": "PlayStation-Pepsi Sampler Disc (USA) (Track 1).bin",
+      "filesize": 126561120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a3c34256bd51e7c5e6965b0fb8254334",
+        "sha1": "8bf276fcd7fbe4714288b6dbf4e5e2f392088437",
+        "crc32": "609cf8e1"
+      }
+    },
+    {
+      "filename": "PlayStation-Pepsi Sampler Disc (USA) (Track 2).bin",
+      "filesize": 31900176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "071d4c0a9b2c2b232a02a06b61f908cd",
+        "sha1": "bacddb62cb937dd4ba3d7589116fb9b75fc45406",
+        "crc32": "1b2d0214"
+      }
+    },
+    {
+      "filename": "PlayStation-Pepsi Sampler Disc (USA) (Track 3).bin",
+      "filesize": 32013072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3953a1ef58c4b2d275bebeb150ac6256",
+        "sha1": "d45d18cd1dc8efa61b800d90a6a8c7d943951b4f",
+        "crc32": "67abdbb4"
+      }
+    }
+  ]
+}

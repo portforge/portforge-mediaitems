@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Kick Off World (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Kick Off World (Germany).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "be9e91befc438894d7752c0b10ce52a6",
+        "sha1": "c81da13c9b50aaaa33013fb25b220bb0fc20a2b5",
+        "crc32": "8a79701d"
+      }
+    },
+    {
+      "filename": "Kick Off World (Germany).bin",
+      "filesize": 215492592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "05dc14f4cf8e8f52068a050281952213",
+        "sha1": "5bb679b8ad5feed81bd62df93f991bfae2f0590d",
+        "crc32": "bd7d96ce"
+      }
+    }
+  ]
+}

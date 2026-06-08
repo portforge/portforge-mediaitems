@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Langrisser IV & V - Final Edition (Japan) (Disc 2) (Langrisser V Disc)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Langrisser IV & V - Final Edition (Japan) (Disc 2) (Langrisser V Disc).cue",
+      "filesize": 638,
+      "ext": "cue",
+      "checksums": {
+        "md5": "17478b5c3b18907628390161dbe16182",
+        "sha1": "18b84069376e90517f94aed17d86e92ad2b0e0e3",
+        "crc32": "a6a76710"
+      }
+    },
+    {
+      "filename": "Langrisser IV & V - Final Edition (Japan) (Disc 2) (Langrisser V Disc) (Track 1).bin",
+      "filesize": 569407440,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78acb11d5fdd91b9361f29ccd9b944a4",
+        "sha1": "1ea5c85ae8bdf4282e72dafbb2fc39b3e35d3619",
+        "crc32": "b04469a3"
+      }
+    },
+    {
+      "filename": "Langrisser IV & V - Final Edition (Japan) (Disc 2) (Langrisser V Disc) (Track 2).bin",
+      "filesize": 15050448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "49afb507ac1454a0e030ddc7590fc8af",
+        "sha1": "95aa69a118a1290e182e4e812e3556e2b1181425",
+        "crc32": "f4b88f3d"
+      }
+    },
+    {
+      "filename": "Langrisser IV & V - Final Edition (Japan) (Disc 2) (Langrisser V Disc) (Track 3).bin",
+      "filesize": 56071680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4fba14f6cfd11298276ffa894edf7254",
+        "sha1": "37d7e7d8d9f0f47211e6bcff031a356e7a811d1b",
+        "crc32": "9f4e2997"
+      }
+    },
+    {
+      "filename": "Langrisser IV & V - Final Edition (Japan) (Disc 2) (Langrisser V Disc) (Track 4).bin",
+      "filesize": 56071680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "130fc2fcd1c0a9baff730e1b32be732c",
+        "sha1": "46916633f9d03383e3869dcc3fea4f3d806e8434",
+        "crc32": "0a10d501"
+      }
+    }
+  ]
+}

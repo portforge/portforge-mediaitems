@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Countdown Vampires (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Countdown Vampires (Japan) (Disc 2).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8816c406f8e8f9af17291a234ae49a07",
+        "sha1": "f77b4ff8de62a6c577da4440fe737eafd9fd1788",
+        "crc32": "2219ca3d"
+      }
+    },
+    {
+      "filename": "Countdown Vampires (Japan) (Disc 2).bin",
+      "filesize": 535501008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "24308e415f27e907f8da3198f64bfa57",
+        "sha1": "fd11e04c77e8689b7af6c844649398a20fe96f0f",
+        "crc32": "6cc443ac"
+      }
+    }
+  ]
+}

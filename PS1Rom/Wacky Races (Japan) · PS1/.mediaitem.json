@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Wacky Races (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Wacky Races (Japan).cue",
+      "filesize": 208,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d6f5caff83accb71fe8d894b06749035",
+        "sha1": "b78ca2b59ee180285e3b32bb9bea686e2c01daeb",
+        "crc32": "8be26299"
+      }
+    },
+    {
+      "filename": "Wacky Races (Japan) (Track 1).bin",
+      "filesize": 455928144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29e1480b54f382137fb6336187a0fb42",
+        "sha1": "263a3c63a4a766ec6e6ee226c44729e694887b6f",
+        "crc32": "3a942822"
+      }
+    },
+    {
+      "filename": "Wacky Races (Japan) (Track 2).bin",
+      "filesize": 14751744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c81a75cf01c76f3ec23de44b596353c4",
+        "sha1": "8e44427a4a3c360321b8b7ebe858bdc1cce448b5",
+        "crc32": "92463a1f"
+      }
+    }
+  ]
+}

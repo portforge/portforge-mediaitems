@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Unholy War, The (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Unholy War, The (Europe) (Demo).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "2ff59ea0b099438500dc931aec8a7ae1",
+        "sha1": "fc71e7036ae25fe21aa0cd97fb894360e1bb9654",
+        "crc32": "736b4c6b"
+      }
+    },
+    {
+      "filename": "Unholy War, The (Europe) (Demo).bin",
+      "filesize": 61448352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c9e2a47f40222748f92736bf5000eb6d",
+        "sha1": "f054d6876c2be2be954be5df8e2848126f21c005",
+        "crc32": "62260429"
+      }
+    }
+  ]
+}

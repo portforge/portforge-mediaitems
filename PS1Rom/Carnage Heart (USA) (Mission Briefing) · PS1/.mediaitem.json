@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Carnage Heart (USA) (Mission Briefing)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Carnage Heart (USA) (Mission Briefing).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "39c1c47410fe24d6a69f8ffc9346713e",
+        "sha1": "e8af44ad7461f83f8137a17ce54f8fa43af6ebdf",
+        "crc32": "ea92a150"
+      }
+    },
+    {
+      "filename": "Carnage Heart (USA) (Mission Briefing).bin",
+      "filesize": 621638304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "844e3f18c053dd46dc845b07ecab1645",
+        "sha1": "509a320fb2537ef1707cd5f626d272c4fbb1d595",
+        "crc32": "9ce906b2"
+      }
+    }
+  ]
+}

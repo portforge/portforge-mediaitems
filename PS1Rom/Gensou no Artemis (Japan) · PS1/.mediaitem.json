@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gensou no Artemis (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gensou no Artemis (Japan).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "623ad273573c0028d5568e1b25de9703",
+        "sha1": "44c76b89d901a817e8223eac3b4749a8d524b30f",
+        "crc32": "068ef9ad"
+      }
+    },
+    {
+      "filename": "Gensou no Artemis (Japan).bin",
+      "filesize": 491043504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a45f04603527731d8c09543001757b28",
+        "sha1": "b0026578305428fe8399e73a56bf68929a3fcff9",
+        "crc32": "e9e637ea"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arc the Lad Collection - The Making of Arc the Lad (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arc the Lad Collection - The Making of Arc the Lad (USA).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6a6e8ef102a339afa2cf7fa9f86da57c",
+        "sha1": "12d4c9a4bf0e6fb21f4e6efa0259b4b7a237a73b",
+        "crc32": "b7589f30"
+      }
+    },
+    {
+      "filename": "Arc the Lad Collection - The Making of Arc the Lad (USA).bin",
+      "filesize": 623150640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e7c5e3736740101f90a135e4720d7f6",
+        "sha1": "db6a2bce8ba46c65bbf013dcb574ed30fa5cc804",
+        "crc32": "6b295ebc"
+      }
+    }
+  ]
+}

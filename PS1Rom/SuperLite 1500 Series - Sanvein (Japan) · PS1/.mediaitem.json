@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Sanvein (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Sanvein (Japan).cue",
+      "filesize": 248,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5d2727da975f0aaa27f6c5b799dde3c5",
+        "sha1": "02c502fb94fe57bd8f18a8350ae5144248517d94",
+        "crc32": "532a2cdf"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Sanvein (Japan) (Track 1).bin",
+      "filesize": 206324496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "538a4ab325a9e8840a0b6be691b909a6",
+        "sha1": "b91677c9f0624f213a86ca2b12373d02716e9011",
+        "crc32": "dfec8a5a"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Sanvein (Japan) (Track 2).bin",
+      "filesize": 44523360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "384725971c78004f35cc7ac52abbb407",
+        "sha1": "341792e675b60808d10b5b1154226f44a4431cf7",
+        "crc32": "228e60de"
+      }
+    }
+  ]
+}

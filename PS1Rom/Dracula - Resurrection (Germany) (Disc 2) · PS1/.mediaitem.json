@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dracula - Resurrection (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dracula - Resurrection (Germany) (Disc 2).cue",
+      "filesize": 107,
+      "ext": "cue",
+      "checksums": {
+        "md5": "117b0729342e1c881553a9e121071c95",
+        "sha1": "7744bbb099641b0424d7c6dc32d0a22f13128941",
+        "crc32": "86afd31e"
+      }
+    },
+    {
+      "filename": "Dracula - Resurrection (Germany) (Disc 2).bin",
+      "filesize": 751188816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "704bbd3e02ca868d663d69254e583724",
+        "sha1": "69d713d5efff84c77b389b395766c10e068617e3",
+        "crc32": "e3ae3734"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Captain Love (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Captain Love (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5ece8417aec874d19418e37e75ddf659",
+        "sha1": "dac9f891fd01f8cdde18ce92efceea3d05234369",
+        "crc32": "992450b2"
+      }
+    },
+    {
+      "filename": "Captain Love (Japan).bin",
+      "filesize": 620584608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "60f48e459b8d6671b238d717686b7e86",
+        "sha1": "092bb0915f0ad4745fb8c94a5ca73c052ae4659f",
+        "crc32": "52ea8610"
+      }
+    }
+  ]
+}

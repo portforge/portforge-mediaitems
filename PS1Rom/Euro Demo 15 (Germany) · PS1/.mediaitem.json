@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 15 (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 15 (Germany).cue",
+      "filesize": 330,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4415cda17a95b9a7c9fa7efea1980371",
+        "sha1": "24aaaf727e5026884d2af5be1d39413ea41ae2a8",
+        "crc32": "062273ff"
+      }
+    },
+    {
+      "filename": "Euro Demo 15 (Germany) (Track 1).bin",
+      "filesize": 198243024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12c3b91f4092b2206396723e777ba5bb",
+        "sha1": "c7b57948d11e380eb27dc66476dfc85881177084",
+        "crc32": "fc7f92b3"
+      }
+    },
+    {
+      "filename": "Euro Demo 15 (Germany) (Track 2).bin",
+      "filesize": 21207984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f9791b7f92a858312b2c4ddd0c059d4",
+        "sha1": "1d0e781a30d27a5b386be1b4e955863e133a62bd",
+        "crc32": "72f846e1"
+      }
+    },
+    {
+      "filename": "Euro Demo 15 (Germany) (Track 3).bin",
+      "filesize": 31660272,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29dce6eae638a30ae101f26e727744e8",
+        "sha1": "e41afd06d90af8865b9af4fb4c2f56db9326f677",
+        "crc32": "d34f4088"
+      }
+    }
+  ]
+}

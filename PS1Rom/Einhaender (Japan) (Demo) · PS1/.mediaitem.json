@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Einhaender (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Einhaender (Japan) (Demo).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f1740d879ade3e065be672aa538ef261",
+        "sha1": "376ae6231e985503414bc4fa68910c53e74198c5",
+        "crc32": "a8b7c27f"
+      }
+    },
+    {
+      "filename": "Einhaender (Japan) (Demo).bin",
+      "filesize": 134962464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3e0abdb08591a91049d179e0455a2484",
+        "sha1": "183212348a109d9b559d4f721958614350c3189c",
+        "crc32": "606372d3"
+      }
+    }
+  ]
+}

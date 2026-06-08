@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6995ab5ae16a478daf768041ec2a7e96",
+        "sha1": "deac82bdc96da81da6145e9166889ecaecd55ac6",
+        "crc32": "12f933b6"
+      }
+    },
+    {
+      "filename": "Jumping Flash! Aloha Danshaku Funky Daisakusen no Maki (Japan).bin",
+      "filesize": 626459904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f06c4a94709537b0a12af5df0889629e",
+        "sha1": "2f9ff7ba33de1b3828b3144f3d0b7a14c648458e",
+        "crc32": "027d4d71"
+      }
+    }
+  ]
+}

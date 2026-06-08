@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Story Lane Theater 5 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Story Lane Theater 5 (USA).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "77c36ed1efa56c7233bc2355f819b53b",
+        "sha1": "9c94c60676f789a8140ab6563e4b3bc59e729708",
+        "crc32": "28fc49d4"
+      }
+    },
+    {
+      "filename": "Story Lane Theater 5 (USA).bin",
+      "filesize": 707970816,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2c5e7d7b73c65259f30177f94679d699",
+        "sha1": "0922ba88264898a3b2eef4d9956c84611d326275",
+        "crc32": "13efc538"
+      }
+    }
+  ]
+}

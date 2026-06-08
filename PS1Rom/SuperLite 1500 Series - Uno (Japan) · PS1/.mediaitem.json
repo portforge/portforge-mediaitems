@@ -1,0 +1,67 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Uno (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Uno (Japan).cue",
+      "filesize": 627,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d556a148b5601634914eba67ba35010",
+        "sha1": "10a8369ded2ed2d26e6d4b21d30b3119d8a02454",
+        "crc32": "6afa4930"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Uno (Japan) (Track 1).bin",
+      "filesize": 72740304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0be8370ab6fa81864f55bb77bc4e535f",
+        "sha1": "0036fc1f532a7230c0715d73281e369230ea8eaf",
+        "crc32": "4a88cc9e"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Uno (Japan) (Track 2).bin",
+      "filesize": 24425520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "abec6b2244285d4634c5c4c20f69fdd9",
+        "sha1": "39f6f4e7e3ff21cc40dd2ec3f0f8c3baaaf1c67f",
+        "crc32": "120046b3"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Uno (Japan) (Track 3).bin",
+      "filesize": 1232448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d512366a60689e4af093de7c1b279f6",
+        "sha1": "f31a453c637a8aa64199f3a81498717f5cea8328",
+        "crc32": "8159e67f"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Uno (Japan) (Track 4).bin",
+      "filesize": 3377472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13be6f019130f01b682d958f324f5a8d",
+        "sha1": "02dd13a70e08699243f8b0727e5e8b71f54146d1",
+        "crc32": "14fa09ac"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Uno (Japan) (Track 5).bin",
+      "filesize": 36514800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26679b7ebbb9c987cfcd856a69e5317c",
+        "sha1": "198ec5154ca4b6095b119f1ee367e568cd11f587",
+        "crc32": "7e6a5bcd"
+      }
+    }
+  ]
+}

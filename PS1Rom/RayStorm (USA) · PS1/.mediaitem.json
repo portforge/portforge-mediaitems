@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RayStorm (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RayStorm (USA).cue",
+      "filesize": 80,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e29b79294cb49b166ec4c1f8d7bca1b5",
+        "sha1": "a11a5ca2d024526a5a85660917e0f0db0c6beee1",
+        "crc32": "8c281fbe"
+      }
+    },
+    {
+      "filename": "RayStorm (USA).bin",
+      "filesize": 649213152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0cf169c785ad689e48b72fb1fcbaa77d",
+        "sha1": "299bad19cfb9d1c2ae54a67854280c84d835d43a",
+        "crc32": "93ddc84a"
+      }
+    }
+  ]
+}

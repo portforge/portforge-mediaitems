@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "G. Darius (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "G. Darius (USA).cue",
+      "filesize": 200,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3c27052cb5b5e8ab9e5697460f6f4783",
+        "sha1": "ef5993ac0567ae936e34c149b55a3dfdbcc93e7d",
+        "crc32": "513cfa16"
+      }
+    },
+    {
+      "filename": "G. Darius (USA) (Track 1).bin",
+      "filesize": 630502992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1b3b7fc5e5ede38eb39f3710008356e7",
+        "sha1": "190b6275d4485da77852e67ac36d2304888ad261",
+        "crc32": "d0146279"
+      }
+    },
+    {
+      "filename": "G. Darius (USA) (Track 2).bin",
+      "filesize": 32281200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cecf1db7cf5a258ae34c2ae23bf0d546",
+        "sha1": "7faa7db6161ba8139ab5c7c51722b0685438df62",
+        "crc32": "f9936e07"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Faire Games - Language Arts (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Faire Games - Language Arts (USA).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dc44130f988969eda22b50566269ac89",
+        "sha1": "ef13ce2123f53ed6e52778fddb0f58590edb1960",
+        "crc32": "98d37972"
+      }
+    },
+    {
+      "filename": "Faire Games - Language Arts (USA).bin",
+      "filesize": 285636288,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d2bcd35baf065a3c6fbef66fc78b97b",
+        "sha1": "9a4ac3e08bc0ee82ad49eb67d05220160d8d79e7",
+        "crc32": "05000003"
+      }
+    }
+  ]
+}

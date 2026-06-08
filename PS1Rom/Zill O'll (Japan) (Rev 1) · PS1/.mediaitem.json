@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Zill O'll (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Zill O'll (Japan) (Rev 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0fae6dc3ae14859c68d1ee787122457b",
+        "sha1": "e1210137bffda1ac5c48cf4302aa69420a15a5f3",
+        "crc32": "0fb293b3"
+      }
+    },
+    {
+      "filename": "Zill O'll (Japan) (Rev 1).bin",
+      "filesize": 736592304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6d182cc0cdf1faf579e8a023f934ecb4",
+        "sha1": "52351cba30df0aeb3693f49b36a03326822792fb",
+        "crc32": "155cd9b1"
+      }
+    }
+  ]
+}

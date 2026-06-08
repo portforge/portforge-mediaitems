@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "FIFA - Die WM-Qualifikation 98 (Germany) (En,Fr,De,Es,Nl,Sv)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "FIFA - Die WM-Qualifikation 98 (Germany) (En,Fr,De,Es,Nl,Sv).cue",
+      "filesize": 126,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4bea4874e39bada0b2cd008688b70db8",
+        "sha1": "130a1c362603974b7f1b1cb62928fe5a1cd1545f",
+        "crc32": "90e3aac4"
+      }
+    },
+    {
+      "filename": "FIFA - Die WM-Qualifikation 98 (Germany) (En,Fr,De,Es,Nl,Sv).bin",
+      "filesize": 588388080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "009def0a129ecf831e8c853f2ad03f9d",
+        "sha1": "b289bf4b8fd5293e686ce8e205796ca9fe5a71e1",
+        "crc32": "65e9700e"
+      }
+    }
+  ]
+}

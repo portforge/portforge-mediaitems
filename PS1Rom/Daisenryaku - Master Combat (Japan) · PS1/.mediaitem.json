@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Daisenryaku - Master Combat (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Daisenryaku - Master Combat (Japan).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "75cb9535437e5d8a2226d50eb9ed1cb6",
+        "sha1": "9588baaeb9e2cba13f0f311a4b0b99c76fa63412",
+        "crc32": "269f194e"
+      }
+    },
+    {
+      "filename": "Daisenryaku - Master Combat (Japan).bin",
+      "filesize": 225646176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08806617914b87761d0d5bba3c077cce",
+        "sha1": "4e6686e3fc8ab6e03ffe903c16252e0019b57398",
+        "crc32": "8d34e5ff"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pocket DigimonWorld - Wind Battle Disc (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pocket DigimonWorld - Wind Battle Disc (Japan).cue",
+      "filesize": 262,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e57b84387f5bfac6952b7780d71fa912",
+        "sha1": "ddf6c2881ffe8fb3d012b5a7700829c0cd45a54d",
+        "crc32": "015e73d8"
+      }
+    },
+    {
+      "filename": "Pocket DigimonWorld - Wind Battle Disc (Japan) (Track 1).bin",
+      "filesize": 238495152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aca7ee5f1fad33c31f7f46628bb1f222",
+        "sha1": "60ee4c9bde75ef00395268ef5fdb05e8a9874280",
+        "crc32": "e6e2e138"
+      }
+    },
+    {
+      "filename": "Pocket DigimonWorld - Wind Battle Disc (Japan) (Track 2).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

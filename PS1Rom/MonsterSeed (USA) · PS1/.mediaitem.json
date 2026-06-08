@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MonsterSeed (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MonsterSeed (USA).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ab7464ca1bdd9ac1e4d5f5dd6537a5f6",
+        "sha1": "3c29851836c2ef57aa9e1dfda0bf599d676c1020",
+        "crc32": "5d64ea5d"
+      }
+    },
+    {
+      "filename": "MonsterSeed (USA).bin",
+      "filesize": 316708560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0f9deaa58a91dc4d93984e6046ad7530",
+        "sha1": "086f2d78b959814774a5d80d0583391e8dabf049",
+        "crc32": "50c9a6df"
+      }
+    }
+  ]
+}

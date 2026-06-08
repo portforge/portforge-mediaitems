@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Classic Road (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Classic Road (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3ac6baf5e29373da59d0161b9669d925",
+        "sha1": "ad855e3e6f9777b8d5f59f46e9030fba6bad37d1",
+        "crc32": "1a1388e5"
+      }
+    },
+    {
+      "filename": "Classic Road (Japan).bin",
+      "filesize": 109685520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "08dfd60f35e2d196ed4c454b3562b323",
+        "sha1": "d75b179a28b964ecbf08821a38672adb92926aed",
+        "crc32": "6fdc8f1d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Janhai Yuugi '99 - Tanuki no Kawazanyou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Janhai Yuugi '99 - Tanuki no Kawazanyou (Japan).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5fba3fde62cdf1a73f3698128e721e51",
+        "sha1": "9c69e7734b3d09df54af7fa010496a2b429c1ffe",
+        "crc32": "11a25b5a"
+      }
+    },
+    {
+      "filename": "Janhai Yuugi '99 - Tanuki no Kawazanyou (Japan).bin",
+      "filesize": 249551904,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d6c25c09eebf40f23ae91cc778b6ed4",
+        "sha1": "6271a87d1a8b33ba724961d475f5c10cbda66a97",
+        "crc32": "d1d397ff"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dancing Stage - Disney Mix (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dancing Stage - Disney Mix (Europe).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "542cc3b4abc41e8942b5597af7412bd1",
+        "sha1": "e973b552cf74ee67f15947fd7d1231a0096f114d",
+        "crc32": "545069a6"
+      }
+    },
+    {
+      "filename": "Dancing Stage - Disney Mix (Europe).bin",
+      "filesize": 251435856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "58e2ee5a78c3e7b13cbe3c77a782efb3",
+        "sha1": "73a881a9569bbc574fa93a4b4f72bbcef3015ff6",
+        "crc32": "8b92dcf2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 33 - The Takkyuu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 33 - The Takkyuu (Japan).cue",
+      "filesize": 114,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7ebf06f8317c97b81832093fc511608b",
+        "sha1": "e2d4beaa93e4e9a5bd11fa0fd5f7ba0563e8319e",
+        "crc32": "93dd5e13"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 33 - The Takkyuu (Japan).bin",
+      "filesize": 496065024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e418d1e9e1df8d586720133ddf8f5bd",
+        "sha1": "6050d4b6748b88f1acb3d1e9bcb88cc13ddc9043",
+        "crc32": "6d9f757c"
+      }
+    }
+  ]
+}

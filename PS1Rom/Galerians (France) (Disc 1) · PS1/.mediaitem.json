@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (France) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (France) (Disc 1).cue",
+      "filesize": 93,
+      "ext": "cue",
+      "checksums": {
+        "md5": "39fc9f7b3a2f080da20c524e2bd65df2",
+        "sha1": "17dd9c11f5dc82232020f9ce43c039c57b69f796",
+        "crc32": "2a274038"
+      }
+    },
+    {
+      "filename": "Galerians (France) (Disc 1).bin",
+      "filesize": 682399872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c85d8bf68cb1e5e9c955c5a49b29118",
+        "sha1": "b58d12ae0bc0a9c2904e17e4019d60755887a67b",
+        "crc32": "36d35e7a"
+      }
+    }
+  ]
+}

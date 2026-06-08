@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "PS One Demo Disc 02 (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "PS One Demo Disc 02 (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fb29953a58d89a9af5b6387b63a7d6c3",
+        "sha1": "0e63f5e37b57e74ec964dc5102e3aaccc6fed05b",
+        "crc32": "86beee90"
+      }
+    },
+    {
+      "filename": "PS One Demo Disc 02 (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 598779216,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01cfc7fdfe9c7996c04ed6e7ad52972a",
+        "sha1": "bf30485004533eb43ef9a6373622a7da61b46e9d",
+        "crc32": "24c7e33e"
+      }
+    }
+  ]
+}

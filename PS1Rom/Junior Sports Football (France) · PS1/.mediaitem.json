@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Junior Sports Football (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Junior Sports Football (France).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5f08bb30d7ad1b6e84023dfb421c6526",
+        "sha1": "079ba49f3d8f03641cebd4d76bbad28fb4be7ca7",
+        "crc32": "5a07de05"
+      }
+    },
+    {
+      "filename": "Junior Sports Football (France).bin",
+      "filesize": 657325200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "31c959705a07819f030536533a6e2679",
+        "sha1": "073e533ac19b34a6ade26def418807ee9b92db7d",
+        "crc32": "21816b17"
+      }
+    }
+  ]
+}

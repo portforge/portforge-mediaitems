@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Hamunaptra - Ushinawareta Sabaku no Miyako (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Hamunaptra - Ushinawareta Sabaku no Miyako (Japan).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "82567a3e8674ef1a4778125e51fee405",
+        "sha1": "431437fdc3b650b8cf570c4806450ad388f085c0",
+        "crc32": "334b75a6"
+      }
+    },
+    {
+      "filename": "Hamunaptra - Ushinawareta Sabaku no Miyako (Japan).bin",
+      "filesize": 456259776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a9781db9bdfa841b86afa0e0cbe224dd",
+        "sha1": "3f0feb8c0f4ba740c04a8e733df0a3dea5f652a0",
+        "crc32": "208320c9"
+      }
+    }
+  ]
+}

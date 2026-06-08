@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tetris Un Magico Desafio, El (Spain)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tetris Un Magico Desafio, El (Spain).cue",
+      "filesize": 242,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b6f10151e2ea6100c9a4483e8d32a812",
+        "sha1": "40f9bd24c9536d82108177bdfee27557e985e4ff",
+        "crc32": "3c6c91ed"
+      }
+    },
+    {
+      "filename": "Tetris Un Magico Desafio, El (Spain) (Track 1).bin",
+      "filesize": 319272240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "972dc35911c9d01ddb2a4eced9b50676",
+        "sha1": "64245f93b1cd8859ad08ef3616da35de69339e5c",
+        "crc32": "6676eaf8"
+      }
+    },
+    {
+      "filename": "Tetris Un Magico Desafio, El (Spain) (Track 2).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

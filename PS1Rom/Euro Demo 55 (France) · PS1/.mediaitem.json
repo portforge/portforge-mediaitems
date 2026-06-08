@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Euro Demo 55 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Euro Demo 55 (France).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6a8f2233e3498560752d56c91904989",
+        "sha1": "10b1fa8b0f2167f4f70f1bbf06a93c38e4bea471",
+        "crc32": "585d3424"
+      }
+    },
+    {
+      "filename": "Euro Demo 55 (France).bin",
+      "filesize": 519535632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8720e75f7497a0687b2eefc335102a3",
+        "sha1": "e0dc8f994d1bb2c7f7692fc10977dafce3abdc61",
+        "crc32": "6cb76cb5"
+      }
+    }
+  ]
+}

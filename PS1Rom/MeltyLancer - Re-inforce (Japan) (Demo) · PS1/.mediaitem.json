@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MeltyLancer - Re-inforce (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MeltyLancer - Re-inforce (Japan) (Demo).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "364fc468040bba34e73ff9bfe7b9b893",
+        "sha1": "475c13f6f1b37d393352ae71446f2db9fccbdd73",
+        "crc32": "98d740e0"
+      }
+    },
+    {
+      "filename": "MeltyLancer - Re-inforce (Japan) (Demo).bin",
+      "filesize": 192802848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "00a67110d6b01e9bae84b99a38caf966",
+        "sha1": "1b7402de9132afdb7aea5a86d4aeaf7b8e4c351a",
+        "crc32": "24a5ab61"
+      }
+    }
+  ]
+}

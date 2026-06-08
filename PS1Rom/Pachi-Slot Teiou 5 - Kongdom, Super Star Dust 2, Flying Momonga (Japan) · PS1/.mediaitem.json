@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pachi-Slot Teiou 5 - Kongdom, Super Star Dust 2, Flying Momonga (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pachi-Slot Teiou 5 - Kongdom, Super Star Dust 2, Flying Momonga (Japan).cue",
+      "filesize": 137,
+      "ext": "cue",
+      "checksums": {
+        "md5": "38d70ea9175a6ed3c1e4f00d6c30a9e0",
+        "sha1": "27912974f8eee7273d5e872fdd7f6e98a954e5e4",
+        "crc32": "0681145c"
+      }
+    },
+    {
+      "filename": "Pachi-Slot Teiou 5 - Kongdom, Super Star Dust 2, Flying Momonga (Japan).bin",
+      "filesize": 39181968,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e42a5b68048703d2a94f115ac6571111",
+        "sha1": "7f5379a19402ca6b58e437a14eb4672df94bf2e6",
+        "crc32": "1fc3295c"
+      }
+    }
+  ]
+}

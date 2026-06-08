@@ -1,0 +1,27 @@
+{
+  "_itemType": "Xbox360Rom",
+  "title": "Xbox 360 HD DVD Player Installation Disc (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)",
+  "platform": "Xbox360",
+  "formats": [
+    {
+      "filename": "Xbox 360 HD DVD Player Installation Disc (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).cue",
+      "filesize": 148,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f97da8ce8d96e5960f5f42558afe3b4f",
+        "sha1": "5c23af7166a2a6a46baf19bb9e24a0abdeedbc2a",
+        "crc32": "54ac2225"
+      }
+    },
+    {
+      "filename": "Xbox 360 HD DVD Player Installation Disc (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).bin",
+      "filesize": 15972432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e114c2e079647752091d99190e4682b8",
+        "sha1": "54e501f9c07ae2e6b73f49e2a0f8e02d1daceb91",
+        "crc32": "c0ad64ec"
+      }
+    }
+  ]
+}

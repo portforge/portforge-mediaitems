@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Puyo Puyo Tsuu - Ketteiban (Japan) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Puyo Puyo Tsuu - Ketteiban (Japan) (Rev 1).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f4e59089077ea7544a9d80b16accb703",
+        "sha1": "af13223d0246eaa066bc4e582cd01bdeefe498c5",
+        "crc32": "d81a06a0"
+      }
+    },
+    {
+      "filename": "Puyo Puyo Tsuu - Ketteiban (Japan) (Rev 1).bin",
+      "filesize": 502810560,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e239ff37969a1cfecfeea2655d3edac5",
+        "sha1": "df97662c60a969a0a0874ababcde37fb4bc0367e",
+        "crc32": "45cdf1fa"
+      }
+    }
+  ]
+}

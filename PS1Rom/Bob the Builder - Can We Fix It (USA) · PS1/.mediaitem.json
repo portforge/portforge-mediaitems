@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bob the Builder - Can We Fix It (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bob the Builder - Can We Fix It (USA).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "81b8e748ba3107e209b317b46d3af05d",
+        "sha1": "25282f545988ac13b58239c42892a26bc14e394c",
+        "crc32": "86cd57f0"
+      }
+    },
+    {
+      "filename": "Bob the Builder - Can We Fix It (USA).bin",
+      "filesize": 175120512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "802a4c9754bb36e9ee27caa8e6d0f014",
+        "sha1": "cf281d78f0f92c8f0f2c9ea3b5f793acffdcc51b",
+        "crc32": "a4e9c86a"
+      }
+    }
+  ]
+}

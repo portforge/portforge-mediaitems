@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pinobee (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pinobee (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "694b441c54beec9ad5f67a9fbf9cbb4f",
+        "sha1": "92da4c4e16fdb91c4d4d571b89b71b04afbe40dc",
+        "crc32": "f8b71eb2"
+      }
+    },
+    {
+      "filename": "Pinobee (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 542016048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "61277417655fa042df1024258b5b89f7",
+        "sha1": "b9023bdcb71da21f67a1ec397c6337e63c835b08",
+        "crc32": "f5e97004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blaze & Blade - Eternal Quest (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blaze & Blade - Eternal Quest (Germany).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef75a24d0169e07cf8f071f821e6ed99",
+        "sha1": "3d22325cfe59bdf080cbb57e2ace94ce34db6ecc",
+        "crc32": "a00c1a68"
+      }
+    },
+    {
+      "filename": "Blaze & Blade - Eternal Quest (Germany).bin",
+      "filesize": 736392384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e51d4813494d6773be31d3c98bf0d03e",
+        "sha1": "c3450c378078718aacbd3e299bcf129021990abb",
+        "crc32": "f16450ac"
+      }
+    }
+  ]
+}

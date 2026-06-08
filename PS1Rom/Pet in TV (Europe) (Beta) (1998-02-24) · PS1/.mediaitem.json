@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pet in TV (Europe) (Beta) (1998-02-24)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pet in TV (Europe) (Beta) (1998-02-24).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b87b538d50d7f0f6252dbb8b06036beb",
+        "sha1": "6f79bd13f06d4e84bd7c42d94764065b97c5a555",
+        "crc32": "62746e8e"
+      }
+    },
+    {
+      "filename": "Pet in TV (Europe) (Beta) (1998-02-24).bin",
+      "filesize": 120224832,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5bf10a09fb834cafca37c67c53cf709f",
+        "sha1": "3440140e387edd4e6f199f48a8dbc61389dec79d",
+        "crc32": "c33c687d"
+      }
+    }
+  ]
+}

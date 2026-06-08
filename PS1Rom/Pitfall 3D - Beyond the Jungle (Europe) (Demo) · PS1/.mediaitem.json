@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pitfall 3D - Beyond the Jungle (Europe) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pitfall 3D - Beyond the Jungle (Europe) (Demo).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e9388b4cc1df78f1a261a6df9b606edc",
+        "sha1": "1d4c30a00c3a16636d077b17e57ee2b37d17e704",
+        "crc32": "62451b06"
+      }
+    },
+    {
+      "filename": "Pitfall 3D - Beyond the Jungle (Europe) (Demo).bin",
+      "filesize": 44951424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bfb9f0d029dc6961b56fc00641d1851d",
+        "sha1": "9afdc5d05137238c52a5af3beab16ca54140f596",
+        "crc32": "49417705"
+      }
+    }
+  ]
+}

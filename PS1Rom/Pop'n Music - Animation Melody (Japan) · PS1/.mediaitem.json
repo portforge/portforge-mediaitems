@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pop'n Music - Animation Melody (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pop'n Music - Animation Melody (Japan).cue",
+      "filesize": 104,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b57368c015ff00c926a37608d11e930",
+        "sha1": "14cdedee9c8aebb0b31086f66379774ec6155b89",
+        "crc32": "16279034"
+      }
+    },
+    {
+      "filename": "Pop'n Music - Animation Melody (Japan).bin",
+      "filesize": 218451408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "db38b3dad1100888303457591154d65d",
+        "sha1": "d988d9864110efe39334a28b71dcd3e5a7e11757",
+        "crc32": "34a5e309"
+      }
+    }
+  ]
+}

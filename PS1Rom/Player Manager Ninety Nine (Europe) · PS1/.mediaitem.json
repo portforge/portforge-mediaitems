@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Player Manager Ninety Nine (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Player Manager Ninety Nine (Europe).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "6d4f1fc38a6c680588291cd69fb7f5d7",
+        "sha1": "80cba0d992139e0e5962ed4a01ca1ff4e7904532",
+        "crc32": "e38ec6c3"
+      }
+    },
+    {
+      "filename": "Player Manager Ninety Nine (Europe).bin",
+      "filesize": 146428464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "467a601993aa6d214304370ec0e4f253",
+        "sha1": "98751ba00c9647fa90db49deb9bc7a93f5866df8",
+        "crc32": "5c9ac78b"
+      }
+    }
+  ]
+}

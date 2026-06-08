@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Murakoshi Seikai no Bakuchou SeaBass Fishing (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Murakoshi Seikai no Bakuchou SeaBass Fishing (Japan) (Disc 2).cue",
+      "filesize": 127,
+      "ext": "cue",
+      "checksums": {
+        "md5": "953dc7c67e32a83341759314e1718269",
+        "sha1": "1cd1f7a60d76be5c450a6af0cabf7ed0b6647b4a",
+        "crc32": "31406b43"
+      }
+    },
+    {
+      "filename": "Murakoshi Seikai no Bakuchou SeaBass Fishing (Japan) (Disc 2).bin",
+      "filesize": 430194912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6242201adb167bc7a71edc1af808825f",
+        "sha1": "3ae1033ad2e643c79e8556ebba174b8080cd2f85",
+        "crc32": "270327c0"
+      }
+    }
+  ]
+}

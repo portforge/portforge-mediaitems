@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Driver 2 - Back on the Streets (France) (Disc 2) (Rev 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Driver 2 - Back on the Streets (France) (Disc 2) (Rev 1).cue",
+      "filesize": 122,
+      "ext": "cue",
+      "checksums": {
+        "md5": "37ab6947d7dd3d92ef97ebe630f4f806",
+        "sha1": "5b467ad6658e60684c960b3c021ac919643375f9",
+        "crc32": "9e84549a"
+      }
+    },
+    {
+      "filename": "Driver 2 - Back on the Streets (France) (Disc 2) (Rev 1).bin",
+      "filesize": 622628496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75f6389d04ad44148b871c6b3bf789c1",
+        "sha1": "81814f4ad82ddb43af60997db0076d479a64eb2f",
+        "crc32": "5deb871e"
+      }
+    }
+  ]
+}

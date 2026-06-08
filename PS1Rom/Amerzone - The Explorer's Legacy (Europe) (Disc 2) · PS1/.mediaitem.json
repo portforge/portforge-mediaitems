@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Amerzone - The Explorer's Legacy (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Amerzone - The Explorer's Legacy (Europe) (Disc 2).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a197d2189e0a3172db0c2774e7244070",
+        "sha1": "96a02487f1ed646c4aab2dc08e33e737c3d7fa45",
+        "crc32": "808e5df7"
+      }
+    },
+    {
+      "filename": "Amerzone - The Explorer's Legacy (Europe) (Disc 2).bin",
+      "filesize": 517150704,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa41ac98af95830b0cb27176a628d327",
+        "sha1": "a3b1f05a896737ffc796f51b004d43ad3d928606",
+        "crc32": "21259fe5"
+      }
+    }
+  ]
+}

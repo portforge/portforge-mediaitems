@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Blast Lacrosse (USA) (Alt)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Blast Lacrosse (USA) (Alt).cue",
+      "filesize": 342,
+      "ext": "cue",
+      "checksums": {
+        "md5": "158544ed8a732acf7b116be05cea4a61",
+        "sha1": "6e0e7410c0fa9a38ea92696036588a45a0027f26",
+        "crc32": "009e1b22"
+      }
+    },
+    {
+      "filename": "Blast Lacrosse (USA) (Alt) (Track 1).bin",
+      "filesize": 56887824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f074ad0e09ce5cacaaa6ba03eccbfb4",
+        "sha1": "664c31cf9ccfd004e8846ec5ba7ad0e0f0a80ca4",
+        "crc32": "eaf386cf"
+      }
+    },
+    {
+      "filename": "Blast Lacrosse (USA) (Alt) (Track 2).bin",
+      "filesize": 140764848,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e47b25e157d359e305fc119d72a5199a",
+        "sha1": "59b3721968528637d01d1924f6cdd6cf28b5698c",
+        "crc32": "c415ec6d"
+      }
+    },
+    {
+      "filename": "Blast Lacrosse (USA) (Alt) (Track 3).bin",
+      "filesize": 32163600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f5625b67245f14c7c014b6f4caae81c",
+        "sha1": "de29d4e6ce644f40ba5c7e4a91c7b677e62685d3",
+        "crc32": "adddeea4"
+      }
+    }
+  ]
+}

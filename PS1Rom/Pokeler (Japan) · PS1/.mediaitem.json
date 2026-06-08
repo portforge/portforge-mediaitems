@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Pokeler (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Pokeler (Japan).cue",
+      "filesize": 81,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a933287a55dcc5217fe1fc4c963ba9af",
+        "sha1": "e74ef7362ea93c22329455e2f5df61efef060490",
+        "crc32": "029eecc1"
+      }
+    },
+    {
+      "filename": "Pokeler (Japan).bin",
+      "filesize": 36213744,
+      "ext": "bin",
+      "checksums": {
+        "md5": "021d8f784574208768fddb9636a7e257",
+        "sha1": "0e83f62970a35219108e39e65996728d432befb0",
+        "crc32": "84bed7ad"
+      }
+    }
+  ]
+}

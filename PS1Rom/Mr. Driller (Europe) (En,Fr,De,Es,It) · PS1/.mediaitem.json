@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mr. Driller (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mr. Driller (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "f187fbbc446c43382960bcd507ac03a2",
+        "sha1": "9325e11b482018b40354a4e67f8669d72e47d9b3",
+        "crc32": "4212396d"
+      }
+    },
+    {
+      "filename": "Mr. Driller (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 379436400,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75d3b6e16ce384fe29491d9e6e739d57",
+        "sha1": "8a5056e28a21769af6082d584a335c7c7ddcf1ab",
+        "crc32": "84d3a71c"
+      }
+    }
+  ]
+}

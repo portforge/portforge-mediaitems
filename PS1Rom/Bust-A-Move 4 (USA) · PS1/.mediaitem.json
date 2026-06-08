@@ -1,0 +1,247 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Bust-A-Move 4 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Bust-A-Move 4 (USA).cue",
+      "filesize": 2604,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ef02ae9384f17f0212d5b9d62007ac2a",
+        "sha1": "f544e6ad8bf711a51be4fdbcca99dd321ecf0aa6",
+        "crc32": "22d21a13"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 01).bin",
+      "filesize": 44469264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "703980152c3116b359d19ee04596bc43",
+        "sha1": "10399ab9201c45441e776e928617bc2a63e1e868",
+        "crc32": "aff6ae54"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 02).bin",
+      "filesize": 1232448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "37f7390040eb563ff5bde8d04240ad58",
+        "sha1": "6829214d87ade0b8d6a00c751bec698bd6e2b77f",
+        "crc32": "df0b6bb1"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 03).bin",
+      "filesize": 1215984,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9c81635ff21b9a68ed1b6460b904e6d3",
+        "sha1": "1452e4f5aca4c825224fd5adbe7309fff38e9c5c",
+        "crc32": "6494e634"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 04).bin",
+      "filesize": 1766352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d06c393240823feadf78d7be740c6325",
+        "sha1": "0eb95a0318a807d62a4ada74e659734b160e2e3f",
+        "crc32": "c20ed8f5"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 05).bin",
+      "filesize": 1319472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e33d2da259f9cfd3225a97cfb28c9455",
+        "sha1": "332ae820ba35ceddba149cad03888bb11d0010a3",
+        "crc32": "9b240bb1"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 06).bin",
+      "filesize": 12312720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "886234d9e0ab2ed0566a01b8d5be1883",
+        "sha1": "439304783de4465dc4f19d58c5c88660b17175e3",
+        "crc32": "023d2e8f"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 07).bin",
+      "filesize": 13117104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "001240b9e9da6adecb62311095909f6f",
+        "sha1": "3e5a403dce12a4faf0ebc1d0a838674eb17b17da",
+        "crc32": "4379c0a8"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 08).bin",
+      "filesize": 13154736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bea4a8763d74750319dfbe86923fe1f5",
+        "sha1": "7ab6d60b8e69a200ac65365434e018e91e953b1b",
+        "crc32": "29bc2ca5"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 09).bin",
+      "filesize": 11388384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "59459807e6286894de9e4ce6bc21475f",
+        "sha1": "72c38e0882d8f2284dcb58a219813455570b5161",
+        "crc32": "8962b58c"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 10).bin",
+      "filesize": 7768656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b88949858f1ddd85255c5e61a763b5c",
+        "sha1": "0db01624e0912a234504a6bdbf5eac98ad0ebfaf",
+        "crc32": "13cd71f9"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 11).bin",
+      "filesize": 12634944,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6830a6c558f43dc4188b0dd351d5fb38",
+        "sha1": "c4ca292f229d159a43ba70316e039b54dc216197",
+        "crc32": "59bdee49"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 12).bin",
+      "filesize": 48564096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34a0101e01ea477b7e7716f21f046bcb",
+        "sha1": "5fba0925690147f8a59bb987f64aba890f338c70",
+        "crc32": "a5d70f0e"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 13).bin",
+      "filesize": 47331648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "248cf6ee31a4a33a7f15aa57fee7a6ed",
+        "sha1": "dda109cea15707d131ec2000eb712db3311191b3",
+        "crc32": "615a736d"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 14).bin",
+      "filesize": 47891424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "baab4a842f4b130d3e61f2cbb0dee3a0",
+        "sha1": "ab044f778cc38751eb1b21ac261cf843e3ab9320",
+        "crc32": "369990ce"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 15).bin",
+      "filesize": 18931248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b592c798cc587497d5d2471a059cdbc9",
+        "sha1": "97ac77f8ff110a9d7b138bf91afbbc4d895fab9e",
+        "crc32": "a87127da"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 16).bin",
+      "filesize": 26382384,
+      "ext": "bin",
+      "checksums": {
+        "md5": "29c155adfadc6882c5dfa8c0e0a24990",
+        "sha1": "9cd0963675f45f42e022a7f5080984a11109002f",
+        "crc32": "5cd187e2"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 17).bin",
+      "filesize": 1500576,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1508e59ccc3a52794a594a08716a70ac",
+        "sha1": "d8fdc6f417989652ebebee7aed3a9c2d3c695718",
+        "crc32": "433d45e3"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 18).bin",
+      "filesize": 1321824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "42ceebf59711ddd8c0f710224ee0b797",
+        "sha1": "0949354b057a4b99ca3eba10ca30f5201705dfa7",
+        "crc32": "0a3a6153"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 19).bin",
+      "filesize": 1350048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "54dc802b6328645411554b1a3c5a3802",
+        "sha1": "2e8ac34fbd0ded079529a91af90e379cf8a111a3",
+        "crc32": "dbb5e8e5"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 20).bin",
+      "filesize": 24423168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "745833959c791b6c8e1eb7fab5c1bbb7",
+        "sha1": "1958e76f19134536957bfd8280a59604f9031146",
+        "crc32": "854668fa"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 21).bin",
+      "filesize": 23028432,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1e0b63e192d3fca268af044f81f3607f",
+        "sha1": "bc45b9ccd67ae51f18d4c051cd1984b9a493d85f",
+        "crc32": "8f322ec5"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 22).bin",
+      "filesize": 44537472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3db0257d3f1c5c2c1ac689ef33580434",
+        "sha1": "bd42c5d25210d305edad2856dcbf1743c356e402",
+        "crc32": "b260b9bc"
+      }
+    },
+    {
+      "filename": "Bust-A-Move 4 (USA) (Track 23).bin",
+      "filesize": 48564096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34a0101e01ea477b7e7716f21f046bcb",
+        "sha1": "5fba0925690147f8a59bb987f64aba890f338c70",
+        "crc32": "a5d70f0e"
+      }
+    }
+  ]
+}

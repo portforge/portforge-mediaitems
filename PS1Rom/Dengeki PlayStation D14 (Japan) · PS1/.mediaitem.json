@@ -1,0 +1,57 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dengeki PlayStation D14 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dengeki PlayStation D14 (Japan).cue",
+      "filesize": 482,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0b731eaa6f6d2fa74b3f3982cab39239",
+        "sha1": "ada2b5e7e06c29c1fe71573eeefda0bd524bc195",
+        "crc32": "4dbeec68"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D14 (Japan) (Track 1).bin",
+      "filesize": 610703856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f2001cf0a71e5beb0b26ebcd5c640c5d",
+        "sha1": "2daae13078115c0f321faf152f140c61944eb613",
+        "crc32": "2bdc2a39"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D14 (Japan) (Track 2).bin",
+      "filesize": 33457200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b555b642472f9ed9c9816ce0ec17d0c1",
+        "sha1": "8ee1cfe196fe778281c0553cb6b7328de89d52da",
+        "crc32": "7c4a87dd"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D14 (Japan) (Track 3).bin",
+      "filesize": 19632144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "34340b21b7be9954ffce4b6665400ba6",
+        "sha1": "de31b10da80895b82f8a252dbae1df8c857bec03",
+        "crc32": "cb469973"
+      }
+    },
+    {
+      "filename": "Dengeki PlayStation D14 (Japan) (Track 4).bin",
+      "filesize": 37396800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d7b5e8e94a91bf5423b2356f6a34863",
+        "sha1": "d9f92af296360772e62caa4cb276de3fa74f5538",
+        "crc32": "7976083e"
+      }
+    }
+  ]
+}

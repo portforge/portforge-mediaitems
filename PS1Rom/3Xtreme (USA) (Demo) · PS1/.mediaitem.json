@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "3Xtreme (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "3Xtreme (USA) (Demo).cue",
+      "filesize": 210,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1594a5fa1c670b92631056d6e1e6c9fb",
+        "sha1": "bb568da1f73df38143f07e8487fb8b18414f2b23",
+        "crc32": "afd8623e"
+      }
+    },
+    {
+      "filename": "3Xtreme (USA) (Demo) (Track 1).bin",
+      "filesize": 88625712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "521b1af85fd96ee516a456f48af61d5b",
+        "sha1": "a6f3eb421cab68ad005fab381c634827226f1388",
+        "crc32": "a20fb256"
+      }
+    },
+    {
+      "filename": "3Xtreme (USA) (Demo) (Track 2).bin",
+      "filesize": 12999504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c8f9ffaedc5a7067fa443625321f2cc7",
+        "sha1": "7744ffae36986f09cc87a649a6a8d44e3756284f",
+        "crc32": "fe85bf0c"
+      }
+    }
+  ]
+}

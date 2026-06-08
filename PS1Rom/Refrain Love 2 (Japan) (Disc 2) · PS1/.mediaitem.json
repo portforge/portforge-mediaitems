@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Refrain Love 2 (Japan) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Refrain Love 2 (Japan) (Disc 2).cue",
+      "filesize": 97,
+      "ext": "cue",
+      "checksums": {
+        "md5": "41c2795f5e578207262784df84316377",
+        "sha1": "0d187124bd6e4d3a87f2bcd86a08154fc427a2db",
+        "crc32": "7f3677b0"
+      }
+    },
+    {
+      "filename": "Refrain Love 2 (Japan) (Disc 2).bin",
+      "filesize": 744473856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a7d915f2fb50967203c5f625ce0fbf77",
+        "sha1": "6bd6cc1467d4532fcb26fb3932cc37bce7dab6a2",
+        "crc32": "7c5d2a94"
+      }
+    }
+  ]
+}

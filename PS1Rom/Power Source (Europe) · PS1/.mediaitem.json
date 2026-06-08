@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Power Source (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Power Source (Europe).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ecc4a73b9fd4f16c2a79cb8b5cac9c8a",
+        "sha1": "a99746a8e72464d0d6f9214dc817858647cf3319",
+        "crc32": "ee4f92a2"
+      }
+    },
+    {
+      "filename": "Power Source (Europe) (Track 1).bin",
+      "filesize": 586499424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "059de9544b33812e50e85249834f6b10",
+        "sha1": "46d76e385698bbeec44cc1be52c52a60e3a840a1",
+        "crc32": "0c9c2a5d"
+      }
+    },
+    {
+      "filename": "Power Source (Europe) (Track 2).bin",
+      "filesize": 11435424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ccaab2c01e94489ae867570858a9feb0",
+        "sha1": "9c87f54d7071fcd621548be4f53fed2349ba4d82",
+        "crc32": "8d2d201d"
+      }
+    },
+    {
+      "filename": "Power Source (Europe) (Track 3).bin",
+      "filesize": 35174160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "10c1a2248fe9854d15f8217456285002",
+        "sha1": "e7996186776d4502e415dc69585c4319f7e624eb",
+        "crc32": "3048c3ee"
+      }
+    }
+  ]
+}

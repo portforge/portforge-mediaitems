@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "NFL Blitz 2001 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "NFL Blitz 2001 (USA).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "238bc1e28e59c6e951fa214ca1f9a2a5",
+        "sha1": "1cccde793e40cd5d44598dad3bc7a056553001a1",
+        "crc32": "67d2609a"
+      }
+    },
+    {
+      "filename": "NFL Blitz 2001 (USA).bin",
+      "filesize": 266921424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb693c270512d39d6012bfbdc76f0aee",
+        "sha1": "4b766e92f4c3b74ecc682c9846288bc66db1091b",
+        "crc32": "ee0e00fc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Harmful Park (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Harmful Park (Japan).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e743291c4bbecf04c4a16231f63e696d",
+        "sha1": "495a9e5096194c43eba4e2f274cc96a03fdfcca8",
+        "crc32": "09d92f89"
+      }
+    },
+    {
+      "filename": "Harmful Park (Japan).bin",
+      "filesize": 550443264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78d101cad59d01cef2666c7afeec988c",
+        "sha1": "fe44ca3ce8abd69a002cf304a1d7f99a16bbf1d6",
+        "crc32": "b1589bb4"
+      }
+    }
+  ]
+}

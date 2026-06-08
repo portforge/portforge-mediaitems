@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Click Manga - Opera-za no Kaijin (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Click Manga - Opera-za no Kaijin (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "640a6f7b69b8338a5b1b6cf9a9b47a8a",
+        "sha1": "499d96158242119e893674bf617fe7688d42c180",
+        "crc32": "ab07c03e"
+      }
+    },
+    {
+      "filename": "Click Manga - Opera-za no Kaijin (Japan).bin",
+      "filesize": 63943824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e17f06791d887bea0643b6096552083c",
+        "sha1": "c51cdcce5aad6fb526d40b085f9be8d58449c955",
+        "crc32": "d5efe3d2"
+      }
+    }
+  ]
+}

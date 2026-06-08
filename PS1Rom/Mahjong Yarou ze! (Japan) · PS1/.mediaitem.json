@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mahjong Yarou ze! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mahjong Yarou ze! (Japan).cue",
+      "filesize": 106,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9828190df4747b535bb0b142482bb59d",
+        "sha1": "13d1ed45984b521a5d92150cd1fe5f0d09b142c1",
+        "crc32": "2bc1c8c9"
+      }
+    },
+    {
+      "filename": "Mahjong Yarou ze! (Japan).bin",
+      "filesize": 152729472,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fa0816e09eb7841c4c8b5880bce57198",
+        "sha1": "a736f5ac7ae33b4e0223425a5ef7da270320471f",
+        "crc32": "cf39e0b5"
+      }
+    }
+  ]
+}

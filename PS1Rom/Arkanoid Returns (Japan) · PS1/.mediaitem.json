@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Arkanoid Returns (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Arkanoid Returns (Japan).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0cee6b40e0eb6c1bf9efdec7e94806ca",
+        "sha1": "af679029a4b314bc5fb8020b400dcc6eba34b110",
+        "crc32": "955eff2d"
+      }
+    },
+    {
+      "filename": "Arkanoid Returns (Japan).bin",
+      "filesize": 194362224,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7442958f8a7307200fd5cad674278ce8",
+        "sha1": "658fdf9a7083dfc32617e53da17720b2d1f2609a",
+        "crc32": "a7927970"
+      }
+    }
+  ]
+}

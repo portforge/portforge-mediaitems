@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Meitantei Conan - Saikou no Partner (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Meitantei Conan - Saikou no Partner (Japan).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "90f15fde20324be7ecc4da5c3bb8937e",
+        "sha1": "63660d7af9293df9514e38eb87735ee37da3690c",
+        "crc32": "db7b2718"
+      }
+    },
+    {
+      "filename": "Meitantei Conan - Saikou no Partner (Japan).bin",
+      "filesize": 674993424,
+      "ext": "bin",
+      "checksums": {
+        "md5": "307196b00f36300fa1dd0d53e394f5b1",
+        "sha1": "e485abc582026898e5b254fb8f82019c57706278",
+        "crc32": "99923848"
+      }
+    }
+  ]
+}

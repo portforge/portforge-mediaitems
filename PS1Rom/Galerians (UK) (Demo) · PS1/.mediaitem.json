@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Galerians (UK) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Galerians (UK) (Demo).cue",
+      "filesize": 87,
+      "ext": "cue",
+      "checksums": {
+        "md5": "459c6c43a86582e7cf703681b783168a",
+        "sha1": "8232dd17c6fe474f0eb8a11f9106ce9a61658f7f",
+        "crc32": "20188f9a"
+      }
+    },
+    {
+      "filename": "Galerians (UK) (Demo).bin",
+      "filesize": 113281728,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fbad1ccbeb70fc265aff5c2bb4b2badf",
+        "sha1": "c153af358aad6879451c7d1e4cdcdba6568a4c2c",
+        "crc32": "4ebdbcec"
+      }
+    }
+  ]
+}

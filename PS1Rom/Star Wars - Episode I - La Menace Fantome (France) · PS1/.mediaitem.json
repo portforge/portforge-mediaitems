@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Star Wars - Episode I - La Menace Fantome (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Star Wars - Episode I - La Menace Fantome (France).cue",
+      "filesize": 116,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b9b47cccc62b524f0473db81c3bb2007",
+        "sha1": "d548cc09fddb900d83e5b7c723dda0b6159ddc2e",
+        "crc32": "2aa26642"
+      }
+    },
+    {
+      "filename": "Star Wars - Episode I - La Menace Fantome (France).bin",
+      "filesize": 673488144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a25c64a7bc826e085471f31e1b9e8b0f",
+        "sha1": "3df64fe3c83e02b46da379a77ed12765a16865c3",
+        "crc32": "8d06d921"
+      }
+    }
+  ]
+}

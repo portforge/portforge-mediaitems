@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Superstar Dance Club - 1 Hits!!! (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Superstar Dance Club - 1 Hits!!! (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 124,
+      "ext": "cue",
+      "checksums": {
+        "md5": "4a10eaa7aa038763f5eb00706401fe1e",
+        "sha1": "6d1137d5ba9e70d93fcb20a55a3375f8520c240d",
+        "crc32": "a6c2b91d"
+      }
+    },
+    {
+      "filename": "Superstar Dance Club - 1 Hits!!! (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 127861776,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cdaa88371f23279e53f78c2b57e9a713",
+        "sha1": "86786e03246d53af5461853844615cce434b2d16",
+        "crc32": "dcdf0cdd"
+      }
+    }
+  ]
+}

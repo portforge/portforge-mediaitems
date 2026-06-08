@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Broken Sword II - The Smoking Mirror (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Broken Sword II - The Smoking Mirror (Europe).cue",
+      "filesize": 399,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11e103dc66c80f3357a2a29e6859a062",
+        "sha1": "f6f401f85534540e48e6f860f97da08c6e4f3421",
+        "crc32": "bfba179a"
+      }
+    },
+    {
+      "filename": "Broken Sword II - The Smoking Mirror (Europe) (Track 1).bin",
+      "filesize": 589230096,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a972fcea9a6b5e0a744a63e89da4f00",
+        "sha1": "5384833700703710c11ece29832e392df5569510",
+        "crc32": "67eebbad"
+      }
+    },
+    {
+      "filename": "Broken Sword II - The Smoking Mirror (Europe) (Track 2).bin",
+      "filesize": 28235760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8b14b4e3169a1616585090a90188540a",
+        "sha1": "f1bcb23a04e6d28662ac476082a7a85bad6760aa",
+        "crc32": "031bea61"
+      }
+    },
+    {
+      "filename": "Broken Sword II - The Smoking Mirror (Europe) (Track 3).bin",
+      "filesize": 35176512,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b14b5201d01642b24c4e51cc42ae06eb",
+        "sha1": "7d33e0a4f1679b654c346c8fd583ef6fc436b9d5",
+        "crc32": "8c7357aa"
+      }
+    }
+  ]
+}

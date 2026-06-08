@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BursTrick - Wake Boarding!! (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BursTrick - Wake Boarding!! (Europe) (En,Fr,De).cue",
+      "filesize": 113,
+      "ext": "cue",
+      "checksums": {
+        "md5": "67e8b46dfd679f4d3989644984d46fdd",
+        "sha1": "aa359495a69c647a68000661ea5d550f6852f227",
+        "crc32": "99a7e5e1"
+      }
+    },
+    {
+      "filename": "BursTrick - Wake Boarding!! (Europe) (En,Fr,De).bin",
+      "filesize": 374937024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8a209a39514c43c8469a6bf5f70a4d1d",
+        "sha1": "c8ba55645d72b9e02f1bd0a922f74b7f4501b15c",
+        "crc32": "1d052a6f"
+      }
+    }
+  ]
+}

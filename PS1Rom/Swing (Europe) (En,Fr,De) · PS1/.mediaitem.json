@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Swing (Europe) (En,Fr,De)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Swing (Europe) (En,Fr,De).cue",
+      "filesize": 220,
+      "ext": "cue",
+      "checksums": {
+        "md5": "076f77ff5ce36d22a40bdacd514c41ba",
+        "sha1": "b8d93592784e208cdaad219b7ff47bcf5eb91ef2",
+        "crc32": "8c31e2ac"
+      }
+    },
+    {
+      "filename": "Swing (Europe) (En,Fr,De) (Track 1).bin",
+      "filesize": 56114016,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e275cc05a41c195f485ead0b7490907",
+        "sha1": "4a41333a17673f2de36a623d84f96740888362fd",
+        "crc32": "266cede1"
+      }
+    },
+    {
+      "filename": "Swing (Europe) (En,Fr,De) (Track 2).bin",
+      "filesize": 457986144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa9ac35b3a4318c07f8949f70196501e",
+        "sha1": "f5c55d0effe57b5bc362aac097b6dc04d851352f",
+        "crc32": "747b7f35"
+      }
+    }
+  ]
+}

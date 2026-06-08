@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Knockout Kings 2000 (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Knockout Kings 2000 (France).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c93acca89e320c8770c98396644f797c",
+        "sha1": "733fe77e3d68fdc392012f6ca0eea75a18ff5d63",
+        "crc32": "2e4d160f"
+      }
+    },
+    {
+      "filename": "Knockout Kings 2000 (France).bin",
+      "filesize": 349267296,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e702a04e78150d75104ee2c68674ff31",
+        "sha1": "d57264d41b01fc26291fe0c9df389333d9814dc7",
+        "crc32": "ed4edd3d"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 40 - The Shougi 2 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 40 - The Shougi 2 (Japan).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d8b6ead57b3c82a5ee507a0b04212807",
+        "sha1": "a6586b7f05d444bd4c0f7e78db9511d785cb95b6",
+        "crc32": "9660c255"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 40 - The Shougi 2 (Japan).bin",
+      "filesize": 167116656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "197c1170d9426963fb83d6962279553e",
+        "sha1": "c12013a10ce86dab31a6197afc3e37a50f286012",
+        "crc32": "3a212602"
+      }
+    }
+  ]
+}

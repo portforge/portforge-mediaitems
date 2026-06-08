@@ -1,0 +1,127 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Goal Storm (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Goal Storm (USA).cue",
+      "filesize": 1368,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cb7f6cef79597d3271281c4eb7f911e3",
+        "sha1": "6514ef62d9655ebe6397b3f18dfa523189d45dfd",
+        "crc32": "9e80a164"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 01).bin",
+      "filesize": 59061072,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4223041b4144cb7cd7b1bab7648cc648",
+        "sha1": "9f0238ba9db6801d65edf8569e5775001eb880fd",
+        "crc32": "5893fdc6"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 02).bin",
+      "filesize": 30169104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "71324c6e3ad29f0a738a2e4dce426e57",
+        "sha1": "87d8edf262f38de7102d22ceca469cf9b595948c",
+        "crc32": "c195b1d2"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 03).bin",
+      "filesize": 20422416,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6c75a7f755f357f6c5e96e7c50f61df0",
+        "sha1": "57b229244734a7e6b0fbe839806c5753b0cc9058",
+        "crc32": "a9d88e51"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 04).bin",
+      "filesize": 12324480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a8fe00963d03f891c3d6ebf32d1d705a",
+        "sha1": "9447d67fcbabbbc48baccfcfdf2b8dbf89bb60b8",
+        "crc32": "5bd3ab1f"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 05).bin",
+      "filesize": 3593856,
+      "ext": "bin",
+      "checksums": {
+        "md5": "be2da7148ed251b5daa07e5cc6ceaa78",
+        "sha1": "1419fbab8b918f3eb846c9ef6c19c8283f1451c6",
+        "crc32": "e85b519c"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 06).bin",
+      "filesize": 1495872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d485030fb32e6017e185175e6a976921",
+        "sha1": "d8f0d7aa6898fc6a4015bf6627fc5270579b0e42",
+        "crc32": "e3433157"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 07).bin",
+      "filesize": 1618176,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c2db85558e036d8aaf7d3c4b77745f40",
+        "sha1": "653873dc7d1e53e1febd1f16fccd8615e542dad8",
+        "crc32": "b1138111"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 08).bin",
+      "filesize": 43904784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e17c7d1eec322e23f580c358b5ab5929",
+        "sha1": "314797c6c626586c6a7d518b0f3c7ae90d676002",
+        "crc32": "02626779"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 09).bin",
+      "filesize": 28849632,
+      "ext": "bin",
+      "checksums": {
+        "md5": "380b02e9d7164eb5b050d7e8e4666e98",
+        "sha1": "b40111bd39bbd369d40f4329c2504c06285a920b",
+        "crc32": "2fe920a4"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 10).bin",
+      "filesize": 10946208,
+      "ext": "bin",
+      "checksums": {
+        "md5": "87f17c8820e82b8627bb2dbfddf7e059",
+        "sha1": "0b0afa5f9d56b02974f79a6bf2fd015157556445",
+        "crc32": "65df458f"
+      }
+    },
+    {
+      "filename": "Goal Storm (USA) (Track 11).bin",
+      "filesize": 10965024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "323a4f86b1f36ed03fa0047c7ff7df16",
+        "sha1": "e10af44299567a0a3d3875b9e16b6b325be925c9",
+        "crc32": "6d2917d4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Momotarou Densetsu (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Momotarou Densetsu (Japan).cue",
+      "filesize": 92,
+      "ext": "cue",
+      "checksums": {
+        "md5": "fbed8f4348aceff9357a87ba98a6e784",
+        "sha1": "97b84a853ed3b8e7e7ec4dc7fbc627639ce0d3d3",
+        "crc32": "236b90ae"
+      }
+    },
+    {
+      "filename": "Momotarou Densetsu (Japan).bin",
+      "filesize": 144048240,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9af16cfdf494afb2535f0edc88adb9f5",
+        "sha1": "850eaabb0feb0dda476471f4b69c67537755a7db",
+        "crc32": "c591c72f"
+      }
+    }
+  ]
+}

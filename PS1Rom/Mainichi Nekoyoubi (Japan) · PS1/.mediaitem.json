@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mainichi Nekoyoubi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mainichi Nekoyoubi (Japan).cue",
+      "filesize": 222,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e8a83b682ee1bcfaba24a8553769c95b",
+        "sha1": "e2d47657b024e298bf337e7c37195f0ac21675f4",
+        "crc32": "b6444035"
+      }
+    },
+    {
+      "filename": "Mainichi Nekoyoubi (Japan) (Track 1).bin",
+      "filesize": 145160736,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3fb6c56a1d02e43bdb4660237b1c18f",
+        "sha1": "fdc3ec0805bd12d68214102a07b324cf38b76219",
+        "crc32": "ba3c59ea"
+      }
+    },
+    {
+      "filename": "Mainichi Nekoyoubi (Japan) (Track 2).bin",
+      "filesize": 198473520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9e8e5f4b98e03e7c0a82fd260bf35448",
+        "sha1": "f2cc895d6c3f93bed18eea93f0db5824a27049cd",
+        "crc32": "296038ad"
+      }
+    }
+  ]
+}

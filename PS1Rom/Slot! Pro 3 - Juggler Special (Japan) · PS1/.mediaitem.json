@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Slot! Pro 3 - Juggler Special (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Slot! Pro 3 - Juggler Special (Japan).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1faa80939315d3d1ad8dae3475c47bfc",
+        "sha1": "16b2369a9067dbccd196f548d253f6d45b57f635",
+        "crc32": "7e6f224d"
+      }
+    },
+    {
+      "filename": "Slot! Pro 3 - Juggler Special (Japan).bin",
+      "filesize": 43349712,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b3dadb1838fb3235985f85179315d7ca",
+        "sha1": "b35e72304bbfb75add0b9618d00af30978a2e587",
+        "crc32": "6bfe8198"
+      }
+    }
+  ]
+}

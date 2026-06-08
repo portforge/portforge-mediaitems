@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tiny Toon Adventures - Toonenstein - Geisterstunde! (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tiny Toon Adventures - Toonenstein - Geisterstunde! (Germany).cue",
+      "filesize": 447,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0e11c9d904c34e21839bcdc4f7d01016",
+        "sha1": "de10d7426921caae6a6be519ec1312eb756f1694",
+        "crc32": "f1397edb"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Toonenstein - Geisterstunde! (Germany) (Track 1).bin",
+      "filesize": 649533024,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9f96fa6867e33cdc0e351889195402a5",
+        "sha1": "51598970f5e08f183de3b803650709a7000a589f",
+        "crc32": "5401b54e"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Toonenstein - Geisterstunde! (Germany) (Track 2).bin",
+      "filesize": 15988896,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c34c531ceb29fb91e5d804195a770749",
+        "sha1": "92b1eba93c875a2f92c40d6d80d5b140b9f75295",
+        "crc32": "e7537323"
+      }
+    },
+    {
+      "filename": "Tiny Toon Adventures - Toonenstein - Geisterstunde! (Germany) (Track 3).bin",
+      "filesize": 37210992,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3a128e0924a95c9de8642914490ad372",
+        "sha1": "1e551e904bb74dcd18cbd8060616ab6c86fb8b1b",
+        "crc32": "5450550a"
+      }
+    }
+  ]
+}

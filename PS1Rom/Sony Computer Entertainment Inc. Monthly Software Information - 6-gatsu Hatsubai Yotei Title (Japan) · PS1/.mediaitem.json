@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Sony Computer Entertainment Inc. Monthly Software Information - 6-gatsu Hatsubai Yotei Title (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Sony Computer Entertainment Inc. Monthly Software Information - 6-gatsu Hatsubai Yotei Title (Japan).cue",
+      "filesize": 166,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7b4833b037d487a9a80c080e1525123d",
+        "sha1": "1e12f815d876c75b5e872529e8d94348e4a0a623",
+        "crc32": "1f13217e"
+      }
+    },
+    {
+      "filename": "Sony Computer Entertainment Inc. Monthly Software Information - 6-gatsu Hatsubai Yotei Title (Japan).bin",
+      "filesize": 542364144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e7aa6959f4ed651d44dd4e9ec8d2e16e",
+        "sha1": "2cfcceb02fcd4a9e60c31d23ecc32523ac1a0e46",
+        "crc32": "45e47da8"
+      }
+    }
+  ]
+}

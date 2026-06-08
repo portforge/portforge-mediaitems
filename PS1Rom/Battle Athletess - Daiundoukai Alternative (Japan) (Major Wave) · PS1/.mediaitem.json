@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Battle Athletess - Daiundoukai Alternative (Japan) (Major Wave)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Battle Athletess - Daiundoukai Alternative (Japan) (Major Wave).cue",
+      "filesize": 129,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9ccf58f99e5c48ae208198435d7803aa",
+        "sha1": "2c463287ed5811610343d6b63b0a3cfb6e5d81ea",
+        "crc32": "b48223fc"
+      }
+    },
+    {
+      "filename": "Battle Athletess - Daiundoukai Alternative (Japan) (Major Wave).bin",
+      "filesize": 724112592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ae2d62fd57299fc2e36f15bd2651e467",
+        "sha1": "667b1dabd234fb84eb3e947c3248145bf28bc03d",
+        "crc32": "148c6c42"
+      }
+    }
+  ]
+}

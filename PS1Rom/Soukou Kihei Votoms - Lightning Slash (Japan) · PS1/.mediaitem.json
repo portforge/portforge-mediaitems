@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soukou Kihei Votoms - Lightning Slash (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soukou Kihei Votoms - Lightning Slash (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "11908628b3b597390f62245ab18225eb",
+        "sha1": "3c3804710b184e9efba5fad846c7ced85ba6c213",
+        "crc32": "a6e2ee16"
+      }
+    },
+    {
+      "filename": "Soukou Kihei Votoms - Lightning Slash (Japan).bin",
+      "filesize": 167100192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4e66be201b82ff220fd7e80f5fa3fc2f",
+        "sha1": "8f2a904b8eda7a41705063d9abd5e46901100528",
+        "crc32": "a8e31534"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Simple 1500 Series Vol. 66 - The Kaiten - Mawasundaa!! (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Simple 1500 Series Vol. 66 - The Kaiten - Mawasundaa!! (Japan).cue",
+      "filesize": 128,
+      "ext": "cue",
+      "checksums": {
+        "md5": "611e206cf3bf5c3c247f561cbe076719",
+        "sha1": "ba3ff124966d37ee5a0d002fe0c53f0eed0818dd",
+        "crc32": "65bd92fa"
+      }
+    },
+    {
+      "filename": "Simple 1500 Series Vol. 66 - The Kaiten - Mawasundaa!! (Japan).bin",
+      "filesize": 204943872,
+      "ext": "bin",
+      "checksums": {
+        "md5": "611a09f14980e0a438dfb7d884040bbe",
+        "sha1": "043b80eb44e5543278dcfc575367fe9a9325b4ed",
+        "crc32": "f98642d9"
+      }
+    }
+  ]
+}

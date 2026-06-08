@@ -1,0 +1,87 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Nestle Disney Demo (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Nestle Disney Demo (Europe).cue",
+      "filesize": 829,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a18f73701de9ff2ed57a2ba1d2aa3ec9",
+        "sha1": "d053317d3e6457f00b8282de95d30f6e898d3288",
+        "crc32": "979f2152"
+      }
+    },
+    {
+      "filename": "Nestle Disney Demo (Europe) (Track 1).bin",
+      "filesize": 264745824,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e2a713a37a203d7a165cce4502e5333e",
+        "sha1": "e81c56ed3283fc3d62796dc615245ea6d2ae5e2d",
+        "crc32": "8c16562c"
+      }
+    },
+    {
+      "filename": "Nestle Disney Demo (Europe) (Track 2).bin",
+      "filesize": 21240912,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55385e623ff3d5ec811804d19669c7d3",
+        "sha1": "879cdcc9c4bbacb3b389ffffdbabf094f00486a8",
+        "crc32": "9f58cf5a"
+      }
+    },
+    {
+      "filename": "Nestle Disney Demo (Europe) (Track 3).bin",
+      "filesize": 21511392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "795f388820cbbf3b72cc3473ff72b6c4",
+        "sha1": "2920bf3387d4364c4e9cda202eff37ff2eda15bd",
+        "crc32": "78e4e84d"
+      }
+    },
+    {
+      "filename": "Nestle Disney Demo (Europe) (Track 4).bin",
+      "filesize": 31867248,
+      "ext": "bin",
+      "checksums": {
+        "md5": "240dd25680e5d6ed42f17cb4093cbf43",
+        "sha1": "ecd861bb62ac93602af10019671c703040a0e248",
+        "crc32": "34e64bbf"
+      }
+    },
+    {
+      "filename": "Nestle Disney Demo (Europe) (Track 5).bin",
+      "filesize": 5402544,
+      "ext": "bin",
+      "checksums": {
+        "md5": "04ad28f9ed1a3919c3bef49e715403fd",
+        "sha1": "f347e3d55967fe159700854eb3b9556c3074dd6a",
+        "crc32": "836b902b"
+      }
+    },
+    {
+      "filename": "Nestle Disney Demo (Europe) (Track 6).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    },
+    {
+      "filename": "Nestle Disney Demo (Europe) (Track 7).bin",
+      "filesize": 32356464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "f69392e9568b55dc52d1aebb900c2a61",
+        "sha1": "0fd16cbb03e546647dee93fdd2a62a916efbcac6",
+        "crc32": "f6f33c3b"
+      }
+    }
+  ]
+}

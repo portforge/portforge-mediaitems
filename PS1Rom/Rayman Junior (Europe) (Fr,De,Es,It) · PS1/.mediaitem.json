@@ -1,0 +1,137 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rayman Junior (Europe) (Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It).cue",
+      "filesize": 1554,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c6242ec1b161f2ba586405c5c29af3e5",
+        "sha1": "915fdfff566343b5d82f68ae8e01ea18401e508a",
+        "crc32": "f9a4521b"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 01).bin",
+      "filesize": 248949792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "551fe4b38b9fa78bbcceb0dadd955472",
+        "sha1": "70f03a7124a0562b0d7b618480c1b3201e891856",
+        "crc32": "8fd7c8eb"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 02).bin",
+      "filesize": 22040592,
+      "ext": "bin",
+      "checksums": {
+        "md5": "62d798a43e085fef0a52b64168b0626e",
+        "sha1": "ec2057ad356994e9459e07e325d102618440c215",
+        "crc32": "5c4fd454"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 03).bin",
+      "filesize": 22360464,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e834feb1255729b61e5c4a2555618fff",
+        "sha1": "14f459007ea63572e2cfce449e10a2c29c2a0146",
+        "crc32": "d93ab8ee"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 04).bin",
+      "filesize": 22558032,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a35b3c9bc65ef6da16cd51786dbc3f60",
+        "sha1": "b7f3029dd8b9ee6e8f530afaa62cd4b74ee82ea4",
+        "crc32": "c2c9ad27"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 05).bin",
+      "filesize": 21643104,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b8a9633a4731a0fbfbb7ddc8749b3b76",
+        "sha1": "06b661c0eec9865576de5f88184730cb071db7c8",
+        "crc32": "b1f68388"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 06).bin",
+      "filesize": 22593312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2d66de014eff26bbbe74232ad42a5999",
+        "sha1": "2c4014ba366df34ea30878b45a6732599131331a",
+        "crc32": "047803fd"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 07).bin",
+      "filesize": 21520800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "55d66b48b51e6404cda4295f370c5fc7",
+        "sha1": "921272a835ae87d316b805026962c9e65bc2a910",
+        "crc32": "6e14705f"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 08).bin",
+      "filesize": 21372624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1d370ec5f472404d781f7ba15c3151e0",
+        "sha1": "3a2e104a96f49cf496c149ec6740f068c10ea96d",
+        "crc32": "706da7ba"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 09).bin",
+      "filesize": 25552128,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3fdb4a7f154aedbf6f2cf43c942ee573",
+        "sha1": "d01304dc939dc1ff8776ab22323cf745378449f0",
+        "crc32": "7eba7c28"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 10).bin",
+      "filesize": 1865136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4829766c2377fdbc621f71b37df544d7",
+        "sha1": "912eb7ab3cca229a5632db635462239ccb4d3d17",
+        "crc32": "cfbd00be"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 11).bin",
+      "filesize": 10569888,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b6c6db6b840a425134c1634d7cc48bd9",
+        "sha1": "47a45d4b83791b05a018ea59e35ebbdc8359a49e",
+        "crc32": "99405dc2"
+      }
+    },
+    {
+      "filename": "Rayman Junior (Europe) (Fr,De,Es,It) (Track 12).bin",
+      "filesize": 32528160,
+      "ext": "bin",
+      "checksums": {
+        "md5": "12fac10373bb4593f18118278f5483a6",
+        "sha1": "0fce5c32cac2b75843f2c2f263755bca1224daf0",
+        "crc32": "255672e3"
+      }
+    }
+  ]
+}

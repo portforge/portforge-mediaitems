@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Guardian's Crusade (Germany)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Guardian's Crusade (Germany).cue",
+      "filesize": 94,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a36920391c6b32c69657bfbb6941d4c1",
+        "sha1": "a53fc0660a1a46ddb6d811ace023982c79e2eca7",
+        "crc32": "68c4ee13"
+      }
+    },
+    {
+      "filename": "Guardian's Crusade (Germany).bin",
+      "filesize": 437636640,
+      "ext": "bin",
+      "checksums": {
+        "md5": "01e9b41c12a036ec3a870ef1d75d3264",
+        "sha1": "89cd55675eb6284ae09391069d69bd7157d43de0",
+        "crc32": "b4c7bef1"
+      }
+    }
+  ]
+}

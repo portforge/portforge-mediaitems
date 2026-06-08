@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy VIII (Spain) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy VIII (Spain) (Demo).cue",
+      "filesize": 99,
+      "ext": "cue",
+      "checksums": {
+        "md5": "b189deca919b8292e2a4bb55c43ce4be",
+        "sha1": "74417b0137a249ebbb4f9d880c7ce643c0f9fb7e",
+        "crc32": "72637a1f"
+      }
+    },
+    {
+      "filename": "Final Fantasy VIII (Spain) (Demo).bin",
+      "filesize": 190173312,
+      "ext": "bin",
+      "checksums": {
+        "md5": "a5abe42904d72c7b5543ededb5d4f1cd",
+        "sha1": "7b6569622881057dcaa95d1801e4339e63ce2820",
+        "crc32": "6171e4a4"
+      }
+    }
+  ]
+}

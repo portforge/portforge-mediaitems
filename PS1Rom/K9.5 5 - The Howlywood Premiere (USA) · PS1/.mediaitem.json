@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "K9.5 5 - The Howlywood Premiere (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "K9.5 5 - The Howlywood Premiere (USA).cue",
+      "filesize": 103,
+      "ext": "cue",
+      "checksums": {
+        "md5": "12f11ea6859f0430da362bf284907bde",
+        "sha1": "f842a95a14de0f3a2197df016ffa966ce6f05c3f",
+        "crc32": "2de107ea"
+      }
+    },
+    {
+      "filename": "K9.5 5 - The Howlywood Premiere (USA).bin",
+      "filesize": 709530192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5e58292169c7f49f2b85c6f5b5a040a7",
+        "sha1": "03cb76d09f6b9dc79a5a1a31208d2aa6f1bb2564",
+        "crc32": "e88d18c1"
+      }
+    }
+  ]
+}

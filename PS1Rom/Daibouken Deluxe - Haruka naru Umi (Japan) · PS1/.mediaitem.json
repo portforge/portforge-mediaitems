@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Daibouken Deluxe - Haruka naru Umi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Daibouken Deluxe - Haruka naru Umi (Japan).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "66ccd4dfb979875560904b971e521b32",
+        "sha1": "e96327b78dc22504cf5552f15cd6e027bdfb949e",
+        "crc32": "5c6ac6d9"
+      }
+    },
+    {
+      "filename": "Daibouken Deluxe - Haruka naru Umi (Japan).bin",
+      "filesize": 159279792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "658c0126861dbf9cb77e9e5bbf563e44",
+        "sha1": "37054989d396010f1c876b675e724a334229f25d",
+        "crc32": "ac7d519e"
+      }
+    }
+  ]
+}

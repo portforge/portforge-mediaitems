@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Head to Toe 3 (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Head to Toe 3 (USA).cue",
+      "filesize": 85,
+      "ext": "cue",
+      "checksums": {
+        "md5": "01eaab6d77c2ed95b03cb363d875c344",
+        "sha1": "4e619cbffd364369ec50cd42a042bf13243bcf48",
+        "crc32": "3a423724"
+      }
+    },
+    {
+      "filename": "Head to Toe 3 (USA).bin",
+      "filesize": 605623536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6dc0e9a01fa7b81441a34926b766f5e9",
+        "sha1": "50b0dd2bc1e64def74c64239081aa249a69265f8",
+        "crc32": "4aff4749"
+      }
+    }
+  ]
+}

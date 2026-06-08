@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Rittai Ninja Katsugeki - Tenchu (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu (Japan) (Demo).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "229a13de974905a536b9068deafdc48d",
+        "sha1": "dd13a7a27277b06b31a28747967153ac8194580f",
+        "crc32": "4176aaae"
+      }
+    },
+    {
+      "filename": "Rittai Ninja Katsugeki - Tenchu (Japan) (Demo).bin",
+      "filesize": 433779360,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fba5852be5de781710caec6962b78d16",
+        "sha1": "55e42fa0c045b42a5833fbb0327ccf8a9c8e3b4e",
+        "crc32": "1da1e5db"
+      }
+    }
+  ]
+}

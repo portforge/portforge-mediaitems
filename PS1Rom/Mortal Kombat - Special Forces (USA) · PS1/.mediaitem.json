@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Mortal Kombat - Special Forces (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Mortal Kombat - Special Forces (USA).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "88d6269056ede0f6231ea2f8e39d3829",
+        "sha1": "49ccca32e1b4ddf25f6974ad38cbfe558c2f9278",
+        "crc32": "dd968437"
+      }
+    },
+    {
+      "filename": "Mortal Kombat - Special Forces (USA).bin",
+      "filesize": 319784976,
+      "ext": "bin",
+      "checksums": {
+        "md5": "143dd30cd0412f1d25e06204f6a1d2b5",
+        "sha1": "f6158493b87c456543853754366ce665ca6f28e0",
+        "crc32": "fb8acac5"
+      }
+    }
+  ]
+}

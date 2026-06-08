@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).cue",
+      "filesize": 147,
+      "ext": "cue",
+      "checksums": {
+        "md5": "ddee5e14f6121bc1fd478a70b63a0a87",
+        "sha1": "669fafe23fc439ad1aa4dc1f4f84d87d2c65e670",
+        "crc32": "4221322d"
+      }
+    },
+    {
+      "filename": "BackGuiner - Yomigaeru Yuushatachi - Kakusei-hen - Guiner Tensei (Japan) (Disc 1).bin",
+      "filesize": 741007008,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6f914aaba899f7ce69e6cdfc9e4e1b68",
+        "sha1": "847f599a4966e4ee706572e6a5078a4c68a42ee7",
+        "crc32": "269b6a9f"
+      }
+    }
+  ]
+}

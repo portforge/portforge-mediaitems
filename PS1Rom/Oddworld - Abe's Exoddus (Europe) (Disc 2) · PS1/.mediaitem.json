@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Oddworld - Abe's Exoddus (Europe) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Oddworld - Abe's Exoddus (Europe) (Disc 2).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "c1ce30c0d5647f21d33e2d8fc4b1f659",
+        "sha1": "95a94074957f5bd5ac1d99d3d26ce99fe64ff499",
+        "crc32": "8701f868"
+      }
+    },
+    {
+      "filename": "Oddworld - Abe's Exoddus (Europe) (Disc 2).bin",
+      "filesize": 483947520,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6b33a686128479dd80b673edca32bf23",
+        "sha1": "8b26c8e3ffe3f32228c3b813de20f6d5f1737608",
+        "crc32": "99becaad"
+      }
+    }
+  ]
+}

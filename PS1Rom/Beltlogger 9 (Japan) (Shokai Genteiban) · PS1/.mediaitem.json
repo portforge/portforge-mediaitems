@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Beltlogger 9 (Japan) (Shokai Genteiban)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Beltlogger 9 (Japan) (Shokai Genteiban).cue",
+      "filesize": 105,
+      "ext": "cue",
+      "checksums": {
+        "md5": "dbab2c5b4eb13f35f215aeaabb879b97",
+        "sha1": "6fbba8d7e9b986f3f512993715b9612a12ca6f62",
+        "crc32": "48d54f61"
+      }
+    },
+    {
+      "filename": "Beltlogger 9 (Japan) (Shokai Genteiban).bin",
+      "filesize": 636806352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ad7397b922a2f50939748fc31991951e",
+        "sha1": "f0558c102d51ee242e8c4e111818e896ce651140",
+        "crc32": "89d408c4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Crash Bash (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Crash Bash (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 102,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d67e976371f35bbdb0a5a8574f648445",
+        "sha1": "84028213df0e98e08b0bd221e181bff1d5566082",
+        "crc32": "f37592f3"
+      }
+    },
+    {
+      "filename": "Crash Bash (Europe) (En,Fr,De,Es,It).bin",
+      "filesize": 221868864,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef75663472df99309eba029d0172610a",
+        "sha1": "253c05e9e8dbe9251f31b3512fd251390483cb59",
+        "crc32": "2fa7f930"
+      }
+    }
+  ]
+}

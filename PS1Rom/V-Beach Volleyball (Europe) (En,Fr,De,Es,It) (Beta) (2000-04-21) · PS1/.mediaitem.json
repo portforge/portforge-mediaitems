@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "V-Beach Volleyball (Europe) (En,Fr,De,Es,It) (Beta) (2000-04-21)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "V-Beach Volleyball (Europe) (En,Fr,De,Es,It) (Beta) (2000-04-21).cue",
+      "filesize": 130,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9fe5ccf3914d63c160c1bc1a8342b8af",
+        "sha1": "ed34061ffb797051cc6ce5e984b3b85af34b6f6a",
+        "crc32": "c23bd9fe"
+      }
+    },
+    {
+      "filename": "V-Beach Volleyball (Europe) (En,Fr,De,Es,It) (Beta) (2000-04-21).bin",
+      "filesize": 180671232,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c77612745269cc9816442d14f1c7ca3",
+        "sha1": "66ee1efebdebd9449c22ca6da4abb8cc6f810ea5",
+        "crc32": "10ba37a3"
+      }
+    }
+  ]
+}

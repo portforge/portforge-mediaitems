@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "AI Shougi (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "AI Shougi (Japan).cue",
+      "filesize": 83,
+      "ext": "cue",
+      "checksums": {
+        "md5": "02c50c81bdeb45f438a53b71f159a65e",
+        "sha1": "ebeae71049f979276f92f3ee0e47cac501597501",
+        "crc32": "038a12e1"
+      }
+    },
+    {
+      "filename": "AI Shougi (Japan).bin",
+      "filesize": 118479648,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2bb70a67cbb165f0b17e3f01a918dff0",
+        "sha1": "217a9899c8c9f9c60bbf6906084e9eb0a35738d9",
+        "crc32": "6eb7b864"
+      }
+    }
+  ]
+}

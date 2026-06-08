@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Gran Turismo 2 (USA) (Arcade Mode)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Gran Turismo 2 (USA) (Arcade Mode).cue",
+      "filesize": 100,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8678fa2cc5c7e1961091edcf5cd5c2f2",
+        "sha1": "578851d6e19c26b37aecd8accbc27134a9a01e13",
+        "crc32": "2460c0f1"
+      }
+    },
+    {
+      "filename": "Gran Turismo 2 (USA) (Arcade Mode).bin",
+      "filesize": 729423408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4020a6e75498bb3f1bf0446e21ca020c",
+        "sha1": "a617b948e23c198a4d0eb521b874d0f563987d98",
+        "crc32": "18dfb82d"
+      }
+    }
+  ]
+}

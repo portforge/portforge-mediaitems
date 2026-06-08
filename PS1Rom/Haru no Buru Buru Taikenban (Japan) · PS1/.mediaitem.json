@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Haru no Buru Buru Taikenban (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan).cue",
+      "filesize": 1014,
+      "ext": "cue",
+      "checksums": {
+        "md5": "aaebdee212f38c238547c8b88d523e29",
+        "sha1": "59ff87a6bdc4ea3d867f2ca32879d006c2e78646",
+        "crc32": "b86db380"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 1).bin",
+      "filesize": 184008720,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0d0a5386a7c8d0099bafb0ee2906aa02",
+        "sha1": "d7bfb7c557c57434f0a22a24b80ab26149022bac",
+        "crc32": "3df4a6f0"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 2).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73ea1c52fdd0273f93c6cdfe2cb8c86d",
+        "sha1": "043b10299d530964e3fb95385a18cad09394fb36",
+        "crc32": "045305b0"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 3).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3659af3ec965b7920c094a82a5f897e5",
+        "sha1": "786b4b11b4054ae0b81b5b2d0704f821a4edda1c",
+        "crc32": "b5867824"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 4).bin",
+      "filesize": 1234800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "eb056812783bab4f38960a89a45b9eb0",
+        "sha1": "53402e9c3b155931a0fc212c29747b012b4fb930",
+        "crc32": "00b8b1ae"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 5).bin",
+      "filesize": 9464448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "dde64dfdb15f6d155d4802263ec85bd8",
+        "sha1": "a7d2c4b0dea228aabc4bb632bdba99c3bcaae35d",
+        "crc32": "342780ff"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 6).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5007ce10ffc5969aa262a4991690461e",
+        "sha1": "6376b896105094db5fbb6388623be4e566d112b9",
+        "crc32": "d86e07fe"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 7).bin",
+      "filesize": 29741040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3c4709dd7709b774980578b06fc357c8",
+        "sha1": "6f326213f5242aca6bcc591697f24567985c48d1",
+        "crc32": "f0450392"
+      }
+    },
+    {
+      "filename": "Haru no Buru Buru Taikenban (Japan) (Track 8).bin",
+      "filesize": 42789936,
+      "ext": "bin",
+      "checksums": {
+        "md5": "26d92549b65c142e1f9dfcf9cb50d188",
+        "sha1": "3db2ed0464ac53c6f1da35bdcc0c08694d91788a",
+        "crc32": "a2cc3bd5"
+      }
+    }
+  ]
+}

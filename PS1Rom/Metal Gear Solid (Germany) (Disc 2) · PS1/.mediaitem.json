@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Metal Gear Solid (Germany) (Disc 2)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Metal Gear Solid (Germany) (Disc 2).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "8ac1d2885cba3614d59844492ab18759",
+        "sha1": "2164b973ce9ebbd4ed14e1928889988c785d441b",
+        "crc32": "9d078cbb"
+      }
+    },
+    {
+      "filename": "Metal Gear Solid (Germany) (Disc 2).bin",
+      "filesize": 704729760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "bd1d5483af97a0782b57072507142d8a",
+        "sha1": "46b370d5d0ba64db7f190c58f3f8d65911e11c1a",
+        "crc32": "d74772c0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Spyro the Dragon (USA) (Demo) (SCUS-94439)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Spyro the Dragon (USA) (Demo) (SCUS-94439).cue",
+      "filesize": 108,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d7f0fd291a1960fd744d890a6371507e",
+        "sha1": "169983d4f17bf4ecd66a69e49c48a073377d0bbf",
+        "crc32": "38250d26"
+      }
+    },
+    {
+      "filename": "Spyro the Dragon (USA) (Demo) (SCUS-94439).bin",
+      "filesize": 132062448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "830bf6be6d722a77641b7380cd0d2c6b",
+        "sha1": "b3d03bcc3ad71145eafb5e473c4f93a62899950a",
+        "crc32": "d4bba3d5"
+      }
+    }
+  ]
+}

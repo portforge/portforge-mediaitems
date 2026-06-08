@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Urban Chaos (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Urban Chaos (France).cue",
+      "filesize": 86,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1459604c8c1721eaeccbeb8eb2395c3b",
+        "sha1": "ce82b7dcec038c0d88cce9263762a65645333151",
+        "crc32": "26b8ccd6"
+      }
+    },
+    {
+      "filename": "Urban Chaos (France).bin",
+      "filesize": 612926496,
+      "ext": "bin",
+      "checksums": {
+        "md5": "202f56fcc4b9e28f4dfca967ade428d2",
+        "sha1": "444bdee3273227c430e2d1041fccc4da4ae0cb5c",
+        "crc32": "74e96929"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Eikou no Fairway - Virtual Golf Simulation (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Eikou no Fairway - Virtual Golf Simulation (Japan).cue",
+      "filesize": 131,
+      "ext": "cue",
+      "checksums": {
+        "md5": "1383ae870b8e14e9a056263d49fc395a",
+        "sha1": "efa6143cfcab8d1662eee89f3c1523751c06d4ae",
+        "crc32": "3c8e7da1"
+      }
+    },
+    {
+      "filename": "Eikou no Fairway - Virtual Golf Simulation (Japan).bin",
+      "filesize": 234141600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8eacfe32666023a3f1a9aafa0ffc2a26",
+        "sha1": "fb372aeb0baae39648cabe13a0257261b1fe9d3d",
+        "crc32": "64823290"
+      }
+    }
+  ]
+}

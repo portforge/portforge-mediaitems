@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "SuperLite 1500 Series - Fantastic Night Dreams - Cotton Original (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "SuperLite 1500 Series - Fantastic Night Dreams - Cotton Original (Japan).cue",
+      "filesize": 138,
+      "ext": "cue",
+      "checksums": {
+        "md5": "5a2e05e92e3bc956d86edeed3ef8a7e6",
+        "sha1": "da79119f6ea5b15d4234468bf5cec264d8c7f44e",
+        "crc32": "61dae6a9"
+      }
+    },
+    {
+      "filename": "SuperLite 1500 Series - Fantastic Night Dreams - Cotton Original (Japan).bin",
+      "filesize": 39210192,
+      "ext": "bin",
+      "checksums": {
+        "md5": "41b971dede1aea77672b2393d0da6817",
+        "sha1": "7d4fe88bd2579d066c7ca2fc3c15179725176f3a",
+        "crc32": "de0b7dc4"
+      }
+    }
+  ]
+}

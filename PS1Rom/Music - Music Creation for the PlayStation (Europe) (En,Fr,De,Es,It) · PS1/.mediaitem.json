@@ -1,0 +1,37 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Music - Music Creation for the PlayStation (Europe) (En,Fr,De,Es,It)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Music - Music Creation for the PlayStation (Europe) (En,Fr,De,Es,It).cue",
+      "filesize": 306,
+      "ext": "cue",
+      "checksums": {
+        "md5": "79aa7750ca9672cc412a2725cad5436d",
+        "sha1": "56dc1f5d8c460e3ee8a2f52a1df44d8cac0f1700",
+        "crc32": "08b43a5a"
+      }
+    },
+    {
+      "filename": "Music - Music Creation for the PlayStation (Europe) (En,Fr,De,Es,It) (Track 1).bin",
+      "filesize": 323082480,
+      "ext": "bin",
+      "checksums": {
+        "md5": "aa457b73bbca023cd23170e06c4493b8",
+        "sha1": "e9bfae82c856c6efcbfadb7ab2ac497a531420f4",
+        "crc32": "ef3e1282"
+      }
+    },
+    {
+      "filename": "Music - Music Creation for the PlayStation (Europe) (En,Fr,De,Es,It) (Track 2).bin",
+      "filesize": 33868800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "441eeb4204aafc104bf1863b743a13a2",
+        "sha1": "a55870eae893408b85b4274d19e349a7a447b84b",
+        "crc32": "3f9896b3"
+      }
+    }
+  ]
+}

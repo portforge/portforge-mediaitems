@@ -1,0 +1,47 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Actua Golf 3 (Europe)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Actua Golf 3 (Europe).cue",
+      "filesize": 327,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bd07999e520c8b68c564706b4c9524ed",
+        "sha1": "a5f55882b69566e13bd2899c94b810421c0b7ac6",
+        "crc32": "f649a1db"
+      }
+    },
+    {
+      "filename": "Actua Golf 3 (Europe) (Track 1).bin",
+      "filesize": 524987568,
+      "ext": "bin",
+      "checksums": {
+        "md5": "4a860ab5316c8f9163f7f38a9d8d55cf",
+        "sha1": "e263ff68a25402ce834771c3de9e8fb20c015643",
+        "crc32": "73317df6"
+      }
+    },
+    {
+      "filename": "Actua Golf 3 (Europe) (Track 2).bin",
+      "filesize": 30971136,
+      "ext": "bin",
+      "checksums": {
+        "md5": "450e980595c7ea1b6a3f858359bc245c",
+        "sha1": "06d166e9aff4ad151031bd3307e1b1d6a89f856a",
+        "crc32": "73a866cc"
+      }
+    },
+    {
+      "filename": "Actua Golf 3 (Europe) (Track 3).bin",
+      "filesize": 33003264,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ce928331b8d1446b7cd29dc601ad9679",
+        "sha1": "b6bafa8d15d29dc311554dce550230632bc58eba",
+        "crc32": "c88e041e"
+      }
+    }
+  ]
+}

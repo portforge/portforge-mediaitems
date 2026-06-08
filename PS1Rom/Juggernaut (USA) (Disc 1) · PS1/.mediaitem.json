@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Juggernaut (USA) (Disc 1)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Juggernaut (USA) (Disc 1).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "9d1c9fcb8b1ecc1f46bf90acd3915d76",
+        "sha1": "672f05bc70a39ec352bf2b120a21fdaca4df0a0e",
+        "crc32": "c845217f"
+      }
+    },
+    {
+      "filename": "Juggernaut (USA) (Disc 1).bin",
+      "filesize": 736350048,
+      "ext": "bin",
+      "checksums": {
+        "md5": "0fb49d7666412a05422999c6780df9b7",
+        "sha1": "2a6502e52187503afd22582641b06a2c710a09db",
+        "crc32": "e1a2ec93"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tour Party - Sotsugyou Ryokou ni Ikou (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tour Party - Sotsugyou Ryokou ni Ikou (Japan).cue",
+      "filesize": 111,
+      "ext": "cue",
+      "checksums": {
+        "md5": "28c3901549b6494a816199caccf0e1a6",
+        "sha1": "a5457b1e20259218f104f6c56fe9f7e505901ff0",
+        "crc32": "b03e4e6c"
+      }
+    },
+    {
+      "filename": "Tour Party - Sotsugyou Ryokou ni Ikou (Japan).bin",
+      "filesize": 554531040,
+      "ext": "bin",
+      "checksums": {
+        "md5": "78078424aa6779b93b50e5ae7d7eabb1",
+        "sha1": "be18b2f2ec7c87684b41d2a646de21c90737369a",
+        "crc32": "204cc3f7"
+      }
+    }
+  ]
+}

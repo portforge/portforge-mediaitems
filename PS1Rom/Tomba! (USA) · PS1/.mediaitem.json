@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Tomba! (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Tomba! (USA).cue",
+      "filesize": 78,
+      "ext": "cue",
+      "checksums": {
+        "md5": "56f89ab4eac8bb21e1e76d929eb23a68",
+        "sha1": "3dc64f3af0e77b684bd22c628a4b1089a11395ae",
+        "crc32": "acd20464"
+      }
+    },
+    {
+      "filename": "Tomba! (USA).bin",
+      "filesize": 280193760,
+      "ext": "bin",
+      "checksums": {
+        "md5": "c80636a28de4abcfa34f9e57fb3b043d",
+        "sha1": "c259ec7ff6ef4163913991f4e4db2eff71702818",
+        "crc32": "b00ecb0d"
+      }
+    }
+  ]
+}

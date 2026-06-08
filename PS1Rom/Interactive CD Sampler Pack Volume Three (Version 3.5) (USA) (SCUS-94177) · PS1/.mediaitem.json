@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177).cue",
+      "filesize": 1318,
+      "ext": "cue",
+      "checksums": {
+        "md5": "d3c95b987f552ac81760b3e885d6468c",
+        "sha1": "cec32a2580ce18888f7aa650222aae4c26c4cfcf",
+        "crc32": "ec0d6975"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 1).bin",
+      "filesize": 581459088,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5379ac3b3216efcc1533af3549926f51",
+        "sha1": "6a0e1b4e002cdedc7f6afd4a4d4f4541799e782d",
+        "crc32": "425f0137"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 2).bin",
+      "filesize": 20086080,
+      "ext": "bin",
+      "checksums": {
+        "md5": "5ee1542bf415d7eaf38552bf0e81e96d",
+        "sha1": "1bfadce914fb9fb4e0691e3193a6653403df3628",
+        "crc32": "48085ec7"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 3).bin",
+      "filesize": 12265680,
+      "ext": "bin",
+      "checksums": {
+        "md5": "855339325dd4e394888ca347a4f8ddf9",
+        "sha1": "5498fec3990ac8b690a2e207176406cb063c6593",
+        "crc32": "fe173bc2"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 4).bin",
+      "filesize": 21941808,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1f881e8449bcbcc96ef7f716cfd01800",
+        "sha1": "75ee586c5c9a80767ad86a1f8d6ff7ab9e985034",
+        "crc32": "6401fd61"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 5).bin",
+      "filesize": 18524352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "657b5124495c799298c1c0a438c2bb25",
+        "sha1": "5236550f5280138d18c863ac84d60f97f38e7c2c",
+        "crc32": "346fcba5"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 6).bin",
+      "filesize": 24519600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "8f1e203ad069d8dd8b999ff66e185134",
+        "sha1": "3f14a08c60c89fbffceea7758796f3d3ea1b3758",
+        "crc32": "f75ff014"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 7).bin",
+      "filesize": 53275152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6596ef05c8197b99fa1fe51cb772a034",
+        "sha1": "4b816cd8db8c9175f0928a3e19894f38f6520e2e",
+        "crc32": "639a2ff8"
+      }
+    },
+    {
+      "filename": "Interactive CD Sampler Pack Volume Three (Version 3.5) (USA) (SCUS-94177) (Track 8).bin",
+      "filesize": 1968624,
+      "ext": "bin",
+      "checksums": {
+        "md5": "75678225f29839c0da1cd293320b3d56",
+        "sha1": "ad50263b2570e1dccac4eb9c90466851f899da76",
+        "crc32": "e9363633"
+      }
+    }
+  ]
+}

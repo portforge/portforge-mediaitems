@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "No Fear Downhill Mountain Bike Racing (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "No Fear Downhill Mountain Bike Racing (USA).cue",
+      "filesize": 109,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a17c9cdc2452e656031ce5c339f06f0b",
+        "sha1": "4e5e763d8e63c76edf4321399ce829f228cce4c0",
+        "crc32": "d523acf6"
+      }
+    },
+    {
+      "filename": "No Fear Downhill Mountain Bike Racing (USA).bin",
+      "filesize": 328348608,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cd88e311dddc95fb20106ec8bef2ed36",
+        "sha1": "c04d73f43baaa33086a8bf3aae9660739bb35fa1",
+        "crc32": "8ba49afe"
+      }
+    }
+  ]
+}

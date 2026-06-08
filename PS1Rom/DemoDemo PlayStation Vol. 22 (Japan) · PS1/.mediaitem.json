@@ -1,0 +1,117 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "DemoDemo PlayStation Vol. 22 (Japan)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan).cue",
+      "filesize": 1292,
+      "ext": "cue",
+      "checksums": {
+        "md5": "132169ba3bb35a5dece2ac01715f3c2e",
+        "sha1": "d2279f782648ed26ae97d769500a24f8065c96c3",
+        "crc32": "57d5f70b"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 01).bin",
+      "filesize": 175501536,
+      "ext": "bin",
+      "checksums": {
+        "md5": "d25081d69e161b3270834acdc21a9dd3",
+        "sha1": "4bfa66b1bde0b5268d60851eff06850d0a8563b9",
+        "crc32": "00fa3333"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 02).bin",
+      "filesize": 16772112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "13868394f82fc9b19c817deb8a75c28b",
+        "sha1": "95e1a3018bb0599fc1163d7c423027203b776340",
+        "crc32": "d6a8eebc"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 03).bin",
+      "filesize": 6592656,
+      "ext": "bin",
+      "checksums": {
+        "md5": "afc29cbd3ccbc759ea1661b0001aa3aa",
+        "sha1": "de071ff7ddb3fdac7dd11e5bdf6030bae450fe83",
+        "crc32": "7b913c72"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 04).bin",
+      "filesize": 5997600,
+      "ext": "bin",
+      "checksums": {
+        "md5": "30e27005aba2e27dc2d09e7bca793c32",
+        "sha1": "b9538ff9950765930c726d78260aadee8f1115ab",
+        "crc32": "0b261332"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 05).bin",
+      "filesize": 5821200,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ef2ca1353692dd2c5801a1077b498d4d",
+        "sha1": "5b76f7e5eafcecd54ee43bd1b3c7747af4853106",
+        "crc32": "3e661873"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 06).bin",
+      "filesize": 5823552,
+      "ext": "bin",
+      "checksums": {
+        "md5": "6402885a4cb6f05e61bf2b9a592281e3",
+        "sha1": "ba8f0c25d09e7fd72651eff25fe98853cb09801d",
+        "crc32": "eb950c81"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 07).bin",
+      "filesize": 2768304,
+      "ext": "bin",
+      "checksums": {
+        "md5": "16e923bb65d9edde374e0037d2ac3291",
+        "sha1": "421636b7df50466a1d5d1df18164793325e90793",
+        "crc32": "14fb215f"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 08).bin",
+      "filesize": 1317120,
+      "ext": "bin",
+      "checksums": {
+        "md5": "2f0a1010f00214985432e4cbea30c157",
+        "sha1": "7e5573f1856c761addd5543cd40d4fbf1ebd911f",
+        "crc32": "66810185"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 09).bin",
+      "filesize": 18180960,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7b86f3a329892f4862f6cb641073d4ae",
+        "sha1": "a0e48f6d1cc89738beb8885f0fd8d4d94e3f5391",
+        "crc32": "cbf52467"
+      }
+    },
+    {
+      "filename": "DemoDemo PlayStation Vol. 22 (Japan) (Track 10).bin",
+      "filesize": 33908784,
+      "ext": "bin",
+      "checksums": {
+        "md5": "369ff3006396bbca8d9a1fb9cc125af9",
+        "sha1": "28a06c34d53442f736fed283c086340d7c56321e",
+        "crc32": "857edda8"
+      }
+    }
+  ]
+}

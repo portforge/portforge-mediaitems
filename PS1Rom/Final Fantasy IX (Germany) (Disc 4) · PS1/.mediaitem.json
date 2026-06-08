@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Final Fantasy IX (Germany) (Disc 4)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Final Fantasy IX (Germany) (Disc 4).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "0dd477dbcbab2f522a302aa7e9b6581f",
+        "sha1": "b5639d5e88a2c20058535b97590d1a36b200c896",
+        "crc32": "4f35b69b"
+      }
+    },
+    {
+      "filename": "Final Fantasy IX (Germany) (Disc 4).bin",
+      "filesize": 688630320,
+      "ext": "bin",
+      "checksums": {
+        "md5": "853c43e0133b7ef6d90eca416e5fdb6b",
+        "sha1": "90b79aa7ad6013e2f176605cbd498806c4a8e1fd",
+        "crc32": "96b346d0"
+      }
+    }
+  ]
+}

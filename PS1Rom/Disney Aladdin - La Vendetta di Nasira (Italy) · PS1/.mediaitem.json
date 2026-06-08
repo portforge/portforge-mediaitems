@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Disney Aladdin - La Vendetta di Nasira (Italy)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Disney Aladdin - La Vendetta di Nasira (Italy).cue",
+      "filesize": 112,
+      "ext": "cue",
+      "checksums": {
+        "md5": "bdeb65c5720e59a1315fc1e5f13cd411",
+        "sha1": "9650474b32c1d509ee73b3ad7518f5552b267904",
+        "crc32": "255b60f5"
+      }
+    },
+    {
+      "filename": "Disney Aladdin - La Vendetta di Nasira (Italy).bin",
+      "filesize": 616814352,
+      "ext": "bin",
+      "checksums": {
+        "md5": "fadbe25ba776f106c9be32f917872ee7",
+        "sha1": "dec4176aa59f8e8b3ef5abd90209e839cb947ed6",
+        "crc32": "81426826"
+      }
+    }
+  ]
+}

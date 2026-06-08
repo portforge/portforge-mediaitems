@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Soul of the Samurai (USA)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Soul of the Samurai (USA).cue",
+      "filesize": 91,
+      "ext": "cue",
+      "checksums": {
+        "md5": "3d63f977ed24f44c5e2179de05a42558",
+        "sha1": "ad4b68012cbd3b7503fa4609808de90aecbe8dfc",
+        "crc32": "f77f52ed"
+      }
+    },
+    {
+      "filename": "Soul of the Samurai (USA).bin",
+      "filesize": 604814448,
+      "ext": "bin",
+      "checksums": {
+        "md5": "1c5f4edd0c689c08fc9af95b49120d4c",
+        "sha1": "c6ca04a51955b75ce2019e9cea3c0e73c781c310",
+        "crc32": "7dcc7199"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "MTV Sports - Pure Ride (USA) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "MTV Sports - Pure Ride (USA) (Demo).cue",
+      "filesize": 101,
+      "ext": "cue",
+      "checksums": {
+        "md5": "e449e0b34627cc1ef1a42c9e4f6f085a",
+        "sha1": "659484054272c0a18a2cba48f103b985ea28c460",
+        "crc32": "f60338e4"
+      }
+    },
+    {
+      "filename": "MTV Sports - Pure Ride (USA) (Demo).bin",
+      "filesize": 34329792,
+      "ext": "bin",
+      "checksums": {
+        "md5": "63d75ad335f85f9b7b3b27944808ca3b",
+        "sha1": "cae398545a1b8e49a1edf9bb01aa91ac0cb202b6",
+        "crc32": "9de33abb"
+      }
+    }
+  ]
+}

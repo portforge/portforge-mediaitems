@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Legend of Foresia - La Contree Interdite (France)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Legend of Foresia - La Contree Interdite (France).cue",
+      "filesize": 115,
+      "ext": "cue",
+      "checksums": {
+        "md5": "cdcdf4cf3d544af36bd7edf4f03407ba",
+        "sha1": "8b913a09ff49f20ace1c1d18296b2a894d0ba70f",
+        "crc32": "2947ec4b"
+      }
+    },
+    {
+      "filename": "Legend of Foresia - La Contree Interdite (France).bin",
+      "filesize": 740520144,
+      "ext": "bin",
+      "checksums": {
+        "md5": "cb35249701a3d8d99e513e76249a5d75",
+        "sha1": "4e5c1b444367fb5c52f19a3e92e1b0448b903404",
+        "crc32": "305456e3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Interactive Preview Plus - PS2 Launch Guide & Playable GameShark Sampler (USA) (Unl)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Interactive Preview Plus - PS2 Launch Guide & Playable GameShark Sampler (USA) (Unl).cue",
+      "filesize": 150,
+      "ext": "cue",
+      "checksums": {
+        "md5": "a8d5e2239a1de08c127b4567cc535c4f",
+        "sha1": "68f70d9b3158f8529fbc23ea3dd251eec6b7522d",
+        "crc32": "546a8020"
+      }
+    },
+    {
+      "filename": "Interactive Preview Plus - PS2 Launch Guide & Playable GameShark Sampler (USA) (Unl).bin",
+      "filesize": 451299408,
+      "ext": "bin",
+      "checksums": {
+        "md5": "b5fb38bbb95af52e0f5ef3c322571eb0",
+        "sha1": "ee11d9a9f1a310610446f5e41ea70810699897db",
+        "crc32": "97b1c324"
+      }
+    }
+  ]
+}

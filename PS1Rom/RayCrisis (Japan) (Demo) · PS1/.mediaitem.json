@@ -1,0 +1,27 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "RayCrisis (Japan) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "RayCrisis (Japan) (Demo).cue",
+      "filesize": 90,
+      "ext": "cue",
+      "checksums": {
+        "md5": "867daf1bc0e1df874e560eefe1d737bc",
+        "sha1": "2e6a49df3f8ebee3351bfe65668f9fadfdaafd9c",
+        "crc32": "d92e77a9"
+      }
+    },
+    {
+      "filename": "RayCrisis (Japan) (Demo).bin",
+      "filesize": 503041056,
+      "ext": "bin",
+      "checksums": {
+        "md5": "7c1800879a2b5b331cf0a604ce26500b",
+        "sha1": "b7eab0fa51d1d1256b80d262e725e4bc4eccb69f",
+        "crc32": "7fd04e9b"
+      }
+    }
+  ]
+}

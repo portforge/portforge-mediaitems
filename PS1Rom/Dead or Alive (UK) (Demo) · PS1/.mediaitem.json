@@ -1,0 +1,97 @@
+{
+  "_itemType": "PS1Rom",
+  "title": "Dead or Alive (UK) (Demo)",
+  "platform": "PS1",
+  "formats": [
+    {
+      "filename": "Dead or Alive (UK) (Demo).cue",
+      "filesize": 934,
+      "ext": "cue",
+      "checksums": {
+        "md5": "7e03a8d290d7fb23ca1c56c11ade6e06",
+        "sha1": "a5163ac21ed2922b855de8e3ef953c8e3394d864",
+        "crc32": "d0f823d4"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 1).bin",
+      "filesize": 216111168,
+      "ext": "bin",
+      "checksums": {
+        "md5": "e90fa78796f381fe4f150a5c406cec83",
+        "sha1": "d72f8d84e6f7f36a43fea9ef05a54815c156ffc1",
+        "crc32": "e11c5448"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 2).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "3baa78d0933dabfbb7f2a5a4952bb8ee",
+        "sha1": "17a0ebe7f4c4770275e660dbde59048a0244abc9",
+        "crc32": "1469c27f"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 3).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "09c3ba82e23bc1cf36a133e71af7704c",
+        "sha1": "14fc73f00397809738a0d11cd0cc408dade1386d",
+        "crc32": "ba97911a"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 4).bin",
+      "filesize": 1237152,
+      "ext": "bin",
+      "checksums": {
+        "md5": "73de23dcaae61b065e2edf310040fd93",
+        "sha1": "55668cde8fadbcb0ab60b68f5ca87a98c37cdf60",
+        "crc32": "3920e8ef"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 5).bin",
+      "filesize": 9466800,
+      "ext": "bin",
+      "checksums": {
+        "md5": "629ec8d58e0ee95748a307fbf2dc52e5",
+        "sha1": "615ee31779cf2902d24034f9f29fb79f87ec054f",
+        "crc32": "eece87f1"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 6).bin",
+      "filesize": 1239504,
+      "ext": "bin",
+      "checksums": {
+        "md5": "97cf5a55da820ff064bde615f142ac0e",
+        "sha1": "8618e11fb651ff1d223cb9f1d617875cb9ca208c",
+        "crc32": "c1094b3d"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 7).bin",
+      "filesize": 29743392,
+      "ext": "bin",
+      "checksums": {
+        "md5": "9db4d1a78bf627c3049309ba4a9f7137",
+        "sha1": "eae7e7732799438efb2ddb299729232136f1e6ae",
+        "crc32": "4f64b28d"
+      }
+    },
+    {
+      "filename": "Dead or Alive (UK) (Demo) (Track 8).bin",
+      "filesize": 32354112,
+      "ext": "bin",
+      "checksums": {
+        "md5": "ee83e17e16bca73cd5438462de6883d2",
+        "sha1": "01de730b1e7a8f18f9effe9341266681c2145db8",
+        "crc32": "e49b3127"
+      }
+    }
+  ]
+}
