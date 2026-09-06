@@ -1,0 +1,71 @@
+{
+  "dependencies": ["unzip", "7z"],
+  "uninstallSteps": [
+    { "step": "deletePath", "path": "install" }
+  ],
+  "builds": [
+    {
+      "versions": ["1.0.0"],
+      "targetPlatforms": ["Linux"],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-Linux-X64.zip",
+          "dest": ".build/BanjoRecompiled-v1.0.1-Linux-X64.zip"
+        },
+        { "step": "extract", "src": ".build/BanjoRecompiled-v1.0.1-Linux-X64.zip", "dest": ".build" },
+        { "step": "extract", "src": ".build/BanjoRecompiled.tar.gz", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/BanjoRecompiled-v1.0.1-Linux-X64.zip" },
+        { "step": "deletePath", "path": ".build/BanjoRecompiled.tar.gz" },
+        { "step": "copy", "from": "rom", "dest": "./.build/bk.n64.us.1.0.z64" },
+        { "step": "touch", "path": ".build/portable.txt" },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/BanjoRecompiled", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["1.0.0"],
+      "targetPlatforms": ["Windows"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-Windows.zip",
+          "dest": ".build/BanjoRecompiled-v1.0.1-Windows.zip"
+        },
+        { "step": "extract", "src": ".build/BanjoRecompiled-v1.0.1-Windows.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/BanjoRecompiled-v1.0.1-Windows.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/bk.n64.us.1.0.z64" },
+        { "step": "touch", "path": ".build/portable.txt" },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/BanjoRecompiled.exe", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["1.0.0"],
+      "targetPlatforms": ["Mac"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.1/BanjoRecompiled-v1.0.1-macOS.zip",
+          "dest": ".build/BanjoRecompiled-v1.0.1-macOS.zip"
+        },
+        { "step": "extract", "src": ".build/BanjoRecompiled-v1.0.1-macOS.zip", "dest": ".build" },
+        { "step": "extract", "src": ".build/BanjoRecompiled.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/BanjoRecompiled-v1.0.1-macOS.zip" },
+        { "step": "deletePath", "path": ".build/BanjoRecompiled.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/BanjoRecompiled.app/Contents/MacOS/bk.n64.us.1.0.z64" },
+        { "step": "touch", "path": ".build/BanjoRecompiled.app/Contents/MacOS/portable.txt" },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/BanjoRecompiled.app/Contents/MacOS/BanjoRecompiled", "title": "Play" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Super Mario 64 Render96 · 2020",
+  "title": "Super Mario 64 Render96",
+  "description": "**Render96 is a visual overhaul mod for the Super Mario 64 PC port that reimagines the classic game with high-quality character models and textures.** The project faithfully recreates what Super Mario 64 might look like if it were rendered with the quality of its official artwork and promotional renders from 1996. Mario, enemies, and environments receive dramatically improved models while preserving the original game's beloved gameplay and level design",
+  "releaseYear": 2020,
+  "versionType": "FanPort",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "Super Mario 64 · 1996",
+    "releaseYear": 1996,
+    "title": "Super Mario 64",
+    "sortTitle": "Super Mario 64"
+  },
+  "romDependencies": [
+    {
+      "name": "Super Mario 64",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "N64CartRom",
+          "title": "Super Mario 64 (USA)"
+        }
+      ]
+    }
+  ],
+  "artwork": [
+    {
+      "artworkType": "Cover",
+      "fileExtension": "png",
+      "fileName": "Cover · en · 1.png"
+    }
+  ]
+}

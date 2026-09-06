@@ -1,0 +1,34 @@
+{
+  "_itemType": "N64CartRom",
+  "title": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection)",
+  "noIntroId": [
+    "game:0931"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "1618403427e4344a57833043db5ce3c3",
+        "sha1": "f46239439f59a2a594ef83cf68ef65043b1bffe2",
+        "crc32": "832d6449"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "36f55c8383748d2c3caf4a8e4c646490",
+        "sha1": "8ebf2e29313f44f2d49e5b4191971d09919e8e48",
+        "crc32": "177fa73a"
+      }
+    }
+  ]
+}

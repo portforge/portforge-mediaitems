@@ -1,0 +1,167 @@
+{
+  "dependencies": [
+    "unzip",
+    "7z"
+  ],
+  "args": {
+    "textureMod": {
+      "type": "choice",
+      "label": "Texture mod",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "hd",
+          "label": "HD"
+        },
+        {
+          "value": "4k",
+          "label": "4K"
+        }
+      ]
+    }
+  },
+  "uninstallSteps": [
+    {
+      "step": "deletePath",
+      "path": "install"
+    }
+  ],
+  "builds": [
+    {
+      "versions": [
+        "Deckard Alfa (1.0.0)"
+      ],
+      "targetPlatforms": [
+        "Linux"
+      ],
+      "steps": [
+        {
+          "step": "createDir",
+          "path": ".build/mods"
+        },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "dest": ".build/SoH-Ackbar-Delta-Linux.zip"
+        },
+        {
+          "step": "extract",
+          "src": ".build/SoH-Ackbar-Delta-Linux.zip",
+          "dest": ".build"
+        },
+        {
+          "step": "deletePath",
+          "path": ".build/SoH-Ackbar-Delta-Linux.zip"
+        },
+        {
+          "step": "copy",
+          "from": "rom",
+          "dest": "./.build/rom.z64"
+        },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z",
+          "dest": "./.build/mods/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z"
+        },
+        {
+          "step": "extract",
+          "if": "${textureMod} != none",
+          "src": "./.build/mods/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z",
+          "dest": ".build/mods"
+        },
+        {
+          "step": "deletePath",
+          "if": "${textureMod} != none",
+          "path": "./.build/mods/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z"
+        },
+        {
+          "step": "move",
+          "src": "./.build",
+          "dest": "./install"
+        },
+        {
+          "step": "deletePath",
+          "path": "./.build"
+        },
+        {
+          "step": "defineExecutable",
+          "executable": "install/soh.appimage",
+          "title": "Play"
+        }
+      ]
+    },
+    {
+      "versions": [
+        "Deckard Alfa (1.0.0)"
+      ],
+      "targetPlatforms": [
+        "Windows"
+      ],
+      "dependencies": [],
+      "steps": [
+        {
+          "step": "createDir",
+          "path": ".build/mods"
+        },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "dest": ".build/SoH-Ackbar-Delta-Win64.zip"
+        },
+        {
+          "step": "extract",
+          "src": ".build/SoH-Ackbar-Delta-Win64.zip",
+          "dest": ".build"
+        },
+        {
+          "step": "deletePath",
+          "path": ".build/SoH-Ackbar-Delta-Win64.zip"
+        },
+        {
+          "step": "deletePath",
+          "path": ".build/debug"
+        },
+        {
+          "step": "copy",
+          "from": "rom",
+          "dest": "./.build/rom.z64"
+        },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z",
+          "dest": "./.build/mods/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z"
+        },
+        {
+          "step": "extract",
+          "if": "${textureMod} != none",
+          "src": "./.build/mods/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z",
+          "dest": ".build/mods"
+        },
+        {
+          "step": "deletePath",
+          "if": "${textureMod} != none",
+          "path": "./.build/mods/oot-reloaded-v11.0.0-soh-o2r-${textureMod}.7z"
+        },
+        {
+          "step": "move",
+          "src": "./.build",
+          "dest": "./install"
+        },
+        {
+          "step": "deletePath",
+          "path": "./.build"
+        },
+        {
+          "step": "defineExecutable",
+          "executable": "install/soh.exe",
+          "title": "Play"
+        }
+      ]
+    }
+  ]
+}

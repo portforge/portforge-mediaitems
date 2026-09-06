@@ -1,0 +1,47 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Starship · 2025",
+  "title": "Starship",
+  "description": "Barrel roll through space in this faithful port with modern enhancements.",
+  "releaseYear": 2020,
+  "versionType": "FanPort",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "Star Fox 64 · 1996",
+    "releaseYear": 1996,
+    "title": "Star Fox 64",
+    "sortTitle": "Star Fox 64"
+  },
+  "romDependencies": [
+    {
+      "name": "Star Fox 64",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "N64CartRom",
+          "title": "Star Fox 64 (USA)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Star Fox 64 (USA) (Rev 1)"
+        }
+      ]
+    }
+  ],
+  "artwork": [
+    {
+      "artworkType": "Cover",
+      "fileExtension": "png",
+      "fileName": "Cover · en · 1.png"
+    }
+  ]
+}

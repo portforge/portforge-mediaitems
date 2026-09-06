@@ -1,0 +1,37 @@
+{
+  "_itemType": "N64CartRom",
+  "title": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)",
+  "noIntroId": [
+    "game:0374",
+    "cloneofgame:0375"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "e040de91a74b61e3201db0e2323f768a",
+        "sha1": "328a1f1beba30ce5e178f031662019eb32c5f3b5",
+        "sha256": "f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7",
+        "crc32": "946fd0f7"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "NZLP",
+      "checksums": {
+        "md5": "9526b263b60577d8ed22fb7a33c2facd",
+        "sha1": "d0bdc2eb320668b4ba6893b9aefe4040a73123ff",
+        "sha256": "577a369e2738f45ead0d7e98fdf8de4cc6b505e2ade0504d7dd1ecfb7b3ff17e",
+        "crc32": "9852a62f"
+      }
+    }
+  ]
+}

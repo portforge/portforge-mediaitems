@@ -1,0 +1,79 @@
+{
+  "defaultVersion": "0.2.55",
+  "uninstallSteps": [
+    { "step": "deletePath", "path": "install" }
+  ],
+  "builds": [
+    {
+      "versions": ["0.2.55"],
+      "targetPlatforms": ["Linux-x64"],
+      "dependencies": ["chmod"],
+      "steps": [
+        { "step": "createDir", "path": "install" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/bryanthaboi/gen1recomp/releases/download/v0.2.55/gen1recomp-0.2.55-linux-x86_64.AppImage",
+          "dest": "install/gen1recomp.AppImage"
+        },
+        { "step": "run", "cmd": "chmod", "args": ["+x", "install/gen1recomp.AppImage"] },
+        { "step": "touch", "path": "install/portable.txt" },
+        { "step": "defineExecutable", "executable": "install/gen1recomp.AppImage", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["0.2.55"],
+      "targetPlatforms": ["Linux-arm64"],
+      "dependencies": ["chmod"],
+      "steps": [
+        { "step": "createDir", "path": "install" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/bryanthaboi/gen1recomp/releases/download/v0.2.55/gen1recomp-0.2.55-linux-arm64.AppImage",
+          "dest": "install/gen1recomp.AppImage"
+        },
+        { "step": "run", "cmd": "chmod", "args": ["+x", "install/gen1recomp.AppImage"] },
+        { "step": "touch", "path": "install/portable.txt" },
+        { "step": "defineExecutable", "executable": "install/gen1recomp.AppImage", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["0.2.55"],
+      "targetPlatforms": ["Windows"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/bryanthaboi/gen1recomp/releases/download/v0.2.55/gen1recomp-0.2.55-windows.zip",
+          "dest": ".build/package.zip"
+        },
+        { "step": "extract", "src": ".build/package.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/package.zip" },
+        { "step": "move", "src": ".build/gen1recomp-win64", "dest": "install" },
+        { "step": "deletePath", "path": ".build" },
+        { "step": "touch", "path": "install/portable.txt" },
+        { "step": "defineExecutable", "executable": "install/gen1recomp.exe", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["0.2.55"],
+      "targetPlatforms": ["Mac"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/bryanthaboi/gen1recomp/releases/download/v0.2.55/gen1recomp-0.2.55-macos.zip",
+          "dest": ".build/package.zip"
+        },
+        { "step": "extract", "src": ".build/package.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/package.zip" },
+        { "step": "deletePath", "path": ".build/__MACOSX" },
+        { "step": "move", "src": ".build", "dest": "install" },
+        { "step": "deletePath", "path": ".build" },
+        { "step": "touch", "path": "install/portable.txt" },
+        { "step": "defineExecutable", "executable": "install/gen1recomp.app/Contents/MacOS/love", "title": "Play" }
+      ]
+    }
+  ]
+}

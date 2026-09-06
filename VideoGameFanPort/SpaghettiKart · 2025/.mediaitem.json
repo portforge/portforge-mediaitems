@@ -1,0 +1,43 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "SpaghettiKart · 2025",
+  "title": "SpaghettiKart",
+  "description": " I have spaghetti, now i just need a kart",
+  "releaseYear": 2025,
+  "versionType": "FanPort",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "Mario Kart 64 · 1996",
+    "releaseYear": 1996,
+    "title": "Mario Kart 64",
+    "sortTitle": "Mario Kart 64"
+  },
+  "romDependencies": [
+    {
+      "name": "Mario Kart 64",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "N64CartRom",
+          "title": "Mario Kart 64 (USA)"
+        }
+      ]
+    }
+  ],
+  "artwork": [
+    {
+      "artworkType": "Cover",
+      "fileExtension": "png",
+      "fileName": "Cover · en · 1.png"
+    }
+  ]
+}

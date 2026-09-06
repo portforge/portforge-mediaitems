@@ -1,0 +1,43 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Banjo Recompiled · 2026",
+  "title": "Banjo Recompiled",
+  "description": "Banjo: Recompiled is a project that uses N64: Recompiled to **statically recompile** Banjo-Kazooie into a native port with many new features, enhancements, and extensive mod support. This project uses RT64 as the rendering engine to provide graphical enhancements.",
+  "releaseYear": 2025,
+  "versionType": "FanPort",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "Banjo-Kazooie · 1998",
+    "releaseYear": 1998,
+    "title": "Banjo-Kazooie",
+    "sortTitle": "Banjo-Kazooie 1"
+  },
+  "romDependencies": [
+    {
+      "name": "Banjo-Kazooie",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "N64CartRom",
+          "title": "Banjo-Kazooie (USA)"
+        }
+      ]
+    }
+  ],
+  "artwork": [
+    {
+      "artworkType": "Cover",
+      "fileExtension": "png",
+      "fileName": "Cover · en · 1.png"
+    }
+  ]
+}

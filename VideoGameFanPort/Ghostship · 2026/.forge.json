@@ -1,0 +1,100 @@
+{
+  "dependencies": ["make", "gcc", "python3", "sdl2-config", "pkg-config", "unzip", "7z"],
+  "args": {
+    "textureMod": {
+      "type": "choice",
+      "label": "Texture mod",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "hd",
+          "label": "HD"
+        },
+        {
+          "value": "4k",
+          "label": "4K"
+        }
+      ]
+    }
+  },
+  "uninstallSteps": [
+    { "step": "deletePath", "path": "install" }
+  ],
+  "builds": [
+    {
+      "versions": ["Mary Celeste - Alfa 2.0.0"],
+      "targetPlatforms": ["Linux"],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Linux.zip",
+          "dest": ".build/Mary-Celeste-Alfa-Linux.zip"
+        },
+        { "step": "extract", "src": ".build/Mary-Celeste-Alfa-Linux.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/Mary-Celeste-Alfa-Linux.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/rom.z64" },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z",
+          "dest": "./.build/mods/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z"
+        },
+        {
+          "step": "extract",
+          "if": "${textureMod} != none",
+          "src": "./.build/mods/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z",
+          "dest": ".build/mods"
+        },
+        {
+          "step": "deletePath",
+          "if": "${textureMod} != none",
+          "path": "./.build/mods/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z"
+        },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/ghostship.appimage", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["Mary Celeste - Alfa 2.0.0"],
+      "targetPlatforms": ["Windows"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Win64.zip",
+          "dest": ".build/Mary-Celeste-Alfa-Win64.zip"
+        },
+        { "step": "extract", "src": ".build/Mary-Celeste-Alfa-Win64.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/Mary-Celeste-Alfa-Win64.zip" },
+        { "step": "deletePath", "path": ".build/debug" },
+        { "step": "copy", "from": "rom", "dest": "./.build/rom.z64" },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z",
+          "dest": "./.build/mods/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z"
+        },
+        {
+          "step": "extract",
+          "if": "${textureMod} != none",
+          "src": "./.build/mods/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z",
+          "dest": ".build/mods"
+        },
+        {
+          "step": "deletePath",
+          "if": "${textureMod} != none",
+          "path": "./.build/mods/sm64-reloaded-v2.6.0-gs-o2r-${textureMod}.7z"
+        },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/Ghostship.exe", "title": "Play" }
+      ]
+    }
+  ]
+}

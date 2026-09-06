@@ -1,0 +1,127 @@
+{
+  "dependencies": ["unzip", "7z"],
+  "args": {
+    "textureMod": {
+      "type": "choice",
+      "label": "Texture mod",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "hd",
+          "label": "HD"
+        },
+        {
+          "value": "4k",
+          "label": "4K"
+        }
+      ]
+    }
+  },
+  "uninstallSteps": [
+    { "step": "deletePath", "path": "install" }
+  ],
+  "builds": [
+    {
+      "versions": ["1.0.0"],
+      "targetPlatforms": ["Linux"],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-linux.zip",
+          "dest": ".build/spaghetti-linux.zip"
+        },
+        { "step": "extract", "src": ".build/spaghetti-linux.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/spaghetti-linux.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/Mario Kart 64 (USA).z64" },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r",
+          "dest": "./.build/mods/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r"
+        },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/spaghetti.appimage", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["1.0.0"],
+      "targetPlatforms": ["Windows"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-windows.zip",
+          "dest": ".build/spaghetti-windows.zip"
+        },
+        { "step": "extract", "src": ".build/spaghetti-windows.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/spaghetti-windows.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/Mario Kart 64 (USA).z64" },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r",
+          "dest": "./.build/mods/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r"
+        },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/Spaghettify.exe", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["1.0.0"],
+      "targetPlatforms": ["Mac-arm64"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-arm64.zip",
+          "dest": ".build/spaghetti-mac-arm64.zip"
+        },
+        { "step": "extract", "src": ".build/spaghetti-mac-arm64.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/spaghetti-mac-arm64.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/Mario Kart 64 (USA).z64" },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r",
+          "dest": "./.build/mods/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r"
+        },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/Spaghettify", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["1.0.0"],
+      "targetPlatforms": ["Mac-x64"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-intel-x64.zip",
+          "dest": ".build/spaghetti-mac-intel-x64.zip"
+        },
+        { "step": "extract", "src": ".build/spaghetti-mac-intel-x64.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/spaghetti-mac-intel-x64.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/Mario Kart 64 (USA).z64" },
+        {
+          "step": "fetch",
+          "if": "${textureMod} != none",
+          "url": "https://evilgames.eu/files/texture-packs/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r",
+          "dest": "./.build/mods/mk64-reloaded-v2026.04.03-sk-${textureMod}.o2r"
+        },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/Spaghettify", "title": "Play" }
+      ]
+    }
+  ]
+}

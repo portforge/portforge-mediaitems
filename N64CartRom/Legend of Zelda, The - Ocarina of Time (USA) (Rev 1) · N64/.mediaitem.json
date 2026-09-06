@@ -1,0 +1,36 @@
+{
+  "_itemType": "N64CartRom",
+  "title": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)",
+  "noIntroId": [
+    "game:0377",
+    "cloneofgame:0375"
+  ],
+  "platform": "N64",
+  "formats": [
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).z64",
+      "filesize": 33554432,
+      "format": "BigEndian",
+      "ext": "z64",
+      "serial": "CZLE",
+      "checksums": {
+        "md5": "721fdcc6f5f34be55c43a807f2a16af4",
+        "sha1": "d3ecb253776cd847a5aa63d859d8c89a2f37b364",
+        "sha256": "fb87a0dac188f9292c679da7ac6f772acebe6f68e27293cfc281fc8636008db0",
+        "crc32": "3fd2151e"
+      }
+    },
+    {
+      "filename": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).v64",
+      "filesize": 33554432,
+      "format": "ByteSwapped",
+      "ext": "v64",
+      "serial": "CZLE",
+      "checksums": {
+        "md5": "a9a86a09677b0394f15c62ca60906fbd",
+        "sha1": "18cd0eb65914a21d8fa08dfe71c29d865e9d728a",
+        "crc32": "aa07c8ba"
+      }
+    }
+  ]
+}

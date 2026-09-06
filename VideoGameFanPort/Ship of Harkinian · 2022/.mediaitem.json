@@ -1,0 +1,113 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Ship of Harkinian · 2022",
+  "title": "Ship of Harkinian",
+  "description": "Ship of Harkinian features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.",
+  "releaseYear": 2022,
+  "versionType": "FanPort",
+  "tags": [
+    "Harbour Masters",
+    "Zelda"
+  ],
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "The Legend of Zelda: Ocarina of Time · 1998",
+    "releaseYear": 1998,
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "sortTitle": "Legend of Zelda 5"
+  },
+  "romDependencies": [
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (USA)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (USA) (Beta)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)"
+        }
+      ]
+    }
+  ],
+  "versions": [
+    {
+      "_itemType": "SoftwareVersion",
+      "title": "Roy Alfa (2.0.0)",
+      "date": "May 13th 2022",
+      "content": "- No changelog for this one sorry :D"
+    },
+    {
+      "_itemType": "SoftwareVersion",
+      "title": "Deckard Alfa (1.0.0)",
+      "date": "March 22nd 2022",
+      "content": "- Initial release"
+    }
+  ],
+  "artwork": [
+    {
+      "artworkType": "Cover",
+      "fileExtension": "png",
+      "fileName": "Cover · en · 1.png"
+    }
+  ]
+}

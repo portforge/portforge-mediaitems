@@ -1,0 +1,70 @@
+{
+  "defaultVersion": "1.0.2",
+  "dependencies": [],
+  "builds": [
+    {
+      "versions": ["1.0.2"],
+      "targetPlatforms": ["Linux", "Windows"],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "if": "$platform == Windows",
+          "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.0.2/Windows.zip",
+          "dest": ".build/package.zip"
+        },
+        {
+          "step": "fetch",
+          "if": "$platform != Windows",
+          "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.0.2/Linux.zip",
+          "dest": ".build/package.zip"
+        },
+        { "step": "extract", "src": ".build/package.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/package.zip" },
+        { "step": "copy", "from": "rom", "dest": ".build/config/baserom.nes" },
+        { "step": "touch", "if": "$platform == Windows", "path": ".build/config/portable.txt" },
+        { "step": "touch", "if": "$platform != Windows", "path": ".build/portable.txt" },
+        { "step": "move", "src": ".build", "dest": "install" },
+        {
+          "step": "defineExecutable",
+          "if": "$platform == Windows",
+          "executable": "install/SMB1R.exe",
+          "title": "Play"
+        },
+        {
+          "step": "defineExecutable",
+          "if": "$platform != Windows",
+          "executable": "install/SMB1R.x86_64",
+          "title": "Play"
+        }
+      ]
+    },
+    {
+      "versions": ["1.1 RC4"],
+      "targetPlatforms": ["Linux", "Windows"],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "if": "$platform == Windows",
+          "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-rc4/Windows.zip",
+          "dest": ".build/package.zip"
+        },
+        {
+          "step": "fetch",
+          "if": "$platform != Windows",
+          "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases/download/1.1-rc4/Linux.zip",
+          "dest": ".build/package.zip"
+        },
+        { "step": "extract", "src": ".build/package.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/package.zip" },
+        { "step": "copy", "from": "rom", "dest": ".build/config/baserom.nes" },
+        { "step": "touch", "if": "$platform == Windows", "path": ".build/config/portable.txt" },
+        { "step": "touch", "if": "$platform != Windows", "path": ".build/portable.txt" },
+        { "step": "move", "src": ".build", "dest": "install" },
+        { "step": "defineExecutable", "if": "$platform == Windows", "executable": "install/SMB1R.exe", "title": "Play" },
+        { "step": "defineExecutable", "if": "$platform != Windows", "executable": "install/SMB1R.x86_64", "title": "Play" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "reBlue · 2026",
+  "title": "re:Blue",
+  "description": "re:Blue rebuilds Blue Dragon as a native application through static recompilation, translating the original code into something your machine runs directly rather than emulating a console around it. That opens the door to things an emulator cannot reach: higher frame rates, modern resolutions, and real mod support.",
+  "releaseYear": 2026,
+  "versionType": "FanPort",
+  "tags": [
+    "Blue Dragon",
+    "zolaware",
+    "static recompilation"
+  ],
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "Blue Dragon · 2007",
+    "releaseYear": 2007,
+    "title": "Blue Dragon",
+    "sortTitle": "Blue Dragon"
+  },
+  "romDependencies": [
+    {
+      "name": "Disc 1",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Asia) (En,Zh,Ko) (Disc 1)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Europe) (En,De,Es) (Disc 1)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Europe) (En,Fr,It) (Disc 1)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Japan, Asia) (Disc 1)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (USA, Europe) (En,Fr) (Disc 1)"
+        }
+      ]
+    },
+    {
+      "name": "Disc 2",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Asia) (En,Zh,Ko) (Disc 2)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Europe) (En,De,Es) (Disc 2)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Europe) (En,Fr,It) (Disc 2)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Japan, Asia) (Disc 2)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (USA, Europe) (En,Fr) (Disc 2)"
+        }
+      ]
+    },
+    {
+      "name": "Disc 3",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Asia) (En,Zh,Ko) (Disc 3)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Europe) (En,De,Es) (Disc 3)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Europe) (En,Fr,It) (Disc 3)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (Japan, Asia) (Disc 3)"
+        },
+        {
+          "_itemType": "Xbox360DiscImage",
+          "title": "Blue Dragon (USA, Europe) (En,Fr) (Disc 3)"
+        }
+      ]
+    }
+  ]
+}

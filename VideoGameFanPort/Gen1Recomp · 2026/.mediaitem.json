@@ -1,0 +1,88 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Gen1Recomp · 2026",
+  "title": "Gen1Recomp",
+  "description": "A native LÖVE2D recreation of Poke Red, Blue, Gold, Silver, and Crystal. The engine and map behavior are hand-written Lua; game data and graphics are decoded from a ROM supplied by the player.\n\nThis project does not include a ROM, emulate the Game Boy, transpile assembly, or download a disassembly. A canonical US Poke Red, Blue, Yellow, Gold, Silver, or Crystal ROM is the only game content input.",
+  "releaseYear": 2026,
+  "versionType": "FanPort",
+  "tags": [
+    "Pokemon",
+    "LÖVE2D",
+    "bryanthaboi"
+  ],
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "romDependencies": [
+    {
+      "name": "Red",
+      "required": false,
+      "options": [
+        {
+          "_itemType": "GBCartRom",
+          "title": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)"
+        }
+      ]
+    },
+    {
+      "name": "Blue",
+      "required": false,
+      "options": [
+        {
+          "_itemType": "GBCartRom",
+          "title": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced)"
+        }
+      ]
+    },
+    {
+      "name": "Yellow",
+      "required": false,
+      "options": [
+        {
+          "_itemType": "GBCartRom",
+          "title": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)"
+        }
+      ]
+    },
+    {
+      "name": "Gold",
+      "required": false,
+      "options": [
+        {
+          "_itemType": "GBCCartRom",
+          "title": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)"
+        }
+      ]
+    },
+    {
+      "name": "Silver",
+      "required": false,
+      "options": [
+        {
+          "_itemType": "GBCCartRom",
+          "title": "Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)"
+        }
+      ]
+    },
+    {
+      "name": "Crystal",
+      "required": false,
+      "options": [
+        {
+          "_itemType": "GBCCartRom",
+          "title": "Pokemon - Crystal Version (USA)"
+        },
+        {
+          "_itemType": "GBCCartRom",
+          "title": "Pokemon - Crystal Version (USA, Europe) (Rev 1)"
+        }
+      ]
+    }
+  ]
+}

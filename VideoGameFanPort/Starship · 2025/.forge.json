@@ -1,0 +1,45 @@
+{
+  "dependencies": ["make", "gcc", "python3", "sdl2-config", "pkg-config", "unzip", "7z"],
+  "uninstallSteps": [
+    { "step": "deletePath", "path": "install" }
+  ],
+  "builds": [
+    {
+      "versions": ["Barnard Alfa"],
+      "targetPlatforms": ["Linux"],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Linux.zip",
+          "dest": ".build/Starship-Barnard-Alfa-Linux.zip"
+        },
+        { "step": "extract", "src": ".build/Starship-Barnard-Alfa-Linux.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/Starship-Barnard-Alfa-Linux.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/rom.z64" },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/starship.appimage", "title": "Play" }
+      ]
+    },
+    {
+      "versions": ["Barnard Alfa"],
+      "targetPlatforms": ["Windows"],
+      "dependencies": [],
+      "steps": [
+        { "step": "createDir", "path": ".build" },
+        {
+          "step": "fetch",
+          "url": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Windows.zip",
+          "dest": ".build/Starship-Barnard-Alfa-Windows.zip"
+        },
+        { "step": "extract", "src": ".build/Starship-Barnard-Alfa-Windows.zip", "dest": ".build" },
+        { "step": "deletePath", "path": ".build/Starship-Barnard-Alfa-Windows.zip" },
+        { "step": "copy", "from": "rom", "dest": "./.build/rom.z64" },
+        { "step": "move", "src": "./.build", "dest": "./install" },
+        { "step": "deletePath", "path": "./.build" },
+        { "step": "defineExecutable", "executable": "install/Starship.exe", "title": "Play" }
+      ]
+    }
+  ]
+}

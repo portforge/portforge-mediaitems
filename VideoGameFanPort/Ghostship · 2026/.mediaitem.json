@@ -1,0 +1,47 @@
+{
+  "_itemType": "VideoGameFanPort",
+  "_parentItemType": {
+    "title": "VideoGameVersion",
+    "schemaVersion": "1.0"
+  },
+  "_itemTitle": "Ghostship · 2026",
+  "title": "Ghostship",
+  "description": "The iconic 3D platformer brought to modern PCs with enhanced features.",
+  "releaseYear": 2020,
+  "versionType": "FanPort",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "videoGame": {
+    "_itemType": "VideoGame",
+    "_itemTitle": "Super Mario 64 · 1996",
+    "releaseYear": 1996,
+    "title": "Super Mario 64",
+    "sortTitle": "Super Mario 64"
+  },
+  "romDependencies": [
+    {
+      "name": "Super Mario 64",
+      "required": true,
+      "options": [
+        {
+          "_itemType": "N64CartRom",
+          "title": "Super Mario 64 (USA)"
+        },
+        {
+          "_itemType": "N64CartRom",
+          "title": "Super Mario 64 (Japan)"
+        }
+      ]
+    }
+  ],
+  "artwork": [
+    {
+      "artworkType": "Cover",
+      "fileExtension": "png",
+      "fileName": "Cover · en · 1.png"
+    }
+  ]
+}
